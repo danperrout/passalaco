@@ -457,9 +457,9 @@ body {
 }
 
 
-@media (max-width: 390px) {
+@media (max-width: 800px) {
     .card-container {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(3, 1fr);
         gap: 1rem;
     }
 }
@@ -513,3 +513,64 @@ body {
     padding-bottom: 0.125rem;
     margin-bottom: 0;
 }
+
+/* Adicione estas novas regras ao seu styles.css */
+
+/* Garanta que o image-wrapper seja um container de posicionamento */
+.image-wrapper {
+    position: relative;
+    /* Já deve estar definido, mas confirme */
+    overflow: hidden;
+    /* Já deve estar definido, mas confirme */
+}
+
+.image-hover-info-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.70);
+    /* Fundo escuro semi-transparente */
+    color: white;
+    /* Texto branco para contraste */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    /* Espaçamento interno */
+    box-sizing: border-box;
+    /* Para que o padding não aumente as dimensões */
+
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.25s ease-in-out, visibility 0s linear 0.25s;
+    /* Transição suave */
+    z-index: 3;
+    /* Acima do .card-info-on-image (que tem z-index: 2) */
+}
+
+.image-wrapper:hover .image-hover-info-overlay {
+    opacity: 1;
+    visibility: visible;
+    transition-delay: 0s;
+    /* Garante que a visibilidade seja imediata ao entrar com o mouse */
+}
+
+.image-hover-info-overlay p {
+    margin: 5px 0;
+    /* Espaçamento entre as linhas de informação */
+    /* O tamanho da fonte é definido pelas classes Tailwind no JS (text-sm) */
+    /* Se não usar Tailwind para isso, defina aqui: font-size: 0.875rem; por exemplo */
+}
+
+/* Se você não estiver usando a classe .font-semibold do Tailwind dentro do overlay, 
+   você pode estilizar o span diretamente:
+*/
+/*
+.image-hover-info-overlay p span:first-child {
+    font-weight: 600; 
+}
+*/

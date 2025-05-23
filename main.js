@@ -189,6 +189,26 @@ function createCostumeCard(fantasia) {
     `;
     imageWrapper.appendChild(statsElement);
 
+    // --- NOVO: Overlay de informações para o hover ---
+    const hoverInfoOverlay = document.createElement('div');
+    hoverInfoOverlay.className = 'image-hover-info-overlay'; // Classe CSS para o overlay
+
+    const categoriaP = document.createElement('p');
+    // Usando classes Tailwind para estilização do texto dentro do overlay se desejar, ou CSS puro.
+    categoriaP.innerHTML = `<span class="font-semibold text-sm">Categoria:</span> <span class="text-sm">${fantasia.categoriaNome}</span>`;
+    hoverInfoOverlay.appendChild(categoriaP);
+
+    const sexoP = document.createElement('p');
+    sexoP.innerHTML = `<span class="font-semibold text-sm">Sexo:</span> <span class="text-sm">${fantasia.sexo}</span>`;
+    hoverInfoOverlay.appendChild(sexoP);
+
+    const tipoP = document.createElement('p');
+    tipoP.innerHTML = `<span class="font-semibold text-sm">Tipo:</span> <span class="text-sm">${fantasia.tipo}</span>`;
+    hoverInfoOverlay.appendChild(tipoP);
+
+    imageWrapper.appendChild(hoverInfoOverlay); // Adiciona o overlay ao imageWrapper
+    // --- FIM DO NOVO OVERLAY ---
+
     imgElement.onload = () => {
         imgElement.classList.add('loaded');
         if (miniLoader) miniLoader.style.display = 'none';
@@ -206,15 +226,13 @@ function createCostumeCard(fantasia) {
     textContentDiv.className = 'p-3 flex-grow flex flex-col';
     textContentDiv.innerHTML = `
         <h3 class="text-base font-semibold text-gray-800 mb-1 truncate" title="${displayName}">${displayName}</h3>
-        <p class="text-xs text-gray-600 mb-0.5"><span class="font-medium">Cat:</span> ${fantasia.categoriaNome}</p>
-        <p class="text-xs text-gray-600 mb-0.5"><span class="font-medium">Sex:</span> ${fantasia.sexo}</p>
-        <p class="text-xs text-gray-600"><span class="font-medium">Tipo:</span> ${fantasia.tipo}</p>
     `;
 
     card.appendChild(imageWrapper);
     card.appendChild(textContentDiv);
     return card;
 }
+// ... (restante do seu código main.js)
 
 function setupImageObserver(cardsToObserve) {
     if (imageObserver) imageObserver.disconnect();
