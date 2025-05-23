@@ -121,7 +121,7 @@ function handleCostumeEvent(key, costumeId) {
     const entry = dataStore[costumeId] || { count: 0, lastEventTime: 0 };
     let currentCount = entry.count;
 
-    console.log(`${(currentTime - entry.lastEventTime)/1000} seconds since last event for costume ${costumeId}.`);
+    console.log(`${(currentTime - entry.lastEventTime) / 1000} seconds since last event for costume ${costumeId}.`);
 
     if (currentTime - entry.lastEventTime > oneMinuteInMillis) {
         currentCount = entry.count + 1;
@@ -131,7 +131,7 @@ function handleCostumeEvent(key, costumeId) {
         } catch (e) {
             console.error(`Erro ao salvar '${key}' no localStorage:`, e);
         }
-    } 
+    }
     return currentCount;
 }
 
@@ -140,7 +140,7 @@ async function fetchFantasias() {
     loadingIndicator.classList.remove('hidden');
     errorMessageContainer.classList.add('hidden');
     try {
-        const response = await fetch('./output/fantasias.json');
+        const response = await fetch('output/fantasias.json');
         if (!response.ok) {
             throw new Error(`Erro HTTP: ${response.status} - ${response.statusText}`);
         }
