@@ -5,6 +5,7 @@ let currentSortDirectionForName = 'asc';
 let currentPage = 1;
 const itemsPerPage = 100;
 
+// Elementos DOM principais
 const costumeContainer = document.getElementById('costumeContainer');
 const filterCategoriaSelect = document.getElementById('filterCategoria');
 const filterSexoCheckboxesContainer = document.getElementById('filterSexoCheckboxes');
@@ -17,11 +18,12 @@ const errorMessageContainer = document.getElementById('errorMessage');
 const resultsCountContainer = document.getElementById('resultsCount');
 const sortByNameButton = document.getElementById('sortByNameButton');
 const sortByViewsButton = document.getElementById('sortByViewsButton');
-const randomSearchButton = document.getElementById('randomSearchButton');
-const activeFiltersDisplay = document.getElementById('activeFiltersDisplay');
+const randomSearchButton = document.getElementById('randomSearchButton'); // Agora na barra fixa
+const activeFiltersDisplay = document.getElementById('activeFiltersDisplay'); // Agora na barra fixa
 const paginationContainerTop = document.getElementById('paginationContainerTop');
 const paginationContainerBottom = document.getElementById('paginationContainerBottom');
 
+// Elementos do Modal
 const costumeModal = document.getElementById('costumeModal');
 const modalCloseButton = document.getElementById('modalCloseButton');
 const modalImage = document.getElementById('modalImage');
@@ -34,63 +36,18 @@ const modalId = document.getElementById('modalId');
 const modalViewCount = document.getElementById('modalViewCount');
 const modalClickCount = document.getElementById('modalClickCount');
 
+// CONSTANTES PARA A NOVA BARRA FIXA
+const customStickyBar = document.getElementById('customStickyBar'); // NOVO ID
+const mainContent = document.getElementById('mainContent');
+let stickyOffset = 0;
 
-const fallbackFantasias = [
-    {
-        "nome": ".",
-        "_id": 6834,
-        "img": 6834,
-        "imgUrl": "https://www.passalaco.com.br/img/6834.jpg",
-        "categoria": 0,
-        "categoriaNome": "Outras",
-        "sexo": "Masculina",
-        "tipo": "Adulta",
-        "criadoEm": "2025-05-22 11:40:13"
-    },
-    {
-        "nome": "Abelha",
-        "_id": 2,
-        "img": 2,
-        "imgUrl": "https://www.passalaco.com.br/img/2.jpg",
-        "categoria": 0,
-        "categoriaNome": "Outras",
-        "sexo": "Feminina",
-        "tipo": "Adulta",
-        "criadoEm": "2025-05-22 11:40:13"
-    },
-    {
-        "nome": "Bruxa Encantada",
-        "_id": 1001,
-        "img": 1001,
-        "imgUrl": "https://placehold.co/280x300/AACCFF/333333?text=Bruxa",
-        "categoria": 1,
-        "categoriaNome": "Vitrine",
-        "sexo": "Feminina",
-        "tipo": "Adulta",
-        "criadoEm": "2025-05-22 11:40:15"
-    },
-    {
-        "nome": "Zorro",
-        "_id": 1002,
-        "img": 1002,
-        "imgUrl": "https://placehold.co/280x300/FFCCAA/333333?text=Zorro",
-        "categoria": 1,
-        "categoriaNome": "Heróis",
-        "sexo": "Masculina",
-        "tipo": "Adulto",
-        "criadoEm": "2025-05-22 11:40:18"
-    },
-    {
-        "nome": "Abelha",
-        "_id": 6675,
-        "img": 6675,
-        "imgUrl": "https://www.passalaco.com.br/img/6675.jpg",
-        "categoria": 0,
-        "categoriaNome": "Outras",
-        "sexo": "Feminina",
-        "tipo": "Infantil",
-        "criadoEm": "2025-05-22 11:40:13"
-    }
+
+const fallbackFantasias = [ // Seus dados de fallback
+    { "nome": ".", "_id": 6834, "img": 6834, "imgUrl": "https://www.passalaco.com.br/img/6834.jpg", "categoria": 0, "categoriaNome": "Outras", "sexo": "Masculina", "tipo": "Adulta", "criadoEm": "2025-05-22 11:40:13" },
+    { "nome": "Abelha", "_id": 2, "img": 2, "imgUrl": "https://www.passalaco.com.br/img/2.jpg", "categoria": 0, "categoriaNome": "Outras", "sexo": "Feminina", "tipo": "Adulta", "criadoEm": "2025-05-22 11:40:13" },
+    { "nome": "Bruxa Encantada", "_id": 1001, "img": 1001, "imgUrl": "https://placehold.co/280x300/AACCFF/333333?text=Bruxa", "categoria": 1, "categoriaNome": "Vitrine", "sexo": "Feminina", "tipo": "Adulta", "criadoEm": "2025-05-22 11:40:15" },
+    { "nome": "Zorro", "_id": 1002, "img": 1002, "imgUrl": "https://placehold.co/280x300/FFCCAA/333333?text=Zorro", "categoria": 1, "categoriaNome": "Heróis", "sexo": "Masculina", "tipo": "Adulto", "criadoEm": "2025-05-22 11:40:18" },
+    { "nome": "Abelha", "_id": 6675, "img": 6675, "imgUrl": "https://www.passalaco.com.br/img/6675.jpg", "categoria": 0, "categoriaNome": "Outras", "sexo": "Feminina", "tipo": "Infantil", "criadoEm": "2025-05-22 11:40:13" }
 ];
 
 const costumeViewDataKey = 'costumeViewData';
@@ -101,7 +58,7 @@ function getCostumeDataFromStorage(key, costumeId) {
         const dataStore = JSON.parse(localStorage.getItem(key)) || {};
         return dataStore[costumeId] || { count: 0, lastEventTime: 0 };
     } catch (e) {
-        console.error(`Erro ao ler '${key}' do localStorage:`, e);
+        // console.error(`Erro ao ler '${key}' do localStorage:`, e);
         return { count: 0, lastEventTime: 0 };
     }
 }
@@ -114,14 +71,12 @@ function handleCostumeEvent(key, costumeId) {
     try {
         dataStore = JSON.parse(localStorage.getItem(key)) || {};
     } catch (e) {
-        console.error(`Erro ao ler '${key}' do localStorage para atualização, resetando dados:`, e);
+        // console.error(`Erro ao ler '${key}' do localStorage para atualização, resetando dados:`, e);
         dataStore = {};
     }
 
     const entry = dataStore[costumeId] || { count: 0, lastEventTime: 0 };
     let currentCount = entry.count;
-
-    // console.log(`${(currentTime - entry.lastEventTime) / 1000} seconds since last event for costume ${costumeId}.`);
 
     if (currentTime - entry.lastEventTime > oneMinuteInMillis) {
         currentCount = entry.count + 1;
@@ -129,16 +84,15 @@ function handleCostumeEvent(key, costumeId) {
         try {
             localStorage.setItem(key, JSON.stringify(dataStore));
         } catch (e) {
-            console.error(`Erro ao salvar '${key}' no localStorage:`, e);
+            // console.error(`Erro ao salvar '${key}' no localStorage:`, e);
         }
     }
     return currentCount;
 }
 
-
 async function fetchFantasias() {
-    loadingIndicator.classList.remove('hidden');
-    errorMessageContainer.classList.add('hidden');
+    if (loadingIndicator) loadingIndicator.classList.remove('hidden');
+    if (errorMessageContainer) errorMessageContainer.classList.add('hidden');
     try {
         const response = await fetch('output/fantasias.json');
         if (!response.ok) {
@@ -146,7 +100,6 @@ async function fetchFantasias() {
         }
         const data = await response.json();
         fantasias = data;
-        console.log("Fantasias carregadas do arquivo JSON.");
         initializeApp();
     } catch (error) {
         console.warn('Falha ao carregar fantasias do arquivo JSON, usando dados de fallback:', error);
@@ -156,13 +109,13 @@ async function fetchFantasias() {
 }
 
 function openCostumeModal(fantasia) {
+    if (!costumeModal) return;
     const viewInfo = getCostumeDataFromStorage(costumeViewDataKey, fantasia._id);
     const clickInfoCount = handleCostumeEvent(costumeImageClickDataKey, fantasia._id);
 
     modalImage.src = fantasia.imgUrl;
     modalImage.style.display = 'block';
     modalImagePlaceholder.classList.add('hidden');
-
     modalImage.onerror = () => {
         modalImage.style.display = 'none';
         modalImagePlaceholder.classList.remove('hidden');
@@ -174,10 +127,9 @@ function openCostumeModal(fantasia) {
     modalSexo.textContent = fantasia.sexo;
     modalTipo.textContent = fantasia.tipo;
     modalId.textContent = fantasia._id;
-    modalViewCount.textContent = viewInfo.count; // View count no modal é o total atual
-    modalClickCount.textContent = clickInfoCount; // Click count no modal é o total atual
+    modalViewCount.textContent = viewInfo.count;
+    modalClickCount.textContent = clickInfoCount;
 
-    // Atualiza o contador de cliques no card, se o card ainda estiver visível/existir
     const cardClickCountSpan = document.querySelector(`#card-click-count-${fantasia._id}`);
     if (cardClickCountSpan) {
         cardClickCountSpan.textContent = clickInfoCount;
@@ -188,6 +140,7 @@ function openCostumeModal(fantasia) {
 }
 
 function closeCostumeModal() {
+    if (!costumeModal) return;
     costumeModal.classList.remove('active');
     document.body.style.overflow = '';
     modalImage.src = "";
@@ -195,15 +148,14 @@ function closeCostumeModal() {
     modalImagePlaceholder.classList.add('hidden');
 }
 
-
 function createCostumeCard(fantasia) {
     const displayName = fantasia.nome === "." ? "Sem Nome" : fantasia.nome;
     const card = document.createElement('div');
-    card.className = 'card flex flex-col';
+    card.className = 'card';
     card.dataset.fantasiaId = fantasia._id;
 
     const imageWrapper = document.createElement('div');
-    imageWrapper.className = 'image-wrapper'; // Estilos definidos no CSS (altura, position relative, etc.)
+    imageWrapper.className = 'image-wrapper';
     imageWrapper.addEventListener('click', () => openCostumeModal(fantasia));
 
     const miniLoader = document.createElement('div');
@@ -212,7 +164,6 @@ function createCostumeCard(fantasia) {
     const imgElement = document.createElement('img');
     imgElement.dataset.src = fantasia.imgUrl;
     imgElement.alt = `[Imagem de ${displayName}]`;
-    // A classe 'loaded' será adicionada no onload
 
     const placeholderText = document.createElement('div');
     placeholderText.className = 'image-placeholder-text hidden';
@@ -225,16 +176,13 @@ function createCostumeCard(fantasia) {
     const initialViewInfo = getCostumeDataFromStorage(costumeViewDataKey, fantasia._id);
     const initialClickInfo = getCostumeDataFromStorage(costumeImageClickDataKey, fantasia._id);
 
-    // ID no canto superior esquerdo da imagem
     const idElement = document.createElement('div');
-    // Usando classes Tailwind para posicionamento e a classe CSS para aparência
     idElement.className = 'absolute top-1.5 left-1.5 card-info-on-image';
     idElement.textContent = `ID: ${fantasia._id}`;
     imageWrapper.appendChild(idElement);
 
-    // Contadores de Visualizações e Cliques no canto inferior direito da imagem
     const statsElement = document.createElement('div');
-    statsElement.className = 'absolute bottom-1.5 right-1.5 card-info-on-image'; // flex e items-center já estão no CSS
+    statsElement.className = 'absolute bottom-1.5 right-1.5 card-info-on-image';
     statsElement.innerHTML = `
         <span class="mr-0.5">👁️</span> <span id="view-count-${fantasia._id}">${initialViewInfo.count}</span>
         <span class="ml-1.5 mr-0.5">📸</span> <span id="card-click-count-${fantasia._id}">${initialClickInfo.count}</span>
@@ -243,25 +191,19 @@ function createCostumeCard(fantasia) {
 
     imgElement.onload = () => {
         imgElement.classList.add('loaded');
-        miniLoader.style.display = 'none';
-
-        // Atualiza a contagem de visualizações DO CARD (não confundir com modal)
-        // O evento de visualização do card é contado aqui, quando a imagem carrega e se torna visível
+        if (miniLoader) miniLoader.style.display = 'none';
         const updatedViewCount = handleCostumeEvent(costumeViewDataKey, fantasia._id);
-        const viewCountSpan = card.querySelector(`#view-count-${fantasia._id}`); // Busca o span dentro do card
-        if (viewCountSpan) {
-            viewCountSpan.textContent = updatedViewCount;
-        }
+        const viewCountSpan = card.querySelector(`#view-count-${fantasia._id}`);
+        if (viewCountSpan) viewCountSpan.textContent = updatedViewCount;
     };
     imgElement.onerror = () => {
-        miniLoader.style.display = 'none';
-        placeholderText.classList.remove('hidden');
-        imgElement.style.display = 'none'; // Esconde o ícone de imagem quebrada
+        if (miniLoader) miniLoader.style.display = 'none';
+        if (placeholderText) placeholderText.classList.remove('hidden');
+        imgElement.style.display = 'none';
     };
 
     const textContentDiv = document.createElement('div');
-    // Usando classes Tailwind para padding e layout de texto compacto
-    textContentDiv.className = 'p-3 flex-grow flex flex-col'; // p-3 = padding 0.75rem
+    textContentDiv.className = 'p-3 flex-grow flex flex-col';
     textContentDiv.innerHTML = `
         <h3 class="text-base font-semibold text-gray-800 mb-1 truncate" title="${displayName}">${displayName}</h3>
         <p class="text-xs text-gray-600 mb-0.5"><span class="font-medium">Cat:</span> ${fantasia.categoriaNome}</p>
@@ -271,39 +213,32 @@ function createCostumeCard(fantasia) {
 
     card.appendChild(imageWrapper);
     card.appendChild(textContentDiv);
-
     return card;
 }
 
-
 function setupImageObserver(cardsToObserve) {
-    if (imageObserver) {
-        imageObserver.disconnect();
-    }
+    if (imageObserver) imageObserver.disconnect();
     const options = { root: null, rootMargin: '0px', threshold: 0.1 };
     imageObserver = new IntersectionObserver((entries, observer) => {
         entries.forEach(entry => {
             if (entry.isIntersecting) {
                 const img = entry.target.querySelector('img[data-src]');
-                if (img && !img.src) { // Verifica se a imagem já não foi carregada
+                if (img && !img.src) {
                     img.src = img.dataset.src;
-                    // Não desobserve imediatamente aqui se quiser recontar views se o card sair e voltar à tela
-                    // Mas para lazy loading simples, desobservar é bom para performance.
-                    // Para a contagem de views no card ao se tornar visível, o img.onload já trata.
-                    // observer.unobserve(entry.target); // Removido para permitir que o onload sempre dispare se a img.src for resetada
                 }
             }
         });
     }, options);
     cardsToObserve.forEach(cardEl => {
         const img = cardEl.querySelector('img[data-src]');
-        if (img && !img.src) { // Observe apenas se a imagem ainda não foi carregada
-            imageObserver.observe(cardEl); // Observa o card (ou a imageWrapper)
+        if (img && !img.classList.contains('loaded')) {
+            imageObserver.observe(cardEl);
         }
     });
 }
 
 function createCheckboxGroup(container, items, groupName, changeHandler) {
+    if (!container) return;
     container.innerHTML = '';
     items.forEach(item => {
         if (item) {
@@ -324,24 +259,23 @@ function createCheckboxGroup(container, items, groupName, changeHandler) {
 
 function populateFilters() {
     if (!fantasias || fantasias.length === 0) return;
-    const categoriasUnicas = [...new Set(fantasias.map(f => f.categoriaNome))].sort();
-    const sexos = [...new Set(fantasias.map(f => f.sexo))].sort();
-    const tipos = [...new Set(fantasias.map(f => f.tipo))].sort();
+    const categoriasUnicas = [...new Set(fantasias.map(f => f.categoriaNome).filter(Boolean))].sort();
+    const sexos = [...new Set(fantasias.map(f => f.sexo).filter(Boolean))].sort();
+    const tipos = [...new Set(fantasias.map(f => f.tipo).filter(Boolean))].sort();
 
-    while (filterCategoriaSelect.options.length > 1) filterCategoriaSelect.remove(1);
-
-    categoriasUnicas.forEach(cat => {
-        if (cat) {
+    if (filterCategoriaSelect) {
+        while (filterCategoriaSelect.options.length > 1) filterCategoriaSelect.remove(1);
+        categoriasUnicas.forEach(cat => {
             const count = fantasias.filter(f => f.categoriaNome === cat).length;
             const option = document.createElement('option');
             option.value = cat;
             option.textContent = `${cat} (${count})`;
             filterCategoriaSelect.appendChild(option);
-        }
-    });
+        });
+    }
     const checkboxChangeHandler = () => { currentPage = 1; applyFiltersAndSort(null); };
-    createCheckboxGroup(filterSexoCheckboxesContainer, sexos, 'sexo', checkboxChangeHandler);
-    createCheckboxGroup(filterTipoCheckboxesContainer, tipos, 'tipo', checkboxChangeHandler);
+    if (filterSexoCheckboxesContainer) createCheckboxGroup(filterSexoCheckboxesContainer, sexos, 'sexo', checkboxChangeHandler);
+    if (filterTipoCheckboxesContainer) createCheckboxGroup(filterTipoCheckboxesContainer, tipos, 'tipo', checkboxChangeHandler);
 }
 
 function getSelectedCheckboxValues(groupName) {
@@ -350,32 +284,27 @@ function getSelectedCheckboxValues(groupName) {
 }
 
 function updateActiveFiltersDisplay() {
+    if (!activeFiltersDisplay) return;
     const activeFilters = [];
-    const selectedCategoriaValue = filterCategoriaSelect.value;
+    const selectedCategoriaValue = filterCategoriaSelect ? filterCategoriaSelect.value : "";
     const selectedSexosValues = getSelectedCheckboxValues('sexo');
     const selectedTiposValues = getSelectedCheckboxValues('tipo');
-    const searchTermValue = searchNomeInput.value.trim();
+    const searchTermValue = searchNomeInput ? searchNomeInput.value.trim() : "";
 
     if (selectedCategoriaValue) {
-        const catOption = Array.from(filterCategoriaSelect.options).find(opt => opt.value === selectedCategoriaValue);
-        activeFilters.push(`Categoria: ${catOption ? catOption.textContent.split(' (')[0] : selectedCategoriaValue}`);
+        const catOptionText = filterCategoriaSelect.options[filterCategoriaSelect.selectedIndex]?.textContent.split(' (')[0];
+        activeFilters.push(`Cat: ${catOptionText || selectedCategoriaValue}`);
     }
-    if (selectedSexosValues.length > 0) {
-        activeFilters.push(`Sexo: ${selectedSexosValues.join(', ')}`);
-    }
-    if (selectedTiposValues.length > 0) {
-        activeFilters.push(`Tipo: ${selectedTiposValues.join(', ')}`);
-    }
-    if (searchTermValue) {
-        activeFilters.push(`Busca: "${searchTermValue}"`);
-    }
+    if (selectedSexosValues.length > 0) activeFilters.push(`Sexo: ${selectedSexosValues.join(', ')}`);
+    if (selectedTiposValues.length > 0) activeFilters.push(`Tipo: ${selectedTiposValues.join(', ')}`);
+    if (searchTermValue) activeFilters.push(`Busca: "${searchTermValue}"`);
 
     if (activeFilters.length > 0) {
-        activeFiltersDisplay.innerHTML = `<strong class="font-semibold">Filtros Ativos:</strong> ${activeFilters.join('; ')}`;
+        activeFiltersDisplay.innerHTML = `<span class="font-semibold">Filtros:</span> ${activeFilters.join('; ')}`;
         activeFiltersDisplay.classList.remove('hidden');
     } else {
-        activeFiltersDisplay.textContent = '';
-        activeFiltersDisplay.classList.add('hidden');
+        activeFiltersDisplay.innerHTML = 'Passa Laço'; // Ou ocultar
+        // activeFiltersDisplay.classList.add('hidden'); 
     }
 }
 
@@ -383,107 +312,69 @@ function toggleButtonLoading(button, isLoading) {
     if (!button) return;
     const textSpan = button.querySelector('.btn-text');
     const loaderSpan = button.querySelector('.btn-loader-icon');
-
-    if (isLoading) {
-        button.disabled = true;
-        if (textSpan) textSpan.style.display = 'none'; // Esconde o texto
-        if (loaderSpan) {
-            loaderSpan.classList.add('btn-loader'); // Adiciona a classe para animação
-            loaderSpan.style.display = 'inline-block'; // Mostra o loader
-        }
-    } else {
-        button.disabled = false;
-        if (textSpan) textSpan.style.display = 'inline'; // Mostra o texto
-        if (loaderSpan) {
-            loaderSpan.classList.remove('btn-loader'); // Remove a classe de animação
-            loaderSpan.style.display = 'none'; // Esconde o loader
+    button.disabled = isLoading;
+    if (textSpan) textSpan.style.opacity = isLoading ? '0' : '1';
+    if (loaderSpan) {
+        if (isLoading) {
+            loaderSpan.classList.add('btn-loader');
+            loaderSpan.style.display = 'inline-block';
+        } else {
+            loaderSpan.classList.remove('btn-loader');
+            loaderSpan.style.display = 'none';
         }
     }
 }
 
-
 function createPaginationControls(container, totalItems, page) {
+    if (!container) return;
     container.innerHTML = '';
     const totalPages = Math.ceil(totalItems / itemsPerPage);
-
-    if (totalPages <= 1) {
-        // Não mostra paginação se houver 0 ou 1 página
-        // A contagem de resultados já é atualizada em applyFiltersAndSort
-        return;
-    }
+    if (totalPages <= 1) return;
 
     const pageButton = (pageNum, text, isDisabled = false, isActive = false) => {
         const button = document.createElement('button');
         const textSpan = document.createElement('span');
-        textSpan.className = 'btn-text';
-        textSpan.textContent = text || pageNum;
+        textSpan.className = 'btn-text'; textSpan.textContent = text || pageNum;
         const loaderSpan = document.createElement('span');
-        loaderSpan.className = 'btn-loader-icon hidden'; // Mantém hidden inicialmente
-
-        button.appendChild(textSpan);
-        button.appendChild(loaderSpan);
+        loaderSpan.className = 'btn-loader-icon hidden';
+        button.appendChild(textSpan); button.appendChild(loaderSpan);
         button.className = 'pagination-button';
-
         if (isActive) button.classList.add('active');
         button.disabled = isDisabled;
         button.addEventListener('click', function () {
-            if (this.disabled || this.classList.contains('active')) return; // Não faz nada se desabilitado ou já ativo
-            toggleButtonLoading(this, true); // Mostra loader no botão clicado
-            currentPage = pageNum;
-            applyFiltersAndSort(this); // Passa o botão para desativar o loader depois
-            // Scroll para o topo do container de fantasias
-            window.scrollTo({ top: costumeContainer.offsetTop - 100, behavior: 'smooth' });
+            if (this.disabled || this.classList.contains('active')) return;
+            toggleButtonLoading(this, true); currentPage = pageNum; applyFiltersAndSort(this);
+            if (costumeContainer) {
+                let offset = (customStickyBar && customStickyBar.classList.contains('sticky')) ? customStickyBar.offsetHeight : 0;
+                window.scrollTo({ top: costumeContainer.offsetTop - offset - 20, behavior: 'smooth' });
+            }
         });
         return button;
     };
 
-    // Botão "Anterior"
     container.appendChild(pageButton(page - 1, 'Anterior', page === 1));
-
-    // Lógica para exibir números de página (simplificada para exemplo)
-    const maxPagesToShow = 5; // Total de botões de página (excluindo prev/next)
-    let startPageNum = 1;
-    let endPageNum = totalPages;
-
+    const maxPagesToShow = 5; let startPageNum = 1; let endPageNum = totalPages;
     if (totalPages > maxPagesToShow) {
-        let middle = Math.ceil(maxPagesToShow / 2);
-        if (page > middle) {
-            startPageNum = Math.min(page - middle + 1, totalPages - maxPagesToShow + 1);
-        }
-        endPageNum = Math.min(startPageNum + maxPagesToShow - 1, totalPages);
-        startPageNum = Math.max(1, endPageNum - maxPagesToShow + 1); // Recalcula startPage para garantir maxPagesToShow
-
-        if (startPageNum > 1) {
-            container.appendChild(pageButton(1, '1', false, 1 === page));
-            if (startPageNum > 2) {
-                const dots = document.createElement('span');
-                dots.textContent = '...';
-                dots.className = 'px-2 py-1';
-                container.appendChild(dots);
-            }
-        }
+        let pagesBefore = Math.floor((maxPagesToShow - 3) / 2);
+        let pagesAfter = Math.ceil((maxPagesToShow - 3) / 2);
+        if (page <= pagesBefore + 1) endPageNum = maxPagesToShow - 1;
+        else if (page >= totalPages - pagesAfter) startPageNum = totalPages - maxPagesToShow + 2;
+        else { startPageNum = page - pagesBefore; endPageNum = page + pagesAfter; }
     }
-
+    if (startPageNum > 1) {
+        container.appendChild(pageButton(1, '1', false, 1 === page));
+        if (startPageNum > 2) { const dots = document.createElement('span'); dots.textContent = '...'; dots.className = 'px-2 py-1 self-center'; container.appendChild(dots); }
+    }
     for (let i = startPageNum; i <= endPageNum; i++) {
-        container.appendChild(pageButton(i, null, false, i === page));
+        if (i > 0 && i <= totalPages) container.appendChild(pageButton(i, null, false, i === page));
     }
-
-    if (totalPages > maxPagesToShow && endPageNum < totalPages) {
-        if (endPageNum < totalPages - 1) {
-            const dots = document.createElement('span');
-            dots.textContent = '...';
-            dots.className = 'px-2 py-1';
-            container.appendChild(dots);
-        }
+    if (endPageNum < totalPages) {
+        if (endPageNum < totalPages - 1) { const dots = document.createElement('span'); dots.textContent = '...'; dots.className = 'px-2 py-1 self-center'; container.appendChild(dots); }
         container.appendChild(pageButton(totalPages, totalPages, false, totalPages === page));
     }
-
-
-    // Botão "Próxima"
     container.appendChild(pageButton(page + 1, 'Próxima', page === totalPages));
 }
 
-// Funções para URL
 function getFiltersFromURL() {
     const params = new URLSearchParams(window.location.search);
     const filters = {};
@@ -491,65 +382,35 @@ function getFiltersFromURL() {
     if (params.has('sexo')) filters.sexo = params.get('sexo').split(',');
     if (params.has('tipo')) filters.tipo = params.get('tipo').split(',');
     if (params.has('busca')) filters.busca = params.get('busca');
-    if (params.has('pagina')) filters.pagina = parseInt(params.get('pagina'), 10);
+    if (params.has('pagina')) filters.pagina = parseInt(params.get('pagina'), 10) || 1;
     if (params.has('ordem')) filters.ordem = params.get('ordem');
     if (params.has('dir')) filters.dir = params.get('dir');
     return filters;
 }
 
 function setFiltersFromStateObject(filters) {
-    if (filters.categoria) filterCategoriaSelect.value = filters.categoria;
-    else filterCategoriaSelect.value = "";
-
-    if (filters.busca) searchNomeInput.value = filters.busca;
-    else searchNomeInput.value = "";
-
-
-    document.querySelectorAll('input[name="sexo"]').forEach(cb => {
-        cb.checked = filters.sexo ? filters.sexo.includes(cb.value) : false;
-    });
-    document.querySelectorAll('input[name="tipo"]').forEach(cb => {
-        cb.checked = filters.tipo ? filters.tipo.includes(cb.value) : false;
-    });
-
+    if (filterCategoriaSelect) filterCategoriaSelect.value = filters.categoria || "";
+    if (searchNomeInput) searchNomeInput.value = filters.busca || "";
+    document.querySelectorAll('input[name="sexo"]').forEach(cb => { cb.checked = !!(filters.sexo && filters.sexo.includes(cb.value)); });
+    document.querySelectorAll('input[name="tipo"]').forEach(cb => { cb.checked = !!(filters.tipo && filters.tipo.includes(cb.value)); });
     currentSortType = filters.ordem || 'default';
     currentSortDirectionForName = filters.dir || 'asc';
-
-
-    if (currentSortType === 'name') {
-        sortByNameButton.querySelector('.btn-text').textContent = `Ordenar por Nome (${currentSortDirectionForName === 'asc' ? 'A-Z' : 'Z-A'})`;
-    } else {
-        sortByNameButton.querySelector('.btn-text').textContent = `Ordenar por Nome (A-Z)`; // Reset visual
-    }
-    // Visualmente desativa outros botões de ordenação se um estiver ativo (opcional)
-    // sortByViewsButton.classList.toggle('active-sort', currentSortType === 'views');
-    // sortByNameButton.classList.toggle('active-sort', currentSortType === 'name');
+    if (sortByNameButton) sortByNameButton.querySelector('.btn-text').textContent = `Ordenar por Nome (${currentSortType === 'name' && currentSortDirectionForName === 'desc' ? 'Z-A' : 'A-Z'})`;
 }
 
 function updateURLFromCurrentFilters() {
     const params = new URLSearchParams();
-    const selectedCategoria = filterCategoriaSelect.value;
-    const selectedSexos = getSelectedCheckboxValues('sexo');
-    const selectedTipos = getSelectedCheckboxValues('tipo');
-    const searchTerm = searchNomeInput.value.trim();
-
-    if (selectedCategoria) params.set('categoria', selectedCategoria);
-    if (selectedSexos.length > 0) params.set('sexo', selectedSexos.join(','));
-    if (selectedTipos.length > 0) params.set('tipo', selectedTipos.join(','));
-    if (searchTerm) params.set('busca', searchTerm);
+    if (filterCategoriaSelect && filterCategoriaSelect.value) params.set('categoria', filterCategoriaSelect.value);
+    const selectedSexos = getSelectedCheckboxValues('sexo'); if (selectedSexos.length > 0) params.set('sexo', selectedSexos.join(','));
+    const selectedTipos = getSelectedCheckboxValues('tipo'); if (selectedTipos.length > 0) params.set('tipo', selectedTipos.join(','));
+    if (searchNomeInput && searchNomeInput.value.trim()) params.set('busca', searchNomeInput.value.trim());
     if (currentPage > 1) params.set('pagina', currentPage);
-
     if (currentSortType !== 'default') {
         params.set('ordem', currentSortType);
-        if (currentSortType === 'name') {
-            params.set('dir', currentSortDirectionForName);
-        }
+        if (currentSortType === 'name') params.set('dir', currentSortDirectionForName);
     }
-
     const newQueryString = params.toString();
-    const currentQueryString = window.location.search.substring(1); // Remove o '?'
-
-    // Só atualiza se a URL realmente mudou para evitar loops com popstate e entradas desnecessárias no histórico
+    const currentQueryString = window.location.search.substring(1);
     if (newQueryString !== currentQueryString) {
         const newURL = `${window.location.pathname}${newQueryString ? '?' + newQueryString : ''}`;
         history.pushState({ path: newURL, filters: getCurrentFiltersStateForHistory() }, '', newURL);
@@ -557,46 +418,41 @@ function updateURLFromCurrentFilters() {
 }
 
 function getCurrentFiltersStateForHistory() {
-    // Helper para pegar o estado atual dos filtros para o history.pushState
     return {
-        categoria: filterCategoriaSelect.value,
+        categoria: filterCategoriaSelect ? filterCategoriaSelect.value : "",
         sexo: getSelectedCheckboxValues('sexo'),
         tipo: getSelectedCheckboxValues('tipo'),
-        busca: searchNomeInput.value.trim(),
+        busca: searchNomeInput ? searchNomeInput.value.trim() : "",
         pagina: currentPage,
         ordem: currentSortType,
         dir: currentSortDirectionForName
     };
 }
 
-
-let filterTimeout;
+let filterApplyTimeout; // Renomeado para evitar conflito com filterTimeout global se houver
 function applyFiltersAndSort(initiatingButton = null, updateUrl = true) {
     if (!fantasias) return;
-
-    // Mostra o loader principal apenas se não for uma ação de botão específico (que tem seu próprio loader)
-    if (!initiatingButton) {
+    if (!initiatingButton && loadingIndicator) {
         loadingIndicator.classList.remove('hidden');
-        costumeContainer.innerHTML = ''; // Limpa resultados antigos para mostrar loader
-        paginationContainerTop.innerHTML = '';
-        paginationContainerBottom.innerHTML = '';
-        resultsCountContainer.textContent = 'Carregando...';
+        if (costumeContainer) costumeContainer.innerHTML = '';
+        if (paginationContainerTop) paginationContainerTop.innerHTML = '';
+        if (paginationContainerBottom) paginationContainerBottom.innerHTML = '';
+        if (resultsCountContainer) resultsCountContainer.textContent = 'Carregando...';
     }
-    noResultsMessage.classList.add('hidden');
+    if (noResultsMessage) noResultsMessage.classList.add('hidden');
 
-
-    clearTimeout(filterTimeout);
-    filterTimeout = setTimeout(() => {
-        const selectedCategoria = filterCategoriaSelect.value;
+    clearTimeout(filterApplyTimeout);
+    filterApplyTimeout = setTimeout(() => {
+        const selectedCategoria = filterCategoriaSelect ? filterCategoriaSelect.value : "";
         const selectedSexos = getSelectedCheckboxValues('sexo');
         const selectedTipos = getSelectedCheckboxValues('tipo');
-        const searchTerm = searchNomeInput.value.toLowerCase().trim();
+        const searchTerm = searchNomeInput ? searchNomeInput.value.toLowerCase().trim() : "";
 
         let filteredAndSortedFantasias = fantasias.filter(fantasia => {
             const searchId = String(fantasia._id);
-            const nameOrIdMatches = fantasia.nome.toLowerCase().includes(searchTerm) ||
-                (fantasia.nome === "." && ("sem nome".includes(searchTerm) || searchTerm === ".")) ||
-                searchId.includes(searchTerm);
+            const nameMatches = fantasia.nome.toLowerCase().includes(searchTerm) || (fantasia.nome === "." && ("sem nome".includes(searchTerm) || searchTerm === "."));
+            const idMatches = searchId.includes(searchTerm);
+            const nameOrIdMatches = nameMatches || idMatches;
             const categoriaMatches = !selectedCategoria || fantasia.categoriaNome === selectedCategoria;
             const sexoMatches = selectedSexos.length === 0 || selectedSexos.includes(fantasia.sexo);
             const tipoMatches = selectedTipos.length === 0 || selectedTipos.includes(fantasia.tipo);
@@ -605,7 +461,7 @@ function applyFiltersAndSort(initiatingButton = null, updateUrl = true) {
 
         if (currentSortType === 'name') {
             filteredAndSortedFantasias.sort((a, b) => {
-                const nameA = a.nome === "." ? "zzzzzz" : a.nome.toLowerCase(); // "zzzzzz" para "Sem Nome" ir para o fim em ASC
+                const nameA = a.nome === "." ? "zzzzzz" : a.nome.toLowerCase();
                 const nameB = b.nome === "." ? "zzzzzz" : b.nome.toLowerCase();
                 if (nameA < nameB) return currentSortDirectionForName === 'asc' ? -1 : 1;
                 if (nameA > nameB) return currentSortDirectionForName === 'asc' ? 1 : -1;
@@ -613,188 +469,171 @@ function applyFiltersAndSort(initiatingButton = null, updateUrl = true) {
             });
         } else if (currentSortType === 'views') {
             filteredAndSortedFantasias.sort((a, b) => {
-                // É importante que getCostumeDataFromStorage não modifique os dados aqui, apenas leia
                 const viewsA = getCostumeDataFromStorage(costumeViewDataKey, a._id).count;
                 const viewsB = getCostumeDataFromStorage(costumeViewDataKey, b._id).count;
-                return viewsB - viewsA; // Mais vistas primeiro
+                return viewsB - viewsA;
             });
         }
-        // Se currentSortType === 'default', mantém a ordem original do JSON (ou do filtro anterior)
 
         const totalFilteredItems = filteredAndSortedFantasias.length;
         const totalPages = Math.ceil(totalFilteredItems / itemsPerPage);
-        currentPage = Math.max(1, Math.min(currentPage, totalPages || 1)); // Garante que a página seja válida
-
+        currentPage = Math.max(1, Math.min(currentPage, totalPages || 1));
         const startIndex = (currentPage - 1) * itemsPerPage;
         const endIndex = startIndex + itemsPerPage;
         const itemsForCurrentPage = filteredAndSortedFantasias.slice(startIndex, endIndex);
 
-        costumeContainer.innerHTML = ''; // Limpa o container antes de adicionar novos cards
+        if (costumeContainer) costumeContainer.innerHTML = '';
         const currentCardsOnPage = [];
-
         if (itemsForCurrentPage.length === 0 && fantasias.length > 0) {
-            noResultsMessage.classList.remove('hidden');
+            if (noResultsMessage) noResultsMessage.classList.remove('hidden');
         } else {
             itemsForCurrentPage.forEach(fantasia => {
                 const cardElement = createCostumeCard(fantasia);
-                currentCardsOnPage.push(cardElement); // Adiciona o elemento DOM do card
-                costumeContainer.appendChild(cardElement);
+                currentCardsOnPage.push(cardElement);
+                if (costumeContainer) costumeContainer.appendChild(cardElement);
             });
-            // Reconfigura o observer para os novos cards na página
-            if (currentCardsOnPage.length > 0) {
-                setupImageObserver(currentCardsOnPage);
-            }
+            if (currentCardsOnPage.length > 0) setupImageObserver(currentCardsOnPage);
         }
 
-        const startItemNum = totalFilteredItems > 0 ? startIndex + 1 : 0;
-        const endItemNum = Math.min(endIndex, totalFilteredItems);
-        resultsCountContainer.textContent = `Exibindo ${startItemNum}-${endItemNum} de ${totalFilteredItems} fantasias. (Total no catálogo: ${fantasias.length})`;
-
+        if (resultsCountContainer) {
+            const startItemNum = totalFilteredItems > 0 ? startIndex + 1 : 0;
+            const endItemNum = Math.min(endIndex, totalFilteredItems);
+            resultsCountContainer.textContent = `Exibindo ${startItemNum}-${endItemNum} de ${totalFilteredItems} fantasias. (Total: ${fantasias.length})`;
+        }
         updateActiveFiltersDisplay();
-        createPaginationControls(paginationContainerTop, totalFilteredItems, currentPage);
-        createPaginationControls(paginationContainerBottom, totalFilteredItems, currentPage);
-
-        if (updateUrl) {
-            updateURLFromCurrentFilters();
-        }
-
-        // Desativa o loader do botão que iniciou a ação (se houver)
-        if (initiatingButton) {
-            toggleButtonLoading(initiatingButton, false);
-        }
-        // Desativa o loader principal
-        loadingIndicator.classList.add('hidden');
-
-    }, searchNomeInput === document.activeElement || initiatingButton ? 150 : 50); // Delay menor se for interação direta
+        if (paginationContainerTop) createPaginationControls(paginationContainerTop, totalFilteredItems, currentPage);
+        if (paginationContainerBottom) createPaginationControls(paginationContainerBottom, totalFilteredItems, currentPage);
+        if (updateUrl) updateURLFromCurrentFilters();
+        if (initiatingButton) toggleButtonLoading(initiatingButton, false);
+        if (loadingIndicator) loadingIndicator.classList.add('hidden');
+    }, searchNomeInput === document.activeElement || initiatingButton ? 100 : 50);
 }
 
 function handleSortByNameClick() {
-    const button = sortByNameButton;
-    toggleButtonLoading(button, true);
-    if (currentSortType === 'name') {
-        currentSortDirectionForName = currentSortDirectionForName === 'asc' ? 'desc' : 'asc';
-    } else {
-        currentSortType = 'name';
-        currentSortDirectionForName = 'asc'; // Padrão para ASC ao mudar para ordenação por nome
-    }
-    button.querySelector('.btn-text').textContent = `Ordenar por Nome (${currentSortDirectionForName === 'asc' ? 'A-Z' : 'Z-A'})`;
-    currentPage = 1;
-    applyFiltersAndSort(button);
+    if (!sortByNameButton) return;
+    toggleButtonLoading(sortByNameButton, true);
+    if (currentSortType === 'name') currentSortDirectionForName = currentSortDirectionForName === 'asc' ? 'desc' : 'asc';
+    else { currentSortType = 'name'; currentSortDirectionForName = 'asc'; }
+    sortByNameButton.querySelector('.btn-text').textContent = `Ordenar por Nome (${currentSortDirectionForName === 'asc' ? 'A-Z' : 'Z-A'})`;
+    currentPage = 1; applyFiltersAndSort(sortByNameButton);
 }
 
 function handleSortByViewsClick() {
-    const button = sortByViewsButton;
-    toggleButtonLoading(button, true);
+    if (!sortByViewsButton) return;
+    toggleButtonLoading(sortByViewsButton, true);
     currentSortType = 'views';
-    // Reset visual do botão de nome
-    sortByNameButton.querySelector('.btn-text').textContent = `Ordenar por Nome (A-Z)`;
-    currentSortDirectionForName = 'asc'; // Reset direção do nome
-    currentPage = 1;
-    applyFiltersAndSort(button);
+    if (sortByNameButton) sortByNameButton.querySelector('.btn-text').textContent = `Ordenar por Nome (A-Z)`;
+    currentSortDirectionForName = 'asc'; currentPage = 1; applyFiltersAndSort(sortByViewsButton);
 }
 
 function resetAllFilterStates() {
-    searchNomeInput.value = '';
-    filterCategoriaSelect.value = '';
-
+    if (searchNomeInput) searchNomeInput.value = '';
+    if (filterCategoriaSelect) filterCategoriaSelect.value = '';
     document.querySelectorAll('input[name="sexo"]').forEach(cb => cb.checked = false);
     document.querySelectorAll('input[name="tipo"]').forEach(cb => cb.checked = false);
-
-    currentSortType = 'default';
-    currentSortDirectionForName = 'asc';
-    sortByNameButton.querySelector('.btn-text').textContent = `Ordenar por Nome (A-Z)`;
+    currentSortType = 'default'; currentSortDirectionForName = 'asc';
+    if (sortByNameButton) sortByNameButton.querySelector('.btn-text').textContent = `Ordenar por Nome (A-Z)`;
     currentPage = 1;
 }
 
 function handleRandomSearchClick() {
-    const button = randomSearchButton;
-    toggleButtonLoading(button, true);
-    resetAllFilterStates();
-
+    if (!randomSearchButton) return;
+    toggleButtonLoading(randomSearchButton, true); resetAllFilterStates();
     if (fantasias.length > 0) {
         const randomIndex = Math.floor(Math.random() * fantasias.length);
         const randomCostume = fantasias[randomIndex];
-        // Preenche o campo de busca com o nome da fantasia aleatória (ou ID se nome for '.')
-        searchNomeInput.value = randomCostume.nome === "." ? String(randomCostume._id) : randomCostume.nome;
+        if (searchNomeInput) searchNomeInput.value = randomCostume.nome === "." ? String(randomCostume._id) : randomCostume.nome;
     }
-    applyFiltersAndSort(button);
+    applyFiltersAndSort(randomSearchButton);
 }
 
-
 function clearFiltersButtonClickHandler() {
-    const button = clearFiltersButton;
-    toggleButtonLoading(button, true);
-    resetAllFilterStates();
-    applyFiltersAndSort(button); // Atualiza a exibição e a URL
+    if (!clearFiltersButton) return;
+    toggleButtonLoading(clearFiltersButton, true); resetAllFilterStates(); applyFiltersAndSort(clearFiltersButton);
+}
+
+// FUNÇÕES PARA A NOVA BARRA FIXA (customStickyBar)
+function handleCustomStickyBar() {
+    if (!customStickyBar || !mainContent) return;
+    if (window.pageYOffset > stickyOffset) {
+        if (!customStickyBar.classList.contains('sticky')) {
+            const barHeight = customStickyBar.offsetHeight;
+            customStickyBar.classList.add('sticky');
+            mainContent.style.paddingTop = barHeight + 'px';
+        }
+    } else {
+        if (customStickyBar.classList.contains('sticky')) {
+            customStickyBar.classList.remove('sticky');
+            mainContent.style.paddingTop = '0';
+        }
+    }
+}
+
+function setupStickyBehavior() {
+    if (customStickyBar && mainContent) { // Garante que ambos os elementos existam
+        setTimeout(() => {
+            stickyOffset = customStickyBar.offsetTop;
+            handleCustomStickyBar();
+        }, 300); // Aumentado ligeiramente o delay para garantir o cálculo correto do offset
+
+        window.addEventListener('scroll', handleCustomStickyBar);
+        window.addEventListener('resize', () => {
+            if (customStickyBar.classList.contains('sticky')) {
+                mainContent.style.paddingTop = customStickyBar.offsetHeight + 'px';
+            }
+            if (!customStickyBar.classList.contains('sticky')) {
+                setTimeout(() => {
+                    stickyOffset = customStickyBar.offsetTop;
+                }, 100);
+            }
+        });
+    }
 }
 
 function initializeApp() {
     populateFilters();
-
     const initialFilters = getFiltersFromURL();
-    setFiltersFromStateObject(initialFilters); // Aplica filtros da URL aos campos
-    currentPage = initialFilters.pagina || 1;  // Define a página da URL ou padrão 1
+    setFiltersFromStateObject(initialFilters);
+    currentPage = initialFilters.pagina || 1;
 
-    // Handler para checkboxes (precisa ser definido após populateFilters)
     const checkboxChangeHandler = () => { currentPage = 1; applyFiltersAndSort(null); };
     document.querySelectorAll('#filterSexoCheckboxes input, #filterTipoCheckboxes input').forEach(cb => {
-        // Remove listener antigo para evitar duplicação se initializeApp for chamado novamente
         cb.removeEventListener('change', checkboxChangeHandler);
         cb.addEventListener('change', checkboxChangeHandler);
     });
 
-    // Se nenhum filtro principal estiver na URL, define "Vitrine" como padrão se existir
-    if (!initialFilters.categoria && !initialFilters.sexo && !initialFilters.tipo && !initialFilters.busca) {
-        const vitrineOption = Array.from(filterCategoriaSelect.options).find(opt => opt.value.toLowerCase() === "vitrine");
-        if (vitrineOption) {
-            filterCategoriaSelect.value = vitrineOption.value;
-            // Não precisa setar na URL aqui, applyFiltersAndSort fará isso se updateUrl for true
+    if (!initialFilters.categoria && (!initialFilters.sexo || initialFilters.sexo.length === 0) && (!initialFilters.tipo || initialFilters.tipo.length === 0) && !initialFilters.busca) {
+        if (filterCategoriaSelect) {
+            const vitrineOption = Array.from(filterCategoriaSelect.options).find(opt => opt.value.toLowerCase() === "vitrine");
+            if (vitrineOption) filterCategoriaSelect.value = vitrineOption.value;
         }
     }
+    applyFiltersAndSort(null, true);
 
-    applyFiltersAndSort(null, true); // Aplica filtros (da URL ou padrão Vitrine) e atualiza a URL
-    loadingIndicator.classList.add('hidden'); // Esconde o loader principal após a carga inicial
+    // Event Listeners
+    if (filterCategoriaSelect) filterCategoriaSelect.addEventListener('change', () => { currentPage = 1; applyFiltersAndSort(null); });
+    if (searchNomeInput) searchNomeInput.addEventListener('input', () => { currentPage = 1; applyFiltersAndSort(null); });
+    if (clearFiltersButton) clearFiltersButton.addEventListener('click', clearFiltersButtonClickHandler);
+    if (sortByNameButton) sortByNameButton.addEventListener('click', handleSortByNameClick);
+    if (sortByViewsButton) sortByViewsButton.addEventListener('click', handleSortByViewsClick);
+    if (randomSearchButton) randomSearchButton.addEventListener('click', handleRandomSearchClick); // Este está na barra fixa
 
-    // Event Listeners principais
-    filterCategoriaSelect.addEventListener('change', () => { currentPage = 1; applyFiltersAndSort(null); });
-    searchNomeInput.addEventListener('input', () => { currentPage = 1; applyFiltersAndSort(null); });
-    clearFiltersButton.addEventListener('click', clearFiltersButtonClickHandler);
-    sortByNameButton.addEventListener('click', handleSortByNameClick);
-    sortByViewsButton.addEventListener('click', handleSortByViewsClick);
-    randomSearchButton.addEventListener('click', handleRandomSearchClick);
+    if (modalCloseButton) modalCloseButton.addEventListener('click', closeCostumeModal);
+    if (costumeModal) costumeModal.addEventListener('click', (event) => { if (event.target === costumeModal) closeCostumeModal(); });
+    document.addEventListener('keydown', (event) => { if (event.key === 'Escape' && costumeModal && costumeModal.classList.contains('active')) closeCostumeModal(); });
 
-    // Modal listeners
-    modalCloseButton.addEventListener('click', closeCostumeModal);
-    costumeModal.addEventListener('click', (event) => {
-        if (event.target === costumeModal) { // Fecha se clicar no overlay
-            closeCostumeModal();
-        }
-    });
-    document.addEventListener('keydown', (event) => {
-        if (event.key === 'Escape' && costumeModal.classList.contains('active')) {
-            closeCostumeModal();
-        }
-    });
-
-    // Listener para botões de navegação do navegador (voltar/avançar)
     window.addEventListener('popstate', (event) => {
         const state = event.state;
-        if (state && state.filters) { // Se o estado tiver nossos filtros salvos
-            setFiltersFromStateObject(state.filters);
-            currentPage = state.filters.pagina || 1;
-        } else { // Se não houver estado salvo, pega da URL (fallback)
-            const filtersFromURL = getFiltersFromURL();
-            setFiltersFromStateObject(filtersFromURL);
-            currentPage = filtersFromURL.pagina || 1;
-        }
-        applyFiltersAndSort(null, false); // Aplica filtros do estado/URL, mas não atualiza a URL de novo
+        if (state && state.filters) { setFiltersFromStateObject(state.filters); currentPage = state.filters.pagina || 1; }
+        else { const filtersFromURL = getFiltersFromURL(); setFiltersFromStateObject(filtersFromURL); currentPage = filtersFromURL.pagina || 1; }
+        applyFiltersAndSort(null, false);
     });
 
-    // Salva o estado inicial no histórico para que o botão voltar funcione corretamente desde o início
     if (!history.state || !history.state.filters) {
         history.replaceState({ path: window.location.href, filters: getCurrentFiltersStateForHistory() }, '', window.location.href);
     }
+
+    setupStickyBehavior(); // CONFIGURA A NOVA BARRA FIXA
 }
 
-// Inicia o aplicativo quando o DOM estiver pronto
 document.addEventListener('DOMContentLoaded', fetchFantasias);
