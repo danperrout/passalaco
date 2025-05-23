@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Passa Laço Fantasias Festivas</title>
+    <meta name="description"
+        content="Explore nosso vibrante catálogo de fantasias na Passa Laço! Milhares de opções para carnaval, halloween, festas temáticas e todos os seus eventos. Encontre a fantasia perfeita e divirta-se!">
+    <meta name="keywords"
+        content="fantasias, catálogo de fantasias, aluguel de fantasias, comprar fantasias, passa laço, passalaco, fantasias criativas, fantasias para festas, carnaval, halloween, festa temática, cosplay">
+    <meta name="robots" content="index, follow">
+    <meta name="theme-color" content="#FFCA28">
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.passalaco.com.br">
+    <meta property="og:title" content="Passa Laço Fantasias Festivas">
+    <meta property="og:description"
+        content="Explore nosso vibrante catálogo de fantasias na Passa Laço! Milhares de opções para carnaval, halloween, festas temáticas e todos os seus eventos.">
+    <meta property="og:image" content="https://www.passalaco.com.br/img/passalaco.png">
+    <meta property="og:image:width" content="530">
+    <meta property="og:image:height" content="150">
+    <meta property="og:site_name" content="Passa Laço">
+
+
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://www.passalaco.com.br">
+    <meta property="twitter:title" content="Passa Laço Fantasias Festivas">
+    <meta property="twitter:description"
+        content="Explore nosso vibrante catálogo de fantasias na Passa Laço! Encontre a fantasia perfeita para sua festa.">
+    <meta property="twitter:image" content="https://www.passalaco.com.br/img/passalaco.png">
+
+    <link rel="canonical" href="https://www.passalaco.com.br">
+    <link rel="icon" href="https://passalaco.com.br/favicon.png">
+
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles.css">
+    <style>
+        .header-custom-bg {
+            background-color: #FFFAF0;
+        }
+
+        .header-title-custom {
+            color: #E53935;
+        }
+
+        .header-subtitle-custom {
+            color: #FB8C00;
+        }
+
+        .label-custom-color {
+            color: #00796B;
+        }
+
+        .modal-title-custom {
+            color: #D81B60;
+        }
+
+        .modal-text-primary-custom {
+            color: #00695C;
+        }
+
+        .modal-text-secondary-custom {
+            color: #FFA000;
+        }
+
+        .logo-img {
+            max-width: 350px;
+            width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+
+<body class="p-4 sm:p-6 md:p-8">
+
+    <header class="mb-10 py-6 header-custom-bg shadow-lg rounded-lg text-center">
+        <img src="https://www.passalaco.com.br/img/passalaco.png" alt="Logo Passa-laço - Catálogo de Fantasias"
+            class="mx-auto mb-4 logo-img">
+        <h1 class="text-3xl sm:text-4xl font-bold header-title-custom">Passa Laço Fantasias</h1>
+        <p class="header-subtitle-custom mt-2 text-sm sm:text-base">Encontre a fantasia perfeita para a sua festa!</p>
+    </header>
+
+    <div class="mb-10 p-6 bg-white rounded-lg shadow-lg">
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-x-6 gap-y-8 items-start">
+            <div>
+                <label for="searchNome" class="block text-sm font-medium label-custom-color mb-1.5">Buscar por Nome ou
+                    ID:</label>
+                <input type="text" id="searchNome" class="filter-input-base" placeholder="Ex: Abelha, 123">
+            </div>
+            <div>
+                <label for="filterCategoria"
+                    class="block text-sm font-medium label-custom-color mb-1.5">Categoria:</label>
+                <select id="filterCategoria" class="filter-input-base filter-select">
+                    <option value="">Todas as Categorias</option>
+                </select>
+            </div>
+            <div>
+                <label class="block text-sm font-medium label-custom-color mb-1.5">Sexo:</label>
+                <div id="filterSexoCheckboxes" class="space-y-1.5 mt-1"></div>
+            </div>
+            <div>
+                <label class="block text-sm font-medium label-custom-color mb-1.5">Tipo:</label>
+                <div id="filterTipoCheckboxes" class="space-y-1.5 mt-1"></div>
+            </div>
+        </div>
+        <div class="mt-8 pt-6 border-t border-yellow-300 flex flex-col sm:flex-row sm:items-center sm:justify-end">
+            <div id="activeFiltersDisplay" class="active-filters-display mb-4 sm:mb-0"></div>
+        </div>
+    </div>
+
+    <div class="sort-buttons-container">
+        <button id="sortByNameButton" class="btn btn-secondary font-semibold">
+            <span class="btn-text">Ordenar por Nome (A-Z)</span>
+            <span class="btn-loader-icon hidden"></span>
+        </button>
+        <button id="sortByViewsButton" class="btn btn-secondary font-semibold">
+            <span class="btn-text">Ordenar por Mais Vistas</span>
+            <span class="btn-loader-icon hidden"></span>
+        </button>
+        <button id="randomSearchButton" class="btn btn-primary font-semibold">
+            <span class="btn-text">Estou sem ideia! 🤷‍♀️</span>
+            <span class="btn-loader-icon hidden"></span>
+        </button>
+        <button id="clearFiltersButton" class="btn btn-danger font-semibold">
+            <span class="btn-text">Limpar Filtros</span>
+            <span class="btn-loader-icon hidden"></span>
+        </button>
+    </div>
+
+    <div id="resultsCount" class="results-count"></div>
+    <div id="noResultsMessage" class="no-results hidden">
+        Nenhuma fantasia encontrada com os filtros selecionados. Tente outras opções!
+    </div>
+    <div id="paginationContainerTop" class="pagination-container mb-4"></div>
+    <div id="costumeContainer" class="card-container"></div>
+    <div id="paginationContainerBottom" class="pagination-container"></div>
+    <div id="loadingIndicator" class="loader"></div>
+    <div id="errorMessage" class="error-message hidden"></div>
+
+    <div id="costumeModal" class="modal-overlay">
+        <div class="modal-content relative">
+            <button id="modalCloseButton" class="modal-close-button" aria-label="Fechar modal">&times;</button>
+            <div class="modal-image-container">
+                <img id="modalImage" src="" alt="[Imagem da fantasia ampliada]" class="modal-image">
+                <div id="modalImagePlaceholder" class="modal-image-placeholder hidden">Imagem não disponível</div>
+            </div>
+            <div class="modal-details">
+                <h3 id="modalName" class="text-2xl font-bold modal-title-custom mb-3"></h3>
+                <p class="text-sm modal-text-primary-custom mb-1"><span class="font-semibold">Categoria:</span> <span
+                        id="modalCategoria"></span></p>
+                <p class="text-sm modal-text-primary-custom mb-1"><span class="font-semibold">Sexo:</span> <span
+                        id="modalSexo"></span></p>
+                <p class="text-sm modal-text-primary-custom mb-3"><span class="font-semibold">Tipo:</span> <span
+                        id="modalTipo"></span></p>
+                <p class="text-xs modal-text-secondary-custom mb-1"><span class="font-semibold">ID:</span> <span
+                        id="modalId"></span>
+                </p>
+                <p class="text-xs modal-text-secondary-custom mb-1"><span class="font-semibold">Visualizações no
+                        Card:</span> <span id="modalViewCount"></span></p>
+                <p class="text-xs modal-text-secondary-custom"><span class="font-semibold">Cliques na Foto:</span> <span
+                        id="modalClickCount"></span></p>
+            </div>
+        </div>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+
+</html>
