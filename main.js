@@ -121,7 +121,7 @@ function handleCostumeEvent(key, costumeId) {
     const entry = dataStore[costumeId] || { count: 0, lastEventTime: 0 };
     let currentCount = entry.count;
 
-    console.log(`${(currentTime - entry.lastEventTime) / 1000} seconds since last event for costume ${costumeId}.`);
+    // console.log(`${(currentTime - entry.lastEventTime) / 1000} seconds since last event for costume ${costumeId}.`);
 
     if (currentTime - entry.lastEventTime > oneMinuteInMillis) {
         currentCount = entry.count + 1;
@@ -174,9 +174,10 @@ function openCostumeModal(fantasia) {
     modalSexo.textContent = fantasia.sexo;
     modalTipo.textContent = fantasia.tipo;
     modalId.textContent = fantasia._id;
-    modalViewCount.textContent = viewInfo.count;
-    modalClickCount.textContent = clickInfoCount;
+    modalViewCount.textContent = viewInfo.count; // View count no modal é o total atual
+    modalClickCount.textContent = clickInfoCount; // Click count no modal é o total atual
 
+    // Atualiza o contador de cliques no card, se o card ainda estiver visível/existir
     const cardClickCountSpan = document.querySelector(`#card-click-count-${fantasia._id}`);
     if (cardClickCountSpan) {
         cardClickCountSpan.textContent = clickInfoCount;
@@ -202,7 +203,7 @@ function createCostumeCard(fantasia) {
     card.dataset.fantasiaId = fantasia._id;
 
     const imageWrapper = document.createElement('div');
-    imageWrapper.className = 'image-wrapper';
+    imageWrapper.className = 'image-wrapper'; // Estilos definidos no CSS (altura, position relative, etc.)
     imageWrapper.addEventListener('click', () => openCostumeModal(fantasia));
 
     const miniLoader = document.createElement('div');
@@ -211,6 +212,7 @@ function createCostumeCard(fantasia) {
     const imgElement = document.createElement('img');
     imgElement.dataset.src = fantasia.imgUrl;
     imgElement.alt = `[Imagem de ${displayName}]`;
+    // A classe 'loaded' será adicionada no onload
 
     const placeholderText = document.createElement('div');
     placeholderText.className = 'image-placeholder-text hidden';
@@ -223,12 +225,30 @@ function createCostumeCard(fantasia) {
     const initialViewInfo = getCostumeDataFromStorage(costumeViewDataKey, fantasia._id);
     const initialClickInfo = getCostumeDataFromStorage(costumeImageClickDataKey, fantasia._id);
 
+    // ID no canto superior esquerdo da imagem
+    const idElement = document.createElement('div');
+    // Usando classes Tailwind para posicionamento e a classe CSS para aparência
+    idElement.className = 'absolute top-1.5 left-1.5 card-info-on-image';
+    idElement.textContent = `ID: ${fantasia._id}`;
+    imageWrapper.appendChild(idElement);
+
+    // Contadores de Visualizações e Cliques no canto inferior direito da imagem
+    const statsElement = document.createElement('div');
+    statsElement.className = 'absolute bottom-1.5 right-1.5 card-info-on-image'; // flex e items-center já estão no CSS
+    statsElement.innerHTML = `
+        <span class="mr-0.5">👁️</span> <span id="view-count-${fantasia._id}">${initialViewInfo.count}</span>
+        <span class="ml-1.5 mr-0.5">📸</span> <span id="card-click-count-${fantasia._id}">${initialClickInfo.count}</span>
+    `;
+    imageWrapper.appendChild(statsElement);
+
     imgElement.onload = () => {
         imgElement.classList.add('loaded');
         miniLoader.style.display = 'none';
 
+        // Atualiza a contagem de visualizações DO CARD (não confundir com modal)
+        // O evento de visualização do card é contado aqui, quando a imagem carrega e se torna visível
         const updatedViewCount = handleCostumeEvent(costumeViewDataKey, fantasia._id);
-        const viewCountSpan = card.querySelector(`#view-count-${fantasia._id}`);
+        const viewCountSpan = card.querySelector(`#view-count-${fantasia._id}`); // Busca o span dentro do card
         if (viewCountSpan) {
             viewCountSpan.textContent = updatedViewCount;
         }
@@ -236,28 +256,25 @@ function createCostumeCard(fantasia) {
     imgElement.onerror = () => {
         miniLoader.style.display = 'none';
         placeholderText.classList.remove('hidden');
-        imgElement.style.display = 'none';
+        imgElement.style.display = 'none'; // Esconde o ícone de imagem quebrada
     };
 
     const textContentDiv = document.createElement('div');
-    textContentDiv.className = 'p-5 flex-grow flex flex-col';
+    // Usando classes Tailwind para padding e layout de texto compacto
+    textContentDiv.className = 'p-3 flex-grow flex flex-col'; // p-3 = padding 0.75rem
     textContentDiv.innerHTML = `
-                <h3 class="text-xl font-semibold text-gray-800 mb-2">${displayName}</h3>
-                <p class="text-sm text-gray-600 mb-1"><span class="font-medium">Categoria:</span> ${fantasia.categoriaNome}</p>
-                <p class="text-sm text-gray-600 mb-1"><span class="font-medium">Sexo:</span> ${fantasia.sexo}</p>
-                <p class="text-sm text-gray-600"><span class="font-medium">Tipo:</span> ${fantasia.tipo}</p>
-                <div class="mt-auto pt-3">
-                    <p class="text-xs text-gray-400">ID: ${fantasia._id}</p>
-                    <p class="text-xs text-gray-500 mt-1">Visualizações (Card): <span id="view-count-${fantasia._id}">${initialViewInfo.count}</span></p>
-                    <p class="text-xs text-gray-500 mt-1">Cliques na Foto: <span id="card-click-count-${fantasia._id}">${initialClickInfo.count}</span></p>
-                </div>
-            `;
+        <h3 class="text-base font-semibold text-gray-800 mb-1 truncate" title="${displayName}">${displayName}</h3>
+        <p class="text-xs text-gray-600 mb-0.5"><span class="font-medium">Cat:</span> ${fantasia.categoriaNome}</p>
+        <p class="text-xs text-gray-600 mb-0.5"><span class="font-medium">Sex:</span> ${fantasia.sexo}</p>
+        <p class="text-xs text-gray-600"><span class="font-medium">Tipo:</span> ${fantasia.tipo}</p>
+    `;
 
     card.appendChild(imageWrapper);
     card.appendChild(textContentDiv);
 
     return card;
 }
+
 
 function setupImageObserver(cardsToObserve) {
     if (imageObserver) {
@@ -268,14 +285,22 @@ function setupImageObserver(cardsToObserve) {
         entries.forEach(entry => {
             if (entry.isIntersecting) {
                 const img = entry.target.querySelector('img[data-src]');
-                if (img && !img.src) {
+                if (img && !img.src) { // Verifica se a imagem já não foi carregada
                     img.src = img.dataset.src;
-                    observer.unobserve(entry.target);
+                    // Não desobserve imediatamente aqui se quiser recontar views se o card sair e voltar à tela
+                    // Mas para lazy loading simples, desobservar é bom para performance.
+                    // Para a contagem de views no card ao se tornar visível, o img.onload já trata.
+                    // observer.unobserve(entry.target); // Removido para permitir que o onload sempre dispare se a img.src for resetada
                 }
             }
         });
     }, options);
-    cardsToObserve.forEach(cardEl => imageObserver.observe(cardEl));
+    cardsToObserve.forEach(cardEl => {
+        const img = cardEl.querySelector('img[data-src]');
+        if (img && !img.src) { // Observe apenas se a imagem ainda não foi carregada
+            imageObserver.observe(cardEl); // Observa o card (ou a imageWrapper)
+        }
+    });
 }
 
 function createCheckboxGroup(container, items, groupName, changeHandler) {
@@ -333,7 +358,7 @@ function updateActiveFiltersDisplay() {
 
     if (selectedCategoriaValue) {
         const catOption = Array.from(filterCategoriaSelect.options).find(opt => opt.value === selectedCategoriaValue);
-        activeFilters.push(`Categoria: ${catOption ? catOption.textContent : selectedCategoriaValue}`);
+        activeFilters.push(`Categoria: ${catOption ? catOption.textContent.split(' (')[0] : selectedCategoriaValue}`);
     }
     if (selectedSexosValues.length > 0) {
         activeFilters.push(`Sexo: ${selectedSexosValues.join(', ')}`);
@@ -361,17 +386,17 @@ function toggleButtonLoading(button, isLoading) {
 
     if (isLoading) {
         button.disabled = true;
-        if (textSpan) textSpan.style.display = 'none';
+        if (textSpan) textSpan.style.display = 'none'; // Esconde o texto
         if (loaderSpan) {
-            loaderSpan.classList.add('btn-loader');
-            loaderSpan.style.display = 'inline-block';
+            loaderSpan.classList.add('btn-loader'); // Adiciona a classe para animação
+            loaderSpan.style.display = 'inline-block'; // Mostra o loader
         }
     } else {
         button.disabled = false;
-        if (textSpan) textSpan.style.display = 'inline';
+        if (textSpan) textSpan.style.display = 'inline'; // Mostra o texto
         if (loaderSpan) {
-            loaderSpan.classList.remove('btn-loader');
-            loaderSpan.style.display = 'none';
+            loaderSpan.classList.remove('btn-loader'); // Remove a classe de animação
+            loaderSpan.style.display = 'none'; // Esconde o loader
         }
     }
 }
@@ -382,9 +407,8 @@ function createPaginationControls(container, totalItems, page) {
     const totalPages = Math.ceil(totalItems / itemsPerPage);
 
     if (totalPages <= 1) {
-        if (container === paginationContainerBottom) {
-            resultsCountContainer.textContent = `Exibindo ${totalItems} de ${fantasias.length} fantasias.`;
-        }
+        // Não mostra paginação se houver 0 ou 1 página
+        // A contagem de resultados já é atualizada em applyFiltersAndSort
         return;
     }
 
@@ -394,7 +418,7 @@ function createPaginationControls(container, totalItems, page) {
         textSpan.className = 'btn-text';
         textSpan.textContent = text || pageNum;
         const loaderSpan = document.createElement('span');
-        loaderSpan.className = 'btn-loader-icon hidden';
+        loaderSpan.className = 'btn-loader-icon hidden'; // Mantém hidden inicialmente
 
         button.appendChild(textSpan);
         button.appendChild(loaderSpan);
@@ -403,59 +427,65 @@ function createPaginationControls(container, totalItems, page) {
         if (isActive) button.classList.add('active');
         button.disabled = isDisabled;
         button.addEventListener('click', function () {
-            toggleButtonLoading(this, true);
+            if (this.disabled || this.classList.contains('active')) return; // Não faz nada se desabilitado ou já ativo
+            toggleButtonLoading(this, true); // Mostra loader no botão clicado
             currentPage = pageNum;
-            applyFiltersAndSort(this);
+            applyFiltersAndSort(this); // Passa o botão para desativar o loader depois
+            // Scroll para o topo do container de fantasias
             window.scrollTo({ top: costumeContainer.offsetTop - 100, behavior: 'smooth' });
         });
         return button;
     };
 
+    // Botão "Anterior"
     container.appendChild(pageButton(page - 1, 'Anterior', page === 1));
 
-    const maxPagesToShow = 5;
+    // Lógica para exibir números de página (simplificada para exemplo)
+    const maxPagesToShow = 5; // Total de botões de página (excluindo prev/next)
     let startPageNum = 1;
     let endPageNum = totalPages;
 
     if (totalPages > maxPagesToShow) {
-        if (page <= Math.floor(maxPagesToShow / 2) + 1) {
-            endPageNum = maxPagesToShow - 1;
-            container.appendChild(pageButton(1, null, false, 1 === page));
-            for (let i = 2; i <= endPageNum; i++) {
-                container.appendChild(pageButton(i, null, false, i === page));
-            }
-            container.appendChild(document.createTextNode('...'));
-            container.appendChild(pageButton(totalPages, null, false, totalPages === page));
-
-        } else if (page >= totalPages - Math.floor(maxPagesToShow / 2)) {
-            startPageNum = totalPages - maxPagesToShow + 2;
-            container.appendChild(pageButton(1, null, false, 1 === page));
-            container.appendChild(document.createTextNode('...'));
-            for (let i = startPageNum; i <= totalPages; i++) {
-                container.appendChild(pageButton(i, null, false, i === page));
-            }
-        } else {
-            startPageNum = page - Math.floor((maxPagesToShow - 3) / 2);
-            endPageNum = page + Math.floor((maxPagesToShow - 3) / 2);
-            container.appendChild(pageButton(1, null, false, 1 === page));
-            container.appendChild(document.createTextNode('...'));
-            for (let i = startPageNum; i <= endPageNum; i++) {
-                container.appendChild(pageButton(i, null, false, i === page));
-            }
-            container.appendChild(document.createTextNode('...'));
-            container.appendChild(pageButton(totalPages, null, false, totalPages === page));
+        let middle = Math.ceil(maxPagesToShow / 2);
+        if (page > middle) {
+            startPageNum = Math.min(page - middle + 1, totalPages - maxPagesToShow + 1);
         }
-    } else {
-        for (let i = 1; i <= totalPages; i++) {
-            container.appendChild(pageButton(i, null, false, i === page));
+        endPageNum = Math.min(startPageNum + maxPagesToShow - 1, totalPages);
+        startPageNum = Math.max(1, endPageNum - maxPagesToShow + 1); // Recalcula startPage para garantir maxPagesToShow
+
+        if (startPageNum > 1) {
+            container.appendChild(pageButton(1, '1', false, 1 === page));
+            if (startPageNum > 2) {
+                const dots = document.createElement('span');
+                dots.textContent = '...';
+                dots.className = 'px-2 py-1';
+                container.appendChild(dots);
+            }
         }
     }
+
+    for (let i = startPageNum; i <= endPageNum; i++) {
+        container.appendChild(pageButton(i, null, false, i === page));
+    }
+
+    if (totalPages > maxPagesToShow && endPageNum < totalPages) {
+        if (endPageNum < totalPages - 1) {
+            const dots = document.createElement('span');
+            dots.textContent = '...';
+            dots.className = 'px-2 py-1';
+            container.appendChild(dots);
+        }
+        container.appendChild(pageButton(totalPages, totalPages, false, totalPages === page));
+    }
+
+
+    // Botão "Próxima"
     container.appendChild(pageButton(page + 1, 'Próxima', page === totalPages));
 }
 
 // Funções para URL
 function getFiltersFromURL() {
-    const params = new URLSearchParams(window.location.search); // Alterado de hash para search
+    const params = new URLSearchParams(window.location.search);
     const filters = {};
     if (params.has('categoria')) filters.categoria = params.get('categoria');
     if (params.has('sexo')) filters.sexo = params.get('sexo').split(',');
@@ -469,7 +499,11 @@ function getFiltersFromURL() {
 
 function setFiltersFromStateObject(filters) {
     if (filters.categoria) filterCategoriaSelect.value = filters.categoria;
+    else filterCategoriaSelect.value = "";
+
     if (filters.busca) searchNomeInput.value = filters.busca;
+    else searchNomeInput.value = "";
+
 
     document.querySelectorAll('input[name="sexo"]').forEach(cb => {
         cb.checked = filters.sexo ? filters.sexo.includes(cb.value) : false;
@@ -478,14 +512,18 @@ function setFiltersFromStateObject(filters) {
         cb.checked = filters.tipo ? filters.tipo.includes(cb.value) : false;
     });
 
-    if (filters.ordem) currentSortType = filters.ordem;
-    if (filters.dir) currentSortDirectionForName = filters.dir;
+    currentSortType = filters.ordem || 'default';
+    currentSortDirectionForName = filters.dir || 'asc';
+
 
     if (currentSortType === 'name') {
         sortByNameButton.querySelector('.btn-text').textContent = `Ordenar por Nome (${currentSortDirectionForName === 'asc' ? 'A-Z' : 'Z-A'})`;
     } else {
-        sortByNameButton.querySelector('.btn-text').textContent = `Ordenar por Nome (A-Z)`;
+        sortByNameButton.querySelector('.btn-text').textContent = `Ordenar por Nome (A-Z)`; // Reset visual
     }
+    // Visualmente desativa outros botões de ordenação se um estiver ativo (opcional)
+    // sortByViewsButton.classList.toggle('active-sort', currentSortType === 'views');
+    // sortByNameButton.classList.toggle('active-sort', currentSortType === 'name');
 }
 
 function updateURLFromCurrentFilters() {
@@ -500,6 +538,7 @@ function updateURLFromCurrentFilters() {
     if (selectedTipos.length > 0) params.set('tipo', selectedTipos.join(','));
     if (searchTerm) params.set('busca', searchTerm);
     if (currentPage > 1) params.set('pagina', currentPage);
+
     if (currentSortType !== 'default') {
         params.set('ordem', currentSortType);
         if (currentSortType === 'name') {
@@ -508,22 +547,42 @@ function updateURLFromCurrentFilters() {
     }
 
     const newQueryString = params.toString();
-    const newURL = `${window.location.pathname}${newQueryString ? '?' + newQueryString : ''}`;
+    const currentQueryString = window.location.search.substring(1); // Remove o '?'
 
-    // Só atualiza se a URL realmente mudou para evitar loops com popstate
-    if (window.location.href !== newURL && window.location.search !== (newQueryString ? '?' + newQueryString : '')) {
-        history.pushState({ path: newURL }, '', newURL);
+    // Só atualiza se a URL realmente mudou para evitar loops com popstate e entradas desnecessárias no histórico
+    if (newQueryString !== currentQueryString) {
+        const newURL = `${window.location.pathname}${newQueryString ? '?' + newQueryString : ''}`;
+        history.pushState({ path: newURL, filters: getCurrentFiltersStateForHistory() }, '', newURL);
     }
+}
+
+function getCurrentFiltersStateForHistory() {
+    // Helper para pegar o estado atual dos filtros para o history.pushState
+    return {
+        categoria: filterCategoriaSelect.value,
+        sexo: getSelectedCheckboxValues('sexo'),
+        tipo: getSelectedCheckboxValues('tipo'),
+        busca: searchNomeInput.value.trim(),
+        pagina: currentPage,
+        ordem: currentSortType,
+        dir: currentSortDirectionForName
+    };
 }
 
 
 let filterTimeout;
 function applyFiltersAndSort(initiatingButton = null, updateUrl = true) {
     if (!fantasias) return;
-    noResultsMessage.classList.add('hidden');
+
+    // Mostra o loader principal apenas se não for uma ação de botão específico (que tem seu próprio loader)
     if (!initiatingButton) {
         loadingIndicator.classList.remove('hidden');
+        costumeContainer.innerHTML = ''; // Limpa resultados antigos para mostrar loader
+        paginationContainerTop.innerHTML = '';
+        paginationContainerBottom.innerHTML = '';
+        resultsCountContainer.textContent = 'Carregando...';
     }
+    noResultsMessage.classList.add('hidden');
 
 
     clearTimeout(filterTimeout);
@@ -546,29 +605,31 @@ function applyFiltersAndSort(initiatingButton = null, updateUrl = true) {
 
         if (currentSortType === 'name') {
             filteredAndSortedFantasias.sort((a, b) => {
-                const nameA = a.nome === "." ? "zzz" : a.nome.toLowerCase();
-                const nameB = b.nome === "." ? "zzz" : b.nome.toLowerCase();
+                const nameA = a.nome === "." ? "zzzzzz" : a.nome.toLowerCase(); // "zzzzzz" para "Sem Nome" ir para o fim em ASC
+                const nameB = b.nome === "." ? "zzzzzz" : b.nome.toLowerCase();
                 if (nameA < nameB) return currentSortDirectionForName === 'asc' ? -1 : 1;
                 if (nameA > nameB) return currentSortDirectionForName === 'asc' ? 1 : -1;
                 return 0;
             });
         } else if (currentSortType === 'views') {
             filteredAndSortedFantasias.sort((a, b) => {
+                // É importante que getCostumeDataFromStorage não modifique os dados aqui, apenas leia
                 const viewsA = getCostumeDataFromStorage(costumeViewDataKey, a._id).count;
                 const viewsB = getCostumeDataFromStorage(costumeViewDataKey, b._id).count;
-                return viewsB - viewsA;
+                return viewsB - viewsA; // Mais vistas primeiro
             });
         }
+        // Se currentSortType === 'default', mantém a ordem original do JSON (ou do filtro anterior)
 
         const totalFilteredItems = filteredAndSortedFantasias.length;
         const totalPages = Math.ceil(totalFilteredItems / itemsPerPage);
-        currentPage = Math.max(1, Math.min(currentPage, totalPages || 1));
+        currentPage = Math.max(1, Math.min(currentPage, totalPages || 1)); // Garante que a página seja válida
 
         const startIndex = (currentPage - 1) * itemsPerPage;
         const endIndex = startIndex + itemsPerPage;
         const itemsForCurrentPage = filteredAndSortedFantasias.slice(startIndex, endIndex);
 
-        costumeContainer.innerHTML = '';
+        costumeContainer.innerHTML = ''; // Limpa o container antes de adicionar novos cards
         const currentCardsOnPage = [];
 
         if (itemsForCurrentPage.length === 0 && fantasias.length > 0) {
@@ -576,15 +637,19 @@ function applyFiltersAndSort(initiatingButton = null, updateUrl = true) {
         } else {
             itemsForCurrentPage.forEach(fantasia => {
                 const cardElement = createCostumeCard(fantasia);
-                currentCardsOnPage.push(cardElement);
+                currentCardsOnPage.push(cardElement); // Adiciona o elemento DOM do card
                 costumeContainer.appendChild(cardElement);
             });
-            setupImageObserver(currentCardsOnPage);
+            // Reconfigura o observer para os novos cards na página
+            if (currentCardsOnPage.length > 0) {
+                setupImageObserver(currentCardsOnPage);
+            }
         }
 
         const startItemNum = totalFilteredItems > 0 ? startIndex + 1 : 0;
         const endItemNum = Math.min(endIndex, totalFilteredItems);
-        resultsCountContainer.textContent = `Exibindo ${startItemNum}-${endItemNum} de ${totalFilteredItems} fantasias. (Total: ${fantasias.length})`;
+        resultsCountContainer.textContent = `Exibindo ${startItemNum}-${endItemNum} de ${totalFilteredItems} fantasias. (Total no catálogo: ${fantasias.length})`;
+
         updateActiveFiltersDisplay();
         createPaginationControls(paginationContainerTop, totalFilteredItems, currentPage);
         createPaginationControls(paginationContainerBottom, totalFilteredItems, currentPage);
@@ -593,39 +658,39 @@ function applyFiltersAndSort(initiatingButton = null, updateUrl = true) {
             updateURLFromCurrentFilters();
         }
 
+        // Desativa o loader do botão que iniciou a ação (se houver)
         if (initiatingButton) {
             toggleButtonLoading(initiatingButton, false);
-        } else {
-            toggleButtonLoading(sortByNameButton, false);
-            toggleButtonLoading(sortByViewsButton, false);
-            toggleButtonLoading(randomSearchButton, false);
-            toggleButtonLoading(clearFiltersButton, false);
         }
+        // Desativa o loader principal
         loadingIndicator.classList.add('hidden');
 
-    }, searchNomeInput === document.activeElement ? 300 : 200);
+    }, searchNomeInput === document.activeElement || initiatingButton ? 150 : 50); // Delay menor se for interação direta
 }
 
 function handleSortByNameClick() {
-    toggleButtonLoading(sortByNameButton, true);
+    const button = sortByNameButton;
+    toggleButtonLoading(button, true);
     if (currentSortType === 'name') {
         currentSortDirectionForName = currentSortDirectionForName === 'asc' ? 'desc' : 'asc';
     } else {
         currentSortType = 'name';
-        currentSortDirectionForName = 'asc';
+        currentSortDirectionForName = 'asc'; // Padrão para ASC ao mudar para ordenação por nome
     }
-    sortByNameButton.querySelector('.btn-text').textContent = `Ordenar por Nome (${currentSortDirectionForName === 'asc' ? 'A-Z' : 'Z-A'})`;
+    button.querySelector('.btn-text').textContent = `Ordenar por Nome (${currentSortDirectionForName === 'asc' ? 'A-Z' : 'Z-A'})`;
     currentPage = 1;
-    applyFiltersAndSort(sortByNameButton);
+    applyFiltersAndSort(button);
 }
 
 function handleSortByViewsClick() {
-    toggleButtonLoading(sortByViewsButton, true);
+    const button = sortByViewsButton;
+    toggleButtonLoading(button, true);
     currentSortType = 'views';
-    currentSortDirectionForName = 'asc';
+    // Reset visual do botão de nome
     sortByNameButton.querySelector('.btn-text').textContent = `Ordenar por Nome (A-Z)`;
+    currentSortDirectionForName = 'asc'; // Reset direção do nome
     currentPage = 1;
-    applyFiltersAndSort(sortByViewsButton);
+    applyFiltersAndSort(button);
 }
 
 function resetAllFilterStates() {
@@ -642,47 +707,55 @@ function resetAllFilterStates() {
 }
 
 function handleRandomSearchClick() {
-    toggleButtonLoading(randomSearchButton, true);
+    const button = randomSearchButton;
+    toggleButtonLoading(button, true);
     resetAllFilterStates();
 
     if (fantasias.length > 0) {
         const randomIndex = Math.floor(Math.random() * fantasias.length);
         const randomCostume = fantasias[randomIndex];
-        searchNomeInput.value = randomCostume.nome === "." ? "" : randomCostume.nome;
+        // Preenche o campo de busca com o nome da fantasia aleatória (ou ID se nome for '.')
+        searchNomeInput.value = randomCostume.nome === "." ? String(randomCostume._id) : randomCostume.nome;
     }
-    applyFiltersAndSort(randomSearchButton);
+    applyFiltersAndSort(button);
 }
 
 
 function clearFiltersButtonClickHandler() {
-    toggleButtonLoading(clearFiltersButton, true);
+    const button = clearFiltersButton;
+    toggleButtonLoading(button, true);
     resetAllFilterStates();
-    applyFiltersAndSort(clearFiltersButton);
+    applyFiltersAndSort(button); // Atualiza a exibição e a URL
 }
 
 function initializeApp() {
     populateFilters();
 
     const initialFilters = getFiltersFromURL();
-    setFiltersFromStateObject(initialFilters);
-    currentPage = initialFilters.pagina || 1;
+    setFiltersFromStateObject(initialFilters); // Aplica filtros da URL aos campos
+    currentPage = initialFilters.pagina || 1;  // Define a página da URL ou padrão 1
 
+    // Handler para checkboxes (precisa ser definido após populateFilters)
     const checkboxChangeHandler = () => { currentPage = 1; applyFiltersAndSort(null); };
     document.querySelectorAll('#filterSexoCheckboxes input, #filterTipoCheckboxes input').forEach(cb => {
+        // Remove listener antigo para evitar duplicação se initializeApp for chamado novamente
         cb.removeEventListener('change', checkboxChangeHandler);
         cb.addEventListener('change', checkboxChangeHandler);
     });
 
+    // Se nenhum filtro principal estiver na URL, define "Vitrine" como padrão se existir
     if (!initialFilters.categoria && !initialFilters.sexo && !initialFilters.tipo && !initialFilters.busca) {
         const vitrineOption = Array.from(filterCategoriaSelect.options).find(opt => opt.value.toLowerCase() === "vitrine");
         if (vitrineOption) {
             filterCategoriaSelect.value = vitrineOption.value;
+            // Não precisa setar na URL aqui, applyFiltersAndSort fará isso se updateUrl for true
         }
     }
 
-    applyFiltersAndSort(null, true);
-    loadingIndicator.classList.add('hidden');
+    applyFiltersAndSort(null, true); // Aplica filtros (da URL ou padrão Vitrine) e atualiza a URL
+    loadingIndicator.classList.add('hidden'); // Esconde o loader principal após a carga inicial
 
+    // Event Listeners principais
     filterCategoriaSelect.addEventListener('change', () => { currentPage = 1; applyFiltersAndSort(null); });
     searchNomeInput.addEventListener('input', () => { currentPage = 1; applyFiltersAndSort(null); });
     clearFiltersButton.addEventListener('click', clearFiltersButtonClickHandler);
@@ -690,9 +763,10 @@ function initializeApp() {
     sortByViewsButton.addEventListener('click', handleSortByViewsClick);
     randomSearchButton.addEventListener('click', handleRandomSearchClick);
 
+    // Modal listeners
     modalCloseButton.addEventListener('click', closeCostumeModal);
     costumeModal.addEventListener('click', (event) => {
-        if (event.target === costumeModal) {
+        if (event.target === costumeModal) { // Fecha se clicar no overlay
             closeCostumeModal();
         }
     });
@@ -702,13 +776,25 @@ function initializeApp() {
         }
     });
 
+    // Listener para botões de navegação do navegador (voltar/avançar)
     window.addEventListener('popstate', (event) => {
-        const filtersFromURL = getFiltersFromURL();
-        setFiltersFromStateObject(filtersFromURL);
-        currentPage = filtersFromURL.pagina || 1;
-        applyFiltersAndSort(null, false); // Não atualiza a URL de novo, pois o estado já mudou
+        const state = event.state;
+        if (state && state.filters) { // Se o estado tiver nossos filtros salvos
+            setFiltersFromStateObject(state.filters);
+            currentPage = state.filters.pagina || 1;
+        } else { // Se não houver estado salvo, pega da URL (fallback)
+            const filtersFromURL = getFiltersFromURL();
+            setFiltersFromStateObject(filtersFromURL);
+            currentPage = filtersFromURL.pagina || 1;
+        }
+        applyFiltersAndSort(null, false); // Aplica filtros do estado/URL, mas não atualiza a URL de novo
     });
+
+    // Salva o estado inicial no histórico para que o botão voltar funcione corretamente desde o início
+    if (!history.state || !history.state.filters) {
+        history.replaceState({ path: window.location.href, filters: getCurrentFiltersStateForHistory() }, '', window.location.href);
+    }
 }
 
+// Inicia o aplicativo quando o DOM estiver pronto
 document.addEventListener('DOMContentLoaded', fetchFantasias);
-
