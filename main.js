@@ -98,6 +98,16 @@ async function fetchFantasias() {
         if (!response.ok) {
             throw new Error(`Erro HTTP: ${response.status} - ${response.statusText}`);
         }
+        const lastModified = response.headers.get('Last-Modified');
+        if (lastModified) {
+            const date = new Date(lastModified);
+            const formatted = date.toLocaleString('pt-BR', {
+                day: '2-digit', month: '2-digit', year: 'numeric',
+                hour: '2-digit', minute: '2-digit'
+            });
+            const el = document.getElementById('catalogoAtualizadoEm');
+            if (el) el.textContent = `Catálogo atualizado em: ${formatted}`;
+        }
         const data = await response.json();
         fantasias = data;
         initializeApp();
