@@ -158,7 +158,7 @@ function closeCostumeModal() {
     modalImagePlaceholder.classList.add('hidden');
 }
 
-function createCostumeCard(fantasia) {
+function createCostumeCard(fantasia, similarityScore = 0, hasSearch = false) {
     const displayName = fantasia.nome === "." ? "Sem Nome" : fantasia.nome;
     const card = document.createElement('div');
     card.className = 'card';
@@ -234,8 +234,12 @@ function createCostumeCard(fantasia) {
 
     const textContentDiv = document.createElement('div');
     textContentDiv.className = 'p-3 flex-grow flex flex-col';
+    const scoreBadge = (hasSearch && similarityScore > 0)
+        ? `<span class="text-xs text-gray-300 mt-auto self-end">${similarityScore}%</span>`
+        : '';
     textContentDiv.innerHTML = `
         <h3 class="text-base font-semibold text-gray-800 mb-1 truncate" title="${displayName}">${displayName}</h3>
+        ${scoreBadge}
     `;
 
     card.appendChild(imageWrapper);
@@ -287,7 +291,7 @@ function createCheckboxGroup(container, items, groupName, changeHandler) {
 
 function populateFilters() {
     if (!fantasias || fantasias.length === 0) return;
-    const categoriasUnicas = [...new Set(fantasias.map(f => f.categoriaNome).filter(Boolean))].sort();
+    const categoriasUnicas = [...new Set(fantasias.map(f => f.categoriaNome).filter(Boolean))].sort((a, b) => a.localeCompare(b, 'pt-BR'));
     const sexos = [...new Set(fantasias.map(f => f.sexo).filter(Boolean))].sort();
     const tipos = [...new Set(fantasias.map(f => f.tipo).filter(Boolean))].sort();
 
@@ -457,6 +461,113 @@ function getCurrentFiltersStateForHistory() {
     };
 }
 
+function levenshtein(a, b) {
+    const m = a.length, n = b.length;
+    const dp = [];
+    for (let i = 0; i <= m; i++) {
+        dp[i] = [i];
+        for (let j = 1; j <= n; j++) dp[i][j] = i === 0 ? j : 0;
+    }
+    for (let i = 1; i <= m; i++) {
+        for (let j = 1; j <= n; j++) {
+            dp[i][j] = a[i - 1] === b[j - 1]
+                ? dp[i - 1][j - 1]
+                : 1 + Math.min(dp[i - 1][j], dp[i][j - 1], dp[i - 1][j - 1]);
+        }
+    }
+    return dp[m][n];
+}
+
+function phoneticNormalize(word) {
+    let s = word.toLowerCase();
+    s = s.replace(/ç/g, 's');
+    s = s.normalize('NFD').replace(/[̀-ͯ]/g, '');
+    s = s.replace(/ph/g, 'f');   // sophia → sofia
+    s = s.replace(/th/g, 't');   // catherine → caterine
+    s = s.replace(/ck/g, 'k');
+    s = s.replace(/gh/g, 'g');
+    s = s.replace(/lh/g, 'l');   // lhama → lama
+    s = s.replace(/nh/g, 'n');   // nhoque → noque
+    s = s.replace(/qu([ei])/g, 'k$1');
+    s = s.replace(/c([ei])/g, 's$1'); // cena → sena
+    s = s.replace(/ss/g, 's');
+    s = s.replace(/rr/g, 'r');
+    s = s.replace(/y/g, 'i');    // yara → iara
+    s = s.replace(/w/g, 'v');    // wendy → vendy
+    s = s.replace(/(.)\1+/g, '$1'); // letras duplas
+    return s;
+}
+
+function fuzzyMatch(name, searchTerm) {
+    if (searchTerm.length < 4) return false;
+    const threshold = Math.ceil(searchTerm.length / 3);
+    const words = name.toLowerCase().split(/\s+/);
+    return words.some(word => {
+        if (Math.abs(word.length - searchTerm.length) > threshold) return false;
+        return levenshtein(word, searchTerm) <= threshold;
+    });
+}
+
+function wordMatches(nameWord, termWord) {
+    if (nameWord === termWord) return true;
+    if (nameWord.startsWith(termWord)) return true;
+    const np = phoneticNormalize(nameWord);
+    const tp = phoneticNormalize(termWord);
+    if (np === tp) return true;
+    if (termWord.length < 4) return false;
+    const t = Math.ceil(termWord.length / 3);
+    if (Math.abs(nameWord.length - termWord.length) <= t && levenshtein(nameWord, termWord) <= t) return true;
+    if (Math.abs(np.length - tp.length) <= t && levenshtein(np, tp) <= t) return true;
+    return false;
+}
+
+function getSimilarityScore(nome, searchTerm) {
+    if (!searchTerm) return 0;
+    const nameLower = nome === '.' ? 'sem nome' : nome.toLowerCase();
+    const term = searchTerm.toLowerCase();
+
+    if (nameLower === term) return 100;
+    if (nameLower.startsWith(term)) return 90;
+    if (nameLower.includes(term)) return 75;
+
+    const nameWords = nameLower.split(/\s+/);
+    const termWords = term.split(/\s+/);
+
+    // Multi-word: cada palavra do termo deve casar com alguma palavra do nome
+    if (termWords.length > 1) {
+        const allMatch = termWords.every(tw => nameWords.some(nw => wordMatches(nw, tw)));
+        if (allMatch) {
+            const exactCount = termWords.filter(tw => nameWords.includes(tw)).length;
+            return Math.round(65 + (exactCount / termWords.length) * 10);
+        }
+    }
+
+    // Single word: fonética exata por palavra
+    const termPhonetic = phoneticNormalize(term);
+    for (const word of nameWords) {
+        if (phoneticNormalize(word) === termPhonetic) return 70;
+    }
+
+    if (term.length < 4) return 0;
+    const threshold = Math.ceil(term.length / 3);
+    let minDist = Infinity;
+
+    for (const word of nameWords) {
+        if (Math.abs(word.length - term.length) <= threshold) {
+            const d = levenshtein(word, term);
+            if (d < minDist) minDist = d;
+        }
+        const wp = phoneticNormalize(word);
+        if (Math.abs(wp.length - termPhonetic.length) <= threshold) {
+            const d = levenshtein(wp, termPhonetic);
+            if (d < minDist) minDist = d;
+        }
+    }
+
+    if (minDist > threshold) return 0;
+    return Math.max(0, Math.round(70 - minDist * 15));
+}
+
 let filterApplyTimeout; // Renomeado para evitar conflito com filterTimeout global se houver
 function applyFiltersAndSort(initiatingButton = null, updateUrl = true) {
     if (!fantasias) return;
@@ -476,18 +587,30 @@ function applyFiltersAndSort(initiatingButton = null, updateUrl = true) {
         const selectedTipos = getSelectedCheckboxValues('tipo');
         const searchTerm = searchNomeInput ? searchNomeInput.value.toLowerCase().trim() : "";
 
+        const scoreMap = new Map();
         let filteredAndSortedFantasias = fantasias.filter(fantasia => {
             const searchId = String(fantasia._id);
-            const nameMatches = fantasia.nome.toLowerCase().includes(searchTerm) || (fantasia.nome === "." && ("sem nome".includes(searchTerm) || searchTerm === "."));
-            const idMatches = searchId.includes(searchTerm);
-            const nameOrIdMatches = nameMatches || idMatches;
+            let nameOrIdMatches;
+            let score = 0;
+            if (!searchTerm) {
+                nameOrIdMatches = true;
+            } else {
+                score = getSimilarityScore(fantasia.nome, searchTerm);
+                const idMatches = searchId.includes(searchTerm);
+                nameOrIdMatches = score > 0 || idMatches;
+                if (idMatches && score === 0) score = 55;
+            }
             const categoriaMatches = !selectedCategoria || fantasia.categoriaNome === selectedCategoria;
             const sexoMatches = selectedSexos.length === 0 || selectedSexos.includes(fantasia.sexo);
             const tipoMatches = selectedTipos.length === 0 || selectedTipos.includes(fantasia.tipo);
-            return nameOrIdMatches && categoriaMatches && sexoMatches && tipoMatches;
+            const matches = nameOrIdMatches && (!searchTerm || score > 50) && categoriaMatches && sexoMatches && tipoMatches;
+            if (matches) scoreMap.set(fantasia._id, score);
+            return matches;
         });
 
-        if (currentSortType === 'name') {
+        if (searchTerm && currentSortType === 'default') {
+            filteredAndSortedFantasias.sort((a, b) => (scoreMap.get(b._id) || 0) - (scoreMap.get(a._id) || 0));
+        } else if (currentSortType === 'name') {
             filteredAndSortedFantasias.sort((a, b) => {
                 const nameA = a.nome === "." ? "zzzzzz" : a.nome.toLowerCase();
                 const nameB = b.nome === "." ? "zzzzzz" : b.nome.toLowerCase();
@@ -516,7 +639,8 @@ function applyFiltersAndSort(initiatingButton = null, updateUrl = true) {
             if (noResultsMessage) noResultsMessage.classList.remove('hidden');
         } else {
             itemsForCurrentPage.forEach(fantasia => {
-                const cardElement = createCostumeCard(fantasia);
+                const score = searchTerm ? (scoreMap.get(fantasia._id) || 0) : 0;
+                const cardElement = createCostumeCard(fantasia, score, !!searchTerm);
                 currentCardsOnPage.push(cardElement);
                 if (costumeContainer) costumeContainer.appendChild(cardElement);
             });
@@ -640,7 +764,11 @@ function initializeApp() {
 
     // Event Listeners
     if (filterCategoriaSelect) filterCategoriaSelect.addEventListener('change', () => { currentPage = 1; applyFiltersAndSort(null); });
-    if (searchNomeInput) searchNomeInput.addEventListener('input', () => { currentPage = 1; applyFiltersAndSort(null); });
+    if (searchNomeInput) searchNomeInput.addEventListener('input', () => {
+        currentPage = 1;
+        if (filterCategoriaSelect && searchNomeInput.value.trim()) filterCategoriaSelect.value = '';
+        applyFiltersAndSort(null);
+    });
     if (clearFiltersButton) clearFiltersButton.addEventListener('click', clearFiltersButtonClickHandler);
     if (sortByNameButton) sortByNameButton.addEventListener('click', handleSortByNameClick);
     if (sortByViewsButton) sortByViewsButton.addEventListener('click', handleSortByViewsClick);
