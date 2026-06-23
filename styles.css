@@ -114,6 +114,34 @@ body {
     background-position: right 0.5rem center;
     background-size: 1.5em 1.5em;
     padding-right: 2.5rem;
+    cursor: pointer;
+    font-weight: 500;
+    color: #00796B;
+    border-color: #80CBC4;
+    background-color: #F0FAFA;
+    transition: border-color 0.2s, box-shadow 0.2s, background-color 0.2s;
+}
+
+.filter-select:hover {
+    border-color: #00796B;
+    background-color: #E0F2F1;
+}
+
+.filter-select:focus {
+    outline: none;
+    border-color: #00796B;
+    box-shadow: 0 0 0 3px rgba(0, 121, 107, 0.15);
+    background-color: #fff;
+}
+
+.filter-select option {
+    font-weight: 400;
+    color: #374151;
+    background-color: #fff;
+}
+
+.filter-select option:disabled {
+    color: #ccc;
 }
 
 .checkbox-label {
@@ -512,6 +540,138 @@ body {
     padding-top: 0.125rem;
     padding-bottom: 0.125rem;
     margin-bottom: 0;
+}
+
+/* --- SIDEBAR DE CATEGORIAS --- */
+#layoutWrapper {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+}
+
+#categorySidebar {
+    width: 220px;
+    flex-shrink: 0;
+    position: sticky;
+    top: 8px;
+    overflow-x: hidden;
+    background: white;
+    border-radius: 0.75rem;
+    box-shadow: 0 4px 6px -1px rgba(0,0,0,0.07);
+    transition: width 0.25s ease;
+}
+
+#categorySidebar.collapsed {
+    width: 36px;
+    overflow-y: hidden;
+}
+
+#categorySidebar.collapsed .sidebar-title {
+    display: none;
+}
+
+#categorySidebar.collapsed #sidebarCategoryList {
+    display: none;
+}
+
+#categorySidebar.collapsed .sidebar-header {
+    justify-content: center;
+    padding: 10px 4px;
+}
+
+.sidebar-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 12px 8px;
+    border-bottom: 1px solid #f0f0f0;
+    white-space: nowrap;
+}
+
+.sidebar-title {
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: #00796B;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    transition: opacity 0.2s;
+}
+
+#sidebarToggleBtn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 1.25rem;
+    color: #aaa;
+    line-height: 1;
+    padding: 0 2px;
+    flex-shrink: 0;
+    transition: transform 0.25s ease, color 0.2s;
+}
+
+#sidebarToggleBtn:hover { color: #00796B; }
+
+#categorySidebar.collapsed #sidebarToggleBtn {
+    transform: rotate(180deg);
+}
+
+#sidebarCategoryList {
+    list-style: none;
+    margin: 0;
+    padding: 6px 0;
+}
+
+.sidebar-cat-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6px 12px;
+    cursor: pointer;
+    font-size: 0.8rem;
+    color: #555;
+    white-space: nowrap;
+    transition: background 0.15s;
+    border-left: 3px solid transparent;
+}
+
+.sidebar-cat-item:hover {
+    background: #f5f9f8;
+    color: #00796B;
+}
+
+.sidebar-cat-item.active {
+    background: #e0f2f1;
+    color: #00796B;
+    font-weight: 600;
+    border-left-color: #00796B;
+}
+
+.sidebar-cat-count {
+    font-size: 0.7rem;
+    color: #bbb;
+    background: #f5f5f5;
+    border-radius: 10px;
+    padding: 1px 6px;
+    min-width: 22px;
+    text-align: center;
+    flex-shrink: 0;
+    margin-left: 6px;
+}
+
+.sidebar-cat-item.disabled {
+    opacity: 0.35;
+    pointer-events: none;
+    cursor: default;
+}
+
+.sidebar-cat-item.active .sidebar-cat-count {
+    background: #b2dfdb;
+    color: #00695C;
+}
+
+@media (max-width: 768px) {
+    #categorySidebar { display: none; }
+    #layoutWrapper { display: block; }
 }
 
 /* Adicione estas novas regras ao seu styles.css */

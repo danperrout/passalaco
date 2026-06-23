@@ -310,6 +310,91 @@ function populateFilters() {
     if (filterTipoCheckboxesContainer) createCheckboxGroup(filterTipoCheckboxesContainer, tipos, 'tipo', checkboxChangeHandler);
 }
 
+function populateSidebar() {
+    const list = document.getElementById('sidebarCategoryList');
+    if (!list || !fantasias.length) return;
+
+    const categoriasUnicas = [...new Set(fantasias.map(f => f.categoriaNome).filter(Boolean))]
+        .sort((a, b) => a.localeCompare(b, 'pt-BR'));
+
+    list.innerHTML = '';
+
+    // Item "Todas"
+    const allItem = document.createElement('li');
+    allItem.className = 'sidebar-cat-item';
+    allItem.dataset.cat = '';
+    allItem.innerHTML = `<span>Todas</span><span class="sidebar-cat-count">${fantasias.length}</span>`;
+    allItem.addEventListener('click', () => selectSidebarCategory(''));
+    list.appendChild(allItem);
+
+    categoriasUnicas.forEach(cat => {
+        const count = fantasias.filter(f => f.categoriaNome === cat).length;
+        const li = document.createElement('li');
+        li.className = 'sidebar-cat-item';
+        li.dataset.cat = cat;
+        li.innerHTML = `<span>${cat}</span><span class="sidebar-cat-count">${count}</span>`;
+        li.addEventListener('click', () => selectSidebarCategory(cat));
+        list.appendChild(li);
+    });
+
+    syncSidebarActive();
+}
+
+function selectSidebarCategory(cat) {
+    if (filterCategoriaSelect) filterCategoriaSelect.value = cat;
+    currentPage = 1;
+    applyFiltersAndSort(null);
+}
+
+function updateSidebarCounts(searchTerm, selectedSexos, selectedTipos) {
+    const baseFiltered = fantasias.filter(f => {
+        if (searchTerm) {
+            const score = getSimilarityScore(f.nome, searchTerm);
+            const idMatches = String(f._id).includes(searchTerm);
+            if (!(score > 50 || idMatches)) return false;
+        }
+        if (selectedSexos.length > 0 && !selectedSexos.includes(f.sexo)) return false;
+        if (selectedTipos.length > 0 && !selectedTipos.includes(f.tipo)) return false;
+        return true;
+    });
+
+    const catCounts = new Map();
+    baseFiltered.forEach(f => {
+        catCounts.set(f.categoriaNome, (catCounts.get(f.categoriaNome) || 0) + 1);
+    });
+
+    // Sidebar
+    document.querySelectorAll('.sidebar-cat-item').forEach(li => {
+        const cat = li.dataset.cat;
+        const countEl = li.querySelector('.sidebar-cat-count');
+        if (!countEl) return;
+        const count = cat === '' ? baseFiltered.length : (catCounts.get(cat) || 0);
+        countEl.textContent = count;
+        li.classList.toggle('disabled', count === 0);
+    });
+
+    // Dropdown
+    if (filterCategoriaSelect) {
+        Array.from(filterCategoriaSelect.options).forEach(opt => {
+            if (!opt.value) return;
+            const count = catCounts.get(opt.value) || 0;
+            opt.textContent = `${opt.value} (${count})`;
+            opt.disabled = count === 0;
+            opt.style.color = count === 0 ? '#bbb' : '';
+        });
+    }
+}
+
+function syncSidebarActive() {
+    const current = filterCategoriaSelect ? filterCategoriaSelect.value : '';
+    let activeEl = null;
+    document.querySelectorAll('.sidebar-cat-item').forEach(li => {
+        const isActive = li.dataset.cat === current;
+        li.classList.toggle('active', isActive);
+        if (isActive) activeEl = li;
+    });
+}
+
 function getSelectedCheckboxValues(groupName) {
     const checkboxes = document.querySelectorAll(`input[name="${groupName}"]:checked`);
     return Array.from(checkboxes).map(cb => cb.value);
@@ -661,6 +746,8 @@ function applyFiltersAndSort(initiatingButton = null, updateUrl = true) {
             resultsCountContainer.textContent = `Exibindo ${startItemNum}-${endItemNum} de ${totalFilteredItems} fantasias. (Total: ${fantasias.length})`;
         }
         updateActiveFiltersDisplay();
+        syncSidebarActive();
+        updateSidebarCounts(searchTerm, selectedSexos, selectedTipos);
         if (paginationContainerTop) createPaginationControls(paginationContainerTop, totalFilteredItems, currentPage);
         if (paginationContainerBottom) createPaginationControls(paginationContainerBottom, totalFilteredItems, currentPage);
         if (updateUrl) updateURLFromCurrentFilters();
@@ -752,6 +839,7 @@ function setupStickyBehavior() {
 
 function initializeApp() {
     populateFilters();
+    populateSidebar();
     const initialFilters = getFiltersFromURL();
     setFiltersFromStateObject(initialFilters);
     currentPage = initialFilters.pagina || 1;
@@ -771,7 +859,7 @@ function initializeApp() {
     applyFiltersAndSort(null, true);
 
     // Event Listeners
-    if (filterCategoriaSelect) filterCategoriaSelect.addEventListener('change', () => { currentPage = 1; applyFiltersAndSort(null); });
+    if (filterCategoriaSelect) filterCategoriaSelect.addEventListener('change', () => { currentPage = 1; syncSidebarActive(); applyFiltersAndSort(null); });
     if (searchNomeInput) searchNomeInput.addEventListener('input', () => {
         currentPage = 1;
         if (filterCategoriaSelect && searchNomeInput.value.trim()) filterCategoriaSelect.value = '';
@@ -780,7 +868,15 @@ function initializeApp() {
     if (clearFiltersButton) clearFiltersButton.addEventListener('click', clearFiltersButtonClickHandler);
     if (sortByNameButton) sortByNameButton.addEventListener('click', handleSortByNameClick);
     if (sortByViewsButton) sortByViewsButton.addEventListener('click', handleSortByViewsClick);
-    if (randomSearchButton) randomSearchButton.addEventListener('click', handleRandomSearchClick); // Este está na barra fixa
+    if (randomSearchButton) randomSearchButton.addEventListener('click', handleRandomSearchClick);
+
+    const sidebarToggleBtn = document.getElementById('sidebarToggleBtn');
+    const categorySidebar = document.getElementById('categorySidebar');
+    if (sidebarToggleBtn && categorySidebar) {
+        sidebarToggleBtn.addEventListener('click', () => {
+            categorySidebar.classList.toggle('collapsed');
+        });
+    }
 
     if (modalCloseButton) modalCloseButton.addEventListener('click', closeCostumeModal);
     if (costumeModal) costumeModal.addEventListener('click', (event) => { if (event.target === costumeModal) closeCostumeModal(); });
