@@ -482,19 +482,27 @@ function phoneticNormalize(word) {
     let s = word.toLowerCase();
     s = s.replace(/ç/g, 's');
     s = s.normalize('NFD').replace(/[̀-ͯ]/g, '');
-    s = s.replace(/ph/g, 'f');   // sophia → sofia
-    s = s.replace(/th/g, 't');   // catherine → caterine
+    // Dígrafos portugueses (antes das regras simples)
+    s = s.replace(/ch/g, 'x');        // cachorro → caxorro, chapeuzinho → xapeuzinho
+    s = s.replace(/lh/g, 'l');        // lhama → lama
+    s = s.replace(/nh/g, 'n');        // nhoque → noque
+    s = s.replace(/ph/g, 'f');        // sophia → sofia
+    s = s.replace(/th/g, 't');        // catherine → caterine
     s = s.replace(/ck/g, 'k');
     s = s.replace(/gh/g, 'g');
-    s = s.replace(/lh/g, 'l');   // lhama → lama
-    s = s.replace(/nh/g, 'n');   // nhoque → noque
-    s = s.replace(/qu([ei])/g, 'k$1');
+    // Equivalências fonéticas do português
+    s = s.replace(/g([ei])/g, 'j$1'); // girafa → jirafa, gelo → jelo
+    s = s.replace(/j/g, 'j');
+    s = s.replace(/qu([ei])/g, 'k$1');// quero → kero
+    s = s.replace(/qu([ao])/g, 'kw$1');
     s = s.replace(/c([ei])/g, 's$1'); // cena → sena
+    s = s.replace(/c([^h]|$)/g, 'k$1'); // ca/co/cu → ka/ko/ku
+    s = s.replace(/z/g, 's');         // zero → sero (z e s soam igual em muitos contextos)
     s = s.replace(/ss/g, 's');
     s = s.replace(/rr/g, 'r');
-    s = s.replace(/y/g, 'i');    // yara → iara
-    s = s.replace(/w/g, 'v');    // wendy → vendy
-    s = s.replace(/(.)\1+/g, '$1'); // letras duplas
+    s = s.replace(/y/g, 'i');         // yara → iara
+    s = s.replace(/w/g, 'v');         // wendy → vendy
+    s = s.replace(/(.)\1+/g, '$1');   // letras duplas
     return s;
 }
 
