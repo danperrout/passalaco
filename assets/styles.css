@@ -1361,7 +1361,8 @@ body.is-scrolled .topbar {
         color: rgba(255, 255, 255, 0.6);
     }
 
-    .cat-item:disabled {
+    .cat-item:disabled,
+    .cat-list li:has(> .cat-item:disabled) {
         display: none;
     }
 

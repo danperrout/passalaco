@@ -512,6 +512,7 @@ function populateSidebar() {
         button.querySelector('.cat-emoji').textContent = emoji;
         button.querySelector('.cat-name').textContent = label;
         button.addEventListener('click', onClick);
+        li.dataset.order = sidebarCategoryList.children.length; // ordem original
         li.appendChild(button);
         sidebarCategoryList.appendChild(li);
     };
@@ -549,6 +550,69 @@ function goHome() {
     window.scrollTo({ top: 0 });
 }
 
+// --- Reordenação animada das categorias (FLIP com molas) ---
+// Categorias sem resultado descem para o fim da lista. Cada item sai de onde
+// está na tela e desliza até o novo lugar; se o filtro mudar no meio do
+// caminho, ele continua do ponto atual sem perder a velocidade.
+
+const sidebarItemSprings = new WeakMap();
+let sidebarOrderReady = false;
+
+function sidebarSprings(li) {
+    let springs = sidebarItemSprings.get(li);
+    if (!springs) {
+        const offset = { x: 0, y: 0 };
+        const apply = () => {
+            li.style.transform = offset.x || offset.y ? `translate3d(${offset.x}px, ${offset.y}px, 0)` : '';
+        };
+        // X e Y independentes: a lista é vertical no desktop e horizontal no celular
+        springs = {
+            x: createSpring(v => { offset.x = v; apply(); }, { restDelta: 0.1 }),
+            y: createSpring(v => { offset.y = v; apply(); }, { restDelta: 0.1 })
+        };
+        sidebarItemSprings.set(li, springs);
+    }
+    return springs;
+}
+
+function reorderSidebar() {
+    const animate = sidebarOrderReady; // a primeira ordenação (ao abrir a página) não anima
+    sidebarOrderReady = true;
+    const items = [...sidebarCategoryList.children];
+    const rank = li => {
+        const button = li.firstElementChild;
+        if (button.dataset.cat === '#inicio' || button.dataset.cat === '') return 0; // fixos no topo
+        return button.disabled ? 2 : 1;
+    };
+    const desired = items.slice().sort((a, b) => rank(a) - rank(b) || a.dataset.order - b.dataset.order);
+    if (desired.every((li, i) => li === items[i])) return;
+
+    // First: posição de layout atual (a parte animada fica na mola)
+    const before = new Map(items.map(li => [li, { left: li.offsetLeft, top: li.offsetTop, visible: !!li.offsetParent }]));
+
+    // Last: aplica a nova ordem
+    desired.forEach(li => sidebarCategoryList.appendChild(li));
+    if (!animate) return;
+
+    // Invert + Play: desloca o referencial e deixa a mola levar até zero
+    desired.forEach(li => {
+        const old = before.get(li);
+        const springs = sidebarSprings(li);
+        if (reducedMotion.matches || !old.visible || !li.offsetParent) {
+            springs.x.set(0);
+            springs.y.set(0);
+            return;
+        }
+        const dx = old.left - li.offsetLeft;
+        const dy = old.top - li.offsetTop;
+        if (!dx && !dy) return;
+        springs.x.shift(dx);
+        springs.y.shift(dy);
+        springs.x.to(0, { damping: 1, response: 0.45 });
+        springs.y.to(0, { damping: 1, response: 0.45 });
+    });
+}
+
 function updateSidebar(baseFiltered) {
     const catCounts = new Map();
     baseFiltered.forEach(f => {
@@ -579,6 +643,8 @@ function updateSidebar(baseFiltered) {
             button.removeAttribute('aria-current');
         }
     });
+
+    reorderSidebar();
 
     // Na fileira horizontal (celular), mantém o chip ativo à vista
     if (activeEl && sidebarCategoryList.scrollWidth > sidebarCategoryList.clientWidth) {
@@ -986,8 +1052,9 @@ function renderHome() {
 
     const categories = buildSection('Categorias', 'Ver todas as fantasias', () => selectCategory(''));
     const tiles = el('div', 'tiles');
-    [...sidebarCategoryList.querySelectorAll('.cat-item')]
-        .map(button => button.dataset.cat)
+    [...sidebarCategoryList.children]
+        .sort((a, b) => a.dataset.order - b.dataset.order)
+        .map(li => li.firstElementChild.dataset.cat)
         .filter(cat => cat && cat !== '#inicio')
         .forEach((cat, i) => {
             const tile = el('button', 'tile');
@@ -1119,7 +1186,8 @@ function scheduleSearchRender() {
 // animação pode ser interrompida e redirecionada a qualquer momento.
 // ==========================================================================
 
-function createSpring(onUpdate) {
+// restDelta: menor diferença perceptível (1 = progresso 0–1; para pixels use ~0.1)
+function createSpring(onUpdate, { restDelta = 0.001 } = {}) {
     let value = 0;
     let velocity = 0;
     let target = 0;
@@ -1130,7 +1198,8 @@ function createSpring(onUpdate) {
     let onRest = null;
 
     function step(now) {
-        const dt = Math.min(0.064, (now - lastTime) / 1000);
+        // O timestamp do quadro pode ser anterior ao momento em que a mola foi disparada
+        const dt = Math.min(0.064, Math.max(0, (now - lastTime) / 1000));
         lastTime = now;
         const stiffness = Math.pow(2 * Math.PI / response, 2);
         const friction = 4 * Math.PI * damping / response;
@@ -1141,7 +1210,7 @@ function createSpring(onUpdate) {
             velocity += acceleration * h;
             value += velocity * h;
         }
-        if (Math.abs(velocity) < 0.01 && Math.abs(value - target) < 0.001) {
+        if (Math.abs(velocity) < restDelta * 10 && Math.abs(value - target) < restDelta) {
             value = target;
             velocity = 0;
             frame = 0;
@@ -1174,6 +1243,11 @@ function createSpring(onUpdate) {
             onRest = null;
             value = nextValue;
             velocity = 0;
+            onUpdate(value);
+        },
+        // Desloca o referencial sem mexer na velocidade (o elemento mudou de lugar no layout)
+        shift(delta) {
+            value += delta;
             onUpdate(value);
         }
     };
