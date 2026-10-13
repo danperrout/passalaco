@@ -1127,12 +1127,30 @@ function renderHome() {
 
 // --- Renderização ---
 
+// Como os cards novos entram, comparando com o que estava na tela:
+// página seguinte vem da direita, anterior da esquerda, outro filtro sobe.
+// Digitar na busca não anima (os resultados mudam a cada tecla).
+let lastRendered = null;
+function renderTransition() {
+    const previous = lastRendered;
+    lastRendered = { ...state };
+    if (!previous || !fantasias.length) return null;
+    if (previous.view !== state.view) return { dy: 18 };
+    const changed = ['tema', 'categoria', 'sexo', 'tipo', 'ordem', 'dir'].some(key => previous[key] !== state[key]);
+    if (changed) return { dy: 18 };
+    if (previous.busca !== state.busca) return null;
+    if (previous.pagina !== state.pagina) return { dx: state.pagina > previous.pagina ? 48 : -48 };
+    return null;
+}
+
 function render({ history: historyMode = 'push' } = {}) {
     const isHome = state.view === 'home';
+    const transition = renderTransition();
     homeView.hidden = !isHome;
     catalogView.hidden = isHome;
     if (isHome) {
         renderHome();
+        if (transition) animateIn([...homeView.children], { ...transition, stagger: 50, max: 6 });
         updateSidebar(fantasias);
         syncControls();
         if (historyMode !== 'none') updateURLFromState(historyMode);
@@ -1189,6 +1207,7 @@ function render({ history: historyMode = 'push' } = {}) {
     cards.forEach(card => fragment.appendChild(card));
     costumeContainer.appendChild(fragment);
     setupImageObserver(cards);
+    if (transition) animateIn(cards, transition);
     noResultsMessage.hidden = totalFilteredItems > 0;
 
     if (searchTerm) pageTitle.textContent = `Resultados para “${state.busca.trim()}”`;
@@ -1310,6 +1329,47 @@ function clamp01(v) {
     return Math.min(1, Math.max(0, v));
 }
 
+function lerp(a, b, t) {
+    return a + (b - a) * t;
+}
+
+// A mesma mola criticamente amortecida, como curva CSS linear() para a Web Animations API
+// (entradas que ninguém arrasta: cards de uma página nova)
+const springTimingCache = new Map();
+function springTiming(response) {
+    if (springTimingCache.has(response)) return springTimingCache.get(response);
+    const w = 2 * Math.PI / response;
+    const rest = t => (1 + w * t) * Math.exp(-w * t); // quanto falta para chegar
+    let duration = 0;
+    while (duration < 3 && rest(duration) > 0.001) duration += 0.01;
+    const points = [];
+    for (let i = 0; i <= 32; i++) points.push((1 - rest(duration * i / 32)).toFixed(4));
+    const linear = `linear(${points.join(', ')})`;
+    const timing = {
+        duration: Math.round(duration * 1000),
+        easing: CSS.supports('animation-timing-function', linear) ? linear : 'cubic-bezier(0.2, 0.9, 0.3, 1)'
+    };
+    springTimingCache.set(response, timing);
+    return timing;
+}
+
+// Elementos entram em cascata a partir de um deslocamento (dx/dy); só os primeiros, que estão à vista
+function animateIn(elements, { dx = 0, dy = 0, stagger = 18, max = 24 } = {}) {
+    if (!elements.length || !elements[0].animate) return;
+    const timing = springTiming(0.45);
+    const reduce = reducedMotion.matches;
+    elements.slice(0, max).forEach((element, i) => {
+        element.animate(reduce
+            ? [{ opacity: 0 }, { opacity: 1 }]
+            : [{ opacity: 0, transform: `translate3d(${dx}px, ${dy}px, 0) scale(0.97)` }, { opacity: 1, transform: 'none' }], {
+            duration: reduce ? 200 : timing.duration,
+            easing: reduce ? 'ease' : timing.easing,
+            delay: reduce ? 0 : Math.min(i * stagger, 240),
+            fill: 'backwards'
+        });
+    });
+}
+
 // --- Folha de detalhes ---
 
 // progresso 0 = fechada, 1 = aberta
@@ -1321,6 +1381,7 @@ let sheetReturnFocus = null;
 let sheetRandomMode = false;
 
 function renderSheet(p) {
+    renderFlight(p);
     sheetScrim.style.opacity = clamp01(p);
     if (reducedMotion.matches) {
         sheet.style.transform = 'none';
@@ -1332,6 +1393,110 @@ function renderSheet(p) {
         sheet.style.transform = `scale(${0.86 + 0.14 * p})`;
         sheet.style.opacity = clamp01(p);
     }
+}
+
+// --- Foto que voa do card para a folha (e volta para o card ao fechar) ---
+// Um clone da foto vai do retângulo do card ao lugar final da foto na folha,
+// guiado pelo mesmo progresso da folha: chegam juntos e respondem juntos ao gesto.
+let flight = null;
+let sheetSource = null; // card de onde a folha saiu, para a foto voltar para ele
+
+function cardImage(sourceEl) {
+    const img = sourceEl && sourceEl.querySelector && sourceEl.querySelector('.card-media img, img');
+    return img && img.classList.contains('loaded') && img.naturalWidth ? img : null;
+}
+
+// Retângulo final da foto na folha (sem o deslocamento da animação)
+function finalSheetImageRect(ratio) {
+    const previous = sheet.style.transform;
+    sheet.style.transform = 'none';
+    const box = modalImage.getBoundingClientRect();
+    sheet.style.transform = previous;
+    return containedRect(box, ratio);
+}
+
+function startFlight(sourceEl) {
+    endFlight();
+    const img = cardImage(sourceEl);
+    if (!img || reducedMotion.matches) return;
+    const from = sourceEl.getBoundingClientRect();
+    if (from.bottom < 0 || from.top > window.innerHeight) return; // card fora da tela
+    const ratio = img.naturalWidth / img.naturalHeight;
+    const el = document.createElement('div');
+    el.className = 'flight';
+    const clone = document.createElement('img');
+    clone.src = img.currentSrc || img.src;
+    clone.alt = '';
+    el.appendChild(clone);
+    document.body.appendChild(el);
+    flight = {
+        el,
+        cardImg: img,
+        from: { x: from.left, y: from.top, w: from.width, h: from.height },
+        to: finalSheetImageRect(ratio),
+        radius: parseFloat(getComputedStyle(sourceEl).borderRadius) || 0
+    };
+    img.style.visibility = 'hidden';
+    modalImage.classList.add('in-flight');
+    renderFlight(sheetSpring.value);
+}
+
+function renderFlight(p) {
+    if (!flight) return;
+    const t = clamp01(p);
+    const { from, to, el } = flight;
+    el.style.width = `${lerp(from.w, to.w, t)}px`;
+    el.style.height = `${lerp(from.h, to.h, t)}px`;
+    el.style.transform = `translate3d(${lerp(from.x, to.x, t)}px, ${lerp(from.y, to.y, t)}px, 0)`;
+    el.style.borderRadius = `${flight.radius * (1 - t)}px`;
+}
+
+function endFlight() {
+    if (!flight) return;
+    const { el, cardImg } = flight;
+    flight = null;
+    cardImg.style.visibility = '';
+    const reveal = () => {
+        modalImage.classList.remove('in-flight');
+        el.remove();
+    };
+    // Mantém o clone até a foto da folha estar pronta, para não piscar
+    if (!sheetIsOpen || modalImage.complete) reveal();
+    else {
+        modalImage.addEventListener('load', reveal, { once: true });
+        modalImage.addEventListener('error', reveal, { once: true });
+    }
+}
+
+// --- Sortear outra: o conteúdo sai para a esquerda e a nova fantasia entra pela direita ---
+// Mola de -1 (à direita, entrando) a 1 (à esquerda, saindo); 0 = no lugar.
+const sheetDetails = sheet.querySelector('.sheet-details');
+let swapPending = null;
+const swapSpring = createSpring(v => {
+    sheet.style.setProperty('--swap-x', reducedMotion.matches ? '0px' : `${-v * 44}px`);
+    sheet.style.setProperty('--swap-o', 1 - Math.min(1, Math.abs(v)));
+    // Troca assim que o conteúdo antigo some, sem esperar a cauda da mola
+    if (swapPending && v > 0.95) requestAnimationFrame(enterSwap);
+}, { restDelta: 0.002 });
+
+function enterSwap() {
+    if (!swapPending) return;
+    fillSheet(swapPending);
+    swapPending = null;
+    sheetDetails.scrollTop = 0;
+    swapSpring.set(-1);
+    swapSpring.to(0, {
+        damping: 1,
+        response: 0.4,
+        onRest: () => sheet.classList.remove('swapping')
+    });
+}
+
+function swapSheetTo(fantasia) {
+    swapPending = fantasia;
+    sheet.classList.add('swapping');
+    // Interrompível: se a nova fantasia ainda estava entrando, sai a partir de onde está
+    swapSpring.to(1, { damping: 1, response: 0.22 });
 }
 
 function measureSheet(sourceEl) {
@@ -1462,7 +1627,9 @@ function reclaimSheet() {
 }
 
 function openCostumeSheet(fantasia, sourceEl, { random = false, history: historyMode } = {}) {
-    fillSheet(fantasia);
+    const swapping = sheetIsOpen && !costumeModal.hidden;
+    if (swapping) swapSheetTo(fantasia);
+    else fillSheet(fantasia);
     sheetFantasia = fantasia;
     sheetRandomMode = random;
     sheetAnotherButton.hidden = !random;
@@ -1481,8 +1648,12 @@ function openCostumeSheet(fantasia, sourceEl, { random = false, history: history
     measureSheet(sourceEl);
     if (wasHidden) sheetSpring.set(0);
 
+    // A foto só voa quando a folha nasce de um card; ao sortear outra, o card já não corresponde
+    sheetSource = !swapping && cardImage(sourceEl) ? sourceEl : null;
+    if (wasHidden && sheetSource) startFlight(sheetSource);
+
     sheetIsOpen = true;
-    sheetSpring.to(1, { damping: 1, response: sheetMode === 'sheet' ? 0.4 : 0.35 });
+    sheetSpring.to(1, { damping: 1, response: sheetMode === 'sheet' ? 0.4 : 0.35, onRest: endFlight });
     modalCloseButton.focus({ preventScroll: true });
 }
 
@@ -1500,11 +1671,19 @@ function closeCostumeSheet(velocity, { fromHistory = false } = {}) {
         else updateURLFromState('replace');
     }
     sheetHistoryPushed = false;
+    // Fechou pelo botão, Esc ou fundo (folha parada no lugar): a foto volta para o card.
+    // Arrastando para baixo, a foto desce junto com a folha.
+    endFlight();
+    if (velocity === undefined && sheetSpring.value > 0.98 && sheetSource && sheetSource.isConnected) {
+        startFlight(sheetSource);
+    }
+    sheetSource = null;
     sheetSpring.to(0, {
         damping: 1,
         response: 0.35,
         velocity,
         onRest: () => {
+            endFlight();
             sheetClosingFantasia = null;
             costumeModal.hidden = true;
             document.documentElement.classList.remove('sheet-open');
@@ -1576,6 +1755,7 @@ function setupSheetDrag() {
         if (sheetMode !== 'sheet' || reducedMotion.matches) return;
         if (event.button !== 0 || event.target.closest('button, .sheet-details')) return;
         sheetSpring.set(sheetSpring.value); // agarra do valor atual, mesmo no meio da animação
+        endFlight();
         reclaimSheet();
         sheetIsOpen = true;
         try { sheet.setPointerCapture(event.pointerId); } catch (e) { /* ponteiro já liberado */ }

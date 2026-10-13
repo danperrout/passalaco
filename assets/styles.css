@@ -1142,7 +1142,7 @@ body.is-scrolled .topbar {
     inset: -40px;
     background: var(--media-image, none) center / cover no-repeat;
     filter: blur(28px) saturate(1.2);
-    opacity: 0.55;
+    opacity: calc(0.55 * var(--swap-o, 1));
 }
 
 .sheet-media img {
@@ -1157,7 +1157,46 @@ body.is-scrolled .topbar {
 }
 
 .sheet-media img.loaded {
-    opacity: 1;
+    opacity: var(--swap-o, 1);
+}
+
+/* "Sortear outra": foto e textos deslizam juntos; os botões ficam parados */
+.sheet-media img,
+.sheet-media .media-placeholder,
+.sheet-details > :not(.sheet-head),
+.sheet-title {
+    translate: var(--swap-x, 0) 0;
+}
+
+.sheet-details > :not(.sheet-head),
+.sheet-title {
+    opacity: var(--swap-o, 1);
+}
+
+.sheet.swapping .sheet-media img {
+    transition: none;
+}
+
+/* A foto da folha fica escondida enquanto o clone voa até ela */
+.sheet-media img.in-flight {
+    visibility: hidden;
+}
+
+.flight {
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 1001;
+    overflow: hidden;
+    pointer-events: none;
+    will-change: transform, width, height;
+}
+
+.flight img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
 .sheet-media img.loaded:not(.zoomed-out) {

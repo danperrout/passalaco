@@ -24,7 +24,8 @@ Catálogo online de fantasias da loja [Passa Laço](https://www.passalaco.com.br
 A interface segue os princípios de design da Apple traduzidos para a web: fonte do sistema,
 materiais translúcidos, uma única cor de destaque, feedback no toque e movimento com molas
 interrompíveis (damping ratio + response), projeção de momento e resistência elástica na folha
-de detalhes. Respeita `prefers-reduced-motion`, `prefers-reduced-transparency` e `prefers-contrast`.
+de detalhes. A foto voa do card até a folha (e volta ao fechar), "Sortear outra" desliza o
+conteúdo como um baralho e os cards de uma página nova entram em cascata pelo lado da navegação. Respeita `prefers-reduced-motion`, `prefers-reduced-transparency` e `prefers-contrast`.
 
 ## Estrutura
 
