@@ -13,6 +13,8 @@ Catálogo online de fantasias da loja [Passa Laço](https://www.passalaco.com.br
 - Lazy load de imagens
 - Detalhes em diálogo (desktop) ou folha inferior arrastável (celular), com contagem de visualizações (salvo em localStorage)
 - Botão "Estou sem ideia" sorteia e abre uma fantasia aleatória
+- Cada fantasia tem endereço fixo pelo código (`/f/9444/`), que abre direto nela, e botão de compartilhar
+  (folha de compartilhar do celular ou cópia do link no computador) com prévia de foto, nome e descrição
 - Exibe a data da última atualização do catálogo
 
 ## Design
@@ -32,6 +34,9 @@ output/fantasias.json   # Fonte de dados principal
 output/analises.json    # Análise visual de cada fantasia (gerado, ver abaixo)
 assets/js/db.js         # Lista de nomes e categorias (usado na geração do JSON)
 scripts/build_analises.py  # Junta data/analise/*_analise.json em output/analises.json
+scripts/build_paginas.py   # Gera f/<código>/index.html e sitemap.xml
+f/<código>/index.html   # Página fixa de cada fantasia (gerada, ver abaixo)
+404.html                # Leva /f/<código>/ ainda sem página gerada para a fantasia
 ```
 
 ## Análise visual
@@ -44,6 +49,20 @@ python scripts/build_analises.py
 ```
 
 O site carrega `output/analises.json` em paralelo com o catálogo e funciona normalmente sem ele.
+
+## Endereço de cada fantasia
+
+Cada fantasia tem uma página em `f/<código>/index.html` com as meta-tags de compartilhamento
+(Open Graph, Twitter e JSON-LD), para o WhatsApp, Instagram, Facebook e buscadores mostrarem
+foto, nome e descrição. A página leva o visitante para o catálogo com a fantasia aberta, e o
+endereço volta a ser `f/<código>/`. Depois de atualizar `output/fantasias.json` ou as análises, rode:
+
+```bash
+python scripts/build_paginas.py
+```
+
+O endereço do site fica em `SITE_URL`, no início do script. Fantasias novas que ainda não
+têm página também abrem pelo link, graças ao `404.html`, mas sem a prévia no compartilhamento.
 
 ## Datas comemorativas
 

@@ -12,8 +12,19 @@ const state = {
     busca: '',
     pagina: 1,
     ordem: 'default',
-    dir: 'asc'
+    dir: 'asc',
+    fantasia: ''      // código da fantasia aberta na folha de detalhes
 };
+
+// Raiz do site (/passalaco/ no GitHub Pages); cada fantasia tem o endereço fixo <raiz>f/<código>/
+const appRoot = new URL('./', window.location.href).pathname;
+const baseTitle = document.title;
+// Fixa o ícone num endereço absoluto antes de a URL mudar para f/<código>/
+document.querySelectorAll('link[rel~="icon"]').forEach(link => { link.href = link.href; });
+
+function costumePath(id) {
+    return `${appRoot}f/${id}/`;
+}
 
 // Elementos DOM principais
 const costumeContainer = document.getElementById('costumeContainer');
@@ -42,6 +53,8 @@ const sheetScrim = document.getElementById('sheetScrim');
 const sheetMedia = sheet.querySelector('.sheet-media');
 const modalCloseButton = document.getElementById('modalCloseButton');
 const sheetAnotherButton = document.getElementById('sheetAnotherButton');
+const sheetShareButton = document.getElementById('sheetShareButton');
+const toast = document.getElementById('toast');
 const modalImage = document.getElementById('modalImage');
 const modalImagePlaceholder = document.getElementById('modalImagePlaceholder');
 const modalName = document.getElementById('modalName');
@@ -408,8 +421,9 @@ async function fetchFantasias() {
 
 function createCostumeCard(fantasia) {
     const name = displayName(fantasia);
-    const card = document.createElement('button');
-    card.type = 'button';
+    // Link de verdade: abre em nova aba, copia o endereço e pode ser indexado
+    const card = document.createElement('a');
+    card.href = costumePath(fantasia._id);
     card.className = 'card';
     card.dataset.fantasiaId = fantasia._id;
     card.innerHTML = `
@@ -445,7 +459,11 @@ function createCostumeCard(fantasia) {
         placeholder.hidden = false;
     };
 
-    card.addEventListener('click', () => openCostumeSheet(fantasia, card.querySelector('.card-media')));
+    card.addEventListener('click', event => {
+        if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+        event.preventDefault();
+        openCostumeSheet(fantasia, card.querySelector('.card-media'));
+    });
     return card;
 }
 
@@ -754,14 +772,15 @@ function getFiltersFromURL() {
         busca: params.get('busca') || '',
         pagina: parseInt(params.get('pagina'), 10) || 1,
         ordem: params.get('ordem') || 'default',
-        dir: params.get('dir') || 'asc'
+        dir: params.get('dir') || 'asc',
+        fantasia: params.get('fantasia') || (window.location.pathname.match(/\/f\/(\d+)\/?(?:index\.html)?$/) || [])[1] || ''
     };
     const hasFilters = filters.tema || filters.categoria || filters.sexo || filters.tipo || filters.busca || filters.ordem !== 'default';
     filters.view = hasFilters || params.get('ver') === 'todas' ? 'catalog' : 'home';
     return filters;
 }
 
-function updateURLFromState(mode) {
+function urlFromState() {
     const params = new URLSearchParams();
     if (state.tema) params.set('tema', state.tema);
     if (state.categoria) params.set('categoria', state.categoria);
@@ -774,10 +793,19 @@ function updateURLFromState(mode) {
         if (state.ordem === 'name') params.set('dir', state.dir);
     }
     if (state.view === 'catalog' && ![...params.keys()].length) params.set('ver', 'todas');
-    const newQueryString = params.toString();
-    if (newQueryString === window.location.search.substring(1)) return;
-    const newURL = `${window.location.pathname}${newQueryString ? '?' + newQueryString : ''}`;
+    const query = params.toString();
+    return `${state.fantasia ? costumePath(state.fantasia) : appRoot}${query ? '?' + query : ''}`;
+}
+
+function updateURLFromState(mode) {
+    const newURL = urlFromState();
+    if (newURL === window.location.pathname + window.location.search) return;
     history[mode === 'replace' ? 'replaceState' : 'pushState']({ filters: { ...state } }, '', newURL);
+}
+
+// Tudo que define o catálogo por trás da folha (a fantasia aberta fica de fora)
+function catalogKey(s) {
+    return JSON.stringify([s.view, s.tema, s.categoria, s.sexo, s.tipo, s.busca, s.pagina, s.ordem, s.dir]);
 }
 
 // --- Busca por similaridade ---
@@ -1398,10 +1426,34 @@ function fillSheet(fantasia) {
     modalClickCount.textContent = `${numberFormat.format(clickCount)} ${clickCount === 1 ? 'clique na foto' : 'cliques na foto'}`;
 }
 
-function openCostumeSheet(fantasia, sourceEl, { random = false } = {}) {
+// A folha tem endereço próprio: abrir cria uma entrada no histórico, e o
+// "voltar" do navegador (ou do Android) fecha a folha
+let sheetFantasia = null;
+let sheetClosingFantasia = null;
+let sheetHistoryPushed = false;
+
+// Agarrou a folha enquanto ela fechava: ela volta a ser a fantasia aberta, com endereço
+function reclaimSheet() {
+    if (sheetIsOpen || !sheetClosingFantasia) return;
+    sheetFantasia = sheetClosingFantasia;
+    document.title = `${displayName(sheetFantasia)} — Passa Laço Fantasias`;
+    state.fantasia = String(sheetFantasia._id);
+    updateURLFromState('push');
+    sheetHistoryPushed = true;
+}
+
+function openCostumeSheet(fantasia, sourceEl, { random = false, history: historyMode } = {}) {
     fillSheet(fantasia);
+    sheetFantasia = fantasia;
     sheetRandomMode = random;
     sheetAnotherButton.hidden = !random;
+    document.title = `${displayName(fantasia)} — Passa Laço Fantasias`;
+    state.fantasia = String(fantasia._id);
+    const mode = historyMode || (sheetIsOpen ? 'replace' : 'push');
+    if (mode !== 'none') {
+        updateURLFromState(mode);
+        if (mode === 'push') sheetHistoryPushed = true;
+    }
 
     if (!sheetIsOpen) sheetReturnFocus = document.activeElement;
     const wasHidden = costumeModal.hidden;
@@ -1415,14 +1467,25 @@ function openCostumeSheet(fantasia, sourceEl, { random = false } = {}) {
     modalCloseButton.focus({ preventScroll: true });
 }
 
-function closeCostumeSheet(velocity) {
+function closeCostumeSheet(velocity, { fromHistory = false } = {}) {
     if (!sheetIsOpen) return;
     sheetIsOpen = false;
+    sheetClosingFantasia = sheetFantasia;
+    sheetFantasia = null;
+    document.title = baseTitle;
+    state.fantasia = '';
+    if (!fromHistory) {
+        // Volta para a entrada do catálogo em vez de empilhar outra
+        if (sheetHistoryPushed) history.back();
+        else updateURLFromState('replace');
+    }
+    sheetHistoryPushed = false;
     sheetSpring.to(0, {
         damping: 1,
         response: 0.35,
         velocity,
         onRest: () => {
+            sheetClosingFantasia = null;
             costumeModal.hidden = true;
             document.documentElement.classList.remove('sheet-open');
             modalImage.removeAttribute('src');
@@ -1430,6 +1493,52 @@ function closeCostumeSheet(velocity) {
             sheetReturnFocus = null;
         }
     });
+}
+
+function findFantasia(id) {
+    return fantasias.find(f => String(f._id) === String(id));
+}
+
+// Mostra a fantasia pedida pelo endereço (link compartilhado, voltar/avançar)
+function syncSheetWithState() {
+    const fantasia = state.fantasia && findFantasia(state.fantasia);
+    if (fantasia) {
+        if (sheetFantasia !== fantasia) {
+            openCostumeSheet(fantasia, null, { history: 'none' });
+            sheetHistoryPushed = true;
+        }
+    } else if (sheetIsOpen) {
+        closeCostumeSheet(undefined, { fromHistory: true });
+    }
+}
+
+function showToast(message) {
+    toast.textContent = message;
+    toast.classList.add('visible');
+    clearTimeout(showToast.timer);
+    showToast.timer = setTimeout(() => toast.classList.remove('visible'), 2000);
+}
+
+// Celular: folha de compartilhar do sistema (WhatsApp, Instagram…). Computador: copia o link.
+async function shareCurrentCostume() {
+    if (!sheetFantasia) return;
+    const name = displayName(sheetFantasia);
+    const url = new URL(costumePath(sheetFantasia._id), window.location.origin).href;
+    const data = { title: `${name} — Passa Laço Fantasias`, text: `Olha essa fantasia da Passa Laço: ${name}`, url };
+    if (navigator.share && matchMedia('(pointer: coarse)').matches && (!navigator.canShare || navigator.canShare(data))) {
+        try {
+            await navigator.share(data);
+            return;
+        } catch (error) {
+            if (error.name === 'AbortError') return;
+        }
+    }
+    try {
+        await navigator.clipboard.writeText(url);
+        showToast('Link copiado');
+    } catch (error) {
+        window.prompt('Copie o link da fantasia:', url);
+    }
 }
 
 function openRandomCostume(sourceEl) {
@@ -1446,6 +1555,7 @@ function setupSheetDrag() {
         if (sheetMode !== 'sheet' || reducedMotion.matches) return;
         if (event.button !== 0 || event.target.closest('button, .sheet-details')) return;
         sheetSpring.set(sheetSpring.value); // agarra do valor atual, mesmo no meio da animação
+        reclaimSheet();
         sheetIsOpen = true;
         try { sheet.setPointerCapture(event.pointerId); } catch (e) { /* ponteiro já liberado */ }
         sheetDrag = {
@@ -1523,8 +1633,12 @@ function initializeApp() {
     populateFilters();
     populateSidebar();
     Object.assign(state, getFiltersFromURL());
+    if (state.fantasia && !findFantasia(state.fantasia)) state.fantasia = '';
     render({ history: 'none' });
-    history.replaceState({ filters: { ...state } }, '', window.location.href);
+    // Link de fantasia: abre direto nela, já com o endereço fixo (?fantasia=123 vira f/123/)
+    if (state.fantasia) openCostumeSheet(findFantasia(state.fantasia), null, { history: 'none' });
+    history.replaceState({ filters: { ...state } }, '', urlFromState());
+    document.querySelector('.brand').href = appRoot;
     searchNomeInput.placeholder = stackedLayout.matches ? 'Buscar' : 'Buscar por nome, código ou cor';
 
     document.querySelector('.brand').addEventListener('click', event => {
@@ -1572,6 +1686,7 @@ function initializeApp() {
 
     randomSearchButton.addEventListener('click', () => openRandomCostume(randomSearchButton));
     sheetAnotherButton.addEventListener('click', () => openRandomCostume(null));
+    sheetShareButton.addEventListener('click', shareCurrentCostume);
 
     modalCloseButton.addEventListener('click', () => closeCostumeSheet());
     sheetScrim.addEventListener('click', () => closeCostumeSheet());
@@ -1596,9 +1711,11 @@ function initializeApp() {
 
     window.addEventListener('popstate', event => {
         const filters = (event.state && event.state.filters) || getFiltersFromURL();
-        Object.assign(state, filters);
+        const before = catalogKey(state);
+        Object.assign(state, { fantasia: '' }, filters);
         searchNomeInput.value = state.busca;
-        render({ history: 'none' });
+        if (catalogKey(state) !== before) render({ history: 'none' });
+        syncSheetWithState();
     });
 
     setupScrollEdge();

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página não encontrada — Passa Laço Fantasias</title>
+    <meta name="robots" content="noindex">
+    <script>
+        // Fantasias novas ainda sem página gerada: /f/<código>/ abre direto no catálogo
+        (function () {
+            var match = location.pathname.match(/^(.*\/)f\/(\d+)\/?(index\.html)?$/);
+            if (match) location.replace(match[1] + '?fantasia=' + match[2]);
+        })();
+    </script>
+    <style>
+        body {
+            margin: 0;
+            min-height: 100vh;
+            display: grid;
+            place-items: center;
+            font: 17px/1.5 system-ui, -apple-system, sans-serif;
+            background: #fff8f1;
+            color: #1d1d1f;
+            text-align: center;
+        }
+
+        a {
+            color: #d1262d;
+            font-weight: 600;
+        }
+    </style>
+</head>
+
+<body>
+    <main>
+        <p style="font-size: 48px; margin: 0">🎭</p>
+        <h1 style="font-size: 28px; margin: 8px 0">Página não encontrada</h1>
+        <p><a id="home" href="/passalaco/">Ver o catálogo de fantasias</a></p>
+    </main>
+</body>
+
+</html>

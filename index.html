@@ -7,7 +7,17 @@
     <meta name="theme-color" content="#fff8f1">
     <title>Passa Laço Fantasias — Aluguel de fantasias</title>
     <meta name="description" content="Catálogo de aluguel de fantasias da Passa Laço. Busque por nome, código ou categoria.">
+    <link rel="canonical" href="https://danperrout.github.io/passalaco/">
     <link rel="icon" type="image/png" href="assets/favicon.png">
+
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Passa Laço Fantasias">
+    <meta property="og:locale" content="pt_BR">
+    <meta property="og:url" content="https://danperrout.github.io/passalaco/">
+    <meta property="og:title" content="Passa Laço Fantasias — Aluguel de fantasias">
+    <meta property="og:description" content="Catálogo de aluguel de fantasias da Passa Laço. Busque por nome, código ou categoria.">
+    <meta property="og:image" content="https://www.passalaco.com.br/img/passalaco.png">
+    <meta name="twitter:card" content="summary">
     <link rel="stylesheet" href="assets/styles.css">
 </head>
 
@@ -109,9 +119,17 @@
                 <p id="modalCategoria" class="eyebrow"></p>
                 <div class="sheet-head">
                     <h2 id="modalName" class="sheet-title"></h2>
-                    <button type="button" id="sheetAnotherButton" class="btn btn-tinted sheet-another" hidden>
-                        <span aria-hidden="true">🎲</span> Sortear outra
-                    </button>
+                    <div class="sheet-actions">
+                        <button type="button" id="sheetShareButton" class="btn btn-tinted sheet-share" aria-label="Compartilhar">
+                            <svg viewBox="0 0 20 20" aria-hidden="true">
+                                <path d="M10 12.5V2.75M6.5 6.25 10 2.75l3.5 3.5" />
+                                <path d="M7 8.5H5.75a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h8.5a1 1 0 0 0 1-1v-7a1 1 0 0 0-1-1H13" />
+                            </svg>
+                        </button>
+                        <button type="button" id="sheetAnotherButton" class="btn btn-tinted sheet-another" hidden>
+                            <span aria-hidden="true">🎲</span> Sortear outra
+                        </button>
+                    </div>
                 </div>
                 <p id="modalDescricao" class="sheet-about" hidden></p>
                 <ul id="modalCores" class="color-chips" aria-label="Cores" hidden></ul>
@@ -130,6 +148,8 @@
             </div>
         </div>
     </div>
+
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
 
     <script src="assets/js/main.js"></script>
 </body>
