@@ -76,7 +76,7 @@ têm página também abrem pelo link, mas sem a prévia no compartilhamento.
 ## Vídeos e posts
 
 Vídeos (reels do Instagram ou do Facebook) e posts de foto do Instagram aparecem num carrossel
-junto com a foto da fantasia: arrasta-se para o lado (ou usa as setas, no computador). No celular,
+antes da foto da fantasia: arrasta-se para o lado (ou usa as setas, no computador). No celular,
 a área cresce enquanto um vídeo está à vista. Coloque o link em `videos.json`, pelo código:
 
 ```json
@@ -89,6 +89,10 @@ a área cresce enquanto um vídeo está à vista. Coloque o link em `videos.json
     "10150": "https://www.instagram.com/p/DWrzN-fFNEk/"
 }
 ```
+
+Fantasias com vídeo ou post aparecem primeiro: o vídeo/post é o primeiro item do carrossel, e a
+fantasia vem antes nas listas (ordem padrão, categorias, busca e página inicial; ordenar por nome ou
+mais vistas não muda).
 
 Basta o link (o mesmo do botão "Copiar link" do Instagram ou do Facebook); o site monta o vídeo
 incorporado. O endereço que aparece no código de incorporação do Facebook (`facebook.com/plugins/video.php?...`)

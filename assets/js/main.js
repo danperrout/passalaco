@@ -1058,11 +1058,22 @@ function seasonItems(season) {
     return fantasias.filter(f => fantasiaInSeason(f, season));
 }
 
-// Vitrine primeiro (curadoria da loja), depois o resto embaralhado no dia
+// Fantasias com vídeo ou post (videos.json) vêm antes nas listas: é o que mais vende
+function hasMedia(fantasia) {
+    return Boolean(videos[fantasia._id]);
+}
+
+function mediaFirst(items) {
+    return [...items.filter(hasMedia), ...items.filter(f => !hasMedia(f))];
+}
+
+// Com vídeo/post primeiro, depois a Vitrine (curadoria da loja), depois o resto embaralhado no dia
 function pickRailItems(items, salt, limit = 16) {
-    const vitrine = items.filter(f => f.categoriaNome === 'Vitrine');
-    const others = items.filter(f => f.categoriaNome !== 'Vitrine');
-    return [...dailyShuffle(vitrine, salt), ...dailyShuffle(others, salt)].slice(0, limit);
+    const media = items.filter(hasMedia);
+    const rest = items.filter(f => !hasMedia(f));
+    const vitrine = rest.filter(f => f.categoriaNome === 'Vitrine');
+    const others = rest.filter(f => f.categoriaNome !== 'Vitrine');
+    return [...dailyShuffle(media, salt), ...dailyShuffle(vitrine, salt), ...dailyShuffle(others, salt)].slice(0, limit);
 }
 
 function buildHero(occurrence, cards) {
@@ -1139,7 +1150,7 @@ function renderHome() {
         const vitrineItems = fantasias.filter(f => f.categoriaNome === 'Vitrine');
         if (vitrineItems.length) {
             const vitrine = buildSection('⭐ Vitrine', 'Ver tudo', () => selectCategory('Vitrine'));
-            vitrine.appendChild(buildRail(dailyShuffle(vitrineItems, 'vitrine').slice(0, 16), cards));
+            vitrine.appendChild(buildRail(mediaFirst(dailyShuffle(vitrineItems, 'vitrine')).slice(0, 16), cards));
             homeView.appendChild(vitrine);
         }
     }
@@ -1243,7 +1254,14 @@ function render({ history: historyMode = 'push' } = {}) {
             getCostumeDataFromStorage(costumeViewDataKey, b._id).count -
             getCostumeDataFromStorage(costumeViewDataKey, a._id).count);
     } else if (searchTerm) {
-        filtered.sort((a, b) => (scoreMap.get(b._id) || 0) - (scoreMap.get(a._id) || 0));
+        // Com vídeo ou post, nome que contém a busca conta como resultado exato (vem antes)
+        const rank = f => {
+            const score = scoreMap.get(f._id) || 0;
+            return hasMedia(f) && score >= 75 ? Math.max(score, 100) : score;
+        };
+        filtered.sort((a, b) => rank(b) - rank(a) || hasMedia(b) - hasMedia(a));
+    } else {
+        filtered.sort((a, b) => hasMedia(b) - hasMedia(a));
     }
 
     const totalFilteredItems = filtered.length;
@@ -1668,13 +1686,20 @@ function videoEmbed(link) {
 const VIDEO_SIZES = { instagram: { w: 340, h: 640 }, facebook: { w: FACEBOOK_VIDEO_WIDTH, h: Math.round(FACEBOOK_VIDEO_WIDTH * 16 / 9) } };
 let mediaIndex = 0;
 
+// O slide da foto é fixo no HTML; vídeos e posts entram antes dele (aparecem primeiro)
+const photoSlide = mediaTrack.firstElementChild;
+
 function mediaSlides() {
     return [...mediaTrack.children];
 }
 
+function photoIndex() {
+    return mediaSlides().indexOf(photoSlide);
+}
+
 function renderVideos(fantasia) {
     const list = (fantasia && videos[fantasia._id]) || [];
-    mediaSlides().slice(1).forEach(slide => slide.remove());
+    mediaSlides().filter(slide => slide !== photoSlide).forEach(slide => slide.remove());
     list.forEach(video => {
         const slide = el('div', 'media-slide media-slide-video');
         const frame = document.createElement('iframe');
@@ -1688,7 +1713,7 @@ function renderVideos(fantasia) {
         frame.dataset.w = VIDEO_SIZES[video.type].w;
         frame.dataset.h = VIDEO_SIZES[video.type].h;
         slide.appendChild(frame);
-        mediaTrack.appendChild(slide);
+        mediaTrack.insertBefore(slide, photoSlide);
     });
     mediaDots.innerHTML = '';
     if (list.length) {
@@ -1696,7 +1721,7 @@ function renderVideos(fantasia) {
             const dot = document.createElement('button');
             dot.type = 'button';
             dot.className = 'media-dot';
-            dot.setAttribute('aria-label', i === 0 ? 'Foto da fantasia' : `${list[i - 1].video ? 'Vídeo' : 'Post'} ${i} de ${list.length}`);
+            dot.setAttribute('aria-label', slide === photoSlide ? 'Foto da fantasia' : `${list[i].video ? 'Vídeo' : 'Post'} ${i + 1} de ${list.length}`);
             dot.addEventListener('click', () => goToSlide(i));
             mediaDots.appendChild(dot);
         });
@@ -1708,7 +1733,8 @@ function renderVideos(fantasia) {
     mediaTrack.scrollLeft = 0;
     mediaIndex = 0;
     layoutVideos();
-    syncMediaControls();
+    // Abrindo a ficha: a área já nasce no tamanho certo, sem animar
+    syncMediaControls({ instant: costumeModal.hidden });
 }
 
 // Reduz cada player (largura e altura naturais) para caber no slide, centralizado
@@ -1736,9 +1762,17 @@ function goToSlide(index) {
 // No celular a área da foto é baixa demais para um vídeo: cresce enquanto um vídeo
 // está à vista e volta ao tamanho da foto depois (a altura anima no CSS)
 let mediaResizeFrame = 0;
-function syncMediaHeight() {
-    const expand = mediaIndex > 0 && sheetMode === 'sheet';
+function syncMediaHeight({ instant = false } = {}) {
+    const expand = mediaIndex !== photoIndex() && compactLayout.matches;
     if (sheetMedia.classList.contains('show-video') === expand) return;
+    if (instant) {
+        sheetMedia.style.transition = 'none';
+        sheetMedia.classList.toggle('show-video', expand);
+        sheetMedia.offsetHeight; // aplica a altura antes de devolver a transição
+        sheetMedia.style.transition = '';
+        layoutVideos();
+        return;
+    }
     sheetMedia.classList.toggle('show-video', expand);
     // Acompanha a transição: o player é redimensionado a cada quadro
     cancelAnimationFrame(mediaResizeFrame);
@@ -1751,11 +1785,11 @@ function syncMediaHeight() {
     mediaResizeFrame = requestAnimationFrame(step);
 }
 
-function syncMediaControls() {
-    syncMediaHeight();
+function syncMediaControls(options) {
+    syncMediaHeight(options);
     const count = mediaSlides().length;
     [...mediaDots.children].forEach((dot, i) => dot.setAttribute('aria-current', i === mediaIndex ? 'true' : 'false'));
-    const onPhoto = mediaIndex === 0;
+    const onPhoto = mediaIndex === photoIndex();
     zoomButton.hidden = !onPhoto || !modalImage.classList.contains('loaded');
     videoJumpButton.hidden = !onPhoto || count < 2;
     mediaPrev.hidden = count < 2 || mediaIndex === 0;
@@ -1863,7 +1897,8 @@ function openCostumeSheet(fantasia, sourceEl, { random = false, history: history
     if (wasHidden) sheetSpring.set(0);
 
     // A foto só voa quando a folha nasce de um card; ao sortear outra, o card já não corresponde
-    sheetSource = !swapping && cardImage(sourceEl) ? sourceEl : null;
+    // (com vídeo ou post, quem aparece primeiro é ele, e a foto não está à vista)
+    sheetSource = !swapping && mediaIndex === photoIndex() && cardImage(sourceEl) ? sourceEl : null;
     if (wasHidden && sheetSource) startFlight(sheetSource);
 
     sheetIsOpen = true;
@@ -1888,7 +1923,7 @@ function closeCostumeSheet(velocity, { fromHistory = false } = {}) {
     // Fechou pelo botão, Esc ou fundo (folha parada no lugar): a foto volta para o card.
     // Arrastando para baixo, a foto desce junto com a folha.
     endFlight();
-    if (velocity === undefined && sheetSpring.value > 0.98 && mediaIndex === 0 && sheetSource && sheetSource.isConnected) {
+    if (velocity === undefined && sheetSpring.value > 0.98 && mediaIndex === photoIndex() && sheetSource && sheetSource.isConnected) {
         startFlight(sheetSource);
     }
     sheetSource = null;
@@ -2406,7 +2441,7 @@ function initializeApp() {
     randomSearchButton.addEventListener('click', () => openRandomCostume(randomSearchButton));
     sheetAnotherButton.addEventListener('click', () => openRandomCostume(null));
     sheetShareButton.addEventListener('click', shareCurrentCostume);
-    videoJumpButton.addEventListener('click', () => goToSlide(1));
+    videoJumpButton.addEventListener('click', () => goToSlide(0));
     mediaPrev.addEventListener('click', () => goToSlide(mediaIndex - 1));
     mediaNext.addEventListener('click', () => goToSlide(mediaIndex + 1));
     mediaTrack.addEventListener('scroll', onMediaScroll, { passive: true });
