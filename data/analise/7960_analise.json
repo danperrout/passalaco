@@ -1,0 +1,32 @@
+{
+  "id": 7960,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "branco",
+      "multicolorido"
+    ],
+    "pecas_inclusas": [
+      "saia de tutu",
+      "top/corpo",
+      "adorno de cabeça"
+    ],
+    "material_visual": "tule, tecidos sintéticos e contas coloridas",
+    "estilo_corte": "estilo bailarina com cintura marcada e volume na parte inferior",
+    "acessorios_visiveis": [
+      "tiara ou acessório de cabeça decorado",
+      "detalhes em contas/miçangas no busto"
+    ],
+    "tematica_detalhada": "estética festiva de carnaval com elementos lúdicos, lembrando uma mistura de bailarina com adereços de festa vibrantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7960.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.73,
+  "data_analise": "2026-07-27T19:20:56Z",
+  "data_criacao": "2026-07-27T16:20:56.204392-03:00"
+}

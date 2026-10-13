@@ -1,0 +1,31 @@
+{
+  "id": 7341,
+  "nome_original": "Super Homem",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capa"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "ajustado ao corpo com cintura marcada",
+    "acessorios_visiveis": [
+      "cinto amarelo",
+      "logotipo no peito"
+    ],
+    "tematica_detalhada": "Fantasia do super-herói Super Homem, personagem icônico da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7341.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.13,
+  "data_analise": "2026-07-30T07:28:36Z",
+  "data_criacao": "2026-07-30T04:28:36.557941-03:00"
+}

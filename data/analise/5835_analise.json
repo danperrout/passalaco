@@ -1,0 +1,29 @@
+{
+  "id": 5835,
+  "nome_original": "Cocar",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "azul escuro"
+    ],
+    "pecas_inclusas": [
+      "cocar"
+    ],
+    "material_visual": "penas sintéticas ou naturais",
+    "estilo_corte": "circular com penas irradiando verticalmente",
+    "acessorios_visiveis": [
+      "tiara de suporte"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em adornos de cabeças indígenas ou tribais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5835.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 88.17,
+  "data_analise": "2026-07-27T23:37:43Z",
+  "data_criacao": "2026-07-27T20:37:43.120147-03:00"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2228,
+  "nome_original": "Principe",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado e detalhes em galão dourado",
+    "estilo_corte": "estilo militar clássico com gola alta e corte reto",
+    "acessorios_visiveis": [
+      "faixa transversal vermelha",
+      "medalhão dourado",
+      "adornos dourados nas mangas e peito"
+    ],
+    "tematica_detalhada": "fantasia de príncipe ou oficial militar de gala, com referências a uniformes monárquicos europeus clássicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2228.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.67,
+  "data_analise": "2026-07-30T04:13:28Z",
+  "data_criacao": "2026-07-30T01:13:28.247846-03:00"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 5523,
+  "nome_original": "Aquaman",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "verde",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão"
+    ],
+    "material_visual": "tecido sintético com brilho",
+    "estilo_corte": "ajustado ao corpo",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "versão simplificada do personagem Aquaman"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5523.jpg",
+  "data_analise": "2026-07-27T14:12:47Z"
+}

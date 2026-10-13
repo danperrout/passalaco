@@ -1,0 +1,32 @@
+{
+  "id": 7015,
+  "nome_original": "Cangaceiro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "camisa",
+      "calça",
+      "colete de munição"
+    ],
+    "material_visual": "tecido sintético e couro artificial",
+    "estilo_corte": "estilo sertanejo tradicional com corte reto e acessórios sobrepostos",
+    "acessorios_visiveis": [
+      "chapéu de couro",
+      "cartucheiras"
+    ],
+    "tematica_detalhada": "Cangaceiro, referenciando a cultura do sertão nordestino brasileiro e figuras como Lampião"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7015.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.09,
+  "data_analise": "2026-07-27T18:53:30Z",
+  "data_criacao": "2026-07-27T15:53:30.136177-03:00"
+}

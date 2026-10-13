@@ -1,0 +1,29 @@
+{
+  "id": 4180,
+  "nome_original": "Bope",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga curta",
+      "calça"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "estilo militar/tático",
+    "acessorios_visiveis": [
+      "boina",
+      "cinto"
+    ],
+    "tematica_detalhada": "Fantasia baseada no BOPE (Batalhão de Operações Policiais Especiais), referenciando unidades de elite da polícia militar brasileira."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4180.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.65,
+  "data_analise": "2026-07-27T18:19:07Z",
+  "data_criacao": "2026-07-27T15:19:07.205518-03:00"
+}

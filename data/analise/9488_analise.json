@@ -1,0 +1,31 @@
+{
+  "id": 9488,
+  "nome_original": "Country",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "jaqueta curta",
+      "vestido"
+    ],
+    "material_visual": "tecido sintético acetinado com franjas",
+    "estilo_corte": "estilo country moderno com saia evasê e jaqueta cropped",
+    "acessorios_visiveis": [
+      "chapéu de cowboy com plumas",
+      "lenço no pescoço"
+    ],
+    "tematica_detalhada": "estilo country/cowgirl estilizado com estética pop e feminina"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9488.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 48.34,
+  "data_analise": "2026-07-28T02:15:53Z",
+  "data_criacao": "2026-07-27T23:15:53.528230-03:00"
+}

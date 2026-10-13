@@ -1,0 +1,29 @@
+{
+  "id": 5426,
+  "nome_original": "Elsa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul claro",
+      "azul celeste"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "cetim com sobreposição de tule e detalhes brilhantes",
+    "estilo_corte": "vestido longo com mangas compridas e cintura marcada",
+    "acessorios_visiveis": [
+      "tiara",
+      "peruca loira"
+    ],
+    "tematica_detalhada": "Personagem Elsa do filme Frozen, Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5426.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 34.57,
+  "data_analise": "2026-07-28T03:35:41Z",
+  "data_criacao": "2026-07-28T00:35:41.351839-03:00"
+}

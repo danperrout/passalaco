@@ -1,0 +1,32 @@
+{
+  "id": 2843,
+  "nome_original": "Palhacinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "amarelo",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com textura quadriculada no top e cetim com bolinhas na saia",
+    "estilo_corte": "estilo cropped ajustado com saia curta rodada e volumosa",
+    "acessorios_visiveis": [
+      "peruca loira",
+      "tiara de pompons coloridos"
+    ],
+    "tematica_detalhada": "fantasia de palhaça estilizada, com referências a personagens de circo em versão moderna e festiva"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2843.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.19,
+  "data_analise": "2026-07-30T01:34:01Z",
+  "data_criacao": "2026-07-29T22:34:01.913687-03:00"
+}

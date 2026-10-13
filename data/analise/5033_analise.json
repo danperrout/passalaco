@@ -1,0 +1,32 @@
+{
+  "id": 5033,
+  "nome_original": "Sol",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "capa",
+      "tiara"
+    ],
+    "material_visual": "tecido leve, possivelmente poliéster, com detalhes em lantejoulas ou glitter dourado",
+    "estilo_corte": "estilo grego/romano com túnica fluida e cintura marcada por cordões",
+    "acessorios_visiveis": [
+      "tiara de raios solares",
+      "braceletes dourados",
+      "cordão de cintura"
+    ],
+    "tematica_detalhada": "representação personificada do Sol, com referências à mitologia grega (Apolo) ou egípcia (Rá)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5033.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 32.98,
+  "data_analise": "2026-07-30T06:55:11Z",
+  "data_criacao": "2026-07-30T03:55:11.864731-03:00"
+}

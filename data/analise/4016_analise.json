@@ -1,0 +1,33 @@
+{
+  "id": 4016,
+  "nome_original": "Colete e Chapeu",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "amarelo",
+      "vermelho",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "chapéu",
+      "camisa xadrez"
+    ],
+    "material_visual": "couro sintético, palha e tecido de algodão",
+    "estilo_corte": "estilo western com franjas e corte reto",
+    "acessorios_visiveis": [
+      "chapéu de cowboy",
+      "colete com bolsos decorados"
+    ],
+    "tematica_detalhada": "Fantasia de Cowboy/Velho Oeste americano, referenciando a cultura rural e rústica dos Estados Unidos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4016.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 58.61,
+  "data_analise": "2026-07-28T00:54:27Z",
+  "data_criacao": "2026-07-27T21:54:27.032289-03:00"
+}

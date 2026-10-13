@@ -1,0 +1,33 @@
+{
+  "id": 5339,
+  "nome_original": "Pinoquio",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "vermelho",
+      "branco",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "chapéu cone",
+      "camisa",
+      "bermuda"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "infantil, corte simples e folgado",
+    "acessorios_visiveis": [
+      "laço azul",
+      "alças da bermuda"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Pinoquio, baseada na representação clássica do boneco de madeira"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5339.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.28,
+  "data_analise": "2026-07-30T03:34:00Z",
+  "data_criacao": "2026-07-30T00:34:00.759171-03:00"
+}

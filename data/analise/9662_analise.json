@@ -1,0 +1,30 @@
+{
+  "id": 9662,
+  "nome_original": "Deusa Grega",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Cleopatras e Faraós",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido sintético com estampa ornamental brilhante",
+    "estilo_corte": "longo, justo ao corpo, com recortes transparentes no busto e cintura",
+    "acessorios_visiveis": [
+      "tiara dourada",
+      "colar rígido dourado",
+      "bracelete dourado"
+    ],
+    "tematica_detalhada": "Deusa Grega ou figura da realeza antiga, com referências a ornamentos clássicos e luxo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9662.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.06,
+  "data_analise": "2026-07-28T02:58:07Z",
+  "data_criacao": "2026-07-27T23:58:07.949991-03:00"
+}

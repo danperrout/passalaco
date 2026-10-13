@@ -1,0 +1,30 @@
+{
+  "id": 8558,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "coroa/estilo cocar",
+      "vestido de franjas"
+    ],
+    "material_visual": "lantejoulas, paetês, franjas metálicas e penas",
+    "estilo_corte": "estilo showgirl, justo com acabamento em franjas longas",
+    "acessorios_visiveis": [
+      "estilo cocar com penas altas",
+      "tiara adornada"
+    ],
+    "tematica_detalhada": "Passista de Carnaval ou Showgirl de Las Vegas, com referências a escolas de samba e espetáculos de revista"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8558.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.37,
+  "data_analise": "2026-07-27T19:21:07Z",
+  "data_criacao": "2026-07-27T16:21:07.107985-03:00"
+}

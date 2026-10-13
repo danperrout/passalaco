@@ -1,0 +1,30 @@
+{
+  "id": 8542,
+  "nome_original": "Arlequina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "camiseta",
+      "shorts"
+    ],
+    "material_visual": "tecido acetinado/brilhante",
+    "estilo_corte": "confortável/sporty",
+    "acessorios_visiveis": [
+      "nenhum"
+    ],
+    "tematica_detalhada": "Arlequina (Harley Quinn) inspirado em estilo esportivo/casual"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8542.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 14.82,
+  "data_analise": "2026-07-27T16:51:39Z",
+  "data_criacao": "2026-07-27T13:51:39.576261-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 280,
+  "nome_original": "Brasileira",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "verde",
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido com aplicação de texturas ou pinturas multicoloridas",
+    "estilo_corte": "vestido curto com modelagem evasê e chapéu de abas largas",
+    "acessorios_visiveis": [
+      "chapéu branco com faixa verde"
+    ],
+    "tematica_detalhada": "Representação artística da bandeira do Brasil, utilizando as cores nacionais em um estilo abstrato ou pictórico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/280.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.96,
+  "data_analise": "2026-07-27T18:22:20Z",
+  "data_criacao": "2026-07-27T15:22:20.236199-03:00"
+}

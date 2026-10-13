@@ -1,0 +1,31 @@
+{
+  "id": 3635,
+  "nome_original": "Tigrão",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético com aspecto de poliéster ou plush",
+    "estilo_corte": "estilo kigurumi ou macacão inteiro",
+    "acessorios_visiveis": [
+      "orelhas no capuz",
+      "detalhe de nariz rosa"
+    ],
+    "tematica_detalhada": "Personagem Tigrão da franquia Winnie the Pooh"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3635.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 33.26,
+  "data_analise": "2026-07-30T08:13:35Z",
+  "data_criacao": "2026-07-30T05:13:35.206168-03:00"
+}

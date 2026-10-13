@@ -1,0 +1,30 @@
+{
+  "id": 7912,
+  "nome_original": "Super Mulher",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "vestido curto com saia rodada e decote quadrado",
+    "acessorios_visiveis": [
+      "capa"
+    ],
+    "tematica_detalhada": "Fantasia da Super Mulher, baseada na personagem Supergirl da DC Comics, caracterizada pelo logotipo do 'S' no peito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7912.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.75,
+  "data_analise": "2026-07-30T07:29:38Z",
+  "data_criacao": "2026-07-30T04:29:38.356115-03:00"
+}

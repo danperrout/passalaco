@@ -1,0 +1,32 @@
+{
+  "id": 744,
+  "nome_original": "Indio",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "dourado",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia",
+      "tiara"
+    ],
+    "material_visual": "tecido sintético com texturas que lembram couro e palha, adornado com penas e franjas",
+    "estilo_corte": "estilo tribal com peças curtas e acabamentos em franjas",
+    "acessorios_visiveis": [
+      "tiara de penas",
+      "detalhes decorativos na saia"
+    ],
+    "tematica_detalhada": "fantasia temática de indígena, com referências genéricas a culturas tribais através do uso de penas e cores terrosas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/744.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 148.96,
+  "data_analise": "2026-07-28T17:21:16Z",
+  "data_criacao": "2026-07-28T14:21:16.333648-03:00"
+}

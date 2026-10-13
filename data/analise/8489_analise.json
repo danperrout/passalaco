@@ -1,0 +1,33 @@
+{
+  "id": 8489,
+  "nome_original": "Palhacinho",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "laranja",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "calça",
+      "peruca"
+    ],
+    "material_visual": "cetim brilhante e tule",
+    "estilo_corte": "folgado com gola rufada e mangas bufantes",
+    "acessorios_visiveis": [
+      "peruca colorida",
+      "gola de tule"
+    ],
+    "tematica_detalhada": "Palhaço clássico de circo, caracterizado por cores vibrantes e padrões geométricos em losangos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8489.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 32.18,
+  "data_analise": "2026-07-30T01:45:50Z",
+  "data_criacao": "2026-07-29T22:45:50.236801-03:00"
+}

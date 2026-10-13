@@ -1,0 +1,28 @@
+{
+  "id": 4975,
+  "nome_original": "Barbie",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule com glitter e cetim",
+    "estilo_corte": "estilo princesa com saia volumosa e alças finas",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "Barbie Princesa, referenciando a estética clássica de contos de fadas e bonecas da Mattel"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4975.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.81,
+  "data_analise": "2026-07-27T17:46:50Z",
+  "data_criacao": "2026-07-27T14:46:50.087187-03:00"
+}

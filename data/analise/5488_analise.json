@@ -1,0 +1,33 @@
+{
+  "id": 5488,
+  "nome_original": "Tigresa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia",
+      "manguitos",
+      "perneiras"
+    ],
+    "material_visual": "tecido sintético com estampa animal e detalhes em correntes douradas",
+    "estilo_corte": "estilo tribal/guerreira com cortes irregulares na barra da saia",
+    "acessorios_visiveis": [
+      "colar",
+      "correntes de cintura",
+      "tiara"
+    ],
+    "tematica_detalhada": "fantasia de tigresa com inspiração em trajes tribais ou personagens de fantasia selvagem"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5488.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 435.7,
+  "data_analise": "2026-07-30T08:29:52Z",
+  "data_criacao": "2026-07-30T05:29:52.422437-03:00"
+}

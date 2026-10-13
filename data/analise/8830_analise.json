@@ -1,0 +1,34 @@
+{
+  "id": 8830,
+  "nome_original": "Famila Rei e Rainha",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "paletó",
+      "calça",
+      "jaqueta infantil",
+      "calça infantil"
+    ],
+    "material_visual": "veludo com detalhes em cetim ou lurex dourado",
+    "estilo_corte": "estilo imperial/medieval com cortes estruturados e adornos frontais",
+    "acessorios_visiveis": [
+      "coroa da rainha",
+      "coroa do rei",
+      "coroa da criança"
+    ],
+    "tematica_detalhada": "Família Real inspirada em monarquias europeias clássicas ou contos de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8830.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 59.04,
+  "data_analise": "2026-07-28T04:46:04Z",
+  "data_criacao": "2026-07-28T01:46:04.812421-03:00"
+}

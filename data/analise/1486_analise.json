@@ -1,0 +1,35 @@
+{
+  "id": 1486,
+  "nome_original": "Pinoquio",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "vermelho",
+      "branco",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "camisa",
+      "calça",
+      "gravata borboleta"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou poliéster",
+    "estilo_corte": "estilo infantil clássico, com calça curta e camisa de mangas bufantes",
+    "acessorios_visiveis": [
+      "chapéu com pluma",
+      "gravata borboleta azul",
+      "nariz postiço"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Pinoquio, baseada na clássica história do boneco de madeira que quer se tornar um menino real"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1486.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.8,
+  "data_analise": "2026-07-30T03:34:31Z",
+  "data_criacao": "2026-07-30T00:34:31.124887-03:00"
+}

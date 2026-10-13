@@ -1,0 +1,31 @@
+{
+  "id": 9117,
+  "nome_original": "Capetinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "corset",
+      "tiara de chifres"
+    ],
+    "material_visual": "tecido sintético com brilho e amarrações de cetim",
+    "estilo_corte": "ajustado ao corpo com estilo corset e decote",
+    "acessorios_visiveis": [
+      "chifres de diabinho",
+      "laço no pescoço",
+      "cadarços frontais"
+    ],
+    "tematica_detalhada": "fantasia de capetinha ou diabinha sensual, referenciando figuras folclóricas do inferno de forma estilizada para festas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9117.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.75,
+  "data_analise": "2026-07-27T18:58:47Z",
+  "data_criacao": "2026-07-27T15:58:47.189138-03:00"
+}

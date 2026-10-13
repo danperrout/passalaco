@@ -1,0 +1,29 @@
+{
+  "id": 4227,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido leve com rendas e fitas",
+    "estilo_corte": "vestido infantil com mangas bufantes, cintura marcada e saia rodada com babados",
+    "acessorios_visiveis": [
+      "tiara com laço e fitas"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina infantil, inspirada no traje caipira estilizado com elementos românticos e coloridos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4227.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 222.61,
+  "data_analise": "2026-07-29T00:47:57Z",
+  "data_criacao": "2026-07-28T21:47:57.795155-03:00"
+}

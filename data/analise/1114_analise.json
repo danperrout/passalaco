@@ -1,0 +1,30 @@
+{
+  "id": 1114,
+  "nome_original": "Pedrita",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido com estampa animal print",
+    "estilo_corte": "modelo asymmetrical com um ombro só e barra recortada em pontas",
+    "acessorios_visiveis": [
+      "tiara com detalhe superior",
+      "colar com pingentes"
+    ],
+    "tematica_detalhada": "Fantasia de Pedrita, inspirada na Era da Pedra e no personagem de The Flintstones"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1114.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 83.03,
+  "data_analise": "2026-07-30T02:54:07Z",
+  "data_criacao": "2026-07-29T23:54:07.294364-03:00"
+}

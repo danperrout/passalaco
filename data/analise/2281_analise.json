@@ -1,0 +1,29 @@
+{
+  "id": 2281,
+  "nome_original": "Lobo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "estilo kigurumi ou pijama macacão",
+    "acessorios_visiveis": [
+      "máscara de lobo"
+    ],
+    "tematica_detalhada": "fantasia de lobo antropomórfico, comum em festas infantis ou representações de fábulas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2281.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 156.44,
+  "data_analise": "2026-07-29T12:09:06Z",
+  "data_criacao": "2026-07-29T09:09:06.334738-03:00"
+}

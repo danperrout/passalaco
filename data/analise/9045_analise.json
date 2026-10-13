@@ -1,0 +1,28 @@
+{
+  "id": 9045,
+  "nome_original": "Camponesa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido xadrez",
+    "estilo_corte": "estilo camponesa com corpete ajustado por cordões e saia rodada",
+    "acessorios_visiveis": [
+      "tiara de flores"
+    ],
+    "tematica_detalhada": "fantasia de camponesa europeia tradicional, com referências a trajes folclóricos ou personagens de contos de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9045.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.1,
+  "data_analise": "2026-07-27T18:50:20Z",
+  "data_criacao": "2026-07-27T15:50:20.604452-03:00"
+}

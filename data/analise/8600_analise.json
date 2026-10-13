@@ -1,0 +1,24 @@
+{
+  "id": 8600,
+  "nome_original": "Anos 20",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prata",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido com aplicação de lantejoulas e brilhos",
+    "estilo_corte": "estilo melindrosa, corte reto com decote em V",
+    "acessorios_visiveis": [
+      "faixa de cabelo com brilhos"
+    ],
+    "tematica_detalhada": "Anos 20 / Era do Jazz / Melindrosa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8600.jpg",
+  "data_analise": "2026-07-27T13:58:39Z"
+}

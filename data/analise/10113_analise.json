@@ -1,0 +1,31 @@
+{
+  "id": 10113,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "vermelho",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "top estruturado",
+      "saia de franjas"
+    ],
+    "material_visual": "paetês, lantejoulas e fios metálicos",
+    "estilo_corte": "estilo passista de escola de samba, corte curto e revelador",
+    "acessorios_visiveis": [
+      "tiara decorada",
+      "colares de contas"
+    ],
+    "tematica_detalhada": "Carnaval brasileiro, especificamente inspirada em fantasias de passistas e rainhas de bateria"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10113.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.72,
+  "data_analise": "2026-07-27T19:27:46Z",
+  "data_criacao": "2026-07-27T16:27:46.281136-03:00"
+}

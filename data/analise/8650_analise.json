@@ -1,0 +1,30 @@
+{
+  "id": 8650,
+  "nome_original": "Safari",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "caqui"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga curta",
+      "bermuda",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com aspecto de sarja ou algodão",
+    "estilo_corte": "estilo utilitário com bolsos frontais e corte reto",
+    "acessorios_visiveis": [
+      "chapéu de safari"
+    ],
+    "tematica_detalhada": "explorador de safari ou arqueólogo, remetendo a figuras como Indiana Jones"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8650.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.98,
+  "data_analise": "2026-07-30T05:15:03Z",
+  "data_criacao": "2026-07-30T02:15:03.498843-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 4123,
+  "nome_original": "Quimono",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "faixa"
+    ],
+    "material_visual": "tecido sintético ou algodão fosco",
+    "estilo_corte": "corte reto e amplo com mangas largas",
+    "acessorios_visiveis": [
+      "faixa preta",
+      "peruca preta"
+    ],
+    "tematica_detalhada": "fantasia inspirada em artes marciais orientais, remetendo a um mestre de karatê ou judô"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4123.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.93,
+  "data_analise": "2026-07-30T04:19:19Z",
+  "data_criacao": "2026-07-30T01:19:19.092887-03:00"
+}

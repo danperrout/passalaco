@@ -1,0 +1,31 @@
+{
+  "id": 8881,
+  "nome_original": "Grego",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Gregas/Romanos",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "manto/toga"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "estilo drapeado com túnica curta e manto sobreposto",
+    "acessorios_visiveis": [
+      "coroa de louros",
+      "braceletes"
+    ],
+    "tematica_detalhada": "Fantasia de Grécia ou Roma Antiga, remetendo a imperadores, senadores ou figuras da mitologia clássica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8881.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 39.01,
+  "data_analise": "2026-07-28T11:27:20Z",
+  "data_criacao": "2026-07-28T08:27:20.880792-03:00"
+}

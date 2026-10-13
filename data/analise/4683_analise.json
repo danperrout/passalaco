@@ -1,0 +1,29 @@
+{
+  "id": 4683,
+  "nome_original": "Edward Mãos de Tesoura",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça"
+    ],
+    "material_visual": "material sintético com brilho semelhante a couro ou vinil",
+    "estilo_corte": "corte reto com detalhes de tiras e fivelas",
+    "acessorios_visiveis": [
+      "mãos de tesoura",
+      "peruca preta"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Edward Mãos de Tesoura, do filme homônimo de Tim Burton"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4683.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 45.8,
+  "data_analise": "2026-07-28T03:27:37Z",
+  "data_criacao": "2026-07-28T00:27:37.134323-03:00"
+}

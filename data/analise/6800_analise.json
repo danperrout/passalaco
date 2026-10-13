@@ -1,0 +1,31 @@
+{
+  "id": 6800,
+  "nome_original": "Peruca Sininho",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "loiro"
+    ],
+    "pecas_inclusas": [
+      "peruca",
+      "asas",
+      "vestido"
+    ],
+    "material_visual": "tecido com brilho, sintético e metal para a estrutura das asas",
+    "estilo_corte": "vestido curto com alças finas e peruca curta com topete",
+    "acessorios_visiveis": [
+      "asas de fada",
+      "tiara ou laço verde no cabelo"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Sininho (Tinker Bell), fada icônica da Disney e do livro Peter Pan"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6800.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 19.17,
+  "data_analise": "2026-07-30T03:21:36Z",
+  "data_criacao": "2026-07-30T00:21:36.688269-03:00"
+}

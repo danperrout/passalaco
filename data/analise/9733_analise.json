@@ -1,0 +1,29 @@
+{
+  "id": 9733,
+  "nome_original": "Traje Bíblico",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo ouro",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "estola"
+    ],
+    "material_visual": "tecido plissado com aspecto acetinado",
+    "estilo_corte": "túnica longa e ampla com mangas largas",
+    "acessorios_visiveis": [
+      "estola transversal"
+    ],
+    "tematica_detalhada": "Traje bíblico clássico, remetendo a figuras religiosas, profetas ou personagens da antiguidade do Oriente Médio"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9733.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.41,
+  "data_analise": "2026-07-30T08:33:07Z",
+  "data_criacao": "2026-07-30T05:33:07.703419-03:00"
+}

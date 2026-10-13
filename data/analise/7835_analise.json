@@ -1,0 +1,30 @@
+{
+  "id": 7835,
+  "nome_original": "Mulan",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "azul",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "faixa/obi"
+    ],
+    "material_visual": "tecido sintético com brilho e aspecto de cetim ou organza",
+    "estilo_corte": "estilo quimono com mangas largas e corte reto",
+    "acessorios_visiveis": [
+      "faixa abdominal decorativa"
+    ],
+    "tematica_detalhada": "fantasia inspirada na personagem Mulan, com referências às vestimentas tradicionais chinesas (Hanfu/Quimono)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7835.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.23,
+  "data_analise": "2026-07-29T23:16:28Z",
+  "data_criacao": "2026-07-29T20:16:28.848219-03:00"
+}

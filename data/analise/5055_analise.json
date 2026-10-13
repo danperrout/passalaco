@@ -1,0 +1,30 @@
+{
+  "id": 5055,
+  "nome_original": "Zebra",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético com elasticidade",
+    "estilo_corte": "estilo kigurumi ou macacão justo de peça única",
+    "acessorios_visiveis": [
+      "orelhas de zebra",
+      "crina no topo do capuz"
+    ],
+    "tematica_detalhada": "fantasia de animal, especificamente uma zebra, com estampa de listras características"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5055.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 59.24,
+  "data_analise": "2026-07-30T09:04:29Z",
+  "data_criacao": "2026-07-30T06:04:29.678094-03:00"
+}

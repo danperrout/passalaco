@@ -1,0 +1,27 @@
+{
+  "id": 7914,
+  "nome_original": "Lider de Torcida",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "top crop",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco",
+    "estilo_corte": "top curto sem mangas com decote em V e saia plissada curta",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Líder de torcida americana clássica, inspirada em uniformes escolares dos Estados Unidos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7914.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 244.24,
+  "data_analise": "2026-07-29T11:16:31Z",
+  "data_criacao": "2026-07-29T08:16:31.549657-03:00"
+}

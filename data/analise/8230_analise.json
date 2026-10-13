@@ -1,0 +1,30 @@
+{
+  "id": 8230,
+  "nome_original": "Noiva",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "off-white"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "renda e tule",
+    "estilo_corte": "corte A com saia em camadas e mangas bufantes",
+    "acessorios_visiveis": [
+      "véu",
+      "guirlanda de flores",
+      "buquê de flores"
+    ],
+    "tematica_detalhada": "Noiva clássica/estilizada com referências românticas e delicadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8230.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 48.69,
+  "data_analise": "2026-07-30T00:22:59Z",
+  "data_criacao": "2026-07-29T21:22:59.067665-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 7348,
+  "nome_original": "Moana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "bege",
+      "marrom",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "saia"
+    ],
+    "material_visual": "tecido texturizado, palha sintética e detalhes em renda ou crochê",
+    "estilo_corte": "estilo tribal com saia assimétrica e franjas",
+    "acessorios_visiveis": [
+      "guirlanda de flores",
+      "colar com pingente azul"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Moana, remetendo à cultura polinésia com elementos naturais e tropicais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7348.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.59,
+  "data_analise": "2026-07-29T22:45:19Z",
+  "data_criacao": "2026-07-29T19:45:19.197086-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 3263,
+  "nome_original": "Junina Mf",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com estampa de poá e detalhes em feltro",
+    "estilo_corte": "estilo caipira com mangas bufantes e saia rodada",
+    "acessorios_visiveis": [
+      "mini chapéu de palha",
+      "laço vermelho",
+      "fitas coloridas"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, representando a figura da noiva ou moça caipira estilizada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3263.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.94,
+  "data_analise": "2026-07-29T06:56:57Z",
+  "data_criacao": "2026-07-29T03:56:57.645535-03:00"
+}

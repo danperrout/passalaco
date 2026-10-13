@@ -1,0 +1,27 @@
+{
+  "id": 7534,
+  "nome_original": "Asa",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "asa"
+    ],
+    "material_visual": "penas",
+    "estilo_corte": "formato de coração",
+    "acessorios_visiveis": [
+      "prendedor/gancho de fixação"
+    ],
+    "tematica_detalhada": "fantasia de anjo, fada ou criatura mística, caracterizada pelo uso de penas volumosas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7534.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 6.74,
+  "data_analise": "2026-07-27T16:54:19Z",
+  "data_criacao": "2026-07-27T13:54:19.286342-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 9602,
+  "nome_original": "It a Coisa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético acetinado com detalhes em tule",
+    "estilo_corte": "vestido curto com mangas bufantes, gola rufada e saia franzida",
+    "acessorios_visiveis": [
+      "pompons vermelhos",
+      "botões decorativos vermelhos"
+    ],
+    "tematica_detalhada": "Versão feminina da fantasia do palhaço Pennywise, do filme 'It: A Coisa'"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9602.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 114.46,
+  "data_analise": "2026-07-28T17:37:38Z",
+  "data_criacao": "2026-07-28T14:37:38.797592-03:00"
+}

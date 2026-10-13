@@ -1,0 +1,28 @@
+{
+  "id": 649,
+  "nome_original": "Frevo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "amarelo",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "vestido curto com babados nos ombros e saia em gomos coloridos",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia inspirada no Frevo, ritmo e dança típicos do carnaval de Pernambuco, caracterizada pelas cores vibrantes e volume"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/649.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 145.06,
+  "data_analise": "2026-07-28T06:38:22Z",
+  "data_criacao": "2026-07-28T03:38:22.488482-03:00"
+}

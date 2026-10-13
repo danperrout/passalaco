@@ -1,0 +1,31 @@
+{
+  "id": 899,
+  "nome_original": "Minnie",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "tecido acetinado com brilho",
+    "estilo_corte": "vestido curto com mangas bufantes, gola Peter Pan e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara com orelhas de camundongo e laço",
+      "laço na cintura"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Minnie Mouse, caracterizada pelas cores clássicas e estampa de bolinhas (polka dots)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/899.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 60.37,
+  "data_analise": "2026-07-29T22:40:12Z",
+  "data_criacao": "2026-07-29T19:40:12.225827-03:00"
+}

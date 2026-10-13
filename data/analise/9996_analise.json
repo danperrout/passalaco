@@ -1,0 +1,28 @@
+{
+  "id": 9996,
+  "nome_original": "Bruxa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "cetim ou tecido sintético com brilho e tule",
+    "estilo_corte": "estilo corset com cintura marcada e saia volumosa",
+    "acessorios_visiveis": [
+      "chapéu de bruxa pontudo"
+    ],
+    "tematica_detalhada": "bruxa clássica com toque moderno e sofisticado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9996.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.65,
+  "data_analise": "2026-07-27T18:30:26Z",
+  "data_criacao": "2026-07-27T15:30:26.709359-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 5603,
+  "nome_original": "Ana",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "rosa magenta",
+      "azul claro",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa"
+    ],
+    "material_visual": "cetim e tecido sintético com detalhes brilhantes",
+    "estilo_corte": "vestido longo com saia rodada e capa curta sobre os ombros",
+    "acessorios_visiveis": [
+      "detalhes bordados no corpete",
+      "bordas brilhantes na capa"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Anna do filme Frozen"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5603.jpg",
+  "data_analise": "2026-07-27T15:07:37Z"
+}

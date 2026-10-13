@@ -1,0 +1,32 @@
+{
+  "id": 9406,
+  "nome_original": "Mulher Maravilha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul escuro",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "corpete",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante/acetinado",
+    "estilo_corte": "ajustado ao corpo com saia curta plissada",
+    "acessorios_visiveis": [
+      "tiara",
+      "braceletes",
+      "braçadeira"
+    ],
+    "tematica_detalhada": "Fantasia da super-heroína Mulher Maravilha, personagem dos quadrinhos da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9406.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 30.07,
+  "data_analise": "2026-07-29T23:27:17Z",
+  "data_criacao": "2026-07-29T20:27:17.053605-03:00"
+}

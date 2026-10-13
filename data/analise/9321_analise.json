@@ -1,0 +1,29 @@
+{
+  "id": 9321,
+  "nome_original": "Princesa do Mario",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Cosplay",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa choque",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "cetim com glitter no busto e plumas sintéticas na saia",
+    "estilo_corte": "estilo corset com alças finas e saia curta volumosa",
+    "acessorios_visiveis": [
+      "tiara/coroa dourada",
+      "joia central no busto"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na Princesa Peach da franquia Super Mario, com abordagem glamourosa e festiva"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9321.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.79,
+  "data_analise": "2026-07-30T04:03:52Z",
+  "data_criacao": "2026-07-30T01:03:52.344180-03:00"
+}

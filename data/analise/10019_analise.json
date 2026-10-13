@@ -1,0 +1,27 @@
+{
+  "id": 10019,
+  "nome_original": "Dona Benta",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido com blusa acoplada"
+    ],
+    "material_visual": "tecido sintético acetinado com detalhes em renda",
+    "estilo_corte": "estilo camponesa com gola arredondada e saia evasê",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia inspirada na personagem Dona Benta, remetendo a um visual de avó clássica e doméstica do interior"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10019.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.28,
+  "data_analise": "2026-07-28T03:14:41Z",
+  "data_criacao": "2026-07-28T00:14:41.935804-03:00"
+}

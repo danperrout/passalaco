@@ -1,0 +1,31 @@
+{
+  "id": 9337,
+  "nome_original": "Melindrosa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Danças",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "luvas",
+      "faixa de cabeça"
+    ],
+    "material_visual": "tecido sintético com franjas",
+    "estilo_corte": "vestido curto reto com decote redondo e franjas longas",
+    "acessorios_visiveis": [
+      "luvas longas",
+      "tiara com pluma"
+    ],
+    "tematica_detalhada": "Estilo Melindrosa (Flapper girl) dos anos 20, referenciando a era do jazz e a libertação feminina da época"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9337.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 30.88,
+  "data_analise": "2026-07-29T21:45:38Z",
+  "data_criacao": "2026-07-29T18:45:38.450751-03:00"
+}

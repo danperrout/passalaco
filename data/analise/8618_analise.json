@@ -1,0 +1,30 @@
+{
+  "id": 8618,
+  "nome_original": "Enfermeiro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "jaleco",
+      "calça",
+      "touca"
+    ],
+    "material_visual": "tecido sintético ou algodão com acabamento fosco",
+    "estilo_corte": "corte reto e solto, simulando uniforme hospitalar clássico",
+    "acessorios_visiveis": [
+      "insígnia de cruz vermelha no peito"
+    ],
+    "tematica_detalhada": "fantasia de profissional de saúde, especificamente enfermeiro ou médico, com referência visual a uniformes clínicos tradicionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8618.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 27.81,
+  "data_analise": "2026-07-28T03:51:58Z",
+  "data_criacao": "2026-07-28T00:51:58.791859-03:00"
+}

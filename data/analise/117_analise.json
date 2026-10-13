@@ -1,0 +1,23 @@
+{
+  "id": 117,
+  "nome_original": "Anos 70",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "colorido",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético estampado",
+    "estilo_corte": "estilo disco com camisa de gola aberta e calças ajustadas",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "estilo disco anos 70 com estampa psicodélica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/117.jpg",
+  "data_analise": "2026-07-27T14:03:52Z"
+}

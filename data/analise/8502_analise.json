@@ -1,0 +1,31 @@
+{
+  "id": 8502,
+  "nome_original": "Astronauta",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capacete"
+    ],
+    "material_visual": "tecido sintético liso de aparência leve e capacete de plástico rígido com visor espelhado",
+    "estilo_corte": "macacão de peça única com modelagem reta e detalhes de suspensórios pretos",
+    "acessorios_visiveis": [
+      "capacete de astronauta",
+      "emblemas/patches de agência espacial"
+    ],
+    "tematica_detalhada": "exploração espacial, inspirada em trajes de astronautas reais da NASA para fins de cosplay ou festa temática"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8502.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 16.19,
+  "data_analise": "2026-07-27T16:56:37Z",
+  "data_criacao": "2026-07-27T13:56:37.676272-03:00"
+}

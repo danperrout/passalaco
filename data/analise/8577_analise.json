@@ -1,0 +1,31 @@
+{
+  "id": 8577,
+  "nome_original": "Sonic",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "capuz",
+      "colete",
+      "shorts"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado/brilhante",
+    "estilo_corte": "ajustado ao corpo com design temático",
+    "acessorios_visiveis": [
+      "botas vermelhas com detalhes brancos"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Sonic the Hedgehog, ícone dos jogos da SEGA"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8577.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.14,
+  "data_analise": "2026-07-30T07:14:28Z",
+  "data_criacao": "2026-07-30T04:14:28.630895-03:00"
+}

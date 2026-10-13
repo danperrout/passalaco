@@ -1,0 +1,35 @@
+{
+  "id": 4607,
+  "nome_original": "Link",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "marrom",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "chapéu",
+      "calças",
+      "botas"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "túnica solta com corte medieval",
+    "acessorios_visiveis": [
+      "escudo Hylian",
+      "espada",
+      "bandoleira",
+      "protetor de pulso"
+    ],
+    "tematica_detalhada": "Personagem Link da franquia The Legend of Zelda, representando um herói de fantasia medieval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4607.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 47.23,
+  "data_analise": "2026-07-29T11:44:33Z",
+  "data_criacao": "2026-07-29T08:44:33.174863-03:00"
+}

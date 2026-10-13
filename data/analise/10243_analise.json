@@ -1,0 +1,31 @@
+{
+  "id": 10243,
+  "nome_original": "Junina Saia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Vitrine",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "amarelo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "top tomara que caia",
+      "saia volumosa"
+    ],
+    "material_visual": "tecido sintético com camadas de renda e fitas de cetim",
+    "estilo_corte": "corte ajustado no busto com saia curta e armada em camadas (estilo tutu)",
+    "acessorios_visiveis": [
+      "tiara com fitas decorativas"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, com referências ao traje típico caipira estilizado e colorido"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10243.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 44.41,
+  "data_analise": "2026-07-29T07:45:22Z",
+  "data_criacao": "2026-07-29T04:45:22.013019-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 7849,
+  "nome_original": "Hulk",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "blusa de manga longa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com brilho e máscara de látex ou plástico moldado",
+    "estilo_corte": "estilo muscle fit com impressões que simulam anatomia muscular",
+    "acessorios_visiveis": [
+      "máscara facial"
+    ],
+    "tematica_detalhada": "Personagem Hulk da Marvel Comics, representando a versão transformada do Dr. Bruce Banner"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7849.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 68.86,
+  "data_analise": "2026-07-28T15:23:06Z",
+  "data_criacao": "2026-07-28T12:23:06.498661-03:00"
+}

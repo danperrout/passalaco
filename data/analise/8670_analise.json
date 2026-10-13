@@ -1,0 +1,29 @@
+{
+  "id": 8670,
+  "nome_original": "Patty",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido leve com estampa floral",
+    "estilo_corte": "corte baby doll com gola peter pan e mangas bufantes",
+    "acessorios_visiveis": [
+      "renda decorativa na gola e busto"
+    ],
+    "tematica_detalhada": "estilo vintage/infantilizado, remetendo a personagens como a Patty ou estética 'coquette' e camponesa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8670.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.07,
+  "data_analise": "2026-07-30T02:48:39Z",
+  "data_criacao": "2026-07-29T23:48:39.684585-03:00"
+}

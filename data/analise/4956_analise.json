@@ -1,0 +1,24 @@
+{
+  "id": 4956,
+  "nome_original": "Alice",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho e transparências",
+    "estilo_corte": "vestido curto com saia rodada e gola arredondada",
+    "acessorios_visiveis": [
+      "tiara com laço"
+    ],
+    "tematica_detalhada": "Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4956.jpg",
+  "data_analise": "2026-07-27T13:47:26Z"
+}

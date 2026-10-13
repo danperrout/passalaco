@@ -1,0 +1,29 @@
+{
+  "id": 7862,
+  "nome_original": "Minnie",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com saia de tule ou organza",
+    "estilo_corte": "estilo boneca com cintura marcada e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara com orelhas e laço"
+    ],
+    "tematica_detalhada": "Personagem Minnie Mouse da Disney, versão feminina e delicada com estampa de poá"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7862.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.18,
+  "data_analise": "2026-07-29T22:36:55Z",
+  "data_criacao": "2026-07-29T19:36:55.851428-03:00"
+}

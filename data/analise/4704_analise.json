@@ -1,0 +1,32 @@
+{
+  "id": 4704,
+  "nome_original": "Jeannie",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "calça",
+      "véu",
+      "tiara"
+    ],
+    "material_visual": "tecido sintético acetinado e tule translúcido",
+    "estilo_corte": "estilo harém com top cropped e calças bufantes",
+    "acessorios_visiveis": [
+      "tiara dourada",
+      "véu de cabeça"
+    ],
+    "tematica_detalhada": "Fantasia de gênia, inspirada na personagem Jeannie é um Gênio e na estética árabe orientalista"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4704.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 27.54,
+  "data_analise": "2026-07-28T20:30:04Z",
+  "data_criacao": "2026-07-28T17:30:04.193620-03:00"
+}

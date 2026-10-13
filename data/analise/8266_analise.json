@@ -1,0 +1,33 @@
+{
+  "id": 8266,
+  "nome_original": "Viking",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "preto",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia",
+      "botas",
+      "protetores de braço"
+    ],
+    "material_visual": "tecido sintético, pele artificial e material imitando couro",
+    "estilo_corte": "corte rústico com saia em gomos e detalhes em pele nos ombros e botas",
+    "acessorios_visiveis": [
+      "tiara com pedra vermelha",
+      "braceletes"
+    ],
+    "tematica_detalhada": "Guerreira Viking, com referências a vestimentas nórdicas medievais e elementos de fantasia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8266.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.76,
+  "data_analise": "2026-07-30T08:49:20Z",
+  "data_criacao": "2026-07-30T05:49:20.087846-03:00"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 6861,
+  "nome_original": "Mimico",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "bermuda",
+      "perneiras/suspensórios",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou algodão",
+    "estilo_corte": "camiseta de manga curta com listras horizontais e bermuda de corte reto",
+    "acessorios_visiveis": [
+      "suspensórios vermelhos",
+      "peruca preta cacheada"
+    ],
+    "tematica_detalhada": "fantasia de mímico clássico, baseada na estética do teatro de mímica francesa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6861.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 94.31,
+  "data_analise": "2026-07-29T22:26:48Z",
+  "data_criacao": "2026-07-29T19:26:48.554279-03:00"
+}

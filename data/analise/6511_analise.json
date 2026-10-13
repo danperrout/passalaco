@@ -1,0 +1,34 @@
+{
+  "id": 6511,
+  "nome_original": "Mulher Maravilha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara",
+      "braceletes",
+      "botas"
+    ],
+    "material_visual": "tecido sintético com detalhes metálicos impressos",
+    "estilo_corte": "vestido curto com alças finas e bustiê estruturado",
+    "acessorios_visiveis": [
+      "tiara dourada",
+      "braceletes metálicos",
+      "botas decoradas"
+    ],
+    "tematica_detalhada": "Fantasia da super-heroína Mulher Maravilha, baseada nos quadrinhos e filmes da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6511.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 33.15,
+  "data_analise": "2026-07-29T23:23:14Z",
+  "data_criacao": "2026-07-29T20:23:14.671221-03:00"
+}

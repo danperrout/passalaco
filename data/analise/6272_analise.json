@@ -1,0 +1,25 @@
+{
+  "id": 6272,
+  "nome_original": "Marilyn Monroe",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido leve com acabamento plissado",
+    "estilo_corte": "estilo halter com saia evasê plissada e cintura marcada",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia inspirada em Marilyn Monroe, especificamente no icônico vestido branco do filme 'Os Homens Preferem as Loiras'"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6272.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 85.97,
+  "data_analise": "2026-07-29T17:44:14Z",
+  "data_criacao": "2026-07-29T14:44:14.594206-03:00"
+}

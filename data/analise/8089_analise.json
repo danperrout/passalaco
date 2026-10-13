@@ -1,0 +1,31 @@
+{
+  "id": 8089,
+  "nome_original": "Oncinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "preto",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "tiara"
+    ],
+    "material_visual": "cetim, tule e tecido estampado",
+    "estilo_corte": "estilo corset com saia curta volumosa e babados",
+    "acessorios_visiveis": [
+      "tiara de orelhas de onça",
+      "punhos combinando"
+    ],
+    "tematica_detalhada": "Fantasia de onça/leopardo com estética sensual e festiva"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8089.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 52.44,
+  "data_analise": "2026-07-30T00:55:00Z",
+  "data_criacao": "2026-07-29T21:55:00.744540-03:00"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 8792,
+  "nome_original": "Anjo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "cinza",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "asas"
+    ],
+    "material_visual": "tecido fluido com texturas irregulares e aspecto desgastado",
+    "estilo_corte": "estilo etéreo com caimento solto e bordas desfiadas",
+    "acessorios_visiveis": [
+      "auréola",
+      "asas"
+    ],
+    "tematica_detalhada": "Anjo caído ou anjo sombrio com estética gótica/abstrata"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8792.jpg",
+  "data_analise": "2026-07-27T13:57:18Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 8660,
+  "nome_original": "Peste Negra",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "colete",
+      "calça",
+      "máscara",
+      "cartola"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "alfaiataria clássica vitoriana",
+    "acessorios_visiveis": [
+      "cartola",
+      "máscara de bico",
+      "luvas"
+    ],
+    "tematica_detalhada": "Médico da Peste Negra com influência de traje formal do século XIX"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8660.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.6,
+  "data_analise": "2026-07-30T03:22:17Z",
+  "data_criacao": "2026-07-30T00:22:17.715667-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 5334,
+  "nome_original": "Cartola",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "chapéu ornamentado"
+    ],
+    "material_visual": "tecido sintético com aplicações metálicas e brilhos",
+    "estilo_corte": "estruturado com topo cônico e aba larga",
+    "acessorios_visiveis": [
+      "detalhes dourados",
+      "ornamentos na aba"
+    ],
+    "tematica_detalhada": "fantasia inspirada no personagem Chapeleiro Maluco, com estética surrealista e elementos de alta costura gótica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5334.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.07,
+  "data_analise": "2026-07-27T19:29:48Z",
+  "data_criacao": "2026-07-27T16:29:48.658307-03:00"
+}

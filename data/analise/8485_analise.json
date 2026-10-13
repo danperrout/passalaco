@@ -1,0 +1,32 @@
+{
+  "id": 8485,
+  "nome_original": "Medusa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "macaquinho",
+      "tiara de serpentes",
+      "munhequeiras"
+    ],
+    "material_visual": "tecido metalizado com brilho",
+    "estilo_corte": "macaquinho curto com decote frontal e gola alta",
+    "acessorios_visiveis": [
+      "tiara com formato de cobras",
+      "detalhes nos pulsos",
+      "capa fluida"
+    ],
+    "tematica_detalhada": "Mitologia Grega, representando a personagem Medusa com elementos dourados e serpentes na cabeça"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8485.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 40.49,
+  "data_analise": "2026-07-29T21:15:41Z",
+  "data_criacao": "2026-07-29T18:15:41.816450-03:00"
+}

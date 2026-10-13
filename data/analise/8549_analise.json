@@ -1,0 +1,28 @@
+{
+  "id": 8549,
+  "nome_original": "Mascara",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "máscara"
+    ],
+    "material_visual": "renda com glitter e pedrarias",
+    "estilo_corte": "estilo veneziano vazado",
+    "acessorios_visiveis": [
+      "fitas de cetim",
+      "strass"
+    ],
+    "tematica_detalhada": "Mascarada veneziana, baile de gala ou carnaval, focada em mistério e elegância"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8549.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 127.47,
+  "data_analise": "2026-07-29T18:39:56Z",
+  "data_criacao": "2026-07-29T15:39:56.109500-03:00"
+}

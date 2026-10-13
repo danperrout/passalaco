@@ -1,0 +1,26 @@
+{
+  "id": 9186,
+  "nome_original": "Abobora",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "cetim ou poliéster brilhante com tule nas mangas e renda na barra",
+    "estilo_corte": "vestido curto com mangas bufantes e cintura marcada",
+    "acessorios_visiveis": [
+      "chapéu de bruxa pontudo",
+      "laço na cintura"
+    ],
+    "tematica_detalhada": "fantasia de Halloween combinando elementos de abóbora e bruxa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9186.jpg",
+  "data_analise": "2026-07-27T13:26:10Z"
+}

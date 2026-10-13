@@ -1,0 +1,32 @@
+{
+  "id": 1372,
+  "nome_original": "Vagalume",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "capuz",
+      "camisa",
+      "calça",
+      "asas"
+    ],
+    "material_visual": "tecido aveludado ou plush",
+    "estilo_corte": "corte solto e confortável",
+    "acessorios_visiveis": [
+      "antenas",
+      "asas coloridas"
+    ],
+    "tematica_detalhada": "fantasia de inseto, especificamente um vagalume, caracterizada por cores escuras no corpo e asas vibrantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1372.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.69,
+  "data_analise": "2026-07-30T08:43:56Z",
+  "data_criacao": "2026-07-30T05:43:56.109907-03:00"
+}

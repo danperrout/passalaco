@@ -1,0 +1,29 @@
+{
+  "id": 768,
+  "nome_original": "Joaninha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Preto"
+    ],
+    "pecas_inclusas": [
+      "Vestido",
+      "Tiaras/Antenas"
+    ],
+    "material_visual": "Tecido sintético com detalhes em pelúcia",
+    "estilo_corte": "Vestido curto, justo, com decote tomara-que-caia e acabamentos em pelúcia nos ombros e barra",
+    "acessorios_visiveis": [
+      "Tiara com antenas de joaninha"
+    ],
+    "tematica_detalhada": "Fantasia de joaninha, utilizando a estética clássica do inseto com a combinação de vermelho e bolinhas pretas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/768.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 51.68,
+  "data_analise": "2026-07-28T21:16:48Z",
+  "data_criacao": "2026-07-28T18:16:48.700489-03:00"
+}

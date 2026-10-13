@@ -1,0 +1,32 @@
+{
+  "id": 3397,
+  "nome_original": "Charrao",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "colete",
+      "camisa",
+      "calça/perneira"
+    ],
+    "material_visual": "material sintético com brilho semelhante a couro ou vinil",
+    "estilo_corte": "estilo rústico campeiro com corte reto",
+    "acessorios_visiveis": [
+      "chapéu de aba larga"
+    ],
+    "tematica_detalhada": "Fantasia de cowboy ou gaúcho, remetendo à cultura sertaneja ou personagens do oeste"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3397.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 53.49,
+  "data_analise": "2026-07-27T20:34:17Z",
+  "data_criacao": "2026-07-27T17:34:17.752224-03:00"
+}

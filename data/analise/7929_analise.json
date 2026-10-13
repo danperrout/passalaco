@@ -1,0 +1,30 @@
+{
+  "id": 7929,
+  "nome_original": "Can Can",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "colorido",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "acessório de cabeça"
+    ],
+    "material_visual": "tecido com aplicação de paetês ou miçangas coloridas e plumas",
+    "estilo_corte": "vestido curto e justo com decote arredondado",
+    "acessorios_visiveis": [
+      "tiara de plumas"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em dançarinas de Can Can ou Cabaré, com foco em brilho e exuberância"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7929.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.18,
+  "data_analise": "2026-07-27T18:52:43Z",
+  "data_criacao": "2026-07-27T15:52:43.287590-03:00"
+}

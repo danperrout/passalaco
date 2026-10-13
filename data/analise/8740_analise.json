@@ -1,0 +1,31 @@
+{
+  "id": 8740,
+  "nome_original": "Casal Medieval",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "túnica com capuz",
+      "vestido"
+    ],
+    "material_visual": "tecidos sintéticos com aspecto de linho e cetim",
+    "estilo_corte": "medieval camponês e cortes fluidos",
+    "acessorios_visiveis": [
+      "capuz",
+      "faixa na cintura"
+    ],
+    "tematica_detalhada": "Casal medieval clássico, remetendo a personagens de fantasia épica ou camponeses da Idade Média"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8740.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.8,
+  "data_analise": "2026-07-27T19:35:11Z",
+  "data_criacao": "2026-07-27T16:35:11.252675-03:00"
+}

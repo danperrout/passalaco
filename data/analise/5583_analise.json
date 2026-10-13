@@ -1,0 +1,26 @@
+{
+  "id": 5583,
+  "nome_original": "Ana",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "rosa",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa"
+    ],
+    "material_visual": "tule e cetim",
+    "estilo_corte": "estilo princesa com saia volumosa e capa curta",
+    "acessorios_visiveis": [
+      "detalhes dourados na borda"
+    ],
+    "tematica_detalhada": "fantasia infantil temática de personagem mágico ou princesa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5583.jpg",
+  "data_analise": "2026-07-27T13:55:50Z"
+}

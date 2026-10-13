@@ -1,0 +1,33 @@
+{
+  "id": 9930,
+  "nome_original": "Divertidamente Medo",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "azul claro",
+      "branco",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido com saia de tule",
+      "tiara"
+    ],
+    "material_visual": "tule, tecido xadrez e malha sintética",
+    "estilo_corte": "estilo baby doll com saia volumosa e corpete xadrez",
+    "acessorios_visiveis": [
+      "laços vermelhos",
+      "tiara com detalhe no topo"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Medo do filme Divertidamente, adaptada para um estilo feminino/infantil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9930.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 62.82,
+  "data_analise": "2026-07-28T03:10:19Z",
+  "data_criacao": "2026-07-28T00:10:19.038554-03:00"
+}

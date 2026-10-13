@@ -1,0 +1,30 @@
+{
+  "id": 4433,
+  "nome_original": "Banana de Pijama",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou plush",
+    "estilo_corte": "estilo pijama oversized/kigurumi",
+    "acessorios_visiveis": [
+      "capuz em formato de banana"
+    ],
+    "tematica_detalhada": "fantasia híbrida de banana com pijama listrado, remetendo ao personagem Banana nas Pijamas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4433.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 95.97,
+  "data_analise": "2026-07-27T17:41:25Z",
+  "data_criacao": "2026-07-27T14:41:25.291671-03:00"
+}

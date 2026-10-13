@@ -1,0 +1,34 @@
+{
+  "id": 8620,
+  "nome_original": "Nobre",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul royal",
+      "dourado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "casaca",
+      "colete",
+      "calças",
+      "jabô",
+      "peruca"
+    ],
+    "material_visual": "tecido acetinado com bordados metálicos",
+    "estilo_corte": "corte colonial com casaca longa e ajustada",
+    "acessorios_visiveis": [
+      "peruca branca",
+      "botões decorativos"
+    ],
+    "tematica_detalhada": "nobreza europeia do século XVIII, estilo Barroco ou Rococó, remetendo a cortes reais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8620.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 50.73,
+  "data_analise": "2026-07-29T23:56:10Z",
+  "data_criacao": "2026-07-29T20:56:10.891677-03:00"
+}

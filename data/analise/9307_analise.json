@@ -1,0 +1,32 @@
+{
+  "id": 9307,
+  "nome_original": "Noiva Cadaver",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "bege",
+      "off-white"
+    ],
+    "pecas_inclusas": [
+      "corset",
+      "saia longa",
+      "véu"
+    ],
+    "material_visual": "renda, tule e cetim",
+    "estilo_corte": "estilo vitoriano com saia assimétrica e bustier ajustado",
+    "acessorios_visiveis": [
+      "tiara de flores",
+      "véu"
+    ],
+    "tematica_detalhada": "Noiva Cadáver, inspirada na estética gótica romântica e no personagem de animação"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9307.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 41.94,
+  "data_analise": "2026-07-30T00:26:43Z",
+  "data_criacao": "2026-07-29T21:26:43.297391-03:00"
+}

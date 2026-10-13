@@ -1,0 +1,29 @@
+{
+  "id": 2504,
+  "nome_original": "Coruja",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza escuro",
+      "cinza claro"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "estilo kigurumi ou pijama macacão folgado",
+    "acessorios_visiveis": [
+      "orelhas integradas ao capuz"
+    ],
+    "tematica_detalhada": "Fantasia de coruja estilizada, focada em representação animal antropomórfica para festas ou uso casual"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2504.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 221.7,
+  "data_analise": "2026-07-28T01:52:48Z",
+  "data_criacao": "2026-07-27T22:52:48.875846-03:00"
+}

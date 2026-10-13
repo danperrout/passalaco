@@ -1,0 +1,34 @@
+{
+  "id": 9103,
+  "nome_original": "Magico",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "camisa",
+      "gravata borboleta",
+      "cartola"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco e cetim na gravata",
+    "estilo_corte": "corte clássico de terno formal",
+    "acessorios_visiveis": [
+      "cartola",
+      "gravata borboleta"
+    ],
+    "tematica_detalhada": "Mágico de palco clássico, inspirado em figuras como David Copperfield ou Houdini"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9103.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.53,
+  "data_analise": "2026-07-29T16:26:35Z",
+  "data_criacao": "2026-07-29T13:26:35.816023-03:00"
+}

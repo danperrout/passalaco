@@ -1,0 +1,25 @@
+{
+  "id": 9085,
+  "nome_original": "Arara",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Amarelo",
+      "Azul",
+      "Verde"
+    ],
+    "pecas_inclusas": [
+      "Capa/Poncho",
+      "Calça"
+    ],
+    "material_visual": "Feltro (para as penas), tecido de algodão/poliéster (para a calça)",
+    "estilo_corte": "Capa em estilo poncho com camadas sobrepostas simulando penas, calça reta",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia de Arara com foco nas cores e plumagem característica da ave"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9085.jpg",
+  "data_analise": "2026-07-27T16:46:39Z"
+}

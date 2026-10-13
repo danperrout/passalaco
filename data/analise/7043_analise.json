@@ -1,0 +1,28 @@
+{
+  "id": 7043,
+  "nome_original": "Lampião",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "caqui"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga curta"
+    ],
+    "material_visual": "tecido sintético ou algodão com aspecto fosco",
+    "estilo_corte": "corte reto com colarinho e fechamento frontal por botões",
+    "acessorios_visiveis": [
+      "botões"
+    ],
+    "tematica_detalhada": "Vestimenta inspirada no traje típico do cangaço, referenciando a figura histórica de Lampião e a cultura do sertão nordestino"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7043.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 190.66,
+  "data_analise": "2026-07-29T09:33:51Z",
+  "data_criacao": "2026-07-29T06:33:51.408567-03:00"
+}

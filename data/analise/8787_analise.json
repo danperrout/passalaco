@@ -1,0 +1,30 @@
+{
+  "id": 8787,
+  "nome_original": "Mae e Filha Cinderela",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul claro",
+      "azul royal"
+    ],
+    "pecas_inclusas": [
+      "vestido adulto",
+      "vestido infantil"
+    ],
+    "material_visual": "cetim e tule com detalhes brilhantes",
+    "estilo_corte": "estilo baile com saia volumosa e decote ombro a ombro",
+    "acessorios_visiveis": [
+      "tiaras",
+      "luvas longas"
+    ],
+    "tematica_detalhada": "Fantasia de Cinderela da Disney, representando a versão do baile real para mãe e filha"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8787.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 444.0,
+  "data_analise": "2026-07-29T13:43:34Z",
+  "data_criacao": "2026-07-29T10:43:34.723470-03:00"
+}

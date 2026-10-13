@@ -1,0 +1,28 @@
+{
+  "id": 9133,
+  "nome_original": "Vampira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "cetim e tule translúcido",
+    "estilo_corte": "estilo gótico com corpete transpassado e saia curta em camadas com babados",
+    "acessorios_visiveis": [
+      "tiara de coroa dourada"
+    ],
+    "tematica_detalhada": "Vampira clássica com inspiração gótica e elementos de realeza"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9133.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.59,
+  "data_analise": "2026-07-30T08:46:23Z",
+  "data_criacao": "2026-07-30T05:46:23.192935-03:00"
+}

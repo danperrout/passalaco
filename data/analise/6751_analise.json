@@ -1,0 +1,31 @@
+{
+  "id": 6751,
+  "nome_original": "Goku",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "botas"
+    ],
+    "material_visual": "tecido sintético com aspecto de cetim ou poliéster",
+    "estilo_corte": "corte solto com gola em V e calças afuniladas",
+    "acessorios_visiveis": [
+      "munhequeiras",
+      "botas estilizadas"
+    ],
+    "tematica_detalhada": "Personagem Goku do anime e mangá Dragon Ball, representando o traje clássico de artes marciais (Gi)."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6751.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 35.71,
+  "data_analise": "2026-07-28T11:05:50Z",
+  "data_criacao": "2026-07-28T08:05:50.086368-03:00"
+}

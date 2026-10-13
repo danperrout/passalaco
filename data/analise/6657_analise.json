@@ -1,0 +1,29 @@
+{
+  "id": 6657,
+  "nome_original": "Bope",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "boina",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "estilo tático com bolsos frontais",
+    "acessorios_visiveis": [
+      "insígnia na boina"
+    ],
+    "tematica_detalhada": "Batalhão de Operações Policiais Especiais (BOPE), inspirada em forças policiais de elite brasileiras"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6657.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.28,
+  "data_analise": "2026-07-27T18:19:01Z",
+  "data_criacao": "2026-07-27T15:19:01.614073-03:00"
+}

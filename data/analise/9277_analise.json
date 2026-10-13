@@ -1,0 +1,31 @@
+{
+  "id": 9277,
+  "nome_original": "Vampiro",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho escuro"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "colete",
+      "calça"
+    ],
+    "material_visual": "veludo e material sintético brilhante",
+    "estilo_corte": "estilo gótico vitoriano com gola alta estruturada",
+    "acessorios_visiveis": [
+      "babado decorativo no pescoço",
+      "botões dourados"
+    ],
+    "tematica_detalhada": "Vampiro clássico aristocrata, com referências ao Conde Drácula"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9277.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.79,
+  "data_analise": "2026-07-30T08:48:53Z",
+  "data_criacao": "2026-07-30T05:48:53.092704-03:00"
+}

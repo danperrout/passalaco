@@ -1,0 +1,35 @@
+{
+  "id": 7200,
+  "nome_original": "Pokemon Ash",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "verde",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "boné",
+      "camisa",
+      "colete",
+      "calça",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou tactel",
+    "estilo_corte": "casual, corte reto com colete aberto",
+    "acessorios_visiveis": [
+      "boné vermelho e branco",
+      "luvas verdes"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Ash Ketchum da franquia Pokémon, representando um treinador Pokémon"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7200.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 19.15,
+  "data_analise": "2026-07-30T03:44:43Z",
+  "data_criacao": "2026-07-30T00:44:43.309358-03:00"
+}

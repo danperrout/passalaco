@@ -1,0 +1,30 @@
+{
+  "id": 2526,
+  "nome_original": "Lagarto/Jacare",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster",
+    "estilo_corte": "corte reto e folgado, estilo túnica com capuz integrado",
+    "acessorios_visiveis": [
+      "cauda de jacaré"
+    ],
+    "tematica_detalhada": "fantasia infantil de réptil, especificamente um jacaré ou lagarto, com foco em cores vibrantes para festas temáticas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2526.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 59.22,
+  "data_analise": "2026-07-29T08:44:27Z",
+  "data_criacao": "2026-07-29T05:44:27.826310-03:00"
+}

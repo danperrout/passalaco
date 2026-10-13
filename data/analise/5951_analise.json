@@ -1,0 +1,30 @@
+{
+  "id": 5951,
+  "nome_original": "Minions",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "vestido jardineira"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou brim leve",
+    "estilo_corte": "corte reto com alças largas no estilo jardineira",
+    "acessorios_visiveis": [
+      "óculos de proteção prateados",
+      "peruca loira com fios espetados"
+    ],
+    "tematica_detalhada": "Fantasia baseada nos personagens Minions da franquia Meu Malvado Favorito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5951.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 45.13,
+  "data_analise": "2026-07-29T22:27:57Z",
+  "data_criacao": "2026-07-29T19:27:57.775140-03:00"
+}

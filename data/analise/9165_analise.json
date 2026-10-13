@@ -1,0 +1,30 @@
+{
+  "id": 9165,
+  "nome_original": "Sonic",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente veludo ou poliéster acetinado",
+    "estilo_corte": "estilo kigurumi ou macacão justo de peça única",
+    "acessorios_visiveis": [
+      "orelhas no capuz",
+      "espinhos decorativos no topo da cabeça"
+    ],
+    "tematica_detalhada": "fantasia do personagem Sonic the Hedgehog, ícone dos videogames da Sega"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9165.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.23,
+  "data_analise": "2026-07-30T07:14:46Z",
+  "data_criacao": "2026-07-30T04:14:46.155357-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 7446,
+  "nome_original": "Chiquinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "verde",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco",
+    "estilo_corte": "blusa de manga longa com gola Peter Pan e saia rodada",
+    "acessorios_visiveis": [
+      "gola contrastante com estampa de bolinhas"
+    ],
+    "tematica_detalhada": "fantasia da personagem Chiquinha, do seriado El Chavo del Ocho, caracterizada por roupas humildes e desajustadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7446.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 69.97,
+  "data_analise": "2026-07-27T21:30:11Z",
+  "data_criacao": "2026-07-27T18:30:11.153486-03:00"
+}

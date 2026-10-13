@@ -1,0 +1,31 @@
+{
+  "id": 9502,
+  "nome_original": "Nhonho",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga longa",
+      "jardineira"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou poliéster",
+    "estilo_corte": "corte largo e volumoso, simulando roupas infantis",
+    "acessorios_visiveis": [
+      "gola de renda",
+      "punhos de renda",
+      "laço no pescoço"
+    ],
+    "tematica_detalhada": "personagem Nhonho, do seriado Chaves, representando uma criança com roupas típicas de época/infantis"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9502.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 306.52,
+  "data_analise": "2026-07-29T23:41:14Z",
+  "data_criacao": "2026-07-29T20:41:14.949421-03:00"
+}

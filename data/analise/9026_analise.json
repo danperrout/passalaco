@@ -1,0 +1,28 @@
+{
+  "id": 9026,
+  "nome_original": "Rainha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "veludo com bordados metálicos",
+    "estilo_corte": "estilo princesa com cintura marcada e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara/coroa dourada"
+    ],
+    "tematica_detalhada": "realeza clássica, inspirada em rainhas ou princesas de contos de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9026.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 22.51,
+  "data_analise": "2026-07-30T04:19:41Z",
+  "data_criacao": "2026-07-30T01:19:41.871262-03:00"
+}

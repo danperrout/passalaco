@@ -1,0 +1,29 @@
+{
+  "id": 4620,
+  "nome_original": "Arabe",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Árabes/Indianas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Branco",
+      "Dourado",
+      "Marrom"
+    ],
+    "pecas_inclusas": [
+      "Túnica longa",
+      "Lenço para cabeça",
+      "Acessório de cabeça (agal)"
+    ],
+    "material_visual": "Tecido leve e fluido, com acabamento que simula algodão ou poliéster, detalhes bordados em linha",
+    "estilo_corte": "Corte reto e solto, tipo túnica, com gola V decorada e mangas longas",
+    "acessorios_visiveis": [
+      "Agal (aro de cabeça)",
+      "Bordado frontal",
+      "Acabamento em viés dourado"
+    ],
+    "tematica_detalhada": "Vestimenta tradicional árabe masculina, inspirada em thobe/dishdasha com ghutra e agal, remetendo à cultura do Oriente Médio"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4620.jpg",
+  "data_analise": "2026-07-27T16:45:57Z"
+}

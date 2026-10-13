@@ -1,0 +1,30 @@
+{
+  "id": 8350,
+  "nome_original": "Morcega",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa/bolero de renda",
+      "tiara"
+    ],
+    "material_visual": "cetim ou material sintético brilhante e renda",
+    "estilo_corte": "vestido curto de linha reta com decote em V",
+    "acessorios_visiveis": [
+      "tiara decorada",
+      "peruca preta"
+    ],
+    "tematica_detalhada": "fantasia de morcega ou personagem gótica/vampírica, com referências a festas temáticas de Halloween"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8350.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 27.34,
+  "data_analise": "2026-07-29T22:57:54Z",
+  "data_criacao": "2026-07-29T19:57:54.209556-03:00"
+}

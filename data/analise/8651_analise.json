@@ -1,0 +1,29 @@
+{
+  "id": 8651,
+  "nome_original": "Vovo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "multicolorido",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "avental"
+    ],
+    "material_visual": "tecido sintético estampado e renda",
+    "estilo_corte": "vestido curto de corte reto com gola e avental preso à cintura",
+    "acessorios_visiveis": [
+      "peruca branca"
+    ],
+    "tematica_detalhada": "caricatura de vovó, referenciando a imagem estereotípica de idosas domésticas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8651.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.6,
+  "data_analise": "2026-07-30T08:52:51Z",
+  "data_criacao": "2026-07-30T05:52:51.361319-03:00"
+}

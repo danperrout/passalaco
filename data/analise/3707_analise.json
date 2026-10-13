@@ -1,0 +1,31 @@
+{
+  "id": 3707,
+  "nome_original": "Lobo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "máscara de lobo",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido de algodão e pelúcia sintética",
+    "estilo_corte": "estilo rasgado e desgastado",
+    "acessorios_visiveis": [
+      "máscara com pelagem"
+    ],
+    "tematica_detalhada": "Lobisomem, representando a transformação humana em fera com roupas rasgadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3707.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 44.88,
+  "data_analise": "2026-07-29T11:54:09Z",
+  "data_criacao": "2026-07-29T08:54:09.782527-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 4686,
+  "nome_original": "Cigana Lara",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Ciganas/Espanholas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "top ciganinha",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com acabamento em babados e adornos metálicos",
+    "estilo_corte": "estilo ciganinha com ombros à mostra e saia assimétrica com camadas de babados",
+    "acessorios_visiveis": [
+      "lenço de cabeça",
+      "moedas decorativas"
+    ],
+    "tematica_detalhada": "fantasia de cigana, inspirada na cultura nômade e danças espanholas/estilo flamenco"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4686.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 121.44,
+  "data_analise": "2026-07-27T22:09:38Z",
+  "data_criacao": "2026-07-27T19:09:38.452758-03:00"
+}

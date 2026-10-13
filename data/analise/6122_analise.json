@@ -1,0 +1,30 @@
+{
+  "id": 6122,
+  "nome_original": "Branca de Neve",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou poliéster",
+    "estilo_corte": "estilo princesa com corpete ajustado e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara com laço vermelho",
+      "detalhes dourados no decote"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Branca de Neve, baseada no conto de fadas clássico e animação da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6122.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.87,
+  "data_analise": "2026-07-27T18:20:19Z",
+  "data_criacao": "2026-07-27T15:20:19.849895-03:00"
+}

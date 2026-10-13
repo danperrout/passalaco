@@ -1,0 +1,32 @@
+{
+  "id": 9670,
+  "nome_original": "Mamae Noel Luxo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Natalinas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Branco"
+    ],
+    "pecas_inclusas": [
+      "Vestido",
+      "Capa com capuz",
+      "Botas"
+    ],
+    "material_visual": "Veludo ou plush com acabamento em pelúcia sintética",
+    "estilo_corte": "Vestido curto com saia rodada em camadas e capa curta",
+    "acessorios_visiveis": [
+      "Laço decorativo",
+      "Botões brancos",
+      "Pompons"
+    ],
+    "tematica_detalhada": "Versão estilizada e luxuosa da Mamãe Noel, inspirada no Natal tradicional com elementos de moda fantasia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9670.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 83.69,
+  "data_analise": "2026-07-29T17:20:13Z",
+  "data_criacao": "2026-07-29T14:20:13.239148-03:00"
+}

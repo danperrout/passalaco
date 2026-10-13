@@ -1,0 +1,31 @@
+{
+  "id": 7857,
+  "nome_original": "Boneca Apple White",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "peruca"
+    ],
+    "material_visual": "cetim, renda e tecido sintético brilhante",
+    "estilo_corte": "estilo boneca com saia volumosa e busto ajustado",
+    "acessorios_visiveis": [
+      "laço vermelho no cabelo",
+      "ornamento dourado na cabeça"
+    ],
+    "tematica_detalhada": "Personagem Apple White de Ever After High, inspirada na filha da Branca de Neve"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7857.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.79,
+  "data_analise": "2026-07-27T18:18:03Z",
+  "data_criacao": "2026-07-27T15:18:03.712022-03:00"
+}

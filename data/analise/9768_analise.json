@@ -1,0 +1,31 @@
+{
+  "id": 9768,
+  "nome_original": "Mascote Tigre",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "cabeça de mascote"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "oversized/estilo kigurumi",
+    "acessorios_visiveis": [
+      "orelhas integradas",
+      "cauda"
+    ],
+    "tematica_detalhada": "Mascote de tigre, com referências a personagens infantis e animais da selva"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9768.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 148.83,
+  "data_analise": "2026-07-29T20:32:13Z",
+  "data_criacao": "2026-07-29T17:32:13.978425-03:00"
+}

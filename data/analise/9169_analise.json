@@ -1,0 +1,28 @@
+{
+  "id": 9169,
+  "nome_original": "Coelhinha Paetê",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "prateado"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido recoberto por paetês",
+    "estilo_corte": "ajustado ao corpo, comprimento mini, alças finas",
+    "acessorios_visiveis": [
+      "tiara com orelhas de coelho em paetê"
+    ],
+    "tematica_detalhada": "fantasia de coelhinha glamourosa, com referências a festas temáticas e estética de luxo/brilho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9169.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 39.44,
+  "data_analise": "2026-07-28T00:27:23Z",
+  "data_criacao": "2026-07-27T21:27:23.859277-03:00"
+}

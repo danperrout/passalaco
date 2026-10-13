@@ -1,0 +1,29 @@
+{
+  "id": 5141,
+  "nome_original": "Country",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "camisa",
+      "saia"
+    ],
+    "material_visual": "tecido sintético fosco com aplicações brilhantes",
+    "estilo_corte": "conjunto composto por camisa de manga longa com amarração na cintura e saia curta",
+    "acessorios_visiveis": [
+      "chapéu de cowboy"
+    ],
+    "tematica_detalhada": "estilo country/cowgirl moderno, com referências a trajes de montaria estilizados para festas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5141.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 57.78,
+  "data_analise": "2026-07-28T02:12:56Z",
+  "data_criacao": "2026-07-27T23:12:56.852590-03:00"
+}

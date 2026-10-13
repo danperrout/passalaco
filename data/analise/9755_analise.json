@@ -1,0 +1,32 @@
+{
+  "id": 9755,
+  "nome_original": "Pirata",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Piratas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "bandana"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster",
+    "estilo_corte": "túnica sem mangas com listras verticais e barra inferior em corte serrilhado/irregular",
+    "acessorios_visiveis": [
+      "bandana vermelha",
+      "tapa-olho",
+      "faixa na cintura"
+    ],
+    "tematica_detalhada": "fantasia de pirata clássica, com referências a personagens de aventura marítima e folclore náutico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9755.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 19.25,
+  "data_analise": "2026-07-30T03:40:37Z",
+  "data_criacao": "2026-07-30T00:40:37.747546-03:00"
+}

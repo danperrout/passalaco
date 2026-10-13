@@ -1,0 +1,29 @@
+{
+  "id": 4968,
+  "nome_original": "Thor",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "macacão"
+    ],
+    "material_visual": "tecido sintético com detalhes em material brilhante ou metalizado",
+    "estilo_corte": "justo ao corpo, estilo traje de herói com gola alta",
+    "acessorios_visiveis": [
+      "capa"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Thor da Marvel, focando em elementos de armadura asgardiana"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4968.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 41.55,
+  "data_analise": "2026-07-30T07:48:37Z",
+  "data_criacao": "2026-07-30T04:48:37.722082-03:00"
+}

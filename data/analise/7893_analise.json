@@ -1,0 +1,31 @@
+{
+  "id": 7893,
+  "nome_original": "Mulher Maravilha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "botas"
+    ],
+    "material_visual": "tecido sintético com brilho",
+    "estilo_corte": "vestido curto com mangas bufantes e saia rodada",
+    "acessorios_visiveis": [
+      "tiara",
+      "braceletes"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Mulher Maravilha, inspirada nos quadrinhos e filmes da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7893.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.97,
+  "data_analise": "2026-07-29T23:22:11Z",
+  "data_criacao": "2026-07-29T20:22:11.898398-03:00"
+}

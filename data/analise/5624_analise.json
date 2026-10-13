@@ -1,0 +1,29 @@
+{
+  "id": 5624,
+  "nome_original": "Mascote Coelho",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão de corpo inteiro",
+      "cabeça de mascote"
+    ],
+    "material_visual": "pelúcia sintética felpuda",
+    "estilo_corte": "estilo kigurumi/mascote oversized",
+    "acessorios_visiveis": [
+      "cesta de ovos de páscoa"
+    ],
+    "tematica_detalhada": "Coelho da Páscoa, personagem festivo utilizado para entretenimento infantil e celebrações sazonais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5624.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 31.62,
+  "data_analise": "2026-07-29T19:22:09Z",
+  "data_criacao": "2026-07-29T16:22:09.171766-03:00"
+}

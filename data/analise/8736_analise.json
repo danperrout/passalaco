@@ -1,0 +1,35 @@
+{
+  "id": 8736,
+  "nome_original": "Casal Cabare",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido curto de franjas",
+      "camisa branca",
+      "calça preta",
+      "suspensórios"
+    ],
+    "material_visual": "tecido com franjas e fibras sintéticas",
+    "estilo_corte": "estilo vintage dos anos 20, corte ajustado e performático",
+    "acessorios_visiveis": [
+      "cartola",
+      "tiara com pluma",
+      "luvas pretas",
+      "colar de pérolas"
+    ],
+    "tematica_detalhada": "Casal de Cabaré, referenciando a era do Jazz e as apresentações de Moulin Rouge"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8736.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.61,
+  "data_analise": "2026-07-27T19:31:14Z",
+  "data_criacao": "2026-07-27T16:31:14.599996-03:00"
+}

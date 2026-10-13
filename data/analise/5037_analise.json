@@ -1,0 +1,31 @@
+{
+  "id": 5037,
+  "nome_original": "Pirata",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com textura levemente plissada ou crespa",
+    "estilo_corte": "vestido curto com decote ombro a ombro, mangas bufantes e saia com babados",
+    "acessorios_visiveis": [
+      "chapéu de pirata",
+      "tapa-olho",
+      "laços decorativos"
+    ],
+    "tematica_detalhada": "pirata clássica com estética estilizada, utilizando cores tradicionais de tripulações piratas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5037.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.06,
+  "data_analise": "2026-07-30T03:38:10Z",
+  "data_criacao": "2026-07-30T00:38:10.942149-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1239,
+  "nome_original": "Ratinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim ou poliéster com saia de tule",
+    "estilo_corte": "vestido curto com alças finas e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara com orelhas e laço",
+      "bolsa pequena coordenada"
+    ],
+    "tematica_detalhada": "Fantasia de ratinha estilizada, com estampa de poá, remetendo a personagens infantis ou fantasias de festa temática"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1239.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.5,
+  "data_analise": "2026-07-30T04:37:24Z",
+  "data_criacao": "2026-07-30T01:37:24.310062-03:00"
+}

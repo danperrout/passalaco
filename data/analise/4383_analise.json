@@ -1,0 +1,27 @@
+{
+  "id": 4383,
+  "nome_original": "Jaqueta, Calça, Colete, Chapeu e Suspensorio",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "jaqueta"
+    ],
+    "material_visual": "material sintético com aspecto de couro",
+    "estilo_corte": "estilo biker com zíper diagonal",
+    "acessorios_visiveis": [
+      "zíper metálico"
+    ],
+    "tematica_detalhada": "estilo rockeiro, rebelde ou motociclista"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4383.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 166.2,
+  "data_analise": "2026-07-28T19:20:40Z",
+  "data_criacao": "2026-07-28T16:20:40.538159-03:00"
+}

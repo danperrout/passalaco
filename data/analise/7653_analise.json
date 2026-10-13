@@ -1,0 +1,34 @@
+{
+  "id": 7653,
+  "nome_original": "Fera",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "paletó",
+      "colete",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com detalhes em cetim e pelúcia na máscara",
+    "estilo_corte": "estilo aristocrático clássico com paletó aberto e colete alongado",
+    "acessorios_visiveis": [
+      "gravata borboleta ou jabot branco",
+      "máscara de fera"
+    ],
+    "tematica_detalhada": "Personagem a Fera do conto de fadas A Bela e a Fera, representando a nobreza transformada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7653.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 339.45,
+  "data_analise": "2026-07-28T05:45:13Z",
+  "data_criacao": "2026-07-28T02:45:13.450401-03:00"
+}

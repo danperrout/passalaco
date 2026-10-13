@@ -1,0 +1,32 @@
+{
+  "id": 5176,
+  "nome_original": "Jessie Toy Story",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético e jeans",
+    "estilo_corte": "estilo western/cowgirl com calça flare",
+    "acessorios_visiveis": [
+      "chapéu de cowboy vermelho"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Jessie, do filme Toy Story, com temática de cowgirl"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5176.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 69.34,
+  "data_analise": "2026-07-28T21:12:10Z",
+  "data_criacao": "2026-07-28T18:12:10.873113-03:00"
+}

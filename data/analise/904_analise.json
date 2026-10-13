@@ -1,0 +1,33 @@
+{
+  "id": 904,
+  "nome_original": "Noivo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "camisa",
+      "gravata"
+    ],
+    "material_visual": "tecido sintético acetinado",
+    "estilo_corte": "alfaiataria casual",
+    "acessorios_visiveis": [
+      "chapéu de palha",
+      "bandeirolas decorativas"
+    ],
+    "tematica_detalhada": "Noivo de festa junina, misturando a formalidade de um casamento com elementos típicos da cultura caipira brasileira"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/904.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.72,
+  "data_analise": "2026-07-30T00:34:53Z",
+  "data_criacao": "2026-07-29T21:34:53.259577-03:00"
+}

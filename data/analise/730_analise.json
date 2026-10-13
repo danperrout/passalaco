@@ -1,0 +1,31 @@
+{
+  "id": 730,
+  "nome_original": "India",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "dourado",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia",
+      "tiara"
+    ],
+    "material_visual": "tecido sintético com franjas metálicas e penas artificiais",
+    "estilo_corte": "estilo cropped para o top e minissaia com franjas",
+    "acessorios_visiveis": [
+      "tiara de penas"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em representações estereotipadas de indígenas americanos, focada em elementos festivos e carnavalescos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/730.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 345.87,
+  "data_analise": "2026-07-28T16:12:56Z",
+  "data_criacao": "2026-07-28T13:12:56.960693-03:00"
+}

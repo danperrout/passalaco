@@ -1,0 +1,31 @@
+{
+  "id": 3649,
+  "nome_original": "Lanterna Verde",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "camiseta de manga longa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético brilhante e material elástico",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "máscara de olhos",
+      "botas de tecido"
+    ],
+    "tematica_detalhada": "Super-herói Lanterna Verde da DC Comics, caracterizado pelo traje verde com emblema central"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3649.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 264.53,
+  "data_analise": "2026-07-29T09:38:16Z",
+  "data_criacao": "2026-07-29T06:38:16.486878-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 8889,
+  "nome_original": "Dalmata",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "corte oversized/folgado",
+    "acessorios_visiveis": [
+      "orelhas de cachorro integradas ao capuz"
+    ],
+    "tematica_detalhada": "cachorro da raça dálmata, referência comum a personagens como os de '101 Dálmatas'"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8889.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 27.93,
+  "data_analise": "2026-07-28T02:23:55Z",
+  "data_criacao": "2026-07-27T23:23:55.487134-03:00"
+}

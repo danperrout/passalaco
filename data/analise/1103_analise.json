@@ -1,0 +1,28 @@
+{
+  "id": 1103,
+  "nome_original": "Pedrinho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "jardineira"
+    ],
+    "material_visual": "tecido sintético ou algodão",
+    "estilo_corte": "camiseta de manga curta com acabamento vermelho e jardineira de pernas retas",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia infantil inspirada no personagem Pedrinho, remetendo a um estilo camponês ou operário simplificado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1103.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 68.93,
+  "data_analise": "2026-07-30T02:49:50Z",
+  "data_criacao": "2026-07-29T23:49:50.140604-03:00"
+}

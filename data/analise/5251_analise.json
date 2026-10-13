@@ -1,0 +1,29 @@
+{
+  "id": 5251,
+  "nome_original": "Bruxinha Esqueleto",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com acabamento em tule na saia",
+    "estilo_corte": "conjunto curto com saia rodada e volumosa",
+    "acessorios_visiveis": [
+      "tiara"
+    ],
+    "tematica_detalhada": "fusão de bruxa com esqueleto, apresentando estampa de ossos no busto e cintura sobre fundo preto"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5251.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.68,
+  "data_analise": "2026-07-27T18:41:09Z",
+  "data_criacao": "2026-07-27T15:41:09.571309-03:00"
+}

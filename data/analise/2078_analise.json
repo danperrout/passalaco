@@ -1,0 +1,31 @@
+{
+  "id": 2078,
+  "nome_original": "Noiva",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "véu"
+    ],
+    "material_visual": "renda, tule e tecido sintético acetinado",
+    "estilo_corte": "vestido curto com babados, mangas bufantes e cintura marcada",
+    "acessorios_visiveis": [
+      "guirlanda de flores coloridas",
+      "buquê de flores artificiais"
+    ],
+    "tematica_detalhada": "Noiva infantil ou fantasia de noiva estilizada com elementos românticos e lúdicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2078.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 43.78,
+  "data_analise": "2026-07-30T00:08:22Z",
+  "data_criacao": "2026-07-29T21:08:22.180776-03:00"
+}

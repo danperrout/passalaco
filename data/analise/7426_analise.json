@@ -1,0 +1,29 @@
+{
+  "id": 7426,
+  "nome_original": "Star Wars Soldado",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "macacão"
+    ],
+    "material_visual": "tecido sintético com impressões gráficas",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "capacete"
+    ],
+    "tematica_detalhada": "Stormtrooper do universo Star Wars, representando os soldados do Império Galáctico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7426.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.7,
+  "data_analise": "2026-07-30T07:24:03Z",
+  "data_criacao": "2026-07-30T04:24:03.128776-03:00"
+}

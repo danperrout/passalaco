@@ -1,0 +1,33 @@
+{
+  "id": 7217,
+  "nome_original": "Soldado",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde oliva",
+      "preto",
+      "verde escuro"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "colete",
+      "bermuda",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com estampa camuflada",
+    "estilo_corte": "corte casual e utilitário",
+    "acessorios_visiveis": [
+      "chapéu estilo bucket",
+      "colete com bolsos"
+    ],
+    "tematica_detalhada": "fantasia de soldado militar com padrão de camuflagem florestal"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7217.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 35.42,
+  "data_analise": "2026-07-30T07:01:06Z",
+  "data_criacao": "2026-07-30T04:01:06.022528-03:00"
+}

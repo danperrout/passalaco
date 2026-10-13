@@ -1,0 +1,30 @@
+{
+  "id": 5907,
+  "nome_original": "Bailarina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "tule, cetim e detalhes em pedrarias ou lantejoulas",
+    "estilo_corte": "top de alças finas e saia rodada com camadas e babados",
+    "acessorios_visiveis": [
+      "tiara decorada"
+    ],
+    "tematica_detalhada": "fantasia de bailarina clássica, com elementos de brilho e camadas que remetem ao tutu"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5907.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 10.38,
+  "data_analise": "2026-07-27T17:00:32Z",
+  "data_criacao": "2026-07-27T14:00:32.488669-03:00"
+}

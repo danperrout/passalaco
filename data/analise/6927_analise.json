@@ -1,0 +1,26 @@
+{
+  "id": 6927,
+  "nome_original": "Ana",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "rosa",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim e tecido sintético com brilho",
+    "estilo_corte": "vestido rodado com corpete ajustado",
+    "acessorios_visiveis": [
+      "detalhes dourados ornamentais",
+      "peruca"
+    ],
+    "tematica_detalhada": "fantasia inspirada em princesa ou personagem de conto de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6927.jpg",
+  "data_analise": "2026-07-27T13:55:44Z"
+}

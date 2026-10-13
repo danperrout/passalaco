@@ -1,0 +1,32 @@
+{
+  "id": 7547,
+  "nome_original": "Lampiao",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético ou algodão com aparência fosca",
+    "estilo_corte": "corte reto e simples, simulando vestimenta rústica de campo",
+    "acessorios_visiveis": [
+      "bandoleiras cruzadas",
+      "cinto de munição",
+      "chapéu de couro estilizado"
+    ],
+    "tematica_detalhada": "Cangaço, representando a figura histórica de Lampião e os jagunços do sertão nordestino brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7547.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.93,
+  "data_analise": "2026-07-29T08:52:48Z",
+  "data_criacao": "2026-07-29T05:52:48.956320-03:00"
+}

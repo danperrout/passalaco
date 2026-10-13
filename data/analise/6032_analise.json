@@ -1,0 +1,32 @@
+{
+  "id": 6032,
+  "nome_original": "Mulher de Aço",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "shorts",
+      "capa"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado e detalhes brilhantes",
+    "estilo_corte": "estilo traje de super-heroína com top bustier e shorts curtos",
+    "acessorios_visiveis": [
+      "tiara com estrela",
+      "braceletes"
+    ],
+    "tematica_detalhada": "fantasia da Mulher-Maravilha, personagem icônica dos quadrinhos da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6032.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.05,
+  "data_analise": "2026-07-29T23:17:41Z",
+  "data_criacao": "2026-07-29T20:17:41.189585-03:00"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 6190,
+  "nome_original": "Aranha",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "touca"
+    ],
+    "material_visual": "Tecido opaco e macio, com aspecto de plush ou fleece.",
+    "estilo_corte": "Macacão de corte reto e folgado, com touca justa ao formato da cabeça.",
+    "acessorios_visiveis": [
+      "antenas fixas na touca",
+      "olhos aplicados na touca",
+      "seis patas laterais fixas no macacão"
+    ],
+    "tematica_detalhada": "Aranha"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6190.jpg",
+  "data_analise": "2026-07-27T16:46:20Z"
+}

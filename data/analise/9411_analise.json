@@ -1,0 +1,31 @@
+{
+  "id": 9411,
+  "nome_original": "Guerreira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido com saia plissada",
+      "capa"
+    ],
+    "material_visual": "material sintético com aparência de couro",
+    "estilo_corte": "estilo armadura com saia em tiras verticais e decote em V",
+    "acessorios_visiveis": [
+      "braceletes dourados",
+      "cinto dourado"
+    ],
+    "tematica_detalhada": "Guerreira romana ou gladiadora, com referências à antiguidade clássica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9411.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 130.18,
+  "data_analise": "2026-07-28T11:48:08Z",
+  "data_criacao": "2026-07-28T08:48:08.557205-03:00"
+}

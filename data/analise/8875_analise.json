@@ -1,0 +1,31 @@
+{
+  "id": 8875,
+  "nome_original": "Casal Robin Hood",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "túnica",
+      "calças"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado",
+    "estilo_corte": "estilo medieval com cortes ajustados e detalhes em renda ou bordado",
+    "acessorios_visiveis": [
+      "capuz"
+    ],
+    "tematica_detalhada": "Casal inspirada em Robin Hood, referenciando a temática de arqueiros medievais da floresta de Sherwood"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8875.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.42,
+  "data_analise": "2026-07-27T19:36:39Z",
+  "data_criacao": "2026-07-27T16:36:39.242697-03:00"
+}

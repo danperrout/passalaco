@@ -1,0 +1,25 @@
+{
+  "id": 7985,
+  "nome_original": "Ariel",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde-água",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "coroa"
+    ],
+    "material_visual": "cetim, organza",
+    "estilo_corte": "vestido de princesa com saia rodada e mangas bufantes, corpete drapeado",
+    "acessorios_visiveis": [
+      "coroa"
+    ],
+    "tematica_detalhada": "princesa Ariel, versão vestido de gala ou forma humana"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7985.jpg",
+  "data_analise": "2026-07-27T16:47:09Z"
+}

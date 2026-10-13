@@ -1,0 +1,30 @@
+{
+  "id": 7797,
+  "nome_original": "Panda",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "pelúcia macia",
+    "estilo_corte": "estilo kigurumi ou macacão confortável",
+    "acessorios_visiveis": [
+      "orelhas de panda",
+      "laço de amarração"
+    ],
+    "tematica_detalhada": "fantasia de animal, especificamente um panda gigante, com foco em estética infantil e fofa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7797.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 84.56,
+  "data_analise": "2026-07-30T01:58:51Z",
+  "data_criacao": "2026-07-29T22:58:51.849404-03:00"
+}

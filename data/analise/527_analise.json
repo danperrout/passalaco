@@ -1,0 +1,32 @@
+{
+  "id": 527,
+  "nome_original": "Deusa Grega",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Gregas/Romanos",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "braceletes",
+      "tiara"
+    ],
+    "material_visual": "tecido fosco com detalhes em material sintético metalizado",
+    "estilo_corte": "estilo império com decote em V e alças largas",
+    "acessorios_visiveis": [
+      "tiara de correntes douradas",
+      "braceletes dourados",
+      "cinto ornamentado"
+    ],
+    "tematica_detalhada": "Deusa Grega com estética solene, combinando a sobriedade do preto com a opulência do ouro, remetendo a figuras de autoridade da mitologia grega"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/527.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 36.97,
+  "data_analise": "2026-07-28T02:54:46Z",
+  "data_criacao": "2026-07-27T23:54:46.092369-03:00"
+}

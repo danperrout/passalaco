@@ -1,0 +1,31 @@
+{
+  "id": 8756,
+  "nome_original": "Mae e Filha Branca de Neve",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido adulto",
+      "vestido infantil",
+      "capas"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim e tule",
+    "estilo_corte": "vestido longo com corpete ajustado e saia volumosa",
+    "acessorios_vises": [
+      "laços vermelhos para cabelo"
+    ],
+    "tematica_detalhada": "Fantasia de Branca de Neve, inspirada na personagem dos contos de fadas e animações da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8756.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 327.43,
+  "data_analise": "2026-07-29T13:36:10Z",
+  "data_criacao": "2026-07-29T10:36:10.003543-03:00"
+}

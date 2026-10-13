@@ -1,0 +1,31 @@
+{
+  "id": 8508,
+  "nome_original": "Ninja",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia curta",
+      "máscara de pescoço",
+      "faixa abdominal"
+    ],
+    "material_visual": "tecido acetinado com brilho",
+    "estilo_corte": "ajustado ao corpo com sobreposição de faixa frontal",
+    "acessorios_visiveis": [
+      "faixa com estampa de dragão"
+    ],
+    "tematica_detalhada": "Fantasia de Ninja feminina com referências à cultura oriental e mitologia chinesa/japonesa através do símbolo do dragão"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8508.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 196.99,
+  "data_analise": "2026-07-29T23:46:41Z",
+  "data_criacao": "2026-07-29T20:46:41.655327-03:00"
+}

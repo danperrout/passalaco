@@ -1,0 +1,28 @@
+{
+  "id": 10236,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Vitrine",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com textura xadrez e babados de tule ou organza",
+    "estilo_corte": "corte ombro a ombro com saia volumosa em camadas de babados",
+    "acessorios_visiveis": [
+      "laços de cabelo"
+    ],
+    "tematica_detalhada": "estilização moderna de traje de Festa Junina, com referências ao xadrez tradicional caipira em tons de azul"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10236.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 109.66,
+  "data_analise": "2026-07-29T02:18:55Z",
+  "data_criacao": "2026-07-28T23:18:55.947622-03:00"
+}

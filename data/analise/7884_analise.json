@@ -1,0 +1,30 @@
+{
+  "id": 7884,
+  "nome_original": "Padre",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte reto e longo, sem mangas, com gola clerical",
+    "acessorios_visiveis": [
+      "colar com cruz dourada",
+      "cordão dourado na cintura",
+      "clérigo branco"
+    ],
+    "tematica_detalhada": "fantasia de padre católico, com referências a vestimentas litúrgicas cristãs"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7884.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.59,
+  "data_analise": "2026-07-30T01:21:52Z",
+  "data_criacao": "2026-07-29T22:21:52.132856-03:00"
+}

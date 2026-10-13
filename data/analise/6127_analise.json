@@ -1,0 +1,33 @@
+{
+  "id": 6127,
+  "nome_original": "Nega Maluca",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "azul",
+      "multicolorido"
+    ],
+    "pecas_inclusas": [
+      "vestido curto colorido",
+      "blusa de manga longa preta",
+      "calça preta",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético estampado e malha",
+    "estilo_corte": "estilo babado com corte evasê no vestido e ajuste justo nas peças pretas",
+    "acessorios_visiveis": [
+      "peruca afro",
+      "luvas pretas"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Nega Maluca, caracterizada por cores vibrantes, babados e cabelo afro volumoso"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6127.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.7,
+  "data_analise": "2026-07-29T23:32:50Z",
+  "data_criacao": "2026-07-29T20:32:50.464067-03:00"
+}

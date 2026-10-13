@@ -1,0 +1,30 @@
+{
+  "id": 7008,
+  "nome_original": "Dançarina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "cartola"
+    ],
+    "material_visual": "renda e tecido sintético com brilho",
+    "estilo_corte": "estilo corset com alças finas e saia curta franzida",
+    "acessorios_visiveis": [
+      "cartola dourada"
+    ],
+    "tematica_detalhada": "fantasia de dançarina de cabaret ou estilo burlesco, com referências a apresentações de palco e espetáculos noturnos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7008.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.68,
+  "data_analise": "2026-07-28T02:48:03Z",
+  "data_criacao": "2026-07-27T23:48:03.219276-03:00"
+}

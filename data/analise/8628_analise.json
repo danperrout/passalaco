@@ -1,0 +1,29 @@
+{
+  "id": 8628,
+  "nome_original": "Sereia 2 Meses",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "body",
+      "tutu"
+    ],
+    "material_visual": "lantejoulas e tule",
+    "estilo_corte": "body ajustado com saia curta volumosa",
+    "acessorios_visiveis": [
+      "tiara ou faixa de cabelo"
+    ],
+    "tematica_detalhada": "Sereia, com cores que remetem à personagem Ariel da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8628.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.59,
+  "data_analise": "2026-07-30T06:20:54Z",
+  "data_criacao": "2026-07-30T03:20:54.531574-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 6799,
+  "nome_original": "Junina Saia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "azul",
+      "branco",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia"
+    ],
+    "material_visual": "tecido xadrez e malha",
+    "estilo_corte": "blusa justa e saia volumosa com babados",
+    "acessorios_visiveis": [
+      "tiara com girassol e fitas",
+      "flores de girassol aplicadas na saia"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, com elementos típicos do campo e estética caipira estilizada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6799.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.48,
+  "data_analise": "2026-07-29T07:17:11Z",
+  "data_criacao": "2026-07-29T04:17:11.983723-03:00"
+}

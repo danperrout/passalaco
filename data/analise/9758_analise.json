@@ -1,0 +1,30 @@
+{
+  "id": 9758,
+  "nome_original": "Ketchup e Mostarda",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "túnica de ketchup",
+      "túnica de mostarda",
+      "capuzes"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster",
+    "estilo_corte": "formato tubular/cilíndrico, estilo vestido curto",
+    "acessorios_visiveis": [
+      "detalhes brancos no topo simulando tampas"
+    ],
+    "tematica_detalhada": "fantasia de casal ou dupla baseada em condimentos alimentares (ketchup e mostarda), simulando embalagens de molhos industriais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9758.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.76,
+  "data_analise": "2026-07-29T08:02:25Z",
+  "data_criacao": "2026-07-29T05:02:25.261270-03:00"
+}

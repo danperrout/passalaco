@@ -1,0 +1,30 @@
+{
+  "id": 1519,
+  "nome_original": "Coelho",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "estilo kigurumi ou macacão oversized",
+    "acessorios_visiveis": [
+      "gravata borboleta vermelha",
+      "orelhas de coelho"
+    ],
+    "tematica_detalhada": "fantasia de coelho branco, remetendo a personagens clássicos como o Coelho Branco de Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1519.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 35.53,
+  "data_analise": "2026-07-28T00:33:32Z",
+  "data_criacao": "2026-07-27T21:33:32.341428-03:00"
+}

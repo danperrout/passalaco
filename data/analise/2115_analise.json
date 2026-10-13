@@ -1,0 +1,29 @@
+{
+  "id": 2115,
+  "nome_original": "Lobisomem",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão de corpo inteiro",
+      "máscara/capuz"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "estilo macacão oversized com capuz integrado",
+    "acessorios_visiveis": [
+      "luvas pretas"
+    ],
+    "tematica_detalhada": "criatura mitológica lobisomem, focada em representação animal selvagem para festas de Halloween ou Carnaval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2115.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 117.31,
+  "data_analise": "2026-07-29T11:46:30Z",
+  "data_criacao": "2026-07-29T08:46:30.835700-03:00"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 7755,
+  "nome_original": "Saia Tule",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "saia"
+    ],
+    "material_visual": "tule",
+    "estilo_corte": "saia curta volumosa com cós elástico",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Estilo tutu, frequentemente utilizado em fantasias de bailarina, gótica ou personagens de festas temáticas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7755.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.25,
+  "data_analise": "2026-07-30T05:47:31Z",
+  "data_criacao": "2026-07-30T02:47:31.885512-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 4662,
+  "nome_original": "Village People Motoqueiro",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "prateado"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "calça",
+      "boné"
+    ],
+    "material_visual": "material sintético com aparência de couro ou vinil",
+    "estilo_corte": "ajustado ao corpo com colete aberto",
+    "acessorios_visiveis": [
+      "correntes metálicas",
+      "boné"
+    ],
+    "tematica_detalhada": "Motoqueiro inspirado no grupo musical Village People, referenciando a subcultura biker e a estética disco dos anos 70"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4662.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.45,
+  "data_analise": "2026-07-30T08:50:34Z",
+  "data_criacao": "2026-07-30T05:50:34.995022-03:00"
+}

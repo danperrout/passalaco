@@ -1,0 +1,32 @@
+{
+  "id": 1237,
+  "nome_original": "Rainha das Bruxas",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "roxo",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "colar",
+      "chapéu/coroa"
+    ],
+    "material_visual": "tecido sintético com detalhes em lurex ou glitter no painel central",
+    "estilo_corte": "vestido longo de mangas compridas com decote em V e painel central contrastante",
+    "acessorios_visiveis": [
+      "coroa pontiaguda",
+      "gola alta/choker"
+    ],
+    "tematica_detalhada": "Fantasia de Rainha das Bruxas, com forte referência visual à Malévola ou figuras de alta magia sombria"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1237.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.6,
+  "data_analise": "2026-07-30T04:22:19Z",
+  "data_criacao": "2026-07-30T01:22:19.433649-03:00"
+}

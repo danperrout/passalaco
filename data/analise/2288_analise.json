@@ -1,0 +1,30 @@
+{
+  "id": 2288,
+  "nome_original": "Galo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "pelúcia ou tecido sintético macio",
+    "estilo_corte": "estilo kigurumi ou pijama oversized",
+    "acessorios_visiveis": [
+      "crista de galo",
+      "carúncula"
+    ],
+    "tematica_detalhada": "fantasia de galo ou pintinho, representada de forma estilizada e lúdica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2288.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 38.62,
+  "data_analise": "2026-07-28T06:42:37Z",
+  "data_criacao": "2026-07-28T03:42:37.349503-03:00"
+}

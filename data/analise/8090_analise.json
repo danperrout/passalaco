@@ -1,0 +1,30 @@
+{
+  "id": 8090,
+  "nome_original": "Branca de Neve",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim e tule",
+    "estilo_corte": "estilo princesa com corpete ajustado e saia volumosa",
+    "acessorios_visivel": [
+      "laço de cabelo vermelho",
+      "capa vermelha"
+    ],
+    "tematica_detalhada": "Personagem Branca de Neve, inspirada nos contos de fadas clássicos e na animação da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8090.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.03,
+  "data_analise": "2026-07-27T18:21:43Z",
+  "data_criacao": "2026-07-27T15:21:43.387164-03:00"
+}

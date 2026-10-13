@@ -1,0 +1,32 @@
+{
+  "id": 8879,
+  "nome_original": "Esqueleto",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu",
+      "luvas"
+    ],
+    "material_visual": "tule, cetim e tecido sintético",
+    "estilo_corte": "vestido longo com corpete ajustado e saia volumosa",
+    "acessorios_visiveis": [
+      "chapéu cartola com véu",
+      "luvas longas"
+    ],
+    "tematica_detalhada": "esqueleto estilizado com estética gótica, possivelmente inspirada no Dia dos Mortos ou personagens como a Noiva Cadáver"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8879.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.27,
+  "data_analise": "2026-07-28T04:12:55Z",
+  "data_criacao": "2026-07-28T01:12:55.606662-03:00"
+}

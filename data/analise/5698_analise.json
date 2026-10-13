@@ -1,0 +1,25 @@
+{
+  "id": 5698,
+  "nome_original": "Anjo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Vitrine",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "creme"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido leve com detalhes em plumas e brilhos",
+    "estilo_corte": "longo e fluido com decote adornado",
+    "acessorios_visiveis": [
+      "asas de anjo",
+      "tiara ou acessório de cabeça com plumas"
+    ],
+    "tematica_detalhada": "anjo celestial etéreo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5698.jpg",
+  "data_analise": "2026-07-27T13:57:13Z"
+}

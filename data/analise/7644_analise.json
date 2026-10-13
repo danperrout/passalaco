@@ -1,0 +1,29 @@
+{
+  "id": 7644,
+  "nome_original": "Chapeuzinho Rosa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz",
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado e detalhes em renda ou tule",
+    "estilo_corte": "estilo evasê com capa fluida e capuz pontiagudo",
+    "acessorios_visiveis": [
+      "capuz"
+    ],
+    "tematica_detalhada": "reinterpretação da personagem Chapeuzinho Vermelho, substituindo a cor clássica pelo rosa para um visual mais infantil ou moderno"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7644.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.08,
+  "data_analise": "2026-07-27T19:52:46Z",
+  "data_criacao": "2026-07-27T16:52:46.433621-03:00"
+}

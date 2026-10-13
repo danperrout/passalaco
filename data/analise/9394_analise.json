@@ -1,0 +1,28 @@
+{
+  "id": 9394,
+  "nome_original": "Coelhinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético acetinado com camadas de babados",
+    "estilo_corte": "curto, com alças finas e saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "tiara de orelhas de coelho com laço"
+    ],
+    "tematica_detalhada": "fantasia infantil de coelhinha, com referências a celebrações como a Páscoa ou festas temáticas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9394.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 135.78,
+  "data_analise": "2026-07-28T00:07:51Z",
+  "data_criacao": "2026-07-27T21:07:51.314244-03:00"
+}

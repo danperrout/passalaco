@@ -1,0 +1,32 @@
+{
+  "id": 6683,
+  "nome_original": "Deusa Grega",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "capa/manto",
+      "tiara"
+    ],
+    "material_visual": "tecido fluido, possivelmente chiffon ou cetim, com detalhes metálicos dourados",
+    "estilo_corte": "corte império com drapeados e fenda lateral",
+    "acessorios_visiveis": [
+      "tiara dourada com pedrarias",
+      "detalhes ornamentais dourados no busto",
+      "cinto dourado"
+    ],
+    "tematica_detalhada": "Deusa Grega, com referências à mitologia clássica e vestimentas da antiguidade helenística"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6683.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 47.8,
+  "data_analise": "2026-07-28T02:52:48Z",
+  "data_criacao": "2026-07-27T23:52:48.794106-03:00"
+}

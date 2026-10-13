@@ -1,0 +1,33 @@
+{
+  "id": 7655,
+  "nome_original": "Rei Mago",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "laranja",
+      "dourado",
+      "vinho"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "capa com capuz",
+      "chapéu/coroa"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado e galões dourados",
+    "estilo_corte": "corte longo e fluido, inspirado em vestimentas orientais antigas",
+    "acessorios_visiveis": [
+      "detalhes em dourado",
+      "adereço de cabeça"
+    ],
+    "tematica_detalhada": "Rei Mago, com referências bíblicas e culturais ao Oriente Médio antigo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7655.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 19.46,
+  "data_analise": "2026-07-30T04:52:28Z",
+  "data_criacao": "2026-07-30T01:52:28.030361-03:00"
+}

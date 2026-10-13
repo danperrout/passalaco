@@ -1,0 +1,29 @@
+{
+  "id": 8025,
+  "nome_original": "Julieta",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente cetim e tule",
+    "estilo_corte": "estilo renascentista com decote ombro a ombro, corpete ajustado e saia curta evasê",
+    "acessorios_visiveis": [
+      "tiara dourada"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Julieta, remetendo ao período renascentista com elementos de nobreza"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8025.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 247.84,
+  "data_analise": "2026-07-28T21:43:17Z",
+  "data_criacao": "2026-07-28T18:43:17.623260-03:00"
+}

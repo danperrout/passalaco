@@ -1,0 +1,28 @@
+{
+  "id": 8201,
+  "nome_original": "Ariel",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "coroa"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante para o rosa, tecido liso opaco para o branco, detalhes em renda e apliques dourados",
+    "estilo_corte": "vestido longo com corpete ajustado, mangas bufantes, gola redonda e saia em sobreposição com abertura frontal, detalhe em renda na barra",
+    "acessorios_visiveis": [
+      "coroa dourada com detalhes rosa",
+      "cinto/aplique na cintura dourado",
+      "acabamentos e bordados dourados no corpete"
+    ],
+    "tematica_detalhada": "princesa Ariel, especificamente a versão humana com vestido de gala rosa do filme A Pequena Sereia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8201.jpg",
+  "data_analise": "2026-07-27T16:47:14Z"
+}

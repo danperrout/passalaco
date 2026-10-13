@@ -1,0 +1,31 @@
+{
+  "id": 8259,
+  "nome_original": "Mario",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Cosplay",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Azul"
+    ],
+    "pecas_inclusas": [
+      "Camiseta",
+      "Saia",
+      "Boné"
+    ],
+    "material_visual": "Tecido sintético com aparência de poliéster ou algodão",
+    "estilo_corte": "Corte feminino com saia plissada e camiseta de manga curta",
+    "acessorios_visiveis": [
+      "Boné com logo",
+      "Botões amarelos decorativos"
+    ],
+    "tematica_detalhada": "Versão feminina da fantasia do personagem Mario, da franquia Super Mario da Nintendo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8259.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 68.19,
+  "data_analise": "2026-07-29T18:24:05Z",
+  "data_criacao": "2026-07-29T15:24:05.053940-03:00"
+}

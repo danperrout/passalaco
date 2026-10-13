@@ -1,0 +1,31 @@
+{
+  "id": 2525,
+  "nome_original": "Girafa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "marrom",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "casaco com capuz",
+      "calça"
+    ],
+    "material_visual": "tecido sintético felpudo, similar a plush ou soft",
+    "estilo_corte": "estilo pijama kigurumi, corte largo e confortável",
+    "acessorios_visiveis": [
+      "orelhas acopladas",
+      "chifres/ossicones acoplados"
+    ],
+    "tematica_detalhada": "animal selvagem, especificamente uma girafa, com estampa de manchas características e barriga branca"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2525.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.03,
+  "data_analise": "2026-07-28T10:58:52Z",
+  "data_criacao": "2026-07-28T07:58:52.351962-03:00"
+}

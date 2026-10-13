@@ -1,0 +1,30 @@
+{
+  "id": 10098,
+  "nome_original": "Saia Anos 60",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "blusa regata",
+      "saia"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou elastano",
+    "estilo_corte": "cintura alta com saia rodada em corte evasê",
+    "acessorios_visiveis": [
+      "tiara com laço vermelho"
+    ],
+    "tematica_detalhada": "estilo Pin-up dos anos 50 e 60, com referência clássica a estampas de poá (bolinhas)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10098.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.51,
+  "data_analise": "2026-07-30T05:34:02Z",
+  "data_criacao": "2026-07-30T02:34:02.323301-03:00"
+}

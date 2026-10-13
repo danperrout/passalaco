@@ -1,0 +1,33 @@
+{
+  "id": 8583,
+  "nome_original": "Pirata",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Piratas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "corpete",
+      "blusa",
+      "saia"
+    ],
+    "material_visual": "cetim sintético, renda e tecido leve",
+    "estilo_corte": "corpete ajustado com decote e saia curta volumosa com babados",
+    "acessorios_visiveis": [
+      "chapéu de pirata",
+      "laços vermelhos"
+    ],
+    "tematica_detalhada": "fantasia de pirata feminina estilizada, com influências de trajes renascentistas adaptados para festas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8583.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.02,
+  "data_analise": "2026-07-30T03:40:00Z",
+  "data_criacao": "2026-07-30T00:40:00.358620-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 8349,
+  "nome_original": "Rainha das Trevas",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "corpete",
+      "saia de penas"
+    ],
+    "material_visual": "cetim, renda e penas sintéticas",
+    "estilo_corte": "estilo corset com saia curta volumosa e assimétrica",
+    "acessorios_visiveis": [
+      "coroa ornamentada",
+      "peruca preta"
+    ],
+    "tematica_detalhada": "Rainha das Trevas com inspiração em elementos da natureza noturna ou mística, lembrando figuras de alta fantasia ou vilãs de contos de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8349.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.55,
+  "data_analise": "2026-07-30T04:23:03Z",
+  "data_criacao": "2026-07-30T01:23:03.338334-03:00"
+}

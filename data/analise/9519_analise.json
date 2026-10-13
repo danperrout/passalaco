@@ -1,0 +1,36 @@
+{
+  "id": 9519,
+  "nome_original": "Casal Maria Bonita e Lampiao",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom",
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "chapéu de cangaceiro",
+      "camisa",
+      "saia",
+      "calça",
+      "lenço"
+    ],
+    "material_visual": "tecido sintético com detalhes em couro ou material sintético imitando couro",
+    "estilo_corte": "estilo regional nordestino, corte folclórico com cinturas marcadas",
+    "acessorios_visiveis": [
+      "cintos",
+      "lenços no pescoço",
+      "detalhes ornamentais nos chapéus"
+    ],
+    "tematica_detalhada": "Cangaço brasileiro, representando o casal Lampião e Maria Bonita, com referências à cultura do sertão nordestino"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9519.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 19.04,
+  "data_analise": "2026-07-27T19:35:02Z",
+  "data_criacao": "2026-07-27T16:35:02.099324-03:00"
+}

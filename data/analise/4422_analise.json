@@ -1,0 +1,31 @@
+{
+  "id": 4422,
+  "nome_original": "Michael Jackson",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético fosco com detalhes em galão ou fita",
+    "estilo_corte": "estilo militar com corte ajustado e jaqueta curta",
+    "acessorios_visiveis": [
+      "chapéu fedora",
+      "luva branca"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no Rei do Pop, Michael Jackson, referenciando seus figurinos de palco de estilo militar"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4422.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 36.9,
+  "data_analise": "2026-07-29T22:09:25Z",
+  "data_criacao": "2026-07-29T19:09:25.933074-03:00"
+}

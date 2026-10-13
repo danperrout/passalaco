@@ -1,0 +1,31 @@
+{
+  "id": 4836,
+  "nome_original": "Can Can",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Danças",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "corset",
+      "saia curta",
+      "mini chapéu"
+    ],
+    "material_visual": "cetim ou tecido sintético com acabamento brilhante e rendas",
+    "estilo_corte": "estilo cabaret com cintura marcada e saia volumosa com babados",
+    "acessorios_visiveis": [
+      "chapéu coco estilizado",
+      "choker/gargantilha"
+    ],
+    "tematica_detalhada": "Dançarina de Can Can, inspirada nos espetáculos de cabaret franceses do século XIX"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4836.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.7,
+  "data_analise": "2026-07-27T18:52:03Z",
+  "data_criacao": "2026-07-27T15:52:03.277484-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 8428,
+  "nome_original": "Fazendinha",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "bege",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "camisa xadrez",
+      "jardineira",
+      "chapéu"
+    ],
+    "material_visual": "tecido de algodão ou poliéster e palha no chapéu",
+    "estilo_corte": "estilo camponês com jardineira de alças",
+    "acessorios_visiveis": [
+      "chapéu de palha"
+    ],
+    "tematica_detalhada": "Tema de fazendinha/caipira, remetendo a festas juninas ou vida rural brasileira"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8428.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 152.33,
+  "data_analise": "2026-07-28T05:23:33Z",
+  "data_criacao": "2026-07-28T02:23:33.937313-03:00"
+}

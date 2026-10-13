@@ -1,0 +1,37 @@
+{
+  "id": 7658,
+  "nome_original": "Jack Sparrow",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "lenço",
+      "casaco",
+      "colete",
+      "camisa",
+      "calça",
+      "botas"
+    ],
+    "material_visual": "tecido sintético com aparência de camurça e poliéster",
+    "estilo_corte": "estilo pirata colonial com camadas e modelagem solta",
+    "acessorios_visiveis": [
+      "chapéu tricórnio",
+      "lenço de cabeça vermelho",
+      "botas de cano alto"
+    ],
+    "tematica_detalhada": "Fantasia de pirata baseada no personagem Capitão Jack Sparrow da franquia Piratas do Caribe"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7658.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 296.29,
+  "data_analise": "2026-07-28T18:22:44Z",
+  "data_criacao": "2026-07-28T15:22:44.504945-03:00"
+}

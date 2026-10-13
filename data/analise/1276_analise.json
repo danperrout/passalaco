@@ -1,0 +1,33 @@
+{
+  "id": 1276,
+  "nome_original": "Serviçal",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "avental",
+      "tiara",
+      "braceletes"
+    ],
+    "material_visual": "cetim ou poliéster com detalhes em renda",
+    "estilo_corte": "estilo maid clássico com saia curta rodada e decote com babados",
+    "acessorios_visiveis": [
+      "tiara de renda",
+      "gargantilha",
+      "punhos de renda"
+    ],
+    "tematica_detalhada": "fantasia de empregada doméstica francesa (French Maid), comum em referências de cultura pop e animes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1276.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.73,
+  "data_analise": "2026-07-30T06:21:13Z",
+  "data_criacao": "2026-07-30T03:21:13.562126-03:00"
+}

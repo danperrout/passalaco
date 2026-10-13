@@ -1,0 +1,30 @@
+{
+  "id": 7104,
+  "nome_original": "Dança do Ventre",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Danças",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "tecido leve com aplicações de lantejoulas e franjas de miçangas",
+    "estilo_corte": "estilo belly dance com top frente única e saia curta fluida",
+    "acessorios_visiveis": [
+      "tiara de cabeça",
+      "pingente de testa"
+    ],
+    "tematica_detalhada": "dançarina do ventre, inspirada na cultura do Oriente Médio e danças árabes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7104.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.23,
+  "data_analise": "2026-07-28T02:42:27Z",
+  "data_criacao": "2026-07-27T23:42:27.512101-03:00"
+}

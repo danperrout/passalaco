@@ -1,0 +1,28 @@
+{
+  "id": 777,
+  "nome_original": "Beatles John Lennon",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica longa"
+    ],
+    "material_visual": "tecido acetinado com brilho e adornos metálicos",
+    "estilo_corte": "estilo caftã ou túnica solta de comprimento alongado",
+    "acessorios_visiveis": [
+      "bordados dourados"
+    ],
+    "tematica_detalhada": "fantasia inspirada no período psicodélico de John Lennon, referenciando a estética hippie e orientalista do final dos anos 60"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/777.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.74,
+  "data_analise": "2026-07-27T17:50:22Z",
+  "data_criacao": "2026-07-27T14:50:22.726490-03:00"
+}

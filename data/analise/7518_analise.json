@@ -1,0 +1,26 @@
+{
+  "id": 7518,
+  "nome_original": "Camisa Jeans",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "camisa jeans"
+    ],
+    "material_visual": "denim",
+    "estilo_corte": "casual, corte reto",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "estilo casual cotidiano, sem temática de personagem específica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7518.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.25,
+  "data_analise": "2026-07-27T18:49:49Z",
+  "data_criacao": "2026-07-27T15:49:49.629643-03:00"
+}

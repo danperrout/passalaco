@@ -1,0 +1,29 @@
+{
+  "id": 9399,
+  "nome_original": "Coelhinha",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "short"
+    ],
+    "material_visual": "cetim, tule e renda",
+    "estilo_corte": "corte infantil com mangas bufantes e acabamento em babados",
+    "acessorios_visiveis": [
+      "tiara de coelho com orelhas e laço"
+    ],
+    "tematica_detalhada": "fantasia de coelhinha baby, com referências a festas temáticas infantis e Páscoa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9399.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 43.56,
+  "data_analise": "2026-07-28T00:15:45Z",
+  "data_criacao": "2026-07-27T21:15:45.973195-03:00"
+}

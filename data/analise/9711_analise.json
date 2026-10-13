@@ -1,0 +1,32 @@
+{
+  "id": 9711,
+  "nome_original": "Papai Noel",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "gorro"
+    ],
+    "material_visual": "tecido acetinado com acabamentos em pelúcia branca",
+    "estilo_corte": "corte clássico e folgado com detalhes em bordas felpudas",
+    "acessorios_visiveis": [
+      "cinto preto com fivela",
+      "pompom no gorro"
+    ],
+    "tematica_detalhada": "Fantasia de Papai Noel, personagem icônico do Natal, representando a figura do distribuidor de presentes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9711.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.18,
+  "data_analise": "2026-07-30T02:12:06Z",
+  "data_criacao": "2026-07-29T23:12:06.338925-03:00"
+}

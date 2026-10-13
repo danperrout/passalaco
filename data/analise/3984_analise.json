@@ -1,0 +1,34 @@
+{
+  "id": 3984,
+  "nome_original": "SDEV CAPA",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "colete",
+      "calça",
+      "jabot/camisa",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado na capa e tecido fosco no traje",
+    "estilo_corte": "estilo vitoriano gótico com capa de gola alta e extremidades rasgadas",
+    "acessorios_visiveis": [
+      "gravata borboleta",
+      "botões dourados no colete"
+    ],
+    "tematica_detalhada": "fantasia de vampiro clássico, com referências ao Conde Drácula"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3984.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.28,
+  "data_analise": "2026-07-30T05:56:25Z",
+  "data_criacao": "2026-07-30T02:56:25.185560-03:00"
+}

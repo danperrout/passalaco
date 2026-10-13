@@ -1,0 +1,28 @@
+{
+  "id": 5582,
+  "nome_original": "Elsa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul celeste",
+      "azul royal"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule, cetim e lurex com brilhos",
+    "estilo_corte": "estilo princesa com cintura marcada e saia evasê",
+    "acessorios_visiveis": [
+      "tiara de cristais"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Elsa do filme Frozen, inspirada em elementos de gelo e realeza"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5582.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 188.63,
+  "data_analise": "2026-07-28T03:35:06Z",
+  "data_criacao": "2026-07-28T00:35:06.496081-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 5341,
+  "nome_original": "Fiona",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido sintético com brilho e detalhes em renda ou bordado",
+    "estilo_corte": "estilo medieval com mangas longas e cintura marcada",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "Fantasia da Princesa Fiona do filme Shrek, referência a trajes reais medievais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5341.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 179.3,
+  "data_analise": "2026-07-28T06:05:43Z",
+  "data_criacao": "2026-07-28T03:05:43.647248-03:00"
+}

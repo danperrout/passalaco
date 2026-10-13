@@ -1,0 +1,28 @@
+{
+  "id": 9791,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "tiara/coroa"
+    ],
+    "material_visual": "tecido metalizado com lantejoulas e franjas",
+    "estilo_corte": "vestido curto com decote em V e saia de franjas",
+    "acessorios_visiveis": [
+      "tiara em formato de raios solares"
+    ],
+    "tematica_detalhada": "fantasia de carnaval inspirada no sol ou divindades solares, com estética festiva e glamourosa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9791.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.52,
+  "data_analise": "2026-07-27T19:24:48Z",
+  "data_criacao": "2026-07-27T16:24:48.340000-03:00"
+}

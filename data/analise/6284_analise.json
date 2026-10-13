@@ -1,0 +1,26 @@
+{
+  "id": 6284,
+  "nome_original": "Olaf",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão curto"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou poliéster",
+    "estilo_corte": "corte reto, sem mangas, estilo romper/macacão",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia do personagem Olaf, o boneco de neve do filme Frozen da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6284.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 66.07,
+  "data_analise": "2026-07-30T00:46:12Z",
+  "data_criacao": "2026-07-29T21:46:12.590517-03:00"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 1044,
+  "nome_original": "Palhacinho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "vermelho",
+      "branco",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "salopete",
+      "peruca"
+    ],
+    "material_visual": "cetim ou poliéster brilhante",
+    "estilo_corte": "estilo jardineira folgada com design assimétrico",
+    "acessorios_visiveis": [
+      "gravata borboleta",
+      "pompons coloridos",
+      "peruca"
+    ],
+    "tematica_detalhada": "Palhaço clássico de circo, caracterizado por cores primárias vibrantes, estampa de bolinhas e elementos lúdicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1044.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.73,
+  "data_analise": "2026-07-30T01:42:46Z",
+  "data_criacao": "2026-07-29T22:42:46.483068-03:00"
+}

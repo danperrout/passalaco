@@ -1,0 +1,29 @@
+{
+  "id": 562,
+  "nome_original": "Emilia",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético com costuras aparentes",
+    "estilo_corte": "estilo patchwork com corte reto e mangas curtas",
+    "acessorios_visiveis": [
+      "botões decorativos"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Emília, do livro Sítio do Picapau Amarelo, representando uma boneca de pano"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/562.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.37,
+  "data_analise": "2026-07-28T03:44:30Z",
+  "data_criacao": "2026-07-28T00:44:30.810700-03:00"
+}

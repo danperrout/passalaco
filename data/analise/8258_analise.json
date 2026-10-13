@@ -1,0 +1,30 @@
+{
+  "id": 8258,
+  "nome_original": "Mexicana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "blusa ombro a ombro",
+      "saia longa"
+    ],
+    "material_visual": "cetim ou poliéster com acabamento brilhante e babados de renda/tule",
+    "estilo_corte": "estilo folclórico com decote ombro a ombro e saia evasê volumosa",
+    "acessorios_visiveis": [
+      "flor no cabelo",
+      "cinto"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na cultura mexicana, remetendo a trajes típicos de danças folclóricas como a Jarabe Tapatío"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8258.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 72.42,
+  "data_analise": "2026-07-29T21:57:26Z",
+  "data_criacao": "2026-07-29T18:57:26.355283-03:00"
+}

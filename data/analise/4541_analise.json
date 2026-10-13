@@ -1,0 +1,29 @@
+{
+  "id": 4541,
+  "nome_original": "Hulk",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "cinza"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "macacão"
+    ],
+    "material_visual": "tecido sintético com preenchimento em espuma",
+    "estilo_corte": "musculoso com efeito 3D",
+    "acessorios_visiveis": [
+      "máscara facial"
+    ],
+    "tematica_detalhada": "Personagem Hulk da Marvel Comics, caracterizado por sua pele verde e físico hipertrofiado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4541.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.65,
+  "data_analise": "2026-07-28T15:29:35Z",
+  "data_criacao": "2026-07-28T12:29:35.216882-03:00"
+}

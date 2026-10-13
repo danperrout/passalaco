@@ -1,0 +1,29 @@
+{
+  "id": 3039,
+  "nome_original": "Vampira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Preto"
+    ],
+    "pecas_inclusas": [
+      "Vestido",
+      "Capa"
+    ],
+    "material_visual": "Tecido sintético fosco no vestido e renda translúcida na capa",
+    "estilo_corte": "Vestido curto com barra em formato de pontas e capa com gola alta estruturada",
+    "acessorios_visiveis": [
+      "Luvas curtas"
+    ],
+    "tematica_detalhada": "Vampira clássica/gótica, com referências a personagens de terror e estética de Drácula"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3039.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.38,
+  "data_analise": "2026-07-30T08:46:17Z",
+  "data_criacao": "2026-07-30T05:46:17.279956-03:00"
+}

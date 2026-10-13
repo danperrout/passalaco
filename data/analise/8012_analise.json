@@ -1,0 +1,30 @@
+{
+  "id": 8012,
+  "nome_original": "Junina Mf",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido xadrez com detalhes em renda ou tule",
+    "estilo_corte": "modelo ombro a ombro com saia rodada e curta",
+    "acessorios_visiveis": [
+      "tiara com girassol",
+      "flor decorativa na cintura"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, inspirada no traje típico caipira com elementos florais de girassol"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8012.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 35.61,
+  "data_analise": "2026-07-29T06:38:20Z",
+  "data_criacao": "2026-07-29T03:38:20.968114-03:00"
+}

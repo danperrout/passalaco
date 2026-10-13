@@ -1,0 +1,29 @@
+{
+  "id": 4548,
+  "nome_original": "Homem de Ferro",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com estampa digital",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "reator arc estampado no peito"
+    ],
+    "tematica_detalhada": "Super-herói Homem de Ferro da Marvel Comics/MCU"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4548.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 150.08,
+  "data_analise": "2026-07-28T14:53:18Z",
+  "data_criacao": "2026-07-28T11:53:18.944450-03:00"
+}

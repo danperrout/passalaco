@@ -1,0 +1,29 @@
+{
+  "id": 5180,
+  "nome_original": "Sininho Bebe",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde lima",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "asas"
+    ],
+    "material_visual": "tule, cetim e glitter",
+    "estilo_corte": "vestido curto com saia volumosa e alças finas",
+    "acessorios_visiveis": [
+      "asas de fada"
+    ],
+    "tematica_detalhada": "Fantasia de bebê inspirada na personagem Sininho (Tinker Bell), representando a temática de fadas da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5180.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.35,
+  "data_analise": "2026-07-30T06:48:21Z",
+  "data_criacao": "2026-07-30T03:48:21.008293-03:00"
+}

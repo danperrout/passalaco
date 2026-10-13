@@ -1,0 +1,31 @@
+{
+  "id": 6025,
+  "nome_original": "Piloto",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "macacão inteiro com cintura ajustável e gola alta",
+    "acessorios_visiveis": [
+      "boné/chapéu",
+      "cinto de tecido"
+    ],
+    "tematica_detalhada": "fantasia de piloto de corrida automobilística, com referências a patrocínios e uniformes de equipes de competição"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6025.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 32.26,
+  "data_analise": "2026-07-30T03:28:36Z",
+  "data_criacao": "2026-07-30T00:28:36.826240-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 9993,
+  "nome_original": "Michael Mayers",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético fosco e plástico/látex para a máscara",
+    "estilo_corte": "macacão utilitário de corte reto com gola e mangas compridas",
+    "acessorios_visiveis": [
+      "máscara facial"
+    ],
+    "tematica_detalhada": "Personagem Michael Myers da franquia de filmes de terror Halloween, caracterizado por um visual sinistro e manchas de sangue artificiais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9993.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.24,
+  "data_analise": "2026-07-29T22:16:29Z",
+  "data_criacao": "2026-07-29T19:16:29.123386-03:00"
+}

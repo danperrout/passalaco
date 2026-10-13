@@ -1,0 +1,27 @@
+{
+  "id": 9319,
+  "nome_original": "Bela",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "cetim, tule e detalhes brilhantes/estruturados",
+    "estilo_corte": "estilo baile com corpete ajustado, decote ombro a ombro e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Bela, do conto de fadas A Bela e a Fera"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9319.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.37,
+  "data_analise": "2026-07-27T17:53:33Z",
+  "data_criacao": "2026-07-27T14:53:33.964750-03:00"
+}

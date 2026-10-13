@@ -1,0 +1,24 @@
+{
+  "id": 53,
+  "nome_original": "Anos 60",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampa de bolinhas",
+    "estilo_corte": "estilo baby doll com cintura marcada e saia rodada",
+    "acessorios_visiveis": [
+      "tiara"
+    ],
+    "tematica_detalhada": "moda retrô anos 60 com estética mod/vintage"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/53.jpg",
+  "data_analise": "2026-07-27T14:02:45Z"
+}

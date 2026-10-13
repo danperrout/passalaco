@@ -1,0 +1,30 @@
+{
+  "id": 7492,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "branco",
+      "rosa",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampa floral e detalhes em renda",
+    "estilo_corte": "estilo caipira com decote ombro a ombro, cintura marcada por corpete fake e saia rodada",
+    "acessorios_visiveis": [
+      "chapéu decorado com fitas"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina, representando a personagem caipira tradicional do folclore brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7492.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 164.96,
+  "data_analise": "2026-07-29T00:05:29Z",
+  "data_criacao": "2026-07-28T21:05:29.311394-03:00"
+}

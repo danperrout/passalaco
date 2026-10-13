@@ -1,0 +1,29 @@
+{
+  "id": 4890,
+  "nome_original": "Rapunzel",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "azul",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido sintético com brilho, tule e cetim",
+    "estilo_corte": "estilo princesa com cintura marcada e mangas bufantes",
+    "acessorios_visiveis": [
+      "tiara dourada"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Rapunzel da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4890.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.29,
+  "data_analise": "2026-07-30T04:36:16Z",
+  "data_criacao": "2026-07-30T01:36:16.755744-03:00"
+}

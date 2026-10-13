@@ -1,0 +1,29 @@
+{
+  "id": 10158,
+  "nome_original": "Odalisca",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "tecido translúcido tipo tule com aplicações de lantejoulas e fios metálicos",
+    "estilo_corte": "top curto estilo bustiê e saia longa fluida com cós trabalhado",
+    "acessorios_visiveis": [
+      "correntes douradas ornamentais na cintura"
+    ],
+    "tematica_detalhada": "Fantasia de Odalisca, inspirada na cultura árabe e dançarinas do ventre"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10158.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 35.3,
+  "data_analise": "2026-07-30T00:44:24Z",
+  "data_criacao": "2026-07-29T21:44:24.922945-03:00"
+}

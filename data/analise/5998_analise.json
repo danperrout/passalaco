@@ -1,0 +1,29 @@
+{
+  "id": 5998,
+  "nome_original": "Deusa Grega",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido leve e fluido, possivelmente chiffon ou poliéster",
+    "estilo_corte": "estilo império com cintura marcada e caimento solto",
+    "acessorios_visiveis": [
+      "tiara de folhas douradas",
+      "cinto dourado"
+    ],
+    "tematica_detalhada": "Deusa Grega, inspirada na indumentária da Grécia Antiga (quíton/peplos) e mitologia clássica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5998.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.34,
+  "data_analise": "2026-07-28T02:55:06Z",
+  "data_criacao": "2026-07-27T23:55:06.704437-03:00"
+}

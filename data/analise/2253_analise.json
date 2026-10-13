@@ -1,0 +1,30 @@
+{
+  "id": 2253,
+  "nome_original": "Borboleta",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "asas"
+    ],
+    "material_visual": "tecido sintético com brilho e estrutura rígida nas asas",
+    "estilo_corte": "vestido curto com corte evasê e decote reto",
+    "acessorios_visiveis": [
+      "tiara ou adorno de cabeça"
+    ],
+    "tematica_detalhada": "fantasia de borboleta monarca azul, inspirada na natureza e em elementos lúdicos de fantasia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2253.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.32,
+  "data_analise": "2026-07-27T18:19:18Z",
+  "data_criacao": "2026-07-27T15:19:18.493619-03:00"
+}

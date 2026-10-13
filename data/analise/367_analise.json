@@ -1,0 +1,28 @@
+{
+  "id": 367,
+  "nome_original": "Dama",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "veludo com detalhes em renda ou bordado metálico",
+    "estilo_corte": "estilo medieval/renascentista com mangas bufantes nos ombros e saia ampla",
+    "acessorios_visiveis": [
+      "coroa"
+    ],
+    "tematica_detalhada": "fantasia de realeza medieval, remetendo a rainhas ou damas da nobreza europeia antiga"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/367.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.82,
+  "data_analise": "2026-07-28T02:30:00Z",
+  "data_criacao": "2026-07-27T23:30:00.324350-03:00"
+}

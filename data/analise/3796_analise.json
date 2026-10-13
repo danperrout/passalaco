@@ -1,0 +1,31 @@
+{
+  "id": 3796,
+  "nome_original": "Robin Hood",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "chapéu cônico",
+      "calça"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster",
+    "estilo_corte": "túnica curta com acabamento serrilhado nas mangas e barra",
+    "acessorios_visiveis": [
+      "cinto preto",
+      "chapéu pontudo"
+    ],
+    "tematica_detalhada": "Fantasia de Robin Hood, representando o arqueteiro medieval da floresta de Sherwood"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3796.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.58,
+  "data_analise": "2026-07-30T04:57:44Z",
+  "data_criacao": "2026-07-30T01:57:44.544230-03:00"
+}

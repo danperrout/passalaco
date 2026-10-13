@@ -1,0 +1,28 @@
+{
+  "id": 7169,
+  "nome_original": "Vampira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "vestido"
+    ],
+    "material_visual": "tule, renda e tecido sintético fosco",
+    "estilo_corte": "vestido curto com saia rodada e decote transparente em renda",
+    "acessorios_visiveis": [
+      "chapéu de bruxa pontudo"
+    ],
+    "tematica_detalhada": "fantasia de bruxa clássica, com elementos góticos e referências a celebrações de Halloween"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7169.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.17,
+  "data_analise": "2026-07-30T08:45:06Z",
+  "data_criacao": "2026-07-30T05:45:06.958502-03:00"
+}

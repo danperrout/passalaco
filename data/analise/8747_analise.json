@@ -1,0 +1,32 @@
+{
+  "id": 8747,
+  "nome_original": "Casal Robin Hood",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calças",
+      "vestido",
+      "chapéus"
+    ],
+    "material_visual": "tecido sintético com aparência de veludo ou feltro",
+    "estilo_corte": "estilo medieval com cortes irregulares e barras desfiadas",
+    "acessorios_visiveis": [
+      "chapéu cônico",
+      "cinto"
+    ],
+    "tematica_detalhada": "Casal Robin Hood e Maid Marian, referenciando a lenda do arqueiro herói da floresta de Sherwood na Inglaterra medieval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8747.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.59,
+  "data_analise": "2026-07-27T19:36:25Z",
+  "data_criacao": "2026-07-27T16:36:25.350322-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 5050,
+  "nome_original": "Passaro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo",
+      "vermelho",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "modelo jumpsuit/macacão com capuz integrado e capa lateral",
+    "acessorios_visiveis": [
+      "bico de pássaro acoplado ao capuz"
+    ],
+    "tematica_detalhada": "fantasia de pássaro tropical, com cores remetendo a uma Arara"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5050.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.15,
+  "data_analise": "2026-07-30T02:29:51Z",
+  "data_criacao": "2026-07-29T23:29:51.156099-03:00"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 7204,
+  "nome_original": "Palhacinho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Circo",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "vermelho",
+      "azul",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "peruca",
+      "camiseta",
+      "calça bipartida",
+      "colete",
+      "gravata borboleta",
+      "sapatos"
+    ],
+    "material_visual": "tecido sintético, cetim e fibra sintética para a peruca",
+    "estilo_corte": "estilo bufante e assimétrico",
+    "acessorios_visiveis": [
+      "peruca arco-íris",
+      "gravata borboleta azul",
+      "suspensório decorativo"
+    ],
+    "tematica_detalhada": "Palhaço clássico circense, caracterizado por cores vibrantes, padrões contrastantes e elementos exagerados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7204.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.07,
+  "data_analise": "2026-07-30T01:48:17Z",
+  "data_criacao": "2026-07-29T22:48:17.892793-03:00"
+}

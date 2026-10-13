@@ -1,0 +1,29 @@
+{
+  "id": 2235,
+  "nome_original": "Moranguinho",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda",
+    "estilo_corte": "estilo camponesa com saia rodada e corpete ajustado com amarração",
+    "acessorios_visiveis": [
+      "tiara de morango",
+      "avental decorativo"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Moranguinho, remetendo a um visual doce e campestre"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2235.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.31,
+  "data_analise": "2026-07-29T22:55:43Z",
+  "data_criacao": "2026-07-29T19:55:43.327572-03:00"
+}

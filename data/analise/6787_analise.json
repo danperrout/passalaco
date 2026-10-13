@@ -1,0 +1,25 @@
+{
+  "id": 6787,
+  "nome_original": "Ana",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com detalhes em brilho e tule",
+    "estilo_corte": "vestido longo com cintura marcada e decote arredondado",
+    "acessorios_visiveis": [
+      "peruca ruiva"
+    ],
+    "tematica_detalhada": "fantasia inspirada na personagem Anna do filme Frozen"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6787.jpg",
+  "data_analise": "2026-07-27T13:55:38Z"
+}

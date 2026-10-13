@@ -1,0 +1,30 @@
+{
+  "id": 9646,
+  "nome_original": "Remo da Moana",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "remo"
+    ],
+    "material_visual": "espuma EVA ou material sintético simulando madeira",
+    "estilo_corte": "formato alongado com ponta arredondada e cabo cilíndrico",
+    "acessorios_visiveis": [
+      "detalhes florais",
+      "cordão decorativo"
+    ],
+    "tematica_detalhada": "Acessório inspirado no remo da personagem Moana, com referências à cultura polinésia e elementos naturais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9646.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.49,
+  "data_analise": "2026-07-30T04:53:10Z",
+  "data_criacao": "2026-07-30T01:53:10.062481-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 7792,
+  "nome_original": "Leao",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "estilo kigurumi ou macacão oversized",
+    "acessorios_visiveis": [
+      "orelhas de leão",
+      "juba"
+    ],
+    "tematica_detalhada": "fantasia de animal, especificamente um leão, focada em conforto e aspecto fofinho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7792.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 55.77,
+  "data_analise": "2026-07-29T10:33:46Z",
+  "data_criacao": "2026-07-29T07:33:46.475672-03:00"
+}

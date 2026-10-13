@@ -1,0 +1,30 @@
+{
+  "id": 3609,
+  "nome_original": "Princesa Cristal",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "azul",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "luvas"
+    ],
+    "material_visual": "tule com brilhos e cetim",
+    "estilo_corte": "corte princesa com corpete ajustado e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "fantasia de princesa mística ou de cristal, com estética inspirada em contos de fadas e elementos mágicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3609.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 39.21,
+  "data_analise": "2026-07-30T04:01:05Z",
+  "data_criacao": "2026-07-30T01:01:05.774628-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 3849,
+  "nome_original": "Portuguesa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia",
+      "lenço de cabeça"
+    ],
+    "material_visual": "tecido sintético com bordados coloridos",
+    "estilo_corte": "estilo camponesa com mangas bufantes e saia rodada",
+    "acessorios_visiveis": [
+      "lenço"
+    ],
+    "tematica_detalhada": "traje típico folclórico português, referenciando vestimentas tradicionais regionais de Portugal"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3849.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.71,
+  "data_analise": "2026-07-30T03:50:57Z",
+  "data_criacao": "2026-07-30T00:50:57.146112-03:00"
+}

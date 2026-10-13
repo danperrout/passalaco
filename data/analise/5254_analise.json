@@ -1,0 +1,31 @@
+{
+  "id": 5254,
+  "nome_original": "Super Mulher",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado",
+    "estilo_corte": "vestido curto com saia evasê e decote quadrado",
+    "acessorios_visiveis": [
+      "cinto amarelo",
+      "logotipo no peito"
+    ],
+    "tematica_detalhada": "Super Mulher, personagem inspirada no universo DC Comics, representando heroísmo e superpoderes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5254.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.18,
+  "data_analise": "2026-07-30T07:30:03Z",
+  "data_criacao": "2026-07-30T04:30:03.893134-03:00"
+}

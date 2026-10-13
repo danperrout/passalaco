@@ -1,0 +1,25 @@
+{
+  "id": 2935,
+  "nome_original": "Anjo Z",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido translúcido e brilhante",
+    "estilo_corte": "estilo túnica com mangas longas e decote em V",
+    "acessorios_visiveis": [
+      "tiara de flores",
+      "asas de anjo"
+    ],
+    "tematica_detalhada": "anjo celestial"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2935.jpg",
+  "data_analise": "2026-07-27T13:58:16Z"
+}

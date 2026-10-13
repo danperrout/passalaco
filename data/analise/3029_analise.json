@@ -1,0 +1,31 @@
+{
+  "id": 3029,
+  "nome_original": "Indio",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "saia de palha",
+      "cocar"
+    ],
+    "material_visual": "fibras naturais sintéticas e penas",
+    "estilo_corte": "saia rústica de franjas e acessório de cabeça circular",
+    "acessorios_visiveis": [
+      "colar com pingente",
+      "cocar de penas"
+    ],
+    "tematica_detalhada": "Fantasia estereotipada de indígena, com referências genéricas a povos nativos das Américas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3029.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 30.86,
+  "data_analise": "2026-07-28T17:28:27Z",
+  "data_criacao": "2026-07-28T14:28:27.735449-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 8244,
+  "nome_original": "Junina Saia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "saia"
+    ],
+    "material_visual": "tecido xadrez com acabamento em renda",
+    "estilo_corte": "saia curta e volumosa com camadas em babados",
+    "acessorios_visiveis": [
+      "renda decorativa"
+    ],
+    "tematica_detalhada": "Festa Junina, inspirada no traje caipira tradicional brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8244.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 31.42,
+  "data_analise": "2026-07-29T07:02:11Z",
+  "data_criacao": "2026-07-29T04:02:11.791222-03:00"
+}

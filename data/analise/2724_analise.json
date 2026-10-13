@@ -1,0 +1,28 @@
+{
+  "id": 2724,
+  "nome_original": "Fiona",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "veludo com bordados",
+    "estilo_corte": "estilo medieval com mangas longas e saia evasê",
+    "acessorios_visiveis": [
+      "tiara com chifres e coroa"
+    ],
+    "tematica_detalhada": "Fantasia da Princesa Fiona (versão ogra) do filme Shrek"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2724.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 70.19,
+  "data_analise": "2026-07-28T06:02:43Z",
+  "data_criacao": "2026-07-28T03:02:43.374276-03:00"
+}

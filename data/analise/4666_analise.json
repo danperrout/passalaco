@@ -1,0 +1,31 @@
+{
+  "id": 4666,
+  "nome_original": "Chef de Cozinha",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "chapéu de chef",
+      "casaco",
+      "calça"
+    ],
+    "material_visual": "tecido sintético ou algodão com acabamento fosco",
+    "estilo_corte": "corte reto com casaco de abotoamento duplo e gola alta",
+    "acessorios_visiveis": [
+      "botões decorativos amarelos",
+      "detalhes de vivo amarelo nas bordas"
+    ],
+    "tematica_detalhada": "fantasia de chef de cozinha profissional, inspirada em uniformes clássicos de gastronomia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4666.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.32,
+  "data_analise": "2026-07-27T20:50:02Z",
+  "data_criacao": "2026-07-27T17:50:02.403283-03:00"
+}

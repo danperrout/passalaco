@@ -1,0 +1,30 @@
+{
+  "id": 3865,
+  "nome_original": "Lagarto",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "capuz",
+      "camiseta",
+      "calça"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou plush",
+    "estilo_corte": "estilo pijama ou macacão desmembrado, corte solto e confortável",
+    "acessorios_visiveis": [
+      "capuz com detalhes de réptil"
+    ],
+    "tematica_detalhada": "fantasia de lagarto ou dinossauro estilizada, com foco em cores vibrantes e design infantil/lúdico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3865.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 51.27,
+  "data_analise": "2026-07-29T08:43:28Z",
+  "data_criacao": "2026-07-29T05:43:28.253466-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 1395,
+  "nome_original": "Visconde de Sabugosa",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "terno clássico com gola decorativa",
+    "acessorios_visiveis": [
+      "chapéu copa alta",
+      "gola em formato de pétalas",
+      "gravata borboleta"
+    ],
+    "tematica_detalhada": "Personagem Visconde de Sabugosa do Sítio do Picapau Amarelo, representando um espigão de milho antropomorfizado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1395.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.85,
+  "data_analise": "2026-07-30T08:51:30Z",
+  "data_criacao": "2026-07-30T05:51:30.835476-03:00"
+}

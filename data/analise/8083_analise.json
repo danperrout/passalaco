@@ -1,0 +1,30 @@
+{
+  "id": 8083,
+  "nome_original": "Dragao",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vinho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "asas"
+    ],
+    "material_visual": "veludo e material sintético translúcido",
+    "estilo_corte": "estilo corset no busto com saia franzida e curta",
+    "acessorios_visiveis": [
+      "colar gótico",
+      "asas de dragão"
+    ],
+    "tematica_detalhada": "fantasia de dragão ou criatura mística com influência gótica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8083.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.78,
+  "data_analise": "2026-07-28T03:25:01Z",
+  "data_criacao": "2026-07-28T00:25:01.604490-03:00"
+}

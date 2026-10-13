@@ -1,0 +1,25 @@
+{
+  "id": 6283,
+  "nome_original": "Alice",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul claro",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim e tule",
+    "estilo_corte": "estilo lolita com saia volumosa e mangas bufantes",
+    "acessorios_visiveis": [
+      "laço de cabelo",
+      "laço na cintura"
+    ],
+    "tematica_detalhada": "Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6283.jpg",
+  "data_analise": "2026-07-27T13:47:44Z"
+}

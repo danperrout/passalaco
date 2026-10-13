@@ -1,0 +1,32 @@
+{
+  "id": 6717,
+  "nome_original": "Sereia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia",
+      "tiara"
+    ],
+    "material_visual": "paetês, tule e conchas",
+    "estilo_corte": "corte sereia com top ajustado e saia longa evasê na barra",
+    "acessorios_visiveis": [
+      "tiara de conchas",
+      "colares de pérolas decorativos"
+    ],
+    "tematica_detalhada": "fantasia de sereia inspirada em elementos marinhos e criaturas mitológicas do oceano"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6717.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.27,
+  "data_analise": "2026-07-30T06:19:29Z",
+  "data_criacao": "2026-07-30T03:19:29.668837-03:00"
+}

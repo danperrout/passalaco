@@ -1,0 +1,32 @@
+{
+  "id": 7171,
+  "nome_original": "Vampira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "capa com gola alta",
+      "luvas longas",
+      "tiara/acessório de cabeça"
+    ],
+    "material_visual": "paetês brilhantes no busto, franjas na saia e tecido acetinado na capa",
+    "estilo_corte": "estilo cocktail com busto ajustado, saia de franjas e gola draculiana",
+    "acessorios_visiveis": [
+      "tiara decorada",
+      "luvas de ópera"
+    ],
+    "tematica_detalhada": "vampira gótica moderna com referências ao estilo clássico de Drácula misturado com moda festa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7171.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.16,
+  "data_analise": "2026-07-30T08:46:37Z",
+  "data_criacao": "2026-07-30T05:46:37.938291-03:00"
+}

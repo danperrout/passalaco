@@ -1,0 +1,33 @@
+{
+  "id": 6160,
+  "nome_original": "Olodum",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "amarelo",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "calça",
+      "touca"
+    ],
+    "material_visual": "tecido sintético ou algodão",
+    "estilo_corte": "modelagem folgada e casual",
+    "acessorios_visiveis": [
+      "colar ornamentado",
+      "touca com detalhes coloridos"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no Olodum, bloco afro de Salvador, referenciando a cultura afro-brasileira e as cores pan-africanas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6160.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 51.44,
+  "data_analise": "2026-07-30T00:47:47Z",
+  "data_criacao": "2026-07-29T21:47:47.933168-03:00"
+}

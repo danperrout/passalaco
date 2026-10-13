@@ -1,0 +1,30 @@
+{
+  "id": 5993,
+  "nome_original": "Rainha Luxo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "capa"
+    ],
+    "material_visual": "tecido sintético com brilho metálico e cetim",
+    "estilo_corte": "estilo medieval/renascentista com mangas bufantes e saia volumosa",
+    "acessorios_visiveis": [
+      "coroa dourada",
+      "peruca branca"
+    ],
+    "tematica_detalhada": "realeza clássica, inspirada em rainhas de contos de fadas ou figuras monárquicas europeias antigas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5993.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.65,
+  "data_analise": "2026-07-30T04:30:19Z",
+  "data_criacao": "2026-07-30T01:30:19.743720-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 8072,
+  "nome_original": "Mulher Maravilha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante/acetinado",
+    "estilo_corte": "vestido curto com saia plissada e corpete ajustado",
+    "acessorios_visiveis": [
+      "tiara",
+      "braceletes"
+    ],
+    "tematica_detalhada": "Fantasia da super-heroína Mulher Maravilha, inspirada nos quadrinhos e filmes da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8072.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 39.91,
+  "data_analise": "2026-07-29T23:21:33Z",
+  "data_criacao": "2026-07-29T20:21:33.850231-03:00"
+}

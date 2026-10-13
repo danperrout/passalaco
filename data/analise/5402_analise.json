@@ -1,0 +1,30 @@
+{
+  "id": 5402,
+  "nome_original": "Bob Esponja",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "estilo oversized e retangular",
+    "acessorios_visiveis": [
+      "gravata vermelha"
+    ],
+    "tematica_detalhada": "Personagem Bob Esponja Calça Quadrada, do desenho animado homônimo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5402.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.62,
+  "data_analise": "2026-07-27T18:16:00Z",
+  "data_criacao": "2026-07-27T15:16:00.246979-03:00"
+}

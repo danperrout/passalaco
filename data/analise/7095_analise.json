@@ -1,0 +1,31 @@
+{
+  "id": 7095,
+  "nome_original": "Frevo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "cetim brilhante",
+    "estilo_corte": "camisa com mangas bufantes e babados, calça com cintura ajustada",
+    "acessorios_visiveis": [
+      "laço no pescoço",
+      "faixa na cintura"
+    ],
+    "tematica_detalhada": "Fantasia típica de passista de Frevo, dança folclórica característica do carnaval de Pernambuco"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7095.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.49,
+  "data_analise": "2026-07-28T06:38:37Z",
+  "data_criacao": "2026-07-28T03:38:37.300120-03:00"
+}

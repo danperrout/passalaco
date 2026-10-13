@@ -1,0 +1,32 @@
+{
+  "id": 9061,
+  "nome_original": "Os Incriveis",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético com elasticidade, possivelmente poliéster ou lycra",
+    "estilo_corte": "ajustado ao corpo (slim fit), manga longa",
+    "acessorios_visiveis": [
+      "máscara ocular preta",
+      "luvas pretas",
+      "cinto laranja"
+    ],
+    "tematica_detalhada": "Fantasia baseada nos personagens do filme 'Os Incríveis', apresentando o logotipo icônico no peito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9061.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 154.16,
+  "data_analise": "2026-07-30T01:04:44Z",
+  "data_criacao": "2026-07-29T22:04:44.392308-03:00"
+}

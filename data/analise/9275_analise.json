@@ -1,0 +1,31 @@
+{
+  "id": 9275,
+  "nome_original": "Casal Vampiros",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "capa com gola alta",
+      "colete/túnica masculina",
+      "calça",
+      "vestido feminino"
+    ],
+    "material_visual": "cetim ou tecido sintético com brilho e detalhes em renda",
+    "estilo_corte": "estilo gótico vitoriano com golas estruturadas e saia volumosa",
+    "acessorios_visiveis": [
+      "coroa"
+    ],
+    "tematica_detalhada": "Casal de Vampiros aristocratas, com referências à estética gótica clássica e nobreza vampírica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9275.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.45,
+  "data_analise": "2026-07-27T19:37:52Z",
+  "data_criacao": "2026-07-27T16:37:52.505079-03:00"
+}

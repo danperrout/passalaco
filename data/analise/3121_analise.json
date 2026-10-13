@@ -1,0 +1,30 @@
+{
+  "id": 3121,
+  "nome_original": "Chines",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "robe",
+      "chapéu"
+    ],
+    "material_visual": "cetim com brilho",
+    "estilo_corte": "estilo quimono com mangas largas e fechamento por faixa na cintura",
+    "acessorios_visiveis": [
+      "faixa de amarração",
+      "gorro decorado"
+    ],
+    "tematica_detalhada": "fantasia inspirada em trajes tradicionais do leste asiático, com referências a vestimentas chinesas ou japonesas estilizadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3121.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 33.16,
+  "data_analise": "2026-07-27T20:56:30Z",
+  "data_criacao": "2026-07-27T17:56:30.295386-03:00"
+}

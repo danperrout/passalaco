@@ -1,0 +1,29 @@
+{
+  "id": 8383,
+  "nome_original": "Bruxinha Esqueleto",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "cetim ou poliéster com tule na saia",
+    "estilo_corte": "estilo baby-doll com saia volumosa e armada",
+    "acessorios_visiveis": [
+      "tiara com laço",
+      "peruca preta"
+    ],
+    "tematica_detalhada": "fusão de bruxa e esqueleto, combinando elementos góticos com a representação anatômica de ossos no busto"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8383.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.26,
+  "data_analise": "2026-07-27T18:41:14Z",
+  "data_criacao": "2026-07-27T15:41:14.124001-03:00"
+}

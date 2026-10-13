@@ -1,0 +1,32 @@
+{
+  "id": 8422,
+  "nome_original": "Palhacinho",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo",
+      "branco",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "calça",
+      "peruca"
+    ],
+    "material_visual": "cetim ou poliéster brilhante",
+    "estilo_corte": "folgado com babados no gola e punhos",
+    "acessorios_visiveis": [
+      "peruca colorida"
+    ],
+    "tematica_detalhada": "Palhaço clássico de circo, caracterizado por cores vibrantes e estampas de bolinhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8422.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 22.71,
+  "data_analise": "2026-07-30T01:46:13Z",
+  "data_criacao": "2026-07-29T22:46:13.540968-03:00"
+}

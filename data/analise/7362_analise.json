@@ -1,0 +1,32 @@
+{
+  "id": 7362,
+  "nome_original": "Tartaruga Ninja",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético elástico",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "faixa na cintura",
+      "protetores de punho",
+      "protetores de canela"
+    ],
+    "tematica_detalhada": "Tartaruga Ninja, especificamente o personagem Raphael devido à máscara vermelha"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7362.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 47.75,
+  "data_analise": "2026-07-30T07:41:36Z",
+  "data_criacao": "2026-07-30T04:41:36.066256-03:00"
+}

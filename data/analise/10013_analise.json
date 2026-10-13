@@ -1,0 +1,31 @@
+{
+  "id": 10013,
+  "nome_original": "Palhacinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "verde",
+      "amarelo",
+      "azul",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim e tule",
+    "estilo_corte": "corte evasê com saia de camadas volumosas e babados no decote",
+    "acessorios_visiveis": [
+      "tiara de pompons coloridos"
+    ],
+    "tematica_detalhada": "Palhaço clássico e colorido, com referências a figuras de circo tradicionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10013.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.21,
+  "data_analise": "2026-07-30T01:42:20Z",
+  "data_criacao": "2026-07-29T22:42:20.134187-03:00"
+}

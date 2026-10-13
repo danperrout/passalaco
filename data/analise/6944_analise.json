@@ -1,0 +1,28 @@
+{
+  "id": 6944,
+  "nome_original": "Modelo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampa",
+    "estilo_corte": "vestido curto, sem mangas, com saia rodada e evasê",
+    "acessorios_visiveis": [
+      "botas cano curto marrons"
+    ],
+    "tematica_detalhada": "estilo camponesa ou folk, com elementos que remetem a trajes típicos europeus ou personagens de contos de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6944.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 44.78,
+  "data_analise": "2026-07-29T22:48:37Z",
+  "data_criacao": "2026-07-29T19:48:37.599244-03:00"
+}

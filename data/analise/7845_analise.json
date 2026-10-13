@@ -1,0 +1,30 @@
+{
+  "id": 7845,
+  "nome_original": "Homem Aranha Luxo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "blusa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado ou elastano",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "máscara com lentes brancas"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Homem-Aranha, especificamente inspirada no traje Miles Morales devido à combinação de cores preto e vermelho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7845.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 239.04,
+  "data_analise": "2026-07-28T14:28:10Z",
+  "data_criacao": "2026-07-28T11:28:10.493588-03:00"
+}

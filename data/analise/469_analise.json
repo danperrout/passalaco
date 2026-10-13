@@ -1,0 +1,30 @@
+{
+  "id": 469,
+  "nome_original": "Chef de Cozinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu de chef"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente poliéster",
+    "estilo_corte": "estilo dólmã adaptado para vestido, com corte reto e gola aberta",
+    "acessorios_visiveis": [
+      "botões decorativos pretos",
+      "toque blanche"
+    ],
+    "tematica_detalhada": "Chef de Cozinha profissional, inspirada na vestimenta clássica de gastronomia francesa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/469.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 80.73,
+  "data_analise": "2026-07-27T20:45:15Z",
+  "data_criacao": "2026-07-27T17:45:15.917394-03:00"
+}

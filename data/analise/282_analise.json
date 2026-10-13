@@ -1,0 +1,30 @@
+{
+  "id": 282,
+  "nome_original": "Bruxa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "colorido",
+      "neon"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "vestido"
+    ],
+    "material_visual": "tecido sintético, tule e fitas plásticas",
+    "estilo_corte": "vestido curto com saia volumosa e chapéu cônico",
+    "acessorios_visiveis": [
+      "chapéu de bruxa com detalhes coloridos"
+    ],
+    "tematica_detalhada": "Bruxa festiva ou neon, fugindo do estereótipo sombrio com a adição de cores vibrantes e elementos psicodélicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/282.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.97,
+  "data_analise": "2026-07-27T18:22:40Z",
+  "data_criacao": "2026-07-27T15:22:40.012235-03:00"
+}

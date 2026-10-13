@@ -1,0 +1,30 @@
+{
+  "id": 8559,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "tecido com lantejoulas e brilhos",
+    "estilo_corte": "conjunto de duas peças com corte justo e comprimento curto",
+    "acessorios_visiveis": [
+      "arranjo de cabeça ornamentado",
+      "tiara com penas/ hastes douradas"
+    ],
+    "tematica_detalhada": "estilo passista de carnaval ou showgirl, com referências a trajes de samba e festas luxuosas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8559.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.16,
+  "data_analise": "2026-07-27T19:21:03Z",
+  "data_criacao": "2026-07-27T16:21:03.327507-03:00"
+}

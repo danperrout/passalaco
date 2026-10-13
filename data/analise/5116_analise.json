@@ -1,0 +1,31 @@
+{
+  "id": 5116,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "amarelo",
+      "azul",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampas variadas e rendas",
+    "estilo_corte": "estilo rodado com cintura marcada e mangas curtas",
+    "acessorios_visiveis": [
+      "tiara com laço",
+      "aplicações de flores de tecido"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina infantil, caracterizada pelo estilo 'caipira' com uso de retalhos coloridos, estampas de poá e listras"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5116.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 64.89,
+  "data_analise": "2026-07-28T21:45:03Z",
+  "data_criacao": "2026-07-28T18:45:03.056631-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 8436,
+  "nome_original": "Palhacinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Circo",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara com mini cartola"
+    ],
+    "material_visual": "cetim e tule",
+    "estilo_corte": "vestido curto com saia volumosa estilo tutu",
+    "acessorios_visiveis": [
+      "mini cartola"
+    ],
+    "tematica_detalhada": "Palhaça estilizada com elementos circenses, combinando cores vibrantes e estampa de bolinhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8436.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 74.44,
+  "data_analise": "2026-07-30T01:39:30Z",
+  "data_criacao": "2026-07-29T22:39:30.321673-03:00"
+}

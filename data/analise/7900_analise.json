@@ -1,0 +1,30 @@
+{
+  "id": 7900,
+  "nome_original": "The Flash",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "shorts",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com aspecto de poliéster ou elastano",
+    "estilo_corte": "ajuste casual, corte reto com mangas curtas e bermuda",
+    "acessorios_visiveis": [
+      "máscara com detalhes laterais em amarelo"
+    ],
+    "tematica_detalhada": "Fantasia do super-herói The Flash, da DC Comics, caracterizado pelo símbolo do raio no peito e cores vibrantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7900.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.4,
+  "data_analise": "2026-07-30T07:45:20Z",
+  "data_criacao": "2026-07-30T04:45:20.665276-03:00"
+}

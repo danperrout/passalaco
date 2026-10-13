@@ -1,0 +1,30 @@
+{
+  "id": 7174,
+  "nome_original": "Barba",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "peruca",
+      "barba",
+      "chapéu"
+    ],
+    "material_visual": "fibras sintéticas e tecido aveludado",
+    "estilo_corte": "barba longa e volumosa com chapéu cilíndrico",
+    "acessorios_visiveis": [
+      "chapéu vermelho"
+    ],
+    "tematica_detalhada": "Fantasia de Papai Noel ou personagem natalino"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7174.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 184.83,
+  "data_analise": "2026-07-27T17:44:30Z",
+  "data_criacao": "2026-07-27T14:44:30.404156-03:00"
+}

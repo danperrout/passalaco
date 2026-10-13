@@ -1,0 +1,36 @@
+{
+  "id": 3812,
+  "nome_original": "Gaucho",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "branco",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "colete",
+      "calça bombacha",
+      "camisa",
+      "lenço"
+    ],
+    "material_visual": "tecido sintético com aparência de brim ou sarja",
+    "estilo_corte": "corte tradicional regionalista com calças largas e colete reto",
+    "acessorios_visiveis": [
+      "chapéu de aba larga",
+      "lenço vermelho no pescoço",
+      "botas pretas"
+    ],
+    "tematica_detalhada": "Traje típico de Gaúcho, representando a cultura tradicionalista do Rio Grande do Sul, Brasil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3812.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 127.48,
+  "data_analise": "2026-07-28T10:48:14Z",
+  "data_criacao": "2026-07-28T07:48:14.362325-03:00"
+}

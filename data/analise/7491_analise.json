@@ -1,0 +1,32 @@
+{
+  "id": 7491,
+  "nome_original": "Blusa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "colorido",
+      "vermelho",
+      "verde",
+      "azul",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "blusa de franjas",
+      "chapéu"
+    ],
+    "material_visual": "fios sintéticos ou plástico em formato de franjas",
+    "estilo_corte": "estilo top sem mangas com franjas longas e fluidas",
+    "acessorios_visiveis": [
+      "chapéu de palha pequeno com ornamentos coloridos"
+    ],
+    "tematica_detalhada": "fantasia festiva e multicolorida, remetendo a estilos carnavalescos, folclóricos ou festas tropicais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7491.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.25,
+  "data_analise": "2026-07-27T18:14:00Z",
+  "data_criacao": "2026-07-27T15:14:00.901992-03:00"
+}

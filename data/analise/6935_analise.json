@@ -1,0 +1,28 @@
+{
+  "id": 6935,
+  "nome_original": "Suspensorio",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "suspensórios"
+    ],
+    "material_visual": "tecido elástico com estampa floral",
+    "estilo_corte": "fitas lineares com presilhas metálicas",
+    "acessorios_visiveis": [
+      "presilhas de metal"
+    ],
+    "tematica_detalhada": "estilo camponês ou folclórico europeu, remetendo a trajes típicos regionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6935.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.88,
+  "data_analise": "2026-07-30T07:33:04Z",
+  "data_criacao": "2026-07-30T04:33:04.896122-03:00"
+}

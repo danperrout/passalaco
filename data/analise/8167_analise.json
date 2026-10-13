@@ -1,0 +1,29 @@
+{
+  "id": 8167,
+  "nome_original": "Lol",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "tule e tecido com glitter/paetês",
+    "estilo_corte": "estilo tutu com saia volumosa em camadas e mangas curtas bufantes",
+    "acessorios_visiveis": [
+      "tiara com pompons dourados"
+    ],
+    "tematica_detalhada": "fantasia festiva inspirada em bonecas LOL Surprise, com foco em brilho e volume"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8167.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 206.3,
+  "data_analise": "2026-07-29T12:21:56Z",
+  "data_criacao": "2026-07-29T09:21:56.871570-03:00"
+}

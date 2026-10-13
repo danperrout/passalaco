@@ -1,0 +1,32 @@
+{
+  "id": 2754,
+  "nome_original": "Sportacus",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "camiseta",
+      "calça",
+      "touca"
+    ],
+    "material_visual": "tecido sintético acetinado",
+    "estilo_corte": "estilo esportivo e ajustado",
+    "acessorios_visiveis": [
+      "óculos de proteção",
+      "cinto"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Sportacus, da série infantil LazyTown, com temática atlética e acrobática"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2754.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.0,
+  "data_analise": "2026-07-30T07:16:48Z",
+  "data_criacao": "2026-07-30T04:16:48.745282-03:00"
+}

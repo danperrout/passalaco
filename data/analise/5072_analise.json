@@ -1,0 +1,29 @@
+{
+  "id": 5072,
+  "nome_original": "Rainha das Bruxas",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "capa com gola alta"
+    ],
+    "material_visual": "veludo e cetim",
+    "estilo_corte": "corte reto e longo com gola estruturada",
+    "acessorios_visiveis": [
+      "coroa/tiara prateada"
+    ],
+    "tematica_detalhada": "Rainha das Bruxas ou Malévola, com estética gótica e referências a vilãs de contos de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5072.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.47,
+  "data_analise": "2026-07-30T04:21:56Z",
+  "data_criacao": "2026-07-30T01:21:56.902183-03:00"
+}

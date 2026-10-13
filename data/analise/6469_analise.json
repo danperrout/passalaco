@@ -1,0 +1,30 @@
+{
+  "id": 6469,
+  "nome_original": "Sophia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "lilás",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "cetim brilhante e tule nas mangas",
+    "estilo_corte": "estilo princesa com cintura marcada, mangas bufantes e saia volumosa com drapeados",
+    "acessorios_visiveis": [
+      "tiara",
+      "colar com pingente"
+    ],
+    "tematica_detalhada": "Fantasia de princesa, inspirada na personagem Princesa Sofia (Sofia the First)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6469.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.27,
+  "data_analise": "2026-07-30T07:16:03Z",
+  "data_criacao": "2026-07-30T04:16:03.331159-03:00"
+}

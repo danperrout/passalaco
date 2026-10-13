@@ -1,0 +1,35 @@
+{
+  "id": 9626,
+  "nome_original": "Principe",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "dourado",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "casaca",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "uniforme militar clássico com gola alta e punhos marcados",
+    "acessorios_visiveis": [
+      "ombreiras com franjas",
+      "faixa transversal",
+      "medalha",
+      "insígnia"
+    ],
+    "tematica_detalhada": "fantasia de príncipe ou oficial militar de gala, com referências a uniformes europeus napoleônicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9626.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.46,
+  "data_analise": "2026-07-30T04:16:50Z",
+  "data_criacao": "2026-07-30T01:16:50.065282-03:00"
+}

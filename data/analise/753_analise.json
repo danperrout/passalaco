@@ -1,0 +1,33 @@
+{
+  "id": 753,
+  "nome_original": "Japonês",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "faixa",
+      "faixa de cabeça"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente poliéster",
+    "estilo_corte": "estilo kimono com mangas largas e fechamento transpassado",
+    "acessorios_visiveis": [
+      "hachimaki (faixa de cabeça com círculo vermelho)",
+      "obi (faixa abdominal vermelha)"
+    ],
+    "tematica_detalhada": "fantasia inspirada na cultura japonesa, remetendo a trajes tradicionais como o kimono ou yukata, com referências à bandeira do Japão"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/753.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 150.61,
+  "data_analise": "2026-07-28T19:03:50Z",
+  "data_criacao": "2026-07-28T16:03:50.889872-03:00"
+}

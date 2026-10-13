@@ -1,0 +1,30 @@
+{
+  "id": 4384,
+  "nome_original": "Jaqueta",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "calça"
+    ],
+    "material_visual": "material sintético com aspecto de couro ou vinil",
+    "estilo_corte": "estilo jaqueta biker com gola larga e corte ajustado",
+    "acessorios_visiveis": [
+      "cinto com fivela dourada",
+      "zíperes metálicos"
+    ],
+    "tematica_detalhada": "estilo rock and roll, motociclista ou referências a personagens como Grease e subcultura punk/gótica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4384.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 68.67,
+  "data_analise": "2026-07-28T19:13:13Z",
+  "data_criacao": "2026-07-28T16:13:13.684006-03:00"
+}

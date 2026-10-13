@@ -1,0 +1,29 @@
+{
+  "id": 7392,
+  "nome_original": "Dinossauro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão completo",
+      "capuz com cabeça de dinossauro"
+    ],
+    "material_visual": "tecido sintético com textura animal/escamosa",
+    "estilo_corte": "estilo kigurumi ou macacão oversized",
+    "acessorios_visiveis": [
+      "dentes decorativos na mandíbula"
+    ],
+    "tematica_detalhada": "fantasia de dinossauro terópode, com referências a criaturas pré-históricas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7392.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.77,
+  "data_analise": "2026-07-28T03:05:42Z",
+  "data_criacao": "2026-07-28T00:05:42.300610-03:00"
+}

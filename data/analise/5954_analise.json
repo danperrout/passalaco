@@ -1,0 +1,31 @@
+{
+  "id": 5954,
+  "nome_original": "Minions",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "jardineira",
+      "touca"
+    ],
+    "material_visual": "tecido sintético com aparência de poliéster ou algodão",
+    "estilo_corte": "ajuste confortável com jardineira de alças e touca ajustada",
+    "acessorios_visiveis": [
+      "óculos de proteção cenográficos",
+      "detalhe de fios de cabelo no topo da touca"
+    ],
+    "tematica_detalhada": "personagem Minion da franquia de filmes Meu Malvado Favorito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5954.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.23,
+  "data_analise": "2026-07-29T22:31:36Z",
+  "data_criacao": "2026-07-29T19:31:36.223583-03:00"
+}

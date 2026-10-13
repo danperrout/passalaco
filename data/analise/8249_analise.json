@@ -1,0 +1,30 @@
+{
+  "id": 8249,
+  "nome_original": "Unicornio Pelucia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa",
+      "azul claro"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "pelúcia sintética macia",
+    "estilo_corte": "estilo kigurumi, corte amplo e confortável com fechamento em zíper frontal",
+    "acessorios_visiveis": [
+      "chifre de unicórnio",
+      "orelhas de animal"
+    ],
+    "tematica_detalhada": "fantasia de unicórnio em tons pastéis, remetendo a criaturas místicas e estéticas infantis ou de pijamas divertidos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8249.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.61,
+  "data_analise": "2026-07-30T08:41:09Z",
+  "data_criacao": "2026-07-30T05:41:09.365355-03:00"
+}

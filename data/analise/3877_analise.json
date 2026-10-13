@@ -1,0 +1,32 @@
+{
+  "id": 3877,
+  "nome_original": "Harry Potter",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "amarelo",
+      "grená"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz",
+      "cachecol"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster",
+    "estilo_corte": "corte longo e fluido, estilo robe acadêmico",
+    "acessorios_visiveis": [
+      "óculos redondos",
+      "varinha",
+      "brasão bordado"
+    ],
+    "tematica_detalhada": "estudante da casa Gryffindor da série Harry Potter"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3877.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 103.56,
+  "data_analise": "2026-07-28T12:28:15Z",
+  "data_criacao": "2026-07-28T09:28:15.866292-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 5528,
+  "nome_original": "Chapeuzinho Vermelho",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz",
+      "vestido curto"
+    ],
+    "material_visual": "cetim ou poliéster na capa e renda ou tule com brilho na saia",
+    "estilo_corte": "estilo sensual com bustiê ajustado e saia volumosa",
+    "acessorios_visiveis": [
+      "laço de amarração"
+    ],
+    "tematica_detalhada": "versão estilizada e sensual da personagem clássica de contos de fadas Chapeuzinho Vermelho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5528.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.48,
+  "data_analise": "2026-07-27T19:52:55Z",
+  "data_criacao": "2026-07-27T16:52:55.355841-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 6422,
+  "nome_original": "Junina Plus Size",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho e babados de renda",
+    "estilo_corte": "estilo caipira com saia rodada e alças largas",
+    "acessorios_visiveis": [
+      "tiara de flores"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, representando a personagem caipira estilizada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6422.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.55,
+  "data_analise": "2026-07-29T07:01:01Z",
+  "data_criacao": "2026-07-29T04:01:01.218431-03:00"
+}

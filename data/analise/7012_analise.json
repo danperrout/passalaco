@@ -1,0 +1,25 @@
+{
+  "id": 7012,
+  "nome_original": "Alice",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "avental"
+    ],
+    "material_visual": "tecido acetinado ou sintético",
+    "estilo_corte": "vestido rodado com gola arredondada e mangas bufantes",
+    "acessorios_visiveis": [
+      "laço no cabelo"
+    ],
+    "tematica_detalhada": "Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7012.jpg",
+  "data_analise": "2026-07-27T13:47:34Z"
+}

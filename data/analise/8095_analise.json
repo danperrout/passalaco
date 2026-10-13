@@ -1,0 +1,31 @@
+{
+  "id": 8095,
+  "nome_original": "Juíza de Futebol",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "boné"
+    ],
+    "material_visual": "tecido sintético com elastano",
+    "estilo_corte": "curto com saia franzida e decote em V",
+    "acessorios_visiveis": [
+      "apito",
+      "cordão vermelho",
+      "cartões amarelo e vermelho"
+    ],
+    "tematica_detalhada": "Árbitra de futebol, inspirada no uniforme clássico de juiz de campo com listras verticais e acessórios de sinalização de faltas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8095.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 53.2,
+  "data_analise": "2026-07-28T21:39:08Z",
+  "data_criacao": "2026-07-28T18:39:08.694758-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 9391,
+  "nome_original": "Mascote Coelho",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "máscara de cabeça completa",
+      "macacão",
+      "luvas",
+      "botas"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "estilo mascote oversized com macacão ajustado",
+    "acessorios_visiveis": [
+      "gravata borboleta amarela"
+    ],
+    "tematica_detalhada": "mascote de coelho antropomórfico, com estética de personagem de desenho animado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9391.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 35.55,
+  "data_analise": "2026-07-29T19:26:50Z",
+  "data_criacao": "2026-07-29T16:26:50.605508-03:00"
+}

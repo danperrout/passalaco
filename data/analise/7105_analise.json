@@ -1,0 +1,31 @@
+{
+  "id": 7105,
+  "nome_original": "Harry Potter Lufa Lufa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz",
+      "saia plissada",
+      "gravata"
+    ],
+    "material_visual": "tecido sintético acetinado",
+    "estilo_corte": "estilo uniforme escolar com capa longa e saia curta plissada",
+    "acessorios_visiveis": [
+      "gravata listrada",
+      "emblema no peito"
+    ],
+    "tematica_detalhada": "Fantasia baseada no universo de Harry Potter, representando a casa Lufa-Lufa (Hufflepuff) da Escola de Magia e Bruxaria de Hogwarts"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7105.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 149.91,
+  "data_analise": "2026-07-28T13:04:01Z",
+  "data_criacao": "2026-07-28T10:04:01.323463-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 3980,
+  "nome_original": "Principe",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde escuro",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calças bufantes",
+      "chapéu"
+    ],
+    "material_visual": "veludo e tecido laminado metálico",
+    "estilo_corte": "estilo renascentista com mangas bufantes e calças bombachas",
+    "acessorios_visiveis": [
+      "chapéu tipo boina"
+    ],
+    "tematica_detalhada": "Príncipe medieval ou renascentista, evocando nobreza europeia clássica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3980.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.0,
+  "data_analise": "2026-07-30T04:13:40Z",
+  "data_criacao": "2026-07-30T01:13:40.532772-03:00"
+}

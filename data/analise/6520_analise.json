@@ -1,0 +1,35 @@
+{
+  "id": 6520,
+  "nome_original": "Gaucho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "camisa",
+      "lenço",
+      "calça",
+      "cinto"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "corte folgado com calças bombachas",
+    "acessorios_visiveis": [
+      "chapéu de aba larga",
+      "lenço no pescoço",
+      "cinto preto"
+    ],
+    "tematica_detalhada": "traje típico do gaúcho, representando a cultura rural do sul do Brasil e regiões pampas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6520.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 56.14,
+  "data_analise": "2026-07-28T10:49:11Z",
+  "data_criacao": "2026-07-28T07:49:11.932317-03:00"
+}

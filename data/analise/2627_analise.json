@@ -1,0 +1,25 @@
+{
+  "id": 2627,
+  "nome_original": "Africano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica"
+    ],
+    "material_visual": "tecido sintético com estampa colorida",
+    "estilo_corte": "túnica solta com decote arredondado",
+    "acessorios_visiveis": [
+      "estampa de colar ornamental"
+    ],
+    "tematica_detalhada": "estilo tribal africano estilizado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2627.jpg",
+  "data_analise": "2026-07-27T13:38:18Z"
+}

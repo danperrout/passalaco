@@ -1,0 +1,28 @@
+{
+  "id": 9550,
+  "nome_original": "Lider de Torcida Zumbi",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido de líder de torcida"
+    ],
+    "material_visual": "tecido sintético com detalhes em rede/tule nas mangas",
+    "estilo_corte": "vestido curto com gola V, saia plissada e barra desfiada/irregular",
+    "acessorios_visiveis": [
+      "pompons vermelhos"
+    ],
+    "tematica_detalhada": "Líder de torcida zumbi, misturando a estética esportiva escolar americana com elementos de horror/apoptose"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9550.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 472.48,
+  "data_analise": "2026-07-29T11:37:03Z",
+  "data_criacao": "2026-07-29T08:37:03.154883-03:00"
+}

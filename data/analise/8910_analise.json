@@ -1,0 +1,30 @@
+{
+  "id": 8910,
+  "nome_original": "Round 6",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster",
+    "estilo_corte": "estilo jardineira/macacão utilitário com ajuste na cintura",
+    "acessorios_visiveis": [
+      "cinto preto",
+      "máscara com símbolo de triângulo"
+    ],
+    "tematica_detalhada": "Fantasia de guarda da série sul-coreana 'Round 6' (Squid Game), representando a hierarquia de soldados através do símbolo geométrico na máscara."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8910.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 101.83,
+  "data_analise": "2026-07-30T05:02:28Z",
+  "data_criacao": "2026-07-30T02:02:28.670745-03:00"
+}

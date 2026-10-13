@@ -1,0 +1,27 @@
+{
+  "id": 8955,
+  "nome_original": "Mascote Panda",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão de corpo inteiro",
+      "máscara de cabeça de panda"
+    ],
+    "material_visual": "pelúcia sintética macia",
+    "estilo_corte": "oversized/volumoso",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Animal panda gigante, estilo mascote de eventos ou personagem de entretenimento infantil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8955.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 216.83,
+  "data_analise": "2026-07-29T20:16:46Z",
+  "data_criacao": "2026-07-29T17:16:46.707042-03:00"
+}

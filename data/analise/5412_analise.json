@@ -1,0 +1,30 @@
+{
+  "id": 5412,
+  "nome_original": "Lanterna Verde",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético elástico",
+    "estilo_corte": "justo ao corpo (skinny)",
+    "acessorios_visiveis": [
+      "máscara ocular",
+      "anel"
+    ],
+    "tematica_detalhada": "Fantasia baseada no personagem Lanterna Verde da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5412.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 159.79,
+  "data_analise": "2026-07-29T09:50:01Z",
+  "data_criacao": "2026-07-29T06:50:01.617095-03:00"
+}

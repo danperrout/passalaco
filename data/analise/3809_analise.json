@@ -1,0 +1,30 @@
+{
+  "id": 3809,
+  "nome_original": "Buzz",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "verde",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "máscara facial",
+      "macacão integral"
+    ],
+    "material_visual": "tecido sintético e plástico moldado",
+    "estilo_corte": "estilo mascote oversized",
+    "acessorios_visiveis": [
+      "luvas integradas"
+    ],
+    "tematica_detalhada": "personagem Buzz Lightyear da franquia Toy Story, representando um astronauta espacial"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3809.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.8,
+  "data_analise": "2026-07-27T18:42:27Z",
+  "data_criacao": "2026-07-27T15:42:27.128477-03:00"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 6090,
+  "nome_original": "Barney",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo escuro",
+      "vinho"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte reto com decote em V",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Representação simplificada do personagem Barney, o Dinossauro, focada na cor característica do personagem."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6090.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.53,
+  "data_analise": "2026-07-27T17:47:41Z",
+  "data_criacao": "2026-07-27T14:47:41.038109-03:00"
+}

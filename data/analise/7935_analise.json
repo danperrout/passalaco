@@ -1,0 +1,31 @@
+{
+  "id": 7935,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo neon",
+      "verde",
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "headpiece"
+    ],
+    "material_visual": "tecido sintético fluorescente e plumas",
+    "estilo_corte": "vestido justo ao corpo com detalhes ornamentais",
+    "acessorios_visiveis": [
+      "estilo de cocar com penas coloridas"
+    ],
+    "tematica_detalhada": "Carnaval brasileiro, com referências a passistas de escola de samba e estética vibrante de festa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7935.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.84,
+  "data_analise": "2026-07-27T19:23:55Z",
+  "data_criacao": "2026-07-27T16:23:55.449985-03:00"
+}

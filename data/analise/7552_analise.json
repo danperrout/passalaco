@@ -1,0 +1,35 @@
+{
+  "id": 7552,
+  "nome_original": "Jeca",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vinho",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "camisa",
+      "calça",
+      "chapéu",
+      "gravata"
+    ],
+    "material_visual": "tecido sintético e palha",
+    "estilo_corte": "estilo caipira desajustado e colorido",
+    "acessorios_visiveis": [
+      "chapéu de palha",
+      "gravata larga",
+      "lenço de bolso amarelo"
+    ],
+    "tematica_detalhada": "Fantasia de Jeca Tatu ou caipira estilizado, representando a figura do homem do campo brasileiro de forma caricata"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7552.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 56.68,
+  "data_analise": "2026-07-28T20:50:56Z",
+  "data_criacao": "2026-07-28T17:50:56.123030-03:00"
+}

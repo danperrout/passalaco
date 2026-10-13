@@ -1,0 +1,34 @@
+{
+  "id": 4482,
+  "nome_original": "Patati",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "blusa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético, possivelmente cetim ou poliéster",
+    "estilo_corte": "estilo marinheiro com barras largas e decorativas",
+    "acessorios_visiveis": [
+      "laço vermelho",
+      "flor colorida no chapéu",
+      "franjas coloridas"
+    ],
+    "tematica_detalhada": "fantasia do personagem Patati, integrante da dupla de palhaços Patati Patatá"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4482.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.62,
+  "data_analise": "2026-07-30T02:35:59Z",
+  "data_criacao": "2026-07-29T23:35:59.764440-03:00"
+}

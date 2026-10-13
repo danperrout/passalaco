@@ -1,0 +1,31 @@
+{
+  "id": 3267,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com rendas e detalhes em cetim",
+    "estilo_corte": "corte evasê com cintura marcada e babados",
+    "acessorios_visiveis": [
+      "mini chapéu com fitas",
+      "apliques de corações"
+    ],
+    "tematica_detalhada": "fantasia de festa junina estilizada, misturando elementos tradicionais como o chapéu e as rendas com uma estética moderna e romântica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3267.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 421.05,
+  "data_analise": "2026-07-28T22:53:02Z",
+  "data_criacao": "2026-07-28T19:53:02.037714-03:00"
+}

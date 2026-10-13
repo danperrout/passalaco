@@ -1,0 +1,31 @@
+{
+  "id": 5097,
+  "nome_original": "Skelita Calaveras",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "multicolorido"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia",
+      "peruca"
+    ],
+    "material_visual": "couro sintético e tule",
+    "estilo_corte": "top ajustado e saia curta volumosa",
+    "acessorios_visiveis": [
+      "pulseira",
+      "detalhe floral no busto"
+    ],
+    "tematica_detalhada": "Personagem Skelita Calaveras, inspirada no Dia dos Mortos mexicano com estética gótica colorida"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5097.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.62,
+  "data_analise": "2026-07-30T06:52:13Z",
+  "data_criacao": "2026-07-30T03:52:13.906857-03:00"
+}

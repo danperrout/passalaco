@@ -1,0 +1,34 @@
+{
+  "id": 9624,
+  "nome_original": "Espanhol",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Preto",
+      "Branco"
+    ],
+    "pecas_inclusas": [
+      "Casaco curto",
+      "Camisa",
+      "Calça",
+      "Faixa de cintura",
+      "Gravata borboleta"
+    ],
+    "material_visual": "Tecido sintético com acabamento acetinado e detalhes em galão dourado",
+    "estilo_corte": "Casaco estilo torero curto com corte reto e calça de corte slim",
+    "acessorios_visiveis": [
+      "Tassels (pingentes) amarelos",
+      "Adornos dourados bordados"
+    ],
+    "tematica_detalhada": "Fantasia de Toureiro Espanhol, referenciando a vestimenta tradicional de gala do Matador"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9624.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.61,
+  "data_analise": "2026-07-28T03:53:35Z",
+  "data_criacao": "2026-07-28T00:53:35.382293-03:00"
+}

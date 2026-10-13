@@ -1,0 +1,31 @@
+{
+  "id": 4437,
+  "nome_original": "Super Homem",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capa"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante/estelar",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "cinto estilizado",
+      "emblema no peito"
+    ],
+    "tematica_detalhada": "Super-Homem, herói da DC Comics, com design moderno inspirado em versões cinematográficas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4437.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.05,
+  "data_analise": "2026-07-30T07:27:48Z",
+  "data_criacao": "2026-07-30T04:27:48.472931-03:00"
+}

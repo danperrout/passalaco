@@ -1,0 +1,33 @@
+{
+  "id": 4637,
+  "nome_original": "Pirata",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "bandana",
+      "blusa",
+      "corpete",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com aspecto acetinado e opaco",
+    "estilo_corte": "corpete ajustado com decote ombro a ombro e saia curta volumosa",
+    "acessorios_visiveis": [
+      "bandana vermelha",
+      "tapa-olho"
+    ],
+    "tematica_detalhada": "Pirata clássica, com referências a trajes náuticos estilizados para festas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4637.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.21,
+  "data_analise": "2026-07-30T03:37:44Z",
+  "data_criacao": "2026-07-30T00:37:44.053555-03:00"
+}

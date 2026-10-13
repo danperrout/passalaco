@@ -1,0 +1,29 @@
+{
+  "id": 7462,
+  "nome_original": "Lider de Torcida",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com aspecto de poliéster",
+    "estilo_corte": "conjunto de duas peças com decote em V e saia curta plissada",
+    "acessorios_visiveis": [
+      "peruca preta"
+    ],
+    "tematica_detalhada": "Líder de torcida americana clássica, com numeração esportiva no peito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7462.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 401.5,
+  "data_analise": "2026-07-29T10:53:27Z",
+  "data_criacao": "2026-07-29T07:53:27.722984-03:00"
+}

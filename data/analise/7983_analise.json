@@ -1,0 +1,28 @@
+{
+  "id": 7983,
+  "nome_original": "Bela Adormecida",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "magenta"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido com glitter e brilhos",
+    "estilo_corte": "vestido de baile com saia volumosa e decote em V",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "Fantasia de princesa inspirada na Bela Adormecida (Aurora), focada em um visual mágico e luxuoso."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7983.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.51,
+  "data_analise": "2026-07-27T17:56:06Z",
+  "data_criacao": "2026-07-27T14:56:06.491854-03:00"
+}

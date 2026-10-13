@@ -1,0 +1,29 @@
+{
+  "id": 7301,
+  "nome_original": "Wolverine",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com aspecto de elastano ou poliéster",
+    "estilo_corte": "ajustado ao corpo (slim fit) com painéis laterais contrastantes",
+    "acessorios_visiveis": [
+      "máscara com pontas características"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Wolverine, inspirada no traje clássico dos X-Men da Marvel Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7301.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.21,
+  "data_analise": "2026-07-30T08:55:12Z",
+  "data_criacao": "2026-07-30T05:55:12.733734-03:00"
+}

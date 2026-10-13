@@ -1,0 +1,28 @@
+{
+  "id": 7519,
+  "nome_original": "Camisa Jeans",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul escuro",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "camisa"
+    ],
+    "material_visual": "denim",
+    "estilo_corte": "camisa casual de manga longa",
+    "acessorios_visiveis": [
+      "aplicações coloridas"
+    ],
+    "tematica_detalhada": "estilo casual denim com customizações artísticas coloridas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7519.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.75,
+  "data_analise": "2026-07-27T18:49:46Z",
+  "data_criacao": "2026-07-27T15:49:46.648145-03:00"
+}

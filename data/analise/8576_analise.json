@@ -1,0 +1,31 @@
+{
+  "id": 8576,
+  "nome_original": "Joaninha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "cetim brilhante e tecido com glitter",
+    "estilo_corte": "vestido rodado com saia em camadas e mangas bufantes",
+    "acessorios_visiveis": [
+      "tiara",
+      "laço decorativo no peito",
+      "flores coloridas na cintura"
+    ],
+    "tematica_detalhada": "fantasia de joaninha, caracterizada pelas cores vermelho e preto com estampa de bolinhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8576.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 377.91,
+  "data_analise": "2026-07-28T21:27:44Z",
+  "data_criacao": "2026-07-28T18:27:44.250669-03:00"
+}

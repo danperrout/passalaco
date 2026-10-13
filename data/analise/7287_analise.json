@@ -1,0 +1,30 @@
+{
+  "id": 7287,
+  "nome_original": "Cocar",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "cocar",
+      "vestido"
+    ],
+    "material_visual": "penas sintéticas, tecido de camurça ou veludo",
+    "estilo_corte": "corte reto e simples no vestido, estrutura semicircular no cocar",
+    "acessorios_visiveis": [
+      "cocar de penas",
+      "detalhes de contas/miçangas"
+    ],
+    "tematica_detalhada": "fantasia inspirada em culturas indígenas, especificamente referenciando cocares de penas tradicionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7287.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 79.49,
+  "data_analise": "2026-07-27T23:33:29Z",
+  "data_criacao": "2026-07-27T20:33:29.951183-03:00"
+}

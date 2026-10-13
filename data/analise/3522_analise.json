@@ -1,0 +1,33 @@
+{
+  "id": 3522,
+  "nome_original": "Country",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "preto",
+      "branco",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "camisa xadrez",
+      "colete",
+      "calça com perneiras"
+    ],
+    "material_visual": "tecido sintético e brim",
+    "estilo_corte": "estilo cowboy clássico com ajuste solto",
+    "acessorios_visiveis": [
+      "chapéu de cowboy"
+    ],
+    "tematica_detalhada": "Fantasia de Country/Cowboy, referenciando a cultura rural dos Estados Unidos e o estilo sertanejo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3522.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 38.39,
+  "data_analise": "2026-07-28T02:06:54Z",
+  "data_criacao": "2026-07-27T23:06:54.725944-03:00"
+}

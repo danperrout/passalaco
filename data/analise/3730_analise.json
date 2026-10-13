@@ -1,0 +1,27 @@
+{
+  "id": 3730,
+  "nome_original": "Vilma",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com aspecto acetinado ou brilhante",
+    "estilo_corte": "estilo túnica curta, assimétrica, com corte irregular na barra",
+    "acessorios_visiveis": [
+      "colar de contas brancas"
+    ],
+    "tematica_detalhada": "fantasia inspirada na personagem Vilma Flintstone, referenciando a estética da Idade da Pedra"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3730.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.96,
+  "data_analise": "2026-07-30T08:51:17Z",
+  "data_criacao": "2026-07-30T05:51:17.655218-03:00"
+}

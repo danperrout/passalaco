@@ -1,0 +1,30 @@
+{
+  "id": 10048,
+  "nome_original": "Boneca Vodoo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido com aparência de juta ou estopa, remetendo a tecido rústico",
+    "estilo_corte": "vestido curto com mangas bufantes e cintura marcada",
+    "acessorios_visiveis": [
+      "estiletes ou alfinetes decorativos",
+      "detalhes que imitam costuras grosseiras"
+    ],
+    "tematica_detalhada": "Boneca Voodoo, baseada no folclore e misticismo, simulando um boneco de pano costurado com alfinetes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10048.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.77,
+  "data_analise": "2026-07-27T18:18:29Z",
+  "data_criacao": "2026-07-27T15:18:29.900713-03:00"
+}

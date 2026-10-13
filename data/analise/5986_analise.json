@@ -1,0 +1,30 @@
+{
+  "id": 5986,
+  "nome_original": "Minions",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camiseta de manga longa",
+      "macacão"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "ajuste regular com macacão de alças",
+    "acessorios_visiveis": [
+      "óculos de proteção",
+      "touca"
+    ],
+    "tematica_detalhada": "Personagem Minion da franquia Meu Malvado Favorito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5986.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 29.33,
+  "data_analise": "2026-07-29T22:28:28Z",
+  "data_criacao": "2026-07-29T19:28:28.389624-03:00"
+}

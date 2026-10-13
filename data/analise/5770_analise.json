@@ -1,0 +1,28 @@
+{
+  "id": 5770,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido xadrez com babados em renda",
+    "estilo_corte": "estilo caipira com mangas bufantes, cintura marcada e saia volumosa com camadas de babados",
+    "acessorios_visiveis": [
+      "tiara com laço e flor"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, representando a figura da noiva ou caipira estilizada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5770.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 35.68,
+  "data_analise": "2026-07-29T00:09:08Z",
+  "data_criacao": "2026-07-28T21:09:08.846547-03:00"
+}

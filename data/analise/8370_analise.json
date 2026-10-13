@@ -1,0 +1,29 @@
+{
+  "id": 8370,
+  "nome_original": "Bruxa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda",
+    "estilo_corte": "vestido justo com saia fluida e chapéu cônico",
+    "acessorios_visiveis": [
+      "laço vermelho no chapéu"
+    ],
+    "tematica_detalhada": "Bruxa clássica com paleta de cores gótica/estilizada, remetendo a personagens de contos de fadas ou Halloween"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8370.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.9,
+  "data_analise": "2026-07-27T18:24:09Z",
+  "data_criacao": "2026-07-27T15:24:09.241244-03:00"
+}

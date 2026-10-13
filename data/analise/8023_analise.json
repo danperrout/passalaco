@@ -1,0 +1,34 @@
+{
+  "id": 8023,
+  "nome_original": "Policial",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu",
+      "gravata",
+      "braceletes"
+    ],
+    "material_visual": "material sintético com aspecto de couro ou vinil e tule na saia",
+    "estilo_corte": "ajustado ao corpo com saia curta e rodada em camadas",
+    "acessorios_visiveis": [
+      "chapéu militar",
+      "gravata",
+      "braceletes de pulso",
+      "botões dourados"
+    ],
+    "tematica_detalhada": "Fantasia de policial ou militar estilizada, com referências a uniformes de autoridade em versão sensual/festiva"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8023.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.58,
+  "data_analise": "2026-07-30T03:45:45Z",
+  "data_criacao": "2026-07-30T00:45:45.638917-03:00"
+}

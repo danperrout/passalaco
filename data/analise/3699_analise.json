@@ -1,0 +1,32 @@
+{
+  "id": 3699,
+  "nome_original": "Duende",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "casaco",
+      "corpete",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com aparência de cetim ou poliéster",
+    "estilo_corte": "estilo fantasioso com saia curta e casaco aberto",
+    "acessorios_visiveis": [
+      "chapéu cartola",
+      "cinto"
+    ],
+    "tematica_detalhada": "fantasia de duende ou leprechaun, com referências ao folclore irlandês, evidenciada pelo uso do verde e do trevo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3699.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.31,
+  "data_analise": "2026-07-28T03:25:46Z",
+  "data_criacao": "2026-07-28T00:25:46.032435-03:00"
+}

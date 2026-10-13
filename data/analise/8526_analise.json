@@ -1,0 +1,29 @@
+{
+  "id": 8526,
+  "nome_original": "Cruela",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "estola de pele sintética"
+    ],
+    "material_visual": "tecido com brilhos/sequins e pele sintética felpuda",
+    "estilo_corte": "vestido curto de corte reto e estola volumosa",
+    "acessorios_visiveis": [
+      "estola"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Cruella de Vil, remetendo ao luxo excêntrico e ao contraste cromático característico da personagem"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8526.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.56,
+  "data_analise": "2026-07-28T02:19:47Z",
+  "data_criacao": "2026-07-27T23:19:47.152907-03:00"
+}

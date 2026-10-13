@@ -1,0 +1,34 @@
+{
+  "id": 10179,
+  "nome_original": "Harry Potter Hermione",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "cinza",
+      "vinho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz",
+      "camisa branca",
+      "saia plissada",
+      "gravata"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster",
+    "estilo_corte": "uniforme escolar estilizado com capa curta",
+    "acessorios_visiveis": [
+      "gravata listrada",
+      "brasão bordado na capa"
+    ],
+    "tematica_detalhada": "Uniforme da casa Grifinória da escola de magia Hogwarts, referenciando a personagem Hermione Granger da franquia Harry Potter"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10179.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 171.7,
+  "data_analise": "2026-07-28T13:01:30Z",
+  "data_criacao": "2026-07-28T10:01:30.256761-03:00"
+}

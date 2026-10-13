@@ -1,0 +1,31 @@
+{
+  "id": 2699,
+  "nome_original": "Coruja",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "capuz",
+      "túnica/capa",
+      "calça",
+      "botas"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou plush",
+    "estilo_corte": "estilo oversized com túnica folgada e capuz integrado",
+    "acessorios_visiveis": [
+      "máscara de coruja integrada ao capuz"
+    ],
+    "tematica_detalhada": "fantasia infantil de coruja branca, com detalhes em preto simulando penas e olhos amarelos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2699.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.9,
+  "data_analise": "2026-07-28T01:47:59Z",
+  "data_criacao": "2026-07-27T22:47:59.090214-03:00"
+}

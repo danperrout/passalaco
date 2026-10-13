@@ -1,0 +1,33 @@
+{
+  "id": 6699,
+  "nome_original": "Principe",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "dourado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "capa",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante",
+    "estilo_corte": "estilo imperial com túnica ajustada e capa longa",
+    "acessorios_visiveis": [
+      "chapéu com pluma"
+    ],
+    "tematica_detalhada": "Príncipe clássico de contos de fadas com inspiração em trajes reais europeus medievais/renascentistas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6699.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.0,
+  "data_analise": "2026-07-30T04:11:17Z",
+  "data_criacao": "2026-07-30T01:11:17.053173-03:00"
+}

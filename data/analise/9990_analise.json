@@ -1,0 +1,32 @@
+{
+  "id": 9990,
+  "nome_original": "It a Coisa",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "blusa com babados",
+      "calça",
+      "saiote"
+    ],
+    "material_visual": "tecido sintético acetinado com detalhes em renda",
+    "estilo_corte": "estilo palhaço vitoriano com mangas bufantes e babados",
+    "acessorios_visiveis": [
+      "máscara de palhaço",
+      "pompons vermelhos"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Pennywise, do filme e livro 'It: A Coisa', representando um palhaço aterrorizante"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9990.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 79.5,
+  "data_analise": "2026-07-28T17:42:18Z",
+  "data_criacao": "2026-07-28T14:42:18.050334-03:00"
+}

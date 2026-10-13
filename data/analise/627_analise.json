@@ -1,0 +1,28 @@
+{
+  "id": 627,
+  "nome_original": "Fiona",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde escuro",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido sintético com aparência de veludo ou poliéster fosco",
+    "estilo_corte": "corte reto com mangas 3/4 e decote quadrado",
+    "acessorios_visiveis": [
+      "tiara com chifres"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Princesa Fiona do filme Shrek, representando sua versão humana em traje real"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/627.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 74.14,
+  "data_analise": "2026-07-28T06:01:31Z",
+  "data_criacao": "2026-07-28T03:01:31.824829-03:00"
+}

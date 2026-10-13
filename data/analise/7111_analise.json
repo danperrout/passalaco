@@ -1,0 +1,32 @@
+{
+  "id": 7111,
+  "nome_original": "Camponesa Finlandia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "corpete",
+      "lenço de cabeça"
+    ],
+    "material_visual": "tecidos leves, possivelmente poliéster ou algodão",
+    "estilo_corte": "estilo camponês com saia longa, corpete justo e mangas bufantes",
+    "acessorios_visiveis": [
+      "faixa/lenço vermelho na cabeça",
+      "detalhes de amarração no corpete"
+    ],
+    "tematica_detalhada": "fantasia de camponesa europeia, com referências a trajes folclóricos tradicionais da Finlândia ou regiões escandinavas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7111.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.66,
+  "data_analise": "2026-07-27T18:51:41Z",
+  "data_criacao": "2026-07-27T15:51:41.209562-03:00"
+}

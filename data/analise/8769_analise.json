@@ -1,0 +1,34 @@
+{
+  "id": 8769,
+  "nome_original": "Mae e Filho Magicos",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó vermelho",
+      "saia de paetês preta",
+      "camisa branca",
+      "calça preta",
+      "gravata borboleta"
+    ],
+    "material_visual": "cetim, paetês e feltro",
+    "estilo_corte": "estilo fraque moderno com corte ajustado",
+    "acessorios_visiveis": [
+      "cartola preta",
+      "gravata borboleta"
+    ],
+    "tematica_detalhada": "mágico de palco ou mestre de cerimônias de circo, com conjunto coordenado para mãe e filho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8769.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 424.27,
+  "data_analise": "2026-07-29T15:08:34Z",
+  "data_criacao": "2026-07-29T12:08:34.563956-03:00"
+}

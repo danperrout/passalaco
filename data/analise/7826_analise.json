@@ -1,0 +1,32 @@
+{
+  "id": 7826,
+  "nome_original": "Jasmine",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul turquesa",
+      "azul celeste"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "calça",
+      "saia sobreposta",
+      "tiara"
+    ],
+    "material_visual": "paetês brilhantes e tecido translúcido tipo tule ou chiffon",
+    "estilo_corte": "estilo belly dance com top tomara-que-caia e calças fluidas com fendas",
+    "acessorios_visiveis": [
+      "tiara de cabeça",
+      "cinto ornamentado"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na Princesa Jasmine do filme Aladdin, remetendo a trajes árabes estilizados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7826.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 169.93,
+  "data_analise": "2026-07-28T19:42:07Z",
+  "data_criacao": "2026-07-28T16:42:07.124346-03:00"
+}

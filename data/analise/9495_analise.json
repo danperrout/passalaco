@@ -1,0 +1,32 @@
+{
+  "id": 9495,
+  "nome_original": "Country",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "lilás",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "jaqueta curta",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda e brilho",
+    "estilo_corte": "estilo rodado com jaqueta cropped",
+    "acessorios_visiveis": [
+      "chapéu com plumas",
+      "detalhes prateados na barra"
+    ],
+    "tematica_detalhada": "fantasia country estilizada em tons de rosa, remetendo a um visual 'cowgirl glam' ou infantil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9495.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 44.31,
+  "data_analise": "2026-07-28T02:15:04Z",
+  "data_criacao": "2026-07-27T23:15:04.569884-03:00"
+}

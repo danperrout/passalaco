@@ -1,0 +1,30 @@
+{
+  "id": 7494,
+  "nome_original": "Blusa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "laranja",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "acessório de cabeça"
+    ],
+    "material_visual": "tecido sintético estampado e fitas",
+    "estilo_corte": "estilo drapeado ou volumoso com decote reto",
+    "acessorios_visiveis": [
+      "tiara com fitas pendentes"
+    ],
+    "tematica_detalhada": "fantasia colorida e abstrata com estética festiva ou carnavalesca"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7494.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.53,
+  "data_analise": "2026-07-27T18:13:44Z",
+  "data_criacao": "2026-07-27T15:13:44.635750-03:00"
+}

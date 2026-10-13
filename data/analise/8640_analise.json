@@ -1,0 +1,32 @@
+{
+  "id": 8640,
+  "nome_original": "Minnie",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "cetim com acabamento brilhante",
+    "estilo_corte": "vestido curto com cintura marcada e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara com orelhas e laço",
+      "laço na cintura",
+      "detalhe de coração no decote"
+    ],
+    "tematica_detalhada": "fantasia inspirada na personagem Minnie Mouse da Disney, caracterizada pelas cores vermelhas com bolinhas brancas (polka dots)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8640.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.09,
+  "data_analise": "2026-07-29T22:38:26Z",
+  "data_criacao": "2026-07-29T19:38:26.517978-03:00"
+}

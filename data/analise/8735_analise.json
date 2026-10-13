@@ -1,0 +1,34 @@
+{
+  "id": 8735,
+  "nome_original": "Woody Toy Story (2 Meses)",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Mesversario",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul",
+      "marrom",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "chapéu",
+      "lenço"
+    ],
+    "material_visual": "tecido sintético, jeans e feltro",
+    "estilo_corte": "estilo cowboy infantil, corte reto e confortável para bebês",
+    "acessorios_visiveis": [
+      "chapéu de cowboy",
+      "bandana vermelha"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Woody, do filme Toy Story, representando um cowboy clássico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8735.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.27,
+  "data_analise": "2026-07-30T08:59:59Z",
+  "data_criacao": "2026-07-30T05:59:59.419919-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 2322,
+  "nome_original": "Tyrone",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "capuz",
+      "camiseta",
+      "short"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou elastano",
+    "estilo_corte": "corte casual e folgado, camiseta com listras horizontais",
+    "acessorios_visiveis": [
+      "chifres decorativos no capuz"
+    ],
+    "tematica_detalhada": "fantasia de animal antropomórfico, possivelmente um cervo ou alce estilizado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2322.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.65,
+  "data_analise": "2026-07-30T08:38:26Z",
+  "data_criacao": "2026-07-30T05:38:26.541924-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 2985,
+  "nome_original": "Minnie",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com acabamento em renda",
+    "estilo_corte": "vestido curto com corpo ajustado e saia rodada",
+    "acessorios_visiveis": [
+      "tiara com orelhas e laço",
+      "laço decorativo no busto"
+    ],
+    "tematica_detalhada": "fantasia inspirada na personagem Minnie Mouse da Disney, caracterizada por bolinhas brancas (polka dots) e cores contrastantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2985.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 38.4,
+  "data_analise": "2026-07-29T22:34:53Z",
+  "data_criacao": "2026-07-29T19:34:53.395939-03:00"
+}

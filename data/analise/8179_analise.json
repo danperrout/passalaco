@@ -1,0 +1,32 @@
+{
+  "id": 8179,
+  "nome_original": "Os Tres Porquinhos",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "jardineira",
+      "camiseta listrada",
+      "chapéu de palha"
+    ],
+    "material_visual": "tecido sintético e palha natural",
+    "estilo_corte": "casual e infantil",
+    "acessorios_visiveis": [
+      "chapéu com orelhas",
+      "detalhe de palha"
+    ],
+    "tematica_detalhada": "Personagem dos Três Porquinhos, especificamente o porquinho que constrói a casa de palha"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8179.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 45.43,
+  "data_analise": "2026-07-30T01:07:50Z",
+  "data_criacao": "2026-07-29T22:07:50.427878-03:00"
+}

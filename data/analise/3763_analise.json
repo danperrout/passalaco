@@ -1,0 +1,32 @@
+{
+  "id": 3763,
+  "nome_original": "Professor Girafales",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "camisa branca",
+      "gravata"
+    ],
+    "material_visual": "tecido sintético com aspecto de sarja ou linho",
+    "estilo_corte": "terno clássico de corte reto e tradicional",
+    "acessorios_visiveis": [
+      "chapéu coco preto",
+      "bigode postiço"
+    ],
+    "tematica_detalhada": "Personagem Professor Girafales da série Chaves, representando um professor formal e elegante"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3763.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.37,
+  "data_analise": "2026-07-30T04:17:43Z",
+  "data_criacao": "2026-07-30T01:17:43.616336-03:00"
+}

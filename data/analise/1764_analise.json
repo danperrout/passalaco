@@ -1,0 +1,31 @@
+{
+  "id": 1764,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda e fitas",
+    "estilo_corte": "estilo caipira com corpete transpassado por cordões e saia rodada com babados",
+    "acessorios_visiveis": [
+      "chapéu adornado",
+      "laço na cintura"
+    ],
+    "tematica_detalhada": "Fantasia de festa junina brasileira, representando a figura da caipira estilizada com elementos tradicionais do campo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1764.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.42,
+  "data_analise": "2026-07-28T21:59:42Z",
+  "data_criacao": "2026-07-28T18:59:42.530241-03:00"
+}

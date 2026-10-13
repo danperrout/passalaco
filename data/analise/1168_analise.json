@@ -1,0 +1,33 @@
+{
+  "id": 1168,
+  "nome_original": "Piu Piu",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara",
+      "luvas",
+      "botas"
+    ],
+    "material_visual": "tecido sintético brilhante",
+    "estilo_corte": "ajustado ao corpo com máscara oversized",
+    "acessorios_visiveis": [
+      "máscara de personagem",
+      "luvas amarelas",
+      "botas laranjas"
+    ],
+    "tematica_detalhada": "Personagem Piu-Piu (Tweety) da série Looney Tunes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1168.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.07,
+  "data_analise": "2026-07-30T03:43:06Z",
+  "data_criacao": "2026-07-30T00:43:06.325605-03:00"
+}

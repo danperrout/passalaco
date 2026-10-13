@@ -1,0 +1,28 @@
+{
+  "id": 5619,
+  "nome_original": "Mascara",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "máscara"
+    ],
+    "material_visual": "tecido aveludado",
+    "estilo_corte": "estilo bico de pássaro",
+    "acessorios_visiveis": [
+      "peruca preta",
+      "colar/gargantilha"
+    ],
+    "tematica_detalhada": "Máscara de Médico da Peste Negra (Plague Doctor), referenciando a medicina da Europa do século XVII"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5619.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 56.0,
+  "data_analise": "2026-07-29T18:36:12Z",
+  "data_criacao": "2026-07-29T15:36:12.189920-03:00"
+}

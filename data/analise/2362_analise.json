@@ -1,0 +1,31 @@
+{
+  "id": 2362,
+  "nome_original": "Mascara",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Máscaras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "chapéu"
+    ],
+    "material_visual": "plástico moldado, tecido, penas e glitter",
+    "estilo_corte": "estilo veneziano com chapéu de abas largas",
+    "acessorios_visiveis": [
+      "penas",
+      "máscara facial"
+    ],
+    "tematica_detalhada": "Carnaval de Veneza, inspirada no estilo Barroco e nas máscaras tradicionais italianas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2362.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 102.53,
+  "data_analise": "2026-07-29T18:49:43Z",
+  "data_criacao": "2026-07-29T15:49:43.524265-03:00"
+}

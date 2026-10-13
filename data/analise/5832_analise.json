@@ -1,0 +1,32 @@
+{
+  "id": 5832,
+  "nome_original": "Noiva",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa",
+      "amarelo",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "renda, tule e tecido sintético com aplicações florais",
+    "estilo_corte": "curto, com saia volumosa em camadas e corpete ajustado",
+    "acessorios_visiveis": [
+      "véu",
+      "tiara de flores",
+      "buquê de flores"
+    ],
+    "tematica_detalhada": "Noiva estilizada com estética festiva, colorida e lúdica, remetendo a um visual romântico e fantasioso"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5832.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.68,
+  "data_analise": "2026-07-30T00:13:17Z",
+  "data_criacao": "2026-07-29T21:13:17.360042-03:00"
+}

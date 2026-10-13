@@ -1,0 +1,29 @@
+{
+  "id": 9473,
+  "nome_original": "Noiva",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com renda e detalhes em cetim",
+    "estilo_corte": "curto com saia em camadas (babados), decote ombro a ombro e mangas bufantes",
+    "acessorios_visiveis": [
+      "tiara",
+      "buquê de flores"
+    ],
+    "tematica_detalhada": "Noiva estilizada, com referências a fantasias de festa ou cosplay, misturando elementos tradicionais de casamento com um corte moderno e juvenil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9473.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 34.71,
+  "data_analise": "2026-07-30T00:23:34Z",
+  "data_criacao": "2026-07-29T21:23:34.149585-03:00"
+}

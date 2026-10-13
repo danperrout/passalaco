@@ -1,0 +1,33 @@
+{
+  "id": 8255,
+  "nome_original": "Mascote Minnie Rosa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "máscara de cabeça",
+      "vestido",
+      "luvas",
+      "sapatos"
+    ],
+    "material_visual": "cetim brilhante e pelúcia",
+    "estilo_corte": "vestido evasê com estampa de bolinhas e cintura marcada",
+    "acessorios_visiveis": [
+      "laço rosa na cabeça",
+      "luvas brancas"
+    ],
+    "tematica_detalhada": "Personagem Minnie Mouse da Disney, versão mascote em cores rosa e branco"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8255.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 83.11,
+  "data_analise": "2026-07-29T20:04:32Z",
+  "data_criacao": "2026-07-29T17:04:32.743008-03:00"
+}

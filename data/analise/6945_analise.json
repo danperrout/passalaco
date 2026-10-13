@@ -1,0 +1,31 @@
+{
+  "id": 6945,
+  "nome_original": "Modelo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "top ombro a ombro",
+      "saia curta"
+    ],
+    "material_visual": "tecido xadrez e cetim com detalhes em renda",
+    "estilo_corte": "estilo colegial/estilizado com saia rodada",
+    "acessorios_visiveis": [
+      "flor no cabelo",
+      "cinto vermelho"
+    ],
+    "tematica_detalhada": "fantasia inspirada em traje típico escocês (kilt) com abordagem moderna e feminina"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6945.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.66,
+  "data_analise": "2026-07-29T22:47:52Z",
+  "data_criacao": "2026-07-29T19:47:52.524183-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 6097,
+  "nome_original": "FBI",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "sobretudo",
+      "camiseta",
+      "calça",
+      "boné"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte reto e alongado no sobretudo, modelagem casual",
+    "acessorios_visiveis": [
+      "boné com inscrição FBI"
+    ],
+    "tematica_detalhada": "Agente do FBI (Federal Bureau of Investigation), baseada no estereótipo de agentes federais americanos em missões de campo."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6097.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 117.25,
+  "data_analise": "2026-07-28T05:28:30Z",
+  "data_criacao": "2026-07-28T02:28:30.981429-03:00"
+}

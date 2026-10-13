@@ -1,0 +1,30 @@
+{
+  "id": 5866,
+  "nome_original": "Junina Saia",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido com saia",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético com detalhes em fitas e rendas",
+    "estilo_corte": "estilo rodado com cintura marcada",
+    "acessorios_visiveis": [
+      "tiara com laço e fitas",
+      "peruca loira"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, representando a vestimenta típica caipira estilizada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5866.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.98,
+  "data_analise": "2026-07-29T07:06:09Z",
+  "data_criacao": "2026-07-29T04:06:09.899534-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 8286,
+  "nome_original": "Menino Gato",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul escuro",
+      "azul claro"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara com capuz"
+    ],
+    "material_visual": "tecido sintético elástico",
+    "estilo_corte": "justo ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "máscara facial",
+      "orelhas de gato no capuz"
+    ],
+    "tematica_detalhada": "Fantasia de gato antropomórfico, inspirada em personagens de super-heróis ou animações com temática felina."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8286.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 32.45,
+  "data_analise": "2026-07-29T21:54:14Z",
+  "data_criacao": "2026-07-29T18:54:14.566366-03:00"
+}

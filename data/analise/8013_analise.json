@@ -1,0 +1,31 @@
+{
+  "id": 8013,
+  "nome_original": "Junina Mf",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com rendas e fitas coloridas",
+    "estilo_corte": "vestido curto com decote ombro a ombro e saia rodada em camadas",
+    "acessorios_visiveis": [
+      "chapéu de palha decorado",
+      "flor amarela aplicada na cintura"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina, representando a vestimenta típica caipira brasileira com elementos festivos e coloridos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8013.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 48.41,
+  "data_analise": "2026-07-29T06:49:37Z",
+  "data_criacao": "2026-07-29T03:49:37.217972-03:00"
+}

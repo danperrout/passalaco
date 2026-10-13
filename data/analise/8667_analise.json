@@ -1,0 +1,32 @@
+{
+  "id": 8667,
+  "nome_original": "Safari",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "bermuda",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético tipo sarja ou poliéster",
+    "estilo_corte": "estilo explorador com bolsos frontais e botões",
+    "acessorios_visiveis": [
+      "chapéu de safari com orelhas de Mickey",
+      "cinto"
+    ],
+    "tematica_detalhada": "explorador de safari infantil com referências ao personagem Mickey Mouse da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8667.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 43.92,
+  "data_analise": "2026-07-30T05:21:34Z",
+  "data_criacao": "2026-07-30T02:21:34.488712-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 3701,
+  "nome_original": "Chapeleiro Maluco",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "azul",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "cartola",
+      "paletó",
+      "calças"
+    ],
+    "material_visual": "tecidos texturizados com aspecto envelhecido e desgastado",
+    "estilo_corte": "estilo vitoriano excêntrico e desestruturado",
+    "acessorios_visiveis": [
+      "cartola com cartão"
+    ],
+    "tematica_detalhada": "personagem Chapeleiro Maluco, baseada na obra Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3701.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.26,
+  "data_analise": "2026-07-27T19:52:03Z",
+  "data_criacao": "2026-07-27T16:52:03.130953-03:00"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 8717,
+  "nome_original": "Akatsuki",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Cosplay",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "manto",
+      "bandana"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "manto longo com gola alta",
+    "acessorios_visiveis": [
+      "protetor de testa metálico"
+    ],
+    "tematica_detalhada": "Organização Akatsuki do anime Naruto"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8717.jpg",
+  "data_analise": "2026-07-27T13:38:42Z"
+}

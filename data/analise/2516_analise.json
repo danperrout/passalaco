@@ -1,0 +1,29 @@
+{
+  "id": 2516,
+  "nome_original": "Chines",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado e palha natural no chapéu",
+    "estilo_corte": "estilo oriental com gola alta e fechamento frontal",
+    "acessorios_visiveis": [
+      "chapéu cônico de palha"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na cultura asiática, remetendo a trajes tradicionais chineses ou vietnamitas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2516.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 58.87,
+  "data_analise": "2026-07-27T20:57:29Z",
+  "data_criacao": "2026-07-27T17:57:29.451064-03:00"
+}

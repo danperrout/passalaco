@@ -1,0 +1,29 @@
+{
+  "id": 7421,
+  "nome_original": "Star Wars Kylo Ren",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica com capuz",
+      "máscara facial",
+      "calças"
+    ],
+    "material_visual": "tecido sintético fosco com detalhes em renda ou malha texturizada nas mangas",
+    "estilo_corte": "longo, fluido, com capuz amplo e corte reto",
+    "acessorios_visiveis": [
+      "máscara facial preta"
+    ],
+    "tematica_detalhada": "Personagem Kylo Ren da franquia Star Wars, representando o lado sombrio da Força"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7421.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.01,
+  "data_analise": "2026-07-30T07:23:01Z",
+  "data_criacao": "2026-07-30T04:23:01.025555-03:00"
+}

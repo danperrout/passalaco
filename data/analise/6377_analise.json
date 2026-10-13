@@ -1,0 +1,29 @@
+{
+  "id": 6377,
+  "nome_original": "Noiva",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim e tule",
+    "estilo_corte": "curto com saia em camadas de babados e decote coração",
+    "acessorios_visiveis": [
+      "véu",
+      "coroa de flores",
+      "colar"
+    ],
+    "tematica_detalhada": "Noiva clássica, com referências a casamentos tradicionais ou fantasias temáticas de noiva"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6377.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 53.94,
+  "data_analise": "2026-07-30T00:02:58Z",
+  "data_criacao": "2026-07-29T21:02:58.262364-03:00"
+}

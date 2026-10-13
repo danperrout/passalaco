@@ -1,0 +1,33 @@
+{
+  "id": 2110,
+  "nome_original": "Gangster",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "camisa",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com estampa de riscas",
+    "estilo_corte": "terno clássico de corte reto com lapelas",
+    "acessorios_visiveis": [
+      "chapéu fedora",
+      "gravata fina"
+    ],
+    "tematica_detalhada": "Gangster clássico, com referências aos mafiosos dos anos 20 e 30, estilo Al Capone"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2110.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 150.85,
+  "data_analise": "2026-07-28T06:52:00Z",
+  "data_criacao": "2026-07-28T03:52:00.019624-03:00"
+}

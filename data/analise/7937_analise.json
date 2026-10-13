@@ -1,0 +1,31 @@
+{
+  "id": 7937,
+  "nome_original": "Marinheiro",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente poliéster",
+    "estilo_corte": "corte reto e solto com gola marinheiro característica",
+    "acessorios_visiveis": [
+      "gravata com listras",
+      "quepe de marinheiro"
+    ],
+    "tematica_detalhada": "fantasia clássica de marinheiro naval, remetendo a uniformes militares marítimos tradicionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7937.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 36.51,
+  "data_analise": "2026-07-29T18:16:25Z",
+  "data_criacao": "2026-07-29T15:16:25.344570-03:00"
+}

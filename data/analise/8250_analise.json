@@ -1,0 +1,28 @@
+{
+  "id": 8250,
+  "nome_original": "Dinossauro Pelucia",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde escuro",
+      "verde limão"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "pelúcia macia",
+    "estilo_corte": "estilo kigurumi/oversized",
+    "acessorios_visiveis": [
+      "capuz com cabeça de dinossauro"
+    ],
+    "tematica_detalhada": "dinossauro estilizado em formato de pijama de pelúcia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8250.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 42.39,
+  "data_analise": "2026-07-28T03:09:15Z",
+  "data_criacao": "2026-07-28T00:09:15.932170-03:00"
+}

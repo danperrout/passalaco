@@ -1,0 +1,31 @@
+{
+  "id": 874,
+  "nome_original": "Michael Jackson",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "camisa",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido com lantejoulas brilhantes",
+    "estilo_corte": "paletó aberto com corte reto e calça justa",
+    "acessorios_visiveis": [
+      "cartola"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no cantor Michael Jackson, referenciando seus trajes de performance icônicos com brilho e cartola"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/874.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 53.73,
+  "data_analise": "2026-07-29T22:08:48Z",
+  "data_criacao": "2026-07-29T19:08:48.480325-03:00"
+}

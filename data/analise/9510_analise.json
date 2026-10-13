@@ -1,0 +1,27 @@
+{
+  "id": 9510,
+  "nome_original": "Chifre Malevola",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "tiara de chifres"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente feltro ou plush",
+    "estilo_corte": "curvatura orgânica simulando chifres",
+    "acessorios_visiveis": [
+      "peruca preta"
+    ],
+    "tematica_detalhada": "Referência à personagem Malévola, vilã da Disney, inspirada em arquétipos de bruxas e fadas malignas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9510.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 27.1,
+  "data_analise": "2026-07-27T20:55:03Z",
+  "data_criacao": "2026-07-27T17:55:03.652147-03:00"
+}

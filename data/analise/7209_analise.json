@@ -1,0 +1,30 @@
+{
+  "id": 7209,
+  "nome_original": "Mamae Noel",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "gorro"
+    ],
+    "material_visual": "cetim com acabamento em pelúcia sintética",
+    "estilo_corte": "vestido curto com saia evasê, decote reto e cintura marcada",
+    "acessorios_visiveis": [
+      "cinto preto com fivela",
+      "gorro de Papai Noel"
+    ],
+    "tematica_detalhada": "Fantasia de Mamãe Noel, baseada no folclore natalino ocidental"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7209.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 46.18,
+  "data_analise": "2026-07-29T17:03:11Z",
+  "data_criacao": "2026-07-29T14:03:11.798992-03:00"
+}

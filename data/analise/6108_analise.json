@@ -1,0 +1,31 @@
+{
+  "id": 6108,
+  "nome_original": "Policial",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "boina"
+    ],
+    "material_visual": "tecido sintético tipo brim ou sarja",
+    "estilo_corte": "estilo militar com bolsos frontais e corte reto",
+    "acessorios_visiveis": [
+      "boina preta",
+      "insígnias/patches no peito e braços"
+    ],
+    "tematica_detalhada": "fantasia de policial militar ou agente de segurança, com referências a uniformes operacionais brasileiros"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6108.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.61,
+  "data_analise": "2026-07-30T03:46:44Z",
+  "data_criacao": "2026-07-30T00:46:44.939995-03:00"
+}

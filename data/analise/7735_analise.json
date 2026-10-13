@@ -1,0 +1,31 @@
+{
+  "id": 7735,
+  "nome_original": "Mascote Dalmata Marshal",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "cabeça de mascote",
+      "camiseta",
+      "calça"
+    ],
+    "material_visual": "pelúcia e tecido sintético",
+    "estilo_corte": "oversized / corpo volumoso",
+    "acessorios_visiveis": [
+      "boné vermelho",
+      "emblema de bombeiro"
+    ],
+    "tematica_detalhada": "Mascote do personagem Marshall, o dálmata bombeiro da série Patrulha Canina"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7735.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 313.38,
+  "data_analise": "2026-07-29T19:32:42Z",
+  "data_criacao": "2026-07-29T16:32:42.037215-03:00"
+}

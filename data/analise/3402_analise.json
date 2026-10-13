@@ -1,0 +1,28 @@
+{
+  "id": 3402,
+  "nome_original": "Camisa",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "branco",
+      "rosa",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "camisa"
+    ],
+    "material_visual": "tecido denim ou sarja com aplicações coloridas",
+    "estilo_corte": "corte clássico de camisa com gola",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "estilo artístico e contemporâneo, com referências a customização manual, patchwork ou pintura têxtil abstrata"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3402.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.27,
+  "data_analise": "2026-07-27T18:49:09Z",
+  "data_criacao": "2026-07-27T15:49:09.702470-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 6569,
+  "nome_original": "Pinguim",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético aveludado ou plush",
+    "estilo_corte": "estilo kigurumi ou macacão folgado",
+    "acessorios_visiveis": [
+      "bico de pinguim"
+    ],
+    "tematica_detalhada": "fantasia de animal, especificamente um pinguim, com foco em conforto e visual lúdico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6569.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 19.78,
+  "data_analise": "2026-07-30T03:33:44Z",
+  "data_criacao": "2026-07-30T00:33:44.205045-03:00"
+}

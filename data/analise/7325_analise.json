@@ -1,0 +1,26 @@
+{
+  "id": 7325,
+  "nome_original": "Trança Rapunzel",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "loiro",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "extensão de trança"
+    ],
+    "material_visual": "fibras sintéticas",
+    "estilo_corte": "trançado longo",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Cabelo longo da personagem Rapunzel, referência aos contos de fadas e animações da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7325.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.1,
+  "data_analise": "2026-07-30T08:33:25Z",
+  "data_criacao": "2026-07-30T05:33:25.087544-03:00"
+}

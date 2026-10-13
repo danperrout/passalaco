@@ -1,0 +1,30 @@
+{
+  "id": 6915,
+  "nome_original": "Cocar",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "marrom",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "cocar",
+      "colar"
+    ],
+    "material_visual": "penas naturais ou sintéticas e contas",
+    "estilo_corte": "estilo semicircular com penas irradiadas",
+    "acessorios_visiveis": [
+      "colar de contas com pingente de penas"
+    ],
+    "tematica_detalhada": "fantasia inspirada em culturas indígenas, com foco em adornos de cabeça tradicionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6915.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 43.75,
+  "data_analise": "2026-07-27T23:35:04Z",
+  "data_criacao": "2026-07-27T20:35:04.800918-03:00"
+}

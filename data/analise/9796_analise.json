@@ -1,0 +1,31 @@
+{
+  "id": 9796,
+  "nome_original": "Moana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "bege",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com texturas que imitam fibras naturais e palha",
+    "estilo_corte": "conjunto de duas peças com corte tribal e saia assimétrica com franjas",
+    "acessorios_visiveis": [
+      "tiara de flores",
+      "detalhe de pedra azul no top"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Moana, com referências à cultura polinésia e elementos tropicais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9796.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.78,
+  "data_analise": "2026-07-29T22:45:49Z",
+  "data_criacao": "2026-07-29T19:45:49.833249-03:00"
+}

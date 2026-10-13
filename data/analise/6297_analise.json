@@ -1,0 +1,29 @@
+{
+  "id": 6297,
+  "nome_original": "Elsa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul celeste",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "capa"
+    ],
+    "material_visual": "paetês brilhantes e tule transparente",
+    "estilo_corte": "tomara que caia com corpo ajustado e saia longa",
+    "acessorios_visiveis": [
+      "tiara decorativa"
+    ],
+    "tematica_detalhada": "Inspirada na personagem Elsa do filme Frozen, remetendo a elementos de gelo e neve"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6297.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 36.38,
+  "data_analise": "2026-07-28T03:36:42Z",
+  "data_criacao": "2026-07-28T00:36:42.020022-03:00"
+}

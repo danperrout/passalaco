@@ -1,0 +1,29 @@
+{
+  "id": 10082,
+  "nome_original": "Super Poderosas Florzinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco",
+    "estilo_corte": "vestido curto, sem mangas, com cintura marcada por faixa preta e saia evasê",
+    "acessorios_visiveis": [
+      "óculos redondos azuis com armação rosa",
+      "laço vermelho no cabelo"
+    ],
+    "tematica_detalhada": "Personagem Florzinha da animação As Meninas Superpoderosas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10082.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.37,
+  "data_analise": "2026-07-30T07:31:40Z",
+  "data_criacao": "2026-07-30T04:31:40.743857-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 8993,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "tecido xadrez e cetim",
+    "estilo_corte": "vestido com alças, cintura marcada com laço e saia rodada",
+    "acessorios_visiveis": [
+      "tiara com flor e renda"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, com elementos típicos como estampa xadrez, bandeirolas e fogueira aplicados na saia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8993.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 32.88,
+  "data_analise": "2026-07-28T23:35:26Z",
+  "data_criacao": "2026-07-28T20:35:26.166655-03:00"
+}

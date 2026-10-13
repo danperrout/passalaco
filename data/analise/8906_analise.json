@@ -1,0 +1,31 @@
+{
+  "id": 8906,
+  "nome_original": "Poderoso Chefinho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "bermuda"
+    ],
+    "material_visual": "tecido sintético com aparência de algodão ou poliéster",
+    "estilo_corte": "estilo social infantil clássico",
+    "acessorios_visiveis": [
+      "gravata borboleta",
+      "suspensórios",
+      "óculos de sol"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem 'O Poderoso Chefinho', remetendo a um visual executivo/formal em miniatura"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8906.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.34,
+  "data_analise": "2026-07-30T03:43:57Z",
+  "data_criacao": "2026-07-30T00:43:57.690159-03:00"
+}

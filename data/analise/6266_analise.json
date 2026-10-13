@@ -1,0 +1,28 @@
+{
+  "id": 6266,
+  "nome_original": "Anos 70",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "multicolor",
+      "azul",
+      "amarelo",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "bandana"
+    ],
+    "material_visual": "tecido sintético com efeito tie-dye",
+    "estilo_corte": "estilo hippie com corte solto e fluido",
+    "acessorios_visiveis": [
+      "bandana na cabeça"
+    ],
+    "tematica_detalhada": "estilo hippie psicodélico dos anos 70"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6266.jpg",
+  "data_analise": "2026-07-27T14:06:35Z"
+}

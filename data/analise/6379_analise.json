@@ -1,0 +1,29 @@
+{
+  "id": 6379,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "algodão com estampas diversificadas e rendas",
+    "estilo_corte": "estilo corset no busto com saia curta e volumosa em camadas",
+    "acessorios_visiveis": [
+      "tiara com flor vermelha e fitas"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, com referências ao estilo caipira estilizado, utilizando xadrez e poá"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6379.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 43.03,
+  "data_analise": "2026-07-29T01:03:12Z",
+  "data_criacao": "2026-07-28T22:03:12.481729-03:00"
+}

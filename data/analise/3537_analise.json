@@ -1,0 +1,31 @@
+{
+  "id": 3537,
+  "nome_original": "Deusa Grega",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa lateral"
+    ],
+    "material_visual": "cetim ou tecido sintético com brilho",
+    "estilo_corte": "estilo túnica com um ombro só e comprimento curto",
+    "acessorios_visiveis": [
+      "tiara adornada",
+      "cinto dourado",
+      "detalhes em corrente"
+    ],
+    "tematica_detalhada": "Deusa Grega ou figura da antiguidade clássica, com elementos que remetem ao luxo e poder"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3537.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.25,
+  "data_analise": "2026-07-28T02:55:39Z",
+  "data_criacao": "2026-07-27T23:55:39.496461-03:00"
+}

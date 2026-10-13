@@ -1,0 +1,31 @@
+{
+  "id": 8665,
+  "nome_original": "Mascote Magali",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "máscara de cabeça",
+      "vestido",
+      "calça/legging"
+    ],
+    "material_visual": "espuma moldada, tecido sintético e cetim",
+    "estilo_corte": "estilo mascote com formas arredondadas e vestido solto",
+    "acessorios_visiveis": [
+      "renda nas barras da calça"
+    ],
+    "tematica_detalhada": "personagem Magali da Turma da Mônica, referência à cultura pop brasileira"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8665.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 195.3,
+  "data_analise": "2026-07-29T19:51:05Z",
+  "data_criacao": "2026-07-29T16:51:05.099003-03:00"
+}

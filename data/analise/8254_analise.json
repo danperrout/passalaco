@@ -1,0 +1,32 @@
+{
+  "id": 8254,
+  "nome_original": "Casaco",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prata",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "casaco de lantejoulas",
+      "camisa branca",
+      "gravata borboleta",
+      "chapéu"
+    ],
+    "material_visual": "lantejoulas brilhantes",
+    "estilo_corte": "blazer oversized/estilo smoking",
+    "acessorios_visiveis": [
+      "chapéu coco",
+      "gravata borboleta"
+    ],
+    "tematica_detalhada": "estilo glam rock ou versão feminil de um traje de gala/smoking com brilhos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8254.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.23,
+  "data_analise": "2026-07-27T19:29:57Z",
+  "data_criacao": "2026-07-27T16:29:57.582158-03:00"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 6649,
+  "nome_original": "Batman",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "cinza",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "capa",
+      "traje corporal",
+      "cinto"
+    ],
+    "material_visual": "tecido sintético com aparência de lycra ou elastano",
+    "estilo_corte": "ajustado ao corpo com modelagem anatômica",
+    "acessorios_visiveis": [
+      "máscara com orelhas pontiagudas",
+      "cinto de utilidades amarelo"
+    ],
+    "tematica_detalhada": "Super-herói Batman, personagem da DC Comics, referência ao Cavaleiro das Trevas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6649.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.16,
+  "data_analise": "2026-07-27T17:50:13Z",
+  "data_criacao": "2026-07-27T14:50:13.100757-03:00"
+}

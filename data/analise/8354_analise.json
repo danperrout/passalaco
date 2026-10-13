@@ -1,0 +1,31 @@
+{
+  "id": 8354,
+  "nome_original": "Monica",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "saia",
+      "pelúcia"
+    ],
+    "material_visual": "tecido sintético com brilho",
+    "estilo_corte": "camiseta oversized com saia curta franzida",
+    "acessorios_visiveis": [
+      "coelho de pelúcia azul"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Mônica, dos quadrinhos Turma da Mônica, caracterizada pelo vestido vermelho e seu coelho Sansão"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8354.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 60.96,
+  "data_analise": "2026-07-29T22:52:20Z",
+  "data_criacao": "2026-07-29T19:52:20.758416-03:00"
+}

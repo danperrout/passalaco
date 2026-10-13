@@ -1,0 +1,29 @@
+{
+  "id": 3982,
+  "nome_original": "Indiana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica longa",
+      "véu/lenço"
+    ],
+    "material_visual": "tecido leve e fluido, possivelmente chiffon ou seda, com detalhes em lurex ou paetês",
+    "estilo_corte": "corte amplo, estilo caftã ou abaya, com caimento solto e longo",
+    "acessorios_visiveis": [
+      "brincos dourados"
+    ],
+    "tematica_detalhada": "fantasia de inspiração indiana ou árabe, remetendo a vestimentas tradicionais do Oriente Médio e Sul da Ásia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3982.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 247.23,
+  "data_analise": "2026-07-28T17:04:19Z",
+  "data_criacao": "2026-07-28T14:04:19.680002-03:00"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 6536,
+  "nome_original": "Apresentadora de Circo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "saia",
+      "chapéu"
+    ],
+    "material_visual": "tecido acetinado e lurex",
+    "estilo_corte": "estilo vintage de mestre de cerimônias com saia volumosa",
+    "acessorios_visiveis": [
+      "cartola"
+    ],
+    "tematica_detalhada": "Apresentadora de Circo / Mestre de Cerimônias"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6536.jpg",
+  "data_analise": "2026-07-27T14:11:54Z"
+}

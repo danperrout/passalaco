@@ -1,0 +1,30 @@
+{
+  "id": 9570,
+  "nome_original": "Mago",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "capuz",
+      "manto"
+    ],
+    "material_visual": "tecido sintético com textura amassada",
+    "estilo_corte": "estilo túnica longa e solta com gola em V e mangas amplas",
+    "acessorios_visiveis": [
+      "pingente metálico"
+    ],
+    "tematica_detalhada": "mago ou monge medieval, com referências a fantasias de RPG e arquétipos de fantasia clássica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9570.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 58.68,
+  "data_analise": "2026-07-29T16:29:03Z",
+  "data_criacao": "2026-07-29T13:29:03.591379-03:00"
+}

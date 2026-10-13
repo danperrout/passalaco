@@ -1,0 +1,30 @@
+{
+  "id": 499,
+  "nome_original": "Dança do Ventre",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Danças",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "tecido fluido com aplicações de lantejoulas, miçangas e franjas",
+    "estilo_corte": "conjunto de duas peças composto por top cropped e saia longa fluida com cintura adornada",
+    "acessorios_visiveis": [
+      "tiara/adereço de cabeça",
+      "franjas decorativas"
+    ],
+    "tematica_detalhada": "Dança do Ventre, inspirada na cultura árabe e oriento-medieval, focada em sensualidade e movimento"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/499.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 40.88,
+  "data_analise": "2026-07-28T02:43:08Z",
+  "data_criacao": "2026-07-27T23:43:08.690450-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 8675,
+  "nome_original": "Jasmine",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul turquesa",
+      "azul celeste"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "calça",
+      "sobreposição de saia",
+      "tiara"
+    ],
+    "material_visual": "cetim brilhante com detalhes em tule e bordados",
+    "estilo_corte": "estilo árabe com decote ombro a ombro e calça ajustada",
+    "acessorios_visiveis": [
+      "tiara decorada",
+      "broche central no decote"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na Princesa Jasmine, do filme Aladdin, com referências à cultura árabe e estética de contos de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8675.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 136.77,
+  "data_analise": "2026-07-28T19:58:00Z",
+  "data_criacao": "2026-07-28T16:58:00.766138-03:00"
+}

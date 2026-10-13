@@ -1,0 +1,22 @@
+{
+  "id": 7372,
+  "nome_original": "Aquaman",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "macacão completo"
+    ],
+    "material_visual": "tecido sintético com textura de escamas e acabamento metalizado",
+    "estilo_corte": "ajustado ao corpo com ombreiras estruturadas",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "super-herói Aquaman com estética inspirada em escamas marinhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7372.jpg",
+  "data_analise": "2026-07-27T14:12:18Z"
+}

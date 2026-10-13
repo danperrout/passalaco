@@ -1,0 +1,32 @@
+{
+  "id": 2761,
+  "nome_original": "Bambam",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "bege",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "boné",
+      "camiseta",
+      "bermuda"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou algodão",
+    "estilo_corte": "estilo pré-histórico com barras irregulares e rasgadas",
+    "acessorios_visiveis": [
+      "osso decorativo",
+      "pompom branco no boné"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Bam-Bam, da animação Os Flintstones, representando a era da pedra"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2761.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 281.36,
+  "data_analise": "2026-07-27T17:25:10Z",
+  "data_criacao": "2026-07-27T14:25:10.749629-03:00"
+}

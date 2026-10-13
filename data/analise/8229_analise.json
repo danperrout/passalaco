@@ -1,0 +1,29 @@
+{
+  "id": 8229,
+  "nome_original": "Blusa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "blusa xadrez",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante/estilizado",
+    "estilo_corte": "blusa aberta com estampa xadrez e saia curta",
+    "acessorios_visiveis": [
+      "chapéu de aba larga"
+    ],
+    "tematica_detalhada": "estilo country ou cowgirl, com referências a vestimentas rurais americanas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8229.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 282.15,
+  "data_analise": "2026-07-27T18:04:15Z",
+  "data_criacao": "2026-07-27T15:04:15.378827-03:00"
+}

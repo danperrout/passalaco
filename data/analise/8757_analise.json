@@ -1,0 +1,33 @@
+{
+  "id": 8757,
+  "nome_original": "Mae e Filha Batgirl",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "máscara",
+      "luvas longas",
+      "botas"
+    ],
+    "material_visual": "tecido sintético com brilho, similar ao cetim ou lycra",
+    "estilo_corte": "vestido curto com saia evasê e cintura marcada",
+    "acessorios_visiveis": [
+      "máscara com orelhas",
+      "cinto amarelo",
+      "luvas"
+    ],
+    "tematica_detalhada": "Fantasia da super-heroína Batgirl, personagem da DC Comics, em conjunto combinando para mãe e filha"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8757.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 512.72,
+  "data_analise": "2026-07-29T13:30:41Z",
+  "data_criacao": "2026-07-29T10:30:41.480323-03:00"
+}

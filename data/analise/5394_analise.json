@@ -1,0 +1,31 @@
+{
+  "id": 5394,
+  "nome_original": "Dick Vigarista",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "sobretudo",
+      "chapéu",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "sobretudo longo de corte reto com fechamento frontal por botões",
+    "acessorios_visiveis": [
+      "chapéu estilo militar com detalhes em azul e vermelho",
+      "luvas vermelhas"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Dick Vigarista, do desenho animado Corrida Maluca"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5394.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 41.39,
+  "data_analise": "2026-07-28T03:03:45Z",
+  "data_criacao": "2026-07-28T00:03:45.580475-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 8818,
+  "nome_original": "Vaquinha 2 Meses",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Mesversario",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "body"
+    ],
+    "material_visual": "tecido sintético com acabamento em renda ou renda recortada",
+    "estilo_corte": "vestido evasê com alças e body com babados",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia de vaquinha estilizada para bebês, com estampa de malhas pretas sobre fundo branco e detalhes em rosa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8818.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.18,
+  "data_analise": "2026-07-30T08:49:06Z",
+  "data_criacao": "2026-07-30T05:49:06.410990-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 5404,
+  "nome_original": "Lula Molusco",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "máscara de cabeça",
+      "camiseta",
+      "calça"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster ou espuma para a cabeça",
+    "estilo_corte": "corte largo e folgado, estilo mascot",
+    "acessorios_visiveis": [
+      "luvas cinzas",
+      "sapatos pretos"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Lula Molusco, do desenho animado Bob Esponja Calça Quadrada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5404.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 137.51,
+  "data_analise": "2026-07-29T12:47:13Z",
+  "data_criacao": "2026-07-29T09:47:13.710341-03:00"
+}

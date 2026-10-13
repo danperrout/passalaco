@@ -1,0 +1,33 @@
+{
+  "id": 6181,
+  "nome_original": "Piloto",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul marinho"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "gravata",
+      "quepe"
+    ],
+    "material_visual": "tecido sintético com aspecto de poliéster",
+    "estilo_corte": "uniforme formal com corte reto e mangas curtas",
+    "acessorios_visiveis": [
+      "insígnias nos ombros",
+      "emblema no peito",
+      "brasão no quepe"
+    ],
+    "tematica_detalhada": "piloto de aviação comercial, simulando uniforme de capitão de aeronave"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6181.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.53,
+  "data_analise": "2026-07-30T03:29:45Z",
+  "data_criacao": "2026-07-30T00:29:45.141943-03:00"
+}

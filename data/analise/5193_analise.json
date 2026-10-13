@@ -1,0 +1,33 @@
+{
+  "id": 5193,
+  "nome_original": "Peruano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "amarelo",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "poncho",
+      "chullo (touca peruana)",
+      "calça preta"
+    ],
+    "material_visual": "tecido com aparência de lã ou tricô",
+    "estilo_corte": "corte amplo e reto no poncho, ajuste justo na touca",
+    "acessorios_visiveis": [
+      "pompons coloridos",
+      "franjas"
+    ],
+    "tematica_detalhada": "fantasia inspirada na cultura andina do Peru, referenciando a vestimenta tradicional de povos indígenas da região"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5193.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 70.63,
+  "data_analise": "2026-07-30T03:15:35Z",
+  "data_criacao": "2026-07-30T00:15:35.615246-03:00"
+}

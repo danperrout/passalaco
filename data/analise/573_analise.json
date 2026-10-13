@@ -1,0 +1,30 @@
+{
+  "id": 573,
+  "nome_original": "Escorpião",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "blusa de manga longa",
+      "calça",
+      "capuz/máscara"
+    ],
+    "material_visual": "tecido sintético com brilho leve, possivelmente poliéster ou cetim",
+    "estilo_corte": "ajuste solto, estilo macacão ou conjunto de duas peças",
+    "acessorios_visiveis": [
+      "cauda de escorpião",
+      "capuz com detalhe frontal"
+    ],
+    "tematica_detalhada": "fantasia de animal, especificamente um escorpião, focada em representação literal da fauna"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/573.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.46,
+  "data_analise": "2026-07-28T03:52:10Z",
+  "data_criacao": "2026-07-28T00:52:10.550036-03:00"
+}

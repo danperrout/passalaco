@@ -1,0 +1,33 @@
+{
+  "id": 2628,
+  "nome_original": "Patata",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "verde",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "peruca",
+      "casaco",
+      "calça"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou cetim",
+    "estilo_corte": "estilo circense, corte largo e volumoso",
+    "acessorios_visiveis": [
+      "gravata borboleta amarela",
+      "botões amarelos decorativos"
+    ],
+    "tematica_detalhada": "fantasia de palhaço ou personagem performático, com cores vibrantes remetendo a espetáculos de circo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2628.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 32.7,
+  "data_analise": "2026-07-30T02:32:58Z",
+  "data_criacao": "2026-07-29T23:32:58.564079-03:00"
+}

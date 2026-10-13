@@ -1,0 +1,29 @@
+{
+  "id": 4196,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com renda e apliques de babados",
+    "estilo_corte": "vestido infantil rodado com mangas bufantes e camadas de babados",
+    "acessorios_visiveis": [
+      "tiara com laço e fitas"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, representando a vestimenta típica caipira estilizada para crianças"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4196.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.28,
+  "data_analise": "2026-07-29T00:58:58Z",
+  "data_criacao": "2026-07-28T21:58:58.058426-03:00"
+}

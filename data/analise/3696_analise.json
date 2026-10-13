@@ -1,0 +1,28 @@
+{
+  "id": 3696,
+  "nome_original": "Garota de Salão",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul escuro",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "estilo corset no busto com saia rodada e curta",
+    "acessorios_visiveis": [
+      "tiara com pena azul"
+    ],
+    "tematica_detalhada": "Fantasia de Garota de Salão ou Showgirl, com referências a espetáculos de cabaré e entretenimento noturno clássico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3696.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 147.52,
+  "data_analise": "2026-07-28T07:08:46Z",
+  "data_criacao": "2026-07-28T04:08:46.964688-03:00"
+}

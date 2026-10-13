@@ -1,0 +1,31 @@
+{
+  "id": 6095,
+  "nome_original": "Imperador Romano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "manto/estola",
+      "coroa de louros"
+    ],
+    "material_visual": "tecido sintético leve com detalhes em acabamento dourado",
+    "estilo_corte": "túnica longa de corte reto com mangas curtas e folgadas",
+    "acessorios_visiveis": [
+      "coroa de louros dourada"
+    ],
+    "tematica_detalhada": "Imperador Romano, baseada nas vestimentas da Antiguidade Clássica, remetendo a figuras como Júlio César"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6095.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 110.96,
+  "data_analise": "2026-07-28T15:38:07Z",
+  "data_criacao": "2026-07-28T12:38:07.527567-03:00"
+}

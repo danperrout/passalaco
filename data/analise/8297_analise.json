@@ -1,0 +1,31 @@
+{
+  "id": 8297,
+  "nome_original": "Palhaço Assassino",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou poliéster",
+    "estilo_corte": "corte amplo e folgado com gola babada e punhos elásticos",
+    "acessorios_visiveis": [
+      "máscara de palhaço",
+      "pompons decorativos"
+    ],
+    "tematica_detalhada": "palhaço assassino, com referências visuais a personagens de terror como Pennywise"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8297.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.88,
+  "data_analise": "2026-07-30T01:54:01Z",
+  "data_criacao": "2026-07-29T22:54:01.865671-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 9562,
+  "nome_original": "Gomez Addams",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "corte reto com listras verticais",
+    "acessorios_visiveis": [
+      "gravata borboleta preta"
+    ],
+    "tematica_detalhada": "fantasia inspirada no personagem Gomez Addams da Família Addams, apresentando um estilo excêntrico e gótico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9562.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 104.86,
+  "data_analise": "2026-07-28T11:15:21Z",
+  "data_criacao": "2026-07-28T08:15:21.914761-03:00"
+}

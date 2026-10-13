@@ -1,0 +1,29 @@
+{
+  "id": 9365,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul",
+      "prateado"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido translúcido, lantejoulas, glitter e materiais sintéticos brilhantes",
+    "estilo_corte": "ajustado ao corpo com saia volumosa e texturizada",
+    "acessorios_visiveis": [
+      "estilo adereço de cabeça ou acessório capilar azul"
+    ],
+    "tematica_detalhada": "fantasia festiva de Carnaval com estética inspirada em elementos gélidos, cristalinos ou fantasias de passista/rainha de baile"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9365.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.1,
+  "data_analise": "2026-07-27T19:24:03Z",
+  "data_criacao": "2026-07-27T16:24:03.349146-03:00"
+}

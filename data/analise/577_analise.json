@@ -1,0 +1,30 @@
+{
+  "id": 577,
+  "nome_original": "Espanhol",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "calça"
+    ],
+    "material_visual": "cetim ou poliéster brilhante",
+    "estilo_corte": "colete aberto sem mangas e calça solta com punhos ajustados",
+    "acessorios_visiveis": [
+      "galões dourados ornamentais"
+    ],
+    "tematica_detalhada": "Fantasia de estilo espanhol ou mediterrâneo, remetendo a trajes folclóricos ou de dançarinos de flamenco"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/577.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 45.46,
+  "data_analise": "2026-07-28T03:53:11Z",
+  "data_criacao": "2026-07-28T00:53:11.471368-03:00"
+}

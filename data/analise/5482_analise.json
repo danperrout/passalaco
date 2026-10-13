@@ -1,0 +1,29 @@
+{
+  "id": 5482,
+  "nome_original": "Pirata",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "bandana"
+    ],
+    "material_visual": "tecido sintético com acabamento em renda e cetim",
+    "estilo_corte": "estilo corset com decote ombro a ombro e saia curta rodada",
+    "acessorios_visiveis": [
+      "bandana com caveira e ossos cruzados"
+    ],
+    "tematica_detalhada": "fantasia de pirata feminina com estética estilizada e elementos clássicos de navegação"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5482.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.87,
+  "data_analise": "2026-07-30T03:36:21Z",
+  "data_criacao": "2026-07-30T00:36:21.461113-03:00"
+}

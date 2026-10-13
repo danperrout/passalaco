@@ -1,0 +1,29 @@
+{
+  "id": 5391,
+  "nome_original": "Chapeleira Maluca",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho e feltro",
+    "estilo_corte": "vestido curto com saia volumosa e corpete ajustado",
+    "acessorios_visiveis": [
+      "cartola"
+    ],
+    "tematica_detalhada": "Chapeleira Maluca, personagem inspirada na obra Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5391.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.05,
+  "data_analise": "2026-07-27T19:49:40Z",
+  "data_criacao": "2026-07-27T16:49:40.817893-03:00"
+}

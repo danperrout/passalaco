@@ -1,0 +1,26 @@
+{
+  "id": 3209,
+  "nome_original": "Camisa",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "camisa"
+    ],
+    "material_visual": "tecido sintético com brilho",
+    "estilo_corte": "corte reto com gola e mangas longas",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "estilo xadrez vibrante, possivelmente referenciando moda pop ou fantasias temáticas de cores fortes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3209.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.85,
+  "data_analise": "2026-07-27T18:48:46Z",
+  "data_criacao": "2026-07-27T15:48:46.336191-03:00"
+}

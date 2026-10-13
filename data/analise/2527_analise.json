@@ -1,0 +1,32 @@
+{
+  "id": 2527,
+  "nome_original": "Coruja",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "touca",
+      "capa",
+      "túnica",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com texturas que imitam penas e brilho",
+    "estilo_corte": "folgado, composto por camadas sobrepostas para simular plumagem",
+    "acessorios_visiveis": [
+      "touca de coruja com olhos aplicados"
+    ],
+    "tematica_detalhada": "Fantasia animal de coruja, focada em representação literal da ave para festas infantis ou teatrais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2527.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 67.46,
+  "data_analise": "2026-07-28T01:49:06Z",
+  "data_criacao": "2026-07-27T22:49:06.837351-03:00"
+}

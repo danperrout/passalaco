@@ -1,0 +1,30 @@
+{
+  "id": 510,
+  "nome_original": "Dança do Ventre",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "prateado"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia",
+      "estola"
+    ],
+    "material_visual": "tecido leve translúcido com aplicações de pedrarias e brilhos",
+    "estilo_corte": "estilo belly dance com cintura marcada e caimento fluido",
+    "acessorios_visiveis": [
+      "tiara decorada"
+    ],
+    "tematica_detalhada": "Fantasia de dançarina do ventre com estética etérea ou celestial, remetendo a danças orientais estilizadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/510.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 29.36,
+  "data_analise": "2026-07-28T02:40:01Z",
+  "data_criacao": "2026-07-27T23:40:01.272484-03:00"
+}

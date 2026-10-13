@@ -1,0 +1,32 @@
+{
+  "id": 9157,
+  "nome_original": "Sra Incrivel",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "corpete",
+      "calça legging",
+      "máscara",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente lycra ou elastano",
+    "estilo_corte": "corpete ajustado com decote coração e calças justas",
+    "acessorios_visiveis": [
+      "máscara de olhos",
+      "luvas longas"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Sra. Incrível, do filme Os Incríveis da Disney/Pixar"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9157.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.74,
+  "data_analise": "2026-07-30T07:17:22Z",
+  "data_criacao": "2026-07-30T04:17:22.575270-03:00"
+}

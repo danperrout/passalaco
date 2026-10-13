@@ -1,0 +1,32 @@
+{
+  "id": 9928,
+  "nome_original": "Lobo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Halloween Infantil",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica com capuz",
+      "calça",
+      "luvas"
+    ],
+    "material_visual": "tecido flanela xadrez e pelúcia sintética",
+    "estilo_corte": "túnica oversized com corte assimétrico na barra e capuz integrado",
+    "acessorios_visiveis": [
+      "orelhas de lobo no capuz",
+      "detalhes em pele sintética na gola",
+      "luvas sem dedos"
+    ],
+    "tematica_detalhada": "fantasia de lobo estilizada, com referência estética a lenhadores ou roupas de inverno, misturando elementos animais com moda casual"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9928.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 87.54,
+  "data_analise": "2026-07-29T12:06:29Z",
+  "data_criacao": "2026-07-29T09:06:29.583090-03:00"
+}

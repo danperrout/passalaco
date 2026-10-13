@@ -1,0 +1,31 @@
+{
+  "id": 3086,
+  "nome_original": "Cangaceiro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "colete",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com aspecto de couro ou camurça",
+    "estilo_corte": "estilo rústico e tradicional do sertão",
+    "acessorios_visiveis": [
+      "bandoleira",
+      "detalhes metálicos/tachas"
+    ],
+    "tematica_detalhada": "Cangaceiro, referência cultural ao cangaço do Nordeste brasileiro, inspirada em figuras como Lampião"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3086.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.59,
+  "data_analise": "2026-07-27T18:53:24Z",
+  "data_criacao": "2026-07-27T15:53:24.363750-03:00"
+}

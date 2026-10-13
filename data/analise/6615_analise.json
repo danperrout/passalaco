@@ -1,0 +1,27 @@
+{
+  "id": 6615,
+  "nome_original": "Havaiano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga curta"
+    ],
+    "material_visual": "tecido sintético leve com aparência de poliéster",
+    "estilo_corte": "corte reto, gola colarinho e manga curta",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "estilo havaiano clássico com estampa floral tropical, remetendo a roupas de férias e festas temáticas de praia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6615.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 376.42,
+  "data_analise": "2026-07-28T13:17:12Z",
+  "data_criacao": "2026-07-28T10:17:12.148279-03:00"
+}

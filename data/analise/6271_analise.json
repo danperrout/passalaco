@@ -1,0 +1,26 @@
+{
+  "id": 6271,
+  "nome_original": "Ana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "rosa",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "capa"
+    ],
+    "material_visual": "cetim e tecido sintético brilhante",
+    "estilo_corte": "vestido evasê com capa longa",
+    "acessorios_visiveis": [
+      "laço no pescoço"
+    ],
+    "tematica_detalhada": "personagem Anna do filme Frozen"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6271.jpg",
+  "data_analise": "2026-07-27T13:55:55Z"
+}

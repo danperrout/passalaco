@@ -1,0 +1,30 @@
+{
+  "id": 4527,
+  "nome_original": "Gata",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "rosa",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara de orelhas"
+    ],
+    "material_visual": "tule, veludo ou tecido sintético acetinado, detalhes em paetê ou glitter",
+    "estilo_corte": "estilo tutu com saia volumosa e corpete ajustado com alças",
+    "acessorios_visiveis": [
+      "tiara com orelhas de gato"
+    ],
+    "tematica_detalhada": "fantasia de gata estilizada, com elementos lúdicos e femininos, misturando o tema animal com estética de bailarina"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4527.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 524.88,
+  "data_analise": "2026-07-28T07:21:05Z",
+  "data_criacao": "2026-07-28T04:21:05.153756-03:00"
+}

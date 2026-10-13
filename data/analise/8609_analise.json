@@ -1,0 +1,33 @@
+{
+  "id": 8609,
+  "nome_original": "Vampira X Men Rogue",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "verde",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "jaqueta curta",
+      "macacão",
+      "botas",
+      "faixa de cabeça"
+    ],
+    "material_visual": "tecido sintético com aspecto de elastano e jaqueta de material sintético fosco",
+    "estilo_corte": "justo ao corpo (slim fit) com jaqueta estilo cropped",
+    "acessorios_visiveis": [
+      "cinto marrom",
+      "faixa de cabelo verde"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Vampira (Rogue) dos X-Men, inspirada no visual clássico dos quadrinhos/animação"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8609.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.15,
+  "data_analise": "2026-07-30T08:48:18Z",
+  "data_criacao": "2026-07-30T05:48:18.958908-03:00"
+}

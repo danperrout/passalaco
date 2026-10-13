@@ -1,0 +1,14 @@
+{
+  "id": 2,
+  "nome_original": "Abelha",
+  "analise_visual": {
+    "cores_predominantes": ["Amarelo", "Preto"],
+    "pecas_inclusas": ["Vestido curto", "Asas", "Tiara com antenas"],
+    "material_visual": "Cetim ou poliéster com brilho, tule/renda preta na barra",
+    "estilo_corte": "Justo no busto, saia bufante (estilo tutu)",
+    "acessorios_visiveis": ["Asas transparentes", "Tiara com pompons amarelos"],
+    "tematica_detalhada": "Fantasia de Abelha feminina adulta"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2.jpg",
+  "data_analise": "2026-07-23T10:05:00Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1550,
+  "nome_original": "Presidiario",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "bermuda",
+      "touca"
+    ],
+    "material_visual": "tecido sintético leve",
+    "estilo_corte": "corte reto e folgado com listras horizontais",
+    "acessorios_visiveis": [
+      "placa de identificação numérica"
+    ],
+    "tematica_detalhada": "fantasia de prisioneiro clássico, inspirada em representações estereotipadas de presídios antigos e cultura pop"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1550.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.16,
+  "data_analise": "2026-07-30T03:56:20Z",
+  "data_criacao": "2026-07-30T00:56:20.229674-03:00"
+}

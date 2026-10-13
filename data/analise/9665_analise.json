@@ -1,0 +1,32 @@
+{
+  "id": 9665,
+  "nome_original": "Papai Noel",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Branco"
+    ],
+    "pecas_inclusas": [
+      "Casaco",
+      "Calça",
+      "Chapéu"
+    ],
+    "material_visual": "Tecido acetinado com acabamentos em pelúcia sintética",
+    "estilo_corte": "Corte clássico de traje festivo, com casaco longo e calças ajustadas",
+    "acessorios_visiveis": [
+      "Cinto preto com fivela",
+      "Botões dourados",
+      "Gola de pelúcia"
+    ],
+    "tematica_detalhada": "Fantasia de Papai Noel, personagem icônico do Natal, representando a figura generosa que entrega presentes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9665.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 487.36,
+  "data_analise": "2026-07-30T02:10:53Z",
+  "data_criacao": "2026-07-29T23:10:53.554103-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 10207,
+  "nome_original": "Junina Mf",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "saia"
+    ],
+    "material_visual": "tecido xadrez e renda",
+    "estilo_corte": "top ombro a ombro com babados e saia rodada com camadas de renda",
+    "acessorios_visiveis": [
+      "laços de cabelo",
+      "fitas decorativas"
+    ],
+    "tematica_detalhada": "Festa Junina estilizada, combinando a tradição do xadrez caipira com cores vibrantes e cortes modernos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10207.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.7,
+  "data_analise": "2026-07-29T07:00:09Z",
+  "data_criacao": "2026-07-29T04:00:09.657271-03:00"
+}

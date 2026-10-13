@@ -1,0 +1,35 @@
+{
+  "id": 1068,
+  "nome_original": "Palhaço",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul",
+      "vermelho",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com brilho e acabamento acetinado",
+    "estilo_corte": "estilo clássico de circo com calças largas e camisa ajustada",
+    "acessorios_visiveis": [
+      "gravata borboleta",
+      "suspensórios",
+      "nariz de palhaço",
+      "peruca verde"
+    ],
+    "tematica_detalhada": "palhaço tradicional de circo, caracterizado por cores vibrantes, estampas xadrez e listradas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1068.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 114.95,
+  "data_analise": "2026-07-30T01:52:57Z",
+  "data_criacao": "2026-07-29T22:52:57.066667-03:00"
+}

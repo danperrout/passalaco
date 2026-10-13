@@ -1,0 +1,34 @@
+{
+  "id": 749,
+  "nome_original": "Italiano",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "colete",
+      "camisa",
+      "calça",
+      "faixa"
+    ],
+    "material_visual": "tecido sintético opaco",
+    "estilo_corte": "clássico e reto",
+    "acessorios_visiveis": [
+      "chapéu de aba",
+      "faixa na cintura"
+    ],
+    "tematica_detalhada": "Estereótipo de camponês italiano ou figura folclórica da Itália, remetendo a trajes tradicionais europeus"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/749.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 147.01,
+  "data_analise": "2026-07-28T17:55:47Z",
+  "data_criacao": "2026-07-28T14:55:47.418409-03:00"
+}

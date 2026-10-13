@@ -1,0 +1,30 @@
+{
+  "id": 2213,
+  "nome_original": "Lanterna Verde",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético elástico",
+    "estilo_corte": "justo ao corpo (skinny fit)",
+    "acessorios_visiveis": [
+      "máscara",
+      "emblema no peito"
+    ],
+    "tematica_detalhada": "Super-herói Lanterna Verde da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2213.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 149.41,
+  "data_analise": "2026-07-29T10:05:50Z",
+  "data_criacao": "2026-07-29T07:05:50.278365-03:00"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 9695,
+  "nome_original": "Papai Noel Luxo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "gorro",
+      "peruca",
+      "barba"
+    ],
+    "material_visual": "veludo com acabamentos em pele sintética e detalhes em fios dourados",
+    "estilo_corte": "clássico e volumoso com modelagem folgada",
+    "acessorios_visiveis": [
+      "cinto preto com fivela dourada"
+    ],
+    "tematica_detalhada": "Papai Noel tradicional, personagem icônico do Natal, com versão de luxo devido aos adornos dourados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9695.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.36,
+  "data_analise": "2026-07-30T02:13:53Z",
+  "data_criacao": "2026-07-29T23:13:53.284414-03:00"
+}

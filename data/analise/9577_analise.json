@@ -1,0 +1,31 @@
+{
+  "id": 9577,
+  "nome_original": "Kit Despensorio Gravata e Oculos",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "suspensórios",
+      "gravata borboleta",
+      "óculos"
+    ],
+    "material_visual": "tecido sintético e plástico",
+    "estilo_corte": "estampa geométrica em chevron",
+    "acessorios_visiveis": [
+      "óculos de armação grossa",
+      "gravata borboleta"
+    ],
+    "tematica_detalhada": "Estilo 'nerd' ou 'geek', remetendo a personagens intelectuais, estudantes ou referências retrô"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9577.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 89.55,
+  "data_analise": "2026-07-29T08:17:14Z",
+  "data_criacao": "2026-07-29T05:17:14.107684-03:00"
+}

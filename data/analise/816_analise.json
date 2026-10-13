@@ -1,0 +1,31 @@
+{
+  "id": 816,
+  "nome_original": "Magica",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "cartola",
+      "paletó",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com acabamentos em lurex ou paetês dourados",
+    "estilo_corte": "conjunto infantil com corte reto no paletó e saia curta franzida",
+    "acessorios_visiveis": [
+      "cartola",
+      "gravata borboleta"
+    ],
+    "tematica_detalhada": "Fantasia de mágico ou mestre de cerimônias, com estética circense e cores vibrantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/816.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 520.76,
+  "data_analise": "2026-07-29T16:08:23Z",
+  "data_criacao": "2026-07-29T13:08:23.778541-03:00"
+}

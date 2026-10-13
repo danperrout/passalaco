@@ -1,0 +1,36 @@
+{
+  "id": 9752,
+  "nome_original": "Guerreiro",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "top diagonal",
+      "saia curta",
+      "cinta larga",
+      "protetores de antebraço",
+      "caneleiras",
+      "capa"
+    ],
+    "material_visual": "material sintético com aparência de couro e tecido fluido para a capa",
+    "estilo_corte": "estilo gladiador com cortes assimétricos e ajustados ao corpo",
+    "acessorios_visiveis": [
+      "braceletes",
+      "grevas/caneleiras",
+      "capa"
+    ],
+    "tematica_detalhada": "guerreiro da antiguidade, com fortes referências a gladiadores romanos ou guerreiros espartanos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9752.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 144.32,
+  "data_analise": "2026-07-28T12:02:03Z",
+  "data_criacao": "2026-07-28T09:02:03.373343-03:00"
+}

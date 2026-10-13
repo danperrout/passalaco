@@ -1,0 +1,30 @@
+{
+  "id": 7305,
+  "nome_original": "Goku",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "calça",
+      "camiseta de manga longa"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "estilo arte marcial oriental com fechamento transpassado",
+    "acessorios_visiveis": [
+      "faixa na cintura"
+    ],
+    "tematica_detalhada": "personagem Goku da franquia Dragon Ball, representando o traje de treino da Escola Tartaruga"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7305.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 71.01,
+  "data_analise": "2026-07-28T11:07:01Z",
+  "data_criacao": "2026-07-28T08:07:01.435903-03:00"
+}

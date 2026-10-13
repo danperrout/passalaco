@@ -1,0 +1,29 @@
+{
+  "id": 9521,
+  "nome_original": "Colar Moana",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "azul turquesa",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "colar"
+    ],
+    "material_visual": "contas plásticas, cordão sintético e pingente resinado",
+    "estilo_corte": "estilo rústico com pingente central oval",
+    "acessorios_visiveis": [
+      "pingente do Coração de Te Fiti"
+    ],
+    "tematica_detalhada": "Acessório inspirado na personagem Moana da Disney, especificamente o amuleto do Coração de Te Fiti"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9521.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 27.47,
+  "data_analise": "2026-07-28T00:35:00Z",
+  "data_criacao": "2026-07-27T21:35:00.571910-03:00"
+}

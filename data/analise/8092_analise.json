@@ -1,0 +1,30 @@
+{
+  "id": 8092,
+  "nome_original": "Caveira Mexicana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com fitas coloridas e detalhes em renda",
+    "estilo_corte": "estilo rodado com cintura marcada e decote ombro a ombro",
+    "acessorios_visiveis": [
+      "flor vermelha no cabelo"
+    ],
+    "tematica_detalhada": "Dia de los Muertos (Caveira Mexicana), inspirada na cultura tradicional do México com elementos de Calavera"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8092.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.92,
+  "data_analise": "2026-07-27T19:43:11Z",
+  "data_criacao": "2026-07-27T16:43:11.836973-03:00"
+}

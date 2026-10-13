@@ -1,0 +1,30 @@
+{
+  "id": 5405,
+  "nome_original": "Bob Esponja Sr Sirigueijo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "máscara/cabeça",
+      "blusa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com aspecto brilhante",
+    "estilo_corte": "estilo mascot/fantasia de corpo inteiro",
+    "acessorios_visiveis": [
+      "antenas/olhos saltados"
+    ],
+    "tematica_detalhada": "Personagem Seu Sirigueijo da animação Bob Esponja"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5405.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.19,
+  "data_analise": "2026-07-27T18:16:24Z",
+  "data_criacao": "2026-07-27T15:16:24.791405-03:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 48,
+  "nome_original": "Anos 60",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho",
+    "estilo_corte": "estilo rodado com cintura marcada",
+    "acessorios_visiveis": [
+      "laço de cabelo"
+    ],
+    "tematica_detalhada": "estilo pin-up anos 60"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/48.jpg",
+  "data_analise": "2026-07-27T13:59:18Z"
+}

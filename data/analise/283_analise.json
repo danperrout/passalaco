@@ -1,0 +1,29 @@
+{
+  "id": 283,
+  "nome_original": "Bruxa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "verde oliva"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com aparência de cetim ou poliéster e acabamento rasgado na barra",
+    "estilo_corte": "vestido curto com cintura marcada e barra assimétrica desfiada, chapéu cônico clássico",
+    "acessorios_visiveis": [
+      "chapéu de bruxa"
+    ],
+    "tematica_detalhada": "bruxa clássica e folclórica, com estética gótica e elementos de fantasia sombria"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/283.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.81,
+  "data_analise": "2026-07-27T18:29:53Z",
+  "data_criacao": "2026-07-27T15:29:53.967308-03:00"
+}

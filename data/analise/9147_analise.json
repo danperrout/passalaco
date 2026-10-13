@@ -1,0 +1,30 @@
+{
+  "id": 9147,
+  "nome_original": "Basquete",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "regata de basquete",
+      "shorts",
+      "boné"
+    ],
+    "material_visual": "tecido sintético esportivo",
+    "estilo_corte": "estilo oversized esportivo",
+    "acessorios_visiveis": [
+      "boné"
+    ],
+    "tematica_detalhada": "Jogador de basquete do time Los Angeles Lakers"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9147.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.01,
+  "data_analise": "2026-07-27T17:47:56Z",
+  "data_criacao": "2026-07-27T14:47:56.000234-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 7441,
+  "nome_original": "Patrulha Canina Skye",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "magenta"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético com saia em tule ou chiffon",
+    "estilo_corte": "vestido curto com cintura marcada e capuz pontiagudo",
+    "acessorios_visiveis": [
+      "capuz com detalhes circulares"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Skye da Patrulha Canina, focada na cor rosa característica da personagem"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7441.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 29.34,
+  "data_analise": "2026-07-30T02:48:21Z",
+  "data_criacao": "2026-07-29T23:48:21.330629-03:00"
+}

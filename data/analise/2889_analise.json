@@ -1,0 +1,29 @@
+{
+  "id": 2889,
+  "nome_original": "Coelhinho",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "tiara com orelhas"
+    ],
+    "material_visual": "tecido felpudo sintético imitando pele de coelho",
+    "estilo_corte": "conjunto de duas peças com corte reto e punhos arredondados",
+    "acessorios_visiveis": [
+      "tiara de orelhas de coelho"
+    ],
+    "tematica_detalhada": "fantasia de coelho branco, comumente associada ao Coelho da Páscoa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2889.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 97.74,
+  "data_analise": "2026-07-28T00:30:57Z",
+  "data_criacao": "2026-07-27T21:30:57.013333-03:00"
+}

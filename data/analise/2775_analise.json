@@ -1,0 +1,28 @@
+{
+  "id": 2775,
+  "nome_original": "Eva",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "cinza"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com aplicações de folhas de tecido",
+    "estilo_corte": "vestido curto, sem mangas, com alças finas",
+    "acessorios_visiveis": [
+      "cobra de pelúcia/tecido"
+    ],
+    "tematica_detalhada": "Representação bíblica de Eva no Jardim do Éden, caracterizada por folhas verdes e a presença da serpente"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2775.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 66.37,
+  "data_analise": "2026-07-28T04:19:41Z",
+  "data_criacao": "2026-07-28T01:19:41.488245-03:00"
+}

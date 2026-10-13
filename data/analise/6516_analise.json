@@ -1,0 +1,30 @@
+{
+  "id": 6516,
+  "nome_original": "Pikachu",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético macio, possivelmente plush ou poliéster",
+    "estilo_corte": "estilo kigurumi ou macacão oversized",
+    "acessorios_visiveis": [
+      "luvas",
+      "calçados combinando"
+    ],
+    "tematica_detalhada": "Personagem Pikachu da franquia Pokémon"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6516.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.37,
+  "data_analise": "2026-07-30T03:27:05Z",
+  "data_criacao": "2026-07-30T00:27:05.468913-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 234,
+  "nome_original": "Bela Adormecida",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido com glitter e acabamento metalizado",
+    "estilo_corte": "vestido de baile com saia volumosa e decote arredondado",
+    "acessorios_visiveis": [
+      "tiara dourada"
+    ],
+    "tematica_detalhada": "Fantasia de princesa inspirada na Bela Adormecida, remetendo a contos de fada e realeza"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/234.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 39.3,
+  "data_analise": "2026-07-27T17:55:13Z",
+  "data_criacao": "2026-07-27T14:55:13.588411-03:00"
+}

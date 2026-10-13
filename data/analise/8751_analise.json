@@ -1,0 +1,34 @@
+{
+  "id": 8751,
+  "nome_original": "Casal Circo",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "cartola",
+      "paletó",
+      "colete",
+      "calça",
+      "saia"
+    ],
+    "material_visual": "tecido sintético brilhante, possivelmente cetim ou poliéster",
+    "estilo_corte": "estilo performático de circo, com cortes estruturados e volumosos",
+    "acessorios_visiveis": [
+      "gravata borboleta",
+      "botões decorativos"
+    ],
+    "tematica_detalhada": "Casal de circo clássico, com referências a mestre de cerimônias e artistas de picadeiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8751.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.88,
+  "data_analise": "2026-07-27T19:32:10Z",
+  "data_criacao": "2026-07-27T16:32:10.559174-03:00"
+}

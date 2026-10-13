@@ -1,0 +1,35 @@
+{
+  "id": 2782,
+  "nome_original": "Oncinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "preto",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "corset",
+      "saia",
+      "tiara",
+      "gravata borboleta",
+      "pulseiras"
+    ],
+    "material_visual": "tecido sintético com estampa animal print e tule na saia",
+    "estilo_corte": "estilo corset ajustado com saia curta volumosa",
+    "acessorios_visiveis": [
+      "tiara com orelhas de onça",
+      "gravata borboleta",
+      "braceletes"
+    ],
+    "tematica_detalhada": "fantasia de oncinha com estética estilizada, misturando elementos de animal print com referências a personagens como a Minnie Mouse"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2782.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 64.27,
+  "data_analise": "2026-07-30T00:52:59Z",
+  "data_criacao": "2026-07-29T21:52:59.555995-03:00"
+}

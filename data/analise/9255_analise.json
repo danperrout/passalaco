@@ -1,0 +1,30 @@
+{
+  "id": 9255,
+  "nome_original": "Deusa Grega",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Gregas/Romanos",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido leve e fluido, possivelmente chiffon ou musselina, com apliques bordados",
+    "estilo_corte": "corte império com fenda lateral e decote em V",
+    "acessorios_visiveis": [
+      "tiara dourada",
+      "colar dourado",
+      "bracelete dourado"
+    ],
+    "tematica_detalhada": "Deusa da Mitologia Grega, com referências à estética clássica da Grécia Antiga e divindades como Afrodite ou Hera"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9255.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.07,
+  "data_analise": "2026-07-28T02:57:09Z",
+  "data_criacao": "2026-07-27T23:57:09.613548-03:00"
+}

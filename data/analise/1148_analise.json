@@ -1,0 +1,28 @@
+{
+  "id": 1148,
+  "nome_original": "Exorcista",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa claro",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "camisola"
+    ],
+    "material_visual": "tecido sintético acetinado",
+    "estilo_corte": "estilo camisola vintage com mangas amplas e babados na barra",
+    "acessorios_visiveis": [
+      "peruca preta"
+    ],
+    "tematica_detalhada": "personagem Regan do filme O Exorcista, representando a aparência de possessão demoníaca em trajes de dormir"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1148.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 52.68,
+  "data_analise": "2026-07-28T04:27:04Z",
+  "data_criacao": "2026-07-28T01:27:04.940326-03:00"
+}

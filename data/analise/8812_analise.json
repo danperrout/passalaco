@@ -1,0 +1,29 @@
+{
+  "id": 8812,
+  "nome_original": "Medieval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul petróleo",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "touca/tiara"
+    ],
+    "material_visual": "veludo com detalhes em renda ou bordado metálico e cetim",
+    "estilo_corte": "estilo túnica longa com mangas largas e fenda frontal",
+    "acessorios_visiveis": [
+      "touca coordenada"
+    ],
+    "tematica_detalhada": "fantasia medieval inspirada em nobreza ou realeza, com referências a trajes de gala europeus antigos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8812.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 64.32,
+  "data_analise": "2026-07-29T21:12:50Z",
+  "data_criacao": "2026-07-29T18:12:50.268098-03:00"
+}

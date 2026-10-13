@@ -1,0 +1,33 @@
+{
+  "id": 4969,
+  "nome_original": "Jack Sparrow",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vinho",
+      "preto",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaco longo",
+      "jabot",
+      "chapéu"
+    ],
+    "material_visual": "tecido acetinado com textura metálica ou lurex",
+    "estilo_corte": "estilo colonial com corte reto e detalhes ornamentais",
+    "acessorios_visiveis": [
+      "chapéu tricórnio",
+      "detalhes dourados nos punhos e cintura"
+    ],
+    "tematica_detalhada": "fantasia inspirada em piratas do século XVIII, referenciando personagens como Jack Sparrow ou nobreza náutica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4969.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 57.67,
+  "data_analise": "2026-07-28T18:00:03Z",
+  "data_criacao": "2026-07-28T15:00:03.347322-03:00"
+}

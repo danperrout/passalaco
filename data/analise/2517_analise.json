@@ -1,0 +1,26 @@
+{
+  "id": 2517,
+  "nome_original": "Jaleco",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "jaleco",
+      "calça"
+    ],
+    "material_visual": "tecido sintético ou algodão com aparência fosca",
+    "estilo_corte": "corte reto, comprimento médio, gola colarinho e mangas curtas",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia de profissional de saúde ou ciência, referenciando médicos, enfermeiros, cientistas ou farmacêuticos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2517.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 124.07,
+  "data_analise": "2026-07-28T18:57:15Z",
+  "data_criacao": "2026-07-28T15:57:15.087936-03:00"
+}

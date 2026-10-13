@@ -1,0 +1,28 @@
+{
+  "id": 7335,
+  "nome_original": "Rapunzel",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "lilás"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim e tule",
+    "estilo_corte": "estilo princesa com corpete ajustado e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara dourada"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Rapunzel, da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7335.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.04,
+  "data_analise": "2026-07-30T04:36:29Z",
+  "data_criacao": "2026-07-30T01:36:29.140746-03:00"
+}

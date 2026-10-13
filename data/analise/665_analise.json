@@ -1,0 +1,29 @@
+{
+  "id": 665,
+  "nome_original": "Gatinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule e tecido sintético",
+    "estilo_corte": "vestido curto com saia volumosa de tule",
+    "acessorios_visiveis": [
+      "tiara com laço",
+      "laços nos ombros"
+    ],
+    "tematica_detalhada": "fantasia de gatinha estilizada, com estampas de patinhas e elementos delicados em rosa e branco"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/665.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 182.28,
+  "data_analise": "2026-07-28T07:29:19Z",
+  "data_criacao": "2026-07-28T04:29:19.362356-03:00"
+}

@@ -1,0 +1,35 @@
+{
+  "id": 3379,
+  "nome_original": "Colete",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul",
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "camisa",
+      "colete",
+      "calça"
+    ],
+    "material_visual": "tecido sintético colorido com detalhes em renda ou franjas brancas",
+    "estilo_corte": "estilo regional com colete aberto e corte reto na calça",
+    "acessorios_visiveis": [
+      "chapéu de palha",
+      "gravata colorida",
+      "medalhão dourado"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na cultura mexicana, remetendo a trajes típicos de Mariachi ou festas regionais do México"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3379.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 57.39,
+  "data_analise": "2026-07-28T00:44:44Z",
+  "data_criacao": "2026-07-27T21:44:44.306605-03:00"
+}

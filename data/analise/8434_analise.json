@@ -1,0 +1,30 @@
+{
+  "id": 8434,
+  "nome_original": "Palhacinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "verde",
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule e tecido sintético",
+    "estilo_corte": "vestido curto com saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "tiara colorida com pompons"
+    ],
+    "tematica_detalhada": "fantasia de palhaço infantil, caracterizada por cores vibrantes, estampa de bolinhas (polka dots) e elementos lúdicos de circo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8434.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 38.97,
+  "data_analise": "2026-07-30T01:29:51Z",
+  "data_criacao": "2026-07-29T22:29:51.200531-03:00"
+}

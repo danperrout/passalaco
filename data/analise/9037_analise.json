@@ -1,0 +1,32 @@
+{
+  "id": 9037,
+  "nome_original": "Noiva",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "véu"
+    ],
+    "material_visual": "renda, cetim e tule",
+    "estilo_corte": "estilo boneca com saia curta volumosa em camadas e mangas bufantes",
+    "acessorios_visiveis": [
+      "véu",
+      "tiara de flores",
+      "buquê de flores vermelhas",
+      "laços vermelhos"
+    ],
+    "tematica_detalhada": "Noiva estilizada com toque romântico e contrastante, remetendo a fantasias de festas temáticas ou personagens de anime/lolita"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9037.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 37.04,
+  "data_analise": "2026-07-30T00:06:46Z",
+  "data_criacao": "2026-07-29T21:06:46.753080-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 9429,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "saia"
+    ],
+    "material_visual": "tecido sintético estampado com acabamentos em renda e babados",
+    "estilo_corte": "estilo caipira com saia rodada em camadas e top ajustado",
+    "acessorios_visiveis": [
+      "tiara de girassol"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina, representando a estética camponesa/caipira tradicional do folclore brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9429.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 27.75,
+  "data_analise": "2026-07-29T01:29:51Z",
+  "data_criacao": "2026-07-28T22:29:51.176855-03:00"
+}

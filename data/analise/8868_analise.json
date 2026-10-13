@@ -1,0 +1,29 @@
+{
+  "id": 8868,
+  "nome_original": "Vampira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "casaco longo"
+    ],
+    "material_visual": "veludo e cetim",
+    "estilo_corte": "estilo vitoriano com gola alta estruturada, cintura ajustada por cordões e fenda frontal",
+    "acessorios_visiveis": [
+      "laços decorativos nas mangas"
+    ],
+    "tematica_detalhada": "Vampira gótica clássica com referências à moda aristocrática vitoriana"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8868.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.55,
+  "data_analise": "2026-07-30T08:46:57Z",
+  "data_criacao": "2026-07-30T05:46:57.913255-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 6008,
+  "nome_original": "Thundercats Willykit",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "touca/máscara",
+      "botas"
+    ],
+    "material_visual": "tecido sintético com detalhes em pelúcia",
+    "estilo_corte": "vestido curto com divisão vertical de cores e corte reto",
+    "acessorios_visiveis": [
+      "cinto com fivela circular",
+      "punhos/braceletes"
+    ],
+    "tematica_detalhada": "Personagem WilyKit da animação Thundercats, representando uma raça felina humanoide"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6008.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 67.15,
+  "data_analise": "2026-07-30T08:02:46Z",
+  "data_criacao": "2026-07-30T05:02:46.348562-03:00"
+}

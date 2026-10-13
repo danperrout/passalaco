@@ -1,0 +1,29 @@
+{
+  "id": 2484,
+  "nome_original": "Barney",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "lilás"
+    ],
+    "pecas_inclusas": [
+      "vestido/túnica",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético com textura felpuda ou plush",
+    "estilo_corte": "estilo túnica solta com corte reto e comprimento médio",
+    "acessorios_visiveis": [
+      "peruca cacheada"
+    ],
+    "tematica_detalhada": "Personagem Barney, o Dinossauro, referenciando o programa infantil educativo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2484.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.53,
+  "data_analise": "2026-07-27T17:47:35Z",
+  "data_criacao": "2026-07-27T14:47:35.232799-03:00"
+}

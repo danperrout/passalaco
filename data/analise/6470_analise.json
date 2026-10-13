@@ -1,0 +1,30 @@
+{
+  "id": 6470,
+  "nome_original": "Sophia",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "branco",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante com detalhes em renda e pedraria",
+    "estilo_corte": "vestido de baile com cintura marcada, mangas curtas bufantes e saia evasê",
+    "acessorios_visiveis": [
+      "tiara",
+      "colar com pedra roxa"
+    ],
+    "tematica_detalhada": "fantasia de princesa, fortemente inspirada na personagem Princesa Sofia (Sofia the First) da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6470.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.07,
+  "data_analise": "2026-07-30T07:15:15Z",
+  "data_criacao": "2026-07-30T04:15:15.585395-03:00"
+}

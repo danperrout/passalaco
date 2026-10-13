@@ -1,0 +1,28 @@
+{
+  "id": 9349,
+  "nome_original": "Coroa Guardada",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prata",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "tiara"
+    ],
+    "material_visual": "metal prateado com incrustações de cristais ou strass",
+    "estilo_corte": "estilo coroa clássica com pontas ornamentadas e base arredondada",
+    "acessorios_visiveis": [
+      "coroa"
+    ],
+    "tematica_detalhada": "realeza, noiva ou fantasia de princesa, referenciando monarquia e elegância"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9349.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.43,
+  "data_analise": "2026-07-28T01:45:03Z",
+  "data_criacao": "2026-07-27T22:45:03.635185-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 2399,
+  "nome_original": "Dalmata",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara/faixa de cabeça"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco",
+    "estilo_corte": "vestido curto com corte assimétrico e mangas curtas bufantes",
+    "acessorios_visiveis": [
+      "broche decorativo",
+      "tiara com babados"
+    ],
+    "tematica_detalhada": "fantasia de dálmata, utilizando estampa de poá para simular as manchas do cão, com referências ao personagem Cruella de Vil devido ao contraste bicolor"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2399.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.41,
+  "data_analise": "2026-07-28T02:24:21Z",
+  "data_criacao": "2026-07-27T23:24:21.182942-03:00"
+}

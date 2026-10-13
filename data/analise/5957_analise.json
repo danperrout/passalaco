@@ -1,0 +1,33 @@
+{
+  "id": 5957,
+  "nome_original": "Tartaruga Ninja",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "marrom",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "plastron (peitoral)",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético elastano e material sintético rígido no peitoral",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "máscara ocular",
+      "braceletes",
+      "caneleiras"
+    ],
+    "tematica_detalhada": "Tartarugas Ninja, referenciando o personagem Michelangelo devido à cor da máscara"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5957.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.12,
+  "data_analise": "2026-07-30T07:40:29Z",
+  "data_criacao": "2026-07-30T04:40:29.035373-03:00"
+}

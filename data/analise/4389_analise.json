@@ -1,0 +1,31 @@
+{
+  "id": 4389,
+  "nome_original": "Piloto",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "boné"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "ajustado ao corpo com gola alta e cintura marcada",
+    "acessorios_visiveis": [
+      "boné",
+      "cinto branco",
+      "patches decorativos"
+    ],
+    "tematica_detalhada": "Piloto de corrida automobilística, com referências visuais a equipes de Fórmula 1"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4389.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.12,
+  "data_analise": "2026-07-30T03:29:12Z",
+  "data_criacao": "2026-07-30T00:29:12.145939-03:00"
+}

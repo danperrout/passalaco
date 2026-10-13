@@ -1,0 +1,30 @@
+{
+  "id": 9293,
+  "nome_original": "Casal Anos 70",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "multicolorido"
+    ],
+    "pecas_inclusas": [
+      "camisas florais",
+      "calças boca de sino",
+      "lenços de cabeça"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente poliéster ou cetim",
+    "estilo_corte": "estilo hippie com calças flare e blusas soltas",
+    "acessorios_visiveis": [
+      "lenços amarrados na cabeça"
+    ],
+    "tematica_detalhada": "Casal anos 70, referência ao movimento hippie e à moda disco com estampas psicodélicas e florais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9293.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.14,
+  "data_analise": "2026-07-27T19:30:35Z",
+  "data_criacao": "2026-07-27T16:30:35.529430-03:00"
+}

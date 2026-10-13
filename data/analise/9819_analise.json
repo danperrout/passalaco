@@ -1,0 +1,28 @@
+{
+  "id": 9819,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido leve com estampa de bolinhas e detalhes em renda/babados",
+    "estilo_corte": "corte evasê com saia volumosa em camadas e mangas bufantes",
+    "acessorios_visiveis": [
+      "tiara com laço"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina infantil/feminina, representando a figura da 'noivinha' ou 'caipira estilizada' com estética romântica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9819.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 19.8,
+  "data_analise": "2026-07-29T01:43:46Z",
+  "data_criacao": "2026-07-28T22:43:46.702066-03:00"
+}

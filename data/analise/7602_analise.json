@@ -1,0 +1,32 @@
+{
+  "id": 7602,
+  "nome_original": "Boneco Urso",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "bege",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "camisa xadrez",
+      "calça escura",
+      "chapéu de palha",
+      "fantasia de urso"
+    ],
+    "material_visual": "tecido xadrez, palha natural e pelúcia sintética",
+    "estilo_corte": "estilo camponês com sobreposição de fantasia de animal na parte inferior",
+    "acessorios_visiveis": [
+      "chapéu de palha"
+    ],
+    "tematica_detalhada": "combinação inusitada de camponês/fazendeiro com um boneco urso, sugerindo um tema lúdico ou surrealista"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7602.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.3,
+  "data_analise": "2026-07-27T18:18:53Z",
+  "data_criacao": "2026-07-27T15:18:53.307688-03:00"
+}

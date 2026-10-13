@@ -1,0 +1,27 @@
+{
+  "id": 7511,
+  "nome_original": "Paleto",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "paletó"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte reto com lapela clássica",
+    "acessorios_visiveis": [
+      "peruca preta"
+    ],
+    "tematica_detalhada": "fantasia de personagem formal ou excêntrico, possivelmente referenciando estilos retro ou figuras cômicas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7511.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.39,
+  "data_analise": "2026-07-30T01:26:56Z",
+  "data_criacao": "2026-07-29T22:26:56.585654-03:00"
+}

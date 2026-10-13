@@ -1,0 +1,33 @@
+{
+  "id": 409,
+  "nome_original": "Cigano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "camisa",
+      "calça",
+      "lenço de cabeça"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster",
+    "estilo_corte": "corte solto com calça estilo bufante e colete reto",
+    "acessorios_visiveis": [
+      "lenço vermelho na cabeça",
+      "faixa vermelha na cintura"
+    ],
+    "tematica_detalhada": "fantasia de cigano masculino, com referências a trajes folclóricos tradicionais e roupas de época"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/409.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 103.34,
+  "data_analise": "2026-07-27T22:14:34Z",
+  "data_criacao": "2026-07-27T19:14:34.003104-03:00"
+}

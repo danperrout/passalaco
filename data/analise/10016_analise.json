@@ -1,0 +1,27 @@
+{
+  "id": 10016,
+  "nome_original": "Mascote Sonic",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão completo",
+      "máscara de cabeça"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "estilo mascote oversized",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "personagem Sonic the Hedgehog, icônico ouriço azul da franquia de videogames da SEGA"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10016.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 149.67,
+  "data_analise": "2026-07-29T20:28:09Z",
+  "data_criacao": "2026-07-29T17:28:09.056445-03:00"
+}

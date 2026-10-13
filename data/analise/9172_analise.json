@@ -1,0 +1,28 @@
+{
+  "id": 9172,
+  "nome_original": "Mascara",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Máscaras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "multicolorido",
+      "vinho"
+    ],
+    "pecas_inclusas": [
+      "máscara de olhos"
+    ],
+    "material_visual": "sequins e tecido sintético",
+    "estilo_corte": "máscara veneziana de meia face",
+    "acessorios_visiveis": [
+      "flor de tecido decorativa"
+    ],
+    "tematica_detalhada": "fantasia de baile de máscaras ou carnaval, com estilo festivo e glamouroso"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9172.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.61,
+  "data_analise": "2026-07-29T18:47:30Z",
+  "data_criacao": "2026-07-29T15:47:30.046886-03:00"
+}

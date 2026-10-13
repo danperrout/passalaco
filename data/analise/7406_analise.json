@@ -1,0 +1,29 @@
+{
+  "id": 7406,
+  "nome_original": "Masha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "magenta",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "lenço de cabeça"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante e detalhes em glitter",
+    "estilo_corte": "vestido reto estilo jumper com alças, sobreposto a uma camisa branca",
+    "acessorios_visiveis": [
+      "lenço (babushka)"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Masha, do desenho 'Masha e o Urso', inspirada no traje tradicional camponês russo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7406.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 261.22,
+  "data_analise": "2026-07-29T20:41:41Z",
+  "data_criacao": "2026-07-29T17:41:41.549315-03:00"
+}

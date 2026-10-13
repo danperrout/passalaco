@@ -1,0 +1,32 @@
+{
+  "id": 9317,
+  "nome_original": "Power Ranger Vermelho",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara",
+      "luvas",
+      "cinto"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente elastano ou poliéster",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "cinto com fivela dourada",
+      "máscara facial"
+    ],
+    "tematica_detalhada": "Power Ranger Vermelho, personagem da franquia Mighty Morphin Power Rangers, inspirada no gênero Super Sentai"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9317.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.28,
+  "data_analise": "2026-07-30T03:52:29Z",
+  "data_criacao": "2026-07-30T00:52:29.329607-03:00"
+}

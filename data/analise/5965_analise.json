@@ -1,0 +1,33 @@
+{
+  "id": 5965,
+  "nome_original": "Lanterna Verde",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "macacão",
+      "botas"
+    ],
+    "material_visual": "tecido sintético com aparência de lycra ou poliéster",
+    "estilo_corte": "ajustado ao corpo (slim fit) com detalhes acolchoados simulando musculatura abdominal",
+    "acessorios_visiveis": [
+      "máscara ocular",
+      "luvas brancas",
+      "logotipo do Lanterna Verde no peito"
+    ],
+    "tematica_detalhada": "Super-herói da DC Comics, especificamente o personagem Lanterna Verde"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5965.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 105.01,
+  "data_analise": "2026-07-29T09:56:58Z",
+  "data_criacao": "2026-07-29T06:56:58.603403-03:00"
+}

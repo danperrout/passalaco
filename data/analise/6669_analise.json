@@ -1,0 +1,26 @@
+{
+  "id": 6669,
+  "nome_original": "Peruca Morticia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "peruca"
+    ],
+    "material_visual": "fibra sintética",
+    "estilo_corte": "longo, liso, com divisão central e mechas claras frontais",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Inspirada na personagem Morticia Addams da Família Addams, com estética gótica e macabra"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6669.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.31,
+  "data_analise": "2026-07-30T03:20:58Z",
+  "data_criacao": "2026-07-30T00:20:58.229102-03:00"
+}

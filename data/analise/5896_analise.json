@@ -1,0 +1,29 @@
+{
+  "id": 5896,
+  "nome_original": "Junina Mf",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampa de poá e detalhes em renda/cetim",
+    "estilo_corte": "estilo caipira com saia rodada e babados",
+    "acessorios_visiveis": [
+      "tiara com flores",
+      "cinto decorativo com flores"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, representando a vestimenta tradicional estilizada de caipira"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5896.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 36.11,
+  "data_analise": "2026-07-29T06:40:05Z",
+  "data_criacao": "2026-07-29T03:40:05.499336-03:00"
+}

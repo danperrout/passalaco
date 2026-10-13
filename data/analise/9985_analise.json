@@ -1,0 +1,29 @@
+{
+  "id": 9985,
+  "nome_original": "Arlequina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "top/corpo",
+      "saia"
+    ],
+    "material_visual": "tecido opaco, possivelmente cetim ou poliéster, com detalhes em renda e acabamento em pompons",
+    "estilo_corte": "ajustado no busto com saia evasê curta e detalhes de cor contrastante em padrão de diamantes",
+    "acessorios_visiveis": [
+      "tiara com orelhas"
+    ],
+    "tematica_detalhada": "Arlequina/Harley Quinn (estilo batedor/jester)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9985.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 10.46,
+  "data_analise": "2026-07-27T16:53:52Z",
+  "data_criacao": "2026-07-27T13:53:52.997615-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 8767,
+  "nome_original": "Mae e Fillha Chapeuzinho Vermelho",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz",
+      "corpete",
+      "saia"
+    ],
+    "material_visual": "cetim e renda",
+    "estilo_corte": "estilo camponesa europeia com corpete ajustado",
+    "acessorios_visiveis": [
+      "laço de amarração",
+      "detalhes em dourado"
+    ],
+    "tematica_detalhada": "Fantasia coordenada de mãe e filha baseada na personagem de contos de fadas Chapeuzinho Vermelho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8767.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 529.1,
+  "data_analise": "2026-07-29T15:32:41Z",
+  "data_criacao": "2026-07-29T12:32:41.756325-03:00"
+}

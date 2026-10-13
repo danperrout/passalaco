@@ -1,0 +1,28 @@
+{
+  "id": 1761,
+  "nome_original": "Noiva",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com rendas e babados",
+    "estilo_corte": "corte evasê com saia volumosa e mangas curtas bufantes",
+    "acessorios_visiveis": [
+      "tiara de cabelo"
+    ],
+    "tematica_detalhada": "fantasia de noiva estilizada com estética infantil ou festiva, utilizando cores pastéis"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1761.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 37.12,
+  "data_analise": "2026-07-29T23:58:59Z",
+  "data_criacao": "2026-07-29T20:58:59.438737-03:00"
+}

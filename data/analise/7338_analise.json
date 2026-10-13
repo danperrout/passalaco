@@ -1,0 +1,30 @@
+{
+  "id": 7338,
+  "nome_original": "Piloto",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "boné"
+    ],
+    "material_visual": "tecido sintético brilhante, possivelmente poliéster",
+    "estilo_corte": "macacão de peça única com gola alta e corte reto",
+    "acessorios_visiveis": [
+      "boné",
+      "cinto com estampa de bandeira quadriculada"
+    ],
+    "tematica_detalhada": "Piloto de corrida inspirado no personagem Relâmpago McQueen do filme Carros, evidenciado pela cor vermelha e o número 95"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7338.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 22.89,
+  "data_analise": "2026-07-30T03:29:35Z",
+  "data_criacao": "2026-07-30T00:29:35.298363-03:00"
+}

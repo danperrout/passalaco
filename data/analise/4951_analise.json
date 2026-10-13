@@ -1,0 +1,27 @@
+{
+  "id": 4951,
+  "nome_original": "Bailarina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule e tecido acetinado com detalhes brilhantes",
+    "estilo_corte": "vestido de alças finas com saia rodada em camadas de tule",
+    "acessorios_visiveis": [
+      "nenhum"
+    ],
+    "tematica_detalhada": "fantasia de bailarina clássica, inspirada em tutus de balé"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4951.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 9.73,
+  "data_analise": "2026-07-27T16:59:53Z",
+  "data_criacao": "2026-07-27T13:59:53.120798-03:00"
+}

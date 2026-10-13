@@ -1,0 +1,29 @@
+{
+  "id": 3291,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "rosa",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com aplicações florais em relevo",
+    "estilo_corte": "tomara-que-caia com saia rodada e volumosa",
+    "acessorios_visiveis": [
+      "mini chapéu de palha decorado"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina estilizada, com referências ao traje caipira tradicional, porém com abordagem moderna e feminilizada através de flores e corte ajustado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3291.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 53.7,
+  "data_analise": "2026-07-28T22:53:56Z",
+  "data_criacao": "2026-07-28T19:53:56.082352-03:00"
+}

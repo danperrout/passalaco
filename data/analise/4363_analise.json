@@ -1,0 +1,30 @@
+{
+  "id": 4363,
+  "nome_original": "Jaqueta, Calça e Chapeu",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "calça"
+    ],
+    "material_visual": "material sintético com aspecto de couro/vinil",
+    "estilo_corte": "estilo jaqueta biker com lapelas largas e corte ajustado",
+    "acessorios_visiveis": [
+      "cinto com fivela dourada",
+      "zíperes decorativos"
+    ],
+    "tematica_detalhada": "estilo rockeiro ou motociclista, remetendo à subcultura punk ou personagens rebeldes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4363.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 130.98,
+  "data_analise": "2026-07-28T19:17:54Z",
+  "data_criacao": "2026-07-28T16:17:54.004066-03:00"
+}

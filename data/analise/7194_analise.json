@@ -1,0 +1,28 @@
+{
+  "id": 7194,
+  "nome_original": "Mascara",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "máscara de cabeça"
+    ],
+    "material_visual": "tecido felpudo ou pelúcia",
+    "estilo_corte": "modelo integral de cabeça com chifre",
+    "acessorios_visiveis": [
+      "chifre espiralado"
+    ],
+    "tematica_detalhada": "fantasia de unicórnio, referenciando criaturas mitológicas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7194.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.58,
+  "data_analise": "2026-07-29T18:40:11Z",
+  "data_criacao": "2026-07-29T15:40:11.974929-03:00"
+}

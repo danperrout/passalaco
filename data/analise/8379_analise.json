@@ -1,0 +1,29 @@
+{
+  "id": 8379,
+  "nome_original": "Bruxa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "vestido"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou cetim",
+    "estilo_corte": "vestido longo com busto destacado em vermelho e chapéu cônico clássico",
+    "acessorios_visiveis": [
+      "chapéu de bruxa"
+    ],
+    "tematica_detalhada": "bruxa clássica, referência tradicional a personagens de contos de fadas e Halloween"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8379.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 22.69,
+  "data_analise": "2026-07-27T18:26:05Z",
+  "data_criacao": "2026-07-27T15:26:05.300506-03:00"
+}

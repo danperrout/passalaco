@@ -1,0 +1,28 @@
+{
+  "id": 9599,
+  "nome_original": "Pet Abelha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim, tule e detalhes em material sintético brilhante",
+    "estilo_corte": "modelo baby doll com saia volumosa em tule",
+    "acessorios_visiveis": [
+      "asinhas decorativas"
+    ],
+    "tematica_detalhada": "fantasia de joaninha, caracterizada pelas cores vermelha e preta com estampa de bolinhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9599.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.18,
+  "data_analise": "2026-07-30T03:22:39Z",
+  "data_criacao": "2026-07-30T00:22:39.376503-03:00"
+}

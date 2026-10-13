@@ -1,0 +1,32 @@
+{
+  "id": 8456,
+  "nome_original": "Palhacinho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Circo",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "cartola",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado na calça e tecido plano na camisa",
+    "estilo_corte": "estilo bufante na calça com suspensórios e camisa de corte reto",
+    "acessorios_visiveis": [
+      "cartola",
+      "gravata borboleta"
+    ],
+    "tematica_detalhada": "fantasia de palhaço clássico e circense, caracterizada por cores vibrantes e estampa de bolinhas (polka dots)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8456.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.32,
+  "data_analise": "2026-07-30T01:47:11Z",
+  "data_criacao": "2026-07-29T22:47:11.471468-03:00"
+}

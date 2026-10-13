@@ -1,0 +1,32 @@
+{
+  "id": 8240,
+  "nome_original": "Kit Gangster",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "prateado"
+    ],
+    "pecas_inclusas": [
+      "colar com pingente de pantera",
+      "colar com pingente de cifrão",
+      "pulseira"
+    ],
+    "material_visual": "metal brilhante com aplicação de strass ou cristais",
+    "estilo_corte": "correntes grossas estilo elos",
+    "acessorios_visiveis": [
+      "colar de pantera",
+      "colar de cifrão",
+      "pulseira cravejada"
+    ],
+    "tematica_detalhada": "estética Gangster/Hip-Hop, referenciando a cultura do ostentação e 'bling-bling' do rap americano"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8240.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 53.73,
+  "data_analise": "2026-07-29T08:18:08Z",
+  "data_criacao": "2026-07-29T05:18:08.325508-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 6555,
+  "nome_original": "Congado",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "multicolorido"
+    ],
+    "pecas_inclusas": [
+      "coroa com fitas"
+    ],
+    "material_visual": "plástico metalizado, cetim e pedrarias sintéticas",
+    "estilo_corte": "circular com adornos em relevo e fitas pendentes",
+    "acessorios_visiveis": [
+      "pedras coloridas",
+      "fitas de cetim"
+    ],
+    "tematica_detalhada": "Referência ao Congado, manifestação cultural e religiosa afro-brasileira que celebra a coroação de reis e rainhas do Congo."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6555.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 37.98,
+  "data_analise": "2026-07-28T01:32:22Z",
+  "data_criacao": "2026-07-27T22:32:22.908209-03:00"
+}

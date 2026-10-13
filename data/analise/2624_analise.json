@@ -1,0 +1,28 @@
+{
+  "id": 2624,
+  "nome_original": "Elvis",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "macacão"
+    ],
+    "material_visual": "tecido sintético com brilho e apliques bordados",
+    "estilo_corte": "estilo jumpsuit com gola alta e pernas largas",
+    "acessorios_visiveis": [
+      "cinto branco com fivela ornamentada"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no Rei do Rock, Elvis Presley, especificamente em seus trajes de palco da fase Las Vegas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2624.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.93,
+  "data_analise": "2026-07-28T03:40:52Z",
+  "data_criacao": "2026-07-28T00:40:52.892406-03:00"
+}

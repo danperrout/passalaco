@@ -1,0 +1,28 @@
+{
+  "id": 9267,
+  "nome_original": "Tio Chico",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "ocre"
+    ],
+    "pecas_inclusas": [
+      "sobretudo longo"
+    ],
+    "material_visual": "tecido aveludado ou camurça sintética",
+    "estilo_corte": "corte reto e longo, com botões frontais e bolsos laterais",
+    "acessorios_visiveis": [
+      "botões pretos"
+    ],
+    "tematica_detalhada": "fantasia de personagem masculino maduro, com estética de 'tio' ou figura paternal clássica, remetendo a vestimentas vintage ou caseiras"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9267.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 19.13,
+  "data_analise": "2026-07-30T08:30:11Z",
+  "data_criacao": "2026-07-30T05:30:11.812170-03:00"
+}

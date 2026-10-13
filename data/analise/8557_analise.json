@@ -1,0 +1,29 @@
+{
+  "id": 8557,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "paetês, franjas metálicas e tecido sintético",
+    "estilo_corte": "conjunto de duas peças com corte curto e ajuste ao corpo",
+    "acessorios_visiveis": [
+      "tiara com borboletas decorativas"
+    ],
+    "tematica_detalhada": "fantasia de carnaval temática de borboletas, focada em estética brilhante e festiva"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8557.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.6,
+  "data_analise": "2026-07-27T19:20:59Z",
+  "data_criacao": "2026-07-27T16:20:59.748723-03:00"
+}

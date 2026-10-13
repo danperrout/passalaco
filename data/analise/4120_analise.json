@@ -1,0 +1,30 @@
+{
+  "id": 4120,
+  "nome_original": "Nega Maluca",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético com estampa de bolinhas",
+    "estilo_corte": "vestido curto com gola larga e babados",
+    "acessorios_visiveis": [
+      "peruca black power com detalhes vermelhos"
+    ],
+    "tematica_detalhada": "Fantasia de Nega Maluca, personagem folclórica e caricata do carnaval brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4120.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.64,
+  "data_analise": "2026-07-29T23:33:11Z",
+  "data_criacao": "2026-07-29T20:33:11.382735-03:00"
+}

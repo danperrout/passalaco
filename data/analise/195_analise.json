@@ -1,0 +1,28 @@
+{
+  "id": 195,
+  "nome_original": "Barbie",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule e cetim com detalhes brilhantes no corpete",
+    "estilo_corte": "estilo princesa com corpete ajustado e saia volumosa rodada",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "Barbie Princesa, referência a contos de fada e estética glamourosa da marca Barbie"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/195.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.85,
+  "data_analise": "2026-07-27T17:46:38Z",
+  "data_criacao": "2026-07-27T14:46:38.918772-03:00"
+}

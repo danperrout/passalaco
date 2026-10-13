@@ -1,0 +1,28 @@
+{
+  "id": 4008,
+  "nome_original": "Capa",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "capa"
+    ],
+    "material_visual": "tecido sintético com aspecto acetinado",
+    "estilo_corte": "capa longa com forro contrastante e fechamento frontal",
+    "acessorios_visiveis": [
+      "cordão de fechamento"
+    ],
+    "tematica_detalhada": "fantasia clássica de vampiro, Drácula ou mago, com referências ao gótico e horror clássico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4008.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 30.65,
+  "data_analise": "2026-07-27T18:55:52Z",
+  "data_criacao": "2026-07-27T15:55:52.417089-03:00"
+}

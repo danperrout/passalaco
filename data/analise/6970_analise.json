@@ -1,0 +1,27 @@
+{
+  "id": 6970,
+  "nome_original": "Carimbo e Aces.",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou nylon",
+    "estilo_corte": "blusa estilo ombro a ombro com babado e saia longa rodada",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia feminina festiva com cores vibrantes, remetendo a estilos camponesa moderna ou personagens de festas temáticas coloridas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6970.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.34,
+  "data_analise": "2026-07-27T19:19:56Z",
+  "data_criacao": "2026-07-27T16:19:56.201723-03:00"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 8799,
+  "nome_original": "Gangster",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Preto",
+      "Branco"
+    ],
+    "pecas_inclusas": [
+      "Vestido de franjas",
+      "Camisa social",
+      "Calça social",
+      "Suspensórios",
+      "Gravata",
+      "Chapéu Fedora"
+    ],
+    "material_visual": "Tecido sintético com franjas, cetim e feltro",
+    "estilo_corte": "Estilo anos 20 (Melindrosa e Gangster)",
+    "acessorios_visiveis": [
+      "Tiaras com pluma",
+      "Boa de plumas",
+      "Colar de pérolas",
+      "Luvas longas"
+    ],
+    "tematica_detalhada": "Casal de Gangster e Melindrosa, referenciando a Era da Lei Seca nos Estados Unidos dos anos 1920"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8799.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 160.12,
+  "data_analise": "2026-07-28T06:57:33Z",
+  "data_criacao": "2026-07-28T03:57:33.593165-03:00"
+}

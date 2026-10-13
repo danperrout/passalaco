@@ -1,0 +1,31 @@
+{
+  "id": 9150,
+  "nome_original": "Carnaval",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "gravata borboleta",
+      "calça"
+    ],
+    "material_visual": "tecido sintético e adornos metálicos",
+    "estilo_corte": "ajustado ao corpo com torso nu",
+    "acessorios_visiveis": [
+      "quepe militar ornamentado",
+      "gravata borboleta"
+    ],
+    "tematica_detalhada": "fantasia estilizada de capitão ou oficial militar, com estética de carnaval ou festa temática"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9150.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.33,
+  "data_analise": "2026-07-27T19:24:08Z",
+  "data_criacao": "2026-07-27T16:24:08.044619-03:00"
+}

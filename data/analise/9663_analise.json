@@ -1,0 +1,29 @@
+{
+  "id": 9663,
+  "nome_original": "Princesa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "roxo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule, cetim e tecido sintético com brilhos",
+    "estilo_corte": "estilo princesa com corpete ajustado e saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "tiara com pluma rosa"
+    ],
+    "tematica_detalhada": "fantasia de princesa clássica e fantasiosa, com estética inspirada em contos de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9663.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.95,
+  "data_analise": "2026-07-30T03:59:06Z",
+  "data_criacao": "2026-07-30T00:59:06.688658-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 5808,
+  "nome_original": "Suspensórioe Gravata",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "suspensório"
+    ],
+    "material_visual": "tecido elástico com textura de micro-estampa",
+    "estilo_corte": "modelo em Y com reguladores metálicos",
+    "acessorios_visiveis": [
+      "presilhas metálicas",
+      "reguladores de tamanho"
+    ],
+    "tematica_detalhada": "estilo clássico/vintage, frequentemente utilizado em fantasias de executivo, gângster dos anos 20 ou trajes formais retrô"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5808.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 162.1,
+  "data_analise": "2026-07-30T07:38:27Z",
+  "data_criacao": "2026-07-30T04:38:27.746610-03:00"
+}

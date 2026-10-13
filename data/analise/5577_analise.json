@@ -1,0 +1,33 @@
+{
+  "id": 5577,
+  "nome_original": "Kiko",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "camisa estilo marinheiro",
+      "shorta",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco",
+    "estilo_corte": "corte solto e reto, com gola marinheiro quadrada",
+    "acessorios_visiveis": [
+      "gravata vermelha",
+      "chapéu amarelo"
+    ],
+    "tematica_detalhada": "fantasia do personagem Kiko, do seriado Chaves, inspirada em um traje de marinheiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5577.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.74,
+  "data_analise": "2026-07-29T08:10:23Z",
+  "data_criacao": "2026-07-29T05:10:23.064661-03:00"
+}

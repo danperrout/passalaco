@@ -1,0 +1,29 @@
+{
+  "id": 9784,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prateado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "corpo ornamentado",
+      "máscara"
+    ],
+    "material_visual": "paetês, cristais e tecidos metalizados",
+    "estilo_corte": "justo ao corpo com acabamento em franjas de brilho",
+    "acessorios_visiveis": [
+      "máscara de carnaval ornamentada"
+    ],
+    "tematica_detalhada": "Carnaval de luxo, com referências a passistas de escola de samba ou baile de máscaras sofisticado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9784.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.51,
+  "data_analise": "2026-07-27T19:24:43Z",
+  "data_criacao": "2026-07-27T16:24:43.519031-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 6607,
+  "nome_original": "Rainha das Trevas",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "tiara de chifres"
+    ],
+    "material_visual": "material sintético com aspecto de couro ou vinil e detalhes em paetês",
+    "estilo_corte": "corte sereia com fenda frontal, ombros decotados e mangas longas amplas",
+    "acessorios_visiveis": [
+      "tiara com chifres",
+      "gola alta"
+    ],
+    "tematica_detalhada": "fantasia de vilã inspirada na personagem Malévola, com elementos góticos e sombrios"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6607.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 33.79,
+  "data_analise": "2026-07-30T04:22:53Z",
+  "data_criacao": "2026-07-30T01:22:53.504470-03:00"
+}

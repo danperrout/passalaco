@@ -1,0 +1,31 @@
+{
+  "id": 7881,
+  "nome_original": "Poderoso Chefinho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "terno infantil clássico",
+    "acessorios_visiveis": [
+      "gravata",
+      "lenço de bolso"
+    ],
+    "tematica_detalhada": "Fantasia baseada no personagem Poderoso Chefinho, simulando um executivo em miniatura."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7881.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.23,
+  "data_analise": "2026-07-30T03:43:43Z",
+  "data_criacao": "2026-07-30T00:43:43.987117-03:00"
+}

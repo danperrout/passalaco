@@ -1,0 +1,29 @@
+{
+  "id": 7836,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "arco-íris",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "touca/estilo cocar"
+    ],
+    "material_visual": "tule e penas",
+    "estilo_corte": "estilo baile com saia volumosa e armada",
+    "acessorios_visiveis": [
+      "adorno de cabeça colorido"
+    ],
+    "tematica_detalhada": "fantasia festiva de carnaval com estética multicolorida, remetendo a celebrações vibrantes e alegria"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7836.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.61,
+  "data_analise": "2026-07-27T19:21:33Z",
+  "data_criacao": "2026-07-27T16:21:33.021259-03:00"
+}

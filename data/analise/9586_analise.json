@@ -1,0 +1,28 @@
+{
+  "id": 9586,
+  "nome_original": "Tiara Fantasma",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "tiara"
+    ],
+    "material_visual": "pelúcia e tecido macio",
+    "estilo_corte": "circular com apliques tridimensionais",
+    "acessorios_visiveis": [
+      "miniaturas de fantasmas"
+    ],
+    "tematica_detalhada": "Halloween, focada em figuras amigáveis de fantasmas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9586.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 114.13,
+  "data_analise": "2026-07-30T08:11:16Z",
+  "data_criacao": "2026-07-30T05:11:16.988695-03:00"
+}

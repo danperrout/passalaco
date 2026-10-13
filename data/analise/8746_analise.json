@@ -1,0 +1,33 @@
+{
+  "id": 8746,
+  "nome_original": "Casal Policial e Presidiario",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão listrado",
+      "chapéu de presidiário",
+      "vestido de policial",
+      "quepe de policial"
+    ],
+    "material_visual": "tecido sintético com brilho",
+    "estilo_corte": "ajustado ao corpo",
+    "acessorios_visiveis": [
+      "cinto com fivela",
+      "quepe",
+      "touca"
+    ],
+    "tematica_detalhada": "Casal Policial e Presidiário, explorando o contraste entre a autoridade da lei e a criminalidade em um contexto de festa temática."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8746.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.93,
+  "data_analise": "2026-07-27T19:35:54Z",
+  "data_criacao": "2026-07-27T16:35:54.587763-03:00"
+}

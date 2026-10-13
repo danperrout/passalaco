@@ -1,0 +1,31 @@
+{
+  "id": 7957,
+  "nome_original": "Xuxa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia",
+      "bolero"
+    ],
+    "material_visual": "tecido sintético com detalhes em cetim e textura frisada na saia",
+    "estilo_corte": "curto, com bolero de mangas bufantes e saia com tiras coloridas pendentes",
+    "acessorios_visiveis": [
+      "peruca loira",
+      "aplicação em formato de X azul"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na Rainha dos Baixinhos, Xuxa, remetendo ao estilo pop e colorido de seus programas infantis nos anos 80 e 90"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7957.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.36,
+  "data_analise": "2026-07-30T09:01:53Z",
+  "data_criacao": "2026-07-30T06:01:53.036586-03:00"
+}

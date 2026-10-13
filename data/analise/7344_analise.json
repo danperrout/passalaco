@@ -1,0 +1,33 @@
+{
+  "id": 7344,
+  "nome_original": "Chaves",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "marrom",
+      "cinza",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "camiseta listrada",
+      "calça",
+      "boné"
+    ],
+    "material_visual": "tecido sintético ou algodão",
+    "estilo_corte": "estilo casual e folgado",
+    "acessorios_visiveis": [
+      "boné",
+      "suspensório"
+    ],
+    "tematica_detalhada": "Personagem Chaves, da série mexicana El Chavo del Ocho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7344.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 64.69,
+  "data_analise": "2026-07-27T20:35:22Z",
+  "data_criacao": "2026-07-27T17:35:22.769330-03:00"
+}

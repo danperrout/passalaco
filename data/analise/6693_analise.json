@@ -1,0 +1,34 @@
+{
+  "id": 6693,
+  "nome_original": "Gaucho",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "chapéu",
+      "lenço"
+    ],
+    "material_visual": "tecido sintético ou algodão",
+    "estilo_corte": "clássico, com camisa de mangas longas e calça reta",
+    "acessorios_visiveis": [
+      "cinto com fivela",
+      "lenço vermelho no pescoço",
+      "chapéu de aba larga"
+    ],
+    "tematica_detalhada": "Fantasia de Gaúcho, representando a cultura tradicionalista do sul do Brasil e regiões pampas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6693.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 124.07,
+  "data_analise": "2026-07-28T10:46:05Z",
+  "data_criacao": "2026-07-28T07:46:05.851727-03:00"
+}

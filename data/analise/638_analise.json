@@ -1,0 +1,29 @@
+{
+  "id": 638,
+  "nome_original": "Fred",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "preto",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "túnica"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte irregular com bainha rasgada e sem mangas",
+    "acessorios_visiveis": [
+      "faca cenográfica"
+    ],
+    "tematica_detalhada": "Fantasia de terror baseada no personagem Freddy Krueger, caracterizada por cores vibrantes e aparência desgastada/rasgada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/638.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.17,
+  "data_analise": "2026-07-28T06:17:15Z",
+  "data_criacao": "2026-07-28T03:17:15.913869-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 3674,
+  "nome_original": "Mosqueteira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com acabamentos em renda ou galão dourado",
+    "estilo_corte": "túnica solta com mangas amplas e corte reto",
+    "acessorios_visiveis": [
+      "chapéu com pluma preta"
+    ],
+    "tematica_detalhada": "Mosqueteiro clássico, com referência à guarda real francesa e elementos heráldicos no peito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3674.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.33,
+  "data_analise": "2026-07-29T23:08:41Z",
+  "data_criacao": "2026-07-29T20:08:41.060813-03:00"
+}

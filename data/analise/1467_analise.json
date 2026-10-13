@@ -1,0 +1,29 @@
+{
+  "id": 1467,
+  "nome_original": "Ketchup",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "chapéu cônico"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte reto e amplo, sem mangas",
+    "acessorios_visiveis": [
+      "chapéu em formato de bico"
+    ],
+    "tematica_detalhada": "fantasia gastronômica representando um frasco de ketchup, com foco em cores vibrantes e tipografia direta"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1467.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 190.0,
+  "data_analise": "2026-07-29T07:58:23Z",
+  "data_criacao": "2026-07-29T04:58:23.081218-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 8658,
+  "nome_original": "Abobora",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "preto",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético com tule na base",
+    "estilo_corte": "estilo bailarina com saia volumosa e corpete justo",
+    "acessorios_visiveis": [
+      "chapéu de bruxa",
+      "peruca laranja"
+    ],
+    "tematica_detalhada": "abóbora de Halloween estilizada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8658.jpg",
+  "data_analise": "2026-07-27T13:15:09Z"
+}

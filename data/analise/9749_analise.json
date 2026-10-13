@@ -1,0 +1,28 @@
+{
+  "id": 9749,
+  "nome_original": "Líder de Torcida",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa choque",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado",
+    "estilo_corte": "top cropped com recorte assimétrico na cintura e saia plissada curta",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Líder de torcida (cheerleader) com estética moderna e cores vibrantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9749.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 111.62,
+  "data_analise": "2026-07-29T11:29:10Z",
+  "data_criacao": "2026-07-29T08:29:10.159414-03:00"
+}

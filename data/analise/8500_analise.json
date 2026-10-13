@@ -1,0 +1,30 @@
+{
+  "id": 8500,
+  "nome_original": "Presidiario",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "bermuda",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente poliéster",
+    "estilo_corte": "corte reto e folgado, estilo pijama",
+    "acessorios_visiveis": [
+      "gorro de presidiário"
+    ],
+    "tematica_detalhada": "fantasia de presidiário clássico, com referências a uniformes de prisões antigas, caracterizada pelas listras horizontais e número de identificação"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8500.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.95,
+  "data_analise": "2026-07-30T03:57:17Z",
+  "data_criacao": "2026-07-30T00:57:17.445408-03:00"
+}

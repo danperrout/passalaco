@@ -1,0 +1,35 @@
+{
+  "id": 8341,
+  "nome_original": "Indio",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "dourado",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "saia de ráfia",
+      "tiara",
+      "colar",
+      "braceletes"
+    ],
+    "material_visual": "fibras sintéticas semelhantes a palha ou ráfia e contas plásticas",
+    "estilo_corte": "corte rústico com franjas longas na parte inferior",
+    "acessorios_visiveis": [
+      "tiara com penas",
+      "colar de contas",
+      "braceletes com penas"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em representações genéricas de indígenas, com referências a trajes tribais tradicionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8341.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 106.55,
+  "data_analise": "2026-07-28T17:26:21Z",
+  "data_criacao": "2026-07-28T14:26:21.406107-03:00"
+}

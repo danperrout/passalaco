@@ -1,0 +1,31 @@
+{
+  "id": 5839,
+  "nome_original": "Malevola",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "roxo",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa",
+      "tiara de chifres"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda ou bordado dourado e plumas na capa",
+    "estilo_corte": "longo, com corte reto e gola alta estruturada",
+    "acessorios_visiveis": [
+      "tiara com chifres"
+    ],
+    "tematica_detalhada": "Fantasia baseada na personagem Malévola, vilã clássica da Disney, com estética gótica e mística"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5839.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 84.07,
+  "data_analise": "2026-07-29T16:45:27Z",
+  "data_criacao": "2026-07-29T13:45:27.646838-03:00"
+}

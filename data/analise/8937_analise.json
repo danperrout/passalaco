@@ -1,0 +1,30 @@
+{
+  "id": 8937,
+  "nome_original": "Dinossauro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster ou plush",
+    "estilo_corte": "estilo kigurumi ou macacão integral oversized",
+    "acessorios_visiveis": [
+      "cauda",
+      "escamas dorsais"
+    ],
+    "tematica_detalhada": "fantasia de dinossauro antropomórfico em cores vibrantes, com design lúdico e infantil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8937.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 19.72,
+  "data_analise": "2026-07-28T03:06:02Z",
+  "data_criacao": "2026-07-28T00:06:02.915091-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 9525,
+  "nome_original": "Minnie",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara com orelhas"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante com detalhes em renda",
+    "estilo_corte": "estilo baby doll com mangas bufantes e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara com orelhas de mouse e laço",
+      "laços decorativos no vestido"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Minnie Mouse, da Disney, caracterizada pelas cores vermelho e preto com estampa de bolinhas brancas (polka dots)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9525.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.85,
+  "data_analise": "2026-07-29T22:36:07Z",
+  "data_criacao": "2026-07-29T19:36:07.211985-03:00"
+}

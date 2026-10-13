@@ -1,0 +1,32 @@
+{
+  "id": 8047,
+  "nome_original": "Guerreira Medieval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Gregas/Romanos",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prata",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa",
+      "faixa de cabeça"
+    ],
+    "material_visual": "tecido sintético acetinado e material sintético imitando couro",
+    "estilo_corte": "corte ajustado ao corpo com saia em tiras verticais",
+    "acessorios_visiveis": [
+      "faixa de cabeça",
+      "braceletes",
+      "capa"
+    ],
+    "tematica_detalhada": "guerreira medieval estilizada com referência heráldica através do símbolo da flor-de-lis"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8047.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 34.18,
+  "data_analise": "2026-07-28T11:51:25Z",
+  "data_criacao": "2026-07-28T08:51:25.944270-03:00"
+}

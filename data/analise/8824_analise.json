@@ -1,0 +1,32 @@
+{
+  "id": 8824,
+  "nome_original": "Hobbit Senhor dos Aneis",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "marrom",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz",
+      "colete",
+      "calça",
+      "camisa"
+    ],
+    "material_visual": "tecido sintético acetinado na capa e veludo ou camurça sintética no colete e calça",
+    "estilo_corte": "estilo rústico medieval com corte solto",
+    "acessorios_visiveis": [
+      "botão dourado de fechamento da capa"
+    ],
+    "tematica_detalhada": "Fantasia de Hobbit, inspirada nos personagens da Terra Média da obra O Senhor dos Anéis, remetendo ao estilo campestre e aventureiro dos habitantes do Condado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8824.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 91.4,
+  "data_analise": "2026-07-28T13:45:06Z",
+  "data_criacao": "2026-07-28T10:45:06.321159-03:00"
+}

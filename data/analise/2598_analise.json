@@ -1,0 +1,28 @@
+{
+  "id": 2598,
+  "nome_original": "Africana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo",
+      "verde",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "turbante"
+    ],
+    "material_visual": "tecido estampado com padrões coloridos",
+    "estilo_corte": "vestido de corte fluido e longo com mangas",
+    "acessorios_visiveis": [
+      "turbante",
+      "colar"
+    ],
+    "tematica_detalhada": "inspiração em vestimentas tradicionais africanas com estampas vibrantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2598.jpg",
+  "data_analise": "2026-07-27T13:36:46Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 10142,
+  "nome_original": "Pirata",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Piratas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "top branco",
+      "corset",
+      "saia"
+    ],
+    "material_visual": "cetim ou poliéster com corset em material sintético brilhante",
+    "estilo_corte": "estilo baby-doll com cintura marcada por corset e saia curta rodada",
+    "acessorios_visiveis": [
+      "chapéu de pirata",
+      "colar"
+    ],
+    "tematica_detalhada": "fantasia de pirata estilizada com abordagem moderna e sensual"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10142.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.18,
+  "data_analise": "2026-07-30T03:42:07Z",
+  "data_criacao": "2026-07-30T00:42:07.586110-03:00"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 6159,
+  "nome_original": "Viking",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Gregas/Romanos",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "capa",
+      "capuz/capacete",
+      "protetores de pulso"
+    ],
+    "material_visual": "tecido sintético com brilho, pele sintética e plástico",
+    "estilo_corte": "túnica reta com barra irregular e capa longa",
+    "acessorios_visiveis": [
+      "capacete com chifres",
+      "cinto decorativo",
+      "braceletes"
+    ],
+    "tematica_detalhada": "Guerreiro Viking clássico, com referências estilizadas a trajes nórdicos medievais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6159.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 46.74,
+  "data_analise": "2026-07-30T08:50:07Z",
+  "data_criacao": "2026-07-30T05:50:07.388915-03:00"
+}

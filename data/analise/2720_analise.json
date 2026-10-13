@@ -1,0 +1,29 @@
+{
+  "id": 2720,
+  "nome_original": "Oncinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "tecido sintético com estampa animal print",
+    "estilo_corte": "modelagem oversized estilo kigurumi com fechamento em zíper frontal",
+    "acessorios_visiveis": [
+      "orelhas de animal no capuz"
+    ],
+    "tematica_detalhada": "fantasia de animal inspirada em onça ou leopardo, com variação de cor estilizada em tons de roxo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2720.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 38.49,
+  "data_analise": "2026-07-30T00:54:08Z",
+  "data_criacao": "2026-07-29T21:54:08.022351-03:00"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 8708,
+  "nome_original": "Anabelle",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido rendado com fita de cetim",
+    "estilo_corte": "vestido longo com gola alta e cintura marcada",
+    "acessorios_visiveis": [
+      "peruca com tranças",
+      "laços vermelhos"
+    ],
+    "tematica_detalhada": "boneca possessa Annabelle"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8708.jpg",
+  "data_analise": "2026-07-27T13:56:04Z"
+}

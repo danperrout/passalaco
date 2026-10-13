@@ -1,0 +1,31 @@
+{
+  "id": 9188,
+  "nome_original": "Minnie",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara de orelhas"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "vestido curto com cintura marcada, mangas bufantes e decote em U",
+    "acessorios_visiveis": [
+      "tiara com orelhas de camundongo e laço",
+      "laço decorativo na cintura"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Minnie Mouse da Disney, caracterizada pelas cores clássicas e estampa de bolinhas (polka dots)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9188.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.52,
+  "data_analise": "2026-07-29T22:33:15Z",
+  "data_criacao": "2026-07-29T19:33:15.455395-03:00"
+}

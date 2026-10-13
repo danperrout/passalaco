@@ -1,0 +1,28 @@
+{
+  "id": 7022,
+  "nome_original": "Leao",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom dourado",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "pelúcia sintética e tecido aveludado",
+    "estilo_corte": "estilo kigurumi ou pijama macacão oversized",
+    "acessorios_visiveis": [
+      "capuz com juba de pele sintética"
+    ],
+    "tematica_detalhada": "fantasia de leão, representando o animal selvagem com foco em características fofas e confortáveis"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7022.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 35.43,
+  "data_analise": "2026-07-29T10:42:22Z",
+  "data_criacao": "2026-07-29T07:42:22.771242-03:00"
+}

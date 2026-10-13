@@ -1,0 +1,32 @@
+{
+  "id": 5377,
+  "nome_original": "Jafar",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "capa",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com brilho, semelhante ao cetim ou poliéster",
+    "estilo_corte": "estilo oriental/árabe com modelagem solta e longa",
+    "acessorios_visiveis": [
+      "chapéu ornamentado",
+      "capa com forro vermelho"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Jafar, do filme Aladdin, remetendo a um visual de vizir ou feiticeiro árabe"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5377.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 261.26,
+  "data_analise": "2026-07-28T18:49:44Z",
+  "data_criacao": "2026-07-28T15:49:44.832098-03:00"
+}

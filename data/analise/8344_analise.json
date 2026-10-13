@@ -1,0 +1,34 @@
+{
+  "id": 8344,
+  "nome_original": "Indio",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "verde",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "saia de franjas",
+      "cocar",
+      "colar",
+      "braceletes"
+    ],
+    "material_visual": "material sintético brilhante com franjas de plástico e penas artificiais",
+    "estilo_corte": "estilo tribal simplificado com saia curta de franjas e acessórios coordenados",
+    "acessorios_visiveis": [
+      "cocar com penas",
+      "colar de contas",
+      "braceletes decorados"
+    ],
+    "tematica_detalhada": "fantasia genérica de indígena, baseada em estereótipos visuais de povos nativos americanos ou amazônicos para fins recreativos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8344.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 182.09,
+  "data_analise": "2026-07-28T17:18:46Z",
+  "data_criacao": "2026-07-28T14:18:46.758818-03:00"
+}

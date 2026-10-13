@@ -1,0 +1,33 @@
+{
+  "id": 8789,
+  "nome_original": "Casal Aladim e Jasmine",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "calças",
+      "top",
+      "saia",
+      "chapéu"
+    ],
+    "material_visual": "cetim, lurex e tecido translúcido",
+    "estilo_corte": "estilo árabe clássico com calças bufantes e conjunto de duas peças feminino",
+    "acessorios_visveis": [
+      "fez/chapéu vermelho"
+    ],
+    "tematica_detalhada": "Casal inspirado nos personagens Aladim e Jasmine da Disney, com referências à cultura árabe"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8789.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.16,
+  "data_analise": "2026-07-27T19:30:20Z",
+  "data_criacao": "2026-07-27T16:30:20.255921-03:00"
+}

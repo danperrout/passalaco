@@ -1,0 +1,29 @@
+{
+  "id": 8720,
+  "nome_original": "Naruto",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com aspecto de poliéster ou nylon",
+    "estilo_corte": "estilo agasalho esportivo com modelagem ampla",
+    "acessorios_visiveis": [
+      "bandana de testa"
+    ],
+    "tematica_detalhada": "Personagem Naruto Uzumaki do anime/mangá Naruto, representando seu traje clássico de ninja"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8720.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.51,
+  "data_analise": "2026-07-29T23:31:24Z",
+  "data_criacao": "2026-07-29T20:31:24.793076-03:00"
+}

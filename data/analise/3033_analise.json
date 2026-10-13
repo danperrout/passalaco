@@ -1,0 +1,34 @@
+{
+  "id": 3033,
+  "nome_original": "Xerife",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "cinza"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "colete",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético e feltro",
+    "estilo_corte": "estilo faroeste clássico com corte reto",
+    "acessorios_visiveis": [
+      "estrela de xerife",
+      "cinto com fivela",
+      "cordão de chapéu"
+    ],
+    "tematica_detalhada": "Xerife do Velho Oeste americano, referência a filmes de Western e cultura cowboy"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3033.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.24,
+  "data_analise": "2026-07-30T09:00:50Z",
+  "data_criacao": "2026-07-30T06:00:50.205092-03:00"
+}

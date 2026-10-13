@@ -1,0 +1,30 @@
+{
+  "id": 8528,
+  "nome_original": "Fred",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "preto",
+      "azul claro"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com acabamento em renda na barra",
+    "estilo_corte": "vestido curto com decote assimétrico de um ombro só e saia rodada com bordas irregulares",
+    "acessorios_visiveis": [
+      "tiara com laço laranja e detalhe branco",
+      "faixa na cintura"
+    ],
+    "tematica_detalhada": "fantasia inspirada em abóbora ou Halloween, com referências a personagens festivos e cores típicas da celebração"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8528.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 74.55,
+  "data_analise": "2026-07-28T06:21:18Z",
+  "data_criacao": "2026-07-28T03:21:18.811834-03:00"
+}

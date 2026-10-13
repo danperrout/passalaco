@@ -1,0 +1,30 @@
+{
+  "id": 2692,
+  "nome_original": "Ursinho Pooh",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz com orelhas",
+      "capa curta"
+    ],
+    "material_visual": "tecido felpudo tipo plush ou soft",
+    "estilo_corte": "folgado e confortável, estilo pijama",
+    "acessorios_visiveis": [
+      "orelhas de urso"
+    ],
+    "tematica_detalhada": "Personagem Ursinho Pooh, baseado nas obras de A.A. Milne e Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2692.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.44,
+  "data_analise": "2026-07-30T08:42:21Z",
+  "data_criacao": "2026-07-30T05:42:21.710943-03:00"
+}

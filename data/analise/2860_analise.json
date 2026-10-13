@@ -1,0 +1,31 @@
+{
+  "id": 2860,
+  "nome_original": "Cafetão",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com brilho e detalhes em paetês ou lurex",
+    "estilo_corte": "conjunto de terno slim com lapelas decoradas",
+    "acessorios_visiveis": [
+      "óculos de sol",
+      "colares dourados",
+      "peruca preta"
+    ],
+    "tematica_detalhada": "Arquétipo de cafetão (pimp) estereotipado, inspirado em referências da cultura pop e filmes dos anos 70"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2860.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.3,
+  "data_analise": "2026-07-27T18:48:08Z",
+  "data_criacao": "2026-07-27T15:48:08.715857-03:00"
+}

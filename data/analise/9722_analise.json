@@ -1,0 +1,34 @@
+{
+  "id": 9722,
+  "nome_original": "Stitch",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul royal",
+      "azul claro",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "jaqueta com capuz",
+      "calça",
+      "luvas",
+      "pantufas"
+    ],
+    "material_visual": "tecido sintético macio, possivelmente plush ou fleece",
+    "estilo_corte": "estilo kigurumi ou pijama macacão",
+    "acessorios_visiveis": [
+      "capuz com orelhas e dentes",
+      "luvas integradas",
+      "calçados temáticos"
+    ],
+    "tematica_detalhada": "Personagem Stitch do filme Lilo & Stitch da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9722.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.38,
+  "data_analise": "2026-07-30T07:25:09Z",
+  "data_criacao": "2026-07-30T04:25:09.998624-03:00"
+}

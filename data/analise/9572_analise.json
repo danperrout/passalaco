@@ -1,0 +1,29 @@
+{
+  "id": 9572,
+  "nome_original": "Batman",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "máscara com capuz",
+      "macacão"
+    ],
+    "material_visual": "material sintético com textura escamosa ou quadriculada",
+    "estilo_corte": "ajustado ao corpo (slim fit) com capa acoplada",
+    "acessorios_visiveis": [
+      "cinto de utilidades amarelo"
+    ],
+    "tematica_detalhada": "Super-herói Batman, personagem da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9572.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.91,
+  "data_analise": "2026-07-27T17:49:53Z",
+  "data_criacao": "2026-07-27T14:49:53.518361-03:00"
+}

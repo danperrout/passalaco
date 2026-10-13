@@ -1,0 +1,30 @@
+{
+  "id": 1564,
+  "nome_original": "Noiva",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "lilás"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "cetim e tule com detalhes em renda ou fitas",
+    "estilo_corte": "estilo princesa curto com saia em camadas e decote coração",
+    "acessorios_visiveis": [
+      "véu",
+      "tiara",
+      "buquê de flores"
+    ],
+    "tematica_detalhada": "fantasia de noiva estilizada, com referências a casamentos clássicos adaptados para festas ou eventos temáticos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1564.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 42.62,
+  "data_analise": "2026-07-29T23:56:53Z",
+  "data_criacao": "2026-07-29T20:56:53.849226-03:00"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 7216,
+  "nome_original": "Principe",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça bufante",
+      "capa",
+      "chapéu"
+    ],
+    "material_visual": "veludo ou tecido sintético com brilho",
+    "estilo_corte": "estilo renascentista com calças bombachas",
+    "acessorios_visiveis": [
+      "gola de renda",
+      "chapéu com pluma",
+      "laço no pescoço"
+    ],
+    "tematica_detalhada": "Príncipe clássico com inspiração na moda europeia do século XVI e XVII"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7216.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.22,
+  "data_analise": "2026-07-30T04:14:15Z",
+  "data_criacao": "2026-07-30T01:14:15.845046-03:00"
+}

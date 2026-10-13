@@ -1,0 +1,32 @@
+{
+  "id": 619,
+  "nome_original": "Fantasma da Opera",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "cinza"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "colete",
+      "calça",
+      "camisa com babados"
+    ],
+    "material_visual": "tecido sintético fosco e cetim",
+    "estilo_corte": "estilo vitoriano clássico com corte reto",
+    "acessorios_visiveis": [
+      "máscara facial parcial"
+    ],
+    "tematica_detalhada": "Fantasia baseada no personagem Erik, o Fantasma da Ópera, referência ao romance de Gaston Leroux e ao musical de Andrew Lloyd Webber"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/619.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 54.68,
+  "data_analise": "2026-07-28T05:03:38Z",
+  "data_criacao": "2026-07-28T02:03:38.446311-03:00"
+}

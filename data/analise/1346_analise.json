@@ -1,0 +1,28 @@
+{
+  "id": 1346,
+  "nome_original": "Noivo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com aspecto acetinado",
+    "estilo_corte": "corte reto e formal",
+    "acessorios_visiveis": [
+      "gravata"
+    ],
+    "tematica_detalhada": "fantasia de noivo clássica, representando trajes cerimoniais de casamento"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1346.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.8,
+  "data_analise": "2026-07-30T00:34:37Z",
+  "data_criacao": "2026-07-29T21:34:37.265418-03:00"
+}

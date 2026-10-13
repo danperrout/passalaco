@@ -1,0 +1,34 @@
+{
+  "id": 5221,
+  "nome_original": "Jeca",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "laranja",
+      "bege",
+      "verde oliva"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "camisa",
+      "gravata",
+      "calça"
+    ],
+    "material_visual": "tecido sintético e palha natural",
+    "estilo_corte": "estilo caipira desajustado",
+    "acessorios_visiveis": [
+      "chapéu de palha",
+      "gravata larga"
+    ],
+    "tematica_detalhada": "estilo Jeca Tatu ou caipira brasileiro, representando o estereótipo do homem do campo em festas juninas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5221.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 219.65,
+  "data_analise": "2026-07-28T20:34:34Z",
+  "data_criacao": "2026-07-28T17:34:34.402334-03:00"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 2661,
+  "nome_original": "Anăo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde limão",
+      "cinza",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "túnica"
+    ],
+    "material_visual": "tecido sintético com brilho/acetinado",
+    "estilo_corte": "túnica larga e chapéu cônico caído",
+    "acessorios_visiveis": [
+      "chapéu de anão"
+    ],
+    "tematica_detalhada": "fantasia de anão de jardim ou personagem folclórico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2661.jpg",
+  "data_analise": "2026-07-27T13:56:22Z"
+}

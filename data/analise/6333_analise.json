@@ -1,0 +1,30 @@
+{
+  "id": 6333,
+  "nome_original": "Viuva",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "véu"
+    ],
+    "material_visual": "renda e tecido sintético",
+    "estilo_corte": "estilo gothic lolita com corpete transpassado e saia curta rodada",
+    "acessorios_visiveis": [
+      "véu de renda"
+    ],
+    "tematica_detalhada": "viúva gótica com influências de fantasias de Halloween e estética vitoriana estilizada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6333.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.3,
+  "data_analise": "2026-07-30T08:52:07Z",
+  "data_criacao": "2026-07-30T05:52:07.340351-03:00"
+}

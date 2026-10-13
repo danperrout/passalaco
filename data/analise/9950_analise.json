@@ -1,0 +1,30 @@
+{
+  "id": 9950,
+  "nome_original": "Divertidamente Tristeza",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul claro",
+      "azul royal"
+    ],
+    "pecas_inclusas": [
+      "suéter",
+      "calça"
+    ],
+    "material_visual": "tricô texturizado no suéter e tecido sintético na calça",
+    "estilo_corte": "suéter oversize de gola alta e calça justa (skinny)",
+    "acessorios_visiveis": [
+      "peruca azul",
+      "óculos de armação redonda"
+    ],
+    "tematica_detalhada": "Personagem Tristeza do filme Divertidamente (Inside Out), representando a emoção da tristeza através de tons de azul e roupas confortáveis"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9950.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 84.52,
+  "data_analise": "2026-07-28T03:12:15Z",
+  "data_criacao": "2026-07-28T00:12:15.936888-03:00"
+}

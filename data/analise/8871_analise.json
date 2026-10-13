@@ -1,0 +1,30 @@
+{
+  "id": 8871,
+  "nome_original": "Casal Vampiros",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "casacos longos",
+      "coletes",
+      "calças"
+    ],
+    "material_visual": "tecidos sintéticos com aparência de cetim ou veludo",
+    "estilo_corte": "estilo gótico vitoriano com golas altas e estruturadas",
+    "acessorios_visiveis": [
+      "golas dramatizadas"
+    ],
+    "tematica_detalhada": "casal de vampiros aristocratas, com referências ao horror gótico clássico e estética Drácula"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8871.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.3,
+  "data_analise": "2026-07-27T19:38:00Z",
+  "data_criacao": "2026-07-27T16:38:00.176621-03:00"
+}

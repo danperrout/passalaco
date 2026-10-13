@@ -1,0 +1,29 @@
+{
+  "id": 7537,
+  "nome_original": "Noiva",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "véu"
+    ],
+    "material_visual": "tule e renda",
+    "estilo_corte": "estilo boneca com saia volumosa e cintura marcada",
+    "acessorios_visiveis": [
+      "tiara",
+      "buquê de flores"
+    ],
+    "tematica_detalhada": "fantasia de noiva clássica, com estética romântica e lúdica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7537.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 34.84,
+  "data_analise": "2026-07-30T00:06:09Z",
+  "data_criacao": "2026-07-29T21:06:09.093212-03:00"
+}

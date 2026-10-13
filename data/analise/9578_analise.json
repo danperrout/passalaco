@@ -1,0 +1,29 @@
+{
+  "id": 9578,
+  "nome_original": "Kit Choker e Pulseira Halloween",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "choker",
+      "pulseira"
+    ],
+    "material_visual": "renda e plástico",
+    "estilo_corte": "babado com apliques",
+    "acessorios_visiveis": [
+      "caveiras decorativas"
+    ],
+    "tematica_detalhada": "Halloween, gótico, temática de morte e esqueletos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9578.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 68.17,
+  "data_analise": "2026-07-29T08:15:43Z",
+  "data_criacao": "2026-07-29T05:15:43.832373-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 6394,
+  "nome_original": "Junina Saia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "amarelo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com estampa xadrez e aplicações de tecido colorido",
+    "estilo_corte": "blusa ajustada sem mangas e saia curta com volume",
+    "acessorios_visiveis": [
+      "chapéu de palha com adornos"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, remetendo ao estilo caipira tradicional com elementos típicos como o xadrez e o chapéu de palha"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6394.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 32.53,
+  "data_analise": "2026-07-29T07:07:51Z",
+  "data_criacao": "2026-07-29T04:07:51.496079-03:00"
+}

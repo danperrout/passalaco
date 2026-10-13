@@ -1,0 +1,28 @@
+{
+  "id": 4623,
+  "nome_original": "Cachorro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "folgado e volumoso",
+    "acessorios_visiveis": [
+      "orelhas integradas ao capuz"
+    ],
+    "tematica_detalhada": "fantasia de cachorro, simulando a pelagem e as características físicas de um canino"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4623.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.85,
+  "data_analise": "2026-07-27T18:45:20Z",
+  "data_criacao": "2026-07-27T15:45:20.617302-03:00"
+}

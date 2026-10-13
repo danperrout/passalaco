@@ -1,0 +1,29 @@
+{
+  "id": 2206,
+  "nome_original": "Tigre",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Laranja",
+      "Preto",
+      "Branco"
+    ],
+    "pecas_inclusas": [
+      "Macacão com capuz"
+    ],
+    "material_visual": "Tecido sintético macio, possivelmente plush ou poliéster",
+    "estilo_corte": "Corte amplo e confortável, estilo kigurumi ou pijama de corpo inteiro",
+    "acessorios_visiveis": [
+      "Capuz com cabeça de tigre"
+    ],
+    "tematica_detalhada": "Fantasia de animal, especificamente um tigre, com foco em conforto e ludicidade"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2206.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.2,
+  "data_analise": "2026-07-30T08:14:21Z",
+  "data_criacao": "2026-07-30T05:14:21.785574-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 7576,
+  "nome_original": "Blusa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "blusa ombro a ombro",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda ou babados",
+    "estilo_corte": "estilo cigana, ombro a ombro, corte solto",
+    "acessorios_visiveis": [
+      "chapéu decorado com fitas"
+    ],
+    "tematica_detalhada": "fantasia inspirada em trajes folclóricos, possivelmente remetendo a personagens de danças regionais ou temas camponeses europeus/latinos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7576.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 377.18,
+  "data_analise": "2026-07-27T18:10:32Z",
+  "data_criacao": "2026-07-27T15:10:32.835204-03:00"
+}

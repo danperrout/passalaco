@@ -1,0 +1,29 @@
+{
+  "id": 5654,
+  "nome_original": "Can Can",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "cetim ou poliéster com babados de tule ou renda",
+    "estilo_corte": "corte curto com saia volumosa em camadas e decote ombro a ombro",
+    "acessorios_visiveis": [
+      "tiara/bandana prateada",
+      "colar longo de contas"
+    ],
+    "tematica_detalhada": "Dançarina de Can Can, inspirada nos cabarés franceses do século XIX, com estética de Moulin Rouge"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5654.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.55,
+  "data_analise": "2026-07-27T18:52:08Z",
+  "data_criacao": "2026-07-27T15:52:08.111078-03:00"
+}

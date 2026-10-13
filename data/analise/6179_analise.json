@@ -1,0 +1,29 @@
+{
+  "id": 6179,
+  "nome_original": "Peruca Branca",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "peruca",
+      "vestido"
+    ],
+    "material_visual": "fibras sintéticas e tecido com detalhes em renda",
+    "estilo_corte": "peruca curta com volume e vestido com gola drapeada",
+    "acessorios_visiveis": [
+      "peruca"
+    ],
+    "tematica_detalhada": "Personagem Elsa do filme Frozen, referenciando a realeza do gelo e neve"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6179.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.12,
+  "data_analise": "2026-07-30T03:17:54Z",
+  "data_criacao": "2026-07-30T00:17:54.875085-03:00"
+}

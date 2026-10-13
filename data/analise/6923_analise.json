@@ -1,0 +1,25 @@
+{
+  "id": 6923,
+  "nome_original": "Anjo",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido leve e brilhante, possivelmente cetim ou organza com detalhes em renda",
+    "estilo_corte": "vestido longo de corte fluido com mangas bufantes",
+    "acessorios_visiveis": [
+      "asas de anjo",
+      "tiara de flores"
+    ],
+    "tematica_detalhada": "Anjo celestial em tons de rosa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6923.jpg",
+  "data_analise": "2026-07-27T13:56:39Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 9908,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim com detalhes em renda",
+    "estilo_corte": "vestido curto com saia rodada em camadas e mangas bufantes",
+    "acessorios_visiveis": [
+      "tiara com fitas",
+      "detalhe floral no busto"
+    ],
+    "tematica_detalhada": "Fantasia típica de Festa Junina brasileira, remetendo ao traje caipira estilizado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9908.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.31,
+  "data_analise": "2026-07-29T02:11:20Z",
+  "data_criacao": "2026-07-28T23:11:20.017567-03:00"
+}

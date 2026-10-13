@@ -1,0 +1,32 @@
+{
+  "id": 9777,
+  "nome_original": "Chiquinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "casaquinho"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou poliéster",
+    "estilo_corte": "vestido curto com corte evasê e casaquinho aberto de mangas longas",
+    "acessorios_visiveis": [
+      "laço amarelo",
+      "gola amarela",
+      "bolso amarelo"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Chiquinha (La Chilindrina), do programa Chaves, caracterizada por roupas infantis e cores vibrantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9777.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 143.67,
+  "data_analise": "2026-07-27T21:35:18Z",
+  "data_criacao": "2026-07-27T18:35:18.620888-03:00"
+}

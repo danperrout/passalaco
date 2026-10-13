@@ -1,0 +1,35 @@
+{
+  "id": 8820,
+  "nome_original": "Familia Junina",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "branco",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido feminino adulto",
+      "camisa masculina adulta",
+      "camisa masculina infantil",
+      "calça infantil",
+      "vestido infantil"
+    ],
+    "material_visual": "tecido sintético com estampa de poá (bolinhas)",
+    "estilo_corte": "estilo caipira tradicional com babados e modelagem evasê",
+    "acessorios_visiveis": [
+      "chapéus de palha",
+      "gravatas coloridas",
+      "laços de fita"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, representando a vestimenta típica de caipiras do interior"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8820.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 32.07,
+  "data_analise": "2026-07-28T04:51:03Z",
+  "data_criacao": "2026-07-28T01:51:03.446212-03:00"
+}

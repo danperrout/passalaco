@@ -1,0 +1,29 @@
+{
+  "id": 2652,
+  "nome_original": "Capa",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "camisa"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco",
+    "estilo_corte": "capa longa com corte amplo e gola alta",
+    "acessorios_visiveis": [
+      "gravata borboleta"
+    ],
+    "tematica_detalhada": "estilo gótico ou vampírico, com referências a personagens clássicos de terror como o Conde Drácula"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2652.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.8,
+  "data_analise": "2026-07-27T18:54:21Z",
+  "data_criacao": "2026-07-27T15:54:21.684737-03:00"
+}

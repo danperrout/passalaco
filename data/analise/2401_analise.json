@@ -1,0 +1,28 @@
+{
+  "id": 2401,
+  "nome_original": "Capetinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético com aparência de pelúcia ou plush",
+    "estilo_corte": "estilo kigurumi ou macacão integral e folgado",
+    "acessorios_visiveis": [
+      "chifres integrados ao capuz"
+    ],
+    "tematica_detalhada": "fantasia de diabinho ou capetinha, com abordagem estilizada e lúdica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2401.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 29.65,
+  "data_analise": "2026-07-27T18:58:06Z",
+  "data_criacao": "2026-07-27T15:58:06.087819-03:00"
+}

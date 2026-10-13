@@ -1,0 +1,28 @@
+{
+  "id": 5370,
+  "nome_original": "Diabinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido acetinado com detalhes em renda ou tule",
+    "estilo_corte": "corte ajustado ao corpo com saia rodada e gola alta estruturada",
+    "acessorios_visiveis": [
+      "tiara de chifres"
+    ],
+    "tematica_detalhada": "fantasia de diabinha estilizada com elementos de gala ou fantasia festiva"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5370.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.22,
+  "data_analise": "2026-07-28T02:59:58Z",
+  "data_criacao": "2026-07-27T23:59:58.359013-03:00"
+}

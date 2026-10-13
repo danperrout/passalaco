@@ -1,0 +1,32 @@
+{
+  "id": 766,
+  "nome_original": "Jeannie",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "top com babados",
+      "calça pantalona",
+      "tiara com véu"
+    ],
+    "material_visual": "tecido leve, possivelmente cetim ou poliéster com transparência no véu",
+    "estilo_corte": "estilo harem com calças largas e blusa curta franzida",
+    "acessorios_visiveis": [
+      "tiara",
+      "véu",
+      "detalhes decorativos pendentes"
+    ],
+    "tematica_detalhada": "Fantasia de gênia, inspirada na personagem Jeannie é um Gênio"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/766.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 49.92,
+  "data_analise": "2026-07-28T20:30:54Z",
+  "data_criacao": "2026-07-28T17:30:54.448422-03:00"
+}

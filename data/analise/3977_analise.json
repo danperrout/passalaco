@@ -1,0 +1,30 @@
+{
+  "id": 3977,
+  "nome_original": "Noivo Montado",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "camisa"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco",
+    "estilo_corte": "terno slim com modelagem contemporânea",
+    "acessorios_visiveis": [
+      "chapéu de palha"
+    ],
+    "tematica_detalhada": "fantasia humorística de noivo estilizado com estampa de corações, misturando formalidade com elementos lúdicos e campestres"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3977.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.65,
+  "data_analise": "2026-07-30T00:36:11Z",
+  "data_criacao": "2026-07-29T21:36:11.927607-03:00"
+}

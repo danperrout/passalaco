@@ -1,0 +1,28 @@
+{
+  "id": 8510,
+  "nome_original": "Simbolo (yang)",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "sobreposição em formato de gota",
+      "camiseta preta",
+      "calça preta"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte asymmetryco em formato de vírgula/gota",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Símbolo do Yin Yang, representando a dualidade e o equilíbrio na filosofia chinesa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8510.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.06,
+  "data_analise": "2026-07-30T06:39:35Z",
+  "data_criacao": "2026-07-30T03:39:35.413963-03:00"
+}

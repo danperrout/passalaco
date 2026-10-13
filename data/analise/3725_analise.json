@@ -1,0 +1,29 @@
+{
+  "id": 3725,
+  "nome_original": "Marilyn Monroe",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "loiro"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "peruca"
+    ],
+    "material_visual": "tecido leve com saia plissada",
+    "estilo_corte": "vestido branco midi, sem mangas, decote em V profundo e saia rodada plissada",
+    "acessorios_visiveis": [
+      "peruca loira encaracolada"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em Marilyn Monroe, referenciando o visual icônico da atriz em Hollywood"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3725.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.07,
+  "data_analise": "2026-07-29T17:42:48Z",
+  "data_criacao": "2026-07-29T14:42:48.288579-03:00"
+}

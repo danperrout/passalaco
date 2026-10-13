@@ -1,0 +1,30 @@
+{
+  "id": 9036,
+  "nome_original": "Noiva",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "renda, tule e fitas coloridas",
+    "estilo_corte": "curto, com decote ombro a ombro e saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "véu",
+      "tiara de flores",
+      "flores ornamentais na cintura"
+    ],
+    "tematica_detalhada": "Noiva estilizada com elementos festivos e coloridos, possivelmente referenciando trajes regionais ou fantasias de carnaval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9036.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 79.96,
+  "data_analise": "2026-07-30T00:11:15Z",
+  "data_criacao": "2026-07-29T21:11:15.529716-03:00"
+}

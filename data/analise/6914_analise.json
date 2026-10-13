@@ -1,0 +1,31 @@
+{
+  "id": 6914,
+  "nome_original": "Saia e Tiara",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "preto",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "corset",
+      "saia de tule"
+    ],
+    "material_visual": "tule, cetim ou elastano e adornos brilhantes",
+    "estilo_corte": "corset ajustado ao corpo com saia curta volumosa em camadas",
+    "acessorios_visiveis": [
+      "detalhe frontal brilhante no corset",
+      "acabamento dourado nas camadas da saia"
+    ],
+    "tematica_detalhada": "estilo fantasia de fada, sereia ou personagem místico, com referências a cores da natureza e brilho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6914.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 36.51,
+  "data_analise": "2026-07-30T05:46:58Z",
+  "data_criacao": "2026-07-30T02:46:58.939927-03:00"
+}

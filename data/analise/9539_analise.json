@@ -1,0 +1,28 @@
+{
+  "id": 9539,
+  "nome_original": "Princesa",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa claro",
+      "rosa choque"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim e tule",
+    "estilo_corte": "estilo baile com saia volumosa e mangas bufantes",
+    "acessorios_visiveis": [
+      "tiara com flor"
+    ],
+    "tematica_detalhada": "Princesa clássica de contos de fadas, com estética inspirada em personagens como a Aurora ou Cinderela em versões cor-de-rosa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9539.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.48,
+  "data_analise": "2026-07-30T03:59:11Z",
+  "data_criacao": "2026-07-30T00:59:11.789291-03:00"
+}

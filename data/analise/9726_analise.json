@@ -1,0 +1,31 @@
+{
+  "id": 9726,
+  "nome_original": "Shrek",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com aparência de camurça ou couro no colete e tecido leve na camisa",
+    "estilo_corte": "estilo medieval/rústico com colete alongado e camisa de mangas bufantes",
+    "acessorios_visiveis": [
+      "tiara com orelhas de ogro"
+    ],
+    "tematica_detalhada": "fantasia inspirada no personagem Shrek, da franquia de animação homônima, remetendo a um visual de ogro medieval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9726.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 85.78,
+  "data_analise": "2026-07-30T06:38:47Z",
+  "data_criacao": "2026-07-30T03:38:47.377129-03:00"
+}

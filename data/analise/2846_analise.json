@@ -1,0 +1,29 @@
+{
+  "id": 2846,
+  "nome_original": "Bombeiro",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "capacete",
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com brilho",
+    "estilo_corte": "ajustado ao corpo, comprimento mini",
+    "acessorios_visiveis": [
+      "capacete de bombeiro"
+    ],
+    "tematica_detalhada": "fantasia estilizada de bombeiro, com abordagem sensual/festiva"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2846.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.66,
+  "data_analise": "2026-07-27T18:17:15Z",
+  "data_criacao": "2026-07-27T15:17:15.065551-03:00"
+}

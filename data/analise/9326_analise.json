@@ -1,0 +1,30 @@
+{
+  "id": 9326,
+  "nome_original": "Mumia",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "máscara de cabeça",
+      "túnica envolvente",
+      "calças envolventes"
+    ],
+    "material_visual": "tecido de gaze ou malha texturizada simulando bandagens",
+    "estilo_corte": "estilo envolvente com tiras sobrepostas",
+    "acessorios_visiveis": [
+      "faixas de tecido penduradas"
+    ],
+    "tematica_detalhada": "fantasia de múmia egípcia, referenciando figuras do folclore de terror e arqueologia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9326.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.97,
+  "data_analise": "2026-07-29T23:28:13Z",
+  "data_criacao": "2026-07-29T20:28:13.667879-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1518,
+  "nome_original": "Leao",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo ocre",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz com cabeça de leão"
+    ],
+    "material_visual": "pelúcia sintética macia",
+    "estilo_corte": "estilo kigurumi / macacão oversized",
+    "acessorios_visiveis": [
+      "laço decorativo no pescoço"
+    ],
+    "tematica_detalhada": "fantasia de animal, especificamente um leão, com design estilizado e fofo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1518.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 49.59,
+  "data_analise": "2026-07-29T10:41:47Z",
+  "data_criacao": "2026-07-29T07:41:47.048440-03:00"
+}

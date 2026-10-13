@@ -1,0 +1,31 @@
+{
+  "id": 8564,
+  "nome_original": "Formula I",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "bermuda",
+      "boné"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "conjunto casual com modelagem reta e detalhes em viés preto",
+    "acessorios_visiveis": [
+      "boné"
+    ],
+    "tematica_detalhada": "Piloto de Fórmula 1, com referências a escuderias de corrida através da cor vermelha e a faixa quadriculada característica da bandeira de chegada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8564.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.81,
+  "data_analise": "2026-07-28T06:13:10Z",
+  "data_criacao": "2026-07-28T03:13:10.873928-03:00"
+}

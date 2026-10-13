@@ -1,0 +1,32 @@
+{
+  "id": 8624,
+  "nome_original": "Chiquinha 2 Meses",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Mesversario",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "vermelho",
+      "amarelo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "calça/short",
+      "meias"
+    ],
+    "material_visual": "tecido sintético, possivelmente malha ou poliéster",
+    "estilo_corte": "blusa com mangas bufantes e gola arredondada, calça curta com acabamento desfiado",
+    "acessorios_visiveis": [
+      "meias pretas"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Chiquinha, do seriado El Chavo del Ocho, caracterizada por roupas coloridas e aspecto desleixado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8624.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 257.05,
+  "data_analise": "2026-07-27T21:39:36Z",
+  "data_criacao": "2026-07-27T18:39:36.826736-03:00"
+}

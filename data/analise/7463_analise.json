@@ -1,0 +1,29 @@
+{
+  "id": 7463,
+  "nome_original": "Circo Rosa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "azul claro",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule, cetim e renda",
+    "estilo_corte": "estilo boneca com saia volumosa e mangas bufantes",
+    "acessorios_visiveis": [
+      "cartola rosa"
+    ],
+    "tematica_detalhada": "estética de circo vintage ou mestre de cerimônias infantil em tons pastéis"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7463.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 128.27,
+  "data_analise": "2026-07-27T22:53:51Z",
+  "data_criacao": "2026-07-27T19:53:51.270486-03:00"
+}

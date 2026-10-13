@@ -1,0 +1,25 @@
+{
+  "id": 9548,
+  "nome_original": "Alien Presidiario",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "cinza"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético e látex/borracha",
+    "estilo_corte": "macacão de peça única com gola",
+    "acessorios_visiveis": [
+      "máscara de alienígena"
+    ],
+    "tematica_detalhada": "alienígena vestido como prisioneiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9548.jpg",
+  "data_analise": "2026-07-27T13:55:25Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 6807,
+  "nome_original": "Isabela Cumplice de Um Resgate",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "prata",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "saia",
+      "peruca"
+    ],
+    "material_visual": "tecido com brilho/paetês na parte superior e tule na base da saia",
+    "estilo_corte": "camiseta de manga curta e saia curta volumosa com camadas",
+    "acessorios_visiveis": [
+      "tiara decorada",
+      "choker/coleira"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Isabela da novela Cúmplices de um Resgate, com estilo pop/rock moderno"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6807.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 79.76,
+  "data_analise": "2026-07-28T17:30:52Z",
+  "data_criacao": "2026-07-28T14:30:52.145393-03:00"
+}

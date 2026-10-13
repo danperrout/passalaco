@@ -1,0 +1,30 @@
+{
+  "id": 9180,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "multicor",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "top decorado",
+      "saia ou detalhe inferior"
+    ],
+    "material_visual": "paetês, lantejoulas e tecidos sintéticos com brilho",
+    "estilo_corte": "ajustado ao corpo com caimento fluido na parte inferior",
+    "acessorios_visiveis": [
+      "tiara de lua crescente"
+    ],
+    "tematica_detalhada": "estética mística e festiva, fundindo elementos celestiais (lua) com a explosão de cores típica do carnaval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9180.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.27,
+  "data_analise": "2026-07-27T19:24:18Z",
+  "data_criacao": "2026-07-27T16:24:18.370324-03:00"
+}

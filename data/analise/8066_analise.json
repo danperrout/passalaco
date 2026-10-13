@@ -1,0 +1,31 @@
+{
+  "id": 8066,
+  "nome_original": "Minions",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "blusa de manga longa",
+      "saia com suspensórios"
+    ],
+    "material_visual": "tecido sintético com aspecto brilhante no azul e malha no amarelo",
+    "estilo_corte": "estilo jardineira curta com corte em A na saia",
+    "acessorios_visiveis": [
+      "óculos de proteção",
+      "tiara com detalhe superior",
+      "meias amarelas"
+    ],
+    "tematica_detalhada": "fantasia feminina baseada nos personagens Minions do filme Meu Malvado Favorito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8066.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 22.6,
+  "data_analise": "2026-07-29T22:27:12Z",
+  "data_criacao": "2026-07-29T19:27:12.361134-03:00"
+}

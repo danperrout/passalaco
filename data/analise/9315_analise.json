@@ -1,0 +1,30 @@
+{
+  "id": 9315,
+  "nome_original": "Power Ranger Azul",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético elastano com aspecto brilhante",
+    "estilo_corte": "justo ao corpo (skinny fit)",
+    "acessorios_visiveis": [
+      "cinto com fivela"
+    ],
+    "tematica_detalhada": "Power Ranger Azul, inspirado na franquia Mighty Morphin Power Rangers"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9315.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.0,
+  "data_analise": "2026-07-30T03:52:08Z",
+  "data_criacao": "2026-07-30T00:52:08.994702-03:00"
+}

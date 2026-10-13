@@ -1,0 +1,26 @@
+{
+  "id": 9839,
+  "nome_original": "Complemento Corset",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "corset"
+    ],
+    "material_visual": "tecido sintético com aplicações de glitter ou paetês",
+    "estilo_corte": "estilo corset ajustado ao corpo com alças largas",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "estilo cabaret, burlesco ou festa glamourosa, remetendo a performances de palco"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9839.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.59,
+  "data_analise": "2026-07-28T01:17:06Z",
+  "data_criacao": "2026-07-27T22:17:06.366949-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 546,
+  "nome_original": "Egipcia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "túnica longa"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado e bordados aplicados",
+    "estilo_corte": "corte reto, longo, com mangas compridas e gola alta",
+    "acessorios_visiveis": [
+      "peruca preta"
+    ],
+    "tematica_detalhada": "fantasia inspirada em vestimentas do Antigo Egito ou Norte da África, remetendo a trajes cerimoniais com ornamentos geométricos e florais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/546.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 41.61,
+  "data_analise": "2026-07-28T03:28:19Z",
+  "data_criacao": "2026-07-28T00:28:19.113511-03:00"
+}

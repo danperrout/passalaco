@@ -1,0 +1,30 @@
+{
+  "id": 6827,
+  "nome_original": "Jasmine",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "turquesa",
+      "azul claro"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "calça bufante"
+    ],
+    "material_visual": "tecido sintético com brilho e detalhes em tule/renda",
+    "estilo_corte": "estilo harém com top curto",
+    "acessorios_visiveis": [
+      "tiara dourada",
+      "colar choker"
+    ],
+    "tematica_detalhada": "Fantasia da Princesa Jasmine do filme Aladdin, com referências à cultura árabe"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6827.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 198.02,
+  "data_analise": "2026-07-28T19:39:15Z",
+  "data_criacao": "2026-07-28T16:39:15.731445-03:00"
+}

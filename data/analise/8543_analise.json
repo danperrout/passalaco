@@ -1,0 +1,32 @@
+{
+  "id": 8543,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "colorido",
+      "arco-íris",
+      "amarelo",
+      "rosa",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "touca/headpiece"
+    ],
+    "material_visual": "tecido translúcido, organza ou tule com penas",
+    "estilo_corte": "vestido curto com decote em V e saia fluida",
+    "acessorios_visiveis": [
+      "estilo cocar com penas coloridas"
+    ],
+    "tematica_detalhada": "Carnaval brasileiro, com referências a passistas, festas tropicais e estética vibrante de desfiles"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8543.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.51,
+  "data_analise": "2026-07-27T19:24:57Z",
+  "data_criacao": "2026-07-27T16:24:57.138831-03:00"
+}

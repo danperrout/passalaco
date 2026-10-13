@@ -1,0 +1,27 @@
+{
+  "id": 9249,
+  "nome_original": "Wandinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Halloween Infantil",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule e tecido sintético acetinado",
+    "estilo_corte": "vestido de festa com saia volumosa em camadas e corpete justo",
+    "acessorios_visiveis": [
+      "peruca com tranças"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Wandinha Addams, com estética gótica e referências a vestidos de baile sombrios"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9249.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.27,
+  "data_analise": "2026-07-30T08:53:27Z",
+  "data_criacao": "2026-07-30T05:53:27.137108-03:00"
+}

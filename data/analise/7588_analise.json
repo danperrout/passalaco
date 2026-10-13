@@ -1,0 +1,29 @@
+{
+  "id": 7588,
+  "nome_original": "Carimbo",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "colorido",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampa floral vibrante",
+    "estilo_corte": "vestido longo com saia volumosa e decote ombro a ombro",
+    "acessorios_visiveis": [
+      "flor vermelha no cabelo"
+    ],
+    "tematica_detalhada": "estilo folclórico mexicano, referenciando a cultura de Frida Kahlo ou trajes tradicionais de festa mexicana"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7588.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.76,
+  "data_analise": "2026-07-27T19:19:42Z",
+  "data_criacao": "2026-07-27T16:19:42.188068-03:00"
+}

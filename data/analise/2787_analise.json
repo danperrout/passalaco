@@ -1,0 +1,31 @@
+{
+  "id": 2787,
+  "nome_original": "Jasmine",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "lilás",
+      "azul claro"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "calça",
+      "véu"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente cetim ou poliéster com transparência",
+    "estilo_corte": "estilo harém com top cropped e calças largas",
+    "acessorios_visiveis": [
+      "véu de cabeça",
+      "detalhes dourados na cintura"
+    ],
+    "tematica_detalhada": "fantasia inspirada na Princesa Jasmine do filme Aladdin, referenciando vestimentas árabes estilizadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2787.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 131.44,
+  "data_analise": "2026-07-28T19:30:54Z",
+  "data_criacao": "2026-07-28T16:30:54.099439-03:00"
+}

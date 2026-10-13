@@ -1,0 +1,31 @@
+{
+  "id": 6191,
+  "nome_original": "Star Wars Luck",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "cinza",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "faixa"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "estilo oriental com gola transpassada e corte reto",
+    "acessorios_visiveis": [
+      "faixa na cintura"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no universo Star Wars, remetendo às vestes tradicionais Jedi"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6191.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.72,
+  "data_analise": "2026-07-30T07:23:19Z",
+  "data_criacao": "2026-07-30T04:23:19.018968-03:00"
+}

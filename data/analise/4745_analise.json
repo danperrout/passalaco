@@ -1,0 +1,28 @@
+{
+  "id": 4745,
+  "nome_original": "Espanhola",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "cetim ou poliéster com acabamento brilhante e renda",
+    "estilo_corte": "ciganinha com decote ombro a ombro e saia com babados",
+    "acessorios_visiveis": [
+      "tiara com flor vermelha"
+    ],
+    "tematica_detalhada": "estilo flamenca espanhola, referenciando a cultura tradicional da Andaluzia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4745.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 37.88,
+  "data_analise": "2026-07-28T03:55:59Z",
+  "data_criacao": "2026-07-28T00:55:59.379657-03:00"
+}

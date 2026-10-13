@@ -1,0 +1,29 @@
+{
+  "id": 6012,
+  "nome_original": "Moranguinho",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "touca"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante",
+    "estilo_corte": "estilo boneca com mangas bufantes e saia rodada",
+    "acessorios_visiveis": [
+      "touca com aba verde"
+    ],
+    "tematica_detalhada": "Personagem Moranguinho, inspirada na boneca clássica com elementos de frutas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6012.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 93.04,
+  "data_analise": "2026-07-29T22:57:26Z",
+  "data_criacao": "2026-07-29T19:57:26.587429-03:00"
+}

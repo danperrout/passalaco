@@ -1,0 +1,28 @@
+{
+  "id": 9571,
+  "nome_original": "Bruxa",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com brilho e detalhes em renda ou tule",
+    "estilo_corte": "vestido longo de corte reto com gola adornada e chapéu cônico de abas largas",
+    "acessorios_visiveis": [
+      "chapéu de bruxa pontudo"
+    ],
+    "tematica_detalhada": "Bruxa clássica, com referências a personagens de contos de fadas e folclore ocidental"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9571.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.55,
+  "data_analise": "2026-07-27T18:29:38Z",
+  "data_criacao": "2026-07-27T15:29:38.020448-03:00"
+}

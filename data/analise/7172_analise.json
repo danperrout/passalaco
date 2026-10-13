@@ -1,0 +1,29 @@
+{
+  "id": 7172,
+  "nome_original": "Garota da Capa Vermelha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz",
+      "vestido longo"
+    ],
+    "material_visual": "cetim brilhante na capa e tule ou chiffon no vestido",
+    "estilo_corte": "corte fluido com cintura marcada e saia ampla",
+    "acessorios_visiveis": [
+      "detalhes bordados no corpete"
+    ],
+    "tematica_detalhada": "Chapeuzinho Vermelho, baseada no conto de fadas clássico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7172.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 73.76,
+  "data_analise": "2026-07-28T07:06:18Z",
+  "data_criacao": "2026-07-28T04:06:18.899857-03:00"
+}

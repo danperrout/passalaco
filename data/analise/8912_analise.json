@@ -1,0 +1,27 @@
+{
+  "id": 8912,
+  "nome_original": "Round 6 Batatinha 1,2,3",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "camiseta"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "vestido evasê com alças largas sobreposto a camiseta de manga curta",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Boneca do jogo 'Batatinha Frita 1, 2, 3' da série Round 6 (Squid Game)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8912.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.35,
+  "data_analise": "2026-07-30T05:02:50Z",
+  "data_criacao": "2026-07-30T02:02:50.880060-03:00"
+}

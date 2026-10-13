@@ -1,0 +1,29 @@
+{
+  "id": 8142,
+  "nome_original": "Junina Saia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda",
+    "estilo_corte": "estilo rodado com cintura marcada e alças largas",
+    "acessorios_visiveis": [
+      "tiara com girassol"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, com estampas de casas caipiras e elementos rurais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8142.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 131.25,
+  "data_analise": "2026-07-29T07:10:03Z",
+  "data_criacao": "2026-07-29T04:10:03.005508-03:00"
+}

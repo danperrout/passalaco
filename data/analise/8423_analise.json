@@ -1,0 +1,29 @@
+{
+  "id": 8423,
+  "nome_original": "Enfermeira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "touca"
+    ],
+    "material_visual": "tecido sintético com brilho leve, possivelmente poliéster ou cetim",
+    "estilo_corte": "vestido curto com mangas bufantes e cintura marcada",
+    "acessorios_visiveis": [
+      "touca de enfermeira com cruz"
+    ],
+    "tematica_detalhada": "fantasia clássica e estilizada de enfermeira, com referências a uniformes vintage de saúde"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8423.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.05,
+  "data_analise": "2026-07-28T03:50:30Z",
+  "data_criacao": "2026-07-28T00:50:30.331710-03:00"
+}

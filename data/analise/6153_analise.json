@@ -1,0 +1,31 @@
+{
+  "id": 6153,
+  "nome_original": "The Flash",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com enchimento acolchoado no torso",
+    "estilo_corte": "justo ao corpo com ombreiras volumosas",
+    "acessorios_visiveis": [
+      "botas amarelas",
+      "logo de raio no peito",
+      "detalhes de raios na cintura"
+    ],
+    "tematica_detalhada": "Fantasia do super-herói The Flash, personagem da DC Comics conhecido por sua supervelocidade"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6153.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.93,
+  "data_analise": "2026-07-30T07:43:44Z",
+  "data_criacao": "2026-07-30T04:43:44.818478-03:00"
+}

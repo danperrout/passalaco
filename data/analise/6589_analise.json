@@ -1,0 +1,32 @@
+{
+  "id": 6589,
+  "nome_original": "Thundercats Lion",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "bege",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "peruca",
+      "botas"
+    ],
+    "material_visual": "tecido sintético com aparência de elastano e poliéster",
+    "estilo_corte": "justo ao corpo, estilo collant com mangas longas",
+    "acessorios_visiveis": [
+      "cinto com emblema",
+      "peruca vermelha"
+    ],
+    "tematica_detalhada": "Personagem Lion-O da série Thundercats, caracterizado por cores vibrantes e elementos de guerreiro felino antropomórfico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6589.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 70.76,
+  "data_analise": "2026-07-30T08:01:38Z",
+  "data_criacao": "2026-07-30T05:01:38.225905-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 8899,
+  "nome_original": "Gomez Addams",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco",
+    "estilo_corte": "terno risca de giz com corte reto e abotoamento duplo",
+    "acessorios_visiveis": [
+      "gravata borboleta"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Gomez Addams, da Família Addams, caracterizada por um estilo gótico clássico e formal"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8899.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 47.65,
+  "data_analise": "2026-07-28T11:13:36Z",
+  "data_criacao": "2026-07-28T08:13:36.745053-03:00"
+}

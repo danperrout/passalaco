@@ -1,0 +1,29 @@
+{
+  "id": 8682,
+  "nome_original": "Star Wars Soldado Branco",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "capacete",
+      "macacão completo"
+    ],
+    "material_visual": "tecido sintético com aparência de lycra ou elastano",
+    "estilo_corte": "ajustado ao corpo (slim fit) com impressões gráficas simulando armadura",
+    "acessorios_visiveis": [
+      "capacete de Stormtrooper"
+    ],
+    "tematica_detalhada": "Soldado Stormtrooper da franquia Star Wars, representando as forças do Império Galáctico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8682.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.21,
+  "data_analise": "2026-07-30T07:24:15Z",
+  "data_criacao": "2026-07-30T04:24:15.489880-03:00"
+}

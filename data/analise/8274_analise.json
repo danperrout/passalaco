@@ -1,0 +1,30 @@
+{
+  "id": 8274,
+  "nome_original": "Pantera Negra",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "blusa de manga longa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético elástico com impressões digitais",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "máscara facial"
+    ],
+    "tematica_detalhada": "Fantasia baseada no personagem Pantera Negra da Marvel, referenciando o traje tecnológico de Wakanda"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8274.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 32.41,
+  "data_analise": "2026-07-30T02:00:52Z",
+  "data_criacao": "2026-07-29T23:00:52.258793-03:00"
+}

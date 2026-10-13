@@ -1,0 +1,34 @@
+{
+  "id": 1234,
+  "nome_original": "Principe",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "capa",
+      "turbante"
+    ],
+    "material_visual": "cetim sintético com brilho",
+    "estilo_corte": "estilo oriental/árabe com calças bufantes e túnica ajustada",
+    "acessorios_visiveis": [
+      "faixa na cintura",
+      "penas no turbante",
+      "detalhes dourados"
+    ],
+    "tematica_detalhada": "Príncipe árabe, com referências visuais ao personagem Aladdin"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1234.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.67,
+  "data_analise": "2026-07-30T04:05:23Z",
+  "data_criacao": "2026-07-30T01:05:23.922864-03:00"
+}

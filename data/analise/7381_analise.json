@@ -1,0 +1,23 @@
+{
+  "id": 7381,
+  "nome_original": "Aquaman",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "estola",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com brilho metálico e textura escamosa",
+    "estilo_corte": "ajustado ao corpo com caimento fluido na parte superior",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "herói marinho inspirado em escamas de peixe e elementos oceânicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7381.jpg",
+  "data_analise": "2026-07-27T14:12:19Z"
+}

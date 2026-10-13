@@ -1,0 +1,33 @@
+{
+  "id": 2238,
+  "nome_original": "Sultão",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "branco",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "colete longo",
+      "calça",
+      "turbante"
+    ],
+    "material_visual": "tecido acetinado com bordados dourados e detalhes em sintético",
+    "estilo_corte": "corte amplo e fluido, inspirado em vestimentas orientais tradicionais",
+    "acessorios_visiveis": [
+      "turbante decorado",
+      "colar de contas verdes"
+    ],
+    "tematica_detalhada": "Fantasia de Sultão, referenciando a nobreza do Império Otomano ou personagens de contos como As Mil e Uma Noites"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2238.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.22,
+  "data_analise": "2026-07-30T07:25:48Z",
+  "data_criacao": "2026-07-30T04:25:48.164702-03:00"
+}

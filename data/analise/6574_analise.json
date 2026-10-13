@@ -1,0 +1,29 @@
+{
+  "id": 6574,
+  "nome_original": "Ovelha",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "pelúcia sintética felpuda",
+    "estilo_corte": "oversized/estilo kigurumi",
+    "acessorios_visiveis": [
+      "orelhas de ovelha"
+    ],
+    "tematica_detalhada": "fantasia de animal, especificamente uma ovelha, com foco em conforto e aparência fofa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6574.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.25,
+  "data_analise": "2026-07-30T01:15:53Z",
+  "data_criacao": "2026-07-29T22:15:53.570208-03:00"
+}

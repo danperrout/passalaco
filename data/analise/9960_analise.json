@@ -1,0 +1,33 @@
+{
+  "id": 9960,
+  "nome_original": "Jogos Mortais Jigsaw",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Halloween Infantil",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "camisa",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético fosco e plástico rígido na máscara",
+    "estilo_corte": "terno clássico com corte reto",
+    "acessorios_visiveis": [
+      "gravata borboleta vermelha",
+      "botões vermelhos"
+    ],
+    "tematica_detalhada": "Personagem Billy, o boneco do filme Jogos Mortais (Saw), caracterizado por sua máscara branca com espirais vermelhas nas bochechas."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9960.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 70.27,
+  "data_analise": "2026-07-28T21:35:30Z",
+  "data_criacao": "2026-07-28T18:35:30.298175-03:00"
+}

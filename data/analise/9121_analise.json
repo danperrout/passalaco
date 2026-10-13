@@ -1,0 +1,30 @@
+{
+  "id": 9121,
+  "nome_original": "Deusa Grega",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Gregas/Romanos",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido fluido com brilho e detalhes metálicos",
+    "estilo_corte": "corte império com cintura marcada e saia plissada",
+    "acessorios_visiveis": [
+      "coroa dourada",
+      "colar delicado",
+      "bracelete"
+    ],
+    "tematica_detalhada": "Deusa Grega ou Romana, evocando a estética da Antiguidade Clássica e divindades do Olimpo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9121.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.98,
+  "data_analise": "2026-07-28T02:57:27Z",
+  "data_criacao": "2026-07-27T23:57:27.897604-03:00"
+}

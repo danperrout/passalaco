@@ -1,0 +1,31 @@
+{
+  "id": 4893,
+  "nome_original": "Dona Florinda",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "bege",
+      "estampa floral"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "avental",
+      "touca"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda",
+    "estilo_corte": "vestido midi com mangas curtas e avental sobreposto",
+    "acessorios_visiveis": [
+      "touca de babados"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Dona Florinda, da série Chaves, representando o estilo doméstico tradicional"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4893.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 84.01,
+  "data_analise": "2026-07-28T03:19:12Z",
+  "data_criacao": "2026-07-28T00:19:12.361518-03:00"
+}

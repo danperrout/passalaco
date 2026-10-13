@@ -1,0 +1,29 @@
+{
+  "id": 8750,
+  "nome_original": "Casal Pedrita e Bam Bam",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica com estampa de pele de animal"
+    ],
+    "material_visual": "tecido sintético com textura visual de pele de leopardo/onça",
+    "estilo_corte": "corte rústico com bordas irregulares e modelagem solta",
+    "acessorios_visiveis": [
+      "adorno de cabeça"
+    ],
+    "tematica_detalhada": "Personagens Pedrita e Bam Bam da franquia Os Flintstones, representando a estética da Idade da Pedra com roupas de pele de animal"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8750.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.06,
+  "data_analise": "2026-07-27T19:35:47Z",
+  "data_criacao": "2026-07-27T16:35:47.269216-03:00"
+}

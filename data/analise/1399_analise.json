@@ -1,0 +1,29 @@
+{
+  "id": 1399,
+  "nome_original": "Viuva",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "véu"
+    ],
+    "material_visual": "renda, tule e tecido com brilho/paetês",
+    "estilo_corte": "vestido curto com mangas longas de renda e saia evasê",
+    "acessorios_visiveis": [
+      "véu de rede"
+    ],
+    "tematica_detalhada": "Viuva estilizada, com abordagem gótica ou de festa, misturando luto tradicional com elementos glamourosos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1399.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.57,
+  "data_analise": "2026-07-30T08:52:26Z",
+  "data_criacao": "2026-07-30T05:52:26.257259-03:00"
+}

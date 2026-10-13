@@ -1,0 +1,35 @@
+{
+  "id": 8737,
+  "nome_original": "Casal Apresentadores de Circo",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Preto",
+      "Dourado"
+    ],
+    "pecas_inclusas": [
+      "Paletó de mestre de cerimônias",
+      "Calça preta",
+      "Camisa branca",
+      "Gravata borboleta",
+      "Vestido de apresentadora"
+    ],
+    "material_visual": "Tecido acetinado com bordados metálicos",
+    "estilo_corte": "Corte clássico de gala com cauda e modelagem ajustada",
+    "acessorios_visiveis": [
+      "Cartola preta",
+      "Mini cartola vermelha",
+      "Detalhes dourados ornamentais"
+    ],
+    "tematica_detalhada": "Casal de apresentadores de circo vintage, inspirados no estilo Ringmaster clássico com estética luxuosa e teatral"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8737.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.57,
+  "data_analise": "2026-07-27T19:31:00Z",
+  "data_criacao": "2026-07-27T16:31:00.640981-03:00"
+}

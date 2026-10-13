@@ -1,0 +1,28 @@
+{
+  "id": 6830,
+  "nome_original": "Peruca Preta Longa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "peruca"
+    ],
+    "material_visual": "fibra sintética",
+    "estilo_corte": "longo com franja reta e mechas onduladas/trançadas",
+    "acessorios_visiveis": [
+      "vestido com detalhes dourados"
+    ],
+    "tematica_detalhada": "fantasia genérica de personagem clássico ou místico, podendo remeter a figuras de contos de fadas ou época"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6830.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.4,
+  "data_analise": "2026-07-30T03:21:16Z",
+  "data_criacao": "2026-07-30T00:21:16.917301-03:00"
+}

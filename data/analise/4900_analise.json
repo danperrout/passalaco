@@ -1,0 +1,29 @@
+{
+  "id": 4900,
+  "nome_original": "Fada",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa claro",
+      "rosa choque"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho/glitter e cetim",
+    "estilo_corte": "vestido longo com corpete justo e saia volumosa com pétalas sobrepostas",
+    "acessorios_visiveis": [
+      "tiara de flor",
+      "cinto de flores artificiais"
+    ],
+    "tematica_detalhada": "fantasia de fada da natureza ou princesa floral, com referências a elementos botânicos e mágicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4900.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 127.65,
+  "data_analise": "2026-07-28T04:31:55Z",
+  "data_criacao": "2026-07-28T01:31:55.574108-03:00"
+}

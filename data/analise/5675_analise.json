@@ -1,0 +1,26 @@
+{
+  "id": 5675,
+  "nome_original": "Capa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou poliéster",
+    "estilo_corte": "corte amplo e fluido com capuz integrado",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "estética de capa clássica, podendo remeter a personagens como vampiros, magos ou figuras místicas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5675.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.82,
+  "data_analise": "2026-07-27T18:55:21Z",
+  "data_criacao": "2026-07-27T15:55:21.475832-03:00"
+}

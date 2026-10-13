@@ -1,0 +1,33 @@
+{
+  "id": 5683,
+  "nome_original": "Magico",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "colete",
+      "calça",
+      "cartola",
+      "gravata borboleta"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado/brilhante no colete",
+    "estilo_corte": "corte clássico de fraque infantil com lapelas contrastantes",
+    "acessorios_visiveis": [
+      "cartola",
+      "gravata borboleta"
+    ],
+    "tematica_detalhada": "Mágico de palco clássico, com referências a espetáculos de ilusionismo e gala"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5683.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 45.35,
+  "data_analise": "2026-07-29T16:24:55Z",
+  "data_criacao": "2026-07-29T13:24:55.002912-03:00"
+}

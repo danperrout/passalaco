@@ -1,0 +1,29 @@
+{
+  "id": 9837,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "azul marinho"
+    ],
+    "pecas_inclusas": [
+      "top cigana",
+      "saia rodada"
+    ],
+    "material_visual": "tecido sintético com texturas plissadas e xadrez",
+    "estilo_corte": "estilo campesino com top ombro a ombro e saia curta volumosa com camadas",
+    "acessorios_visiveis": [
+      "tiara com fitas coloridas"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina estilizada, referenciando a cultura caipira brasileira com elementos modernos e cores vibrantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9837.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 100.84,
+  "data_analise": "2026-07-29T02:17:05Z",
+  "data_criacao": "2026-07-28T23:17:05.743256-03:00"
+}

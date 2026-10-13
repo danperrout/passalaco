@@ -1,0 +1,30 @@
+{
+  "id": 3979,
+  "nome_original": "Espanhola",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Ciganas/Espanholas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "mantilha"
+    ],
+    "material_visual": "veludo e renda",
+    "estilo_corte": "vestido curto com babados e decote ombro a ombro",
+    "acessorios_visiveis": [
+      "tiara de flores vermelhas",
+      "véu de renda"
+    ],
+    "tematica_detalhada": "estilo flamenca espanhola, referenciando a cultura da Andaluzia e a dança do flamenco"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3979.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.75,
+  "data_analise": "2026-07-28T03:54:44Z",
+  "data_criacao": "2026-07-28T00:54:44.162973-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 593,
+  "nome_original": "Espantalho",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido texturizado que imita palha ou juta com retalhos de tecido xadrez",
+    "estilo_corte": "folgado com acabamentos desfiados e franjas",
+    "acessorios_visiveis": [
+      "chapéu",
+      "laços de tecido xadrez nos punhos e tornozelos"
+    ],
+    "tematica_detalhada": "Fantasia de Espantalho clássico, remetendo a figuras rurais e personagens como o do Mágico de Oz"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/593.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 29.18,
+  "data_analise": "2026-07-28T04:12:39Z",
+  "data_criacao": "2026-07-28T01:12:39.698625-03:00"
+}

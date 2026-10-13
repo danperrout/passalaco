@@ -1,0 +1,29 @@
+{
+  "id": 3894,
+  "nome_original": "Can Can",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Danças",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido curto com babados",
+      "luvas longas"
+    ],
+    "material_visual": "cetim e renda",
+    "estilo_corte": "estilo corset com saia volumosa de babados em camadas",
+    "acessorios_visiveis": [
+      "tiara com pena",
+      "colar longo de pérolas"
+    ],
+    "tematica_detalhada": "Dançarina de Can Can do período da Belle Époque, referência ao Moulin Rouge e cabarés franceses"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3894.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.92,
+  "data_analise": "2026-07-27T18:53:08Z",
+  "data_criacao": "2026-07-27T15:53:08.520327-03:00"
+}

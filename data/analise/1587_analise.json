@@ -1,0 +1,29 @@
+{
+  "id": 1587,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com acabamento em renda e fitas",
+    "estilo_corte": "vestido curto com cintura marcada, mangas bufantes e saia rodada",
+    "acessorios_visiveis": [
+      "chapéu de palha com fita"
+    ],
+    "tematica_detalhada": "traje típico de Festa Junina brasileira, representando a vestimenta caipira estilizada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1587.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.82,
+  "data_analise": "2026-07-29T00:14:51Z",
+  "data_criacao": "2026-07-28T21:14:51.098891-03:00"
+}

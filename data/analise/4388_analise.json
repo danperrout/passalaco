@@ -1,0 +1,32 @@
+{
+  "id": 4388,
+  "nome_original": "Leao",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "dourado",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "calça",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético fosco com detalhes em material brilhante/metalizado",
+    "estilo_corte": "modelagem ampla e confortável com punhos elásticos",
+    "acessorios_visiveis": [
+      "juba de leão",
+      "orelhas"
+    ],
+    "tematica_detalhada": "fantasia de animal, especificamente um leão, com foco em representação lúdica infantil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4388.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 276.47,
+  "data_analise": "2026-07-29T10:27:28Z",
+  "data_criacao": "2026-07-29T07:27:28.056349-03:00"
+}

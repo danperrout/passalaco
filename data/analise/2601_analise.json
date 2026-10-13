@@ -1,0 +1,29 @@
+{
+  "id": 2601,
+  "nome_original": "Cupido",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido acetinado com brilho",
+    "estilo_corte": "modelo curto e reto com acabamento em renda ou passamanaria dourada na gola e bainha",
+    "acessorios_visiveis": [
+      "asas brancas",
+      "auréola"
+    ],
+    "tematica_detalhada": "fantasia de Cupido ou Anjo, referenciando figuras celestiais da mitologia greco-romana e iconografia cristã"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2601.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.55,
+  "data_analise": "2026-07-28T02:23:03Z",
+  "data_criacao": "2026-07-27T23:23:03.214520-03:00"
+}

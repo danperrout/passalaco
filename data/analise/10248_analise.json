@@ -1,0 +1,30 @@
+{
+  "id": 10248,
+  "nome_original": "Junina Saia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "top tomara que caia",
+      "saia curta"
+    ],
+    "material_visual": "tecido sintético com acabamento em renda",
+    "estilo_corte": "estilo rodada com camadas de babados",
+    "acessorios_visiveis": [
+      "laço de cabelo colorido"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, com referências ao traje típico caipira estilizado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10248.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 106.55,
+  "data_analise": "2026-07-29T07:30:38Z",
+  "data_criacao": "2026-07-29T04:30:38.466161-03:00"
+}

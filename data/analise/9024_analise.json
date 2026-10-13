@@ -1,0 +1,30 @@
+{
+  "id": 9024,
+  "nome_original": "Bailarina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Danças",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "corpo/bodysuit",
+      "saia de tule"
+    ],
+    "material_visual": "veludo, tule, cetim e detalhes em pedraria ou glitter",
+    "estilo_corte": "ajustado no corpo com saia estilo tutu volumosa",
+    "acessorios_visiveis": [
+      "tiara/coroa azul"
+    ],
+    "tematica_detalhada": "fantasia de bailarina clássica com estética de realeza ou princesa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9024.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 19.7,
+  "data_analise": "2026-07-27T16:59:43Z",
+  "data_criacao": "2026-07-27T13:59:43.125641-03:00"
+}

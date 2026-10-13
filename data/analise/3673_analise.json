@@ -1,0 +1,29 @@
+{
+  "id": 3673,
+  "nome_original": "Sapato de Palhaço",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "par de sapatos"
+    ],
+    "material_visual": "material sintético brilhante, possivelmente vinil ou couro sintético",
+    "estilo_corte": "formato oversized e arredondado, típico de calçados de palhaço",
+    "acessorios_visiveis": [
+      "cadarços verdes"
+    ],
+    "tematica_detalhada": "estética de circo clássico, referenciando a figura tradicional do palhaço com cores primárias vibrantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3673.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.34,
+  "data_analise": "2026-07-30T05:53:55Z",
+  "data_criacao": "2026-07-30T02:53:55.383614-03:00"
+}

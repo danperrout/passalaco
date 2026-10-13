@@ -1,0 +1,35 @@
+{
+  "id": 8846,
+  "nome_original": "Obelix e Astrid",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "túnica curta",
+      "vestido longo de alças",
+      "tiara",
+      "capacete"
+    ],
+    "material_visual": "tecido sintético com brilho e material plástico para acessórios",
+    "estilo_corte": "estilo túnica romana/gaulesa com corte solto",
+    "acessorios_visiveis": [
+      "cinto com fivela",
+      "capacete com chifres",
+      "peruca ruiva",
+      "tiara"
+    ],
+    "tematica_detalhada": "Personagens Obelix e Astrid, baseados nos quadrinhos Asterix, representando a cultura gaulesa antiga"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8846.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.32,
+  "data_analise": "2026-07-30T00:39:29Z",
+  "data_criacao": "2026-07-29T21:39:29.911392-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 9583,
+  "nome_original": "Chapeu e Suspensorio",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "chapéu"
+    ],
+    "material_visual": "feltro ou tecido sintético com aplicação de brilhos/glitter",
+    "estilo_corte": "copa cônica com aba circular",
+    "acessorios_visiveis": [
+      "detalhe dourado no topo"
+    ],
+    "tematica_detalhada": "estilo clássico ou performático, podendo remeter a personagens de circo, mágicos ou fantasias temáticas de gala"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9583.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.54,
+  "data_analise": "2026-07-27T19:52:36Z",
+  "data_criacao": "2026-07-27T16:52:36.453174-03:00"
+}

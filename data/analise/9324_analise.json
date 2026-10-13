@@ -1,0 +1,33 @@
+{
+  "id": 9324,
+  "nome_original": "o Maskara",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "verde",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "camisa",
+      "gravata"
+    ],
+    "material_visual": "tecido sintético com aspecto acetinado",
+    "estilo_corte": "terno clássico com paletó longo",
+    "acessorios_visiveis": [
+      "chapéu fedora",
+      "máscara facial verde"
+    ],
+    "tematica_detalhada": "Personagem O Máscara, baseado no quadrinho e filme, caracterizado pelo visual extravagante e surrealista"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9324.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 30.5,
+  "data_analise": "2026-07-30T00:39:11Z",
+  "data_criacao": "2026-07-29T21:39:11.413152-03:00"
+}

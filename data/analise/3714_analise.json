@@ -1,0 +1,34 @@
+{
+  "id": 3714,
+  "nome_original": "Napoleão",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "chapéu",
+      "camisa"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco e detalhes em galão dourado",
+    "estilo_corte": "casaco estilo fraque militar com lapelas largas e calça reta",
+    "acessorios_visiveis": [
+      "chapéu tricórnio",
+      "ombreiras com franjas",
+      "gravata"
+    ],
+    "tematica_detalhada": "Uniforme militar imperial inspirado em Napoleão Bonaparte, remetendo ao período do Primeiro Império Francês"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3714.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 27.84,
+  "data_analise": "2026-07-29T23:29:38Z",
+  "data_criacao": "2026-07-29T20:29:38.255808-03:00"
+}

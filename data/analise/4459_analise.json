@@ -1,0 +1,32 @@
+{
+  "id": 4459,
+  "nome_original": "Branca de Neve ( 6 Meses)",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "touca"
+    ],
+    "material_visual": "tule e cetim",
+    "estilo_corte": "estilo baby com saia volumosa e gola branca",
+    "acessorios_visiveis": [
+      "laço vermelho",
+      "detalhes dourados",
+      "pérolas"
+    ],
+    "tematica_detalhada": "fantasia inspirada na personagem Branca de Neve, adaptada para bebês"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4459.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.98,
+  "data_analise": "2026-07-27T18:22:08Z",
+  "data_criacao": "2026-07-27T15:22:08.956974-03:00"
+}

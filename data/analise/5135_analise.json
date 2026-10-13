@@ -1,0 +1,29 @@
+{
+  "id": 5135,
+  "nome_original": "Country",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com franjas",
+    "estilo_corte": "estilo western com detalhe em V no peito e franjas",
+    "acessorios_visiveis": [
+      "chapéu de cowboy"
+    ],
+    "tematica_detalhada": "Fantasia de cowboy/country, referenciando a cultura do oeste americano e trajes de rodeio"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5135.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 57.57,
+  "data_analise": "2026-07-28T02:01:36Z",
+  "data_criacao": "2026-07-27T23:01:36.896968-03:00"
+}

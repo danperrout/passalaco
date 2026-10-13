@@ -1,0 +1,29 @@
+{
+  "id": 4318,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido estampado com babados e texturas franzidas",
+    "estilo_corte": "vestido curto com cintura marcada e saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "chapéu de palha"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina, representando a estética caipira tradicional brasileira com elementos festivos e coloridos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4318.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 110.68,
+  "data_analise": "2026-07-28T22:07:09Z",
+  "data_criacao": "2026-07-28T19:07:09.451053-03:00"
+}

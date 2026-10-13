@@ -1,0 +1,30 @@
+{
+  "id": 4478,
+  "nome_original": "Safari",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "camisa",
+      "short"
+    ],
+    "material_visual": "tecido sintético fosco com estampas em animal print",
+    "estilo_corte": "estilo explorador com bolsos frontais e cintura marcada",
+    "acessorios_visiveis": [
+      "cinto com fivela dourada"
+    ],
+    "tematica_detalhada": "Explorador de Safari, referenciando aventureiros da natureza e fauna selvagem"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4478.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 52.39,
+  "data_analise": "2026-07-30T05:15:56Z",
+  "data_criacao": "2026-07-30T02:15:56.166506-03:00"
+}

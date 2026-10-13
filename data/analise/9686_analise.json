@@ -1,0 +1,29 @@
+{
+  "id": 9686,
+  "nome_original": "Super Pedreiro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "cinza"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "calça"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente poliéster",
+    "estilo_corte": "corte reto e largo, simulando uniforme de trabalho",
+    "acessorios_visiveis": [
+      "faixas refletivas"
+    ],
+    "tematica_detalhada": "Fantasia de trabalhador da construção civil/pedreiro, baseada em uniformes de segurança com alta visibilidade"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9686.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.09,
+  "data_analise": "2026-07-30T07:30:17Z",
+  "data_criacao": "2026-07-30T04:30:17.142035-03:00"
+}

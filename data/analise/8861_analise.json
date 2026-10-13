@@ -1,0 +1,33 @@
+{
+  "id": 8861,
+  "nome_original": "Casal Caveira Mexicana",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "multicolorido"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "vestido",
+      "cartola"
+    ],
+    "material_visual": "tecido sintético com detalhes em lurex ou glitter",
+    "estilo_corte": "alfaiataria masculina e vestido longo feminino com babados",
+    "acessorios_visiveis": [
+      "cartola",
+      "arranjo de flores coloridas na cabeça"
+    ],
+    "tematica_detalhada": "Dia de los Muertos (México), caracterizando um casal de caveiras mexicanas com elementos festivos e coloridos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8861.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.98,
+  "data_analise": "2026-07-27T19:31:36Z",
+  "data_criacao": "2026-07-27T16:31:36.578240-03:00"
+}

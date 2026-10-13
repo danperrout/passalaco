@@ -1,0 +1,27 @@
+{
+  "id": 2032,
+  "nome_original": "Noiva",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com renda e tule",
+    "estilo_corte": "estilo princesa com cintura marcada e saia evasê",
+    "acessorios_visiveis": [
+      "fita de cetim na cintura"
+    ],
+    "tematica_detalhada": "fantasia de noiva clássica, inspirada em trajes de casamento tradicionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2032.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 36.72,
+  "data_analise": "2026-07-30T00:00:02Z",
+  "data_criacao": "2026-07-29T21:00:02.562322-03:00"
+}

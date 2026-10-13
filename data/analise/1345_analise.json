@@ -1,0 +1,29 @@
+{
+  "id": 1345,
+  "nome_original": "Tasha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "touca"
+    ],
+    "material_visual": "tecido sintético acetinado",
+    "estilo_corte": "vestido curto de corte reto e touca modelada",
+    "acessorios_visiveis": [
+      "touca de animal"
+    ],
+    "tematica_detalhada": "Fantasia infantil baseada na personagem Tasha do desenho 'Tasha e seus Amigos', com temática de girafa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1345.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 41.2,
+  "data_analise": "2026-07-30T07:42:17Z",
+  "data_criacao": "2026-07-30T04:42:17.540823-03:00"
+}

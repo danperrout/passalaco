@@ -1,0 +1,25 @@
+{
+  "id": 6572,
+  "nome_original": "Anjo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Vitrine",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido acetinado e detalhes em renda ou bordado",
+    "estilo_corte": "longo e fluido com cintura marcada",
+    "acessorios_visiveis": [
+      "asas de anjo",
+      "auréola"
+    ],
+    "tematica_detalhada": "anjo celestial clássico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6572.jpg",
+  "data_analise": "2026-07-27T13:57:12Z"
+}

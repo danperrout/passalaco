@@ -1,0 +1,30 @@
+{
+  "id": 780,
+  "nome_original": "Julieta",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vinho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "corset"
+    ],
+    "material_visual": "tecido leve fluido com detalhes em veludo e adornos dourados",
+    "estilo_corte": "estilo renascentista com cintura marcada, mangas bufantes e saia longa",
+    "acessorios_visiveis": [
+      "tiara dourada"
+    ],
+    "tematica_detalhada": "fantasia inspirada na personagem Julieta de Romeu e Julieta, remetendo ao período renascentista italiano"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/780.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 39.9,
+  "data_analise": "2026-07-28T21:43:57Z",
+  "data_criacao": "2026-07-28T18:43:57.847396-03:00"
+}

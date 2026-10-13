@@ -1,0 +1,31 @@
+{
+  "id": 9648,
+  "nome_original": "Goku",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Cosplay",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "faixa de cintura",
+      "bandana"
+    ],
+    "material_visual": "tecido sintético com aspecto de poliéster ou elastano",
+    "estilo_corte": "estilo esportivo/martial arts com modelagem solta",
+    "acessorios_visiveis": [
+      "bandana com símbolo"
+    ],
+    "tematica_detalhada": "fantasia inspirada no personagem Naruto Uzumaki do anime Naruto, apesar da menção anterior a Goku"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9648.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 39.79,
+  "data_analise": "2026-07-28T11:09:47Z",
+  "data_criacao": "2026-07-28T08:09:47.354888-03:00"
+}

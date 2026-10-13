@@ -1,0 +1,26 @@
+{
+  "id": 7060,
+  "nome_original": "Cangaceiro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom claro"
+    ],
+    "pecas_inclusas": [
+      "camisa"
+    ],
+    "material_visual": "tecido com aparência de brim ou linho rústico",
+    "estilo_corte": "camisa de manga longa com gola e fechamento frontal por botões",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Vestimenta inspirada no traje típico do Cangaceiro, remetendo à cultura do sertão nordestino brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7060.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.99,
+  "data_analise": "2026-07-27T18:53:14Z",
+  "data_criacao": "2026-07-27T15:53:14.795326-03:00"
+}

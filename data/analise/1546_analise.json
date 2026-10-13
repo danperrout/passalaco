@@ -1,0 +1,29 @@
+{
+  "id": 1546,
+  "nome_original": "Dançarina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Danças",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido curto estilo corset",
+      "cartola"
+    ],
+    "material_visual": "cetim ou poliéster com acabamentos em renda e babados",
+    "estilo_corte": "ajustado ao corpo com cintura marcada e saia curta em camadas de babados",
+    "acessorios_visiveis": [
+      "cartola vermelha com fita preta"
+    ],
+    "tematica_detalhada": "Dançarina de Cabaré ou estilo Burlesque, com referências a espetáculos de revista"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1546.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.98,
+  "data_analise": "2026-07-28T02:46:41Z",
+  "data_criacao": "2026-07-27T23:46:41.926334-03:00"
+}

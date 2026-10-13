@@ -1,0 +1,32 @@
+{
+  "id": 7617,
+  "nome_original": "Cosplay",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "camiseta",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com acabamentos metálicos",
+    "estilo_corte": "jaqueta estruturada com gola alta e calça de corte reto",
+    "acessorios_visiveis": [
+      "ombreiras douradas",
+      "cinto com fivela"
+    ],
+    "tematica_detalhada": "Cosplay de personagem inspirado em estética militar estilizada ou anime, possivelmente referenciando uniformes de fantasia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7617.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.64,
+  "data_analise": "2026-07-28T01:57:34Z",
+  "data_criacao": "2026-07-27T22:57:34.205582-03:00"
+}

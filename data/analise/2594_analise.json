@@ -1,0 +1,29 @@
+{
+  "id": 2594,
+  "nome_original": "Dama",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prata",
+      "cinza escuro"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "sobrepeliz/capa aberta"
+    ],
+    "material_visual": "tecido com lantejoulas ou acabamento metalizado",
+    "estilo_corte": "corte medieval com saia longa e mangas amplas",
+    "acessorios_visiveis": [
+      "tiara dourada"
+    ],
+    "tematica_detalhada": "fantasia de dama da corte ou nobreza medieval/renascentista"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2594.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 31.41,
+  "data_analise": "2026-07-28T02:31:52Z",
+  "data_criacao": "2026-07-27T23:31:52.038685-03:00"
+}

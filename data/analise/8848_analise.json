@@ -1,0 +1,32 @@
+{
+  "id": 8848,
+  "nome_original": "Jafar",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica longa",
+      "capa",
+      "turbante"
+    ],
+    "material_visual": "cetim ou poliéster com acabamento brilhante e detalhes metálicos",
+    "estilo_corte": "estilo oriental com túnica longa e capa fluida",
+    "acessorios_visiveis": [
+      "turbante com ornamento dourado",
+      "detalhes decorativos no peitoral"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Jafar do filme Aladdin, remetendo a trajes luxuosos de vizires do Oriente Médio fantasioso"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8848.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 165.18,
+  "data_analise": "2026-07-28T18:52:31Z",
+  "data_criacao": "2026-07-28T15:52:31.384062-03:00"
+}

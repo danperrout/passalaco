@@ -1,0 +1,30 @@
+{
+  "id": 6700,
+  "nome_original": "Chef de Cozinha",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "chapéu de chef",
+      "dólmã",
+      "calça"
+    ],
+    "material_visual": "tecido sintético leve",
+    "estilo_corte": "corte reto com gola mandarim e fechamento frontal",
+    "acessorios_visiveis": [
+      "botões decorativos vermelhos"
+    ],
+    "tematica_detalhada": "fantasia de chef de cozinha profissional, inspirada na vestimenta clássica de gastronomia francesa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6700.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 35.8,
+  "data_analise": "2026-07-27T20:49:48Z",
+  "data_criacao": "2026-07-27T17:49:48.299453-03:00"
+}

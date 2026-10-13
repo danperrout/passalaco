@@ -1,0 +1,29 @@
+{
+  "id": 4673,
+  "nome_original": "Zebra",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "tecido sintético com estampa animal e tule na saia",
+    "estilo_corte": "vestido curto com alças e saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "tiara com orelhas de zebra"
+    ],
+    "tematica_detalhada": "fantasia infantil de zebra, focada na representação estilizada do animal selvagem"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4673.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 75.91,
+  "data_analise": "2026-07-30T09:03:09Z",
+  "data_criacao": "2026-07-30T06:03:09.209445-03:00"
+}

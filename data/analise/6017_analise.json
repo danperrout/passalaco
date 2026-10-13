@@ -1,0 +1,28 @@
+{
+  "id": 6017,
+  "nome_original": "Astronauta",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prata",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "tecido metalizado brilhante e sintético com forro claro",
+    "estilo_corte": "modelagem folgada e volumosa com ombros estruturados",
+    "acessorios_visiveis": [
+      "capuz integrado"
+    ],
+    "tematica_detalhada": "exploração espacial, temática de astronauta/viajante espacial"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6017.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 5.08,
+  "data_analise": "2026-07-27T16:56:58Z",
+  "data_criacao": "2026-07-27T13:56:58.473355-03:00"
+}

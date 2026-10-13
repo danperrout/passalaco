@@ -1,0 +1,27 @@
+{
+  "id": 6638,
+  "nome_original": "Alemă",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "corpete",
+      "saia"
+    ],
+    "material_visual": "tecido sintético brilhante e material translúcido/espumoso",
+    "estilo_corte": "estilo bufante com cintura marcada",
+    "acessorios_visiveis": [
+      "cartola"
+    ],
+    "tematica_detalhada": "personagem estilizado ou fantasia artística com elementos de época e surrealismo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6638.jpg",
+  "data_analise": "2026-07-27T13:41:40Z"
+}

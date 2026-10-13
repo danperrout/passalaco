@@ -1,0 +1,33 @@
+{
+  "id": 1093,
+  "nome_original": "Smurf",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga longa",
+      "calça",
+      "gorro",
+      "barba"
+    ],
+    "material_visual": "tecido sintético elástico e fibra sintética para a barba",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "gorro pontudo",
+      "barba postiça"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em Smurfs, especificamente referenciando o Papai Noel Smurf devido à combinação de azul com elementos vermelhos e a barba branca"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1093.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 68.54,
+  "data_analise": "2026-07-30T06:53:22Z",
+  "data_criacao": "2026-07-30T03:53:22.794770-03:00"
+}

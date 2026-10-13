@@ -1,0 +1,33 @@
+{
+  "id": 7139,
+  "nome_original": "Harry Potter",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "cinza"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "gravata",
+      "calça",
+      "camisa"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster",
+    "estilo_corte": "estilo uniforme escolar com capa longa e corte reto",
+    "acessorios_visiveis": [
+      "óculos redondos",
+      "brasão bordado"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Harry Potter, especificamente do uniforme da casa Grifinória da Escola de Magia e Bruxaria de Hogwarts"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7139.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 139.45,
+  "data_analise": "2026-07-28T12:26:31Z",
+  "data_criacao": "2026-07-28T09:26:31.815036-03:00"
+}

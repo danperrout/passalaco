@@ -1,0 +1,30 @@
+{
+  "id": 9538,
+  "nome_original": "Bruxa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Halloween Infantil",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com brilho e estampas de estrelas",
+    "estilo_corte": "vestido longo rodado com capa sobreposta e chapéu cônico",
+    "acessorios_visiveis": [
+      "chapéu de bruxa pontudo"
+    ],
+    "tematica_detalhada": "bruxa clássica com temática celestial, referenciando magia, estrelas e misticismo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9538.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.11,
+  "data_analise": "2026-07-27T18:29:45Z",
+  "data_criacao": "2026-07-27T15:29:45.679833-03:00"
+}

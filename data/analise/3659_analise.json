@@ -1,0 +1,31 @@
+{
+  "id": 3659,
+  "nome_original": "Cangaceiro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético e material rígido para o chapéu",
+    "estilo_corte": "conjunto de roupas simples com corte reto",
+    "acessorios_visiveis": [
+      "chapéu de couro",
+      "bandoleira"
+    ],
+    "tematica_detalhada": "Cangaceiro, inspirada nos combatentes do sertão nordestino do Brasil, com referência a Lampião"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3659.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.73,
+  "data_analise": "2026-07-27T18:53:18Z",
+  "data_criacao": "2026-07-27T15:53:18.871722-03:00"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 6518,
+  "nome_original": "Chiquinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "casaco",
+      "bolso decorativo"
+    ],
+    "material_visual": "cetim ou tecido sintético com brilho",
+    "estilo_corte": "vestido curto com saia franzida e casaco aberto de mangas longas",
+    "acessorios_visiveis": [
+      "gola branca com bolinhas",
+      "bolso branco com bolinhas",
+      "meia calça branca franzida"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Chiquinha (La Chilindrina) do programa Chaves"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6518.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 162.09,
+  "data_analise": "2026-07-27T21:32:54Z",
+  "data_criacao": "2026-07-27T18:32:54.656004-03:00"
+}

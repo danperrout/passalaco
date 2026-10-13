@@ -1,0 +1,29 @@
+{
+  "id": 2390,
+  "nome_original": "Brega",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com aspecto de poliéster",
+    "estilo_corte": "corte clássico de terno com ajuste folgado",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "estilo brega caracterizado pelo contraste gritante entre o blazer verde vibrante e a estampa animal print/geométrica da camisa e calça"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2390.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.54,
+  "data_analise": "2026-07-27T18:22:34Z",
+  "data_criacao": "2026-07-27T15:22:34.613787-03:00"
+}

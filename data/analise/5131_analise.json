@@ -1,0 +1,33 @@
+{
+  "id": 5131,
+  "nome_original": "Jeca",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "branco",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "paletó xadrez",
+      "calça jeans com remendos",
+      "gravata"
+    ],
+    "material_visual": "tecido sintético xadrez, denim com apliques de tecido e palha",
+    "estilo_corte": "corte desajustado e rústico",
+    "acessorios_visiveis": [
+      "chapéu de palha",
+      "flor decorativa na lapela"
+    ],
+    "tematica_detalhada": "personagem caipira/matuto, referenciando a cultura rural brasileira e festas juninas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5131.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 27.61,
+  "data_analise": "2026-07-28T20:46:55Z",
+  "data_criacao": "2026-07-28T17:46:55.718386-03:00"
+}

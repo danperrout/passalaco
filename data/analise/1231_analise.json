@@ -1,0 +1,33 @@
+{
+  "id": 1231,
+  "nome_original": "Principe",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "cetim ou poliéster brilhante",
+    "estilo_corte": "estilo militar clássico com casaco longo e trespassado",
+    "acessorios_visiveis": [
+      "pluma preta",
+      "detalhes dourados ornamentais"
+    ],
+    "tematica_detalhada": "Príncipe clássico de contos de fada com inspiração em uniformes militares reais europeus"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1231.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.49,
+  "data_analise": "2026-07-30T04:10:45Z",
+  "data_criacao": "2026-07-30T01:10:45.303385-03:00"
+}

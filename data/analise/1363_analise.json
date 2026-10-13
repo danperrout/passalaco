@@ -1,0 +1,31 @@
+{
+  "id": 1363,
+  "nome_original": "Ursinha Carinhosa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "shorts",
+      "touca"
+    ],
+    "material_visual": "pelúcia macia",
+    "estilo_corte": "estilo kigurumi/pijama oversized",
+    "acessorios_visiveis": [
+      "touca com orelhas"
+    ],
+    "tematica_detalhada": "Personagem Ursinha Carinhosa, caracterizada por cores pastéis e símbolo de coração no abdômen"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1363.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.38,
+  "data_analise": "2026-07-30T08:41:29Z",
+  "data_criacao": "2026-07-30T05:41:29.412030-03:00"
+}

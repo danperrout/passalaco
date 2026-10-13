@@ -1,0 +1,28 @@
+{
+  "id": 6211,
+  "nome_original": "Princesa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "cetim e tule com detalhes brilhantes",
+    "estilo_corte": "estilo princesa com mangas bufantes e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "fantasia de princesa clássica, com referências a personagens de contos de fadas ou animações"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6211.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.92,
+  "data_analise": "2026-07-30T03:58:40Z",
+  "data_criacao": "2026-07-30T00:58:40.541132-03:00"
+}

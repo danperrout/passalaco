@@ -1,0 +1,33 @@
+{
+  "id": 7582,
+  "nome_original": "Harry Potter Hermione",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "cinza"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz",
+      "saia",
+      "camisa branca",
+      "gravata"
+    ],
+    "material_visual": "tecido sintético com aparência de poliéster",
+    "estilo_corte": "corte escolar clássico com túnica longa e saia curta",
+    "acessorios_visiveis": [
+      "gravata listrada",
+      "brasão da casa"
+    ],
+    "tematica_detalhada": "estudante da Grifinória da escola de magia Hogwarts, inspirada na personagem Hermione Granger da saga Harry Potter"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7582.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 87.72,
+  "data_analise": "2026-07-28T12:44:04Z",
+  "data_criacao": "2026-07-28T09:44:04.663666-03:00"
+}

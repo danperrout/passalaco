@@ -1,0 +1,31 @@
+{
+  "id": 9304,
+  "nome_original": "Chuck",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "camiseta de manga longa",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético e plástico/látex para a máscara",
+    "estilo_corte": "macacão de corte reto com alças e camiseta ajustada",
+    "acessorios_visiveis": [
+      "máscara de personagem"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Chucky, o boneco assassino, da franquia de filmes de terror Child's Play"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9304.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 125.5,
+  "data_analise": "2026-07-27T21:49:17Z",
+  "data_criacao": "2026-07-27T18:49:17.627101-03:00"
+}

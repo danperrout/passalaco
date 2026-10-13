@@ -1,0 +1,30 @@
+{
+  "id": 8641,
+  "nome_original": "Hulk",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "camisa de manga longa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com estampa sublimada",
+    "estilo_corte": "ajustado ao corpo com efeito visual de musculatura",
+    "acessorios_visiveis": [
+      "máscara facial"
+    ],
+    "tematica_detalhada": "Personagem Hulk da Marvel Comics, caracterizado pela pele verde e calças roxas rasgadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8641.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 114.68,
+  "data_analise": "2026-07-28T15:14:16Z",
+  "data_criacao": "2026-07-28T12:14:16.524713-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 4839,
+  "nome_original": "Bela Adormecida",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim e tule",
+    "estilo_corte": "vestido de baile longo com corpete ajustado e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "Princesa, com referências claras à personagem Bela Adormecida da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4839.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.71,
+  "data_analise": "2026-07-27T17:54:33Z",
+  "data_criacao": "2026-07-27T14:54:33.206905-03:00"
+}

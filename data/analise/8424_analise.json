@@ -1,0 +1,32 @@
+{
+  "id": 8424,
+  "nome_original": "Campones",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "boina",
+      "colete",
+      "calça"
+    ],
+    "material_visual": "tecido com aspecto de linho ou sarja",
+    "estilo_corte": "estilo rústico com corte reto e ajuste por botões",
+    "acessorios_visiveis": [
+      "boina",
+      "gravata borboleta"
+    ],
+    "tematica_detalhada": "fantasia de camponês europeu clássico, com referências a trajes rurais antigos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8424.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.69,
+  "data_analise": "2026-07-27T18:50:13Z",
+  "data_criacao": "2026-07-27T15:50:13.433044-03:00"
+}

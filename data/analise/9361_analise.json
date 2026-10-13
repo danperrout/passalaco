@@ -1,0 +1,29 @@
+{
+  "id": 9361,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara/headpiece"
+    ],
+    "material_visual": "tecido metalizado e sintético",
+    "estilo_corte": "estilo drapeado e fluido com caimento irregular",
+    "acessorios_visiveis": [
+      "tiara de girassol"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em elementos da natureza e brilho carnavalesco, com referência ao girassol e estética solar"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9361.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.5,
+  "data_analise": "2026-07-27T19:26:56Z",
+  "data_criacao": "2026-07-27T16:26:56.312437-03:00"
+}

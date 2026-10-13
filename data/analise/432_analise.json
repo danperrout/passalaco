@@ -1,0 +1,31 @@
+{
+  "id": 432,
+  "nome_original": "Coelhinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "macacão curto",
+      "tiara"
+    ],
+    "material_visual": "tecido aveludado ou plush",
+    "estilo_corte": "estilo romper/macacão com pernas bufantes",
+    "acessorios_visiveis": [
+      "tiara com orelhas de coelho",
+      "laço rosa no peito",
+      "laço rosa na tiara"
+    ],
+    "tematica_detalhada": "fantasia de coelhinha infantil, com referências a personagens fofos de animais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/432.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 70.06,
+  "data_analise": "2026-07-27T23:49:55Z",
+  "data_criacao": "2026-07-27T20:49:55.887377-03:00"
+}

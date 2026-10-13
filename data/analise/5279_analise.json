@@ -1,0 +1,30 @@
+{
+  "id": 5279,
+  "nome_original": "Capitao America",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "macacão integral",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente poliéster ou elastano",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "máscara com a letra A"
+    ],
+    "tematica_detalhada": "Capitão América, super-herói da Marvel Comics inspirado nas cores e símbolos da bandeira dos Estados Unidos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5279.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.48,
+  "data_analise": "2026-07-27T19:07:34Z",
+  "data_criacao": "2026-07-27T16:07:34.952531-03:00"
+}

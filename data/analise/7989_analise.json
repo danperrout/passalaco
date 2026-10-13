@@ -1,0 +1,32 @@
+{
+  "id": 7989,
+  "nome_original": "Rei",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "dourado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "máscara de leão",
+      "casaco",
+      "calça",
+      "camisa"
+    ],
+    "material_visual": "veludo com detalhes em cetim ou lamê dourado",
+    "estilo_corte": "estilo regência ou militar clássico com casaco curto e calça reta",
+    "acessorios_visiveis": [
+      "máscara de cabeça de leão com juba"
+    ],
+    "tematica_detalhada": "personagem antropomórfico de leão com vestimentas reais/nobres, possivelmente referenciando a 'Bela e a Fera' ou temas de realeza animal"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7989.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 148.21,
+  "data_analise": "2026-07-30T04:46:16Z",
+  "data_criacao": "2026-07-30T01:46:16.983953-03:00"
+}

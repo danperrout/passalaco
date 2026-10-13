@@ -1,0 +1,33 @@
+{
+  "id": 9093,
+  "nome_original": "Caveira Mexicana",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "camisa",
+      "calça",
+      "cartola"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco e brilho leve",
+    "estilo_corte": "estilo social clássico com paletó slim e calças ajustadas",
+    "acessorios_visiveis": [
+      "gravata borboleta",
+      "cartola com caveira"
+    ],
+    "tematica_detalhada": "Caveira Mexicana inspirada no Dia dos Mortos (Día de Muertos), mesclando elementos de gala com estampas folclóricas de caveiras coloridas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9093.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.58,
+  "data_analise": "2026-07-27T19:45:12Z",
+  "data_criacao": "2026-07-27T16:45:12.304427-03:00"
+}

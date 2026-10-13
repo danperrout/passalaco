@@ -1,0 +1,32 @@
+{
+  "id": 8029,
+  "nome_original": "Rainha de Copas",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "corselete",
+      "luvas"
+    ],
+    "material_visual": "cetim ou tecido sintético com brilho",
+    "estilo_corte": "estilo gótico com saia curta frontal e cauda longa, gola alta rígida e cintura ajustada",
+    "acessorios_visiveis": [
+      "tiara/coroa",
+      "luvas longas"
+    ],
+    "tematica_detalhada": "Rainha de Copas, inspirada na obra Alice no País das Maravilhas, com elementos de realeza e estética vitoriana estilizada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8029.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.87,
+  "data_analise": "2026-07-30T04:26:23Z",
+  "data_criacao": "2026-07-30T01:26:23.240618-03:00"
+}

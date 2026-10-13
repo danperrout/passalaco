@@ -1,0 +1,32 @@
+{
+  "id": 9667,
+  "nome_original": "Mamae Noel Luxo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Natalinas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "gorro",
+      "cinto",
+      "polainas"
+    ],
+    "material_visual": "tecido aveludado com acabamentos em pelúcia sintética",
+    "estilo_corte": "vestido curto com gola larga, mangas curtas e saia evasê",
+    "acessorios_visiveis": [
+      "cinto preto com fivela dourada",
+      "gorro de Papai Noel"
+    ],
+    "tematica_detalhada": "Mamãe Noel, personagem folclórica associada ao Natal, com foco em um visual festivo e estilizado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9667.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 34.6,
+  "data_analise": "2026-07-29T17:18:49Z",
+  "data_criacao": "2026-07-29T14:18:49.262262-03:00"
+}

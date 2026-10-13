@@ -1,0 +1,31 @@
+{
+  "id": 6963,
+  "nome_original": "Saia Camponesa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "dourado",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "saia"
+    ],
+    "material_visual": "tecido sintético fosco com acabamentos em renda e fitas decorativas",
+    "estilo_corte": "corte evasê com cintura elástica e babado inferior",
+    "acessorios_visiveis": [
+      "renda branca",
+      "galões decorativos"
+    ],
+    "tematica_detalhada": "estilo camponesa europeia ou folclórica, remetendo a festas típicas ou personagens de contos de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6963.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.27,
+  "data_analise": "2026-07-30T05:35:33Z",
+  "data_criacao": "2026-07-30T02:35:33.560974-03:00"
+}

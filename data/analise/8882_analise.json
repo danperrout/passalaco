@@ -1,0 +1,30 @@
+{
+  "id": 8882,
+  "nome_original": "Casal Medieval",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "túnica medieval"
+    ],
+    "material_visual": "tecido sintético com detalhes em lurex ou paetês prateados",
+    "estilo_corte": "corte fluido com mangas amplas e decote ornamentado",
+    "acessorios_visiveis": [
+      "coroas",
+      "colar"
+    ],
+    "tematica_detalhada": "nobreza medieval, representando a realeza como rei e rainha com estética gótica ou formal"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8882.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.97,
+  "data_analise": "2026-07-27T19:35:17Z",
+  "data_criacao": "2026-07-27T16:35:17.573196-03:00"
+}

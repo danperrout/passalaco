@@ -1,0 +1,30 @@
+{
+  "id": 9982,
+  "nome_original": "Vampira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vinho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "capa"
+    ],
+    "material_visual": "veludo",
+    "estilo_corte": "estilo corset com saia rodada e capelet",
+    "acessorios_visiveis": [
+      "gargantilha",
+      "botões decorativos"
+    ],
+    "tematica_detalhada": "Vampira gótica clássica com inspirações vitorianas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9982.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.46,
+  "data_analise": "2026-07-30T08:47:46Z",
+  "data_criacao": "2026-07-30T05:47:46.651602-03:00"
+}

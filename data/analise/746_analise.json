@@ -1,0 +1,32 @@
+{
+  "id": 746,
+  "nome_original": "Italiana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "avental",
+      "colete",
+      "tiara de flores"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster e cetim",
+    "estilo_corte": "estilo camponês europeu com saia rodada e corpete ajustado",
+    "acessorios_visiveis": [
+      "tiara de flores coloridas"
+    ],
+    "tematica_detalhada": "estereótipo de camponesa italiana, inspirada em trajes folclóricos regionais da Itália"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/746.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 130.76,
+  "data_analise": "2026-07-28T17:44:29Z",
+  "data_criacao": "2026-07-28T14:44:29.985472-03:00"
+}

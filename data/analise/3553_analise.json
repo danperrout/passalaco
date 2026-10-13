@@ -1,0 +1,33 @@
+{
+  "id": 3553,
+  "nome_original": "Country",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "camisa",
+      "colete",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com aparência de camurça ou feltro",
+    "estilo_corte": "estilo western com franjas e corte reto",
+    "acessorios_visiveis": [
+      "estrela de xerife",
+      "cinto"
+    ],
+    "tematica_detalhada": "fantasia de xerife do Velho Oeste americano, referenciando a cultura cowboy"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3553.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 53.21,
+  "data_analise": "2026-07-28T02:02:31Z",
+  "data_criacao": "2026-07-27T23:02:31.278382-03:00"
+}

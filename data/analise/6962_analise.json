@@ -1,0 +1,31 @@
+{
+  "id": 6962,
+  "nome_original": "Boneco Mario",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camiseta branca",
+      "calça azul",
+      "detalhes decorativos vermelhos"
+    ],
+    "material_visual": "tecido sintético e malha",
+    "estilo_corte": "estilo casual e volumoso",
+    "acessorios_visiveis": [
+      "elementos decorativos coloridos na parte inferior"
+    ],
+    "tematica_detalhada": "Inspirada no personagem Mario Bros, com foco nas cores clássicas do personagem"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6962.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.69,
+  "data_analise": "2026-07-27T18:18:43Z",
+  "data_criacao": "2026-07-27T15:18:43.022601-03:00"
+}

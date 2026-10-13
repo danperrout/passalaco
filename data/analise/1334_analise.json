@@ -1,0 +1,30 @@
+{
+  "id": 1334,
+  "nome_original": "Super Mulher",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "vestido curto com saia evasê e mangas longas",
+    "acessorios_visiveis": [
+      "capa vermelha"
+    ],
+    "tematica_detalhada": "Super-heroína inspirada na Supergirl/Super Mulher, com o icônico emblema em formato de diamante no peito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1334.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.64,
+  "data_analise": "2026-07-30T07:29:57Z",
+  "data_criacao": "2026-07-30T04:29:57.429908-03:00"
+}

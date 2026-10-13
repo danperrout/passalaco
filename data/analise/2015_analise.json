@@ -1,0 +1,29 @@
+{
+  "id": 2015,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Infantis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde água",
+      "rosa",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampa floral e detalhes em renda",
+    "estilo_corte": "estilo camponesa com mangas bufantes, cintura marcada e saia rodada com babados",
+    "acessorios_visiveis": [
+      "tiara com enfeite floral"
+    ],
+    "tematica_detalhada": "fantasia de festa junina inspirada no traje típico caipira feminino, remetendo à cultura rural brasileira"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2015.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 33.7,
+  "data_analise": "2026-07-28T23:53:58Z",
+  "data_criacao": "2026-07-28T20:53:58.956565-03:00"
+}

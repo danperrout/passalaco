@@ -1,0 +1,30 @@
+{
+  "id": 6846,
+  "nome_original": "Coelhinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia tutu",
+      "tiara de orelhas"
+    ],
+    "material_visual": "paetês e tule",
+    "estilo_corte": "top curto sem mangas e saia curta volumosa",
+    "acessorios_visiveis": [
+      "tiara de orelhas de coelho"
+    ],
+    "tematica_detalhada": "fantasia de coelhinha estilizada para crianças, com foco em estética festiva e brilhante"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6846.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 42.97,
+  "data_analise": "2026-07-27T23:50:39Z",
+  "data_criacao": "2026-07-27T20:50:39.198414-03:00"
+}

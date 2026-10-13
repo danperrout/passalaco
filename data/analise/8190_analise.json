@@ -1,0 +1,32 @@
+{
+  "id": 8190,
+  "nome_original": "Os Tres Porquinhos",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "rosa",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "camiseta",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético e palha",
+    "estilo_corte": "macacão com alças e camiseta de mangas curtas",
+    "acessorios_visiveis": [
+      "chapéu de palha com orelhas de porquinho",
+      "objeto simulando madeira/tronco"
+    ],
+    "tematica_detalhada": "Fantasia infantil baseada no conto 'Os Três Porquinhos', representando um dos personagens construtores."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8190.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 38.38,
+  "data_analise": "2026-07-30T01:08:29Z",
+  "data_criacao": "2026-07-29T22:08:29.405357-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 8098,
+  "nome_original": "Medieval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul royal",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "capuz"
+    ],
+    "material_visual": "cetim ou veludo sintético com mangas em tecido translúcido",
+    "estilo_corte": "estilo túnica medieval com corte evasê e decote em V com cadarço",
+    "acessorios_visiveis": [
+      "detalhes em cordão dourado"
+    ],
+    "tematica_detalhada": "fantasia medieval inspirada em nobreza, magos ou personagens de fantasia épica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8098.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 43.67,
+  "data_analise": "2026-07-29T21:13:34Z",
+  "data_criacao": "2026-07-29T18:13:34.424302-03:00"
+}

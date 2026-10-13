@@ -1,0 +1,28 @@
+{
+  "id": 7442,
+  "nome_original": "Chapeuzinho Vermelho",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa com capuz"
+    ],
+    "material_visual": "renda e veludo",
+    "estilo_corte": "vestido evasê com cintura marcada e capa longa",
+    "acessorios_visiveis": [
+      "laços de amarração"
+    ],
+    "tematica_detalhada": "Fantasia baseada na personagem de contos de fadas Chapeuzinho Vermelho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7442.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 90.58,
+  "data_analise": "2026-07-27T19:58:16Z",
+  "data_criacao": "2026-07-27T16:58:16.046104-03:00"
+}

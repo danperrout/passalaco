@@ -1,0 +1,30 @@
+{
+  "id": 4434,
+  "nome_original": "Banana de Pijama",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "touca"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou malha",
+    "estilo_corte": "estilo pijama oversized com listras verticais",
+    "acessorios_visiveis": [
+      "touca em formato de banana"
+    ],
+    "tematica_detalhada": "fantasia de banana de pijama, referência ao personagem Banana in Pyjamas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4434.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 350.92,
+  "data_analise": "2026-07-27T17:39:48Z",
+  "data_criacao": "2026-07-27T14:39:48.506115-03:00"
+}

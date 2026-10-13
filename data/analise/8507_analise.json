@@ -1,0 +1,30 @@
+{
+  "id": 8507,
+  "nome_original": "Bombeiro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga longa",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster",
+    "estilo_corte": "ajuste regular, conjunto de duas peças com corte simples",
+    "acessorios_visiveis": [
+      "quepe de bombeiro"
+    ],
+    "tematica_detalhada": "fantasia de bombeiro infantil, baseada no uniforme operacional de combate a incêndio"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8507.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.71,
+  "data_analise": "2026-07-27T18:17:21Z",
+  "data_criacao": "2026-07-27T15:17:21.573193-03:00"
+}

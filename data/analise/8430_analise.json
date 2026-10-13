@@ -1,0 +1,30 @@
+{
+  "id": 8430,
+  "nome_original": "Chiquinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "cardigã"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte evasê com gola boneca e mangas longas",
+    "acessorios_visiveis": [
+      "óculos de armação preta"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Chiquinha, do seriado Chaves, caracterizada por roupas infantis desajustadas e estilo retrô"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8430.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 225.99,
+  "data_analise": "2026-07-27T21:29:00Z",
+  "data_criacao": "2026-07-27T18:29:00.283018-03:00"
+}

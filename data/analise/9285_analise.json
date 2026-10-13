@@ -1,0 +1,32 @@
+{
+  "id": 9285,
+  "nome_original": "Casal It",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "blusa",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com aspecto de cetim ou poliéster e babados de tule ou organza",
+    "estilo_corte": "estilo vitoriano com golas altas, babados volumosos e cintura marcada",
+    "acessorios_visiveis": [
+      "perucas laranjas",
+      "pompons vermelhos",
+      "maquiagem de palhaço"
+    ],
+    "tematica_detalhada": "Casal inspirado no personagem Pennywise do filme 'It: A Coisa', adaptando a estética do palhaço a versões masculina e feminina"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9285.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.55,
+  "data_analise": "2026-07-27T19:34:03Z",
+  "data_criacao": "2026-07-27T16:34:03.857094-03:00"
+}

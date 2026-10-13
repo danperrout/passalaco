@@ -1,0 +1,28 @@
+{
+  "id": 3856,
+  "nome_original": "Padre",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "túnica"
+    ],
+    "material_visual": "tecido sintético leve",
+    "estilo_corte": "túnica longa de corte reto com mangas compridas",
+    "acessorios_visiveis": [
+      "colar com cruz dourada"
+    ],
+    "tematica_detalhada": "fantasia de padre ou clérigo, com referências a vestimentas litúrgicas cristãs e símbolo do monograma de Cristo (Chi Rho)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3856.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 53.08,
+  "data_analise": "2026-07-30T01:20:00Z",
+  "data_criacao": "2026-07-29T22:20:00.767400-03:00"
+}

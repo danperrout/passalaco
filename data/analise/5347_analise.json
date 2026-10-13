@@ -1,0 +1,29 @@
+{
+  "id": 5347,
+  "nome_original": "Sininho",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Fadas/Duendes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde limão",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "asas"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante com detalhes em glitter",
+    "estilo_corte": "vestido curto com saia rodada e corpete ajustado",
+    "acessorios_visiveis": [
+      "asas de fada"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Sininho (Tinker Bell), referenciando a fada do filme Peter Pan"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5347.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.72,
+  "data_analise": "2026-07-30T06:44:52Z",
+  "data_criacao": "2026-07-30T03:44:52.855497-03:00"
+}

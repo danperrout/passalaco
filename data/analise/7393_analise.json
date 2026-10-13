@@ -1,0 +1,31 @@
+{
+  "id": 7393,
+  "nome_original": "Dragao",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético com estampa escamosa",
+    "estilo_corte": "justo ao corpo, estilo kigurumi ou pijama",
+    "acessorios_visiveis": [
+      "asas",
+      "cauda",
+      "máscara/capuz de dragão"
+    ],
+    "tematica_detalhada": "Dragão fantástico, inspirada em criaturas mitológicas ocidentais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7393.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.81,
+  "data_analise": "2026-07-28T03:24:40Z",
+  "data_criacao": "2026-07-28T00:24:40.551564-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 6189,
+  "nome_original": "Quati",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "estilo kigurumi ou macacão integral folgado",
+    "acessorios_visiveis": [
+      "orelhas no capuz",
+      "detalhe de amarração no pescoço"
+    ],
+    "tematica_detalhada": "fantasia de animal, especificamente um quati ou animal semelhante, com foco em representação zoomórfica infantil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6189.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.49,
+  "data_analise": "2026-07-30T04:17:52Z",
+  "data_criacao": "2026-07-30T01:17:52.403470-03:00"
+}

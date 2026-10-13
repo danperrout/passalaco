@@ -1,0 +1,28 @@
+{
+  "id": 8380,
+  "nome_original": "Arlequina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camiseta de manga curta",
+      "shorts"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente malha ou poliéster",
+    "estilo_corte": "conjunto esportivo casual composto por camiseta com listra horizontal e shorts curtos",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia inspirada na personagem Arlequina, utilizando a paleta de cores característica (vermelho, branco e azul)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8380.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 5.14,
+  "data_analise": "2026-07-27T16:52:40Z",
+  "data_criacao": "2026-07-27T13:52:40.795206-03:00"
+}

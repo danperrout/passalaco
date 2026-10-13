@@ -1,0 +1,30 @@
+{
+  "id": 7635,
+  "nome_original": "Colombia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "amarelo",
+      "azul",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente poliéster ou cetim",
+    "estilo_corte": "corte evasê com cintura marcada, mangas curtas bufantes e babados na barra",
+    "acessorios_visiveis": [
+      "adorno de cabelo com fitas coloridas"
+    ],
+    "tematica_detalhada": "Traje típico inspirado na Colômbia, utilizando as cores da bandeira nacional para representar a cultura folclórica do país"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7635.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 59.67,
+  "data_analise": "2026-07-28T01:00:38Z",
+  "data_criacao": "2026-07-27T22:00:38.217173-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 8418,
+  "nome_original": "Maria Bonita",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "couro sintético e tecido texturizado",
+    "estilo_corte": "estilo rústico com barras irregulares e tiras cruzadas",
+    "acessorios_visiveis": [
+      "tiara ornamentada",
+      "cinto",
+      "laço de tecido"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em Maria Bonita, referenciando a estética do Cangaço e a cultura do sertão nordestino brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8418.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 41.02,
+  "data_analise": "2026-07-29T17:37:08Z",
+  "data_criacao": "2026-07-29T14:37:08.884610-03:00"
+}

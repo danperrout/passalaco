@@ -1,0 +1,30 @@
+{
+  "id": 5230,
+  "nome_original": "Transformes Optimus Prime",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "macacão"
+    ],
+    "material_visual": "tecido sintético com impressão digital e máscara de plástico",
+    "estilo_corte": "ajustado ao corpo (estilo skin)",
+    "acessorios_visiveis": [
+      "máscara facial"
+    ],
+    "tematica_detalhada": "personagem Optimus Prime da franquia Transformers, simulando a aparência de um robô"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5230.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.81,
+  "data_analise": "2026-07-30T08:34:23Z",
+  "data_criacao": "2026-07-30T05:34:23.388581-03:00"
+}

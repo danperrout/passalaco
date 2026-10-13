@@ -1,0 +1,29 @@
+{
+  "id": 8441,
+  "nome_original": "Camponesa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com detalhes florais",
+    "estilo_corte": "vestido longo com corpete ajustado e decote quadrado",
+    "acessorios_visiveis": [
+      "guirlanda de flores na cabeça"
+    ],
+    "tematica_detalhada": "estilo camponesa europeia folclórica, com referências a trajes tradicionais rurais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8441.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.52,
+  "data_analise": "2026-07-27T18:50:17Z",
+  "data_criacao": "2026-07-27T15:50:17.218010-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 7128,
+  "nome_original": "Pirata",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia",
+      "mini chapéu"
+    ],
+    "material_visual": "cetim e tecido sintético leve",
+    "estilo_corte": "estilo corseta com amarração frontal e saia rodada em camadas",
+    "acessorios_visiveis": [
+      "mini chapéu de pirata"
+    ],
+    "tematica_detalhada": "pirata estilizada com abordagem sensual/moderna"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7128.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.0,
+  "data_analise": "2026-07-30T03:36:32Z",
+  "data_criacao": "2026-07-30T00:36:32.737830-03:00"
+}

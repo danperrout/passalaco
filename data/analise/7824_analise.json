@@ -1,0 +1,28 @@
+{
+  "id": 7824,
+  "nome_original": "Gaucha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido acetinado com brilho",
+    "estilo_corte": "vestido longo com cintura marcada, mangas bufantes e saia ampla com babados",
+    "acessorios_visiveis": [
+      "guirlanda de flores vermelhas na cabeça"
+    ],
+    "tematica_detalhada": "Fantasia de Gaúcha inspirada nos trajes típicos do Rio Grande do Sul, com elementos estilizados para festas e celebrações culturais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7824.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 32.34,
+  "data_analise": "2026-07-28T10:42:28Z",
+  "data_criacao": "2026-07-28T07:42:28.532630-03:00"
+}

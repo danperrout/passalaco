@@ -1,0 +1,30 @@
+{
+  "id": 8342,
+  "nome_original": "Minions",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "macacão",
+      "touca"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "ajuste solto com suspensórios",
+    "acessorios_visiveis": [
+      "óculos de proteção"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Minion, da franquia de filmes Meu Malvado Favorito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8342.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.71,
+  "data_analise": "2026-07-29T22:29:24Z",
+  "data_criacao": "2026-07-29T19:29:24.678040-03:00"
+}

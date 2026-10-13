@@ -1,0 +1,25 @@
+{
+  "id": 6402,
+  "nome_original": "Collant",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "collant"
+    ],
+    "material_visual": "tecido sintético elástico",
+    "estilo_corte": "cavado, sem mangas, decote arredondado",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "peça básica neutra, utilizada como base para diversas fantasias, dança, ginástica ou performance"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6402.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 161.46,
+  "data_analise": "2026-07-28T00:59:38Z",
+  "data_criacao": "2026-07-27T21:59:38.261023-03:00"
+}

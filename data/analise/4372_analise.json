@@ -1,0 +1,31 @@
+{
+  "id": 4372,
+  "nome_original": "Galinha Pintadinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético com camadas de tule na saia",
+    "estilo_corte": "vestido curto com saia volumosa em camadas e decote arredondado",
+    "acessorios_visiveis": [
+      "laço vermelho na cintura",
+      "tiara com flor vermelha"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Galinha Pintadinha, caracterizada pelas cores azul e branco com detalhes em vermelho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4372.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 60.19,
+  "data_analise": "2026-07-28T06:40:26Z",
+  "data_criacao": "2026-07-28T03:40:26.005842-03:00"
+}

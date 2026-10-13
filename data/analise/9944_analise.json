@@ -1,0 +1,28 @@
+{
+  "id": 9944,
+  "nome_original": "Rena",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Natalinas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom dourado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "veludo ou tecido aveludado com detalhes em renda e pompons",
+    "estilo_corte": "vestido curto com saia evasê e mangas bufantes",
+    "acessorios_visiveis": [
+      "tiara de chifres de rena com laço"
+    ],
+    "tematica_detalhada": "fantasia de rena natalina, inspirada em personagens festivos de Natal"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9944.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.83,
+  "data_analise": "2026-07-30T04:53:25Z",
+  "data_criacao": "2026-07-30T01:53:25.170117-03:00"
+}

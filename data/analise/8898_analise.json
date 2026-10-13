@@ -1,0 +1,33 @@
+{
+  "id": 8898,
+  "nome_original": "Pirata Hallowen",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Halloween Infantil",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "rosa",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "bandana"
+    ],
+    "material_visual": "veludo, tule com glitter e tecido sintético",
+    "estilo_corte": "vestido com corpete ajustado, mangas bufantes e saia rodada em camadas",
+    "acessorios_visiveis": [
+      "bandana vermelha",
+      "tapa-olho",
+      "cinto com fivela dourada"
+    ],
+    "tematica_detalhada": "fantasia de pirata estilizada para crianças, misturando elementos clássicos de navegação com estética de festa/princesa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8898.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.82,
+  "data_analise": "2026-07-30T03:42:55Z",
+  "data_criacao": "2026-07-30T00:42:55.990060-03:00"
+}

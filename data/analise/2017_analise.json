@@ -1,0 +1,25 @@
+{
+  "id": 2017,
+  "nome_original": "Noiva",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule e cetim",
+    "estilo_corte": "curto, com cintura marcada e saia volumosa",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Noiva clássica ou debutante, com referências a trajes de casamento tradicionais em versão curta"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2017.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.83,
+  "data_analise": "2026-07-29T23:59:24Z",
+  "data_criacao": "2026-07-29T20:59:24.568842-03:00"
+}

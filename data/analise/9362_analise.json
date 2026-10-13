@@ -1,0 +1,29 @@
+{
+  "id": 9362,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "tecido metalizado com brilho intenso",
+    "estilo_corte": "ajustado ao corpo com drapeados",
+    "acessorios_visiveis": [
+      "tiara de raios solares"
+    ],
+    "tematica_detalhada": "divindade solar ou figura mitológica, com referências a coroas solares e estética egípcia ou grega"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9362.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.21,
+  "data_analise": "2026-07-27T19:25:45Z",
+  "data_criacao": "2026-07-27T16:25:45.990773-03:00"
+}

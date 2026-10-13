@@ -1,0 +1,33 @@
+{
+  "id": 8345,
+  "nome_original": "Indio",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "verde",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "saia",
+      "tiara",
+      "braceletes"
+    ],
+    "material_visual": "franjas sintéticas e penas",
+    "estilo_corte": "estilo tribal com saia de franjas curta",
+    "acessorios_visiveis": [
+      "colar",
+      "tiara de penas",
+      "braceletes de penas"
+    ],
+    "tematica_detalhada": "Fantasia temática de indígena genérica, com referências estilizadas a trajes tribais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8345.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 112.48,
+  "data_analise": "2026-07-28T17:23:09Z",
+  "data_criacao": "2026-07-28T14:23:09.457506-03:00"
+}

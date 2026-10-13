@@ -1,0 +1,30 @@
+{
+  "id": 4480,
+  "nome_original": "Chiquinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "casaquinho"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco",
+    "estilo_corte": "vestido curto com cintura marcada e casaquinho curto aberto",
+    "acessorios_visiveis": [
+      "óculos de armação preta"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Chiquinha (La Chilindrina), baseada em trajes infantis clássicos com elementos retro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4480.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 175.84,
+  "data_analise": "2026-07-27T21:25:14Z",
+  "data_criacao": "2026-07-27T18:25:14.022636-03:00"
+}

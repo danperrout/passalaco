@@ -1,0 +1,29 @@
+{
+  "id": 5994,
+  "nome_original": "Arqueiro Verde",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde oliva",
+      "verde limão"
+    ],
+    "pecas_inclusas": [
+      "jaqueta com capuz",
+      "calça"
+    ],
+    "material_visual": "tecido de malha ou moletom leve",
+    "estilo_corte": "conjunto esportivo com modelagem casual e capuz estruturado",
+    "acessorios_visiveis": [
+      "cinto/aljava de transporte em verde limão"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Arqueiro Verde (DC Comics), focada em tons de verde e elementos de arqueiro."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5994.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 5.09,
+  "data_analise": "2026-07-27T16:54:05Z",
+  "data_criacao": "2026-07-27T13:54:05.258708-03:00"
+}

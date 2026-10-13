@@ -1,0 +1,28 @@
+{
+  "id": 7224,
+  "nome_original": "Africana",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo",
+      "vermelho",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "turbante"
+    ],
+    "material_visual": "tecido sintético com estampa colorida",
+    "estilo_corte": "estilo dashiki, corte largo e fluido",
+    "acessorios_visiveis": [
+      "colares de contas",
+      "peruca com tranças"
+    ],
+    "tematica_detalhada": "fantasia inspirada em trajes tradicionais africanos com cores vibrantes e padrões geométricos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7224.jpg",
+  "data_analise": "2026-07-27T14:52:05Z"
+}

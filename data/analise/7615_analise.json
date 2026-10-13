@@ -1,0 +1,24 @@
+{
+  "id": 7615,
+  "nome_original": "Arabe",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Árabes/Indianas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica longa"
+    ],
+    "material_visual": "tecido fluido com bordados metálicos",
+    "estilo_corte": "estilo kaftan com corte amplo e reto",
+    "acessorios_visiveis": [
+      "tiara dourada"
+    ],
+    "tematica_detalhada": "inspiração árabe luxuosa com detalhes ornamentais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7615.jpg",
+  "data_analise": "2026-07-27T14:13:26Z"
+}

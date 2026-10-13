@@ -1,0 +1,30 @@
+{
+  "id": 8150,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido xadrez e cetim com rendas",
+    "estilo_corte": "vestido rodado com mangas bufantes e babados",
+    "acessorios_visiveis": [
+      "tiara com flores"
+    ],
+    "tematica_detalhada": "Festa Junina infantil, com elementos caipiras tradicionais e estampas de personagens LOL Surprise"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8150.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.13,
+  "data_analise": "2026-07-29T00:18:49Z",
+  "data_criacao": "2026-07-28T21:18:49.674894-03:00"
+}

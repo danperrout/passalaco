@@ -1,0 +1,25 @@
+{
+  "id": 2660,
+  "nome_original": "Anăo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Fadas/Duendes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "touca"
+    ],
+    "material_visual": "tecido sintético com aspecto brilhante",
+    "estilo_corte": "túnica ampla com corte reto e touca ajustada",
+    "acessorios_visiveis": [
+      "cinto preto"
+    ],
+    "tematica_detalhada": "fantasia de anão inspirada em contos de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2660.jpg",
+  "data_analise": "2026-07-27T13:56:13Z"
+}

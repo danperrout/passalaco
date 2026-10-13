@@ -1,0 +1,29 @@
+{
+  "id": 720,
+  "nome_original": "Homem Aranha",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "macacão"
+    ],
+    "material_visual": "tecido sintético elástico com brilho leve",
+    "estilo_corte": "justo ao corpo (skinny fit)",
+    "acessorios_visiveis": [
+      "máscara com olhos brancos"
+    ],
+    "tematica_detalhada": "Super-herói Homem-Aranha da Marvel Comics, caracterizado por teias pretas e logotipo de aranha no peito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/720.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 73.27,
+  "data_analise": "2026-07-28T13:53:54Z",
+  "data_criacao": "2026-07-28T10:53:54.399803-03:00"
+}

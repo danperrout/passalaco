@@ -1,0 +1,31 @@
+{
+  "id": 8252,
+  "nome_original": "Monstros S/A",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul claro",
+      "roxo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão kigurumi com capuz",
+      "pantufas"
+    ],
+    "material_visual": "tecido aveludado ou plush",
+    "estilo_corte": "estilo oversized/pijama kigurumi",
+    "acessorios_visiveis": [
+      "capuz com rosto do personagem",
+      "chifres decorativos"
+    ],
+    "tematica_detalhada": "fantasia do personagem Sulley do filme Monstros S.A."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8252.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 33.26,
+  "data_analise": "2026-07-29T22:55:01Z",
+  "data_criacao": "2026-07-29T19:55:01.124017-03:00"
+}

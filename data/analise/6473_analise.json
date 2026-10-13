@@ -1,0 +1,31 @@
+{
+  "id": 6473,
+  "nome_original": "Piloto",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "boné"
+    ],
+    "material_visual": "tecido sintético acetinado",
+    "estilo_corte": "vestido curto com saia plissada e gola alta",
+    "acessorios_visiveis": [
+      "boné quadriculado",
+      "cinto branco"
+    ],
+    "tematica_detalhada": "Piloto de corrida/Automobilismo, com referências a equipes de Fórmula 1 e bandeira quadriculada de chegada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6473.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.27,
+  "data_analise": "2026-07-30T03:28:04Z",
+  "data_criacao": "2026-07-30T00:28:04.266446-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1075,
+  "nome_original": "Panico",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "túnica com capuz",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético leve com acabamento fosco",
+    "estilo_corte": "túnica longa e larga com bainhas desfiadas",
+    "acessorios_visiveis": [
+      "máscara de Ghostface"
+    ],
+    "tematica_detalhada": "Personagem Ghostface da franquia de filmes de terror Pânico (Scream)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1075.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 51.32,
+  "data_analise": "2026-07-30T02:00:01Z",
+  "data_criacao": "2026-07-29T23:00:01.706298-03:00"
+}

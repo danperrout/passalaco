@@ -1,0 +1,30 @@
+{
+  "id": 3457,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "amarelo",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampa xadrez e fitas de cetim",
+    "estilo_corte": "corte ombro a ombro com saia rodada em camadas (babados)",
+    "acessorios_visiveis": [
+      "chapéu de palha decorado"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina, representando a cultura caipira tradicional brasileira"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3457.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 43.4,
+  "data_analise": "2026-07-29T00:29:45Z",
+  "data_criacao": "2026-07-28T21:29:45.739636-03:00"
+}

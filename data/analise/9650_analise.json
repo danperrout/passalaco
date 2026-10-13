@@ -1,0 +1,28 @@
+{
+  "id": 9650,
+  "nome_original": "Cetro",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "cetro"
+    ],
+    "material_visual": "plástico ou metal com acabamento sintético",
+    "estilo_corte": "longo e cilíndrico",
+    "acessorios_visiveis": [
+      "detalhe ornamentado na extremidade"
+    ],
+    "tematica_detalhada": "Acessório de realeza, poder ou magia, comumente utilizado em fantasias de reis, rainhas, magos ou personagens de fantasia medieval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9650.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.1,
+  "data_analise": "2026-07-27T19:48:55Z",
+  "data_criacao": "2026-07-27T16:48:55.524551-03:00"
+}

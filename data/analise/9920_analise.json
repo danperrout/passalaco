@@ -1,0 +1,29 @@
+{
+  "id": 9920,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul marinho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido com estampa de poá e fitas de cetim",
+    "estilo_corte": "vestido rodado com mangas bufantes e babados na saia",
+    "acessorios_visiveis": [
+      "tiara com flores e fitas"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina caipira, inspirada no traje típico rural brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9920.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 294.55,
+  "data_analise": "2026-07-29T01:50:59Z",
+  "data_criacao": "2026-07-28T22:50:59.608058-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 4108,
+  "nome_original": "Sdevpresidiario",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "bermuda",
+      "touca"
+    ],
+    "material_visual": "tecido sintético ou algodão com elasticidade",
+    "estilo_corte": "corte reto e casual, modelagem solta",
+    "acessorios_visiveis": [
+      "touca combinando"
+    ],
+    "tematica_detalhada": "fantasia de prisioneiro clássico, referenciando uniformes de detentos antigos com listras horizontais e numeração de identificação"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4108.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 291.25,
+  "data_analise": "2026-07-30T06:16:39Z",
+  "data_criacao": "2026-07-30T03:16:39.385325-03:00"
+}

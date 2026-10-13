@@ -1,0 +1,29 @@
+{
+  "id": 1354,
+  "nome_original": "Tigre",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "tecido sintético aveludado ou plush",
+    "estilo_corte": "corte amplo e confortável tipo kigurumi",
+    "acessorios_visiveis": [
+      "capuz com rosto de tigre"
+    ],
+    "tematica_detalhada": "fantasia de animal, especificamente um tigre, com design estilizado para festas ou pijamas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1354.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 32.6,
+  "data_analise": "2026-07-30T08:14:54Z",
+  "data_criacao": "2026-07-30T05:14:54.724486-03:00"
+}

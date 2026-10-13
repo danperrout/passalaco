@@ -1,0 +1,29 @@
+{
+  "id": 9242,
+  "nome_original": "Junina Saia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "blusa regata",
+      "saia curta"
+    ],
+    "material_visual": "tecido sintético com estampa floral e acabamento em renda",
+    "estilo_corte": "blusa ajustada ao corpo e saia rodada em camadas (estilo babados)",
+    "acessorios_visiveis": [
+      "tiara com fitas coloridas"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, remetendo ao traje típico caipira estilizado com elementos florais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9242.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.09,
+  "data_analise": "2026-07-29T07:41:45Z",
+  "data_criacao": "2026-07-29T04:41:45.516517-03:00"
+}

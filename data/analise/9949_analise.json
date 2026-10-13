@@ -1,0 +1,32 @@
+{
+  "id": 9949,
+  "nome_original": "It a Coisa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "gola",
+      "laços de perna"
+    ],
+    "material_visual": "tule e cetim sintético",
+    "estilo_corte": "estilo baby doll com saia volumosa e bustiê justo",
+    "acessorios_visiveis": [
+      "pompons vermelhos",
+      "laços vermelhos para as pernas",
+      "gola alta"
+    ],
+    "tematica_detalhada": "versão feminina e estilizada do personagem Pennywise, do filme 'It: A Coisa'"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9949.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 50.46,
+  "data_analise": "2026-07-28T17:40:57Z",
+  "data_criacao": "2026-07-28T14:40:57.919924-03:00"
+}

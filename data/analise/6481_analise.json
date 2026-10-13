@@ -1,0 +1,32 @@
+{
+  "id": 6481,
+  "nome_original": "Capitao America Luxo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "traje completo",
+      "escudo"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante",
+    "estilo_corte": "ajustado ao corpo, estilo super-herói",
+    "acessorios_visiveis": [
+      "escudo circular",
+      "máscara com letra A"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Capitão América, da Marvel Comics, inspirada nas cores e símbolos da bandeira dos Estados Unidos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6481.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 146.61,
+  "data_analise": "2026-07-27T19:12:24Z",
+  "data_criacao": "2026-07-27T16:12:24.249503-03:00"
+}

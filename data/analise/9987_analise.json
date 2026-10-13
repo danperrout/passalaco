@@ -1,0 +1,32 @@
+{
+  "id": 9987,
+  "nome_original": "Cigano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Ciganas/Espanholas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "colete",
+      "calça",
+      "turbante"
+    ],
+    "material_visual": "cetim ou tecido sintético com brilho",
+    "estilo_corte": "corte solto com colete aberto e calças ajustadas",
+    "acessorios_visiveis": [
+      "detalhes em passamanaria dourada",
+      "faixa na cintura"
+    ],
+    "tematica_detalhada": "Fantasia de cigano masculino, com referências a trajes folclóricos e performáticos tradicionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9987.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 121.79,
+  "data_analise": "2026-07-27T22:19:21Z",
+  "data_criacao": "2026-07-27T19:19:21.728548-03:00"
+}

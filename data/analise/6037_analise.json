@@ -1,0 +1,32 @@
+{
+  "id": 6037,
+  "nome_original": "Piloto",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "boné",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético acetinado",
+    "estilo_corte": "corte reto tipo macacão de corrida com gola alta",
+    "acessorios_visiveis": [
+      "boné",
+      "luvas",
+      "patches de patrocinadores"
+    ],
+    "tematica_detalhada": "Piloto de Fórmula 1, especificamente referenciando a equipe Ferrari devido às cores e logotipos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6037.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 117.35,
+  "data_analise": "2026-07-30T03:32:13Z",
+  "data_criacao": "2026-07-30T00:32:13.441435-03:00"
+}

@@ -1,0 +1,35 @@
+{
+  "id": 10092,
+  "nome_original": "Pirata",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Piratas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "camisa",
+      "corpete",
+      "saia"
+    ],
+    "material_visual": "tecido sintético, renda e material rígido no chapéu",
+    "estilo_corte": "estilo vitoriano estilizado com corpete ajustado e saia curta em camadas",
+    "acessorios_visiveis": [
+      "chapéu tricórnio",
+      "colar de pérolas",
+      "choker",
+      "laço vermelho"
+    ],
+    "tematica_detalhada": "pirata feminina com estética sensualizada/fantasia, inspirada em personagens de aventura náutica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10092.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.18,
+  "data_analise": "2026-07-30T03:42:26Z",
+  "data_criacao": "2026-07-30T00:42:26.049858-03:00"
+}

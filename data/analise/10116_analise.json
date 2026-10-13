@@ -1,0 +1,31 @@
+{
+  "id": 10116,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "saia curta",
+      "estilo conjunto"
+    ],
+    "material_visual": "tecido com brilho, lantejoulas e penas",
+    "estilo_corte": "ajustado ao corpo com recorte curto",
+    "acessorios_visiveis": [
+      "headpiece de penas",
+      "detalhes nos ombros"
+    ],
+    "tematica_detalhada": "Passista de Carnaval, inspirada em escolas de samba e desfiles de carnaval brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10116.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.66,
+  "data_analise": "2026-07-27T19:28:27Z",
+  "data_criacao": "2026-07-27T16:28:27.499598-03:00"
+}

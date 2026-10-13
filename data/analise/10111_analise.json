@@ -1,0 +1,29 @@
+{
+  "id": 10111,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia curta"
+    ],
+    "material_visual": "cetim e lantejoulas/paetês",
+    "estilo_corte": "conjunto de duas peças com corte justo e caimento fluido na saia",
+    "acessorios_visiveis": [
+      "tiara com raios e flores amarelas"
+    ],
+    "tematica_detalhada": "fantasia de carnaval inspirada em divindades solares ou estética de passista, com referências a brilho e exuberância"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10111.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.66,
+  "data_analise": "2026-07-27T19:28:23Z",
+  "data_criacao": "2026-07-27T16:28:23.406410-03:00"
+}

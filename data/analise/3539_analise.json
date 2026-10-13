@@ -1,0 +1,29 @@
+{
+  "id": 3539,
+  "nome_original": "Traje Biblico",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "coroa"
+    ],
+    "material_visual": "tecido com lantejoulas e detalhes em renda ou bordado",
+    "estilo_corte": "corte imperio com saia ampla e mangas longas",
+    "acessorios_visiveis": [
+      "coroa dourada"
+    ],
+    "tematica_detalhada": "traje bíblico feminino, remetendo a figuras reais como rainhas ou personagens do Antigo Testamento"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3539.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.38,
+  "data_analise": "2026-07-30T08:32:56Z",
+  "data_criacao": "2026-07-30T05:32:56.023462-03:00"
+}

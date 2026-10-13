@@ -1,0 +1,29 @@
+{
+  "id": 8329,
+  "nome_original": "Bruxa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa com capuz"
+    ],
+    "material_visual": "tecido sintético, possivelmente cetim e tule ou rede",
+    "estilo_corte": "vestido evasê com capa longa e capuz",
+    "acessorios_visiveis": [
+      "capuz"
+    ],
+    "tematica_detalhada": "Bruxa clássica, com estética gótica e mística"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8329.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.4,
+  "data_analise": "2026-07-27T18:24:37Z",
+  "data_criacao": "2026-07-27T15:24:37.873602-03:00"
+}

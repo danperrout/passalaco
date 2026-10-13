@@ -1,0 +1,29 @@
+{
+  "id": 2783,
+  "nome_original": "India",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "tiara"
+    ],
+    "material_visual": "tecido sintético com aparência de camurça e franjas",
+    "estilo_corte": "estilo túnica curta com mangas longas e acabamento em franjas",
+    "acessorios_visiveis": [
+      "tiara com penas coloridas"
+    ],
+    "tematica_detalhada": "fantasia estereotipada de indígena norte-americano, com referências a trajes de couro e adornos de penas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2783.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 294.69,
+  "data_analise": "2026-07-28T15:52:14Z",
+  "data_criacao": "2026-07-28T12:52:14.634201-03:00"
+}

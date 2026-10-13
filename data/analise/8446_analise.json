@@ -1,0 +1,31 @@
+{
+  "id": 8446,
+  "nome_original": "Madrasta Branca de Neve",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "longo com gola alta estruturada e cintura marcada",
+    "acessorios_visiveis": [
+      "coroa dourada",
+      "cordão de cintura dourado"
+    ],
+    "tematica_detalhada": "Rainha Má da história da Branca de Neve, representando a madrasta vilã com estética real e sombria"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8446.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 97.37,
+  "data_analise": "2026-07-29T13:13:46Z",
+  "data_criacao": "2026-07-29T10:13:46.360677-03:00"
+}

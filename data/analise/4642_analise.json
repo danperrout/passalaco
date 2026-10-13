@@ -1,0 +1,29 @@
+{
+  "id": 4642,
+  "nome_original": "Homem de Ferro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Amarelo"
+    ],
+    "pecas_inclusas": [
+      "Máscara",
+      "Macacão"
+    ],
+    "material_visual": "Tecido sintético fosco",
+    "estilo_corte": "Justo ao corpo, peça única",
+    "acessorios_visiveis": [
+      "Reator Arc estampado no peito"
+    ],
+    "tematica_detalhada": "Super-herói Homem de Ferro da Marvel Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4642.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 74.25,
+  "data_analise": "2026-07-28T14:55:50Z",
+  "data_criacao": "2026-07-28T11:55:50.326980-03:00"
+}

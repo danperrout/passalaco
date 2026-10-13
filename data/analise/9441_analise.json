@@ -1,0 +1,29 @@
+{
+  "id": 9441,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Amarelo",
+      "Azul"
+    ],
+    "pecas_inclusas": [
+      "Vestido"
+    ],
+    "material_visual": "Tecido sintético com acabamento em babados e rendas",
+    "estilo_corte": "Corte assimétrico com manga única e saia curta volumosa em camadas",
+    "acessorios_visiveis": [
+      "Flor de cabelo"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina estilizada, com referências ao traje caipira tradicional brasileiro, porém com abordagem moderna e colorida"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9441.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 27.38,
+  "data_analise": "2026-07-29T01:25:34Z",
+  "data_criacao": "2026-07-28T22:25:34.536742-03:00"
+}

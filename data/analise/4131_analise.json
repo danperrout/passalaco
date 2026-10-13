@@ -1,0 +1,25 @@
+{
+  "id": 4131,
+  "nome_original": "Ajudante de Papai Noel",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "túnica",
+      "calça"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "conjunto de corte reto e folgado",
+    "acessorios_visiveis": [
+      "cartola"
+    ],
+    "tematica_detalhada": "ajudante de Papai Noel em versão verde"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4131.jpg",
+  "data_analise": "2026-07-27T13:38:14Z"
+}

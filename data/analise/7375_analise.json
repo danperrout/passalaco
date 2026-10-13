@@ -1,0 +1,31 @@
+{
+  "id": 7375,
+  "nome_original": "Borboleta",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "laranja",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "asas"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante",
+    "estilo_corte": "vestido curto com alças finas e saia rodada",
+    "acessorios_visiveis": [
+      "tiara com laço",
+      "asas de borboleta"
+    ],
+    "tematica_detalhada": "fantasia de borboleta monarca, inspirada nas cores e padrões naturais da espécie Danaus idaeus"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7375.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.77,
+  "data_analise": "2026-07-27T18:19:27Z",
+  "data_criacao": "2026-07-27T15:19:27.520430-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 3592,
+  "nome_original": "Jeca",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul escuro",
+      "laranja",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "camisa",
+      "colete",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com remendos de feltro e palha",
+    "estilo_corte": "estilo rústico e desestruturado com acabamentos desfiados",
+    "acessorios_visiveis": [
+      "chapéu de palha"
+    ],
+    "tematica_detalhada": "Caipira/Jeca, referenciando a cultura rural brasileira, típica de festas juninas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3592.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 154.61,
+  "data_analise": "2026-07-28T20:41:27Z",
+  "data_criacao": "2026-07-28T17:41:27.914882-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 9162,
+  "nome_original": "Mulher de Ferro",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara",
+      "botas"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado e metálico",
+    "estilo_corte": "vestido curto com saia evasê, mangas longas e recorte frontal no decote",
+    "acessorios_visiveis": [
+      "tiara dourada",
+      "botas douradas"
+    ],
+    "tematica_detalhada": "Fantasia de super-heroína, inspirada na estética da Mulher-Maravilha ou personagens similares de quadrinhos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9162.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.36,
+  "data_analise": "2026-07-29T23:17:52Z",
+  "data_criacao": "2026-07-29T20:17:52.837532-03:00"
+}

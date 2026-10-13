@@ -1,0 +1,30 @@
+{
+  "id": 4154,
+  "nome_original": "Bobo da Corte",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu de bobo da corte"
+    ],
+    "material_visual": "tecido sintético brilhante com detalhes em renda ou babados",
+    "estilo_corte": "vestido curto com saia volumosa e decote redondo",
+    "acessorios_visiveis": [
+      "chapéu bicorne ornamentado"
+    ],
+    "tematica_detalhada": "Bobo da Corte clássico, referenciando o personagem medieval de entretenimento real com estética colorida e extravagante"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4154.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.85,
+  "data_analise": "2026-07-27T18:16:49Z",
+  "data_criacao": "2026-07-27T15:16:49.596929-03:00"
+}

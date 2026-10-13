@@ -1,0 +1,28 @@
+{
+  "id": 4845,
+  "nome_original": "Bailarina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul claro",
+      "azul royal"
+    ],
+    "pecas_inclusas": [
+      "vestido de bailarina"
+    ],
+    "material_visual": "tule, cetim e apliques de flores",
+    "estilo_corte": "estilo tutu com corpete ajustado e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara de princesa"
+    ],
+    "tematica_detalhada": "bailarina clássica com inspiração em personagens de contos de fadas ou princesas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4845.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 103.97,
+  "data_analise": "2026-07-27T17:13:41Z",
+  "data_criacao": "2026-07-27T14:13:41.759751-03:00"
+}

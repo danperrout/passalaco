@@ -1,0 +1,32 @@
+{
+  "id": 7846,
+  "nome_original": "Thor",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "prata",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "capacete",
+      "colete",
+      "calça"
+    ],
+    "material_visual": "material sintético com aparência de couro e plástico metalizado",
+    "estilo_corte": "corte ajustado ao corpo com colete estruturado",
+    "acessorios_visiveis": [
+      "martelo Mjolnir",
+      "capacete viking"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Thor, inspirada na mitologia nórdica e adaptações da cultura pop/Marvel"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7846.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.64,
+  "data_analise": "2026-07-30T07:47:30Z",
+  "data_criacao": "2026-07-30T04:47:30.681181-03:00"
+}

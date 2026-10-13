@@ -1,0 +1,31 @@
+{
+  "id": 1122,
+  "nome_original": "Pequeno Polegar",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "laranja",
+      "azul marinho"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "gorro"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "estilo camponês medieval com túnica reta e calça solta",
+    "acessorios_visiveis": [
+      "gorro pontudo"
+    ],
+    "tematica_detalhada": "personagem do conto de fadas Pequeno Polegar, representando trajes rústicos de época"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1122.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.21,
+  "data_analise": "2026-07-30T02:57:44Z",
+  "data_criacao": "2026-07-29T23:57:44.817016-03:00"
+}

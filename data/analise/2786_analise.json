@@ -1,0 +1,31 @@
+{
+  "id": 2786,
+  "nome_original": "Indiana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Árabes/Indianas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "estola/xale"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "corte reto e fluido, inspirado em vestimentas tradicionais asiáticas",
+    "acessorios_visiveis": [
+      "tiara dourada",
+      "bordados dourados nas bordas"
+    ],
+    "tematica_detalhada": "fantasia temática indiana, inspirada no estilo Salwar Kameez ou Sari"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2786.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 41.91,
+  "data_analise": "2026-07-28T16:46:46Z",
+  "data_criacao": "2026-07-28T13:46:46.038572-03:00"
+}

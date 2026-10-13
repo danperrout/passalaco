@@ -1,0 +1,30 @@
+{
+  "id": 7292,
+  "nome_original": "Cassino",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com estampas gráficas",
+    "estilo_corte": "vestido curto e ajustado com decote em V",
+    "acessorios_visiveis": [
+      "chapéu estilizado"
+    ],
+    "tematica_detalhada": "Tema cassino, com referências visuais a cartas de baralho e elementos de jogos de azar"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7292.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.04,
+  "data_analise": "2026-07-27T19:39:03Z",
+  "data_criacao": "2026-07-27T16:39:03.235816-03:00"
+}

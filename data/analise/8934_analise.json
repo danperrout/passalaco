@@ -1,0 +1,33 @@
+{
+  "id": 8934,
+  "nome_original": "Fred Krugger",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "verde escuro",
+      "marrom",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga longa",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "modelagem casual com acabamento desfiado na barra da camisa",
+    "acessorios_visiveis": [
+      "chapéu de feltro",
+      "luva com garras metálicas"
+    ],
+    "tematica_detalhada": "Personagem Freddy Krueger da franquia de filmes A Hora do Pesadelo, caracterizado por roupas desgastadas e luva de lâminas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8934.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 59.91,
+  "data_analise": "2026-07-28T06:26:15Z",
+  "data_criacao": "2026-07-28T03:26:15.570341-03:00"
+}

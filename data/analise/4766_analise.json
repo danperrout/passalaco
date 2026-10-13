@@ -1,0 +1,34 @@
+{
+  "id": 4766,
+  "nome_original": "Rainha dos Mares",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com detalhes em cetim e renda",
+    "estilo_corte": "vestido curto com corpete ajustado e mangas bufantes",
+    "acessorios_visiveis": [
+      "chapéu tricórnio",
+      "pluma branca",
+      "cinto com fivela",
+      "ombreiras douradas"
+    ],
+    "tematica_detalhada": "fantasia de capitã pirata, com referências ao vestuário naval do século XVIII"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4766.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.43,
+  "data_analise": "2026-07-30T04:30:09Z",
+  "data_criacao": "2026-07-30T01:30:09.149806-03:00"
+}

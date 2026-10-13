@@ -1,0 +1,30 @@
+{
+  "id": 8971,
+  "nome_original": "Homem Aranha",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "macacão integral",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante/acetinado",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "máscara com lentes brancas"
+    ],
+    "tematica_detalhada": "Homem-Aranha, especificamente a versão Iron Spider (Traje de Ferro) da Marvel"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8971.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 136.24,
+  "data_analise": "2026-07-28T14:13:07Z",
+  "data_criacao": "2026-07-28T11:13:07.216303-03:00"
+}

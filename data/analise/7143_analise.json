@@ -1,0 +1,30 @@
+{
+  "id": 7143,
+  "nome_original": "Vampira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa curta",
+      "tiara"
+    ],
+    "material_visual": "renda, tule e tecido acetinado com detalhes metalizados",
+    "estilo_corte": "vestido curto com saia volumosa e capelete sobreposto",
+    "acessorios_visiveis": [
+      "tiara ornamentada"
+    ],
+    "tematica_detalhada": "vampira aristocrática ou rainha gótica, com referências a trajes de época e fantasia dark"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7143.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.9,
+  "data_analise": "2026-07-30T08:46:43Z",
+  "data_criacao": "2026-07-30T05:46:43.123722-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 7523,
+  "nome_original": "Gueixa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "quimono",
+      "faixa obi"
+    ],
+    "material_visual": "tecido sintético acetinado",
+    "estilo_corte": "corte reto com mangas largas e fechamento frontal",
+    "acessorios_visiveis": [
+      "laço ornamental na cintura"
+    ],
+    "tematica_detalhada": "Fantasia de Gueixa inspirada na cultura tradicional japonesa, caracterizada pelo uso de quimono com estampas florais e faixa obi."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7523.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 35.26,
+  "data_analise": "2026-07-28T11:39:51Z",
+  "data_criacao": "2026-07-28T08:39:51.490248-03:00"
+}

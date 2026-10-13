@@ -1,0 +1,33 @@
+{
+  "id": 455,
+  "nome_original": "Conde Dracula",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "roxo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "colete",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com colete em jacquard ou cetim estampado",
+    "estilo_corte": "clássico vitoriano com gola alta e estruturada",
+    "acessorios_visiveis": [
+      "gola franzida",
+      "peruca"
+    ],
+    "tematica_detalhada": "Conde Drácula, inspirada no personagem clássico do terror gótico e vampiros aristocráticos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/455.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.85,
+  "data_analise": "2026-07-28T01:22:53Z",
+  "data_criacao": "2026-07-27T22:22:53.726937-03:00"
+}

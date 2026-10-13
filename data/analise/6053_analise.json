@@ -1,0 +1,31 @@
+{
+  "id": 6053,
+  "nome_original": "Gangster",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu",
+      "gravata"
+    ],
+    "material_visual": "tecido sintético com pequenos pontos brilhantes",
+    "estilo_corte": "vestido curto evasê com gola branca",
+    "acessorios_visiveis": [
+      "chapéu fedora",
+      "gravata"
+    ],
+    "tematica_detalhada": "Gangster feminina, inspirada na moda mafiosa dos anos 20 e 30"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6053.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 71.94,
+  "data_analise": "2026-07-28T06:45:51Z",
+  "data_criacao": "2026-07-28T03:45:51.935879-03:00"
+}

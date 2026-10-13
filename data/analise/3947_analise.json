@@ -1,0 +1,32 @@
+{
+  "id": 3947,
+  "nome_original": "Mosqueteiro",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "camisa de mangas bufantes",
+      "chapéu"
+    ],
+    "material_visual": "cetim ou poliéster brilhante",
+    "estilo_corte": "túnica longa e solta com mangas volumosas",
+    "acessorios_visiveis": [
+      "chapéu com pluma",
+      "emblema de cruz dourada"
+    ],
+    "tematica_detalhada": "Mosqueteiro, inspirada na guarda real francesa do século XVII e personagens como D'Artagnan"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3947.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.4,
+  "data_analise": "2026-07-29T23:10:27Z",
+  "data_criacao": "2026-07-29T20:10:27.543825-03:00"
+}

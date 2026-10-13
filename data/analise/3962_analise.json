@@ -1,0 +1,29 @@
+{
+  "id": 3962,
+  "nome_original": "Camponesa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com acabamento em renda e adornos florais",
+    "estilo_corte": "vestido com blusa branca bufante e saia verde rodada",
+    "acessorios_visiveis": [
+      "tiara de flores"
+    ],
+    "tematica_detalhada": "estilo camponesa europeia clássica, com referências a trajes folclóricos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3962.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.14,
+  "data_analise": "2026-07-27T18:51:19Z",
+  "data_criacao": "2026-07-27T15:51:19.964969-03:00"
+}

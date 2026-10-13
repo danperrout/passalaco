@@ -1,0 +1,33 @@
+{
+  "id": 5933,
+  "nome_original": "Esqueleto",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "máscara",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster",
+    "estilo_corte": "estilo fraque com modelagem ajustada",
+    "acessorios_visiveis": [
+      "cartola",
+      "máscara de caveira"
+    ],
+    "tematica_detalhada": "esqueleto elegante, misturando elementos de horror clássico com vestimenta formal vitoriana"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5933.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.85,
+  "data_analise": "2026-07-28T04:15:41Z",
+  "data_criacao": "2026-07-28T01:15:41.548396-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 9959,
+  "nome_original": "Japonês",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "faixa"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte reto com mangas largas inspirado em vestimentas orientais",
+    "acessorios_visiveis": [
+      "faixa abdominal vermelha"
+    ],
+    "tematica_detalhada": "fantasia inspirada em trajes tradicionais japoneses, como o kimono ou judogi, remetendo a artes marciais ou cultura oriental"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9959.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 309.85,
+  "data_analise": "2026-07-28T19:09:01Z",
+  "data_criacao": "2026-07-28T16:09:01.542516-03:00"
+}

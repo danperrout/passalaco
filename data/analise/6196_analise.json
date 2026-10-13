@@ -1,0 +1,33 @@
+{
+  "id": 6196,
+  "nome_original": "Melindrosa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "luvas",
+      "tiara com pluma"
+    ],
+    "material_visual": "tecido com franjas e plumas",
+    "estilo_corte": "vestido curto reto com alças",
+    "acessorios_visiveis": [
+      "colar de pérolas longo",
+      "tiara com pluma vermelha",
+      "luvas longas"
+    ],
+    "tematica_detalhada": "Estilo Melindrosa (Flapper) dos anos 1920, remetendo à era do Jazz e ao Great Gatsby"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6196.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 250.22,
+  "data_analise": "2026-07-29T21:27:09Z",
+  "data_criacao": "2026-07-29T18:27:09.344396-03:00"
+}

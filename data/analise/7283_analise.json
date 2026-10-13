@@ -1,0 +1,31 @@
+{
+  "id": 7283,
+  "nome_original": "Sereia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia sereia",
+      "peruca"
+    ],
+    "material_visual": "paetês e tule",
+    "estilo_corte": "estilo sereia com cintura marcada e flare na barra",
+    "acessorios_visiveis": [
+      "tiara de estrela do mar",
+      "colar de pérolas"
+    ],
+    "tematica_detalhada": "Sereia mística com referências a personagens de contos de fadas e fantasia marinha"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7283.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.02,
+  "data_analise": "2026-07-30T06:17:06Z",
+  "data_criacao": "2026-07-30T03:17:06.610116-03:00"
+}

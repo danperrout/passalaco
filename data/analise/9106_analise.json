@@ -1,0 +1,34 @@
+{
+  "id": 9106,
+  "nome_original": "Casal Caveira Mexicana",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "multicolorido"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "camisa",
+      "calça",
+      "chapéus"
+    ],
+    "material_visual": "tecido sintético com estampas coloridas",
+    "estilo_corte": "vestido curto com saia rodada e camisa de manga longa com corte clássico",
+    "acessorios_visiveis": [
+      "chapéu coco",
+      "véu de bolinhas",
+      "gravata borboleta"
+    ],
+    "tematica_detalhada": "Dia dos Mortos (Día de Muertos), cultura mexicana, com elementos de caveiras ornamentadas e flores"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9106.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.22,
+  "data_analise": "2026-07-27T19:31:28Z",
+  "data_criacao": "2026-07-27T16:31:28.216833-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 5293,
+  "nome_original": "Soldadinha de Chumbo",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante e detalhes em passamanaria",
+    "estilo_corte": "vestido curto com saia rodada e gola alta",
+    "acessorios_visiveis": [
+      "cinto amarelo com fivela",
+      "chapéu tipo shako",
+      "saiote de tule"
+    ],
+    "tematica_detalhada": "Soldadinha de Chumbo, inspirada em uniformes militares clássicos de brinquedo e contos de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5293.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 32.98,
+  "data_analise": "2026-07-30T06:57:01Z",
+  "data_criacao": "2026-07-30T03:57:01.769907-03:00"
+}

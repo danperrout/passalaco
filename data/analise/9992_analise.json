@@ -1,0 +1,30 @@
+{
+  "id": 9992,
+  "nome_original": "Vampira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vinho"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "gola alta"
+    ],
+    "material_visual": "veludo com detalhes em dourado",
+    "estilo_corte": "corte imperial com saia evasê e mangas longas",
+    "acessorios_visiveis": [
+      "gola draculiana",
+      "choker no pescoço"
+    ],
+    "tematica_detalhada": "Vampira clássica/gótica com referências à aristocracia vitoriana e ao Conde Drácula"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9992.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.78,
+  "data_analise": "2026-07-30T08:47:35Z",
+  "data_criacao": "2026-07-30T05:47:35.340317-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 3806,
+  "nome_original": "Odalisca",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "tecido acetinado com detalhes em lurex ou paetês e adornos de contas",
+    "estilo_corte": "estilo belly dance com top curto e saia longa com fenda",
+    "acessorios_visiveis": [
+      "tiara de contas",
+      "correntes de cintura"
+    ],
+    "tematica_detalhada": "Fantasia de Odalisca, inspirada em dançarinas do Oriente Médio e cultura árabe"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3806.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 72.32,
+  "data_analise": "2026-07-30T00:42:40Z",
+  "data_criacao": "2026-07-29T21:42:40.683893-03:00"
+}

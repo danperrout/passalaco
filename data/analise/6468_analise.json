@@ -1,0 +1,30 @@
+{
+  "id": 6468,
+  "nome_original": "Mascote Princesa Sophia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "lilás",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "máscara de mascote"
+    ],
+    "material_visual": "cetim ou poliéster com brilhos e detalhes em glitter",
+    "estilo_corte": "estilo princesa com corpete ajustado e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "personagem Princesa Sofia (Sofia the First) da Disney Junior"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6468.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 90.29,
+  "data_analise": "2026-07-29T20:24:53Z",
+  "data_criacao": "2026-07-29T17:24:53.379097-03:00"
+}

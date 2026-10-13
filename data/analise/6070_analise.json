@@ -1,0 +1,27 @@
+{
+  "id": 6070,
+  "nome_original": "Vilma",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "estilo túnica com alça única e barra irregular/rasgada",
+    "acessorios_visiveis": [
+      "colar de contas brancas"
+    ],
+    "tematica_detalhada": "fantasia de personagem da era pré-histórica, referenciando a personagem Vilma Flintstone"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6070.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.96,
+  "data_analise": "2026-07-30T08:51:10Z",
+  "data_criacao": "2026-07-30T05:51:10.341501-03:00"
+}

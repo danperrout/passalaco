@@ -1,0 +1,34 @@
+{
+  "id": 6565,
+  "nome_original": "He-man",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "bege",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "camiseta de manga longa",
+      "saia de pele sintética",
+      "protetores de punho",
+      "botas de pele"
+    ],
+    "material_visual": "tecido sintético, pele artificial e material sintético imitando couro",
+    "estilo_corte": "estilo bárbaro com colete ajustado e saia curta",
+    "acessorios_visiveis": [
+      "protetores de punho",
+      "botas de cano curto com pele"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem He-Man, remetendo a um guerreiro bárbaro de fantasia medieval/sci-fi"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6565.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 96.68,
+  "data_analise": "2026-07-28T13:32:55Z",
+  "data_criacao": "2026-07-28T10:32:55.271699-03:00"
+}

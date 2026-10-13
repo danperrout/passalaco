@@ -1,0 +1,32 @@
+{
+  "id": 8903,
+  "nome_original": "Casal Esqueleto",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "blusa",
+      "calça",
+      "chapéus"
+    ],
+    "material_visual": "tecido sintético com estampas impressas e tule",
+    "estilo_corte": "ajustado ao corpo com saia longa e fluida para a versão feminina",
+    "acessorios_visiveis": [
+      "chapéu de aba larga",
+      "véu"
+    ],
+    "tematica_detalhada": "Casal de esqueletos com estética gótica, remetendo a temas de Halloween e Dia dos Mortos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8903.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.52,
+  "data_analise": "2026-07-27T19:33:00Z",
+  "data_criacao": "2026-07-27T16:33:00.013336-03:00"
+}

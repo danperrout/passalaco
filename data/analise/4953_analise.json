@@ -1,0 +1,33 @@
+{
+  "id": 4953,
+  "nome_original": "Deusa Grega",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Gregas/Romanos",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vinho"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "estola/manto",
+      "cinto",
+      "tiara"
+    ],
+    "material_visual": "tecido fluido, possivelmente poliéster ou chiffon, com detalhes dourados",
+    "estilo_corte": "corte reto e fluido, estilo túnica com decote em V",
+    "acessorios_visiveis": [
+      "tiara dourada",
+      "cinto ornamentado",
+      "bordas douradas"
+    ],
+    "tematica_detalhada": "Deusa Grega ou Romana, com referências à antiguidade clássica e vestimentas como o chiton ou peplos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4953.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.42,
+  "data_analise": "2026-07-28T02:56:53Z",
+  "data_criacao": "2026-07-27T23:56:53.166575-03:00"
+}

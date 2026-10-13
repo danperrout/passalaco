@@ -1,0 +1,31 @@
+{
+  "id": 3569,
+  "nome_original": "Blusa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "vermelho",
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "acessório de cabeça"
+    ],
+    "material_visual": "tecido sintético com estampa de corações e renda preta",
+    "estilo_corte": "blusa curta com decote ombro a ombro e acabamento em renda",
+    "acessorios_visiveis": [
+      "tiara decorada com girassóis e fitas coloridas"
+    ],
+    "tematica_detalhada": "estilo romântico/festivo com elementos florais e cores vibrantes, remetendo a temas de amor ou celebrações alegres"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3569.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 169.7,
+  "data_analise": "2026-07-27T18:13:22Z",
+  "data_criacao": "2026-07-27T15:13:22.815946-03:00"
+}

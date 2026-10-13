@@ -1,0 +1,25 @@
+{
+  "id": 7328,
+  "nome_original": "Saia Tule",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "saia de tule"
+    ],
+    "material_visual": "tule translúcido e volumoso",
+    "estilo_corte": "corte evasê longo com cintura elástica",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "estilo tutu, comum em fantasias de bailarina, fadas ou personagens festivas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7328.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.79,
+  "data_analise": "2026-07-30T05:48:20Z",
+  "data_criacao": "2026-07-30T02:48:20.410394-03:00"
+}

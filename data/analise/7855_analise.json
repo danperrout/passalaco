@@ -1,0 +1,30 @@
+{
+  "id": 7855,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "tecido com brilho, possivelmente com lantejoulas ou paetês",
+    "estilo_corte": "conjunto de duas peças ajustado ao corpo",
+    "acessorios_visiveis": [
+      "arranjo de cabeça ornamentado",
+      "máscara"
+    ],
+    "tematica_detalhada": "fantasia de gala para carnaval ou baile de máscaras, com referências ao estilo veneziano e luxo noturno"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7855.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.46,
+  "data_analise": "2026-07-27T19:21:17Z",
+  "data_criacao": "2026-07-27T16:21:17.524069-03:00"
+}

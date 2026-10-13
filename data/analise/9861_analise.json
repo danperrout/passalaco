@@ -1,0 +1,31 @@
+{
+  "id": 9861,
+  "nome_original": "Luigi",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Infantis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "jardineira",
+      "boné"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte casual e folgado",
+    "acessorios_visiveis": [
+      "botões amarelos",
+      "boné com a letra L"
+    ],
+    "tematica_detalhada": "Personagem Luigi da franquia de jogos Super Mario da Nintendo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9861.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 77.88,
+  "data_analise": "2026-07-29T12:44:55Z",
+  "data_criacao": "2026-07-29T09:44:55.919257-03:00"
+}

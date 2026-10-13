@@ -1,0 +1,27 @@
+{
+  "id": 7954,
+  "nome_original": "Capetinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido com paetês ou glitter brilhante",
+    "estilo_corte": "vestido curto com decote em V e mangas curtas transparentes",
+    "acessorios_visiveis": [
+      "tiara com chifres"
+    ],
+    "tematica_detalhada": "fantasia de capetinha ou demônio, comumente utilizada em festas de Halloween ou Carnaval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7954.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 19.44,
+  "data_analise": "2026-07-27T18:58:35Z",
+  "data_criacao": "2026-07-27T15:58:35.691861-03:00"
+}

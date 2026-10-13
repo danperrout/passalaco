@@ -1,0 +1,29 @@
+{
+  "id": 2402,
+  "nome_original": "Jacare",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde escuro",
+      "verde limão"
+    ],
+    "pecas_inclusas": [
+      "casaco com capuz",
+      "calça"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster ou plush",
+    "estilo_corte": "modelagem folgada estilo pijama ou kigurumi",
+    "acessorios_visiveis": [
+      "cauda de jacaré"
+    ],
+    "tematica_detalhada": "fantasia de animal, especificamente um jacaré, com design estilizado e lúdico para crianças"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2402.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 45.0,
+  "data_analise": "2026-07-28T17:56:32Z",
+  "data_criacao": "2026-07-28T14:56:32.888917-03:00"
+}

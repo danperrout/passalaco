@@ -1,0 +1,29 @@
+{
+  "id": 7850,
+  "nome_original": "Luna",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "vestido curto sem mangas com barra contrastante",
+    "acessorios_visiveis": [
+      "cinto vermelho com fivela verde",
+      "peruca castanha"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Luna do desenho animado O Show da Luna"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7850.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 277.28,
+  "data_analise": "2026-07-29T12:53:54Z",
+  "data_criacao": "2026-07-29T09:53:54.762918-03:00"
+}

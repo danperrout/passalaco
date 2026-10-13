@@ -1,0 +1,29 @@
+{
+  "id": 10231,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Vitrine",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampa xadrez e detalhes em renda",
+    "estilo_corte": "corpo justo com saia curta rodada e volumosa em camadas",
+    "acessorios_visiveis": [
+      "tiara com flor e fitas"
+    ],
+    "tematica_detalhada": "Fantasia de festa junina feminina, representando a estética caipira estilizada com cores vibrantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10231.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 34.05,
+  "data_analise": "2026-07-29T02:12:41Z",
+  "data_criacao": "2026-07-28T23:12:41.481698-03:00"
+}

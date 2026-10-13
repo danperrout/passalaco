@@ -1,0 +1,32 @@
+{
+  "id": 456,
+  "nome_original": "Conde Dracula",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "colete",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "cetim, tecido sintético e renda",
+    "estilo_corte": "estilo vitoriano com gola alta e estruturada",
+    "acessorios_visiveis": [
+      "jabot de renda"
+    ],
+    "tematica_detalhada": "vampiro clássico inspirado no personagem Conde Drácula"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/456.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.23,
+  "data_analise": "2026-07-28T01:23:11Z",
+  "data_criacao": "2026-07-27T22:23:11.292813-03:00"
+}

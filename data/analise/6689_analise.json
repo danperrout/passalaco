@@ -1,0 +1,27 @@
+{
+  "id": 6689,
+  "nome_original": "Alemao",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "marrom",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "blusa",
+      "vestido estilo dirndl"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "traje típico bávaro",
+    "acessorios_visiveis": [
+      "chapéu pontudo"
+    ],
+    "tematica_detalhada": "fantasia de camponesa alemã tradicional"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6689.jpg",
+  "data_analise": "2026-07-27T13:43:55Z"
+}

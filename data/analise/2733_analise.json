@@ -1,0 +1,33 @@
+{
+  "id": 2733,
+  "nome_original": "Magico",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Circo",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "cartola",
+      "capa",
+      "colete",
+      "calça"
+    ],
+    "material_visual": "cetim e tecido sintético com brilho",
+    "estilo_corte": "clássico formal com capa longa e colete ajustado",
+    "acessorios_visiveis": [
+      "cartola",
+      "gravata borboleta"
+    ],
+    "tematica_detalhada": "mágico de palco clássico, referências a ilusionistas tradicionais e apresentações de circo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2733.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 35.46,
+  "data_analise": "2026-07-29T16:21:16Z",
+  "data_criacao": "2026-07-29T13:21:16.237150-03:00"
+}

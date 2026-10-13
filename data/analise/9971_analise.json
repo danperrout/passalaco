@@ -1,0 +1,33 @@
+{
+  "id": 9971,
+  "nome_original": "Pirata",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Piratas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça legging",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com aspecto de couro ou vinil e veludo",
+    "estilo_corte": "casaco longo estruturado com decote em V e fechamento frontal por cordões",
+    "acessorios_visiveis": [
+      "chapéu tricórnio",
+      "botões dourados",
+      "cadarços decorativos"
+    ],
+    "tematica_detalhada": "Pirata clássico com influência de capitão, remetendo a personagens de filmes de aventura náutica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9971.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.06,
+  "data_analise": "2026-07-30T03:41:58Z",
+  "data_criacao": "2026-07-30T00:41:58.391584-03:00"
+}

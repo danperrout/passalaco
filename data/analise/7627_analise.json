@@ -1,0 +1,32 @@
+{
+  "id": 7627,
+  "nome_original": "Cosplay",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "saia",
+      "laço"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "estilo uniforme escolar japonês",
+    "acessorios_visiveis": [
+      "laço borboleta vermelho e branco",
+      "peruca preta"
+    ],
+    "tematica_detalhada": "Cosplay de uniforme escolar, possivelmente referenciando personagens de anime ou cultura pop japonesa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7627.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.91,
+  "data_analise": "2026-07-28T01:57:51Z",
+  "data_criacao": "2026-07-27T22:57:51.074887-03:00"
+}

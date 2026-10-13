@@ -1,0 +1,33 @@
+{
+  "id": 3079,
+  "nome_original": "Principe",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "dourado",
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "cetim ou tecido sintético com brilho",
+    "estilo_corte": "estilo militar clássico com túnica curta e gola estruturada",
+    "acessorios_visiveis": [
+      "pluma vermelha no chapéu",
+      "galões dourados decorativos"
+    ],
+    "tematica_detalhada": "Príncipe de conto de fadas ou figura real clássica, com referências a uniformes de gala europeus"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3079.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.62,
+  "data_analise": "2026-07-30T04:12:06Z",
+  "data_criacao": "2026-07-30T01:12:06.494137-03:00"
+}

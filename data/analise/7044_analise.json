@@ -1,0 +1,28 @@
+{
+  "id": 7044,
+  "nome_original": "Maria Bonita Blusa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "caqui"
+    ],
+    "pecas_inclusas": [
+      "blusa"
+    ],
+    "material_visual": "tecido sintético ou algodão com textura fosca",
+    "estilo_corte": "blusa de manga curta com colarinho e fechamento frontal por botões, corte levemente evasê",
+    "acessorios_visiveis": [
+      "botões"
+    ],
+    "tematica_detalhada": "fantasia inspirada na figura de Maria Bonita, remetendo ao estilo regional do cangaço e à cultura do sertão nordestino brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7044.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.52,
+  "data_analise": "2026-07-29T17:41:39Z",
+  "data_criacao": "2026-07-29T14:41:39.295627-03:00"
+}

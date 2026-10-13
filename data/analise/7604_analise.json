@@ -1,0 +1,30 @@
+{
+  "id": 7604,
+  "nome_original": "Junina Saia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampa xadrez e detalhes em renda",
+    "estilo_corte": "vestido justo no busto com saia rodada e volumosa",
+    "acessorios_visiveis": [
+      "chapéu de palha",
+      "laço de cabelo",
+      "laços na cintura"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, representando a vestimenta típica caipira estilizada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7604.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 36.0,
+  "data_analise": "2026-07-29T07:07:18Z",
+  "data_criacao": "2026-07-29T04:07:18.701866-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2482,
+  "nome_original": "Diabinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Preto"
+    ],
+    "pecas_inclusas": [
+      "Vestido",
+      "Capa"
+    ],
+    "material_visual": "Tecido sintético com acabamento acetinado",
+    "estilo_corte": "Vestido curto com saia franzida e babados, capa longa com gola",
+    "acessorios_visiveis": [
+      "Tiara de chifres"
+    ],
+    "tematica_detalhada": "Fantasia de diabinha estilizada, com referências estéticas ao estilo gótico ou lolita"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2482.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.36,
+  "data_analise": "2026-07-28T03:00:11Z",
+  "data_criacao": "2026-07-28T00:00:11.002533-03:00"
+}

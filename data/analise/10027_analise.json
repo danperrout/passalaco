@@ -1,0 +1,25 @@
+{
+  "id": 10027,
+  "nome_original": "Monica",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido fosco, possivelmente algodão ou malha",
+    "estilo_corte": "vestido curto de corte evasê com mangas curtas e gola redonda",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia inspirada na personagem Mônica, dos quadrinhos Turma da Mônica, caracterizada pelo icônico vestido vermelho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10027.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.62,
+  "data_analise": "2026-07-29T22:52:41Z",
+  "data_criacao": "2026-07-29T19:52:41.642486-03:00"
+}

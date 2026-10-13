@@ -1,0 +1,30 @@
+{
+  "id": 5006,
+  "nome_original": "Colombina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com acabamento em babados",
+    "estilo_corte": "estilo rodado com alças finas e cintura marcada",
+    "acessorios_visiveis": [
+      "mini chapéu",
+      "laço preto"
+    ],
+    "tematica_detalhada": "Fantasia de Colombina, inspirada na Commedia dell'Arte italiana, caracterizada por elementos lúdicos e cores contrastantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5006.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 95.53,
+  "data_analise": "2026-07-28T01:03:43Z",
+  "data_criacao": "2026-07-27T22:03:43.723636-03:00"
+}

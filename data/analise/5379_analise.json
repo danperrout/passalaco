@@ -1,0 +1,32 @@
+{
+  "id": 5379,
+  "nome_original": "Speed Racer",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "capacete"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "conjunto casual com camisa de manga curta e calça reta",
+    "acessorios_visiveis": [
+      "lenço vermelho no pescoço",
+      "capacete branco com detalhe vermelho"
+    ],
+    "tematica_detalhada": "fantasia baseada no personagem Speed Racer (Corrida Maluca), referenciando a estética de pilotos de corrida clássicos de anime"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5379.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.11,
+  "data_analise": "2026-07-30T07:16:42Z",
+  "data_criacao": "2026-07-30T04:16:42.110521-03:00"
+}

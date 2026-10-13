@@ -1,0 +1,32 @@
+{
+  "id": 2384,
+  "nome_original": "São Jorge",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "túnica",
+      "capacete"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante",
+    "estilo_corte": "túnica longa com capa drapeada e adornos dourados",
+    "acessorios_visiveis": [
+      "capacete com pluma preta",
+      "emblema de flor-de-lis"
+    ],
+    "tematica_detalhada": "Guerreiro romano ou cavaleiro medieval, representando a figura de São Jorge"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2384.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.56,
+  "data_analise": "2026-07-30T05:52:52Z",
+  "data_criacao": "2026-07-30T02:52:52.853514-03:00"
+}

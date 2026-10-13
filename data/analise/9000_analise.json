@@ -1,0 +1,33 @@
+{
+  "id": 9000,
+  "nome_original": "Safari",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Infantis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "colete",
+      "bermuda"
+    ],
+    "material_visual": "tecido sintético tipo sarja ou brim",
+    "estilo_corte": "estilo utilitário com múltiplos bolsos",
+    "acessorios_visiveis": [
+      "orelhas de camundongo no chapéu",
+      "emblema de girafa",
+      "bandeira do Brasil",
+      "cordão com apito"
+    ],
+    "tematica_detalhada": "Explorador de Safari com elementos temáticos da Disney (orelhas do Mickey)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9000.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 37.64,
+  "data_analise": "2026-07-30T05:16:48Z",
+  "data_criacao": "2026-07-30T02:16:48.398201-03:00"
+}

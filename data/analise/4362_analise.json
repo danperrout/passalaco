@@ -1,0 +1,29 @@
+{
+  "id": 4362,
+  "nome_original": "Rapunzel",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "lilás",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "cetim brilhante com sobreposição de tule ou organza nas mangas e saia",
+    "estilo_corte": "corte princesa com corpete ajustado e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Rapunzel da Disney, com referências a trajes medievais estilizados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4362.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.01,
+  "data_analise": "2026-07-30T04:34:37Z",
+  "data_criacao": "2026-07-30T01:34:37.332097-03:00"
+}

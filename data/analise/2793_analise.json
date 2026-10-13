@@ -1,0 +1,30 @@
+{
+  "id": 2793,
+  "nome_original": "Pierrot",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com brilho leve, possivelmente cetim ou poliéster",
+    "estilo_corte": "corte amplo e solto com design assimétrico dividido verticalmente",
+    "acessorios_visiveis": [
+      "chapéu de bobo da corte com pompons"
+    ],
+    "tematica_detalhada": "personagem Pierrot ou Bobo da Corte, referenciando a Commedia dell'Arte com padrão de losangos (diamantes)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2793.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.22,
+  "data_analise": "2026-07-30T03:25:42Z",
+  "data_criacao": "2026-07-30T00:25:42.557065-03:00"
+}

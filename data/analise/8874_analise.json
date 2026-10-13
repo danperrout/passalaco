@@ -1,0 +1,31 @@
+{
+  "id": 8874,
+  "nome_original": "Mae Filho Jack Esqueleto",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "casaco feminino",
+      "paletó masculino",
+      "calça masculina",
+      "gravata borboleta"
+    ],
+    "material_visual": "tecido sintético com textura de riscas ou brilho",
+    "estilo_corte": "alfaiataria estilizada com golas pontuadas e estruturadas",
+    "acessorios_visiveis": [
+      "máscara de caveira"
+    ],
+    "tematica_detalhada": "estética gótica inspirada no personagem Jack Esqueleto do filme O Estranho Mundo de Jack"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8874.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 122.82,
+  "data_analise": "2026-07-29T15:34:44Z",
+  "data_criacao": "2026-07-29T12:34:44.919242-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 8579,
+  "nome_original": "La Casa de Papel",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "macacão oversized com capuz e fechamento frontal",
+    "acessorios_visiveis": [
+      "cinto preto",
+      "tirantes nas pernas",
+      "máscara de Salvador Dalí"
+    ],
+    "tematica_detalhada": "Inspirada na série La Casa de Papel, representando os assaltantes que utilizam a imagem de Salvador Dalí como símbolo de resistência"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8579.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 167.87,
+  "data_analise": "2026-07-29T08:22:12Z",
+  "data_criacao": "2026-07-29T05:22:12.016758-03:00"
+}

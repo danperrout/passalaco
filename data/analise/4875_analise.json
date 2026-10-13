@@ -1,0 +1,32 @@
+{
+  "id": 4875,
+  "nome_original": "Conde Dracula",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Halloween Infantil",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "colete",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com acabamento em cetim e renda",
+    "estilo_corte": "corte clássico vitoriano com gola alta estruturada",
+    "acessorios_visiveis": [
+      "jabot de renda"
+    ],
+    "tematica_detalhada": "Vampiro aristocrata, especificamente inspirado no personagem Conde Drácula"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4875.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.85,
+  "data_analise": "2026-07-28T01:23:46Z",
+  "data_criacao": "2026-07-27T22:23:46.340916-03:00"
+}

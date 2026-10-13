@@ -1,0 +1,32 @@
+{
+  "id": 204,
+  "nome_original": "Medieval",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom claro",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "camisa de mangas longas",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com aparência de linho ou juta",
+    "estilo_corte": "túnica sem mangas com barra irregular e recortada",
+    "acessorios_visiveis": [
+      "cinto de couro",
+      "cordão de amarração no gola"
+    ],
+    "tematica_detalhada": "Fantasia medieval camponesa ou de aventureiro, remetendo a personagens de RPG ou feiras medievais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/204.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 205.81,
+  "data_analise": "2026-07-29T21:03:36Z",
+  "data_criacao": "2026-07-29T18:03:36.406889-03:00"
+}

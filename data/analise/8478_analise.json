@@ -1,0 +1,29 @@
+{
+  "id": 8478,
+  "nome_original": "Elsa 2",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "lilás"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "cetim sintético com acabamento brilhante",
+    "estilo_corte": "vestido longo com mangas compridas, cintura marcada e saia evasê",
+    "acessorios_visiveis": [
+      "tiara prateada",
+      "peruca loira com trança"
+    ],
+    "tematica_detalhada": "fantasia inspirada na personagem Elsa do filme Frozen 2, representando sua vestimenta de tons arroxeados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8478.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 48.4,
+  "data_analise": "2026-07-28T03:38:49Z",
+  "data_criacao": "2026-07-28T00:38:49.615399-03:00"
+}

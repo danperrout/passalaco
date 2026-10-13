@@ -1,0 +1,32 @@
+{
+  "id": 6891,
+  "nome_original": "Ninja",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "túnica",
+      "calças"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "ajustado ao corpo com detalhes em viés contrastante",
+    "acessorios_visiveis": [
+      "faixa na cintura",
+      "protetores de braço",
+      "protetores de perna"
+    ],
+    "tematica_detalhada": "ninja tradicional japonês com referências a personagens de artes marciais e cultura pop"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6891.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 126.79,
+  "data_analise": "2026-07-29T23:48:48Z",
+  "data_criacao": "2026-07-29T20:48:48.765596-03:00"
+}

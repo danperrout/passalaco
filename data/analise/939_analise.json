@@ -1,0 +1,28 @@
+{
+  "id": 939,
+  "nome_original": "Mulher Gato",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "blusa de manga longa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético fosco com detalhes brilhantes",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "máscara com orelhas de gato"
+    ],
+    "tematica_detalhada": "Fantasia de Mulher Gato, personagem inspirada nos quadrinhos da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/939.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.42,
+  "data_analise": "2026-07-29T23:18:27Z",
+  "data_criacao": "2026-07-29T20:18:27.631986-03:00"
+}

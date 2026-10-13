@@ -1,0 +1,28 @@
+{
+  "id": 2287,
+  "nome_original": "Coelhinha",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "pelúcia macia",
+    "estilo_corte": "estilo kigurumi ou pijama enteriço folgado",
+    "acessorios_visiveis": [
+      "orelhas de coelho integradas ao capuz"
+    ],
+    "tematica_detalhada": "fantasia de coelho infantil, focada em conforto e fofura"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2287.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 72.24,
+  "data_analise": "2026-07-28T00:03:54Z",
+  "data_criacao": "2026-07-27T21:03:54.666050-03:00"
+}

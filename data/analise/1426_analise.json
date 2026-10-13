@@ -1,0 +1,24 @@
+{
+  "id": 1426,
+  "nome_original": "Arara Verde",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Verde",
+      "Marrom"
+    ],
+    "pecas_inclusas": [
+      "Macacão",
+      "Capuz com bico",
+      "Asas"
+    ],
+    "material_visual": "Tecido com aspecto de malha, fosco",
+    "estilo_corte": "Macacão de corpo inteiro com mangas e pernas curtas, corte solto, capuz com bico, asas aplicadas nas costas.",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia de arara verde, ave tropical, animal."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1426.jpg",
+  "data_analise": "2026-07-27T16:46:57Z"
+}

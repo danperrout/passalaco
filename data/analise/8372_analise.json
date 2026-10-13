@@ -1,0 +1,30 @@
+{
+  "id": 8372,
+  "nome_original": "Chef de Cozinha",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "chapéu de chef",
+      "túnica/casaco",
+      "short"
+    ],
+    "material_visual": "tecido sintético com aparência de poliéster ou cetim",
+    "estilo_corte": "corte clássico de dólmã com gola alta e fechamento frontal",
+    "acessorios_visiveis": [
+      "botões decorativos pretos"
+    ],
+    "tematica_detalhada": "fantasia de Chef de Cozinha profissional, inspirada na culinária francesa clássica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8372.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 72.89,
+  "data_analise": "2026-07-27T20:52:55Z",
+  "data_criacao": "2026-07-27T17:52:55.534100-03:00"
+}

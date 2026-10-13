@@ -1,0 +1,26 @@
+{
+  "id": 3119,
+  "nome_original": "Chinesa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "corte reto, justo ao corpo, com gola alta e mangas curtas",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "inspirada no Qipao ou Cheongsam, traje tradicional chinês"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3119.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 32.74,
+  "data_analise": "2026-07-27T21:00:58Z",
+  "data_criacao": "2026-07-27T18:00:58.383780-03:00"
+}

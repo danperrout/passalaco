@@ -1,0 +1,32 @@
+{
+  "id": 5886,
+  "nome_original": "Soldado",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "marrom",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "bermuda",
+      "capacete"
+    ],
+    "material_visual": "tecido sintético com estampa camuflada",
+    "estilo_corte": "estilo militar tático com bolsos laterais",
+    "acessorios_visiveis": [
+      "cinto",
+      "capacete"
+    ],
+    "tematica_detalhada": "fantasia de soldado militar com padrão de camuflagem florestal"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5886.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 128.01,
+  "data_analise": "2026-07-30T07:05:25Z",
+  "data_criacao": "2026-07-30T04:05:25.892892-03:00"
+}

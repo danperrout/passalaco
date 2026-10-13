@@ -1,0 +1,35 @@
+{
+  "id": 6713,
+  "nome_original": "Guerreiro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica branca",
+      "peitoral preto",
+      "capa vermelha",
+      "calça preta"
+    ],
+    "material_visual": "tecido sintético com acabamento em couro fake e detalhes metálicos",
+    "estilo_corte": "corte reto com camadas sobrepostas e drapeado na capa",
+    "acessorios_visiveis": [
+      "tiara/capacete dourado",
+      "cinto dourado",
+      "braceletes pretos com tachas"
+    ],
+    "tematica_detalhada": "guerreiro romano ou centurião, referenciando a Antiguidade Clássica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6713.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 39.89,
+  "data_analise": "2026-07-28T11:52:06Z",
+  "data_criacao": "2026-07-28T08:52:06.121080-03:00"
+}

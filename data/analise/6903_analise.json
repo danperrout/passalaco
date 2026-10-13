@@ -1,0 +1,34 @@
+{
+  "id": 6903,
+  "nome_original": "Soldado Romano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Gregas/Romanos",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "cinto com saiote",
+      "capa"
+    ],
+    "material_visual": "tecido sintético com aparência de couro no cinto e metalizado no capacete",
+    "estilo_corte": "túnica curta solta com sobreposição de armadura de cintura",
+    "acessorios_visiveis": [
+      "capacete",
+      "braceletes",
+      "ombreira decorativa",
+      "grevas"
+    ],
+    "tematica_detalhada": "Guerreiro da Antiguidade Clássica, com referências a soldados romanos ou espartanos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6903.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 67.04,
+  "data_analise": "2026-07-30T07:14:02Z",
+  "data_criacao": "2026-07-30T04:14:02.858205-03:00"
+}

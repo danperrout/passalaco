@@ -1,0 +1,30 @@
+{
+  "id": 2759,
+  "nome_original": "Fogo Fátuo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "macacão"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou espuma",
+    "estilo_corte": "estilo mascote, volumoso e ajustado ao corpo",
+    "acessorios_visiveis": [
+      "máscara com chifres"
+    ],
+    "tematica_detalhada": "Personagem Fogo Fátuo (Swampfire) da série Ben 10"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2759.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 70.29,
+  "data_analise": "2026-07-28T06:11:38Z",
+  "data_criacao": "2026-07-28T03:11:38.775266-03:00"
+}

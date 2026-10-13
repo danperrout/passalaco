@@ -1,0 +1,31 @@
+{
+  "id": 8563,
+  "nome_original": "Policial Militar",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde oliva",
+      "camuflado"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "bermuda",
+      "boné"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "ajuste reto com colete sem mangas",
+    "acessorios_visiveis": [
+      "boné com emblema",
+      "distintivo no peito"
+    ],
+    "tematica_detalhada": "uniforme tático de forças de segurança, referenciando Policiamento Militar ou patrulha florestal"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8563.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.68,
+  "data_analise": "2026-07-30T03:48:12Z",
+  "data_criacao": "2026-07-30T00:48:12.200741-03:00"
+}

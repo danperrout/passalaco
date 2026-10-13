@@ -1,0 +1,23 @@
+{
+  "id": 5605,
+  "nome_original": "Ana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "rosa",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho e camadas de tule ou cetim",
+    "estilo_corte": "estilo princesa com saia volumosa e corpete ajustado",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia temática de sereia ou personagem mágico colorido"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5605.jpg",
+  "data_analise": "2026-07-27T13:55:37Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 8636,
+  "nome_original": "Capitao America",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão completo",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com impressão digital",
+    "estilo_corte": "ajustado ao corpo (estilo slim fit)",
+    "acessorios_visiveis": [
+      "escudo",
+      "máscara com a letra A"
+    ],
+    "tematica_detalhada": "Personagem Capitão América da Marvel Comics, representando o herói patriótico dos Estados Unidos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8636.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.54,
+  "data_analise": "2026-07-27T18:59:58Z",
+  "data_criacao": "2026-07-27T15:59:58.486063-03:00"
+}

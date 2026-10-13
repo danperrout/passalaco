@@ -1,0 +1,30 @@
+{
+  "id": 7624,
+  "nome_original": "Carrasco",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "túnica com capuz",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou cetim",
+    "estilo_corte": "corte longo e amplo, estilo túnica com capuz integrado",
+    "acessorios_visiveis": [
+      "cinto com fivelas",
+      "máscara facial"
+    ],
+    "tematica_detalhada": "fantasia de carrasco estilizada, com referências a figuras medievais de execução ou personagens sombrios de fantasia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7624.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.39,
+  "data_analise": "2026-07-27T19:28:55Z",
+  "data_criacao": "2026-07-27T16:28:55.529886-03:00"
+}

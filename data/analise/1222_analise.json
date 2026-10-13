@@ -1,0 +1,33 @@
+{
+  "id": 1222,
+  "nome_original": "Principe",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "capa",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com detalhes em franjas douradas",
+    "estilo_corte": "corte reto e solto, com capelete ornamental",
+    "acessorios_visiveis": [
+      "chapéu com pluma",
+      "detalhes dourados"
+    ],
+    "tematica_detalhada": "fantasia de príncipe clássico, com referências a trajes monárquicos europeus estilizados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1222.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.8,
+  "data_analise": "2026-07-30T04:13:45Z",
+  "data_criacao": "2026-07-30T01:13:45.637506-03:00"
+}

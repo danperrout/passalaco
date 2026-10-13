@@ -1,0 +1,31 @@
+{
+  "id": 7370,
+  "nome_original": "The Flash Luxo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente elastano ou lycra",
+    "estilo_corte": "justo ao corpo (skinny), estilo traje de super-herói",
+    "acessorios_visiveis": [
+      "cinto amarelo",
+      "emblema de raio no peito"
+    ],
+    "tematica_detalhada": "personagem The Flash da DC Comics, representando o herói velocista"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7370.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.57,
+  "data_analise": "2026-07-30T07:45:49Z",
+  "data_criacao": "2026-07-30T04:45:49.945480-03:00"
+}

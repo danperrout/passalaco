@@ -1,0 +1,29 @@
+{
+  "id": 9988,
+  "nome_original": "Medieval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa com capuz"
+    ],
+    "material_visual": "cetim brilhante e veludo",
+    "estilo_corte": "corte imperio com corpete transpassado e mangas amplas",
+    "acessorios_visiveis": [
+      "cadarço de amarração frontal"
+    ],
+    "tematica_detalhada": "fantasia medieval inspirada em nobreza, camponesa estilizada ou personagens de fantasia como princesas e magas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9988.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 86.36,
+  "data_analise": "2026-07-29T21:15:01Z",
+  "data_criacao": "2026-07-29T18:15:01.050524-03:00"
+}

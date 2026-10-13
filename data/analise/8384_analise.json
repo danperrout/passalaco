@@ -1,0 +1,29 @@
+{
+  "id": 8384,
+  "nome_original": "Boneca Vodu",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido com aparência de juta ou linho rústico",
+    "estilo_corte": "vestido curto evasê com gola redonda",
+    "acessorios_visiveis": [
+      "alfinetes",
+      "costuras aparentes"
+    ],
+    "tematica_detalhada": "Boneca Vodu, referenciando crenças folclóricas e rituais de magia simpática, caracterizada por remendos e alfinetes espetados no corpo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8384.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.37,
+  "data_analise": "2026-07-27T18:18:40Z",
+  "data_criacao": "2026-07-27T15:18:40.059776-03:00"
+}

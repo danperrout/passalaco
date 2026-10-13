@@ -1,0 +1,29 @@
+{
+  "id": 9257,
+  "nome_original": "Malevola",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "capa"
+    ],
+    "material_visual": "tecido com brilho, possivelmente paetês ou lurex",
+    "estilo_corte": "vestido longo ajustado com decote em V e capa longa acoplada",
+    "acessorios_visiveis": [
+      "tiara de chifres",
+      "gargantilha"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Malévola, inspirada na vilã da Disney, com estética gótica e imponente"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9257.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 38.93,
+  "data_analise": "2026-07-29T16:34:06Z",
+  "data_criacao": "2026-07-29T13:34:06.717432-03:00"
+}

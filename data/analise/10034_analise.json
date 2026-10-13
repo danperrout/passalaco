@@ -1,0 +1,29 @@
+{
+  "id": 10034,
+  "nome_original": "Bela Adormecida",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "luvas"
+    ],
+    "material_visual": "cetim com detalhes em renda e tule",
+    "estilo_corte": "estilo princesa com corpete ajustado e saia curta com babados",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "Versão modernizada e curta da Bela Adormecida, inspirada em contos de fadas da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10034.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.0,
+  "data_analise": "2026-07-27T17:56:39Z",
+  "data_criacao": "2026-07-27T14:56:39.751097-03:00"
+}

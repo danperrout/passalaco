@@ -1,0 +1,31 @@
+{
+  "id": 8412,
+  "nome_original": "Mago",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul royal",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "chapéu pontudo",
+      "barba postiça"
+    ],
+    "material_visual": "tecido aveludado com detalhes em renda ou fitilho branco",
+    "estilo_corte": "túnica longa e aberta com mangas largas",
+    "acessorios_visiveis": [
+      "chapéu de mago com lua e estrela",
+      "barba branca volumosa"
+    ],
+    "tematica_detalhada": "Mago clássico de fantasia, com referências a feiticeiros medievais ou personagens como Merlin"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8412.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 29.48,
+  "data_analise": "2026-07-29T16:29:33Z",
+  "data_criacao": "2026-07-29T13:29:33.439519-03:00"
+}

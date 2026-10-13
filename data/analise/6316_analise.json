@@ -1,0 +1,31 @@
+{
+  "id": 6316,
+  "nome_original": "Tiara Elsa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul claro",
+      "branco",
+      "loiro"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético brilhante e tule",
+    "estilo_corte": "vestido com mangas compridas e decote arredondado",
+    "acessorios_visiveis": [
+      "tiara com pedraria"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Elsa do filme Frozen da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6316.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.75,
+  "data_analise": "2026-07-30T08:09:22Z",
+  "data_criacao": "2026-07-30T05:09:22.106947-03:00"
+}

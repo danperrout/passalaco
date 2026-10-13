@@ -1,0 +1,30 @@
+{
+  "id": 3967,
+  "nome_original": "Espanhola",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "mantilha"
+    ],
+    "material_visual": "veludo e renda",
+    "estilo_corte": "vestido curto com babados no decote e na barra",
+    "acessorios_visiveis": [
+      "tiara de flores vermelhas",
+      "véu de renda"
+    ],
+    "tematica_detalhada": "Fantasia de bailarina de Flamenco, inspirada na cultura tradicional espanhola"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3967.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 31.72,
+  "data_analise": "2026-07-28T03:54:22Z",
+  "data_criacao": "2026-07-28T00:54:22.136293-03:00"
+}

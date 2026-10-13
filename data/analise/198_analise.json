@@ -1,0 +1,28 @@
+{
+  "id": 198,
+  "nome_original": "Barbie",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido sintético com sobreposição de tule ou organza",
+    "estilo_corte": "estilo princesa com corpete ajustado e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "estética de boneca Barbie, especificamente no tema de princesa ou baile"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/198.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.3,
+  "data_analise": "2026-07-27T17:46:12Z",
+  "data_criacao": "2026-07-27T14:46:12.293311-03:00"
+}

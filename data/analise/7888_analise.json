@@ -1,0 +1,31 @@
+{
+  "id": 7888,
+  "nome_original": "Batman",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "cinza",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "camiseta",
+      "bermuda"
+    ],
+    "material_visual": "tecido sintético e malha",
+    "estilo_corte": "casual e solto",
+    "acessorios_visiveis": [
+      "cinto amarelo"
+    ],
+    "tematica_detalhada": "Super-herói Batman da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7888.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.16,
+  "data_analise": "2026-07-27T17:49:44Z",
+  "data_criacao": "2026-07-27T14:49:44.376749-03:00"
+}

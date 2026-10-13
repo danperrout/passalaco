@@ -1,0 +1,30 @@
+{
+  "id": 4402,
+  "nome_original": "Oncinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "preto",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "tecido sintético com estampa animal print e tule na saia",
+    "estilo_corte": "vestido curto com decote coração, recorte no colo e saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "tiara com orelhas de onça"
+    ],
+    "tematica_detalhada": "fantasia de oncinha/leopardo, focada em estética animal print para festas temáticas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4402.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 35.49,
+  "data_analise": "2026-07-30T00:51:01Z",
+  "data_criacao": "2026-07-29T21:51:01.333959-03:00"
+}

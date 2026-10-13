@@ -1,0 +1,32 @@
+{
+  "id": 8530,
+  "nome_original": "Arlequina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "camiseta",
+      "shorts",
+      "cinta"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "ajustado ao corpo com detalhes de listras nas extremidades",
+    "acessorios_visiveis": [
+      "gola alta com escrita",
+      "cinto preto com detalhes dourados"
+    ],
+    "tematica_detalhada": "personagem Arlequina da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8530.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 15.23,
+  "data_analise": "2026-07-27T16:51:24Z",
+  "data_criacao": "2026-07-27T13:51:24.486478-03:00"
+}

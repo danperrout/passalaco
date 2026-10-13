@@ -1,0 +1,32 @@
+{
+  "id": 4507,
+  "nome_original": "Sapo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde claro",
+      "verde limão"
+    ],
+    "pecas_inclusas": [
+      "capuz",
+      "camisa",
+      "calça",
+      "luvas",
+      "sapatilhas"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou plush",
+    "estilo_corte": "estilo macacão bipartido com ajuste folgado",
+    "acessorios_visiveis": [
+      "olhos salientes no capuz"
+    ],
+    "tematica_detalhada": "fantasia de sapo antropomórfico, com estética infantil e lúdica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4507.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.22,
+  "data_analise": "2026-07-30T05:54:31Z",
+  "data_criacao": "2026-07-30T02:54:31.544900-03:00"
+}

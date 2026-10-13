@@ -1,0 +1,31 @@
+{
+  "id": 7509,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "saia longa"
+    ],
+    "material_visual": "tecido xadrez e tecido sintético preto",
+    "estilo_corte": "top curto com mangas bufantes e saia volumosa com babados",
+    "acessorios_visiveis": [
+      "chapéu de palha",
+      "laço de cabelo",
+      "aplicações decorativas na saia"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina brasileira, representando a figura da caipira estilizada com elementos rurais e folclóricos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7509.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 33.34,
+  "data_analise": "2026-07-29T01:06:05Z",
+  "data_criacao": "2026-07-28T22:06:05.794330-03:00"
+}

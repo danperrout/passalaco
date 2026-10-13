@@ -1,0 +1,31 @@
+{
+  "id": 3817,
+  "nome_original": "Carta de Baralho",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "cartola"
+    ],
+    "material_visual": "tecido sintético com brilho",
+    "estilo_corte": "vestido curto com saia rodada e corpete ajustado",
+    "acessorios_visiveis": [
+      "cartola",
+      "colar"
+    ],
+    "tematica_detalhada": "Carta de baralho, com forte referência estética ao personagem Rainha de Copas de Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3817.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.91,
+  "data_analise": "2026-07-27T19:29:18Z",
+  "data_criacao": "2026-07-27T16:29:18.588960-03:00"
+}

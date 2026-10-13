@@ -1,0 +1,33 @@
+{
+  "id": 7918,
+  "nome_original": "Sdevindia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa choque",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top de penas",
+      "saia de penas",
+      "braceletes",
+      "tiara"
+    ],
+    "material_visual": "penas sintéticas e acabamentos em dourado",
+    "estilo_corte": "estilo biquíni com saia curta, corte aberto e volumoso",
+    "acessorios_visiveis": [
+      "tiara com pena",
+      "braceletes de penas",
+      "detalhes dourados na cintura e busto"
+    ],
+    "tematica_detalhada": "fantasia inspirada em temática tribal, havaiana ou de dançarina de cancan/showgirl, com referências a trajes exóticos de carnaval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7918.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 254.74,
+  "data_analise": "2026-07-30T06:03:46Z",
+  "data_criacao": "2026-07-30T03:03:46.016588-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 9352,
+  "nome_original": "Harry Potter",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "camisa",
+      "gravata"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "túnica longa com capuz e corte amplo",
+    "acessorios_visiveis": [
+      "varinha",
+      "brasão"
+    ],
+    "tematica_detalhada": "estudante da escola de magia Hogwarts, especificamente da casa Hufflepuff, da franquia Harry Potter"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9352.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 126.31,
+  "data_analise": "2026-07-28T12:39:16Z",
+  "data_criacao": "2026-07-28T09:39:16.013492-03:00"
+}

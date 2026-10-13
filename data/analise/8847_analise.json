@@ -1,0 +1,36 @@
+{
+  "id": 8847,
+  "nome_original": "Cleopatra e Farao",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "túnica",
+      "estola",
+      "saiote"
+    ],
+    "material_visual": "tecido sintético com brilho, cetim e detalhes metalizados",
+    "estilo_corte": "estilo egípcio antigo com drapeados e cortes retos",
+    "acessorios_visiveis": [
+      "colar largo egípcio",
+      "tiara",
+      "braceletes",
+      "cinto dourado",
+      "estola de ombro"
+    ],
+    "tematica_detalhada": "Realeza do Antigo Egito, representando as figuras de Cleópatra e um Faraó"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8847.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 167.43,
+  "data_analise": "2026-07-27T23:29:40Z",
+  "data_criacao": "2026-07-27T20:29:40.905262-03:00"
+}

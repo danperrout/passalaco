@@ -1,0 +1,30 @@
+{
+  "id": 3940,
+  "nome_original": "Presidiario",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "bermuda",
+      "touca"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente poliéster",
+    "estilo_corte": "corte reto e folgado com estampa de listras horizontais",
+    "acessorios_visiveis": [
+      "touca combinando"
+    ],
+    "tematica_detalhada": "fantasia de prisioneiro clássica, baseada no estereótipo antigo de uniformes de presídios com listras e número de identificação no peito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3940.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.72,
+  "data_analise": "2026-07-30T03:57:07Z",
+  "data_criacao": "2026-07-30T00:57:07.196221-03:00"
+}

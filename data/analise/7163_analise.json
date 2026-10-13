@@ -1,0 +1,29 @@
+{
+  "id": 7163,
+  "nome_original": "Vampira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "vestido curto"
+    ],
+    "material_visual": "cetim e renda",
+    "estilo_corte": "estilo gótico com saia rodada e casaco estruturado",
+    "acessorios_visiveis": [
+      "peruca preta"
+    ],
+    "tematica_detalhada": "vampira clássica com referências ao estilo vitoriano gótico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7163.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.86,
+  "data_analise": "2026-07-30T08:44:48Z",
+  "data_criacao": "2026-07-30T05:44:48.501886-03:00"
+}

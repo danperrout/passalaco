@@ -1,0 +1,33 @@
+{
+  "id": 10028,
+  "nome_original": "Mascote Sonic Noel",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "máscara de cabeça completa",
+      "casaco de papai noel",
+      "calça"
+    ],
+    "material_visual": "pelúcia e cetim",
+    "estilo_corte": "estilo mascote oversized",
+    "acessorios_visiveis": [
+      "gorro de natal",
+      "cinto preto com fivela dourada",
+      "botões dourados"
+    ],
+    "tematica_detalhada": "Fusão do personagem Sonic the Hedgehog com a figura do Papai Noel, temática natalina"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10028.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 95.05,
+  "data_analise": "2026-07-29T20:29:44Z",
+  "data_criacao": "2026-07-29T17:29:44.388820-03:00"
+}

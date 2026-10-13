@@ -1,0 +1,29 @@
+{
+  "id": 8228,
+  "nome_original": "Carimbo",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "multicolorido",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampa digital vibrante",
+    "estilo_corte": "estilo ombro a ombro com modelagem solta",
+    "acessorios_visiveis": [
+      "peruca"
+    ],
+    "tematica_detalhada": "estética psicodélica ou floral abstrata, remetendo a elementos da natureza ou arte pop"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8228.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.06,
+  "data_analise": "2026-07-27T19:19:49Z",
+  "data_criacao": "2026-07-27T16:19:49.552348-03:00"
+}

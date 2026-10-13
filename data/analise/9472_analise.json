@@ -1,0 +1,28 @@
+{
+  "id": 9472,
+  "nome_original": "Chapeu e Suspensorio",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "chapéu"
+    ],
+    "material_visual": "feltro ou material sintético rígido",
+    "estilo_corte": "aba larga com copa arredondada",
+    "acessorios_visiveis": [
+      "chapéu de cowboy"
+    ],
+    "tematica_detalhada": "estilo western/country, referenciando a figura do cowboy ou caubói"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9472.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.21,
+  "data_analise": "2026-07-27T19:52:31Z",
+  "data_criacao": "2026-07-27T16:52:31.396890-03:00"
+}

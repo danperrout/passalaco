@@ -1,0 +1,29 @@
+{
+  "id": 3832,
+  "nome_original": "Matrix",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "sobretudo longo",
+      "camiseta",
+      "calça"
+    ],
+    "material_visual": "material sintético com brilho, semelhante a couro ou vinil",
+    "estilo_corte": "corte reto e longo, estilo trench coat",
+    "acessorios_visiveis": [
+      "pulseiras ou faixas nos pulsos"
+    ],
+    "tematica_detalhada": "inspirada no filme Matrix, remetendo aos personagens Neo ou Trinity com estética cyberpunk e futurista"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3832.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 73.01,
+  "data_analise": "2026-07-29T20:51:24Z",
+  "data_criacao": "2026-07-29T17:51:24.815075-03:00"
+}

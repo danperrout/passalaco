@@ -1,0 +1,32 @@
+{
+  "id": 1860,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "colorido",
+      "rosa",
+      "verde",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com estampas florais e xadrez",
+    "estilo_corte": "estilo boneca com saia volumosa em camadas e bustiê",
+    "acessorios_visiveis": [
+      "chapéu de palha decorado",
+      "laços"
+    ],
+    "tematica_detalhada": "fantasia de Festa Junina estilizada, com referências ao traje caipira tradicional brasileiro, porém com corte moderno e fashionista"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1860.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 228.67,
+  "data_analise": "2026-07-28T22:57:45Z",
+  "data_criacao": "2026-07-28T19:57:45.064116-03:00"
+}

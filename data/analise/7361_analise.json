@@ -1,0 +1,33 @@
+{
+  "id": 7361,
+  "nome_original": "Tartaruga Ninja",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "máscara",
+      "munhequeiras"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante",
+    "estilo_corte": "estilo vestido curto com saia plissada e decote em V",
+    "acessorios_visiveis": [
+      "máscara facial",
+      "faixa na cintura",
+      "protetores de pulso"
+    ],
+    "tematica_detalhada": "Versão feminina e estilizada inspirada nas Tartarugas Ninja, especificamente referenciando o personagem Raphael devido à cor vermelha dos acessórios"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7361.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 19.11,
+  "data_analise": "2026-07-30T07:40:07Z",
+  "data_criacao": "2026-07-30T04:40:07.881501-03:00"
+}

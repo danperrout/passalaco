@@ -1,0 +1,33 @@
+{
+  "id": 8738,
+  "nome_original": "Casal Ana e Cristorff",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calças",
+      "chapéu",
+      "vestido longo",
+      "capa"
+    ],
+    "material_visual": "tecidos sintéticos com brilho acetinado",
+    "estilo_corte": "estilo medieval/fantasia com cortes amplos e fluidos",
+    "acessorios_visiveis": [
+      "faixa vermelha",
+      "chapéu pontudo"
+    ],
+    "tematica_detalhada": "casal com temática medieval ou de conto de fadas, possivelmente inspirados em personagens de fantasia clássica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8738.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.68,
+  "data_analise": "2026-07-27T19:30:29Z",
+  "data_criacao": "2026-07-27T16:30:29.359494-03:00"
+}

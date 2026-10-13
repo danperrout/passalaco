@@ -1,0 +1,31 @@
+{
+  "id": 8504,
+  "nome_original": "Emoji",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "calça",
+      "boné",
+      "painel frontal de emoji"
+    ],
+    "material_visual": "tecido sintético e painel impresso em material rígido ou espuma",
+    "estilo_corte": "modelagem casual e folgada com sobreposição frontal circular",
+    "acessorios_visiveis": [
+      "boné amarelo"
+    ],
+    "tematica_detalhada": "Fantasia baseada no emoji de 'rosto sorridente com olhos de coração', representando amor e entusiasmo na cultura digital"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8504.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.33,
+  "data_analise": "2026-07-28T03:50:08Z",
+  "data_criacao": "2026-07-28T00:50:08.560128-03:00"
+}

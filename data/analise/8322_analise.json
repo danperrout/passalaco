@@ -1,0 +1,30 @@
+{
+  "id": 8322,
+  "nome_original": "Jardim Encantado",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul claro",
+      "rosa",
+      "roxo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido acetinado com brilhos discretos e aplicações de flores em tecido",
+    "estilo_corte": "vestido de festa infantil com cintura marcada, saia volumosa em formato A e mangas curtas bufantes",
+    "acessorios_visiveis": [
+      "tiara de flores com folhagens"
+    ],
+    "tematica_detalhada": "Jardim Encantado, evocando a imagem de fadas ou princesas da natureza, com foco em elementos florais e cores pastéis"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8322.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 112.44,
+  "data_analise": "2026-07-28T19:26:29Z",
+  "data_criacao": "2026-07-28T16:26:29.778146-03:00"
+}

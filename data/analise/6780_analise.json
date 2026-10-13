@@ -1,0 +1,32 @@
+{
+  "id": 6780,
+  "nome_original": "Arlequina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "corpet/colete",
+      "luvas",
+      "calça"
+    ],
+    "material_visual": "aspecto de couro sintético ou vinil",
+    "estilo_corte": "ajustado ao corpo com detalhes em amarração",
+    "acessorios_visiveis": [
+      "choker",
+      "cinto"
+    ],
+    "tematica_detalhada": "Arlequina (Harley Quinn) de Esquadrão Suicida"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6780.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 14.38,
+  "data_analise": "2026-07-27T16:51:54Z",
+  "data_criacao": "2026-07-27T13:51:54.314128-03:00"
+}

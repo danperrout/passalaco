@@ -1,0 +1,29 @@
+{
+  "id": 6043,
+  "nome_original": "Coelhinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "top corset",
+      "saia curta"
+    ],
+    "material_visual": "cetim ou tecido sintético com brilho",
+    "estilo_corte": "ajustado ao corpo, estilo corset com saia evasê",
+    "acessorios_visiveis": [
+      "tiara de orelhas de coelho",
+      "gravata borboleta"
+    ],
+    "tematica_detalhada": "Fantasia de coelhinha, inspirada na estética clássica de Playboy Bunny"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6043.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 64.33,
+  "data_analise": "2026-07-27T23:58:24Z",
+  "data_criacao": "2026-07-27T20:58:24.245243-03:00"
+}

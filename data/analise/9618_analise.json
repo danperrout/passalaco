@@ -1,0 +1,29 @@
+{
+  "id": 9618,
+  "nome_original": "Cuca",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "cetim, tule e lantejoulas",
+    "estilo_corte": "vestido curto com saia rodada e alças finas",
+    "acessorios_visiveis": [
+      "tiara com cabeça de jacaré"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Cuca, do folclore brasileiro e do Sítio do Picapau Amarelo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9618.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.04,
+  "data_analise": "2026-07-28T02:22:16Z",
+  "data_criacao": "2026-07-27T23:22:16.497732-03:00"
+}

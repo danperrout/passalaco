@@ -1,0 +1,31 @@
+{
+  "id": 732,
+  "nome_original": "India",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "dourado",
+      "verde",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "tecido com brilho, franjas sintéticas e penas",
+    "estilo_corte": "top cropped e saia curta de franjas",
+    "acessorios_visiveis": [
+      "tiara de penas"
+    ],
+    "tematica_detalhada": "fantasia estilizada de indígena, com referências genéricas a trajes tribais para festas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/732.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 212.5,
+  "data_analise": "2026-07-28T16:22:27Z",
+  "data_criacao": "2026-07-28T13:22:27.275665-03:00"
+}

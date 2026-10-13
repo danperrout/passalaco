@@ -1,0 +1,29 @@
+{
+  "id": 9153,
+  "nome_original": "Lider de Torcida",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado",
+    "estilo_corte": "estilo cheerleader com top curto e saia plissada curta",
+    "acessorios_visiveis": [
+      "pompom vermelho"
+    ],
+    "tematica_detalhada": "Líder de torcida clássica, inspirada no estilo esportivo escolar norte-americano"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9153.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 213.05,
+  "data_analise": "2026-07-29T11:05:54Z",
+  "data_criacao": "2026-07-29T08:05:54.724433-03:00"
+}

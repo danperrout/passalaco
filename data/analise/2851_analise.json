@@ -1,0 +1,30 @@
+{
+  "id": 2851,
+  "nome_original": "Coelhinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "tiara de orelhas"
+    ],
+    "material_visual": "tecido sintético com acabamento em cetim ou renda na barra",
+    "estilo_corte": "tomara que caia com saia evasê curta e detalhes de fitas",
+    "acessorios_visiveis": [
+      "tiara de orelhas de coelho",
+      "laços decorativos"
+    ],
+    "tematica_detalhada": "fantasia de coelhinha, com referências ao estilo Playboy Bunny e estética de cosplay"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2851.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 151.4,
+  "data_analise": "2026-07-27T23:45:21Z",
+  "data_criacao": "2026-07-27T20:45:21.584878-03:00"
+}

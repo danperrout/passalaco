@@ -1,0 +1,28 @@
+{
+  "id": 5901,
+  "nome_original": "Dama",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul royal"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido acetinado com brilhos/paetês no busto",
+    "estilo_corte": "corte medieval com mangas bufantes e cintura marcada",
+    "acessorios_visiveis": [
+      "colar",
+      "tiara/diadema"
+    ],
+    "tematica_detalhada": "fantasia de dama da nobreza medieval, princesa ou personagem de contos de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5901.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.64,
+  "data_analise": "2026-07-28T02:29:20Z",
+  "data_criacao": "2026-07-27T23:29:20.931828-03:00"
+}

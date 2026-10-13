@@ -1,0 +1,32 @@
+{
+  "id": 7349,
+  "nome_original": "Moana",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "bege",
+      "vermelho",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "tecido com texturas que imitam palha, crochê e fibras naturais",
+    "estilo_corte": "top cropped com alças e saia curta com amarração na cintura",
+    "acessorios_visiveis": [
+      "guirlanda de flores",
+      "colar com pingente azul"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Moana da Disney, remetendo a trajes tradicionais da Polinésia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7349.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 29.04,
+  "data_analise": "2026-07-29T22:44:17Z",
+  "data_criacao": "2026-07-29T19:44:17.834249-03:00"
+}

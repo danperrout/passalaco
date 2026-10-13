@@ -1,0 +1,32 @@
+{
+  "id": 4599,
+  "nome_original": "Viuva",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "véu com chapéu"
+    ],
+    "material_visual": "cetim ou poliéster com detalhes em renda",
+    "estilo_corte": "vestido curto e solto com acabamento em renda na barra e mangas",
+    "acessorios_visiveis": [
+      "chapéu",
+      "véu",
+      "detalhe de coração dourado no busto",
+      "laço dourado na cintura"
+    ],
+    "tematica_detalhada": "Fantasia de viúva estilizada, misturando luto tradicional com elementos festivos e sensuais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4599.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.34,
+  "data_analise": "2026-07-30T08:52:20Z",
+  "data_criacao": "2026-07-30T05:52:20.238907-03:00"
+}

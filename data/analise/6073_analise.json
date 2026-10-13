@@ -1,0 +1,32 @@
+{
+  "id": 6073,
+  "nome_original": "Mulher Gato",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "tiara de orelhas",
+      "capa",
+      "top estilo harness",
+      "luvas de rede",
+      "calça"
+    ],
+    "material_visual": "tecido sintético, rede e couro sintético",
+    "estilo_corte": "ajustado ao corpo com recortes vazados (cut-out)",
+    "acessorios_visiveis": [
+      "tiara de orelhas de gato",
+      "cinto"
+    ],
+    "tematica_detalhada": "Fantasia de Mulher Gato com abordagem sensual e moderna, referenciando a personagem dos quadrinhos DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6073.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.72,
+  "data_analise": "2026-07-29T23:19:24Z",
+  "data_criacao": "2026-07-29T20:19:24.860979-03:00"
+}

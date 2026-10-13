@@ -1,0 +1,30 @@
+{
+  "id": 5073,
+  "nome_original": "Motoqueira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "calça",
+      "boné"
+    ],
+    "material_visual": "material sintético com brilho, assemelhando-se a couro ou vinil",
+    "estilo_corte": "ajustado ao corpo com detalhes de faixas laterais brancas",
+    "acessorios_visiveis": [
+      "boné"
+    ],
+    "tematica_detalhada": "fantasia de motoqueira com estética urbana e esportiva"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5073.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.67,
+  "data_analise": "2026-07-29T23:13:59Z",
+  "data_criacao": "2026-07-29T20:13:59.461387-03:00"
+}

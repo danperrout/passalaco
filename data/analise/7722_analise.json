@@ -1,0 +1,33 @@
+{
+  "id": 7722,
+  "nome_original": "Jesus",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "vermelho",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "manto",
+      "peruca",
+      "barba"
+    ],
+    "material_visual": "tecido sintético fosco e fibras sintéticas para cabelo",
+    "estilo_corte": "túnica longa de corte reto com mangas amplas e manto drapeado",
+    "acessorios_visiveis": [
+      "peruca longa",
+      "barba postiça"
+    ],
+    "tematica_detalhada": "Figura bíblica representando Jesus Cristo, com referências a vestimentas tradicionais do Oriente Médio da antiguidade"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7722.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 36.63,
+  "data_analise": "2026-07-28T21:13:30Z",
+  "data_criacao": "2026-07-28T18:13:30.616416-03:00"
+}

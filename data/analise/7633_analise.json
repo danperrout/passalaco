@@ -1,0 +1,29 @@
+{
+  "id": 7633,
+  "nome_original": "Pintinho Amarelinho",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "regata",
+      "saia de tule",
+      "touca"
+    ],
+    "material_visual": "malha elástica e tule",
+    "estilo_corte": "estilo tutu com blusa ajustada",
+    "acessorios_visiveis": [
+      "touca com detalhe superior"
+    ],
+    "tematica_detalhada": "fantasia de pintinho amarelo, inspirada em personagens infantis e músicas educativas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7633.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 48.15,
+  "data_analise": "2026-07-30T03:36:02Z",
+  "data_criacao": "2026-07-30T00:36:02.865395-03:00"
+}

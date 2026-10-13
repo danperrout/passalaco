@@ -1,0 +1,30 @@
+{
+  "id": 9725,
+  "nome_original": "Fiona",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde esmeralda",
+      "verde água",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "estilo medieval com mangas bufantes e saia longa evasê",
+    "acessorios_visiveis": [
+      "tiara com chifres",
+      "cinto com detalhe de coração"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Princesa Fiona do filme Shrek"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9725.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 84.95,
+  "data_analise": "2026-07-28T06:07:09Z",
+  "data_criacao": "2026-07-28T03:07:09.544905-03:00"
+}

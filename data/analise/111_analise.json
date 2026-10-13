@@ -1,0 +1,27 @@
+{
+  "id": 111,
+  "nome_original": "Anos 70",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prata",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "touca"
+    ],
+    "material_visual": "paetês ou lantejoulas reflexivas",
+    "estilo_corte": "ajustado ao corpo, comprimento curto",
+    "acessorios_visiveis": [
+      "touca combinando",
+      "colar"
+    ],
+    "tematica_detalhada": "estilo disco anos 70 com brilho metálico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/111.jpg",
+  "data_analise": "2026-07-27T14:05:29Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 3888,
+  "nome_original": "Transformers Otimus Prime",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "macacão"
+    ],
+    "material_visual": "tecido sintético com estampa sublimada e plástico na máscara",
+    "estilo_corte": "justo ao corpo (estilo segunda pele)",
+    "acessorios_visiveis": [
+      "máscara facial completa"
+    ],
+    "tematica_detalhada": "Personagem Optimus Prime da franquia Transformers, representando um robô alienígena líder dos Autobots"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3888.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.42,
+  "data_analise": "2026-07-30T08:34:15Z",
+  "data_criacao": "2026-07-30T05:34:15.149067-03:00"
+}

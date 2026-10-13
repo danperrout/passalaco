@@ -1,0 +1,33 @@
+{
+  "id": 3826,
+  "nome_original": "Toga de Juiz",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "toga",
+      "paletó",
+      "camisa",
+      "gravata",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte reto e amplo com mangas largas",
+    "acessorios_visiveis": [
+      "peruca branca",
+      "gravata listrada"
+    ],
+    "tematica_detalhada": "fantasia de juiz ou magistrado, com referências ao sistema judiciário clássico e europeu"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3826.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.68,
+  "data_analise": "2026-07-30T08:30:27Z",
+  "data_criacao": "2026-07-30T05:30:27.668604-03:00"
+}

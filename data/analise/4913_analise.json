@@ -1,0 +1,29 @@
+{
+  "id": 4913,
+  "nome_original": "Sapinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde limão",
+      "verde bandeira"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "tecido sintético e tule",
+    "estilo_corte": "vestido curto com saia rodada em tule e manguinhas bufantes",
+    "acessorios_visiveis": [
+      "tiara com olhos de sapo"
+    ],
+    "tematica_detalhada": "fantasia infantil de sapinho, com foco em elementos lúdicos e cores vibrantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4913.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.03,
+  "data_analise": "2026-07-30T05:54:09Z",
+  "data_criacao": "2026-07-30T02:54:09.705274-03:00"
+}

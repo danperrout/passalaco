@@ -1,0 +1,35 @@
+{
+  "id": 3930,
+  "nome_original": "Principe",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "camisa",
+      "faixa",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante",
+    "estilo_corte": "clássico de traje real infantil",
+    "acessorios_visiveis": [
+      "chapéu com pluma",
+      "faixa abdominal"
+    ],
+    "tematica_detalhada": "Fantasia de príncipe clássico, remetendo a contos de fadas e realeza europeia estilizada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3930.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.88,
+  "data_analise": "2026-07-30T04:06:14Z",
+  "data_criacao": "2026-07-30T01:06:14.163911-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2284,
+  "nome_original": "Porquinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "tecido sintético acetinado ou poliéster",
+    "estilo_corte": "estilo kigurumi ou macacão folgado com fechamento em zíper frontal",
+    "acessorios_visiveis": [
+      "orelhas de porco no capuz",
+      "focinho de porco"
+    ],
+    "tematica_detalhada": "fantasia de animal, especificamente uma porquinha, com design infantil e lúdico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2284.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 19.23,
+  "data_analise": "2026-07-30T03:50:04Z",
+  "data_criacao": "2026-07-30T00:50:04.511983-03:00"
+}

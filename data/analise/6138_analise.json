@@ -1,0 +1,31 @@
+{
+  "id": 6138,
+  "nome_original": "Cigano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido acetinado com brilho na camisa e tecido fosco na calça",
+    "estilo_corte": "camisa de manga longa com decote em V e calça de corte reto",
+    "acessorios_visiveis": [
+      "chapéu",
+      "faixa na cintura"
+    ],
+    "tematica_detalhada": "fantasia de cigano masculino, referenciando a cultura cigana tradicional com elementos boêmios"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6138.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 78.8,
+  "data_analise": "2026-07-27T22:12:50Z",
+  "data_criacao": "2026-07-27T19:12:50.378645-03:00"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 125,
+  "nome_original": "Aranha",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "azul",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top sem mangas",
+      "shorts"
+    ],
+    "material_visual": "tecido liso, com partes estampadas",
+    "estilo_corte": "conjunto de top e shorts, com painel frontal superior simulando um colete sobreposto",
+    "acessorios_visiveis": [
+      "cordões decorativos dourados"
+    ],
+    "tematica_detalhada": "Aranha"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/125.jpg",
+  "data_analise": "2026-07-27T16:46:29Z"
+}

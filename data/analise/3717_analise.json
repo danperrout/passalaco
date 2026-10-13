@@ -1,0 +1,32 @@
+{
+  "id": 3717,
+  "nome_original": "Rainha dos Ladrões",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "marrom",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com aparência de camurça e linho",
+    "estilo_corte": "estilo medieval com saia curta desfiada e corpete ajustado",
+    "acessorios_visiveis": [
+      "chapéu com pena",
+      "bandoleira",
+      "cinto"
+    ],
+    "tematica_detalhada": "fantasia de ladra medieval ou arqueira, com referências a personagens como Robin Hood"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3717.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.3,
+  "data_analise": "2026-07-30T04:30:00Z",
+  "data_criacao": "2026-07-30T01:30:00.270801-03:00"
+}

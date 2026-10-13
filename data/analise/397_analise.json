@@ -1,0 +1,29 @@
+{
+  "id": 397,
+  "nome_original": "Chines",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça"
+    ],
+    "material_visual": "tecido acetinado com brilho",
+    "estilo_corte": "estilo oriental com gola alta e fechamento frontal assimétrico",
+    "acessorios_visiveis": [
+      "chapéu cônico de palha"
+    ],
+    "tematica_detalhada": "fantasia inspirada em vestimentas tradicionais do leste asiático, remetendo a trajes chineses ou vietnamitas simplificados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/397.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 34.49,
+  "data_analise": "2026-07-27T20:59:03Z",
+  "data_criacao": "2026-07-27T17:59:03.094240-03:00"
+}

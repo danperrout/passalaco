@@ -1,0 +1,28 @@
+{
+  "id": 636,
+  "nome_original": "Fred",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica"
+    ],
+    "material_visual": "tecido sintético com aspecto de feltro ou poliéster",
+    "estilo_corte": "corte reto com barras irregulares e rasgadas",
+    "acessorios_visiveis": [
+      "detalhe central em estampa animal"
+    ],
+    "tematica_detalhada": "Fantasia de homem das cavernas, especificamente inspirada no personagem Fred Flintstone"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/636.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.63,
+  "data_analise": "2026-07-28T06:18:49Z",
+  "data_criacao": "2026-07-28T03:18:49.739033-03:00"
+}

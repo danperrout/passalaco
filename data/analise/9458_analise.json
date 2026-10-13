@@ -1,0 +1,32 @@
+{
+  "id": 9458,
+  "nome_original": "Principe da Tiana",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde claro",
+      "verde oliva",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "capa"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "túnica longa com mangas bufantes e calça reta",
+    "acessorios_visiveis": [
+      "cinto com fivela dourada",
+      "detalhes ornamentais no peito"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no Príncipe Naveen do filme A Princesa e o Sapo, remetendo a trajes reais estilizados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9458.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.83,
+  "data_analise": "2026-07-30T04:17:11Z",
+  "data_criacao": "2026-07-30T01:17:11.174124-03:00"
+}

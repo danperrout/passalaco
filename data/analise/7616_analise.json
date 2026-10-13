@@ -1,0 +1,29 @@
+{
+  "id": 7616,
+  "nome_original": "Genesis",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Árabes/Indianas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido fluido com detalhes em bordados ou lantejoulas metálicas",
+    "estilo_corte": "estilo túnica com decote em V e cintura marcada",
+    "acessorios_visiveis": [
+      "coroa de folhas dourada",
+      "cinto decorativo"
+    ],
+    "tematica_detalhada": "temática greco-romana, remetendo a divindades, imperadores ou figuras da antiguidade clássica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7616.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 66.96,
+  "data_analise": "2026-07-28T10:52:11Z",
+  "data_criacao": "2026-07-28T07:52:11.804782-03:00"
+}

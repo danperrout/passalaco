@@ -1,0 +1,31 @@
+{
+  "id": 656,
+  "nome_original": "Galo Doido",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "máscara de galo",
+      "camisa listrada",
+      "calça preta"
+    ],
+    "material_visual": "tecido sintético e plástico/látex na máscara",
+    "estilo_corte": "estilo esportivo, corte reto e folgado",
+    "acessorios_visiveis": [
+      "máscara de cabeça de galo"
+    ],
+    "tematica_detalhada": "Fantasia que mescla a figura de um galo com a identidade visual do Clube Atlético Mineiro, referenciando o mascote do time"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/656.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 121.6,
+  "data_analise": "2026-07-28T06:44:39Z",
+  "data_criacao": "2026-07-28T03:44:39.445747-03:00"
+}

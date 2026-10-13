@@ -1,0 +1,31 @@
+{
+  "id": 9185,
+  "nome_original": "Comandante",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga curta",
+      "calça",
+      "gravata"
+    ],
+    "material_visual": "tecido sintético com aspecto de poliéster",
+    "estilo_corte": "corte reto e formal, estilo uniforme militar",
+    "acessorios_visiveis": [
+      "ombreiras decorativas",
+      "gravata"
+    ],
+    "tematica_detalhada": "fantasia de comandante, com referências a uniformes de capitão de navio ou piloto de avião"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9185.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 42.46,
+  "data_analise": "2026-07-28T01:12:31Z",
+  "data_criacao": "2026-07-27T22:12:31.054976-03:00"
+}

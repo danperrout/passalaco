@@ -1,0 +1,28 @@
+{
+  "id": 8790,
+  "nome_original": "Medieval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul petróleo",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "veludo com bordados metálicos",
+    "estilo_corte": "corte imperial com mangas longas amplas e fluidas",
+    "acessorios_visiveis": [
+      "coroa dourada"
+    ],
+    "tematica_detalhada": "realeza medieval, inspirada em rainhas ou nobres da Idade Média"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8790.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 44.9,
+  "data_analise": "2026-07-29T21:10:15Z",
+  "data_criacao": "2026-07-29T18:10:15.659100-03:00"
+}

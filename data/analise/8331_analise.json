@@ -1,0 +1,27 @@
+{
+  "id": 8331,
+  "nome_original": "Magali",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com detalhe em tule na barra",
+    "estilo_corte": "corte evasê com mangas curtas e gola redonda",
+    "acessorios_visiveis": [
+      "aplicação de melancia"
+    ],
+    "tematica_detalhada": "fantasia da personagem Magali, da Turma da Mônica, referenciando sua característica paixão por melancias"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8331.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 231.35,
+  "data_analise": "2026-07-29T15:38:37Z",
+  "data_criacao": "2026-07-29T12:38:37.259979-03:00"
+}

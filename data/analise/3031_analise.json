@@ -1,0 +1,30 @@
+{
+  "id": 3031,
+  "nome_original": "Sr Madruga",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético ou algodão",
+    "estilo_corte": "casual e folgado",
+    "acessorios_visiveis": [
+      "chapéu de pescador"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Sr. Madruga, da série Chaves, caracterizada por roupas simples e humildes em tons de azul."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3031.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.51,
+  "data_analise": "2026-07-30T07:17:07Z",
+  "data_criacao": "2026-07-30T04:17:07.532539-03:00"
+}

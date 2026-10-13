@@ -1,0 +1,33 @@
+{
+  "id": 6842,
+  "nome_original": "Principe",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "túnica solta com corte em V no decote e barra assimétrica",
+    "acessorios_visiveis": [
+      "cinto preto",
+      "pluma vermelha no chapéu",
+      "detalhe dourado no chapéu"
+    ],
+    "tematica_detalhada": "fantasia de príncipe clássico ou personagem medieval, com referências a trajes renascentistas simplificados para festas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6842.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 87.71,
+  "data_analise": "2026-07-30T04:07:50Z",
+  "data_criacao": "2026-07-30T01:07:50.810950-03:00"
+}

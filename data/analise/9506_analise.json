@@ -1,0 +1,30 @@
+{
+  "id": 9506,
+  "nome_original": "Dead Pool",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético elástico",
+    "estilo_corte": "ajustado ao corpo (slim fit) com detalhes em relevo simulando musculatura",
+    "acessorios_visiveis": [
+      "cinto",
+      "luvas"
+    ],
+    "tematica_detalhada": "personagem Deadpool, anti-herói da Marvel Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9506.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.25,
+  "data_analise": "2026-07-28T02:48:58Z",
+  "data_criacao": "2026-07-27T23:48:58.142572-03:00"
+}

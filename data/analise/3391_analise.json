@@ -1,0 +1,33 @@
+{
+  "id": 3391,
+  "nome_original": "Colete",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "camisa xadrez",
+      "calça",
+      "chapéu de palha"
+    ],
+    "material_visual": "tecido xadrez, sarja ou jeans, palha natural",
+    "estilo_corte": "estilo country/western com colete ajustado e camisa de botão",
+    "acessorios_visiveis": [
+      "chapéu de palha com borda azul",
+      "broches/detalhes coloridos no colete"
+    ],
+    "tematica_detalhada": "Fantasia de caipira ou cowboy, referenciando a cultura rural brasileira (Festa Junina) ou o estilo Western americano"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3391.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 231.97,
+  "data_analise": "2026-07-28T00:51:00Z",
+  "data_criacao": "2026-07-27T21:51:00.912970-03:00"
+}

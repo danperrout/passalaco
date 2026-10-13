@@ -1,0 +1,26 @@
+{
+  "id": 7059,
+  "nome_original": "Cangaceiro Blusa",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "creme"
+    ],
+    "pecas_inclusas": [
+      "blusa"
+    ],
+    "material_visual": "tecido sintético ou algodão com aparência de rústico",
+    "estilo_corte": "camisa de manga longa com gola e fechamento frontal por botões",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia de Cangaceiro, referenciando a vestimenta típica do sertão nordestino e do cangaço brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7059.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.6,
+  "data_analise": "2026-07-27T18:53:43Z",
+  "data_criacao": "2026-07-27T15:53:43.650945-03:00"
+}

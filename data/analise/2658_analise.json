@@ -1,0 +1,27 @@
+{
+  "id": 2658,
+  "nome_original": "Anăo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Fadas/Duendes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "verde",
+      "cinza"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "gorro"
+    ],
+    "material_visual": "tecido sintético com aspecto brilhante",
+    "estilo_corte": "folgado e volumoso",
+    "acessorios_visiveis": [
+      "cinto preto"
+    ],
+    "tematica_detalhada": "fantasia de anão de jardim ou anão fantástico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2658.jpg",
+  "data_analise": "2026-07-27T13:56:17Z"
+}

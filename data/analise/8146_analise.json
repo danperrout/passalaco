@@ -1,0 +1,29 @@
+{
+  "id": 8146,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "lilás",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido estampado com acabamentos em renda",
+    "estilo_corte": "vestido infantil com mangas bufantes e saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "laço de cabelo"
+    ],
+    "tematica_detalhada": "fantasia de festa junina infantil, representando a figura da noiva ou caipira estilizada, com referências ao traje típico rural brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8146.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.4,
+  "data_analise": "2026-07-29T01:05:32Z",
+  "data_criacao": "2026-07-28T22:05:32.023922-03:00"
+}

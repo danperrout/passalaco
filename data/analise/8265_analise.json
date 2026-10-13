@@ -1,0 +1,32 @@
+{
+  "id": 8265,
+  "nome_original": "Cigana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "blusa ombro a ombro",
+      "corset",
+      "saia longa",
+      "bandana"
+    ],
+    "material_visual": "tecido sintético com detalhes metálicos",
+    "estilo_corte": "estilo camponesa com cintura marcada por espartilho e saia fluida",
+    "acessorios_visiveis": [
+      "bandana vermelha",
+      "cinto de moedas douradas"
+    ],
+    "tematica_detalhada": "fantasia de cigana inspirada em estereótipos folclóricos e culturais romani"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8265.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 151.06,
+  "data_analise": "2026-07-27T22:03:46Z",
+  "data_criacao": "2026-07-27T19:03:46.795524-03:00"
+}

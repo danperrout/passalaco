@@ -1,0 +1,30 @@
+{
+  "id": 6421,
+  "nome_original": "Junina Plus Size",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com estampas xadrez e florais",
+    "estilo_corte": "vestido curto com corpete ajustado e saia rodada com babados",
+    "acessorios_visiveis": [
+      "chapéu de palha com fita"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina, representando a figura da caipira estilizada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6421.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 38.59,
+  "data_analise": "2026-07-29T07:01:40Z",
+  "data_criacao": "2026-07-29T04:01:40.085739-03:00"
+}

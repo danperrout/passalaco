@@ -1,0 +1,31 @@
+{
+  "id": 9164,
+  "nome_original": "Arlequina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "jaqueta bomber",
+      "camiseta",
+      "short"
+    ],
+    "material_visual": "material sintético com brilho (acetato ou cetim) e camiseta de malha",
+    "estilo_corte": "estilo streetwear/atleta com corte bomber e shorts curtos",
+    "acessorios_visiveis": [
+      "taco de beisebol",
+      "cinto"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na Arlequina (Harley Quinn) do universo DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9164.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 9.68,
+  "data_analise": "2026-07-27T16:53:21Z",
+  "data_criacao": "2026-07-27T13:53:21.794977-03:00"
+}

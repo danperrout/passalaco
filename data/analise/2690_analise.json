@@ -1,0 +1,30 @@
+{
+  "id": 2690,
+  "nome_original": "Cachorro Marrom",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "pelúcia sintética macia",
+    "estilo_corte": "estilo kigurumi ou pijama oversized",
+    "acessorios_visiveis": [
+      "orelhas pretas",
+      "focinho de pelúcia"
+    ],
+    "tematica_detalhada": "fantasia de cachorro, especificamente remetendo a raças como Golden Retriever ou Labrador"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2690.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 142.83,
+  "data_analise": "2026-07-27T18:47:54Z",
+  "data_criacao": "2026-07-27T15:47:54.382410-03:00"
+}

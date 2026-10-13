@@ -1,0 +1,30 @@
+{
+  "id": 5027,
+  "nome_original": "Romana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "manto"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "túnica curta de um ombro só com drapeado",
+    "acessorios_visiveis": [
+      "tiara dourada"
+    ],
+    "tematica_detalhada": "estética da Roma Antiga, remetendo a figuras de nobreza, senadores ou divindades romanas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5027.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 37.87,
+  "data_analise": "2026-07-30T04:59:55Z",
+  "data_criacao": "2026-07-30T01:59:55.176572-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 4674,
+  "nome_original": "Sapinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde limão",
+      "verde bandeira"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capuz",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético com texturas aveludadas nos detalhes",
+    "estilo_corte": "vestido curto com babados nos ombros e saia evasê",
+    "acessorios_visiveis": [
+      "capuz com olhos de sapo",
+      "luvas peludas"
+    ],
+    "tematica_detalhada": "fantasia infantil de sapinho, com foco em elementos lúdicos e cores vibrantes para festas temáticas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4674.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.95,
+  "data_analise": "2026-07-30T05:54:03Z",
+  "data_criacao": "2026-07-30T02:54:03.114020-03:00"
+}

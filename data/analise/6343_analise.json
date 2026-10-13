@@ -1,0 +1,26 @@
+{
+  "id": 6343,
+  "nome_original": "Anjo",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Coroaçăo",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "asas"
+    ],
+    "material_visual": "tecido sintético brilhante, tule e penas",
+    "estilo_corte": "longo, fluido, com decote reto e saia ampla",
+    "acessorios_visiveis": [
+      "asas de anjo",
+      "adorno de cabeça"
+    ],
+    "tematica_detalhada": "Anjo celestial em tons de rosa e branco"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6343.jpg",
+  "data_analise": "2026-07-27T13:56:43Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 4436,
+  "nome_original": "Mascarado",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "túnica",
+      "calça",
+      "chapéu",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "estilo medieval/aventureiro com detalhes em cordão e amarrações",
+    "acessorios_visiveis": [
+      "chapéu de aba larga",
+      "máscara ocular",
+      "cinto decorativo"
+    ],
+    "tematica_detalhada": "Personagem de justiceiro mascarado, com referências a heróis clássicos ou figuras como Zorro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4436.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 81.91,
+  "data_analise": "2026-07-29T19:08:15Z",
+  "data_criacao": "2026-07-29T16:08:15.628681-03:00"
+}

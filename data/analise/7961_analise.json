@@ -1,0 +1,32 @@
+{
+  "id": 7961,
+  "nome_original": "Paquita",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "top cropped"
+    ],
+    "material_visual": "cetim brilhante com detalhes em canutilho e franjas",
+    "estilo_corte": "estilo militar ajustado com comprimento curto (cropped)",
+    "acessorios_visiveis": [
+      "chapéu estilo shako",
+      "cordões dourados",
+      "franjas nos ombros",
+      "pena verde"
+    ],
+    "tematica_detalhada": "Fantasia de Paquita, inspirada em grupos de animadoras de palco com estética de banda marcial"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7961.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.44,
+  "data_analise": "2026-07-30T02:24:47Z",
+  "data_criacao": "2026-07-29T23:24:47.807187-03:00"
+}

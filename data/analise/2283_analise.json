@@ -1,0 +1,29 @@
+{
+  "id": 2283,
+  "nome_original": "Urso",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "pelúcia macia",
+    "estilo_corte": "oversized / kigurumi",
+    "acessorios_visiveis": [
+      "laços de amarração no pescoço"
+    ],
+    "tematica_detalhada": "Urso pardo, com design fofo e infantil, lembrando personagens de desenhos animados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2283.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.07,
+  "data_analise": "2026-07-30T08:42:31Z",
+  "data_criacao": "2026-07-30T05:42:31.074028-03:00"
+}

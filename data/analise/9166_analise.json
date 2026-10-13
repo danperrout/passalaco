@@ -1,0 +1,29 @@
+{
+  "id": 9166,
+  "nome_original": "Sonic",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "tecido aveludado ou plush",
+    "estilo_corte": "justo ao corpo (estilo kigurumi ou body)",
+    "acessorios_visiveis": [
+      "orelhas no capuz"
+    ],
+    "tematica_detalhada": "Personagem Sonic the Hedgehog, ouriço antropomórfico dos videogames da SEGA"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9166.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.85,
+  "data_analise": "2026-07-30T07:15:01Z",
+  "data_criacao": "2026-07-30T04:15:01.272019-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 9589,
+  "nome_original": "Varinha Harry Potter",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "varinha decorativa"
+    ],
+    "material_visual": "plástico, tecido sintético e tule",
+    "estilo_corte": "cilíndrico com adornos em tule",
+    "acessorios_visiveis": [
+      "laços de fita",
+      "detalhes em rede"
+    ],
+    "tematica_detalhada": "Tema de magia e bruxaria, com referências ao universo de Harry Potter e cores típicas de Halloween"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9589.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.53,
+  "data_analise": "2026-07-30T08:49:11Z",
+  "data_criacao": "2026-07-30T05:49:11.429581-03:00"
+}

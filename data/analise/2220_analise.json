@@ -1,0 +1,32 @@
+{
+  "id": 2220,
+  "nome_original": "Presidiaria",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia",
+      "touca",
+      "luvas longas"
+    ],
+    "material_visual": "tecido sintético com elasticidade",
+    "estilo_corte": "curto, ajustado ao corpo com saia rodada e babados na barra",
+    "acessorios_visiveis": [
+      "touca listrada",
+      "luvas de braço listradas"
+    ],
+    "tematica_detalhada": "fantasia de prisioneiro/presidiário estilizada, baseada no estereótipo clássico de uniformes listrados de prisões antigas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2220.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.55,
+  "data_analise": "2026-07-30T03:55:46Z",
+  "data_criacao": "2026-07-30T00:55:46.596700-03:00"
+}

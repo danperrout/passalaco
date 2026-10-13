@@ -1,0 +1,31 @@
+{
+  "id": 6745,
+  "nome_original": "Nossa Senhora",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "manto/véu",
+      "faixa"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente cetim e tule",
+    "estilo_corte": "corte longo e fluido com decote arredondado",
+    "acessorios_visiveis": [
+      "véu",
+      "faixa na cintura"
+    ],
+    "tematica_detalhada": "Representação iconográfica de Nossa Senhora / Virgem Maria, com referências à arte sacra cristã"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6745.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 32.68,
+  "data_analise": "2026-07-30T00:37:04Z",
+  "data_criacao": "2026-07-29T21:37:04.889628-03:00"
+}

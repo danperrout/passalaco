@@ -1,0 +1,25 @@
+{
+  "id": 7001,
+  "nome_original": "Lampiao",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "calça"
+    ],
+    "material_visual": "tecido sintético ou sarja leve",
+    "estilo_corte": "corte reto com cós elástico",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Traje típico do sertão nordestino, referenciando a figura de Lampião e o Cangaço"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7001.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.28,
+  "data_analise": "2026-07-29T08:53:17Z",
+  "data_criacao": "2026-07-29T05:53:17.538257-03:00"
+}

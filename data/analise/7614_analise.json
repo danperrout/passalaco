@@ -1,0 +1,29 @@
+{
+  "id": 7614,
+  "nome_original": "Popis",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido leve com estampa floral miúda",
+    "estilo_corte": "corte infantil com mangas bufantes, gola alta e saia franzida",
+    "acessorios_visiveis": [
+      "detalhe de renda na barra inferior"
+    ],
+    "tematica_detalhada": "fantasia inspirada na personagem Popis, remetendo a um estilo camponês ou infantil vintage"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7614.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.61,
+  "data_analise": "2026-07-30T03:49:28Z",
+  "data_criacao": "2026-07-30T00:49:28.542421-03:00"
+}

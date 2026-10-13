@@ -1,0 +1,30 @@
+{
+  "id": 8744,
+  "nome_original": "Casal It a Coisa",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "cinza",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "traje de palhaço",
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com aspecto acetinado ou brilhante",
+    "estilo_corte": "estilo vitoriano com golas rufadas e modelagem ampla",
+    "acessorios_visiveis": [
+      "detalhes em vermelho simulando sangue"
+    ],
+    "tematica_detalhada": "Casal inspirado no personagem Pennywise do filme It: A Coisa, misturando elementos de palhaço clássico com temática de terror"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8744.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.85,
+  "data_analise": "2026-07-27T19:34:08Z",
+  "data_criacao": "2026-07-27T16:34:08.023049-03:00"
+}

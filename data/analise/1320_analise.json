@@ -1,0 +1,32 @@
+{
+  "id": 1320,
+  "nome_original": "Star Wars Yoda",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "túnica",
+      "manto",
+      "cinto"
+    ],
+    "material_visual": "tecido sintético com textura rugosa e máscara de látex ou plástico",
+    "estilo_corte": "estilo túnica longa e solta com sobreposição de manto",
+    "acessorios_visiveis": [
+      "cinto com fivela"
+    ],
+    "tematica_detalhada": "Personagem Mestre Yoda da franquia Star Wars, representando a estética de um mestre Jedi"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1320.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.21,
+  "data_analise": "2026-07-30T07:24:31Z",
+  "data_criacao": "2026-07-30T04:24:31.979840-03:00"
+}

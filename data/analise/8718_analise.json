@@ -1,0 +1,29 @@
+{
+  "id": 8718,
+  "nome_original": "Naruto",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Cosplay",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com aparência de poliéster ou tactel",
+    "estilo_corte": "estilo esportivo, corte reto com fechamento em zíper",
+    "acessorios_visiveis": [
+      "bandana de ninja"
+    ],
+    "tematica_detalhada": "fantasia baseada no personagem Naruto Uzumaki do anime/mangá Naruto"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8718.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 31.61,
+  "data_analise": "2026-07-29T23:31:56Z",
+  "data_criacao": "2026-07-29T20:31:56.693600-03:00"
+}

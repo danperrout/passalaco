@@ -1,0 +1,30 @@
+{
+  "id": 9788,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "saia curta"
+    ],
+    "material_visual": "tecido metalizado com aplicação de lantejoulas ou glitter",
+    "estilo_corte": "conjunto de duas peças justo ao corpo com brilho intenso",
+    "acessorios_visiveis": [
+      "headpiece com pluma alta",
+      "tiara"
+    ],
+    "tematica_detalhada": "Carnaval brasileiro, especificamente inspirada em passistas de escolas de samba ou rainhas de bateria"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9788.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.94,
+  "data_analise": "2026-07-27T19:25:55Z",
+  "data_criacao": "2026-07-27T16:25:55.323142-03:00"
+}

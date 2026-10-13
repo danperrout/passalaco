@@ -1,0 +1,26 @@
+{
+  "id": 8802,
+  "nome_original": "Anjo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Vitrine",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul claro"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "asas"
+    ],
+    "material_visual": "tecido leve e fluido com aspecto acetinado",
+    "estilo_corte": "túnica longa de corte solto com mangas compridas",
+    "acessorios_visiveis": [
+      "asas de anjo",
+      "adorno de cabeça felpudo"
+    ],
+    "tematica_detalhada": "Anjo celestial com tons suaves de branco e azul"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8802.jpg",
+  "data_analise": "2026-07-27T13:56:28Z"
+}

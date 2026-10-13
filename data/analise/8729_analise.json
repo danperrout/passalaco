@@ -1,0 +1,33 @@
+{
+  "id": 8729,
+  "nome_original": "Mickey",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "short",
+      "tiara com orelhas"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou algodão",
+    "estilo_corte": "estilo infantil, com calça curta tipo bufante e camiseta básica",
+    "acessorios_visiveis": [
+      "gravata borboleta",
+      "suspensórios",
+      "tiara de orelhas"
+    ],
+    "tematica_detalhada": "fantasia do personagem Mickey Mouse, ícone da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8729.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 99.3,
+  "data_analise": "2026-07-29T22:23:07Z",
+  "data_criacao": "2026-07-29T19:23:07.719196-03:00"
+}

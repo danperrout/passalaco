@@ -1,0 +1,30 @@
+{
+  "id": 1316,
+  "nome_original": "Soldado Romano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Gregas/Romanos",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "capa",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com acabamento metalizado e texturizado",
+    "estilo_corte": "túnica curta com drapeados e saia plissada",
+    "acessorios_visiveis": [
+      "capacete com crista"
+    ],
+    "tematica_detalhada": "Soldado do Império Romano, inspirado em centuriões ou legionários da antiguidade clássica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1316.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.52,
+  "data_analise": "2026-07-30T07:09:15Z",
+  "data_criacao": "2026-07-30T04:09:15.554275-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 6673,
+  "nome_original": "Tunica",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Preto",
+      "Dourado"
+    ],
+    "pecas_inclusas": [
+      "Túnica"
+    ],
+    "material_visual": "Tecido sintético com aparência de tactel ou poliéster",
+    "estilo_corte": "Corte reto e longo, com mangas compridas e gola redonda",
+    "acessorios_visiveis": [
+      "Peruca preta cacheada"
+    ],
+    "tematica_detalhada": "Fantasia de inspiração bíblica ou medieval, frequentemente associada a personagens como Jesus ou figuras religiosas/históricas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6673.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.84,
+  "data_analise": "2026-07-30T08:37:43Z",
+  "data_criacao": "2026-07-30T05:37:43.550679-03:00"
+}

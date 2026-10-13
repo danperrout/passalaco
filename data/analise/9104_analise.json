@@ -1,0 +1,28 @@
+{
+  "id": 9104,
+  "nome_original": "Bruxa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido com capuz"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "ajustado ao corpo com detalhe de amarração (estilo corset) na frente e capuz integrado",
+    "acessorios_visiveis": [
+      "cordões de amarração"
+    ],
+    "tematica_detalhada": "bruxa gótica ou fantasia de personagem mística com influência de estética dark fantasy"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9104.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.12,
+  "data_analise": "2026-07-27T18:26:34Z",
+  "data_criacao": "2026-07-27T15:26:34.351753-03:00"
+}

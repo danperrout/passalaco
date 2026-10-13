@@ -1,0 +1,31 @@
+{
+  "id": 8057,
+  "nome_original": "Chuck",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "branco",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "camiseta listrada",
+      "jardineira"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou algodão",
+    "estilo_corte": "corte infantilizado com jardineira de alças e saia rodada",
+    "acessorios_visiveis": [
+      "alças da jardineira"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Chuck, da franquia de terror Brinquedo Assassino"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8057.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 79.39,
+  "data_analise": "2026-07-27T21:52:45Z",
+  "data_criacao": "2026-07-27T18:52:45.406615-03:00"
+}

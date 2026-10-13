@@ -1,0 +1,32 @@
+{
+  "id": 6904,
+  "nome_original": "Espanhola",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "peruca",
+      "arranjo de flores para cabeça"
+    ],
+    "material_visual": "renda e cetim",
+    "estilo_corte": "corte longo com corpete ajustado e saia em camadas com babados",
+    "acessorios_visiveis": [
+      "tiara de flores",
+      "mantilha de renda",
+      "choker no pescoço"
+    ],
+    "tematica_detalhada": "Fantasia de dançarina espanhola/flamenca, com referências à cultura da Andaluzia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6904.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.56,
+  "data_analise": "2026-07-28T03:56:59Z",
+  "data_criacao": "2026-07-28T00:56:59.975556-03:00"
+}

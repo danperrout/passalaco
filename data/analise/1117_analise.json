@@ -1,0 +1,29 @@
+{
+  "id": 1117,
+  "nome_original": "Peixe",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético acetinado com detalhes em franjas brilhantes",
+    "estilo_corte": "corte largo e fluido, estilo pijama ou kigurumi",
+    "acessorios_visiveis": [
+      "barbatana superior no capuz",
+      "barbatanas laterais com franjas"
+    ],
+    "tematica_detalhada": "fantasia de peixe estilizada, com foco em elementos marinhos representados por nadadeiras"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1117.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.62,
+  "data_analise": "2026-07-30T02:55:47Z",
+  "data_criacao": "2026-07-29T23:55:47.583899-03:00"
+}

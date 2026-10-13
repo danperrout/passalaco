@@ -1,0 +1,29 @@
+{
+  "id": 9794,
+  "nome_original": "Mostarda",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou elastano",
+    "estilo_corte": "corte reto e amplo, formato de cilindro/garrafa",
+    "acessorios_visiveis": [
+      "estampa de rótulo"
+    ],
+    "tematica_detalhada": "Fantasia de condimento, especificamente simulando um frasco de mostarda amarela"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9794.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 22.29,
+  "data_analise": "2026-07-29T23:13:45Z",
+  "data_criacao": "2026-07-29T20:13:45.135635-03:00"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2264,
+  "nome_original": "Mascote Minnie",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "máscara de cabeça",
+      "vestido",
+      "luvas",
+      "meias",
+      "sapatos"
+    ],
+    "material_visual": "pelúcia e tecido sintético",
+    "estilo_corte": "estilo mascote com vestido rodado e cintura marcada",
+    "acessorios_visiveis": [
+      "laço vermelho na cabeça"
+    ],
+    "tematica_detalhada": "personagem Minnie Mouse da Disney, caracterizada por vestido de bolinhas e orelhas icônicas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2264.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 124.71,
+  "data_analise": "2026-07-29T19:57:07Z",
+  "data_criacao": "2026-07-29T16:57:07.190352-03:00"
+}

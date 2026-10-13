@@ -1,0 +1,28 @@
+{
+  "id": 6161,
+  "nome_original": "Medico",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "jaleco",
+      "calça"
+    ],
+    "material_visual": "tecido sintético ou algodão leve",
+    "estilo_corte": "corte reto, jaleco de manga curta com gola e bolsos frontais",
+    "acessorios_visiveis": [
+      "peruca preta"
+    ],
+    "tematica_detalhada": "fantasia de médico ou cientista, baseada em vestimentas profissionais de saúde"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6161.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 75.81,
+  "data_analise": "2026-07-29T21:00:09Z",
+  "data_criacao": "2026-07-29T18:00:09.809754-03:00"
+}

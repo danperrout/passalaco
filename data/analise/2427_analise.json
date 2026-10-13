@@ -1,0 +1,28 @@
+{
+  "id": 2427,
+  "nome_original": "Nemo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou plush",
+    "estilo_corte": "corte volumoso e arredondado para simular o corpo de um peixe",
+    "acessorios_visiveis": [
+      "barbatanas decorativas"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Nemo, o peixe-palhaço do filme 'Procurando Nemo'"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2427.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 19.28,
+  "data_analise": "2026-07-29T23:33:30Z",
+  "data_criacao": "2026-07-29T20:33:30.939287-03:00"
+}

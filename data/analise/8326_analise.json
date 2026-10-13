@@ -1,0 +1,28 @@
+{
+  "id": 8326,
+  "nome_original": "Condessa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "veludo e renda filet",
+    "estilo_corte": "estilo gótico vitoriano com mangas bufantes e saia curta",
+    "acessorios_visiveis": [
+      "fascinator de tule"
+    ],
+    "tematica_detalhada": "Condessa gótica ou vampira, com referências à aristocracia sombria e estética vitoriana"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8326.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.92,
+  "data_analise": "2026-07-28T01:29:53Z",
+  "data_criacao": "2026-07-27T22:29:53.150812-03:00"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2656,
+  "nome_original": "Zorro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "máscara",
+      "camisa",
+      "calça",
+      "capa"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "clássico de aventura com corte reto e capa longa",
+    "acessorios_visiveis": [
+      "máscara ocular",
+      "chapéu de aba larga",
+      "faixa vermelha na cintura"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Zorro, referenciando o herói mascarado da Califórnia espanhola"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2656.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 27.14,
+  "data_analise": "2026-07-30T09:04:57Z",
+  "data_criacao": "2026-07-30T06:04:57.182951-03:00"
+}

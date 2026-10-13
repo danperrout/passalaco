@@ -1,0 +1,30 @@
+{
+  "id": 9508,
+  "nome_original": "Mulher Aranha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul marinho",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "macacão integral",
+      "máscara com capuz"
+    ],
+    "material_visual": "tecido sintético elástico tipo lycra ou elastano",
+    "estilo_corte": "justo ao corpo (skin-tight) com fechamento em zíper frontal",
+    "acessorios_visiveis": [
+      "luvas integradas"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Ghost-Spider (Spider-Gwen), inspirada nos quadrinhos e animações do Homem-Aranha da Marvel"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9508.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 30.57,
+  "data_analise": "2026-07-29T23:17:17Z",
+  "data_criacao": "2026-07-29T20:17:17.804959-03:00"
+}

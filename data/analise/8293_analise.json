@@ -1,0 +1,32 @@
+{
+  "id": 8293,
+  "nome_original": "Capitao America",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "máscara/capacete",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "escudo circular",
+      "capacete com letra A"
+    ],
+    "tematica_detalhada": "Super-herói Capitão América, personagem da Marvel Comics inspirado nas cores da bandeira dos Estados Unidos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8293.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 45.17,
+  "data_analise": "2026-07-27T19:08:45Z",
+  "data_criacao": "2026-07-27T16:08:45.760607-03:00"
+}

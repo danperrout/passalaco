@@ -1,0 +1,32 @@
+{
+  "id": 833,
+  "nome_original": "Maria Bonita",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "branco",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda",
+    "estilo_corte": "vestido curto com mangas curtas e renda na barra e ombros",
+    "acessorios_visiveis": [
+      "chapéu de couro",
+      "cinto marrom",
+      "bandoleira"
+    ],
+    "tematica_detalhada": "Fantasia de Maria Bonita, inspirada no cangaço e na cultura do sertão nordestino brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/833.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 30.85,
+  "data_analise": "2026-07-29T17:26:23Z",
+  "data_criacao": "2026-07-29T14:26:23.042207-03:00"
+}

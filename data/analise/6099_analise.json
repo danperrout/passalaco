@@ -1,0 +1,29 @@
+{
+  "id": 6099,
+  "nome_original": "Marinheiro",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul marinho"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com brilho leve, possivelmente poliéster",
+    "estilo_corte": "estilo militar com gola alta e fechamento frontal por botões",
+    "acessorios_visiveis": [
+      "quepe de capitão"
+    ],
+    "tematica_detalhada": "fantasia de marinheiro ou capitão naval, referenciando uniformes militares de comando marítimo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6099.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 91.87,
+  "data_analise": "2026-07-29T18:13:24Z",
+  "data_criacao": "2026-07-29T15:13:24.777779-03:00"
+}

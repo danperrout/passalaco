@@ -1,0 +1,30 @@
+{
+  "id": 2607,
+  "nome_original": "Paleto",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "verde oliva",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "camiseta"
+    ],
+    "material_visual": "tecido encorpado com textura de lã ou tweed",
+    "estilo_corte": "corte clássico, modelagem larga, estilo vintage",
+    "acessorios_visiveis": [
+      "botões"
+    ],
+    "tematica_detalhada": "estilo casual vintage ou executivo retrô, remetendo a personagens de escritório dos anos 80 ou estilo campestre britânico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2607.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 22.99,
+  "data_analise": "2026-07-30T01:28:29Z",
+  "data_criacao": "2026-07-29T22:28:29.733606-03:00"
+}

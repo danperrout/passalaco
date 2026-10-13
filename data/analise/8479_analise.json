@@ -1,0 +1,28 @@
+{
+  "id": 8479,
+  "nome_original": "Unicornio",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster ou plush",
+    "estilo_corte": "estilo kigurumi ou pijama oversized com corte reto e capuz",
+    "acessorios_visiveis": [
+      "chifre de unicórnio",
+      "orelhas de unicórnio"
+    ],
+    "tematica_detalhada": "Fantasia de unicórnio, baseada na criatura mitológica, com estética minimalista e confortável"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8479.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.52,
+  "data_analise": "2026-07-30T08:40:17Z",
+  "data_criacao": "2026-07-30T05:40:17.877862-03:00"
+}

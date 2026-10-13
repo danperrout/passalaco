@@ -1,0 +1,32 @@
+{
+  "id": 4139,
+  "nome_original": "Rei",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "azul marinho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "capa",
+      "peitoral"
+    ],
+    "material_visual": "veludo e tecido sintético com detalhes em pele falsa",
+    "estilo_corte": "túnica longa reta com capa aberta e peitoral ornamental",
+    "acessorios_visiveis": [
+      "coroa",
+      "tridente"
+    ],
+    "tematica_detalhada": "Realeza mística ou mitológica, com referências a governantes do mar como Poseidon ou Netuno devido ao uso do tridente"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4139.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 48.53,
+  "data_analise": "2026-07-30T04:48:06Z",
+  "data_criacao": "2026-07-30T01:48:06.333303-03:00"
+}

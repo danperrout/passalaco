@@ -1,0 +1,30 @@
+{
+  "id": 7288,
+  "nome_original": "Cavaleiro Templario",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Gregas/Romanos",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "túnica longa com corte reto e capuz integrado",
+    "acessorios_visiveis": [
+      "cruz vermelha estampada"
+    ],
+    "tematica_detalhada": "Cavaleiro Templário, referindo-se à ordem militar cristã medieval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7288.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.32,
+  "data_analise": "2026-07-27T19:40:15Z",
+  "data_criacao": "2026-07-27T16:40:15.282536-03:00"
+}

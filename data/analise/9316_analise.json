@@ -1,0 +1,31 @@
+{
+  "id": 9316,
+  "nome_original": "Power Ranger Azul",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético elástico com acabamento brilhante",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "cinto com fivela",
+      "máscara com visor"
+    ],
+    "tematica_detalhada": "Fantasia do Power Ranger Azul, personagem da franquia Mighty Morphin Power Rangers"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9316.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.15,
+  "data_analise": "2026-07-30T03:51:57Z",
+  "data_criacao": "2026-07-30T00:51:57.701947-03:00"
+}

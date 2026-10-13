@@ -1,0 +1,25 @@
+{
+  "id": 9456,
+  "nome_original": "Anjo",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Coroação",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim com apliques de renda",
+    "estilo_corte": "longo com mangas bufantes e cintura alta",
+    "acessorios_visiveis": [
+      "asas de penas",
+      "auréola de flores"
+    ],
+    "tematica_detalhada": "anjo feminino em tons de rosa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9456.jpg",
+  "data_analise": "2026-07-27T15:29:17Z"
+}

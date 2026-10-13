@@ -1,0 +1,29 @@
+{
+  "id": 1116,
+  "nome_original": "Pedrita",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido com estampa animal",
+    "estilo_corte": "estilo túnica com barra irregular e rasgada",
+    "acessorios_visiveis": [
+      "tiara",
+      "colar de dentes/ossos"
+    ],
+    "tematica_detalhada": "Fantasia de mulher das cavernas, inspirada na personagem Pedrita dos Flintstones"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1116.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.81,
+  "data_analise": "2026-07-30T02:55:13Z",
+  "data_criacao": "2026-07-29T23:55:13.339137-03:00"
+}

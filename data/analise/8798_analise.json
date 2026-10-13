@@ -1,0 +1,30 @@
+{
+  "id": 8798,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "corpo principal",
+      "estrutura de cabeça"
+    ],
+    "material_visual": "brilhante, metálico e sintético",
+    "estilo_corte": "ajustado ao corpo com detalhes em treliça",
+    "acessorios_visiveis": [
+      "chapéu ornamentado",
+      "detalhes em penas ou franjas"
+    ],
+    "tematica_detalhada": "Carnaval estilizado, remetendo a figuras folclóricas ou personagens de festas luxuosas com influência de trajes de gala festivos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8798.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.06,
+  "data_analise": "2026-07-27T19:20:51Z",
+  "data_criacao": "2026-07-27T16:20:51.996680-03:00"
+}

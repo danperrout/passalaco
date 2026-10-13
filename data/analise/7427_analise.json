@@ -1,0 +1,30 @@
+{
+  "id": 7427,
+  "nome_original": "Safari",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "caqui"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "bermuda",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético ou sarja leve",
+    "estilo_corte": "utilitário com múltiplos bolsos",
+    "acessorios_visiveis": [
+      "chapéu de safari"
+    ],
+    "tematica_detalhada": "explorador de safari ou arqueólogo, remetendo a personagens como Indiana Jones"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7427.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.57,
+  "data_analise": "2026-07-30T05:14:34Z",
+  "data_criacao": "2026-07-30T02:14:34.548841-03:00"
+}

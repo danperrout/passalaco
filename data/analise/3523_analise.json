@@ -1,0 +1,33 @@
+{
+  "id": 3523,
+  "nome_original": "Paleto",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "camisa",
+      "gravata"
+    ],
+    "material_visual": "tecido sintético com aparência de sarja ou linho",
+    "estilo_corte": "corte clássico de terno formal",
+    "acessorios_visiveis": [
+      "chapéu fedora",
+      "bigode postiço"
+    ],
+    "tematica_detalhada": "estilo detetive, mafioso ou personagem dos anos 40/50, remetendo a figuras como Sherlock Holmes ou gângsteres clássicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3523.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.61,
+  "data_analise": "2026-07-30T01:27:42Z",
+  "data_criacao": "2026-07-29T22:27:42.572731-03:00"
+}

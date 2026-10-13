@@ -1,0 +1,34 @@
+{
+  "id": 6044,
+  "nome_original": "Guerreira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Gregas/Romanos",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "saia",
+      "manta lateral",
+      "braceletes",
+      "tiara"
+    ],
+    "material_visual": "tecido sintético com brilho e detalhes metálicos",
+    "estilo_corte": "estilo túnica curta assimétrica com drapeado lateral",
+    "acessorios_visiveis": [
+      "tiara com detalhe central",
+      "braceletes pretos",
+      "alça dourada ornamentada"
+    ],
+    "tematica_detalhada": "Guerreira de inspiração greco-romana, remetendo a figuras como gladiadoras ou figuras mitológicas da antiguidade clássica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6044.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 82.69,
+  "data_analise": "2026-07-28T11:44:25Z",
+  "data_criacao": "2026-07-28T08:44:25.307484-03:00"
+}

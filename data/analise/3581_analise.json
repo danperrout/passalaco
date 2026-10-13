@@ -1,0 +1,26 @@
+{
+  "id": 3581,
+  "nome_original": "Camisa",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "camisa"
+    ],
+    "material_visual": "tecido sintético ou algodão com aparência de xadrez",
+    "estilo_corte": "corte clássico de camisa social com gola e mangas longas",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "vestimenta casual ou temática inspirada em padrões xadrez, possivelmente referenciando estilos lenhador ou moda casual"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3581.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.49,
+  "data_analise": "2026-07-27T18:48:28Z",
+  "data_criacao": "2026-07-27T15:48:28.512212-03:00"
+}

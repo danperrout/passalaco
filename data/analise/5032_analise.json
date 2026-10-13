@@ -1,0 +1,26 @@
+{
+  "id": 5032,
+  "nome_original": "Aeromoça",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com brilho",
+    "estilo_corte": "ajustado ao corpo com comprimento mini",
+    "acessorios_visiveis": [
+      "quepe de aeromoça",
+      "detalhes em dourado na gola e cintura"
+    ],
+    "tematica_detalhada": "aeromoça estilizada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5032.jpg",
+  "data_analise": "2026-07-27T13:36:44Z"
+}

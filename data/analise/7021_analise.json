@@ -1,0 +1,28 @@
+{
+  "id": 7021,
+  "nome_original": "Luna",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul royal",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com aparência de poliéster ou cetim",
+    "estilo_corte": "vestido curto com gola alta e saia evasê",
+    "acessorios_visiveis": [
+      "cinto vermelho"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Luna, do desenho animado 'O Show da Luna', com foco em cores primárias vibrantes."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7021.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 123.26,
+  "data_analise": "2026-07-29T12:49:17Z",
+  "data_criacao": "2026-07-29T09:49:17.232489-03:00"
+}

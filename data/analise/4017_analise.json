@@ -1,0 +1,30 @@
+{
+  "id": 4017,
+  "nome_original": "Nobre",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "camisa"
+    ],
+    "material_visual": "tecido sintético com detalhes em brocado ou renda",
+    "estilo_corte": "estilo colonial com casaco alongado e calça curta",
+    "acessorios_visiveis": [
+      "peruca branca"
+    ],
+    "tematica_detalhada": "nobreza do século XVIII, referenciando a aristocracia europeia ou personagens de época como no estilo Rococó"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4017.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 35.3,
+  "data_analise": "2026-07-29T23:54:50Z",
+  "data_criacao": "2026-07-29T20:54:50.598222-03:00"
+}

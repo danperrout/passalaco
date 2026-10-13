@@ -1,0 +1,30 @@
+{
+  "id": 2239,
+  "nome_original": "Rainha de Copas",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho, renda e detalhes em cetim",
+    "estilo_corte": "vestido curto frontal com cauda longa, decote ombro a ombro e mangas longas em renda",
+    "acessorios_visiveis": [
+      "coroa"
+    ],
+    "tematica_detalhada": "Rainha de Copas, personagem inspirada em Alice no País das Maravilhas, com elementos que remetem a cartas de baralho (copas)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2239.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.09,
+  "data_analise": "2026-07-30T04:25:20Z",
+  "data_criacao": "2026-07-30T01:25:20.948368-03:00"
+}

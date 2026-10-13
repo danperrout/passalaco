@@ -1,0 +1,37 @@
+{
+  "id": 8761,
+  "nome_original": "Familia Toy Story",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul",
+      "branco",
+      "vermelho",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "camisas",
+      "coletes",
+      "calças",
+      "chapéus",
+      "lenços"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco e estampas impressas",
+    "estilo_corte": "estilo country/western com modelagem casual",
+    "acessorios_visiveis": [
+      "chapéus de cowboy",
+      "lenços de pescoço",
+      "cintos"
+    ],
+    "tematica_detalhada": "Conjunto de fantasias baseado nos personagens do filme Toy Story, especificamente referenciando Woody, Jessie e Buzz Lightyear"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8761.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.45,
+  "data_analise": "2026-07-28T05:00:07Z",
+  "data_criacao": "2026-07-28T02:00:07.712485-03:00"
+}

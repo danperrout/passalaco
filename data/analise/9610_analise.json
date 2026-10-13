@@ -1,0 +1,34 @@
+{
+  "id": 9610,
+  "nome_original": "Fera",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "paletó",
+      "colete",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com texturas de pelúcia na máscara e cetim/poliéster no traje",
+    "estilo_corte": "estilo aristocrático clássico com casaco longo e punhos bufantes",
+    "acessorios_visiveis": [
+      "máscara de fera",
+      "botões decorativos"
+    ],
+    "tematica_detalhada": "Personagem a Fera do conto de fadas A Bela e a Fera, com traje de gala"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9610.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 106.25,
+  "data_analise": "2026-07-28T05:54:00Z",
+  "data_criacao": "2026-07-28T02:54:00.144314-03:00"
+}

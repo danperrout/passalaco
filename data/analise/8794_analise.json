@@ -1,0 +1,31 @@
+{
+  "id": 8794,
+  "nome_original": "Familia Anjo",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestidos longos",
+      "túnica branca"
+    ],
+    "material_visual": "tecidos acetinados e rendas",
+    "estilo_corte": "estilo império com mangas bufantes ou fluidas",
+    "acessorios_visiveis": [
+      "asas de anjo",
+      "auréolas/tiaras de flores"
+    ],
+    "tematica_detalhada": "Família de anjos, com referências celestiais e estéticas angelicais clássicas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8794.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 29.55,
+  "data_analise": "2026-07-28T04:47:11Z",
+  "data_criacao": "2026-07-28T01:47:11.366083-03:00"
+}

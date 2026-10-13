@@ -1,0 +1,30 @@
+{
+  "id": 8923,
+  "nome_original": "Jasmine",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante",
+    "estilo_corte": "corte em A com cintura marcada e decote em V",
+    "acessorios_visiveis": [
+      "tiara dourada",
+      "faixa na cintura"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na Princesa Jasmine, com elementos de vestimentas árabes estilizadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8923.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 257.17,
+  "data_analise": "2026-07-28T19:55:43Z",
+  "data_criacao": "2026-07-28T16:55:43.719320-03:00"
+}

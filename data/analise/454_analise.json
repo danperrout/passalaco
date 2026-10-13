@@ -1,0 +1,32 @@
+{
+  "id": 454,
+  "nome_original": "Comandante",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "quepe"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "uniforme militar estruturado com botões frontais e bolsos laterais",
+    "acessorios_visiveis": [
+      "ombreiras",
+      "galões nas mangas",
+      "insígnia no quepe"
+    ],
+    "tematica_detalhada": "fantasia de comandante naval ou capitão de navio, inspirada em uniformes de gala da marinha"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/454.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 178.33,
+  "data_analise": "2026-07-28T01:07:22Z",
+  "data_criacao": "2026-07-27T22:07:22.070720-03:00"
+}

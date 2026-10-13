@@ -1,0 +1,34 @@
+{
+  "id": 1282,
+  "nome_original": "Shrek",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "bege",
+      "preto",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "túnica",
+      "colete",
+      "calça",
+      "botas"
+    ],
+    "material_visual": "tecido sintético, feltro e material texturizado no colete",
+    "estilo_corte": "estilo rústico medieval com túnica solta e colete curto",
+    "acessorios_visiveis": [
+      "cinto preto com fivela"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Shrek, ogro protagonista da franquia de animações da DreamWorks"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1282.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 58.95,
+  "data_analise": "2026-07-30T06:36:39Z",
+  "data_criacao": "2026-07-30T03:36:39.400403-03:00"
+}

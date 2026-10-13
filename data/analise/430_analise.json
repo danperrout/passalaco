@@ -1,0 +1,29 @@
+{
+  "id": 430,
+  "nome_original": "Coelhinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "blusa de manga longa",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com acabamento em plumas/pelúcia",
+    "estilo_corte": "blusa ajustada com punhos rosados e saia curta rodada",
+    "acessorios_visiveis": [
+      "tiara de orelhas de coelho"
+    ],
+    "tematica_detalhada": "fantasia de coelhinha estilizada, com estética infantil ou delicada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/430.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 53.47,
+  "data_analise": "2026-07-27T23:46:15Z",
+  "data_criacao": "2026-07-27T20:46:15.360556-03:00"
+}

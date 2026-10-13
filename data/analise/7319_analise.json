@@ -1,0 +1,28 @@
+{
+  "id": 7319,
+  "nome_original": "Tiara Verde",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "tiara"
+    ],
+    "material_visual": "materiais sintéticos que imitam folhagens e hastes metálicas ou plásticas",
+    "estilo_corte": "acessório de cabeça com elementos orgânicos assimétricos",
+    "acessorios_visiveis": [
+      "tiara com folhas"
+    ],
+    "tematica_detalhada": "temática naturalista ou botânica, podendo referenciar fadas da floresta, ninfas ou elementos da natureza"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7319.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 45.33,
+  "data_analise": "2026-07-30T08:12:48Z",
+  "data_criacao": "2026-07-30T05:12:48.601776-03:00"
+}

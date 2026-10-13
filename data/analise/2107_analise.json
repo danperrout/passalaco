@@ -1,0 +1,32 @@
+{
+  "id": 2107,
+  "nome_original": "Chapeleiro Maluco",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "verde",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "cartola",
+      "paletó",
+      "calça"
+    ],
+    "material_visual": "tecido texturizado com aspecto de retalhos ou patchwork",
+    "estilo_corte": "estilo vitoriano excêntrico com modelagem ampla",
+    "acessorios_visiveis": [
+      "cartola com faixa vermelha",
+      "lenço ou babado no pescoço"
+    ],
+    "tematica_detalhada": "Chapeleiro Maluco, personagem inspirado na obra Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2107.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.66,
+  "data_analise": "2026-07-27T19:51:45Z",
+  "data_criacao": "2026-07-27T16:51:45.462395-03:00"
+}

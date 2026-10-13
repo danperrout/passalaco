@@ -1,0 +1,32 @@
+{
+  "id": 927,
+  "nome_original": "Mosqueteiro",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "colete/túnica",
+      "camisa",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com aspecto de veludo no colete",
+    "estilo_corte": "estilo renascentista com túnica alongada e mangas bufantes",
+    "acessorios_visiveis": [
+      "chapéu tricórnio"
+    ],
+    "tematica_detalhada": "fantasia de Mosqueteiro, inspirada nos guardas reais franceses do século XVII, com referência a personagens como D'Artagnan"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/927.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.91,
+  "data_analise": "2026-07-29T23:10:14Z",
+  "data_criacao": "2026-07-29T20:10:14.236706-03:00"
+}

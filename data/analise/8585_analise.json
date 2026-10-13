@@ -1,0 +1,29 @@
+{
+  "id": 8585,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "tecido com lantejoulas e brilhos",
+    "estilo_corte": "conjunto de duas peças com corte fluido e decote em V",
+    "acessorios_visiveis": [
+      "coroa de girassóis"
+    ],
+    "tematica_detalhada": "fantasia temática de girassol ou natureza, com estética festiva de carnaval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8585.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.79,
+  "data_analise": "2026-07-27T19:20:47Z",
+  "data_criacao": "2026-07-27T16:20:47.502006-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 2698,
+  "nome_original": "Cuca",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético aveludado ou plush",
+    "estilo_corte": "ajustado ao corpo, peça única",
+    "acessorios_visiveis": [
+      "peruca amarela"
+    ],
+    "tematica_detalhada": "Personagem Cuca do folclore brasileiro, popularizada pelo Sítio do Picapau Amarelo, representada como um jacaré antropomórfico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2698.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 61.99,
+  "data_analise": "2026-07-28T02:21:05Z",
+  "data_criacao": "2026-07-27T23:21:05.574253-03:00"
+}

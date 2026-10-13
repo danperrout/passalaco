@@ -1,0 +1,25 @@
+{
+  "id": 4778,
+  "nome_original": "Arabe",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Árabes/Indianas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido com lantejoulas ou brilhos",
+    "estilo_corte": "estilo túnica longa com mangas 3/4",
+    "acessorios_visiveis": [
+      "cinto ornamental",
+      "tiara ou acessório de cabeça"
+    ],
+    "tematica_detalhada": "fantasia inspirada em trajes árabes estilizados com brilhos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4778.jpg",
+  "data_analise": "2026-07-27T14:13:20Z"
+}

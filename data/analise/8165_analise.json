@@ -1,0 +1,29 @@
+{
+  "id": 8165,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampas xadrez e ilustrações",
+    "estilo_corte": "vestido infantil com mangas bufantes, gola arredondada e saia rodada com babados",
+    "acessorios_visiveis": [
+      "tiara com laço"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, caracterizada pelo uso de xadrez e cores vibrantes, remetendo à cultura caipira"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8165.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 93.6,
+  "data_analise": "2026-07-29T00:29:01Z",
+  "data_criacao": "2026-07-28T21:29:01.450845-03:00"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 9487,
+  "nome_original": "Maria Bonita",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu",
+      "lenço"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado e detalhes em renda",
+    "estilo_corte": "vestido curto com decote ombro a ombro e cintura marcada",
+    "acessorios_visiveis": [
+      "cinto",
+      "bandoleira com bolsa lateral",
+      "chapéu estilizado"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em Maria Bonita, representando a figura feminina do cangaço nordestino brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9487.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 32.48,
+  "data_analise": "2026-07-29T17:39:33Z",
+  "data_criacao": "2026-07-29T14:39:33.753801-03:00"
+}

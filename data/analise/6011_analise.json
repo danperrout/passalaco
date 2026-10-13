@@ -1,0 +1,32 @@
+{
+  "id": 6011,
+  "nome_original": "Robin Hood",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "chapéu",
+      "cinto"
+    ],
+    "material_visual": "veludo com bordados ornamentais e renda",
+    "estilo_corte": "estilo medieval estilizado com decote em V e saia evasê",
+    "acessorios_visiveis": [
+      "chapéu com pena",
+      "cinto com bolsa lateral"
+    ],
+    "tematica_detalhada": "Fantasia feminina inspirada no personagem Robin Hood, com referências à era medieval europeia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6011.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.17,
+  "data_analise": "2026-07-30T04:57:15Z",
+  "data_criacao": "2026-07-30T01:57:15.726442-03:00"
+}

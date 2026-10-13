@@ -1,0 +1,29 @@
+{
+  "id": 8493,
+  "nome_original": "Sininho",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Fadas/Duendes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde escuro",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido brilhante com lurex e detalhes em fitas acetinadas",
+    "estilo_corte": "estilo corset com busto estruturado e saia curta volumosa",
+    "acessorios_visiveis": [
+      "asas de fada",
+      "tiara de flores"
+    ],
+    "tematica_detalhada": "fantasia da personagem Sininho (Tinker Bell), inspirada em fadas da natureza e no universo Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8493.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.97,
+  "data_analise": "2026-07-30T06:40:47Z",
+  "data_criacao": "2026-07-30T03:40:47.711674-03:00"
+}

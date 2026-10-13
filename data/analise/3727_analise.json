@@ -1,0 +1,29 @@
+{
+  "id": 3727,
+  "nome_original": "Pocahontas",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com acabamento em franjas",
+    "estilo_corte": "estilo túnica curta com decote em V e franjas na barra e no busto",
+    "acessorios_visiveis": [
+      "colar azul",
+      "bolsa tiracolo bege com detalhes pretos"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Pocahontas, remetendo a trajes indígenas estilizados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3727.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.36,
+  "data_analise": "2026-07-30T03:43:25Z",
+  "data_criacao": "2026-07-30T00:43:25.393627-03:00"
+}

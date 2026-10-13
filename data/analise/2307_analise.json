@@ -1,0 +1,32 @@
+{
+  "id": 2307,
+  "nome_original": "She-ra Luxo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa",
+      "tiara"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado e detalhes metalizados",
+    "estilo_corte": "vestido curto com cintura marcada, decote coração e mangas longas",
+    "acessorios_visiveis": [
+      "tiara dourada com pontas",
+      "braceletes dourados",
+      "detalhe de estrela no busto com pedra azul"
+    ],
+    "tematica_detalhada": "Fantasia da personagem She-Ra, inspirada na Princesa do Poder, com estética de guerreira mística/fantasia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2307.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 125.54,
+  "data_analise": "2026-07-30T06:28:01Z",
+  "data_criacao": "2026-07-30T03:28:01.832372-03:00"
+}

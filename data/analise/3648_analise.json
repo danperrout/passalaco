@@ -1,0 +1,26 @@
+{
+  "id": 3648,
+  "nome_original": "Africana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "azul",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "turbante"
+    ],
+    "material_visual": "tecido leve com estampa floral",
+    "estilo_corte": "caimento solto e fluido",
+    "acessorios_visiveis": [
+      "turbante azul com detalhe vermelho"
+    ],
+    "tematica_detalhada": "fantasia inspirada em trajes africanos tradicionais com estampas ornamentais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3648.jpg",
+  "data_analise": "2026-07-27T13:36:49Z"
+}

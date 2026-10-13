@@ -1,0 +1,29 @@
+{
+  "id": 9528,
+  "nome_original": "Astronauta",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "prata",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "tecido sintético branco com detalhes em acabamento metalizado prateado e dourado",
+    "estilo_corte": "macacão de peça única com capuz integrado, modelagem larga e folgada",
+    "acessorios_visiveis": [
+      "patches decorativos (emblemas) no peito"
+    ],
+    "tematica_detalhada": "exploração espacial, representando um astronauta da NASA ou de ficção científica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9528.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 10.58,
+  "data_analise": "2026-07-27T16:57:18Z",
+  "data_criacao": "2026-07-27T13:57:18.610146-03:00"
+}

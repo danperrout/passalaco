@@ -1,0 +1,28 @@
+{
+  "id": 7833,
+  "nome_original": "Oncinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "shorts",
+      "casaquinho"
+    ],
+    "material_visual": "tecido sintético com estampa animal print",
+    "estilo_corte": "conjunto de três peças com corte moderno e revealedor",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia de oncinha/leopardo, inspirada em animais selvagens, comumente utilizada em festas temáticas e carnaval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7833.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.33,
+  "data_analise": "2026-07-30T00:53:28Z",
+  "data_criacao": "2026-07-29T21:53:28.761471-03:00"
+}

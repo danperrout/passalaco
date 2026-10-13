@@ -1,0 +1,33 @@
+{
+  "id": 1540,
+  "nome_original": "Charles Chaplin",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "camisa",
+      "gravata borboleta",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "estilo clássico vintage com calças largas",
+    "acessorios_visiveis": [
+      "chapéu coco",
+      "gravata borboleta"
+    ],
+    "tematica_detalhada": "Personagem 'O Vagabundo' de Charles Chaplin, ícone do cinema mudo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1540.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 37.39,
+  "data_analise": "2026-07-27T20:31:27Z",
+  "data_criacao": "2026-07-27T17:31:27.193081-03:00"
+}

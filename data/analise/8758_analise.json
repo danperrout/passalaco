@@ -1,0 +1,34 @@
+{
+  "id": 8758,
+  "nome_original": "Mae e Filha Arlequina",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "camiseta",
+      "shorts"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado",
+    "estilo_corte": "estilo casual esportivo com design bicolor",
+    "acessorios_visiveis": [
+      "gargantilha",
+      "cinto",
+      "bastão de beisebol",
+      "pulseiras"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Arlequina (Harley Quinn), especificamente na versão do filme Esquadrão Suicida, adaptada para conjunto de mãe e filha."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8758.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 169.1,
+  "data_analise": "2026-07-29T13:22:08Z",
+  "data_criacao": "2026-07-29T10:22:08.299730-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 7715,
+  "nome_original": "Chacrinha",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "cartola"
+    ],
+    "material_visual": "tecido sintético com lantejoulas e brilho",
+    "estilo_corte": "estilo performático e extravagante",
+    "acessorios_visiveis": [
+      "gravata borboleta",
+      "peruca azul",
+      "penas na cartola"
+    ],
+    "tematica_detalhada": "Homenagem ao apresentador de TV brasileiro Abelardo Braga (Chacrinha), caracterizada por cores vibrantes, brilhos e elementos circenses"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7715.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.26,
+  "data_analise": "2026-07-27T19:49:06Z",
+  "data_criacao": "2026-07-27T16:49:06.068262-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 8026,
+  "nome_original": "Arlequina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "tecido leve e fluido com detalhes em cetim ou material sintético brilhante",
+    "estilo_corte": "ajustado no corpete com saia curta e evasê com camadas",
+    "acessorios_visiveis": [
+      "tiara com pontas"
+    ],
+    "tematica_detalhada": "Arlequina/Harley Quinn temática de palhaça clássica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8026.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 7.84,
+  "data_analise": "2026-07-27T16:52:13Z",
+  "data_criacao": "2026-07-27T13:52:13.581992-03:00"
+}

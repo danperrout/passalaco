@@ -1,0 +1,28 @@
+{
+  "id": 9427,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampas xadrez e florais",
+    "estilo_corte": "vestido curto com babados em camadas e decote arredondado com rufos",
+    "acessorios_visiveis": [
+      "tiara de cabelo com laço"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina feminina, representando a estética caipira estilizada com elementos tradicionais do interior do Brasil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9427.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.06,
+  "data_analise": "2026-07-29T01:28:13Z",
+  "data_criacao": "2026-07-28T22:28:13.350002-03:00"
+}

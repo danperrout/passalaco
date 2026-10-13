@@ -1,0 +1,31 @@
+{
+  "id": 6268,
+  "nome_original": "Gemeos da Alice",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "bermuda",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou algodão",
+    "estilo_corte": "camiseta de manga curta com listras horizontais e bermuda de corte reto",
+    "acessorios_visiveis": [
+      "suspensórios vermelhos"
+    ],
+    "tematica_detalhada": "fantasia baseada nos personagens Tweedledee e Tweedledum da obra Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6268.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 61.22,
+  "data_analise": "2026-07-28T10:51:04Z",
+  "data_criacao": "2026-07-28T07:51:04.514094-03:00"
+}

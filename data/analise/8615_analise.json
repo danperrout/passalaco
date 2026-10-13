@@ -1,0 +1,29 @@
+{
+  "id": 8615,
+  "nome_original": "Nemo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão corporal"
+    ],
+    "material_visual": "tecido sintético macio, possivelmente plush ou poliéster",
+    "estilo_corte": "corte amplo e volumoso, estilo kigurumi ou fantasia de corpo inteiro",
+    "acessorios_visiveis": [
+      "nadadeiras integradas"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Nemo, o peixe-palhaço, do filme 'Procurando Nemo' da Disney/Pixar"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8615.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.76,
+  "data_analise": "2026-07-29T23:33:53Z",
+  "data_criacao": "2026-07-29T20:33:53.287103-03:00"
+}

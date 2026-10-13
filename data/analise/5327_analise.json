@@ -1,0 +1,32 @@
+{
+  "id": 5327,
+  "nome_original": "Pequeno Principe",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "camisa com jabot",
+      "calça"
+    ],
+    "material_visual": "tecido acetinado com brilho",
+    "estilo_corte": "estilo príncipe clássico com gola estruturada e punhos decorados",
+    "acessorios_visiveis": [
+      "coroa dourada com pedras azuis"
+    ],
+    "tematica_detalhada": "Fantasia de Pequeno Príncipe, inspirada em realeza clássica e personagens de contos de fada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5327.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.93,
+  "data_analise": "2026-07-30T03:06:53Z",
+  "data_criacao": "2026-07-30T00:06:53.201838-03:00"
+}

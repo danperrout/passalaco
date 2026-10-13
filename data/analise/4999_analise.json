@@ -1,0 +1,31 @@
+{
+  "id": 4999,
+  "nome_original": "Fada",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu cônico",
+      "asas"
+    ],
+    "material_visual": "tule, cetim e tecido com paetês",
+    "estilo_corte": "vestido curto com saia fluida e busto ajustado",
+    "acessorios_visiveis": [
+      "asas de fada",
+      "chapéu pontudo"
+    ],
+    "tematica_detalhada": "fantasia de fada clássica com elementos mágicos e cores delicadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4999.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 58.97,
+  "data_analise": "2026-07-28T04:33:23Z",
+  "data_criacao": "2026-07-28T01:33:23.262948-03:00"
+}

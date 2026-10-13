@@ -1,0 +1,31 @@
+{
+  "id": 9814,
+  "nome_original": "Safari",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu",
+      "cinto"
+    ],
+    "material_visual": "tecido sintético com aspecto de sarja ou algodão",
+    "estilo_corte": "vestido curto com botões frontais, gola e mangas curtas",
+    "acessorios_visiveis": [
+      "chapéu de safari com estampa de onça",
+      "cinto largo bege"
+    ],
+    "tematica_detalhada": "Exploradora de Safari, referenciando trajes de expedição selvagem com toques de estampa animal"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9814.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 44.6,
+  "data_analise": "2026-07-30T05:24:36Z",
+  "data_criacao": "2026-07-30T02:24:36.882214-03:00"
+}

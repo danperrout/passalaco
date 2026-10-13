@@ -1,0 +1,29 @@
+{
+  "id": 8697,
+  "nome_original": "Mascara",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Máscaras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bronze",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "máscara"
+    ],
+    "material_visual": "plástico moldado com acabamento metalizado e base em material sintético",
+    "estilo_corte": "máscara de meia face com ornamentos esculpidos na parte superior",
+    "acessorios_visiveis": [
+      "strass decorativos",
+      "fita de amarração"
+    ],
+    "tematica_detalhada": "estilo neoclássico ou mitológico, com referências a cavalos e elementos arquitetônicos gregos/romanos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8697.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 50.08,
+  "data_analise": "2026-07-29T18:56:50Z",
+  "data_criacao": "2026-07-29T15:56:50.890955-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 5386,
+  "nome_original": "Guerreira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Gregas/Romanos",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa"
+    ],
+    "material_visual": "material sintético com aparência de couro e detalhes metalizados",
+    "estilo_corte": "curto, com saia plissada e decote reto",
+    "acessorios_visiveis": [
+      "tiara",
+      "braceletes"
+    ],
+    "tematica_detalhada": "guerreira clássica ou gladiadora, com referências a trajes de combate da antiguidade"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5386.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 48.73,
+  "data_analise": "2026-07-28T11:45:14Z",
+  "data_criacao": "2026-07-28T08:45:14.324605-03:00"
+}

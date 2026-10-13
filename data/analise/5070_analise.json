@@ -1,0 +1,29 @@
+{
+  "id": 5070,
+  "nome_original": "Mulher Gato",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "calça",
+      "máscara"
+    ],
+    "material_visual": "material sintético com aspecto brilhante, similar a couro ou vinil",
+    "estilo_corte": "ajustado ao corpo (slim fit) com jaqueta curta",
+    "acessorios_visiveis": [
+      "máscara com orelhas de gato"
+    ],
+    "tematica_detalhada": "fantasia de Mulher Gato, personagem inspirada nos quadrinhos da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5070.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.26,
+  "data_analise": "2026-07-29T23:19:14Z",
+  "data_criacao": "2026-07-29T20:19:14.292859-03:00"
+}

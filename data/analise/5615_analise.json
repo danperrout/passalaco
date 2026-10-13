@@ -1,0 +1,32 @@
+{
+  "id": 5615,
+  "nome_original": "Principe",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético acetinado",
+    "estilo_corte": "estilo militar clássico com gola alta e lapelas",
+    "acessorios_visiveis": [
+      "botões dourados ornamentais",
+      "galões decorativos"
+    ],
+    "tematica_detalhada": "Fantasia de príncipe com inspiração em uniformes militares reais europeus"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5615.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.87,
+  "data_analise": "2026-07-30T04:14:20Z",
+  "data_criacao": "2026-07-30T01:14:20.147353-03:00"
+}

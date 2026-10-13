@@ -1,0 +1,32 @@
+{
+  "id": 765,
+  "nome_original": "Jason",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde escuro",
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "camiseta de manga longa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com aspecto de algodão e plástico para a máscara",
+    "estilo_corte": "estilo casual e folgado, com rasgos simulados e manchas de sangue",
+    "acessorios_visiveis": [
+      "máscara de hóquei",
+      "facão"
+    ],
+    "tematica_detalhada": "Personagem Jason Voorhees da franquia de filmes de terror Sexta-Feira 13"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/765.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 47.45,
+  "data_analise": "2026-07-28T20:29:36Z",
+  "data_criacao": "2026-07-28T17:29:36.322889-03:00"
+}

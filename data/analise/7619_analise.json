@@ -1,0 +1,29 @@
+{
+  "id": 7619,
+  "nome_original": "Trolls Poppy",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara de cabelo"
+    ],
+    "material_visual": "tecido sintético com detalhes em tule e glitter",
+    "estilo_corte": "vestido curto com mangas longas transparentes e saia rodada",
+    "acessorios_visiveis": [
+      "tiara com topo de pelúcia rosa e flores azuis"
+    ],
+    "tematica_detalhada": "Fantasia baseada na personagem Poppy do filme Trolls, caracterizada por cores vibrantes e cabelo vertical estilizado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7619.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 55.05,
+  "data_analise": "2026-07-30T08:35:51Z",
+  "data_criacao": "2026-07-30T05:35:51.077881-03:00"
+}

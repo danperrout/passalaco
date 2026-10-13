@@ -1,0 +1,31 @@
+{
+  "id": 7876,
+  "nome_original": "Odalisca",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia longa"
+    ],
+    "material_visual": "tecido sintético acetinado com detalhes em paetês e contas",
+    "estilo_corte": "estilo belly dance com top curto e saia longa fluida",
+    "acessorios_visiveis": [
+      "tiara",
+      "colar de contas",
+      "cinto decorativo"
+    ],
+    "tematica_detalhada": "fantasia de Odalisca, inspirada na cultura do Oriente Médio e danças árabes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7876.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 38.95,
+  "data_analise": "2026-07-30T00:43:19Z",
+  "data_criacao": "2026-07-29T21:43:19.916220-03:00"
+}

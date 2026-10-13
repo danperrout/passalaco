@@ -1,0 +1,25 @@
+{
+  "id": 90,
+  "nome_original": "Anos 60",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampa de bolinhas",
+    "estilo_corte": "estilo rodado com cintura marcada e decote em V",
+    "acessorios_visiveis": [
+      "colar de pérolas",
+      "laço de cabelo"
+    ],
+    "tematica_detalhada": "estilo pin-up anos 60"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/90.jpg",
+  "data_analise": "2026-07-27T14:00:16Z"
+}

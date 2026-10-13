@@ -1,0 +1,29 @@
+{
+  "id": 3829,
+  "nome_original": "Dama",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vinho",
+      "dourado",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "veludo com rendas e adornos metálicos",
+    "estilo_corte": "estilo imperial com decote arredondado e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "fantasia de nobreza europeia medieval ou renascentista, remetendo a rainhas ou damas da corte"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3829.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 51.93,
+  "data_analise": "2026-07-28T02:26:43Z",
+  "data_criacao": "2026-07-27T23:26:43.350248-03:00"
+}

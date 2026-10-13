@@ -1,0 +1,30 @@
+{
+  "id": 3816,
+  "nome_original": "Carta de Baralho",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "cartola"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco e brilhante",
+    "estilo_corte": "vestido curto com saia volumosa e corpete ajustado",
+    "acessorios_visiveis": [
+      "cartola vermelha"
+    ],
+    "tematica_detalhada": "personagem de carta de baralho, fortemente inspirada na estética de Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3816.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.71,
+  "data_analise": "2026-07-27T19:29:28Z",
+  "data_criacao": "2026-07-27T16:29:28.047740-03:00"
+}

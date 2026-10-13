@@ -1,0 +1,32 @@
+{
+  "id": 7656,
+  "nome_original": "Rei Mago",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "roxo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "manto",
+      "chapéu"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante",
+    "estilo_corte": "longo e fluido com mangas largas",
+    "acessorios_visiveis": [
+      "adornos dourados",
+      "turbante/chapéu"
+    ],
+    "tematica_detalhada": "Rei Mago bíblico, referenciando a tradição cristã dos Três Reis Magos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7656.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.26,
+  "data_analise": "2026-07-30T04:52:08Z",
+  "data_criacao": "2026-07-30T01:52:08.276493-03:00"
+}

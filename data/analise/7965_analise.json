@@ -1,0 +1,28 @@
+{
+  "id": 7965,
+  "nome_original": "Sininho Mae",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul claro",
+      "vinho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com leve brilho, possivelmente cetim ou poliéster",
+    "estilo_corte": "vestido midi com mangas bufantes e saia com babados na barra",
+    "acessorios_visiveis": [
+      "cinto de fita vinho com detalhe de flor"
+    ],
+    "tematica_detalhada": "estilo camponesa ou personagem de conto de fadas, lembrando a estética de vestidos clássicos de fantasia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7965.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 83.52,
+  "data_analise": "2026-07-30T06:50:48Z",
+  "data_criacao": "2026-07-30T03:50:48.389789-03:00"
+}

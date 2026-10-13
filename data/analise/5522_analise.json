@@ -1,0 +1,32 @@
+{
+  "id": 5522,
+  "nome_original": "Policial",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "chapéu",
+      "cinto"
+    ],
+    "material_visual": "material sintético com aspecto de couro ou vinil",
+    "estilo_corte": "curto, com gola e mangas curtas",
+    "acessorios_visiveis": [
+      "boné policial",
+      "cinto com fivela",
+      "algemas ou bastão",
+      "distintivo"
+    ],
+    "tematica_detalhada": "fantasia sensual de policial feminina, baseada em uniformes táticos estilizados para festas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5522.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.49,
+  "data_analise": "2026-07-30T03:46:57Z",
+  "data_criacao": "2026-07-30T00:46:57.174454-03:00"
+}

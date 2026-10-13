@@ -1,0 +1,30 @@
+{
+  "id": 1183,
+  "nome_original": "Portuguesa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vinho",
+      "amarelo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "tiara de flores"
+    ],
+    "material_visual": "tecido sintético com acabamento em renda e passamanaria dourada",
+    "estilo_corte": "estilo camponesa com corpete ajustado e saia curta franzida",
+    "acessorios_visiveis": [
+      "guirlanda de flores coloridas"
+    ],
+    "tematica_detalhada": "fantasia inspirada em trajes folclóricos europeus, referenciando a cultura tradicional portuguesa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1183.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.06,
+  "data_analise": "2026-07-30T03:51:15Z",
+  "data_criacao": "2026-07-30T00:51:15.434439-03:00"
+}

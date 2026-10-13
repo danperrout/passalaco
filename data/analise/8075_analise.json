@@ -1,0 +1,28 @@
+{
+  "id": 8075,
+  "nome_original": "Rapunzel",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim ou poliéster brilhante com detalhes em renda",
+    "estilo_corte": "vestido curto estilo princesa com corpete ajustado e saia rodada",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Rapunzel do filme Enrolados da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8075.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.55,
+  "data_analise": "2026-07-30T04:35:37Z",
+  "data_criacao": "2026-07-30T01:35:37.990119-03:00"
+}

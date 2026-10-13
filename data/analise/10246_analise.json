@@ -1,0 +1,30 @@
+{
+  "id": 10246,
+  "nome_original": "Junina Saia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Vitrine",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "top tomara que caia",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com babados e fitas",
+    "estilo_corte": "corte evasê com volume e babados na barra",
+    "acessorios_visiveis": [
+      "tiara com fitas e flor"
+    ],
+    "tematica_detalhada": "festa junina, representando a vestimenta típica caipira estilizada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10246.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 71.1,
+  "data_analise": "2026-07-29T07:42:57Z",
+  "data_criacao": "2026-07-29T04:42:57.264855-03:00"
+}

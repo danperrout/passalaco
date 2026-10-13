@@ -1,0 +1,32 @@
+{
+  "id": 4484,
+  "nome_original": "Jose do Egito",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom",
+      "dourado",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica longa",
+      "capa com capuz"
+    ],
+    "material_visual": "tecido sintético leve com acabamento acetinado e detalhes bordados",
+    "estilo_corte": "estilo túnica ampla com mangas largas e caimento fluido",
+    "acessorios_visiveis": [
+      "gola ornamentada com pedrarias ou bordados",
+      "debrum dourado nas bordas"
+    ],
+    "tematica_detalhada": "Fantasia bíblica representando José do Egito, com referências a vestimentas antigas do Oriente Médio e Egito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4484.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 65.48,
+  "data_analise": "2026-07-28T21:36:37Z",
+  "data_criacao": "2026-07-28T18:36:37.349649-03:00"
+}

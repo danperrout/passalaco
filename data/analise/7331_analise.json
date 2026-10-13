@@ -1,0 +1,29 @@
+{
+  "id": 7331,
+  "nome_original": "Monstros S/A",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul claro",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou plush",
+    "estilo_corte": "estilo kigurumi ou pijama integral, corte largo e confortável",
+    "acessorios_visiveis": [
+      "chifres no capuz"
+    ],
+    "tematica_detalhada": "Fantasia do personagem James P. Sullivan (Sully) do filme Monstros S.A., caracterizada pela cor azul com manchas roxas e chifres"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7331.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 50.45,
+  "data_analise": "2026-07-29T22:54:02Z",
+  "data_criacao": "2026-07-29T19:54:02.059559-03:00"
+}

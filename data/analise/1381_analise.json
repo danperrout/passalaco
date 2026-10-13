@@ -1,0 +1,30 @@
+{
+  "id": 1381,
+  "nome_original": "Vampira",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante com renda",
+    "estilo_corte": "estilo vitoriano/medieval com mangas bufantes e saia rodada curta",
+    "acessorios_visiveis": [
+      "detalhes dourados ornamentais",
+      "renda preta na barra e mangas"
+    ],
+    "tematica_detalhada": "Vampira clássica com inspiração gótica vitoriana"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1381.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.27,
+  "data_analise": "2026-07-30T08:44:40Z",
+  "data_criacao": "2026-07-30T05:44:40.186023-03:00"
+}

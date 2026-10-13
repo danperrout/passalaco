@@ -1,0 +1,31 @@
+{
+  "id": 7003,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com estampa floral e fitas de cetim",
+    "estilo_corte": "vestido infantil com cintura marcada, saia rodada e mangas curtas bufantes",
+    "acessorios_visiveis": [
+      "chapéu de palha decorado",
+      "laços de fita vermelhos"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, representando a vestimenta típica caipira infantil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7003.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 387.85,
+  "data_analise": "2026-07-28T23:28:17Z",
+  "data_criacao": "2026-07-28T20:28:17.980079-03:00"
+}

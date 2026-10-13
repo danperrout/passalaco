@@ -1,0 +1,28 @@
+{
+  "id": 5239,
+  "nome_original": "Princesa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim e tecido com glitter",
+    "estilo_corte": "estilo princesa com mangas bufantes e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara"
+    ],
+    "tematica_detalhada": "fantasia de princesa clássica, com referências a personagens de contos de fada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5239.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.73,
+  "data_analise": "2026-07-30T03:58:56Z",
+  "data_criacao": "2026-07-30T00:58:56.291675-03:00"
+}

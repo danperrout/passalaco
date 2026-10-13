@@ -1,0 +1,25 @@
+{
+  "id": 9862,
+  "nome_original": "Acrescimo de Corset",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "azul claro"
+    ],
+    "pecas_inclusas": [
+      "corset"
+    ],
+    "material_visual": "tecido acetinado com detalhes em renda e fitas de cetim",
+    "estilo_corte": "ajustado ao corpo com barbatanas e decote coração",
+    "acessorios_visiveis": [
+      "laço decorativo",
+      "fitas na barra"
+    ],
+    "tematica_detalhada": "estilo vitoriano ou steampunk romântico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9862.jpg",
+  "data_analise": "2026-07-27T14:46:37Z"
+}

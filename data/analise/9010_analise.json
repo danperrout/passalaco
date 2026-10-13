@@ -1,0 +1,28 @@
+{
+  "id": 9010,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampa floral e acabamentos em babados de renda ou tule",
+    "estilo_corte": "vestido curto com decote ombro a ombro, mangas curtas bufantes e saia em camadas volumosas",
+    "acessorios_visiveis": [
+      "chapéu de palha decorado"
+    ],
+    "tematica_detalhada": "Fantasia de festa junina típica do Brasil, representando a figura da caipira estilizada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9010.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.88,
+  "data_analise": "2026-07-29T00:34:44Z",
+  "data_criacao": "2026-07-28T21:34:44.688045-03:00"
+}

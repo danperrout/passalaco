@@ -1,0 +1,25 @@
+{
+  "id": 4794,
+  "nome_original": "Arabe",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica longa",
+      "kefiyé/lenço de cabeça"
+    ],
+    "material_visual": "tecido sintético leve com acabamento em viés",
+    "estilo_corte": "corte reto e amplo, estilo jalabiya",
+    "acessorios_visiveis": [
+      "agal/aro de cabeça"
+    ],
+    "tematica_detalhada": "vestimenta tradicional árabe masculina"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4794.jpg",
+  "data_analise": "2026-07-27T16:24:53Z"
+}

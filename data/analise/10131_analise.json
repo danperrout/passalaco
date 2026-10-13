@@ -1,0 +1,32 @@
+{
+  "id": 10131,
+  "nome_original": "Carmem Miranda",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "branco",
+      "verde",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "saia curta"
+    ],
+    "material_visual": "tecido com paetês, brilhos e aplicações metálicas",
+    "estilo_corte": "conjunto de duas peças ajustado ao corpo com volume na barra da saia",
+    "acessorios_visivel": [
+      "turbante colorido",
+      "brincos grandes"
+    ],
+    "tematica_detalhada": "Homenagem a Carmem Miranda, referência à cultura baiana e ao estilo baiana com elementos de glamour e tropicalismo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10131.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.99,
+  "data_analise": "2026-07-27T19:20:28Z",
+  "data_criacao": "2026-07-27T16:20:28.285400-03:00"
+}

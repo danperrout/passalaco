@@ -1,0 +1,30 @@
+{
+  "id": 10127,
+  "nome_original": "Deusa Grega",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Gregas/Romanos",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "renda no busto e tecido fluido tipo chiffon ou seda na saia",
+    "estilo_corte": "estilo império com decote em V profundo e cintura marcada",
+    "acessorios_visiveis": [
+      "tiara dourada",
+      "braceletes dourados",
+      "cinto dourado"
+    ],
+    "tematica_detalhada": "Deusa Grega ou Romana, com referências a divindades do amor ou guerra devido à cor vermelha vibrante"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10127.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.94,
+  "data_analise": "2026-07-28T02:58:32Z",
+  "data_criacao": "2026-07-27T23:58:32.363011-03:00"
+}

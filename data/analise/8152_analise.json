@@ -1,0 +1,28 @@
+{
+  "id": 8152,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido acetinado com rendas e babados",
+    "estilo_corte": "vestido rodado com mangas bufantes e camadas",
+    "acessorios_visiveis": [
+      "laço de cabelo"
+    ],
+    "tematica_detalhada": "Fantasia de festa junina infantil estilizada, remetendo à figura da noiva ou caipira luxuosa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8152.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 92.25,
+  "data_analise": "2026-07-29T01:01:52Z",
+  "data_criacao": "2026-07-28T22:01:52.798832-03:00"
+}

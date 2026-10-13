@@ -1,0 +1,28 @@
+{
+  "id": 8138,
+  "nome_original": "Chuva de Amor",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa claro",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim ou poliéster com detalhes em renda e tule",
+    "estilo_corte": "estilo princesa com cintura marcada e saia volumosa com babados",
+    "acessorios_visiveis": [
+      "cinto de pérolas"
+    ],
+    "tematica_detalhada": "Fantasia infantil inspirada no filme 'Chuva de Amor', com estética delicada e romântica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8138.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 96.3,
+  "data_analise": "2026-07-27T22:00:02Z",
+  "data_criacao": "2026-07-27T19:00:02.412803-03:00"
+}

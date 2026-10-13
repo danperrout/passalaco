@@ -1,0 +1,25 @@
+{
+  "id": 4793,
+  "nome_original": "Arabe",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "véu"
+    ],
+    "material_visual": "tecido sintético leve",
+    "estilo_corte": "longo e fluido",
+    "acessorios_visiveis": [
+      "tiara dourada com pedra"
+    ],
+    "tematica_detalhada": "estilo árabe tradicional simplificado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4793.jpg",
+  "data_analise": "2026-07-27T14:13:10Z"
+}

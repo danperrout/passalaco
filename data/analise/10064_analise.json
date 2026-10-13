@@ -1,0 +1,30 @@
+{
+  "id": 10064,
+  "nome_original": "Rainha de Copas",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "modelo tomara que caia com saia curta em camadas",
+    "acessorios_visiveis": [
+      "tiara de rainha",
+      "luvas longas"
+    ],
+    "tematica_detalhada": "Rainha de Copas, personagem baseada no livro Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10064.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.39,
+  "data_analise": "2026-07-30T04:28:38Z",
+  "data_criacao": "2026-07-30T01:28:38.148500-03:00"
+}

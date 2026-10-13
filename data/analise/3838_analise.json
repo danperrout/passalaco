@@ -1,0 +1,30 @@
+{
+  "id": 3838,
+  "nome_original": "Russia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tocado/kokoshnik"
+    ],
+    "material_visual": "veludo e tecido sintético com bordados",
+    "estilo_corte": "vestido longo com mangas bufantes e corte em A",
+    "acessorios_visiveis": [
+      "kokoshnik (tocado tradicional russo)"
+    ],
+    "tematica_detalhada": "Traje folclórico tradicional russo, inspirado na vestimenta feminina clássica da Rússia com elementos decorativos florais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3838.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.73,
+  "data_analise": "2026-07-30T05:06:19Z",
+  "data_criacao": "2026-07-30T02:06:19.436596-03:00"
+}

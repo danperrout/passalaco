@@ -1,0 +1,32 @@
+{
+  "id": 4909,
+  "nome_original": "Homem de Lata Magico de Oz",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prata",
+      "cinza"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "máscara",
+      "túnica",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com acabamento metalizado e brilhante",
+    "estilo_corte": "corte reto e estruturado para simular a rigidez de metal",
+    "acessorios_visiveis": [
+      "chapéu cônico",
+      "máscara facial"
+    ],
+    "tematica_detalhada": "Personagem Homem de Lata da obra O Mágico de Oz, representando um ser feito de metal em busca de um coração"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4909.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 185.35,
+  "data_analise": "2026-07-28T15:04:53Z",
+  "data_criacao": "2026-07-28T12:04:53.147929-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 8503,
+  "nome_original": "Emoji",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica inflável",
+      "boné"
+    ],
+    "material_visual": "tecido sintético brilhante, possivelmente poliéster ou nylon",
+    "estilo_corte": "corte volumoso e arredondado (estilo inflável)",
+    "acessorios_visiveis": [
+      "boné amarelo"
+    ],
+    "tematica_detalhada": "Fantasia baseada no emoji de 'Rindo com Lágrimas', ícone popular de comunicação digital e redes sociais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8503.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.68,
+  "data_analise": "2026-07-28T03:49:10Z",
+  "data_criacao": "2026-07-28T00:49:10.049495-03:00"
+}

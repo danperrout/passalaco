@@ -1,0 +1,30 @@
+{
+  "id": 8304,
+  "nome_original": "Condessa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "capa com gola alta",
+      "colete",
+      "saia longa"
+    ],
+    "material_visual": "veludo ou tecido sintético aveludado",
+    "estilo_corte": "corte gótico com saia de barra irregular e gola estruturada",
+    "acessorios_visiveis": [
+      "laço no pescoço"
+    ],
+    "tematica_detalhada": "fantasia de condessa vampira, com referências ao estilo vitoriano gótico e estética de horror clássico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8304.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 41.0,
+  "data_analise": "2026-07-28T01:30:59Z",
+  "data_criacao": "2026-07-27T22:30:59.461836-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 6543,
+  "nome_original": "Nhonho",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde escuro",
+      "verde esmeralda"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga longa",
+      "macacão/salopete"
+    ],
+    "material_visual": "tecido acetinado com brilho",
+    "estilo_corte": "corte largo e folgado, estilo infantil/retrô",
+    "acessorios_visiveis": [
+      "gola com detalhe branco",
+      "laço no pescoço"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Nhonho, da série Chaves, caracterizada por roupas verdes e aspecto volumoso"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6543.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 51.37,
+  "data_analise": "2026-07-29T23:35:33Z",
+  "data_criacao": "2026-07-29T20:35:33.916190-03:00"
+}

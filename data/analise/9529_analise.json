@@ -1,0 +1,32 @@
+{
+  "id": 9529,
+  "nome_original": "Mickey",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "bermuda",
+      "tiara de orelhas"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster ou algodão",
+    "estilo_corte": "camiseta básica de manga curta e bermuda estilo bombacho com botões decorativos",
+    "acessorios_visiveis": [
+      "gravata borboleta amarela",
+      "tiara com orelhas circulares"
+    ],
+    "tematica_detalhada": "fantasia inspirada no personagem Mickey Mouse da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9529.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 183.35,
+  "data_analise": "2026-07-29T22:21:28Z",
+  "data_criacao": "2026-07-29T19:21:28.069748-03:00"
+}

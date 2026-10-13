@@ -1,0 +1,31 @@
+{
+  "id": 7221,
+  "nome_original": "Homem de Lata Magico de Oz",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prata",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "túnica",
+      "calça"
+    ],
+    "material_visual": "tecido sintético metalizado com brilho",
+    "estilo_corte": "corte reto e volumoso com gola alta",
+    "acessorios_visiveis": [
+      "coração vermelho no peito",
+      "chapéu cônico"
+    ],
+    "tematica_detalhada": "Personagem Homem de Lata da obra O Mágico de Oz"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7221.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 131.74,
+  "data_analise": "2026-07-28T15:07:05Z",
+  "data_criacao": "2026-07-28T12:07:05.271122-03:00"
+}

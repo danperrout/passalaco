@@ -1,0 +1,28 @@
+{
+  "id": 6305,
+  "nome_original": "Peppa Pig",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim e tule",
+    "estilo_corte": "vestido curto com mangas bufantes e saia rodada em camadas",
+    "acessorios_visiveis": [
+      "laço de cabelo"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Peppa Pig, utilizando as cores características da personagem em um modelo de vestido festivo."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6305.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.9,
+  "data_analise": "2026-07-30T02:56:37Z",
+  "data_criacao": "2026-07-29T23:56:37.106486-03:00"
+}

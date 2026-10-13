@@ -1,0 +1,30 @@
+{
+  "id": 4157,
+  "nome_original": "Can Can",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vinho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "corset",
+      "saia de babados",
+      "cartola"
+    ],
+    "material_visual": "cetim e renda",
+    "estilo_corte": "ajustado ao corpo com saia volumosa de camadas",
+    "acessorios_visiveis": [
+      "cartola"
+    ],
+    "tematica_detalhada": "estilo Can Can francês, remetendo ao Moulin Rouge e ao cabaret do século XIX"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4157.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.67,
+  "data_analise": "2026-07-27T18:52:28Z",
+  "data_criacao": "2026-07-27T15:52:28.533103-03:00"
+}

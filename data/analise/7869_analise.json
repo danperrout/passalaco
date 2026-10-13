@@ -1,0 +1,32 @@
+{
+  "id": 7869,
+  "nome_original": "India",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "azul",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com aspecto de camurça e franjas",
+    "estilo_corte": "curto e assimétrico com detalhes em franjas",
+    "acessorios_visiveis": [
+      "tiara com penas",
+      "colar de contas",
+      "bracelete"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em representações estereotipadas de indígenas norte-americanos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7869.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 356.95,
+  "data_analise": "2026-07-28T16:18:54Z",
+  "data_criacao": "2026-07-28T13:18:54.287742-03:00"
+}

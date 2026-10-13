@@ -1,0 +1,31 @@
+{
+  "id": 7390,
+  "nome_original": "Carinha de Anjo",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "branco",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "blusa de manga curta"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "vestido com saia rodada e blusa com gola e mangas bufantes",
+    "acessorios_visiveis": [
+      "laço no pescoço",
+      "tiara/laço no cabelo"
+    ],
+    "tematica_detalhada": "fantasia infantil inspirada na personagem Carinha de Anjo, com estilo clássico e delicado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7390.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.7,
+  "data_analise": "2026-07-27T19:20:05Z",
+  "data_criacao": "2026-07-27T16:20:05.235973-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 5295,
+  "nome_original": "Soldadinho de Chumbo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "estilo militar com botões frontais e dragonas nos ombros",
+    "acessorios_visiveis": [
+      "chapéu alto de pele sintética",
+      "detalhes dourados no casaco"
+    ],
+    "tematica_detalhada": "Soldadinho de Chumbo, inspirada em guardas reais britânicos e contos de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5295.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.52,
+  "data_analise": "2026-07-30T06:58:09Z",
+  "data_criacao": "2026-07-30T03:58:09.180258-03:00"
+}

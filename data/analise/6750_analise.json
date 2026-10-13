@@ -1,0 +1,29 @@
+{
+  "id": 6750,
+  "nome_original": "Cat Noir",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão integral",
+      "máscara"
+    ],
+    "material_visual": "material sintético com aspecto de couro ou vinil brilhante",
+    "estilo_corte": "ajustado ao corpo (slim fit) com fechamento frontal por zíper",
+    "acessorios_visiveis": [
+      "máscara com orelhas de gato",
+      "cinto"
+    ],
+    "tematica_detalhada": "personagem Cat Noir, inspirada em estética de gato preto e super-heróis"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6750.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.25,
+  "data_analise": "2026-07-27T19:39:08Z",
+  "data_criacao": "2026-07-27T16:39:08.900171-03:00"
+}

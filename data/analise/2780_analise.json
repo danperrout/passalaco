@@ -1,0 +1,31 @@
+{
+  "id": 2780,
+  "nome_original": "Sherlock Holmes",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "capa curta",
+      "top cropped",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com estampa geométrica e degradê",
+    "estilo_corte": "estilo moderno e estilizado com cortes curtos",
+    "acessorios_visiveis": [
+      "chapéu tipo deerstalker"
+    ],
+    "tematica_detalhada": "versão feminina e modernizada do detetive Sherlock Holmes, inspirada na estética vitoriana britânica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2780.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 366.5,
+  "data_analise": "2026-07-30T06:34:39Z",
+  "data_criacao": "2026-07-30T03:34:39.611497-03:00"
+}

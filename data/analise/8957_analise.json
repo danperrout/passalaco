@@ -1,0 +1,31 @@
+{
+  "id": 8957,
+  "nome_original": "Casal Chines",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido feminino",
+      "túnica masculina",
+      "calça masculina",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético acetinado com estampas metalizadas",
+    "estilo_corte": "estilo oriental inspirado em qipao e trajes tradicionais chineses",
+    "acessorios_visiveis": [
+      "chapéu tradicional"
+    ],
+    "tematica_detalhada": "fantasia de casal com temática cultural chinesa, referenciando vestimentas tradicionais festivas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8957.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.17,
+  "data_analise": "2026-07-27T19:31:55Z",
+  "data_criacao": "2026-07-27T16:31:55.070490-03:00"
+}

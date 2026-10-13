@@ -1,0 +1,29 @@
+{
+  "id": 4059,
+  "nome_original": "Chapeuzinho Vermelho",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz",
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com aspecto de tule ou rede na saia",
+    "estilo_corte": "estilo camponesa com saia volumosa e capa longa",
+    "acessorios_visiveis": [
+      "laço de amarração frontal"
+    ],
+    "tematica_detalhada": "Personagem de conto de fadas Chapeuzinho Vermelho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4059.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.17,
+  "data_analise": "2026-07-27T19:53:50Z",
+  "data_criacao": "2026-07-27T16:53:50.371526-03:00"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 9763,
+  "nome_original": "Capa Luxo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "capa"
+    ],
+    "material_visual": "tecido sintético com brilho e gola com textura escamosa",
+    "estilo_corte": "longo com gola alta estruturada em formato pontiagudo",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia gótica ou mística, com referências a vampiros, dragões ou criaturas noturnas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9763.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.92,
+  "data_analise": "2026-07-27T18:57:30Z",
+  "data_criacao": "2026-07-27T15:57:30.409785-03:00"
+}

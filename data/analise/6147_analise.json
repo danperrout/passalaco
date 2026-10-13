@@ -1,0 +1,28 @@
+{
+  "id": 6147,
+  "nome_original": "Camponesa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido leve, possivelmente cetim ou poliéster",
+    "estilo_corte": "estilo camponesa com corpete justo e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara de flores"
+    ],
+    "tematica_detalhada": "fantasia de camponesa europeia clássica, com referências a trajes folclóricos tradicionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6147.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.9,
+  "data_analise": "2026-07-27T18:50:48Z",
+  "data_criacao": "2026-07-27T15:50:48.664142-03:00"
+}

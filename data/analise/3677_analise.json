@@ -1,0 +1,29 @@
+{
+  "id": 3677,
+  "nome_original": "Sapato de Palhaco",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "par de sapatos"
+    ],
+    "material_visual": "material sintético com acabamento brilhante/envernizado",
+    "estilo_corte": "bico arredondado e volumoso, estilo oversized",
+    "acessorios_visiveis": [
+      "cadarços verdes"
+    ],
+    "tematica_detalhada": "sapato clássico de palhaço de circo, caracterizado por cores primárias vibrantes e dimensões exageradas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3677.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.26,
+  "data_analise": "2026-07-30T05:53:34Z",
+  "data_criacao": "2026-07-30T02:53:34.619531-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 8223,
+  "nome_original": "Saia Carimbó",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "saia longa",
+      "blusa regata"
+    ],
+    "material_visual": "tecido leve com estampa floral",
+    "estilo_corte": "saia godê ampla com cintura alta e blusa justa",
+    "acessorios_visiveis": [
+      "flor ornamental no cabelo"
+    ],
+    "tematica_detalhada": "Traje típico de Carimbó, dança folclórica do Pará, Brasil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8223.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 299.79,
+  "data_analise": "2026-07-30T05:40:33Z",
+  "data_criacao": "2026-07-30T02:40:33.618629-03:00"
+}

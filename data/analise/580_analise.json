@@ -1,0 +1,29 @@
+{
+  "id": 580,
+  "nome_original": "Espanhola",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Ciganas/Espanholas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda ou tule",
+    "estilo_corte": "top cropped com mangas bufantes e saia longa com babados em camadas",
+    "acessorios_visiveis": [
+      "flor vermelha para o cabelo"
+    ],
+    "tematica_detalhada": "Fantasia de dançarina espanhola, inspirada na cultura do Flamenco"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/580.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.45,
+  "data_analise": "2026-07-28T04:07:29Z",
+  "data_criacao": "2026-07-28T01:07:29.040730-03:00"
+}

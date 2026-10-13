@@ -1,0 +1,28 @@
+{
+  "id": 4790,
+  "nome_original": "Princesa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "lilás"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim, tule e paetês",
+    "estilo_corte": "vestido de baile com mangas bufantes e saia em camadas",
+    "acessorios_visiveis": [
+      "tiara de cristais"
+    ],
+    "tematica_detalhada": "fantasia de princesa clássica, com referências a personagens de contos de fada ou realeza"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4790.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.03,
+  "data_analise": "2026-07-30T03:59:02Z",
+  "data_criacao": "2026-07-30T00:59:02.379156-03:00"
+}

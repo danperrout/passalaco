@@ -1,0 +1,29 @@
+{
+  "id": 6499,
+  "nome_original": "Ginastica Ritmica",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "bege",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "collant"
+    ],
+    "material_visual": "licra com aplicações de strass, glitter e franjas",
+    "estilo_corte": "ajustado ao corpo, manga longa, gola alta e base com franjas",
+    "acessorios_visiveis": [
+      "pedrarias"
+    ],
+    "tematica_detalhada": "Traje de competição de Ginástica Rítmica, caracterizado por brilho intenso, recortes em tela transparente e design aerodinâmico para performance esportiva"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6499.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 66.36,
+  "data_analise": "2026-07-28T10:53:18Z",
+  "data_criacao": "2026-07-28T07:53:18.428330-03:00"
+}

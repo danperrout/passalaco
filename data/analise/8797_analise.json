@@ -1,0 +1,31 @@
+{
+  "id": 8797,
+  "nome_original": "Marreta Arlequina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "marreta"
+    ],
+    "material_visual": "material sintético ou plástico com acabamento fosco",
+    "estilo_corte": "formato cilíndrico para a cabeça e haste linear",
+    "acessorios_visiveis": [
+      "detalhes em losangos",
+      "inscrições textuais"
+    ],
+    "tematica_detalhada": "Acessório inspirado na personagem Arlequina (Harley Quinn) do universo DC Comics, simulando sua marreta característica."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8797.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 77.52,
+  "data_analise": "2026-07-29T18:30:31Z",
+  "data_criacao": "2026-07-29T15:30:31.898886-03:00"
+}

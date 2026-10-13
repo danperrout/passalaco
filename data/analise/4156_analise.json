@@ -1,0 +1,33 @@
+{
+  "id": 4156,
+  "nome_original": "Principe",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "capa",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético acetinado com acabamento em passamanaria dourada",
+    "estilo_corte": "túnica reta de corte simples com capa longa e calças ajustadas",
+    "acessorios_visiveis": [
+      "chapéu estilo boina/coroa de tecido"
+    ],
+    "tematica_detalhada": "fantasia de príncipe clássico ou nobreza medieval, com referências a trajes reais europeus estilizados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4156.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.29,
+  "data_analise": "2026-07-30T04:13:52Z",
+  "data_criacao": "2026-07-30T01:13:52.257383-03:00"
+}

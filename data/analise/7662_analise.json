@@ -1,0 +1,32 @@
+{
+  "id": 7662,
+  "nome_original": "Rei Mago",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "roxo",
+      "vinho"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "manto",
+      "touca"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado e detalhes em galão dourado",
+    "estilo_corte": "túnica longa de corte reto com mangas largas e manto aberto",
+    "acessorios_visiveis": [
+      "touca ornamentada",
+      "véu"
+    ],
+    "tematica_detalhada": "Rei Mago bíblico, com referências a trajes tradicionais do Oriente Médio antigo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7662.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 35.95,
+  "data_analise": "2026-07-30T04:51:00Z",
+  "data_criacao": "2026-07-30T01:51:00.571621-03:00"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 6215,
+  "nome_original": "Star Wars Darth Vader",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "cinza"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "capuz",
+      "túnica",
+      "calça",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "ajustado ao corpo com capa integrada",
+    "acessorios_visiveis": [
+      "painel de controle estampado no peito",
+      "cinto estampado"
+    ],
+    "tematica_detalhada": "Vilão Darth Vader da franquia Star Wars, representando o Lado Sombrio da Força"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6215.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 53.67,
+  "data_analise": "2026-07-30T07:19:32Z",
+  "data_criacao": "2026-07-30T04:19:32.498286-03:00"
+}

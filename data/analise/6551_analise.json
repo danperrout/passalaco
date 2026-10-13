@@ -1,0 +1,30 @@
+{
+  "id": 6551,
+  "nome_original": "Gato",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster ou elastano",
+    "estilo_corte": "ajustado ao corpo, manga longa e pernas longas",
+    "acessorios_visiveis": [
+      "orelhas de gato",
+      "cauda"
+    ],
+    "tematica_detalhada": "fantasia de gato preto, representação animal clássica para festas e carnaval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6551.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 70.43,
+  "data_analise": "2026-07-28T10:29:21Z",
+  "data_criacao": "2026-07-28T07:29:21.147654-03:00"
+}

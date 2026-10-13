@@ -1,0 +1,30 @@
+{
+  "id": 4111,
+  "nome_original": "Gangster",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com textura de pequenos pontos ou brilhos",
+    "estilo_corte": "ajustado/slim",
+    "acessorios_visiveis": [
+      "chapéu fedora",
+      "gravata borboleta"
+    ],
+    "tematica_detalhada": "Gangster clássico, inspirado na máfia dos anos 20 e 30, estilo Al Capone"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4111.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 72.08,
+  "data_analise": "2026-07-28T06:58:46Z",
+  "data_criacao": "2026-07-28T03:58:46.428072-03:00"
+}

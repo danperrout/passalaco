@@ -1,0 +1,27 @@
+{
+  "id": 7220,
+  "nome_original": "Mascote Cachorro",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Modelos",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "cabeça de mascote"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "oversized / corpo inteiro",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "mascote de cachorro antropomórfico, estilo personagem de desenho animado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7220.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 53.28,
+  "data_analise": "2026-07-29T19:11:35Z",
+  "data_criacao": "2026-07-29T16:11:35.069451-03:00"
+}

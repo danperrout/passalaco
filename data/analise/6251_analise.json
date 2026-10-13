@@ -1,0 +1,30 @@
+{
+  "id": 6251,
+  "nome_original": "Palhacinho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "amarelo",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "peruca"
+    ],
+    "material_visual": "cetim ou poliéster brilhante",
+    "estilo_corte": "estilo jardineira com pernas bufantes",
+    "acessorios_visiveis": [
+      "peruca multicolorida"
+    ],
+    "tematica_detalhada": "palhaço clássico de circo, caracterizado por cores vibrantes e estampa de bolinhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6251.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 50.1,
+  "data_analise": "2026-07-30T01:45:02Z",
+  "data_criacao": "2026-07-29T22:45:02.487515-03:00"
+}

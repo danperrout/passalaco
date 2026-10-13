@@ -1,0 +1,31 @@
+{
+  "id": 5660,
+  "nome_original": "Jamaicano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "touca"
+    ],
+    "material_visual": "tecido sintético com estampa circular",
+    "estilo_corte": "estilo dashiki, corte largo e reto",
+    "acessorios_visiveis": [
+      "touca preta",
+      "peruca com dreadlocks"
+    ],
+    "tematica_detalhada": "estética inspirada na cultura jamaicana e africana, remetendo ao estilo rastafári"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5660.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 110.84,
+  "data_analise": "2026-07-28T18:59:06Z",
+  "data_criacao": "2026-07-28T15:59:06.260686-03:00"
+}

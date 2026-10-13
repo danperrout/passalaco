@@ -1,0 +1,30 @@
+{
+  "id": 7269,
+  "nome_original": "Sereia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "bege",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "vestido sereia"
+    ],
+    "material_visual": "tecido com brilho, aplicações florais e tule na barra",
+    "estilo_corte": "corte sereia, justo ao corpo e abrindo na parte inferior",
+    "acessorios_visiveis": [
+      "tiara de pérolas",
+      "colares de pérolas"
+    ],
+    "tematica_detalhada": "fantasia de sereia com elementos marítimos e toque royal/clássico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7269.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.53,
+  "data_analise": "2026-07-30T06:16:52Z",
+  "data_criacao": "2026-07-30T03:16:52.243987-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 10197,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "laranja",
+      "amarelo",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido estampado, possivelmente algodão ou poliéster, com detalhes em tule na barra",
+    "estilo_corte": "corte ombro a ombro, corpo ajustado com detalhe em xadrez/trama e saia rodada curta",
+    "acessorios_visiveis": [
+      "tiara com fitas coloridas",
+      "laços decorativos nos ombros e cintura"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, representando a vestimenta típica caipira estilizada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10197.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.19,
+  "data_analise": "2026-07-29T02:08:54Z",
+  "data_criacao": "2026-07-28T23:08:54.347300-03:00"
+}

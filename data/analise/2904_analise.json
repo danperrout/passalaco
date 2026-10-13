@@ -1,0 +1,32 @@
+{
+  "id": 2904,
+  "nome_original": "Soldado Romano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Gregas/Romanos",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "capaçete",
+      "capa",
+      "couraça",
+      "saiote"
+    ],
+    "material_visual": "material sintético com aspecto de couro e tecido",
+    "estilo_corte": "estilo militar antigo com armadura moldada e drapeado",
+    "acessorios_visiveis": [
+      "capacete romano",
+      "detalhes dourados na armadura"
+    ],
+    "tematica_detalhada": "Soldado do Império Romano, referenciando a estética de centuriões ou legionários da Antiguidade Clássica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2904.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 39.5,
+  "data_analise": "2026-07-30T07:12:07Z",
+  "data_criacao": "2026-07-30T04:12:07.078260-03:00"
+}

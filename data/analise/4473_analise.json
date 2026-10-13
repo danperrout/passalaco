@@ -1,0 +1,32 @@
+{
+  "id": 4473,
+  "nome_original": "Chiquinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "casaquinho",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda no casaco e estampa de bolinhas na gola e bolso",
+    "estilo_corte": "estilo retrô infantil com cintura marcada por laço e gola Peter Pan",
+    "acessorios_visiveis": [
+      "óculos de armação grossa",
+      "peruca castanha com franja"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Chiquinha (La Chilindrina), do seriado Chaves"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4473.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 53.19,
+  "data_analise": "2026-07-27T21:08:40Z",
+  "data_criacao": "2026-07-27T18:08:40.236031-03:00"
+}

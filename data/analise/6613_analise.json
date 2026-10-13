@@ -1,0 +1,32 @@
+{
+  "id": 6613,
+  "nome_original": "Ninja",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "blusa com capuz",
+      "máscara facial",
+      "calça",
+      "faixa de cintura"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente elastano ou poliéster",
+    "estilo_corte": "ajustado ao corpo com recortes estratégicos nos ombros e braços",
+    "acessorios_visiveis": [
+      "faixa amarela",
+      "bandagens decorativas nos braços e pernas"
+    ],
+    "tematica_detalhada": "Ninja moderno com referências ao personagem Scorpion da franquia Mortal Kombat"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6613.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 58.12,
+  "data_analise": "2026-07-29T23:53:20Z",
+  "data_criacao": "2026-07-29T20:53:20.613988-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 7154,
+  "nome_original": "Vampira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "top tomara que caia",
+      "saia curta",
+      "capa"
+    ],
+    "material_visual": "tule e tecido sintético fosco",
+    "estilo_corte": "estilo gótico moderno com saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "gargantilha"
+    ],
+    "tematica_detalhada": "fantasia de vampira clássica com estética gótica, focada no contraste cromático tradicional do terror"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7154.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.36,
+  "data_analise": "2026-07-30T08:48:05Z",
+  "data_criacao": "2026-07-30T05:48:05.544396-03:00"
+}

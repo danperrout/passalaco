@@ -1,0 +1,31 @@
+{
+  "id": 5687,
+  "nome_original": "Saia Chita",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "preto",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "blusa regata",
+      "saia"
+    ],
+    "material_visual": "tecido de chita com estampas florais",
+    "estilo_corte": "blusa justa e saia rodada com cintura elástica",
+    "acessorios_visiveis": [
+      "chapéu de palha"
+    ],
+    "tematica_detalhada": "traje típico regional brasileiro, remetendo a festas juninas, cultura caipira e folclore rural"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5687.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 296.96,
+  "data_analise": "2026-07-30T05:46:22Z",
+  "data_criacao": "2026-07-30T02:46:22.154463-03:00"
+}

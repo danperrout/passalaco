@@ -1,0 +1,30 @@
+{
+  "id": 7179,
+  "nome_original": "Pato",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "branco",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "touca"
+    ],
+    "material_visual": "pelúcia sintética macia",
+    "estilo_corte": "oversized, estilo kigurumi com fechamento em zíper frontal",
+    "acessorios_visiveis": [
+      "touca com bico de pato e olhos"
+    ],
+    "tematica_detalhada": "fantasia de pato amarelo, remetendo a patinhos de borracha ou personagens infantis de aves"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7179.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 228.03,
+  "data_analise": "2026-07-30T02:44:28Z",
+  "data_criacao": "2026-07-29T23:44:28.879647-03:00"
+}

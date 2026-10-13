@@ -1,0 +1,29 @@
+{
+  "id": 6808,
+  "nome_original": "Cocar",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "marrom",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "cocar"
+    ],
+    "material_visual": "penas naturais ou sintéticas e tecido de base",
+    "estilo_corte": "vertical e radial",
+    "acessorios_visiveis": [
+      "colar de contas"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em adornos de cabeças indígenas, comum em representações artísticas ou festivas de culturas nativas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6808.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 68.66,
+  "data_analise": "2026-07-27T23:36:14Z",
+  "data_criacao": "2026-07-27T20:36:14.606516-03:00"
+}

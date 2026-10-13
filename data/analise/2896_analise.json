@@ -1,0 +1,30 @@
+{
+  "id": 2896,
+  "nome_original": "Imperador Romano",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "capa"
+    ],
+    "material_visual": "tecido sintético com acabamentos em fitas douradas",
+    "estilo_corte": "túnica longa de corte reto com decote arredondado",
+    "acessorios_visiveis": [
+      "coroa de louros dourada"
+    ],
+    "tematica_detalhada": "Imperador Romano, referenciando a vestimenta clássica da nobreza da Roma Antiga"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2896.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 107.8,
+  "data_analise": "2026-07-28T15:33:14Z",
+  "data_criacao": "2026-07-28T12:33:14.389611-03:00"
+}

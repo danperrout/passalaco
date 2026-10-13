@@ -1,0 +1,30 @@
+{
+  "id": 8816,
+  "nome_original": "Colete Rayder",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Infantis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "azul",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "colete"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster ou neoprene",
+    "estilo_corte": "colete sem mangas com fechamento em zíper frontal e gola alta",
+    "acessorios_visiveis": [
+      "emblema bordado no peito"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Ryder da série Patrulha Canina (PAW Patrol)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8816.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 66.87,
+  "data_analise": "2026-07-28T00:56:56Z",
+  "data_criacao": "2026-07-27T21:56:56.513149-03:00"
+}

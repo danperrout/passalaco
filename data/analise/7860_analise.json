@@ -1,0 +1,29 @@
+{
+  "id": 7860,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "arco-íris",
+      "multicolorido"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "touca/estilo headdress"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado e plumas",
+    "estilo_corte": "vestido curto com drapeado e decote em V",
+    "acessorios_visiveis": [
+      "estilo headdress de plumas coloridas"
+    ],
+    "tematica_detalhada": "Carnaval brasileiro, com referências a passistas de escola de samba e celebrações de diversidade/LGBTQIA+ devido às cores do arco-íris"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7860.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.09,
+  "data_analise": "2026-07-27T19:24:36Z",
+  "data_criacao": "2026-07-27T16:24:36.650411-03:00"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 7245,
+  "nome_original": "Saia Tule",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "saia de tule"
+    ],
+    "material_visual": "tule com acabamento em fita de cetim",
+    "estilo_corte": "estilo tutu, volumoso e curto",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia de bailarina ou temática de princesa/fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7245.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.39,
+  "data_analise": "2026-07-30T05:47:43Z",
+  "data_criacao": "2026-07-30T02:47:43.555615-03:00"
+}

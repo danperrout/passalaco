@@ -1,0 +1,31 @@
+{
+  "id": 8022,
+  "nome_original": "Marinheira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "chapéu de marinheiro"
+    ],
+    "material_visual": "cetim ou tecido sintético com brilho",
+    "estilo_corte": "vestido justo com decote em V, fechamento frontal por zíper e saia rodada com babados",
+    "acessorios_visiveis": [
+      "chapéu",
+      "laço decorativo na cintura"
+    ],
+    "tematica_detalhada": "Fantasia de marinheira estilizada, com referências a uniformes navais clássicos adaptados para moda festa ou cosplay"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8022.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 36.72,
+  "data_analise": "2026-07-29T17:49:03Z",
+  "data_criacao": "2026-07-29T14:49:03.375582-03:00"
+}

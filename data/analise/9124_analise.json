@@ -1,0 +1,31 @@
+{
+  "id": 9124,
+  "nome_original": "Caveira Mexicana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda ou tule",
+    "estilo_corte": "vestido curto com decote em V e saia volumosa",
+    "acessorios_visiveis": [
+      "chapéu coco com adornos",
+      "véu de bolinhas"
+    ],
+    "tematica_detalhada": "Caveira Mexicana, inspirada no Dia de los Muertos, com estampas de caveiras estilizadas e elementos festivos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9124.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.1,
+  "data_analise": "2026-07-27T19:45:48Z",
+  "data_criacao": "2026-07-27T16:45:48.639954-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 8572,
+  "nome_original": "Ana 2",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético com brilho e cetim",
+    "estilo_corte": "vestido longo com capa aberta e gola alta",
+    "acessorios_visiveis": [
+      "peruca castanha com tranças",
+      "detalhes dourados no busto"
+    ],
+    "tematica_detalhada": "fantasia inspirada na personagem Anna do filme Frozen 2"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8572.jpg",
+  "data_analise": "2026-07-27T13:56:00Z"
+}

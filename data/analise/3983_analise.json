@@ -1,0 +1,34 @@
+{
+  "id": 3983,
+  "nome_original": "V de Vingança",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "chapéu",
+      "máscara",
+      "calça",
+      "camisa"
+    ],
+    "material_visual": "tecido sintético acetinado",
+    "estilo_corte": "estilo vitoriano com capa longa e fluida",
+    "acessorios_visiveis": [
+      "máscara de Guy Fawkes",
+      "chapéu de aba larga",
+      "cinto"
+    ],
+    "tematica_detalhada": "Fantasia baseada no personagem V da obra V de Vingança, referenciando anarquismo e a figura histórica de Guy Fawkes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3983.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.53,
+  "data_analise": "2026-07-30T08:42:54Z",
+  "data_criacao": "2026-07-30T05:42:54.622402-03:00"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 8353,
+  "nome_original": "India",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "preto",
+      "vermelho",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com brilho, franjas de ráfia ou plástico e penas",
+    "estilo_corte": "conjunto de duas peças com top cropped e saia curta de franjas",
+    "acessorios_visiveis": [
+      "tiara de penas",
+      "colar",
+      "braceletes"
+    ],
+    "tematica_detalhada": "fantasia estilizada de indígena, com referências genéricas a culturas tribais para fins de festa ou carnaval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8353.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 206.88,
+  "data_analise": "2026-07-28T15:59:11Z",
+  "data_criacao": "2026-07-28T12:59:11.339695-03:00"
+}

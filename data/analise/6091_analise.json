@@ -1,0 +1,28 @@
+{
+  "id": 6091,
+  "nome_original": "Apresentador",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Circo",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "cartola"
+    ],
+    "material_visual": "tecido sintético com detalhes em lurex ou bordados metalizados",
+    "estilo_corte": "estilo fraque ou casaca com lapelas ornamentadas",
+    "acessorios_visiveis": [
+      "gravata borboleta",
+      "cartola"
+    ],
+    "tematica_detalhada": "Apresentador de circo ou mestre de cerimônias clássico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6091.jpg",
+  "data_analise": "2026-07-27T14:10:56Z"
+}

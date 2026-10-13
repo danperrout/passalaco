@@ -1,0 +1,30 @@
+{
+  "id": 1192,
+  "nome_original": "Power Rangers",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capacete"
+    ],
+    "material_visual": "tecido sintético brilhante e plástico rígido no capacete",
+    "estilo_corte": "justo ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "cinto com fivela",
+      "capacete"
+    ],
+    "tematica_detalhada": "Fantasia baseada na franquia Power Rangers, especificamente inspirada no Ranger Vermelho."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1192.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 22.7,
+  "data_analise": "2026-07-30T03:53:46Z",
+  "data_criacao": "2026-07-30T00:53:46.880331-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 8593,
+  "nome_original": "Apresentadora",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Circo",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaca",
+      "cartola",
+      "gravata borboleta"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado",
+    "estilo_corte": "estilo mestre de cerimônias com cauda",
+    "acessorios_visiveis": [
+      "cartola",
+      "gravata borboleta"
+    ],
+    "tematica_detalhada": "Apresentadora de circo ou mestre de cerimônias"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8593.jpg",
+  "data_analise": "2026-07-27T14:11:48Z"
+}

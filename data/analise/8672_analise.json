@@ -1,0 +1,30 @@
+{
+  "id": 8672,
+  "nome_original": "Lara Croft",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "short curto"
+    ],
+    "material_visual": "tecido sintético com aparência de elastano ou lycra",
+    "estilo_corte": "ajustado ao corpo com decote em V e comprimento curto",
+    "acessorios_visiveis": [
+      "coldres de perna",
+      "luvas sem dedos",
+      "cordão no pescoço"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Lara Croft da franquia Tomb Raider, com estética de aventureira e agente tática"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8672.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 298.4,
+  "data_analise": "2026-07-29T10:10:49Z",
+  "data_criacao": "2026-07-29T07:10:49.143073-03:00"
+}

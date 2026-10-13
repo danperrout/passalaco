@@ -1,0 +1,29 @@
+{
+  "id": 5656,
+  "nome_original": "Coelhinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "tiara de orelhas"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda ou cetim",
+    "estilo_corte": "estilo baby doll com saia evasê e decote frontal detalhado",
+    "acessorios_visiveis": [
+      "tiara de orelhas de coelho"
+    ],
+    "tematica_detalhada": "fantasia de coelhinha, inspirada em arquétipos de festas temáticas e cultura pop"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5656.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 80.67,
+  "data_analise": "2026-07-27T23:54:18Z",
+  "data_criacao": "2026-07-27T20:54:18.891175-03:00"
+}

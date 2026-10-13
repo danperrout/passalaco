@@ -1,0 +1,31 @@
+{
+  "id": 3214,
+  "nome_original": "Camisas",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "vermelho",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "chapéu de palha",
+      "camisa xadrez",
+      "lenço"
+    ],
+    "material_visual": "palha natural e tecido xadrez",
+    "estilo_corte": "camisa de manga longa com corte reto e chapéu de abas largas desfiadas",
+    "acessorios_visiveis": [
+      "lenço no pescoço"
+    ],
+    "tematica_detalhada": "fantasia de espantalho ou camponês, com referências rurais e folclóricas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3214.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.5,
+  "data_analise": "2026-07-27T18:50:10Z",
+  "data_criacao": "2026-07-27T15:50:10.132256-03:00"
+}

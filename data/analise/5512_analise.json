@@ -1,0 +1,33 @@
+{
+  "id": 5512,
+  "nome_original": "Comandante",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "gravata",
+      "quepe"
+    ],
+    "material_visual": "tecido sintético com aspecto de poliéster ou cetim",
+    "estilo_corte": "corte reto e formal, estilo farda militar",
+    "acessorios_visiveis": [
+      "insígnias nos ombros",
+      "distintivo no peito",
+      "quepe com aba"
+    ],
+    "tematica_detalhada": "fantasia de comandante, com referências a capitão de navio, piloto de avião ou oficial da marinha"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5512.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.65,
+  "data_analise": "2026-07-28T01:13:53Z",
+  "data_criacao": "2026-07-27T22:13:53.382862-03:00"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 6737,
+  "nome_original": "Gaucha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vinho",
+      "off-white"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "avental"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda",
+    "estilo_corte": "corte evasê com mangas bufantes e decote adornado",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia de gaúcha estilizada, inspirada no traje típico regional do Rio Grande do Sul"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6737.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 45.14,
+  "data_analise": "2026-07-28T10:41:55Z",
+  "data_criacao": "2026-07-28T07:41:55.403738-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 8901,
+  "nome_original": "Frankie Stein",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul escuro",
+      "azul claro",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampa xadrez e mangas em malha",
+    "estilo_corte": "estilo boneca com saia volumosa e decote assimétrico",
+    "acessorios_visiveis": [
+      "cinto prateado"
+    ],
+    "tematica_detalhada": "inspirada na personagem Frankie Stein de Monster High, com elementos que remetem a costuras e estética de monstro moderno"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8901.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 59.07,
+  "data_analise": "2026-07-28T06:14:10Z",
+  "data_criacao": "2026-07-28T03:14:10.216487-03:00"
+}

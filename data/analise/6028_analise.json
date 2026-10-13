@@ -1,0 +1,29 @@
+{
+  "id": 6028,
+  "nome_original": "Rainha das Bruxas",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "dourado",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "veludo com detalhes em tule e bordados dourados",
+    "estilo_corte": "corte imperial com mangas bufantes em tule e gola alta",
+    "acessorios_visiveis": [
+      "chapéu com véu"
+    ],
+    "tematica_detalhada": "Rainha das Bruxas com estética gótica vitoriana e elementos de fantasia mística"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6028.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.45,
+  "data_analise": "2026-07-30T04:22:07Z",
+  "data_criacao": "2026-07-30T01:22:07.484530-03:00"
+}

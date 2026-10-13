@@ -1,0 +1,30 @@
+{
+  "id": 8671,
+  "nome_original": "Rei",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "manto",
+      "coroa"
+    ],
+    "material_visual": "veludo com bordados metálicos",
+    "estilo_corte": "túnica longa aberta com mangas largas",
+    "acessorios_visiveis": [
+      "coroa com pedraria",
+      "colar dourado com medalhão"
+    ],
+    "tematica_detalhada": "Realeza clássica europeia ou medieval, evocando a imagem de um monarca majestoso"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8671.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 27.9,
+  "data_analise": "2026-07-30T04:50:13Z",
+  "data_criacao": "2026-07-30T01:50:13.831166-03:00"
+}

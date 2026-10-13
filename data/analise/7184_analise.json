@@ -1,0 +1,26 @@
+{
+  "id": 7184,
+  "nome_original": "Mascara Diabo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Máscaras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "máscara"
+    ],
+    "material_visual": "plástico ou resina com acabamento texturizado e brilho metálico/glitter",
+    "estilo_corte": "moldado anatomicamente com chifres integrados e bordas irregulares",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "temática demoníaca ou diabólica, referenciando figuras mitológicas de chifres e criaturas do submundo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7184.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.9,
+  "data_analise": "2026-07-29T19:00:14Z",
+  "data_criacao": "2026-07-29T16:00:14.342775-03:00"
+}

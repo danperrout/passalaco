@@ -1,0 +1,30 @@
+{
+  "id": 10249,
+  "nome_original": "Junina Saia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Vitrine",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "branco",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com estampas de xadrez e poá",
+    "estilo_corte": "modelo tomara-que-caia com saia rodada em camadas (estilo babados)",
+    "acessorios_visiveis": [
+      "tiara com enfeites e fitas"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, inspirada no traje típico caipira estilizado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10249.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 33.16,
+  "data_analise": "2026-07-29T07:28:09Z",
+  "data_criacao": "2026-07-29T04:28:09.926793-03:00"
+}

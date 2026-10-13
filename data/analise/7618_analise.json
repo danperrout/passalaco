@@ -1,0 +1,31 @@
+{
+  "id": 7618,
+  "nome_original": "Maria Bonita Plus Size",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com aspecto de camurça ou couro",
+    "estilo_corte": "corte reto e solto, estilo túnica, com detalhes de franjas",
+    "acessorios_visiveis": [
+      "chapéu de couro",
+      "alças cruzadas no peito",
+      "cinto"
+    ],
+    "tematica_detalhada": "estética de cangaceira, inspirada na figura histórica de Maria Bonita e na cultura do sertão nordestino brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7618.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 40.32,
+  "data_analise": "2026-07-29T17:42:19Z",
+  "data_criacao": "2026-07-29T14:42:19.956024-03:00"
+}

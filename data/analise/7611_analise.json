@@ -1,0 +1,31 @@
+{
+  "id": 7611,
+  "nome_original": "Mamãe Noel",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "avental",
+      "touca"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda",
+    "estilo_corte": "estilo camponesa com saia rodada e mangas bufantes",
+    "acessorios_visiveis": [
+      "touca natalina",
+      "detalhe de renda no busto"
+    ],
+    "tematica_detalhada": "Mamãe Noel com influência de trajes tradicionais europeus/dirndl"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7611.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 75.93,
+  "data_analise": "2026-07-29T17:14:18Z",
+  "data_criacao": "2026-07-29T14:14:18.466260-03:00"
+}

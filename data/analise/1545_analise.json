@@ -1,0 +1,29 @@
+{
+  "id": 1545,
+  "nome_original": "Dançarina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Danças",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "mini cartola"
+    ],
+    "material_visual": "cetim e renda",
+    "estilo_corte": "estilo corset com saia curta em camadas de babados",
+    "acessorios_visiveis": [
+      "mini cartola com fita"
+    ],
+    "tematica_detalhada": "Dançarina de Cabaré ou Moulin Rouge, com referências ao estilo burlesco"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1545.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.47,
+  "data_analise": "2026-07-28T02:46:17Z",
+  "data_criacao": "2026-07-27T23:46:17.160524-03:00"
+}

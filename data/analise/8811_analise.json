@@ -1,0 +1,30 @@
+{
+  "id": 8811,
+  "nome_original": "Junina Mf",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia"
+    ],
+    "material_visual": "tecido xadrez, renda e cetim",
+    "estilo_corte": "estilo caipira infantil com babados e volume",
+    "acessorios_visiveis": [
+      "tiara com flor",
+      "aplicações de bichinhos em feltro/EVA"
+    ],
+    "tematica_detalhada": "Festa Junina infantil, representando a figura da caipira com elementos lúdicos e cores suaves"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8811.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 41.03,
+  "data_analise": "2026-07-29T06:37:45Z",
+  "data_criacao": "2026-07-29T03:37:45.088904-03:00"
+}

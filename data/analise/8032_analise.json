@@ -1,0 +1,32 @@
+{
+  "id": 8032,
+  "nome_original": "Dracula",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vinho"
+    ],
+    "pecas_inclusas": [
+      "cartola",
+      "casaco longo",
+      "colete",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com detalhes em cetim ou veludo",
+    "estilo_corte": "estilo vitoriano com casaco de cauda e colete ajustado",
+    "acessorios_visiveis": [
+      "cartola",
+      "gravata borboleta/laço"
+    ],
+    "tematica_detalhada": "Vampiro aristocrata, baseada na figura clássica do Conde Drácula com influência da moda gótica vitoriana"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8032.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 49.72,
+  "data_analise": "2026-07-28T03:23:38Z",
+  "data_criacao": "2026-07-28T00:23:38.348445-03:00"
+}

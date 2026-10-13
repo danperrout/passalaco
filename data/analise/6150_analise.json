@@ -1,0 +1,26 @@
+{
+  "id": 6150,
+  "nome_original": "Aladim",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "calças",
+      "turbante"
+    ],
+    "material_visual": "tecido sintético com aplicações de brilho e lantejoulas",
+    "estilo_corte": "estilo árabe com calças folgadas e colete ajustado",
+    "acessorios_visiveis": [
+      "turbante"
+    ],
+    "tematica_detalhada": "personagem Aladim inspirado em contos árabes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6150.jpg",
+  "data_analise": "2026-07-27T13:38:47Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 7146,
+  "nome_original": "Vampira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "mangas separadas",
+      "gola alta",
+      "tiara"
+    ],
+    "material_visual": "renda e tecido sintético",
+    "estilo_corte": "estilo corset com saia assimétrica e gola draculiana",
+    "acessorios_visiveis": [
+      "tiara decorada",
+      "colar/medalhão"
+    ],
+    "tematica_detalhada": "Vampira gótica com referências ao estilo vitoriano e dark fantasy"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7146.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.98,
+  "data_analise": "2026-07-30T08:46:31Z",
+  "data_criacao": "2026-07-30T05:46:31.491728-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 10081,
+  "nome_original": "Super Poderosas Lindinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul royal",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco",
+    "estilo_corte": "vestido curto sem mangas com cintura marcada por faixa preta e saia levemente franzida",
+    "acessorios_visiveis": [
+      "óculos de sol azuis"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Lindinha do desenho animado As Meninas Superpoderosas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10081.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.84,
+  "data_analise": "2026-07-30T07:31:49Z",
+  "data_criacao": "2026-07-30T04:31:49.068017-03:00"
+}

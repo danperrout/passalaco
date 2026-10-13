@@ -1,0 +1,29 @@
+{
+  "id": 6265,
+  "nome_original": "Aladim",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "capa",
+      "turbante"
+    ],
+    "material_visual": "tecido sintético brilhante, possivelmente cetim ou poliéster",
+    "estilo_corte": "estilo oriental com modelagem solta e túnica ajustada na cintura",
+    "acessorios_visiveis": [
+      "turbante adornado",
+      "faixa na cintura"
+    ],
+    "tematica_detalhada": "personagem Aladim com inspiração em vestimentas árabes clássicas de fantasia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6265.jpg",
+  "data_analise": "2026-07-27T13:38:50Z"
+}

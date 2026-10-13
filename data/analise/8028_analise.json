@@ -1,0 +1,29 @@
+{
+  "id": 8028,
+  "nome_original": "Almirante",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Profissőes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "chapéu",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado",
+    "estilo_corte": "militar estruturado com gola alta",
+    "acessorios_visiveis": [
+      "quepe",
+      "ombreiras",
+      "botões dourados",
+      "cinto"
+    ],
+    "tematica_detalhada": "uniforme de almirante naval clássico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8028.jpg",
+  "data_analise": "2026-07-27T13:55:26Z"
+}

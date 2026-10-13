@@ -1,0 +1,28 @@
+{
+  "id": 7535,
+  "nome_original": "Rainha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "veludo e tecido acetinado com bordados",
+    "estilo_corte": "corte medieval com mangas longas e saia fluida",
+    "acessorios_visiveis": [
+      "coroa dourada"
+    ],
+    "tematica_detalhada": "Rainha medieval ou renascentista, com referências a trajes de nobreza europeia clássica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7535.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.79,
+  "data_analise": "2026-07-30T04:21:05Z",
+  "data_criacao": "2026-07-30T01:21:05.533739-03:00"
+}

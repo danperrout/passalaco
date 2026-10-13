@@ -1,0 +1,29 @@
+{
+  "id": 10128,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido curto de franjas",
+      "adorno de cabeça"
+    ],
+    "material_visual": "sequins e franjas sintéticas com brilho metálico",
+    "estilo_corte": "estilo cocktail com caimento reto e franjas longas",
+    "acessorios_visiveis": [
+      "tiara com elementos ornamentais"
+    ],
+    "tematica_detalhada": "Fantasia de Carnaval inspirada em elementos marinhos ou natureza, com foco em brilho e movimento"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10128.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.71,
+  "data_analise": "2026-07-27T19:25:59Z",
+  "data_criacao": "2026-07-27T16:25:59.362512-03:00"
+}

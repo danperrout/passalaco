@@ -1,0 +1,31 @@
+{
+  "id": 3847,
+  "nome_original": "Indio",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "laranja",
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com franjas",
+    "estilo_corte": "túnica folgada com decote em V e acabamento em franjas",
+    "acessorios_visiveis": [
+      "cocar de penas coloridas"
+    ],
+    "tematica_detalhada": "fantasia estereotipada de indígena, inspirada em representações genéricas de povos nativos americanos ou brasileiros"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3847.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 94.52,
+  "data_analise": "2026-07-28T17:27:56Z",
+  "data_criacao": "2026-07-28T14:27:56.419226-03:00"
+}

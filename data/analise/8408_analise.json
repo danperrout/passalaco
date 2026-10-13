@@ -1,0 +1,29 @@
+{
+  "id": 8408,
+  "nome_original": "Bruxinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Halloween Infantil",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tule, cetim e glitter",
+    "estilo_corte": "estilo tutu com saia volumosa e corpete ajustado",
+    "acessorios_visiveis": [
+      "chapéu de bruxa pontudo"
+    ],
+    "tematica_detalhada": "fantasia de bruxinha infantil com estética moderna e festiva, referenciando personagens clássicas de Halloween"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8408.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 22.59,
+  "data_analise": "2026-07-27T18:32:29Z",
+  "data_criacao": "2026-07-27T15:32:29.979539-03:00"
+}

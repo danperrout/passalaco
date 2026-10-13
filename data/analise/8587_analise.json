@@ -1,0 +1,29 @@
+{
+  "id": 8587,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "tecido com brilho/lurex e franjas sintéticas",
+    "estilo_corte": "estilo biquíni com saia curta de franjas",
+    "acessorios_visiveis": [
+      "tiara decorada com flores/laços"
+    ],
+    "tematica_detalhada": "fantasia de carnaval inspirada em passista ou temática tropical, com cores vibrantes e elementos de dança"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8587.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.33,
+  "data_analise": "2026-07-27T19:27:13Z",
+  "data_criacao": "2026-07-27T16:27:13.379790-03:00"
+}

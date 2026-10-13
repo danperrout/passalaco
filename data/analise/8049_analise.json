@@ -1,0 +1,32 @@
+{
+  "id": 8049,
+  "nome_original": "Thor",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "calça legging",
+      "capa"
+    ],
+    "material_visual": "tecido sintético com brilho e impressões gráficas",
+    "estilo_corte": "ajustado ao corpo com capa fluida",
+    "acessorios_visiveis": [
+      "capacete com chifres",
+      "martelo Mjölnir"
+    ],
+    "tematica_detalhada": "Versão feminina do personagem Thor, inspirada na mitologia nórdica e nos quadrinhos/filmes da Marvel"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8049.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 143.74,
+  "data_analise": "2026-07-30T07:57:20Z",
+  "data_criacao": "2026-07-30T04:57:20.079253-03:00"
+}

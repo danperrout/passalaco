@@ -1,0 +1,26 @@
+{
+  "id": 6573,
+  "nome_original": "Anjo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Coroaçăo",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido leve e fluido com detalhes metalizados",
+    "estilo_corte": "estilo império com drapeados e caimento longo",
+    "acessorios_visiveis": [
+      "asas de penas",
+      "tiara ou adorno de cabeça",
+      "cinto/detalhe na cintura"
+    ],
+    "tematica_detalhada": "anjo celestial etéreo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6573.jpg",
+  "data_analise": "2026-07-27T13:57:15Z"
+}

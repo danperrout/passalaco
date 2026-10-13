@@ -1,0 +1,30 @@
+{
+  "id": 844,
+  "nome_original": "Marinheira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul marinho"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com aspecto de poliéster ou cetim",
+    "estilo_corte": "blusa com gola marinheira e saia plissada curta",
+    "acessorios_visiveis": [
+      "gorro de marinheiro"
+    ],
+    "tematica_detalhada": "estilo marinheira clássico, com referências a uniformes navais e estética de colegiais japonesas (seifuku)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/844.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.92,
+  "data_analise": "2026-07-29T17:56:32Z",
+  "data_criacao": "2026-07-29T14:56:32.229169-03:00"
+}

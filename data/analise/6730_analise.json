@@ -1,0 +1,29 @@
+{
+  "id": 6730,
+  "nome_original": "Ladybug",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético elástico",
+    "estilo_corte": "ajustado ao corpo (skinny/bodycon)",
+    "acessorios_visiveis": [
+      "máscara ocular"
+    ],
+    "tematica_detalhada": "personagem Ladybug da série animada Miraculous: As Aventuras de Ladybug"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6730.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.92,
+  "data_analise": "2026-07-29T08:36:01Z",
+  "data_criacao": "2026-07-29T05:36:01.039117-03:00"
+}

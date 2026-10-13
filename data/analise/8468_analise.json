@@ -1,0 +1,31 @@
+{
+  "id": 8468,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "prateado"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia curta",
+      "capa"
+    ],
+    "material_visual": "tecido brilhante com lantejoulas e aplicações metálicas",
+    "estilo_corte": "conjunto de duas peças com corte moderno e fluido",
+    "acessorios_visiveis": [
+      "tiara com lua crescente",
+      "capa longa"
+    ],
+    "tematica_detalhada": "fantasia celestial ou lunar, com referências à lua e estética de brilho etéreo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8468.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.47,
+  "data_analise": "2026-07-27T19:26:42Z",
+  "data_criacao": "2026-07-27T16:26:42.515612-03:00"
+}

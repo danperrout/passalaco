@@ -1,0 +1,25 @@
+{
+  "id": 3823,
+  "nome_original": "Peruca Homem das Cavernas",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "peruca"
+    ],
+    "material_visual": "fibra sintética",
+    "estilo_corte": "volumoso e cacheado",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Homem das cavernas, pré-história ou estilo afro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3823.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.09,
+  "data_analise": "2026-07-30T03:20:15Z",
+  "data_criacao": "2026-07-30T00:20:15.902218-03:00"
+}

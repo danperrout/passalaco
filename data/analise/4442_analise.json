@@ -1,0 +1,37 @@
+{
+  "id": 4442,
+  "nome_original": "Harry Potter Hermione",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "cinza",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz",
+      "camisa branca",
+      "saia plissada",
+      "gravata",
+      "cinto"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster",
+    "estilo_corte": "uniforme escolar estilizado com capa longa",
+    "acessorios_visiveis": [
+      "gravata listrada",
+      "cinto listrado",
+      "emblema no peito",
+      "brasão na capa"
+    ],
+    "tematica_detalhada": "estudante da Escola de Magia e Bruxaria de Hogwarts, especificamente da casa Gryffindor, inspirada na personagem Hermione Granger da série Harry Potter"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4442.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 208.99,
+  "data_analise": "2026-07-28T12:56:51Z",
+  "data_criacao": "2026-07-28T09:56:51.195302-03:00"
+}

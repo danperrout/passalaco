@@ -1,0 +1,31 @@
+{
+  "id": 8512,
+  "nome_original": "Harry Potter",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vinho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz",
+      "cachecol"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "túnica longa e fluida com mangas amplas",
+    "acessorios_visiveis": [
+      "óculos redondos",
+      "varinha"
+    ],
+    "tematica_detalhada": "Estudante da Escola de Magia e Bruxaria de Hogwarts, especificamente da casa Grifinória, referenciando o personagem Harry Potter"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8512.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 104.15,
+  "data_analise": "2026-07-28T12:23:31Z",
+  "data_criacao": "2026-07-28T09:23:31.759388-03:00"
+}

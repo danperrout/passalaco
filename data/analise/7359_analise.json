@@ -1,0 +1,32 @@
+{
+  "id": 7359,
+  "nome_original": "Sdevmagico",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "cartola",
+      "paletó",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "cetim ou tecido sintético com brilho",
+    "estilo_corte": "estilo fraque infantil",
+    "acessorios_visiveis": [
+      "cartola com detalhe circular vermelho"
+    ],
+    "tematica_detalhada": "mágico ou mestre de cerimônias, com referência a celebração de primeiro ano de vida"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7359.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 97.2,
+  "data_analise": "2026-07-30T06:06:04Z",
+  "data_criacao": "2026-07-30T03:06:04.551254-03:00"
+}

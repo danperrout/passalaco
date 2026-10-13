@@ -1,0 +1,31 @@
+{
+  "id": 6885,
+  "nome_original": "Frankstein",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "verde",
+      "cinza"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco",
+    "estilo_corte": "modelagem larga e desestruturada com barras irregulares",
+    "acessorios_visiveis": [
+      "chapéu com parafusos laterais"
+    ],
+    "tematica_detalhada": "Monstro de Frankenstein, personagem clássico de terror com referências a costuras e elementos cibernéticos/mecânicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6885.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.66,
+  "data_analise": "2026-07-28T06:14:18Z",
+  "data_criacao": "2026-07-28T03:14:18.290628-03:00"
+}

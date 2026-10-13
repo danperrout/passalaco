@@ -1,0 +1,31 @@
+{
+  "id": 3122,
+  "nome_original": "Chines",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "chapéu"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante",
+    "estilo_corte": "estilo quimono com mangas largas e fechamento frontal com faixa",
+    "acessorios_visiveis": [
+      "faixa de cintura",
+      "chapéu decorado"
+    ],
+    "tematica_detalhada": "Fantasia temática de inspiração chinesa, remetendo a vestimentas tradicionais orientais estilizadas para festas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3122.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.85,
+  "data_analise": "2026-07-27T20:59:27Z",
+  "data_criacao": "2026-07-27T17:59:27.515347-03:00"
+}

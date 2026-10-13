@@ -1,0 +1,28 @@
+{
+  "id": 9761,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia de franjas"
+    ],
+    "material_visual": "tecido com brilho e franjas metálicas",
+    "estilo_corte": "conjunto de duas peças curto e justo",
+    "acessorios_visiveis": [
+      "tiara ornamentada"
+    ],
+    "tematica_detalhada": "fantasia de carnaval com estética de passista ou rainha de escola de samba, focada em glamour e brilho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9761.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.85,
+  "data_analise": "2026-07-27T19:26:14Z",
+  "data_criacao": "2026-07-27T16:26:14.059756-03:00"
+}

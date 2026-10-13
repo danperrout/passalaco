@@ -1,0 +1,33 @@
+{
+  "id": 9489,
+  "nome_original": "Jeca",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "verde neon"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "camisa"
+    ],
+    "material_visual": "tecido sintético com estampa xadrez",
+    "estilo_corte": "corte reto e folgado",
+    "acessorios_visiveis": [
+      "chapéu de palha",
+      "gravata verde",
+      "botões decorativos laranjas"
+    ],
+    "tematica_detalhada": "Fantasia de 'Jeca', representando a figura estereotipada do caipira brasileiro, comum em festas juninas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9489.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 557.69,
+  "data_analise": "2026-07-28T21:10:24Z",
+  "data_criacao": "2026-07-28T18:10:24.716849-03:00"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 3536,
+  "nome_original": "Principe",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaca",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "cetim brilhante",
+    "estilo_corte": "militar clássico com corte justo e detalhes ornamentados",
+    "acessorios_visiveis": [
+      "botões dourados",
+      "galões dourados nos ombros e punhos",
+      "pena no chapéu"
+    ],
+    "tematica_detalhada": "Príncipe ou oficial militar de época, com referências a uniformes reais europeus ou personagens de contos de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3536.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.59,
+  "data_analise": "2026-07-30T04:04:34Z",
+  "data_criacao": "2026-07-30T01:04:34.974144-03:00"
+}

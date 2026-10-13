@@ -1,0 +1,32 @@
+{
+  "id": 4134,
+  "nome_original": "Super Shock",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "casaco longo",
+      "camiseta",
+      "calça",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "estilo sobretudo com corte reto e camiseta ajustada",
+    "acessorios_visiveis": [
+      "máscara ocular"
+    ],
+    "tematica_detalhada": "Super-herói com temática de eletricidade, evidenciada pelo símbolo de raio no peito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4134.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 37.12,
+  "data_analise": "2026-07-30T07:32:37Z",
+  "data_criacao": "2026-07-30T04:32:37.715915-03:00"
+}

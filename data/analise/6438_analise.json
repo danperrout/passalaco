@@ -1,0 +1,32 @@
+{
+  "id": 6438,
+  "nome_original": "Noiva",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "lilás"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "véu",
+      "tiara"
+    ],
+    "material_visual": "tule, renda e cetim",
+    "estilo_corte": "curto com saia em camadas e mangas bufantes",
+    "acessorios_visiveis": [
+      "tiara de pérolas",
+      "véu",
+      "buquê de flores"
+    ],
+    "tematica_detalhada": "fantasia de noiva estilizada, com referências a noivas clássicas e toques modernos/festivos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6438.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 188.6,
+  "data_analise": "2026-07-30T00:17:02Z",
+  "data_criacao": "2026-07-29T21:17:02.068409-03:00"
+}

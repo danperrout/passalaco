@@ -1,0 +1,32 @@
+{
+  "id": 2789,
+  "nome_original": "Mascarada",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu",
+      "máscara"
+    ],
+    "material_visual": "tecido acetinado com detalhes em renda",
+    "estilo_corte": "vestido curto com mangas amplas e cintura marcada por cordões",
+    "acessorios_visiveis": [
+      "chapéu de aba larga",
+      "máscara veneziana",
+      "gargantilha"
+    ],
+    "tematica_detalhada": "estilo masquerade ou bruxa gótica, com referências a bailes de máscaras e estética misteriosa/sobrenatural"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2789.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 79.78,
+  "data_analise": "2026-07-29T19:02:49Z",
+  "data_criacao": "2026-07-29T16:02:49.032839-03:00"
+}

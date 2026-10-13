@@ -1,0 +1,32 @@
+{
+  "id": 8110,
+  "nome_original": "Vaca",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "estilo kigurumi ou pijama oversized",
+    "acessorios_visiveis": [
+      "chifres",
+      "orelhas",
+      "detalhe de úbere"
+    ],
+    "tematica_detalhada": "Fantasia de vaca holandesa, com representação caricata e confortável do animal"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8110.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.95,
+  "data_analise": "2026-07-30T08:43:00Z",
+  "data_criacao": "2026-07-30T05:43:00.844932-03:00"
+}

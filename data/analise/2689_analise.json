@@ -1,0 +1,29 @@
+{
+  "id": 2689,
+  "nome_original": "Coelhinho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "touca com orelhas"
+    ],
+    "material_visual": "tecido sintético com aspecto fosco e elástico",
+    "estilo_corte": "ajustado ao corpo (slim fit) com mangas longas e calças",
+    "acessorios_visiveis": [
+      "orelhas de coelho integradas à touca"
+    ],
+    "tematica_detalhada": "fantasia de coelho em tons terrosos, remetendo a animais da floresta ou personagens infantis de coelhinho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2689.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 59.13,
+  "data_analise": "2026-07-28T00:31:56Z",
+  "data_criacao": "2026-07-27T21:31:56.482947-03:00"
+}

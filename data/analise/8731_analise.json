@@ -1,0 +1,27 @@
+{
+  "id": 8731,
+  "nome_original": "Bela",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante",
+    "estilo_corte": "estilo baile com decote ombro a ombro e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Bela, do filme A Bela e a Fera da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8731.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.18,
+  "data_analise": "2026-07-27T17:51:39Z",
+  "data_criacao": "2026-07-27T14:51:39.602499-03:00"
+}

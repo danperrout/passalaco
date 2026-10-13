@@ -1,0 +1,30 @@
+{
+  "id": 8774,
+  "nome_original": "Mae e Filha Minnie",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido adulto",
+      "vestido infantil"
+    ],
+    "material_visual": "veludo no busto e cetim com bolinhas na saia e mangas",
+    "estilo_corte": "estilo pin-up com cintura marcada, mangas bufantes e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara com laço de bolinhas"
+    ],
+    "tematica_detalhada": "Fantasia coordenada de mãe e filha inspirada na personagem Minnie Mouse da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8774.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 466.29,
+  "data_analise": "2026-07-29T14:23:54Z",
+  "data_criacao": "2026-07-29T11:23:54.721126-03:00"
+}

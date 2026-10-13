@@ -1,0 +1,31 @@
+{
+  "id": 2748,
+  "nome_original": "Vampira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "casaco longo com gola alta"
+    ],
+    "material_visual": "cetim e renda",
+    "estilo_corte": "corte ajustado com gola draculiana estruturada",
+    "acessorios_visiveis": [
+      "colar dourado",
+      "adorno de cabeça com plumas",
+      "detalhe de amarração na cintura"
+    ],
+    "tematica_detalhada": "Vampira gótica clássica com influências vitorianas e elementos de fantasia luxuosa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2748.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.97,
+  "data_analise": "2026-07-30T08:47:15Z",
+  "data_criacao": "2026-07-30T05:47:15.933472-03:00"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 5690,
+  "nome_original": "Palhacinho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "branco",
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético brilhante e tule",
+    "estilo_corte": "camiseta básica com calça bufante estilo jardineira",
+    "acessorios_visiveis": [
+      "gravata borboleta",
+      "chapéu cone com pompom",
+      "alças"
+    ],
+    "tematica_detalhada": "Palhaço clássico de circo, com elementos lúdicos e coloridos, característica de fantasias infantis"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5690.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.24,
+  "data_analise": "2026-07-30T01:43:17Z",
+  "data_criacao": "2026-07-29T22:43:17.808491-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 9514,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "rosa",
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda",
+    "estilo_corte": "ciganinha com saia rodada em camadas (babados)",
+    "acessorios_visiveis": [
+      "laços de cabelo"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina estilizada, representando a personagem caipira com cores vibrantes e elementos típicos do folclore rural brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9514.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.94,
+  "data_analise": "2026-07-29T01:59:51Z",
+  "data_criacao": "2026-07-28T22:59:51.602935-03:00"
+}

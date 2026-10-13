@@ -1,0 +1,24 @@
+{
+  "id": 8599,
+  "nome_original": "Anos 20",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "paetês",
+    "estilo_corte": "estilo melindrosa, corte reto com franjas na barra",
+    "acessorios_visiveis": [
+      "tiara com penas",
+      "faixa de cabelo colorida"
+    ],
+    "tematica_detalhada": "Anos 20 / Great Gatsby / Melindrosa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8599.jpg",
+  "data_analise": "2026-07-27T13:58:42Z"
+}

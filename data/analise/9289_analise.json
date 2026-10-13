@@ -1,0 +1,27 @@
+{
+  "id": 9289,
+  "nome_original": "Caveira",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido sintético com estampa digital",
+    "estilo_corte": "vestido de corte reto e longo",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Caveira estilizada com referências ao Dia dos Mortos (Día de Muertos) e elementos ornamentais dourados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9289.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.07,
+  "data_analise": "2026-07-27T19:40:32Z",
+  "data_criacao": "2026-07-27T16:40:32.326479-03:00"
+}

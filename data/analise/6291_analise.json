@@ -1,0 +1,33 @@
+{
+  "id": 6291,
+  "nome_original": "Kiko",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "camiseta estilo marinheiro",
+      "bermuda",
+      "gorro"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "estilo marinheiro com gola larga e corte reto",
+    "acessorios_visiveis": [
+      "gravata vermelha",
+      "gorro colorido"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Kiko, do seriado Chaves, inspirada em trajes de marinheiro infantis"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6291.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 35.64,
+  "data_analise": "2026-07-29T08:05:40Z",
+  "data_criacao": "2026-07-29T05:05:40.979133-03:00"
+}

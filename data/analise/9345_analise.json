@@ -1,0 +1,28 @@
+{
+  "id": 9345,
+  "nome_original": "Coroa e Anagua",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "coroa"
+    ],
+    "material_visual": "metal dourado com incrustações de strass ou cristais",
+    "estilo_corte": "estilo tiara real com picos ornamentados",
+    "acessorios_visiveis": [
+      "tiara"
+    ],
+    "tematica_detalhada": "realeza, princesa ou rainha, referências a contos de fadas e celebrações de debutante"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9345.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.38,
+  "data_analise": "2026-07-28T01:43:50Z",
+  "data_criacao": "2026-07-27T22:43:50.315042-03:00"
+}

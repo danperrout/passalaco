@@ -1,0 +1,30 @@
+{
+  "id": 9773,
+  "nome_original": "Fred",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "azul claro"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "tecido sintético com brilho leve, possivelmente poliéster",
+    "estilo_corte": "vestido curto de ombro único com barra em tule",
+    "acessorios_visiveis": [
+      "tiara com laço laranja",
+      "cinto decorativo azul"
+    ],
+    "tematica_detalhada": "fantasia inspirada na era pré-histórica, referenciando personagens de 'Os Flintstones' (como a Betty ou Wilma), caracterizada por estampas de manchas pretas e cortes irregulares"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9773.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 36.94,
+  "data_analise": "2026-07-28T06:24:20Z",
+  "data_criacao": "2026-07-28T03:24:20.206953-03:00"
+}

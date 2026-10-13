@@ -1,0 +1,29 @@
+{
+  "id": 4759,
+  "nome_original": "Rainha dos Corações Partidos",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa com capuz"
+    ],
+    "material_visual": "cetim, renda e tecido sintético",
+    "estilo_corte": "corte evasê com corpete ajustado e ombros descubertos",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "Reinterpretação gótica da Rainha de Copas, misturando elementos de realeza com a estética de corações partidos e cores contrastantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4759.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.64,
+  "data_analise": "2026-07-30T04:29:37Z",
+  "data_criacao": "2026-07-30T01:29:37.551945-03:00"
+}

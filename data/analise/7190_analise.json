@@ -1,0 +1,29 @@
+{
+  "id": 7190,
+  "nome_original": "Patrulha Canina Skye",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "touca"
+    ],
+    "material_visual": "tule e tecido sintético acetinado",
+    "estilo_corte": "vestido curto com saia volumosa e mangas curtas franzidas",
+    "acessorios_visiveis": [
+      "touca de aviadora com óculos aplicados"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Skye da Patrulha Canina, com referências a aviadora"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7190.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.36,
+  "data_analise": "2026-07-30T02:47:51Z",
+  "data_criacao": "2026-07-29T23:47:51.700263-03:00"
+}

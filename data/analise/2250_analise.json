@@ -1,0 +1,31 @@
+{
+  "id": 2250,
+  "nome_original": "Beatles Paul",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado e detalhes metálicos",
+    "estilo_corte": "estilo militar com corte estruturado e gola alta",
+    "acessorios_visivel": [
+      "dragonas",
+      "botões dourados",
+      "galões"
+    ],
+    "tematica_detalhada": "Inspirada nos uniformes militares estilizados utilizados pelos Beatles, especificamente na era do álbum 'Sgt. Pepper's Lonely Hearts Club Band'"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2250.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.03,
+  "data_analise": "2026-07-27T17:50:28Z",
+  "data_criacao": "2026-07-27T14:50:28.121976-03:00"
+}

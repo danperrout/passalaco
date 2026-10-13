@@ -1,0 +1,29 @@
+{
+  "id": 10030,
+  "nome_original": "Rapunzel",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Adultos",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "lilás"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "luvas"
+    ],
+    "material_visual": "cetim e tecido com textura jacquard/estampado",
+    "estilo_corte": "estilo corset sem alças com saia curta em camadas",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "Versão moderna e estilizada da personagem Rapunzel, inspirada em trajes de princesas da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10030.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.06,
+  "data_analise": "2026-07-30T04:37:11Z",
+  "data_criacao": "2026-07-30T01:37:11.033464-03:00"
+}

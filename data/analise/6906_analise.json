@@ -1,0 +1,27 @@
+{
+  "id": 6906,
+  "nome_original": "Peruca Elsa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "loiro"
+    ],
+    "pecas_inclusas": [
+      "peruca",
+      "vestido"
+    ],
+    "material_visual": "fibra sintética e tecido com lantejoulas",
+    "estilo_corte": "peruca com trança lateral longa e vestido de mangas compridas",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Personagem Elsa do filme Frozen, Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6906.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.76,
+  "data_analise": "2026-07-30T03:19:51Z",
+  "data_criacao": "2026-07-30T00:19:51.384988-03:00"
+}

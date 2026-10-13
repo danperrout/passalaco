@@ -1,0 +1,28 @@
+{
+  "id": 1215,
+  "nome_original": "Princesa Dark",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido sintético fosco com detalhes em tule translúcido",
+    "estilo_corte": "corte reto com decote canoa e mangas longas",
+    "acessorios_visiveis": [
+      "tiara de flores roxas"
+    ],
+    "tematica_detalhada": "Estética gótica romântica, interpretando uma versão sombria de realeza ou princesa dark"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1215.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.96,
+  "data_analise": "2026-07-30T04:01:32Z",
+  "data_criacao": "2026-07-30T01:01:32.022235-03:00"
+}

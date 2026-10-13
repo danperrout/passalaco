@@ -1,0 +1,34 @@
+{
+  "id": 8267,
+  "nome_original": "Country",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "camisa xadrez",
+      "colete",
+      "calça",
+      "perneiras"
+    ],
+    "material_visual": "couro sintético e tecido xadrez",
+    "estilo_corte": "estilo western com franjas e corte reto",
+    "acessorios_visiveis": [
+      "chapéu de cowboy",
+      "cinto"
+    ],
+    "tematica_detalhada": "Fantasia de cowboy/country, referenciando a cultura do Velho Oeste americano"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8267.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 49.12,
+  "data_analise": "2026-07-28T02:13:46Z",
+  "data_criacao": "2026-07-27T23:13:46.253746-03:00"
+}

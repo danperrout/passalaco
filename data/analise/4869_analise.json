@@ -1,0 +1,32 @@
+{
+  "id": 4869,
+  "nome_original": "Coringa",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "verde",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "sobretudo",
+      "colete",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado no colete",
+    "estilo_corte": "alfaiataria clássica com corte longo e reto",
+    "acessorios_visiveis": [
+      "gravata"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Coringa (Joker), referenciando a estética de vilão clássico dos quadrinhos da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4869.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.14,
+  "data_analise": "2026-07-28T01:34:18Z",
+  "data_criacao": "2026-07-27T22:34:18.148306-03:00"
+}

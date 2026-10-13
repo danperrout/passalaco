@@ -1,0 +1,32 @@
+{
+  "id": 7460,
+  "nome_original": "Rei",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "dourado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "capa",
+      "calça"
+    ],
+    "material_visual": "cetim ou poliéster com brilho",
+    "estilo_corte": "estilo militar histórico com fechamento frontal decorativo",
+    "acessorios_visiveis": [
+      "coroa dourada com pedras azuis"
+    ],
+    "tematica_detalhada": "realeza clássica europeia, remetendo a reis de contos de fadas ou figuras históricas monárquicas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7460.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.78,
+  "data_analise": "2026-07-30T04:41:48Z",
+  "data_criacao": "2026-07-30T01:41:48.284806-03:00"
+}

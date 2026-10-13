@@ -1,0 +1,28 @@
+{
+  "id": 8591,
+  "nome_original": "Mascara",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Máscaras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prata",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "máscara"
+    ],
+    "material_visual": "plástico metalizado com penas sintéticas",
+    "estilo_corte": "máscara de carnaval veneziana com adornos em relevo",
+    "acessorios_visiveis": [
+      "penas pretas"
+    ],
+    "tematica_detalhada": "Carnaval de Veneza, baile de máscaras, estilo barroco/clássico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8591.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 113.8,
+  "data_analise": "2026-07-29T18:46:31Z",
+  "data_criacao": "2026-07-29T15:46:31.187437-03:00"
+}

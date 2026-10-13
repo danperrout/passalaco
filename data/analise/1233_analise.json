@@ -1,0 +1,33 @@
+{
+  "id": 1233,
+  "nome_original": "Principe",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético acetinado com adornos em passamanaria dourada",
+    "estilo_corte": "estilo militar clássico com gola alta e lapelas decoradas",
+    "acessorios_visiveis": [
+      "chapéu com pluma vermelha",
+      "botões decorativos",
+      "galões dourados"
+    ],
+    "tematica_detalhada": "fantasia de príncipe ou guarda real, com referências a uniformes militares cerimoniais europeus"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1233.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.52,
+  "data_analise": "2026-07-30T04:12:25Z",
+  "data_criacao": "2026-07-30T01:12:25.404347-03:00"
+}

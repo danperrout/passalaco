@@ -1,0 +1,28 @@
+{
+  "id": 4077,
+  "nome_original": "Coelhinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "tiara de orelhas"
+    ],
+    "material_visual": "tecido felpudo sintético imitando pele",
+    "estilo_corte": "macacão inteiro (kigurumi) de corte solto",
+    "acessorios_visiveis": [
+      "tiara com orelhas de coelho"
+    ],
+    "tematica_detalhada": "fantasia de coelho branco, focada em conforto e aparência fofa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4077.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.54,
+  "data_analise": "2026-07-27T23:48:45Z",
+  "data_criacao": "2026-07-27T20:48:45.111844-03:00"
+}

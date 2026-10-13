@@ -1,0 +1,30 @@
+{
+  "id": 962,
+  "nome_original": "Noiva do Dracula",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "véu",
+      "top",
+      "saia"
+    ],
+    "material_visual": "renda e tecido sintético com brilho",
+    "estilo_corte": "estilo gótico com saia curta e top ajustado",
+    "acessorios_visiveis": [
+      "véu de noiva preto"
+    ],
+    "tematica_detalhada": "Noiva do Drácula, representando uma noiva vampírica com estética gótica e sombria"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/962.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 36.35,
+  "data_analise": "2026-07-30T00:32:54Z",
+  "data_criacao": "2026-07-29T21:32:54.204927-03:00"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 19,
+  "nome_original": "Africana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "laranja",
+      "verde",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "touca/turbante"
+    ],
+    "material_visual": "tecido sintético leve com estampa colorida",
+    "estilo_corte": "túnica ampla e solta",
+    "acessorios_visiveis": [
+      "turbante"
+    ],
+    "tematica_detalhada": "representação estilizada de trajes africanos com padrões coloridos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/19.jpg",
+  "data_analise": "2026-07-27T13:37:08Z"
+}

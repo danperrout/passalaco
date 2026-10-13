@@ -1,0 +1,26 @@
+{
+  "id": 8659,
+  "nome_original": "Abobora",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "verde",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu cônico"
+    ],
+    "material_visual": "tecido sintético com brilho e texturas listradas",
+    "estilo_corte": "vestido curto com saia rodada e chapéu pontiagudo",
+    "acessorios_visiveis": [
+      "laço no chapéu"
+    ],
+    "tematica_detalhada": "fantasia temática de abóbora para Halloween ou festas infantis"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8659.jpg",
+  "data_analise": "2026-07-27T13:19:44Z"
+}

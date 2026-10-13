@@ -1,0 +1,34 @@
+{
+  "id": 4150,
+  "nome_original": "Capitã Pirata",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "blusa",
+      "calças",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com aparência de veludo ou poliéster e listras",
+    "estilo_corte": "estilo colonial com casaco longo e aberto, blusa com decote e calças listradas",
+    "acessorios_visiveis": [
+      "chapéu tricórnio",
+      "tapa-olho",
+      "peruca loira"
+    ],
+    "tematica_detalhada": "Capitã Pirata, inspirada na era dourada da pirataria com elementos clássicos de comando náutico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4150.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.41,
+  "data_analise": "2026-07-27T18:59:51Z",
+  "data_criacao": "2026-07-27T15:59:51.492598-03:00"
+}

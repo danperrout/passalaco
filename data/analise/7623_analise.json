@@ -1,0 +1,32 @@
+{
+  "id": 7623,
+  "nome_original": "Cosplay",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "azul royal",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "casaco longo",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com acabamento em cetim ou poliéster",
+    "estilo_corte": "estilo militar clássico com gola alta e corte reto",
+    "acessorios_visiveis": [
+      "bordados dourados",
+      "detalhes em vermelho"
+    ],
+    "tematica_detalhada": "estilo naval ou militar antigo, remetendo a uniformes de capitão ou personagens de fantasia épica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7623.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.06,
+  "data_analise": "2026-07-28T01:58:09Z",
+  "data_criacao": "2026-07-27T22:58:09.489042-03:00"
+}

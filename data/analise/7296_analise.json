@@ -1,0 +1,29 @@
+{
+  "id": 7296,
+  "nome_original": "Apresentadora de Circo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Circo",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaca",
+      "cartola",
+      "gravata borboleta"
+    ],
+    "material_visual": "tecido sintético com acabamentos acetinados e detalhes metálicos",
+    "estilo_corte": "casaca estruturada com cauda e lapelas contrastantes",
+    "acessorios_visiveis": [
+      "cartola",
+      "gravata borboleta",
+      "galões dourados"
+    ],
+    "tematica_detalhada": "Apresentador de Circo clássico / Mestre de Cerimônias"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7296.jpg",
+  "data_analise": "2026-07-27T14:12:10Z"
+}

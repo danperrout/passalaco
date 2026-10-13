@@ -1,0 +1,31 @@
+{
+  "id": 5053,
+  "nome_original": "Leao",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "pelúcia sintética e tecido felpudo",
+    "estilo_corte": "estilo kigurumi ou macacão infantil oversized",
+    "acessorios_visiveis": [
+      "laço de amarração",
+      "orelhas integradas"
+    ],
+    "tematica_detalhada": "fantasia de leão, representando o animal selvagem com foco em elementos fofos para crianças"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5053.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 164.33,
+  "data_analise": "2026-07-29T10:37:12Z",
+  "data_criacao": "2026-07-29T07:37:12.645705-03:00"
+}

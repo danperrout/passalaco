@@ -1,0 +1,31 @@
+{
+  "id": 6777,
+  "nome_original": "Sereia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul turquesa",
+      "bege",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia longa"
+    ],
+    "material_visual": "paetês, tule e elementos que imitam conchas",
+    "estilo_corte": "estilo sereia com top cropped e saia justa que abre na barra",
+    "acessorios_visiveis": [
+      "tiara de conchas",
+      "colar de pérolas"
+    ],
+    "tematica_detalhada": "Fantasia de sereia inspirada em elementos marinhos e na personagem Ariel"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6777.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.24,
+  "data_analise": "2026-07-30T06:19:42Z",
+  "data_criacao": "2026-07-30T03:19:42.179544-03:00"
+}

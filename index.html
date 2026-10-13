@@ -3,166 +3,127 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Passa Laço Fantasias Festivas</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="theme-color" content="#fff8f1">
+    <title>Passa Laço Fantasias — Aluguel de fantasias</title>
+    <meta name="description" content="Catálogo de aluguel de fantasias da Passa Laço. Busque por nome, código ou categoria.">
     <link rel="icon" type="image/png" href="assets/favicon.png">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/styles.css">
-    <style>
-        /* Estilos inline do seu HTML original (cores customizadas) */
-        .header-custom-bg {
-            background-color: #FFFAF0;
-        }
-
-        .header-title-custom {
-            color: #E53935;
-        }
-
-        .header-subtitle-custom {
-            color: #FB8C00;
-        }
-
-        .label-custom-color {
-            color: #00796B;
-        }
-
-        .modal-title-custom {
-            color: #D81B60;
-        }
-
-        .modal-text-primary-custom {
-            color: #00695C;
-        }
-
-        .modal-text-secondary-custom {
-            color: #FFA000;
-        }
-
-        .logo-img {
-            max-width: 350px;
-            width: 100%;
-            height: auto;
-        }
-    </style>
 </head>
 
-<body class="p-4 sm:p-6 md:p-8">
+<body>
+    <div id="scrollSentinel" class="scroll-sentinel" aria-hidden="true"></div>
 
-    <header class="mb-6 py-6 header-custom-bg shadow-lg rounded-lg text-center">
-        <img src="https://www.passalaco.com.br/img/passalaco.png" alt="Logo Passa-laço - Catálogo de Fantasias"
-            class="mx-auto mb-4 logo-img">
-        <h1 class="text-3xl sm:text-4xl font-bold header-title-custom">Passa Laço Fantasias</h1>
-        <p class="header-subtitle-custom mt-2 text-sm sm:text-base">Encontre a fantasia perfeita para a sua festa!</p>
-        <p id="catalogoAtualizadoEm" class="mt-1 text-xs text-gray-400"></p>
+    <header id="topbar" class="topbar">
+        <div class="topbar-inner">
+            <a class="brand" href="./" aria-label="Passa Laço Fantasias — início">
+                <img src="https://www.passalaco.com.br/img/passalaco.png" alt="Passa Laço Fantasias" width="530"
+                    height="150">
+            </a>
+
+            <label class="search" for="searchNome">
+                <svg class="search-icon" viewBox="0 0 20 20" aria-hidden="true">
+                    <path d="M8.5 3a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64a.75.75 0 1 1-1.06 1.06l-3.64-3.65A5.5 5.5 0 1 1 8.5 3Zm0 1.5a4 4 0 1 0 0 8 4 4 0 0 0 0-8Z" />
+                </svg>
+                <span class="sr-only">Buscar por nome ou código</span>
+                <input type="search" id="searchNome" placeholder="Buscar" autocomplete="off"
+                    spellcheck="false" enterkeyhint="search">
+                <button type="button" id="searchClear" class="search-clear" aria-label="Limpar busca" hidden>
+                    <svg viewBox="0 0 16 16" aria-hidden="true">
+                        <circle cx="8" cy="8" r="7" />
+                        <path d="M5.5 5.5l5 5M10.5 5.5l-5 5" />
+                    </svg>
+                </button>
+            </label>
+
+            <button type="button" id="randomSearchButton" class="btn btn-tinted" aria-label="Estou sem ideia — sortear uma fantasia">
+                <span aria-hidden="true">🎲</span><span class="btn-label">Estou sem ideia</span>
+            </button>
+        </div>
     </header>
 
-    <div id="layoutWrapper" class="flex gap-4 items-start">
+    <div class="layout">
+        <nav id="categorySidebar" class="sidebar" aria-label="Categorias">
+            <h2 class="sidebar-title">Categorias</h2>
+            <ul id="sidebarCategoryList" class="cat-list"></ul>
+        </nav>
 
-    <!-- Sidebar de Categorias -->
-    <aside id="categorySidebar">
-        <div id="sidebarInner">
-            <div class="sidebar-header">
-                <span class="sidebar-title">Categorias</span>
-                <button id="sidebarToggleBtn" title="Recolher">&#8249;</button>
-            </div>
-            <ul id="sidebarCategoryList"></ul>
-        </div>
-    </aside>
+        <main id="mainContent" class="content">
+            <h1 class="sr-only">Passa Laço — aluguel de fantasias</h1>
+            <div id="homeView" class="home" hidden></div>
 
-    <div id="mainWrapper" class="flex-1 min-w-0">
+            <div id="catalogView">
+            <div class="page-head">
+                <p id="pageEyebrow" class="eyebrow">Aluguel de fantasias</p>
+                <h2 id="pageTitle" class="large-title">Fantasias</h2>
+                <p id="resultsCount" class="results-count" aria-live="polite"></p>
+            </div>
 
-    <div id="filterInputArea" class="mb-6 p-4 bg-white rounded-lg shadow-md">
-        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-x-4 gap-y-3 items-end">
-            <div>
-                <label for="searchNome" class="block text-sm font-medium label-custom-color mb-1">Buscar por Nome ou
-                    ID:</label>
-                <input type="text" id="searchNome" class="filter-input-base" placeholder="Ex: Abelha, 123">
+            <div class="toolbar">
+                <div id="filterSexo" class="segmented" role="radiogroup" aria-label="Sexo"></div>
+                <div id="filterTipo" class="segmented" role="radiogroup" aria-label="Tipo"></div>
+                <label class="popup">
+                    <span class="sr-only">Ordenar</span>
+                    <select id="sortSelect">
+                        <option value="default">Ordem padrão</option>
+                        <option value="name-asc">Nome (A–Z)</option>
+                        <option value="name-desc">Nome (Z–A)</option>
+                        <option value="views">Mais vistas</option>
+                    </select>
+                </label>
+                <button type="button" id="clearFiltersButton" class="btn-plain" hidden>Limpar filtros</button>
             </div>
-            <div>
-                <label for="filterCategoria"
-                    class="block text-sm font-medium label-custom-color mb-1">Categoria:</label>
-                <select id="filterCategoria" class="filter-input-base filter-select">
-                    <option value="">Todas as Categorias</option>
-                </select>
+
+            <div id="noResultsMessage" class="empty" hidden>
+                <p class="empty-title">Nenhuma fantasia encontrada</p>
+                <p class="empty-text">Tente outra busca ou remova alguns filtros.</p>
+                <button type="button" id="emptyClearButton" class="btn btn-tinted">Limpar filtros</button>
             </div>
-            <div class="sm:col-span-1 md:col-span-2 lg:col-span-1"> <label
-                    class="block text-sm font-medium label-custom-color mb-1">Sexo:</label>
-                <div id="filterSexoCheckboxes" class="mt-1 flex flex-wrap gap-x-4 gap-y-1"></div>
+
+            <div id="costumeContainer" class="grid"></div>
+
+            <nav id="paginationContainer" class="pagination" aria-label="Páginas"></nav>
             </div>
-            <div class="sm:col-span-1 md:col-span-2 lg:col-span-1"> <label
-                    class="block text-sm font-medium label-custom-color mb-1">Tipo:</label>
-                <div id="filterTipoCheckboxes" class="mt-1 flex flex-wrap gap-x-4 gap-y-1"></div>
-            </div>
-        </div>
+        </main>
     </div>
 
-    <div id="sortAndClearControls" class="mb-4 flex flex-col sm:flex-row justify-center items-center gap-4">
-        <div class="sort-buttons-container"> <button id="sortByNameButton" class="btn btn-secondary font-semibold">
-                <span class="btn-text">Ordenar por Nome (A-Z)</span>
-                <span class="btn-loader-icon hidden"></span>
-            </button>
-            <button id="sortByViewsButton" class="btn btn-secondary font-semibold">
-                <span class="btn-text">Ordenar por Mais Vistas</span>
-                <span class="btn-loader-icon hidden"></span>
-            </button>
-        </div>
-        <div> <button id="clearFiltersButton" class="btn btn-danger font-semibold">
-                <span class="btn-text">Limpar Filtros</span>
-                <span class="btn-loader-icon hidden"></span>
-            </button>
-        </div>
-    </div>
+    <footer class="footer">
+        <p id="catalogoAtualizadoEm"></p>
+        <p><a href="https://www.passalaco.com.br">passalaco.com.br</a></p>
+    </footer>
 
-    <div id="resultsCount" class="results-count mb-4"></div>
-    <div id="customStickyBar" class="p-2 sm:p-3 shadow-md">
-        <div class="max-w-7xl mx-auto px-2 sm:px-4 lg:px-6 flex justify-between items-center">
-            <div id="activeFiltersDisplay" class="active-filters-display text-xs sm:text-sm flex-grow mr-2 sm:mr-4">
+    <div id="costumeModal" class="sheet-root" hidden>
+        <div id="sheetScrim" class="scrim"></div>
+        <div id="sheet" class="sheet" role="dialog" aria-modal="true" aria-labelledby="modalName">
+            <div class="sheet-grabber" aria-hidden="true"></div>
+            <button type="button" id="modalCloseButton" class="sheet-close" aria-label="Fechar">
+                <svg viewBox="0 0 12 12" aria-hidden="true">
+                    <path d="M2 2l8 8M10 2l-8 8" />
+                </svg>
+            </button>
+            <div class="sheet-media">
+                <img id="modalImage" alt="" draggable="false">
+                <p id="modalImagePlaceholder" class="media-placeholder" hidden>Imagem não disponível</p>
             </div>
-            <button id="randomSearchButton"
-                class="btn btn-primary py-1.5 px-3 text-xs sm:text-sm font-semibold flex-shrink-0">
-                <span class="btn-text">Estou sem ideia! 🤷‍♀️</span>
-                <span class="btn-loader-icon hidden"></span>
-            </button>
-        </div>
-    </div>
-
-    <div id="mainContent" class="mt-4">
-        <div id="paginationContainerTop" class="pagination-container mb-4"></div>
-        <div id="noResultsMessage" class="no-results hidden">
-            Nenhuma fantasia encontrada com os filtros selecionados. Tente outras opções!
-        </div>
-        <div id="costumeContainer" class="card-container"></div>
-        <div id="paginationContainerBottom" class="pagination-container"></div>
-        <div id="loadingIndicator" class="loader hidden"></div>
-        <div id="errorMessage" class="error-message hidden"></div>
-    </div>
-
-    </div> <!-- fim mainWrapper -->
-    </div> <!-- fim layoutWrapper -->
-
-    <div id="costumeModal" class="modal-overlay">
-        <div class="modal-content relative">
-            <button id="modalCloseButton" class="modal-close-button" aria-label="Fechar modal">&times;</button>
-            <div class="modal-image-container">
-                <img id="modalImage" src="" alt="[Imagem da fantasia ampliada]" class="modal-image">
-                <div id="modalImagePlaceholder" class="modal-image-placeholder hidden">Imagem não disponível</div>
-            </div>
-            <div class="modal-details">
-                <h3 id="modalName" class="text-2xl font-bold modal-title-custom mb-3"></h3>
-                <p class="text-sm modal-text-primary-custom mb-1"><span class="font-semibold">Categoria:</span> <span
-                        id="modalCategoria"></span></p>
-                <p class="text-sm modal-text-primary-custom mb-1"><span class="font-semibold">Sexo:</span> <span
-                        id="modalSexo"></span></p>
-                <p class="text-sm modal-text-primary-custom mb-3"><span class="font-semibold">Tipo:</span> <span
-                        id="modalTipo"></span></p>
-                <p class="text-xs modal-text-secondary-custom mb-1"><span class="font-semibold">ID:</span> <span
-                        id="modalId"></span>
-                </p>
-                <p class="text-xs modal-text-secondary-custom mb-1"><span class="font-semibold">Visualizações no
-                        Card:</span> <span id="modalViewCount"></span></p>
-                <p class="text-xs modal-text-secondary-custom"><span class="font-semibold">Cliques na Foto:</span> <span
-                        id="modalClickCount"></span></p>
+            <div class="sheet-details">
+                <p id="modalCategoria" class="eyebrow"></p>
+                <h2 id="modalName" class="sheet-title"></h2>
+                <p id="modalDescricao" class="sheet-about" hidden></p>
+                <ul id="modalCores" class="color-chips" aria-label="Cores" hidden></ul>
+                <dl class="specs">
+                    <div><dt>Código</dt><dd id="modalId"></dd></div>
+                    <div><dt>Sexo</dt><dd id="modalSexo"></dd></div>
+                    <div><dt>Tipo</dt><dd id="modalTipo"></dd></div>
+                    <div id="modalMaterialRow" hidden><dt>Material</dt><dd id="modalMaterial"></dd></div>
+                    <div id="modalCorteRow" hidden><dt>Modelagem</dt><dd id="modalCorte"></dd></div>
+                </dl>
+                <div id="modalItensSection" class="sheet-section" hidden>
+                    <h3 class="sheet-section-title">Itens que aparecem na foto</h3>
+                    <ul id="modalItens" class="item-chips"></ul>
+                </div>                <p class="stats"><span id="modalViewCount"></span> · <span id="modalClickCount"></span></p>
+                <button type="button" id="sheetAnotherButton" class="btn btn-tinted sheet-another" hidden>
+                    <span aria-hidden="true">🎲</span> Sortear outra
+                </button>
             </div>
         </div>
     </div>

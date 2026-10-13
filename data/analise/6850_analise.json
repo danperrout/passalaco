@@ -1,0 +1,30 @@
+{
+  "id": 6850,
+  "nome_original": "Coelhinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia tutu",
+      "tiara"
+    ],
+    "material_visual": "tule e cetim",
+    "estilo_corte": "estilo bailarina com saia volumosa e top com babados",
+    "acessorios_visiveis": [
+      "tiara com orelhas de coelho e laço"
+    ],
+    "tematica_detalhada": "Fantasia de coelhinha infantil, com estética delicada e referências a personagens de contos de fadas ou festas temáticas de Páscoa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6850.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 100.0,
+  "data_analise": "2026-07-28T00:05:34Z",
+  "data_criacao": "2026-07-27T21:05:34.941200-03:00"
+}

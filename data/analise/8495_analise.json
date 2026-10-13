@@ -1,0 +1,31 @@
+{
+  "id": 8495,
+  "nome_original": "Formula I",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão curto",
+      "boné"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente poliéster ou cetim",
+    "estilo_corte": "estilo macaquinho justo com gola alta e mangas curtas",
+    "acessorios_visiveis": [
+      "boné",
+      "cinto com estampa de bandeira quadriculada"
+    ],
+    "tematica_detalhada": "Piloto de Fórmula 1, com referências claras à equipe Scuderia Ferrari devido à cor vermelha e ao logotipo do cavalo rampante"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8495.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.05,
+  "data_analise": "2026-07-28T06:12:53Z",
+  "data_criacao": "2026-07-28T03:12:53.766117-03:00"
+}

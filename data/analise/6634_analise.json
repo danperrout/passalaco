@@ -1,0 +1,27 @@
+{
+  "id": 6634,
+  "nome_original": "Alemao",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "blusa",
+      "vestido/saia com suspensório"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "estilo dirndl tradicional",
+    "acessorios_visiveis": [
+      "chapéu cônico"
+    ],
+    "tematica_detalhada": "fantasia típica alemã"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6634.jpg",
+  "data_analise": "2026-07-27T13:44:11Z"
+}

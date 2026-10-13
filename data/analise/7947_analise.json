@@ -1,0 +1,30 @@
+{
+  "id": 7947,
+  "nome_original": "India",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "short"
+    ],
+    "material_visual": "tecido acetinado com brilho, franjas e plumas",
+    "estilo_corte": "estilo túnica solta com acabamento em franjas e shorts curtos",
+    "acessorios_visiveis": [
+      "cocar de penas",
+      "colar"
+    ],
+    "tematica_detalhada": "Fantasia estilizada de indígena, com referências genéricas a culturas nativas americanas, focada em estética festiva/carnavalesca"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7947.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 198.02,
+  "data_analise": "2026-07-28T15:43:29Z",
+  "data_criacao": "2026-07-28T12:43:29.610657-03:00"
+}

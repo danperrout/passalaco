@@ -1,0 +1,32 @@
+{
+  "id": 1230,
+  "nome_original": "Principe",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "camisa",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "estilo imperial com gola estruturada e punhos com babados",
+    "acessorios_visiveis": [
+      "chapéu com pluma"
+    ],
+    "tematica_detalhada": "fantasia de príncipe clássico ou nobreza europeia, com referências a trajes de gala históricos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1230.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.64,
+  "data_analise": "2026-07-30T04:05:39Z",
+  "data_criacao": "2026-07-30T01:05:39.849541-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 8242,
+  "nome_original": "Gangster",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "paletó",
+      "camiseta"
+    ],
+    "material_visual": "tecido sintético com detalhes em paetês ou glitter",
+    "estilo_corte": "paletó de corte reto com lapelas largas e chapéu estilo fedora",
+    "acessorios_visiveis": [
+      "corrente dourada",
+      "pingente de cifrão",
+      "faixa decorativa no chapéu"
+    ],
+    "tematica_detalhada": "Gangster moderno ou ostentação, com referências à cultura hip-hop e máfia estilizada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8242.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 169.77,
+  "data_analise": "2026-07-28T06:54:50Z",
+  "data_criacao": "2026-07-28T03:54:50.812013-03:00"
+}

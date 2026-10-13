@@ -1,0 +1,30 @@
+{
+  "id": 9732,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia de tutu"
+    ],
+    "material_visual": "tule, paetês e tecidos sintéticos brilhantes",
+    "estilo_corte": "estilo bailarina com top ajustado e saia volumosa curta",
+    "acessorios_visiveis": [
+      "tiara decorativa com pompom rosa"
+    ],
+    "tematica_detalhada": "Carnaval festivo com estética de fantasia colorida, remetendo a temas de circo, festa infantil ou personagem lúdico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9732.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.16,
+  "data_analise": "2026-07-27T19:24:25Z",
+  "data_criacao": "2026-07-27T16:24:25.432723-03:00"
+}

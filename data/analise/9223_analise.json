@@ -1,0 +1,31 @@
+{
+  "id": 9223,
+  "nome_original": "Caipira",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "vermelho",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "camisa xadrez",
+      "chapéu de palha"
+    ],
+    "material_visual": "tecido de sarja, algodão xadrez e palha natural",
+    "estilo_corte": "corte rústico com remendos aplicados e modelagem folgada",
+    "acessorios_visiveis": [
+      "chapéu de palha com adornos"
+    ],
+    "tematica_detalhada": "estética de caipira brasileiro, referenciando as festas juninas e a cultura rural"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9223.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.99,
+  "data_analise": "2026-07-27T18:48:16Z",
+  "data_criacao": "2026-07-27T15:48:16.731651-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 9141,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "lantejoulas",
+    "estilo_corte": "ajustado ao corpo com alças finas",
+    "acessorios_visiveis": [
+      "auréola radiante",
+      "flores vermelhas na cabeça"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em elementos celestiais ou divindades, com referências a auréolas solares e estética de carnaval luxuosa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9141.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.19,
+  "data_analise": "2026-07-27T19:21:21Z",
+  "data_criacao": "2026-07-27T16:21:21.990119-03:00"
+}

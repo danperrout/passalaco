@@ -1,0 +1,31 @@
+{
+  "id": 4094,
+  "nome_original": "Marinheira",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul marinho"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "estilo escolar japonês com saia plissada e gola marinheira",
+    "acessorios_visiveis": [
+      "chapéu de marinheiro",
+      "laço no pescoço"
+    ],
+    "tematica_detalhada": "fantasia de marinheira inspirada em uniformes navais e estética anime/cosplay"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4094.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 127.65,
+  "data_analise": "2026-07-29T17:51:11Z",
+  "data_criacao": "2026-07-29T14:51:11.347962-03:00"
+}

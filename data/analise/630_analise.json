@@ -1,0 +1,28 @@
+{
+  "id": 630,
+  "nome_original": "Fiona",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde escuro",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido sintético com detalhes em brilho/lurex",
+    "estilo_corte": "vestido de corte medieval com mangas longas e decote quadrado",
+    "acessorios_visiveis": [
+      "tiara dourada"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Princesa Fiona do filme Shrek, inspirada em trajes reais medievais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/630.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 48.12,
+  "data_analise": "2026-07-28T05:59:29Z",
+  "data_criacao": "2026-07-28T02:59:29.850192-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 9022,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido xadrez com detalhes em renda e fitas coloridas",
+    "estilo_corte": "estilo camponesa com saia rodada e mangas bufantes",
+    "acessorios_visiveis": [
+      "chapéu de palha"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, referenciando a cultura caipira com elementos como fogueira e casinha decorativa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9022.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 111.54,
+  "data_analise": "2026-07-28T23:38:31Z",
+  "data_criacao": "2026-07-28T20:38:31.103229-03:00"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 8415,
+  "nome_original": "Morte",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica com capuz"
+    ],
+    "material_visual": "tecido sintético fosco com detalhes em renda ou bordado",
+    "estilo_corte": "estilo túnica longa e ampla com mangas largas e capuz",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia de Morte ou Ceifador, referenciando a personificação da morte no folclore ocidental"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8415.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 55.81,
+  "data_analise": "2026-07-29T23:05:09Z",
+  "data_criacao": "2026-07-29T20:05:09.609448-03:00"
+}

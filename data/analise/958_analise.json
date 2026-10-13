@@ -1,0 +1,30 @@
+{
+  "id": 958,
+  "nome_original": "Nhonho",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde escuro",
+      "verde esmeralda"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga longa",
+      "salopete/jardineira"
+    ],
+    "material_visual": "cetim ou tecido sintético com brilho",
+    "estilo_corte": "corte largo e folgado, estilo infantil/retrô",
+    "acessorios_visiveis": [
+      "gola com detalhes brancos",
+      "laço no pescoço"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Nhonho, do seriado Chaves, caracterizada por roupas verdes e estilo anacrônico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/958.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 33.95,
+  "data_analise": "2026-07-29T23:36:08Z",
+  "data_criacao": "2026-07-29T20:36:08.171098-03:00"
+}

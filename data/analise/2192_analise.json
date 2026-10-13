@@ -1,0 +1,24 @@
+{
+  "id": 2192,
+  "nome_original": "Alice",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecidos leves, possivelmente tule ou organza com detalhes brilhantes",
+    "estilo_corte": "estilo princesa com saia volumosa e camadas",
+    "acessorios_visiveis": [
+      "tiara azul"
+    ],
+    "tematica_detalhada": "Alice no País das Maravilhas com abordagem estilizada e fantasiosa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2192.jpg",
+  "data_analise": "2026-07-27T13:47:32Z"
+}

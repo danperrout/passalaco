@@ -1,0 +1,32 @@
+{
+  "id": 6911,
+  "nome_original": "Casaco de Pirata",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "lenço/bandana",
+      "tapa-olho"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco e detalhes metálicos",
+    "estilo_corte": "casaco longo com abertura frontal e adornos horizontais",
+    "acessorios_visibles": [
+      "tapa-olho",
+      "bandana vermelha"
+    ],
+    "tematica_detalhada": "pirata clássico, com referências a capitães de navio e arquétipos de navegação antiga"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6911.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.74,
+  "data_analise": "2026-07-27T19:30:06Z",
+  "data_criacao": "2026-07-27T16:30:06.706571-03:00"
+}

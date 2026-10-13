@@ -1,0 +1,31 @@
+{
+  "id": 4609,
+  "nome_original": "Star Wars Anakin",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "capa com capuz",
+      "calças",
+      "botas"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "estilo túnica com corte reto e camadas sobrepostas",
+    "acessorios_visiveis": [
+      "cinto"
+    ],
+    "tematica_detalhada": "Fantasia baseada no personagem Anakin Skywalker da franquia Star Wars, representando a vestimenta típica de um Jedi."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4609.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.91,
+  "data_analise": "2026-07-30T07:17:44Z",
+  "data_criacao": "2026-07-30T04:17:44.878207-03:00"
+}

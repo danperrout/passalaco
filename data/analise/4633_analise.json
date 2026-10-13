@@ -1,0 +1,33 @@
+{
+  "id": 4633,
+  "nome_original": "Dança do Ventre",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Danças",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "dourado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia",
+      "tiara"
+    ],
+    "material_visual": "tecido acetinado com aplicações de lantejoulas, miçangas e franjas de contas",
+    "estilo_corte": "estilo belly dance com top cropped e saia curta com recortes e franjas",
+    "acessorios_visiveis": [
+      "tiara ornamentada",
+      "colar integrado",
+      "cinto decorativo"
+    ],
+    "tematica_detalhada": "Fantasia de Dança do Ventre com inspiração oriental e elementos de carnaval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4633.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 73.06,
+  "data_analise": "2026-07-28T02:44:41Z",
+  "data_criacao": "2026-07-27T23:44:41.567742-03:00"
+}

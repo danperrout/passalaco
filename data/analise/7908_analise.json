@@ -1,0 +1,29 @@
+{
+  "id": 7908,
+  "nome_original": "Mulher Gato",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "calça"
+    ],
+    "material_visual": "material sintético com aspecto de couro ou vinil",
+    "estilo_corte": "ajustado ao corpo com recortes vazados e tiras transversais",
+    "acessorios_visiveis": [
+      "máscara de gato",
+      "cinto"
+    ],
+    "tematica_detalhada": "fantasia de Mulher Gato, inspirada na personagem dos quadrinhos DC Comics com estética sensual e moderna"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7908.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.18,
+  "data_analise": "2026-07-29T23:18:41Z",
+  "data_criacao": "2026-07-29T20:18:41.106738-03:00"
+}

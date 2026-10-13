@@ -1,0 +1,31 @@
+{
+  "id": 9469,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "amarelo",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "plástico ou material sintético colorido em tiras",
+    "estilo_corte": "vestido curto com decote frente única e cintura marcada",
+    "acessorios_visiveis": [
+      "chapéu de palha com adornos vermelhos"
+    ],
+    "tematica_detalhada": "Festa Junina estilizada, com referências a bandeirinhas coloridas típicas de celebrações regionais brasileiras"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9469.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.96,
+  "data_analise": "2026-07-29T01:20:11Z",
+  "data_criacao": "2026-07-28T22:20:11.173832-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 5449,
+  "nome_original": "Urso",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "pelúcia macia",
+    "estilo_corte": "folgado / oversized",
+    "acessorios_visiveis": [
+      "orelhas de urso",
+      "cordão de ajuste"
+    ],
+    "tematica_detalhada": "fantasia de urso pardo, com estilo infantil ou pijama kigurumi"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5449.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.53,
+  "data_analise": "2026-07-30T08:42:42Z",
+  "data_criacao": "2026-07-30T05:42:42.456676-03:00"
+}

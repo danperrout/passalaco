@@ -1,0 +1,26 @@
+{
+  "id": 9409,
+  "nome_original": "Anos 70",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prata",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "turbante"
+    ],
+    "material_visual": "tecido metálico brilhante e laminado",
+    "estilo_corte": "vestido midi com cintura marcada e saia fluida",
+    "acessorios_visiveis": [
+      "cinto prateado",
+      "turbante"
+    ],
+    "tematica_detalhada": "moda futurista inspirada nos anos 70 (Space Age)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9409.jpg",
+  "data_analise": "2026-07-27T14:06:43Z"
+}

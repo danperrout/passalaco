@@ -1,0 +1,32 @@
+{
+  "id": 889,
+  "nome_original": "Exercito",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "marrom",
+      "preto",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "saia",
+      "boné"
+    ],
+    "material_visual": "tecido sintético com estampa camuflada",
+    "estilo_corte": "conjunto feminino composto por jaqueta curta com gola e saia rodada",
+    "acessorios_visiveis": [
+      "boné militar"
+    ],
+    "tematica_detalhada": "fantasia temática de exército/militar com abordagem estilizada e feminina"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/889.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.69,
+  "data_analise": "2026-07-28T04:21:05Z",
+  "data_criacao": "2026-07-28T01:21:05.073165-03:00"
+}

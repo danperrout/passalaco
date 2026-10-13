@@ -1,0 +1,27 @@
+{
+  "id": 9584,
+  "nome_original": "Capuz da Fera",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "marrom",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "capuz"
+    ],
+    "material_visual": "pelúcia sintética de fios longos",
+    "estilo_corte": "formato arredondado e volumoso",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia de criatura animal ou mística, referenciando a Fera ou um animal peludo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9584.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.7,
+  "data_analise": "2026-07-27T19:18:45Z",
+  "data_criacao": "2026-07-27T16:18:45.726749-03:00"
+}

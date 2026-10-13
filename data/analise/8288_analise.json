@@ -1,0 +1,30 @@
+{
+  "id": 8288,
+  "nome_original": "Corujita",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "blusa de manga longa",
+      "calça",
+      "máscara",
+      "capa"
+    ],
+    "material_visual": "tecido sintético com textura levemente brilhante ou canelada",
+    "estilo_corte": "conjunto casual com ajuste reto e capelet preso ao pescoço",
+    "acessorios_visiveis": [
+      "máscara de olho"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Corujita (Owlette) da animação PJ Masks"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8288.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 50.37,
+  "data_analise": "2026-07-28T01:53:39Z",
+  "data_criacao": "2026-07-27T22:53:39.525978-03:00"
+}

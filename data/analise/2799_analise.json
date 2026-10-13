@@ -1,0 +1,29 @@
+{
+  "id": 2799,
+  "nome_original": "Indio",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga longa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte reto com detalhes em franjas",
+    "acessorios_visiveis": [
+      "tiara com pena"
+    ],
+    "tematica_detalhada": "fantasia estereotipada de indígena norte-americano"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2799.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 244.34,
+  "data_analise": "2026-07-28T17:15:44Z",
+  "data_criacao": "2026-07-28T14:15:44.163035-03:00"
+}

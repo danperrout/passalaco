@@ -1,0 +1,29 @@
+{
+  "id": 7404,
+  "nome_original": "The Flash Luxo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Dourado"
+    ],
+    "pecas_inclusas": [
+      "Macacão",
+      "Máscara"
+    ],
+    "material_visual": "Tecido sintético com acabamento brilhante e estampas texturizadas",
+    "estilo_corte": "Ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "Símbolo do raio no peito"
+    ],
+    "tematica_detalhada": "Super-herói The Flash, inspirado nos quadrinhos e filmes da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7404.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.79,
+  "data_analise": "2026-07-30T07:45:40Z",
+  "data_criacao": "2026-07-30T04:45:40.561073-03:00"
+}

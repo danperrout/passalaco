@@ -1,0 +1,29 @@
+{
+  "id": 8166,
+  "nome_original": "Lol",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido com brilhos/glitter e tule",
+    "estilo_corte": "modelo ombro a ombro com saia em camadas franzidas",
+    "acessorios_visiveis": [
+      "tiara com pompons dourados",
+      "peruca castanha"
+    ],
+    "tematica_detalhada": "Fantasia inspirada nas bonecas L.O.L. Surprise, focada em estilo fashionista e glamourosa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8166.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 124.07,
+  "data_analise": "2026-07-29T12:18:30Z",
+  "data_criacao": "2026-07-29T09:18:30.008537-03:00"
+}

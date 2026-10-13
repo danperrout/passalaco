@@ -1,0 +1,31 @@
+{
+  "id": 2109,
+  "nome_original": "Harry Potter",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vinho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz",
+      "cachecol"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "túnica longa e fluida com mangas largas",
+    "acessorios_visiveis": [
+      "óculos redondos",
+      "varinha"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Harry Potter, referenciando o uniforme da casa Gryffindor da Escola de Magia e Bruxaria de Hogwarts"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2109.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 111.1,
+  "data_analise": "2026-07-28T12:21:47Z",
+  "data_criacao": "2026-07-28T09:21:47.246839-03:00"
+}

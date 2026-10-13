@@ -1,0 +1,30 @@
+{
+  "id": 4301,
+  "nome_original": "Noiva",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "véu"
+    ],
+    "material_visual": "tecido sintético com aplicações de miçangas, glitter e renda",
+    "estilo_corte": "curto, com decote arredondado e mangas curtas",
+    "acessorios_visiveis": [
+      "tiara",
+      "buquê de flores"
+    ],
+    "tematica_detalhada": "Noiva estilizada, com referências a fantasias festivas ou de carnaval, apresentando elementos decorativos coloridos e brilhos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4301.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 36.42,
+  "data_analise": "2026-07-29T23:58:21Z",
+  "data_criacao": "2026-07-29T20:58:21.968310-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 10074,
+  "nome_original": "Pirata",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Piratas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "corselete",
+      "saia curta com babados",
+      "chapéu"
+    ],
+    "material_visual": "cetim sintético e renda",
+    "estilo_corte": "estilo corset com decote ombro a ombro e saia assimétrica em camadas",
+    "acessorios_visiveis": [
+      "chapéu de pirata com detalhe em renda branca"
+    ],
+    "tematica_detalhada": "Pirata estilizada com influência gótica e sensual, remetendo a uma versão moderna e feminina de capitã pirata"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10074.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.37,
+  "data_analise": "2026-07-30T03:41:44Z",
+  "data_criacao": "2026-07-30T00:41:44.761828-03:00"
+}

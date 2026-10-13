@@ -1,0 +1,31 @@
+{
+  "id": 3311,
+  "nome_original": "Paleto",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "shorts"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "paletó oversized e shorts curtos",
+    "acessorios_visiveis": [
+      "óculos de sol",
+      "peruca",
+      "pochete"
+    ],
+    "tematica_detalhada": "Estilo retrô/kitsch dos anos 80 ou 90, remetendo a personagens cômicos ou figurinos exagerados de época"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3311.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.62,
+  "data_analise": "2026-07-30T01:27:11Z",
+  "data_criacao": "2026-07-29T22:27:11.572769-03:00"
+}

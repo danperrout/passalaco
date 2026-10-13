@@ -1,0 +1,27 @@
+{
+  "id": 5550,
+  "nome_original": "The Flash",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "calcinha/cueca"
+    ],
+    "material_visual": "tecido sintético ou algodão com elastano",
+    "estilo_corte": "conjunto infantil casual",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Personagem The Flash da DC Comics, caracterizado pelo raio amarelo no peito e na cintura"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5550.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.5,
+  "data_analise": "2026-07-30T07:44:22Z",
+  "data_criacao": "2026-07-30T04:44:22.434489-03:00"
+}

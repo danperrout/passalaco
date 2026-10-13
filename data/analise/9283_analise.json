@@ -1,0 +1,30 @@
+{
+  "id": 9283,
+  "nome_original": "It a Coisa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético acetinado",
+    "estilo_corte": "estilo baby-doll com babados e cintura marcada",
+    "acessorios_visiveis": [
+      "peruca laranja",
+      "pompons vermelhos"
+    ],
+    "tematica_detalhada": "Versão feminilizada do personagem Pennywise, do filme It a Coisa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9283.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 78.89,
+  "data_analise": "2026-07-28T17:34:25Z",
+  "data_criacao": "2026-07-28T14:34:25.626636-03:00"
+}

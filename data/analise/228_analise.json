@@ -1,0 +1,28 @@
+{
+  "id": 228,
+  "nome_original": "Bela",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido com glitter, tule e detalhes em renda",
+    "estilo_corte": "estilo princesa com cintura marcada e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara dourada"
+    ],
+    "tematica_detalhada": "Personagem Bela do filme A Bela e a Besta, referência a trajes de baile reais/clássicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/228.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.05,
+  "data_analise": "2026-07-27T17:52:59Z",
+  "data_criacao": "2026-07-27T14:52:59.532939-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 5099,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "amarelo",
+      "verde",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético estampado com fitas de cetim e rendas",
+    "estilo_corte": "estilo caipira com mangas bufantes, cintura marcada e saia rodada com babados",
+    "acessorios_visiveis": [
+      "tiara com laço e tranças decorativas"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina, representando a figura da caipira estilizada, com referências ao folclore rural brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5099.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 128.48,
+  "data_analise": "2026-07-28T23:10:32Z",
+  "data_criacao": "2026-07-28T20:10:32.696697-03:00"
+}

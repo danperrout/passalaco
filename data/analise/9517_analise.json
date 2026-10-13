@@ -1,0 +1,30 @@
+{
+  "id": 9517,
+  "nome_original": "Princesa Asha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "lilás",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "cinto"
+    ],
+    "material_visual": "tecido sintético com aspecto de linho ou poliéster",
+    "estilo_corte": "corte evasê com mangas longas e detalhe de amarração frontal no decote",
+    "acessorios_visiveis": [
+      "colar de contas",
+      "cinto com bolsa lateral"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Asha do filme Wish da Disney, com referências a trajes camponeses estilizados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9517.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.75,
+  "data_analise": "2026-07-30T04:00:26Z",
+  "data_criacao": "2026-07-30T01:00:26.185697-03:00"
+}

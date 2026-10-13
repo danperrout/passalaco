@@ -1,0 +1,35 @@
+{
+  "id": 5887,
+  "nome_original": "Rei",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "dourado",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "capa",
+      "coroa",
+      "calça"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante",
+    "estilo_corte": "túnica longa com corte reto e capa com capuz",
+    "acessorios_visiveis": [
+      "coroa",
+      "cordões decorativos",
+      "detalhes dourados na cintura e barra"
+    ],
+    "tematica_detalhada": "Fantasia de Rei, com referências a monarcas medievais ou personagens de contos de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5887.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 58.47,
+  "data_analise": "2026-07-30T04:43:48Z",
+  "data_criacao": "2026-07-30T01:43:48.500477-03:00"
+}

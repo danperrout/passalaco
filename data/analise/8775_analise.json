@@ -1,0 +1,28 @@
+{
+  "id": 8775,
+  "nome_original": "Barbie",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule e tecido com bordados brilhantes",
+    "estilo_corte": "estilo princesa com saia volumosa e corpete ajustado",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "Fantasia de Barbie Princesa, referenciando a estética clássica de contos de fadas e a personagem Barbie"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8775.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.19,
+  "data_analise": "2026-07-27T17:45:38Z",
+  "data_criacao": "2026-07-27T14:45:38.914595-03:00"
+}

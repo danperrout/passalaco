@@ -1,0 +1,30 @@
+{
+  "id": 9513,
+  "nome_original": "Junina Saia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "rosa",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "top corset",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com estampa floral e acabamento em renda ou babados",
+    "estilo_corte": "top tomara que caia ajustado e saia curta volumosa com camadas",
+    "acessorios_visiveis": [
+      "fitas coloridas no cabelo"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, representando a vestimenta típica caipira estilizada e moderna"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9513.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.15,
+  "data_analise": "2026-07-29T07:47:15Z",
+  "data_criacao": "2026-07-29T04:47:15.185240-03:00"
+}

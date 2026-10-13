@@ -1,0 +1,30 @@
+{
+  "id": 8273,
+  "nome_original": "Pantera Negra",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "camisa de manga longa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com elastano e impressões digitais",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "máscara facial"
+    ],
+    "tematica_detalhada": "Personagem Pantera Negra da Marvel Comics, representando o rei T'Challa de Wakanda"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8273.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 31.64,
+  "data_analise": "2026-07-30T02:01:24Z",
+  "data_criacao": "2026-07-29T23:01:24.358962-03:00"
+}

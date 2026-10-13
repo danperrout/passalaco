@@ -1,0 +1,31 @@
+{
+  "id": 205,
+  "nome_original": "Medieval",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "branco",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "camisa de mangas bufantes",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com aparência de linho ou algodão rústico",
+    "estilo_corte": "túnica com corte reto, gola em V com amarração e barra inferior em pontas",
+    "acessorios_visiveis": [
+      "cinto preto"
+    ],
+    "tematica_detalhada": "fantasia medieval camponesa ou de taverna, remetendo a personagens de classes populares da Idade Média"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/205.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 146.32,
+  "data_analise": "2026-07-29T21:06:03Z",
+  "data_criacao": "2026-07-29T18:06:03.017520-03:00"
+}

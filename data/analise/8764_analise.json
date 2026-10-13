@@ -1,0 +1,33 @@
+{
+  "id": 8764,
+  "nome_original": "Familia Super Homem",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão masculino adulto",
+      "vestido feminino adulto",
+      "vestido infantil",
+      "macacão masculino adulto"
+    ],
+    "material_visual": "tecido sintético com textura em relevo",
+    "estilo_corte": "ajustado ao corpo com saias rodadas para as versões femininas",
+    "acessorios_visiveis": [
+      "capas vermelhas",
+      "cintos amarelos"
+    ],
+    "tematica_detalhada": "Família Super-Homem, baseada nos personagens da DC Comics, apresentando o logotipo icônico do 'S' no peito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8764.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 30.56,
+  "data_analise": "2026-07-28T04:59:20Z",
+  "data_criacao": "2026-07-28T01:59:20.180000-03:00"
+}

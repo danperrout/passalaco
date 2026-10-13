@@ -1,0 +1,33 @@
+{
+  "id": 4950,
+  "nome_original": "Trapezista",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Circo",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "dourado",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "top decorado",
+      "calça estilo saruel",
+      "adereço de cabeça"
+    ],
+    "material_visual": "tecidos sintéticos com aplicações de pedrarias, lantejoulas e bordados",
+    "estilo_corte": "top curto ajustado com gola alta volumosa e calça bufante com punhos ajustados",
+    "acessorios_visiveis": [
+      "tiara dourada",
+      "colar integrado ao top",
+      "cinto ornamentado"
+    ],
+    "tematica_detalhada": "Trapezista de circo com inspiração exótica e referências ao estilo oriental/árabe"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4950.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.3,
+  "data_analise": "2026-07-30T08:34:55Z",
+  "data_criacao": "2026-07-30T05:34:55.712503-03:00"
+}

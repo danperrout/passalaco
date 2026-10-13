@@ -1,0 +1,30 @@
+{
+  "id": 6322,
+  "nome_original": "Medalhão Princesa Sophia",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "lilás",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido acetinado com brilho",
+    "estilo_corte": "vestido com mangas bufantes",
+    "acessorios_visiveis": [
+      "tiara de pedrarias",
+      "colar de pérolas",
+      "medalhão azul"
+    ],
+    "tematica_detalhada": "fantasia de princesa clássica, inspirada na Princesa Sophia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6322.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.54,
+  "data_analise": "2026-07-29T20:56:18Z",
+  "data_criacao": "2026-07-29T17:56:18.676143-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 172,
+  "nome_original": "Barbie",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "magenta"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilhos, possivelmente tule ou organza",
+    "estilo_corte": "vestido curto com saia volumosa e decote em coração",
+    "acessorios_visiveis": [
+      "tiara decorada"
+    ],
+    "tematica_detalhada": "Barbie Princesa, referenciando a estética de contos de fadas e a feminilidade característica da personagem"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/172.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.08,
+  "data_analise": "2026-07-27T17:45:14Z",
+  "data_criacao": "2026-07-27T14:45:14.445136-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 10140,
+  "nome_original": "Astronauta",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "boné"
+    ],
+    "material_visual": "tecido sintético liso, possivelmente poliéster ou cetim",
+    "estilo_corte": "macacão de peça única com gola alta, punhos elásticos e modelagem solta",
+    "acessorios_visiveis": [
+      "boné branco",
+      "patches/emblemas decorativos"
+    ],
+    "tematica_detalhada": "fantasia de astronauta inspirada em exploradores espaciais e agências espaciais, com elementos que remetem a uniformes de ficção científica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10140.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 4.66,
+  "data_analise": "2026-07-27T16:57:23Z",
+  "data_criacao": "2026-07-27T13:57:23.569801-03:00"
+}

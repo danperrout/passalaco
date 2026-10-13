@@ -1,0 +1,29 @@
+{
+  "id": 7425,
+  "nome_original": "Star Wars Soldado",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "máscara/capacete",
+      "macacão"
+    ],
+    "material_visual": "tecido sintético com estampa",
+    "estilo_corte": "ajustado ao corpo (estilo macaquinho/jumpsuit)",
+    "acessorios_visiveis": [
+      "capacete de stormtrooper"
+    ],
+    "tematica_detalhada": "Soldado Stormtrooper da franquia Star Wars, representando as forças do Império Galáctico ou da Primeira Ordem"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7425.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.58,
+  "data_analise": "2026-07-30T07:24:10Z",
+  "data_criacao": "2026-07-30T04:24:10.993410-03:00"
+}

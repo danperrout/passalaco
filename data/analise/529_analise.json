@@ -1,0 +1,31 @@
+{
+  "id": 529,
+  "nome_original": "Deusa Vampira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "luvas/manguitos",
+      "chapéu/headpiece"
+    ],
+    "material_visual": "tecido sintético com detalhes bordados em dourado",
+    "estilo_corte": "corte império com busto estruturado e saia longa fluida",
+    "acessorios_visiveis": [
+      "chapéu com véu",
+      "detalhes ornamentais dourados nos punhos e cintura"
+    ],
+    "tematica_detalhada": "fusão entre estética egípcia antiga e elementos góticos de vampira, misturando a nobreza de uma deusa com cores sombrias"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/529.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.29,
+  "data_analise": "2026-07-28T02:58:47Z",
+  "data_criacao": "2026-07-27T23:58:47.644271-03:00"
+}

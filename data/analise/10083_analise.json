@@ -1,0 +1,28 @@
+{
+  "id": 10083,
+  "nome_original": "Super Poderosas Docinho",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com elasticidade, possivelmente elastano ou poliéster",
+    "estilo_corte": "vestido curto sem mangas com cintura marcada por faixa preta e saia franzida",
+    "acessorios_visiveis": [
+      "óculos de sol redondos verdes"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Docinho do desenho animado As Meninas Superpoderosas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10083.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.34,
+  "data_analise": "2026-07-30T07:30:33Z",
+  "data_criacao": "2026-07-30T04:30:33.522651-03:00"
+}

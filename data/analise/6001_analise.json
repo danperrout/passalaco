@@ -1,0 +1,29 @@
+{
+  "id": 6001,
+  "nome_original": "Fred",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "preto",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "túnica"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte irregular com bordas rasgadas e recortes vazados",
+    "acessorios_visiveis": [
+      "clava de brinquedo"
+    ],
+    "tematica_detalhada": "Homem das cavernas, inspirada em personagens pré-históricos como Fred Flintstone"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6001.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.05,
+  "data_analise": "2026-07-28T06:18:34Z",
+  "data_criacao": "2026-07-28T03:18:34.755022-03:00"
+}

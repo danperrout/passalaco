@@ -1,0 +1,29 @@
+{
+  "id": 4919,
+  "nome_original": "Rapunzel",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule com glitter e cetim",
+    "estilo_corte": "estilo princesa com corpete ajustado e saia rodada",
+    "acessorios_visiveis": [
+      "tiara de cristais",
+      "peruca loira"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Rapunzel, com estética de conto de fadas e realeza"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4919.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.09,
+  "data_analise": "2026-07-30T04:34:55Z",
+  "data_criacao": "2026-07-30T01:34:55.016185-03:00"
+}

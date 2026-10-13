@@ -1,0 +1,29 @@
+{
+  "id": 5451,
+  "nome_original": "Mamae Noel",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "gorro"
+    ],
+    "material_visual": "cetim com acabamento em pelúcia sintética",
+    "estilo_corte": "vestido curto com cintura marcada e saia evasê",
+    "acessorios_visiveis": [
+      "cinto preto com fivela dourada"
+    ],
+    "tematica_detalhada": "Mamãe Noel, inspirada na figura tradicional do Natal ocidental"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5451.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 75.43,
+  "data_analise": "2026-07-29T16:57:25Z",
+  "data_criacao": "2026-07-29T13:57:25.246644-03:00"
+}

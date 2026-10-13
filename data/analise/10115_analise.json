@@ -1,0 +1,30 @@
+{
+  "id": 10115,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "prateado"
+    ],
+    "pecas_inclusas": [
+      "body",
+      "adereço de cabeça"
+    ],
+    "material_visual": "tecido sintético com brilho, lantejoulas e franjas metálicas",
+    "estilo_corte": "ajustado ao corpo, estilo body com decote em V e aplicações ornamentais",
+    "acessorios_visiveis": [
+      "tiara/adereço de cabeça em formato de lua ou chama",
+      "franjas metálicas nos ombros"
+    ],
+    "tematica_detalhada": "estética de carnaval, passista ou performance noturna, com referências a brilho, glamour e elementos celestiais/geométricos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10115.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.72,
+  "data_analise": "2026-07-27T19:27:24Z",
+  "data_criacao": "2026-07-27T16:27:24.435385-03:00"
+}

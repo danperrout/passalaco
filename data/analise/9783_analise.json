@@ -1,0 +1,29 @@
+{
+  "id": 9783,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul royal",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia curta"
+    ],
+    "material_visual": "tecido metalizado com brilho",
+    "estilo_corte": "estilo biquíni com saia ajustada e drapeada",
+    "acessorios_visiveis": [
+      "arranjo de penas exuberante na cabeça"
+    ],
+    "tematica_detalhada": "estilo passista de carnaval ou showgirl, com referências a desfiles de escolas de samba"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9783.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.51,
+  "data_analise": "2026-07-27T19:27:17Z",
+  "data_criacao": "2026-07-27T16:27:17.262714-03:00"
+}

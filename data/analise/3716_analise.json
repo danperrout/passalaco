@@ -1,0 +1,26 @@
+{
+  "id": 3716,
+  "nome_original": "Alemao",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "camisa",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "estilo jardineira com camisa de manga longa",
+    "acessorios_visiveis": [
+      "chapéu de aba curta"
+    ],
+    "tematica_detalhada": "fantasia estilizada de camponês alemão/estilo Oktoberfest"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3716.jpg",
+  "data_analise": "2026-07-27T13:43:56Z"
+}

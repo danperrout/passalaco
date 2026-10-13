@@ -1,0 +1,31 @@
+{
+  "id": 4303,
+  "nome_original": "Junina Saia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "blusa regata",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com rendas e babados",
+    "estilo_corte": "blusa ajustada e saia curta com camadas de babados e cintura alta",
+    "acessorios_visiveis": [
+      "tiara com flor e fitas",
+      "laço na cintura"
+    ],
+    "tematica_detalhada": "Festa Junina, inspirada na vestimenta típica caipira brasileira com elementos festivos e coloridos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4303.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 115.84,
+  "data_analise": "2026-07-29T07:35:44Z",
+  "data_criacao": "2026-07-29T04:35:44.680060-03:00"
+}

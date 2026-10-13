@@ -1,0 +1,28 @@
+{
+  "id": 9386,
+  "nome_original": "Coroa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prata",
+      "iridescente"
+    ],
+    "pecas_inclusas": [
+      "tiara"
+    ],
+    "material_visual": "metal prateado com incrustações de cristais e pedras sintéticas",
+    "estilo_corte": "design pontiagudo com base arqueada",
+    "acessorios_visiveis": [
+      "pedras preciosas artificiais"
+    ],
+    "tematica_detalhada": "Realeza, princesa ou rainha, com referências a contos de fadas e festas de debutante"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9386.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 36.91,
+  "data_analise": "2026-07-28T01:39:58Z",
+  "data_criacao": "2026-07-27T22:39:58.332157-03:00"
+}

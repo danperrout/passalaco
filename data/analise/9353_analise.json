@@ -1,0 +1,32 @@
+{
+  "id": 9353,
+  "nome_original": "Harry Potter",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "gravata",
+      "camisa"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "túnica longa com capuz e mangas largas",
+    "acessorios_visiveis": [
+      "óculos redondos",
+      "varinha",
+      "brasão da Sonserina"
+    ],
+    "tematica_detalhada": "Estudante da Escola de Magia e Bruxaria de Hogwarts, especificamente da casa Sonserina, inspirada na franquia Harry Potter"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9353.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 148.31,
+  "data_analise": "2026-07-28T12:37:09Z",
+  "data_criacao": "2026-07-28T09:37:09.383062-03:00"
+}

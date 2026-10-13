@@ -1,0 +1,32 @@
+{
+  "id": 6239,
+  "nome_original": "Deusa Grega",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Gregas/Romanos",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "estola",
+      "cinto",
+      "coroa"
+    ],
+    "material_visual": "tecido sintético leve com detalhes em lurex ou fitas metalizadas",
+    "estilo_corte": "estilo drapeado, corte reto e fluido",
+    "acessorios_visiveis": [
+      "coroa de folhas dourada",
+      "cinto dourado"
+    ],
+    "tematica_detalhada": "Deusa Grega ou Romana, referenciando a mitologia clássica da Grécia e Roma Antiga"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6239.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.21,
+  "data_analise": "2026-07-28T02:56:34Z",
+  "data_criacao": "2026-07-27T23:56:34.360290-03:00"
+}

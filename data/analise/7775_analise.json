@@ -1,0 +1,31 @@
+{
+  "id": 7775,
+  "nome_original": "Espanhola",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "cetim e renda",
+    "estilo_corte": "estilo flamenco com saia em camadas e babados",
+    "acessorios_visiveis": [
+      "véu preto",
+      "flor vermelha no cabelo",
+      "flor vermelha na cintura"
+    ],
+    "tematica_detalhada": "Fantasia de dançarina espanhola, inspirada na cultura do flamenco"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7775.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.39,
+  "data_analise": "2026-07-28T03:57:15Z",
+  "data_criacao": "2026-07-28T00:57:15.128552-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2209,
+  "nome_original": "Dona Florinda",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido floral",
+      "avental branco",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda",
+    "estilo_corte": "estilo vintage/doméstico com saia evasê e gola colarinho",
+    "acessorios_visiveis": [
+      "peruca cacheada loira"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Dona Florinda, da série de TV 'El Chavo del Ocho' (Chaves), representando a estética de dona de casa clássica."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2209.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 83.57,
+  "data_analise": "2026-07-28T03:21:09Z",
+  "data_criacao": "2026-07-28T00:21:09.592144-03:00"
+}

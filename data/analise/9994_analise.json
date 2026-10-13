@@ -1,0 +1,29 @@
+{
+  "id": 9994,
+  "nome_original": "Chuck Feminina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "multicolorido"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "saia jardineira"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou elastano",
+    "estilo_corte": "estilo jardineira com saia evasê e camiseta ajustada de mangas curtas",
+    "acessorios_visiveis": [
+      "botões decorativos vermelhos"
+    ],
+    "tematica_detalhada": "versão feminina do personagem boneco Chucky, do filme Brinquedo Assassino, reinterpretada como traje festivo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9994.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 52.37,
+  "data_analise": "2026-07-27T21:57:46Z",
+  "data_criacao": "2026-07-27T18:57:46.027438-03:00"
+}

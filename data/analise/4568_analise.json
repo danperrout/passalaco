@@ -1,0 +1,32 @@
+{
+  "id": 4568,
+  "nome_original": "Gomez Addams",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "camisa"
+    ],
+    "material_visual": "tecido sintético com aparência de alfaiataria",
+    "estilo_corte": "terno clássico slim fit",
+    "acessorios_visiveis": [
+      "gravata borboleta",
+      "peruca",
+      "bigode postiço"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Gomez Addams da Família Addams, representando um estilo gótico aristocrático e formal"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4568.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 115.31,
+  "data_analise": "2026-07-28T11:12:48Z",
+  "data_criacao": "2026-07-28T08:12:48.822224-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 9694,
+  "nome_original": "Papai Noel Luxo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Branco"
+    ],
+    "pecas_inclusas": [
+      "Casaco",
+      "Calça",
+      "Gorro"
+    ],
+    "material_visual": "Tecido sintético acetinado com acabamentos em pelúcia branca",
+    "estilo_corte": "Corte clássico folgado com bordas em pele sintética",
+    "acessorios_visiveis": [
+      "Cinto preto com fivela",
+      "Pompom no gorro"
+    ],
+    "tematica_detalhada": "Fantasia clássica de Papai Noel, figura central do Natal no ocidente"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9694.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.87,
+  "data_analise": "2026-07-30T02:13:25Z",
+  "data_criacao": "2026-07-29T23:13:25.830308-03:00"
+}

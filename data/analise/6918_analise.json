@@ -1,0 +1,31 @@
+{
+  "id": 6918,
+  "nome_original": "Chef de Cozinha",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "dólmã",
+      "calça",
+      "chapéu de chef"
+    ],
+    "material_visual": "tecido sintético ou algodão com acabamento fosco",
+    "estilo_corte": "corte clássico de culinária com gola alta e fechamento frontal",
+    "acessorios_visiveis": [
+      "botões decorativos verdes",
+      "vivo verde nas bordas"
+    ],
+    "tematica_detalhada": "fantasia de chef de cozinha profissional, baseada no uniforme tradicional de gastronomia (toque blanche e dólmã)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6918.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.58,
+  "data_analise": "2026-07-27T20:50:19Z",
+  "data_criacao": "2026-07-27T17:50:19.278563-03:00"
+}

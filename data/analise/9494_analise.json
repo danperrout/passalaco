@@ -1,0 +1,32 @@
+{
+  "id": 9494,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa choque",
+      "preto",
+      "branco",
+      "amarelo neon"
+    ],
+    "pecas_inclusas": [
+      "vestido xadrez",
+      "avental rosa"
+    ],
+    "material_visual": "tecido sintético com acabamento em renda e fitas de cetim",
+    "estilo_corte": "vestido curto com estampa xadrez, mangas bufantes e avental sobreposto",
+    "acessorios_visiveis": [
+      "laço de cabelo colorido",
+      "rendas decorativas"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina estilizada, representando a vestimenta típica caipira brasileira com cores vibrantes e modernas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9494.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 116.62,
+  "data_analise": "2026-07-29T02:03:56Z",
+  "data_criacao": "2026-07-28T23:03:56.572139-03:00"
+}

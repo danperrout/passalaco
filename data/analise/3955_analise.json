@@ -1,0 +1,33 @@
+{
+  "id": 3955,
+  "nome_original": "Visconde de Sabugosa",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde escuro",
+      "amarelo",
+      "verde claro",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "paletó",
+      "colete",
+      "calça"
+    ],
+    "material_visual": "tecido sintético, possivelmente feltro ou poliéster",
+    "estilo_corte": "estilo clássico aristocrático adaptado para infantil",
+    "acessorios_visiveis": [
+      "gravata borboleta branca"
+    ],
+    "tematica_detalhada": "Personagem Visconde de Sabugosa da obra Sítio do Picapau Amarelo, representando um espigão de milho com vestimentas nobres"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3955.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.63,
+  "data_analise": "2026-07-30T08:51:50Z",
+  "data_criacao": "2026-07-30T05:51:50.360285-03:00"
+}

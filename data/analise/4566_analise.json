@@ -1,0 +1,29 @@
+{
+  "id": 4566,
+  "nome_original": "Sapo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão curto",
+      "capuz"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "estilo kigurumi ou jardineira larga",
+    "acessorios_visiveis": [
+      "capuz com olhos de sapo"
+    ],
+    "tematica_detalhada": "fantasia de sapo antropomórfico, comum para festas infantis ou eventos temáticos de animais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4566.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.58,
+  "data_analise": "2026-07-30T05:54:26Z",
+  "data_criacao": "2026-07-30T02:54:26.992834-03:00"
+}

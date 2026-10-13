@@ -1,0 +1,29 @@
+{
+  "id": 3972,
+  "nome_original": "Cinderela",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul claro",
+      "branco",
+      "prateado"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim, tule e detalhes em renda ou bordado",
+    "estilo_corte": "estilo princesa com saia volumosa em camadas e mangas bufantes",
+    "acessorios_visiveis": [
+      "tiara azul"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Cinderela, inspirada em contos de fadas e filmes da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3972.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 94.77,
+  "data_analise": "2026-07-27T22:24:38Z",
+  "data_criacao": "2026-07-27T19:24:38.172064-03:00"
+}

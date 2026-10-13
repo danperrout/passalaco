@@ -1,0 +1,31 @@
+{
+  "id": 9907,
+  "nome_original": "Terrifier",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com aspecto acetinado",
+    "estilo_corte": "macacão bicolor dividido verticalmente com gola rufada",
+    "acessorios_visiveis": [
+      "máscara de palhaço",
+      "mini cartola"
+    ],
+    "tematica_detalhada": "Personagem Art the Clown do filme Terrifier, representando um palhaço mudo e sádico de terror"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9907.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.72,
+  "data_analise": "2026-07-30T07:43:31Z",
+  "data_criacao": "2026-07-30T04:43:31.062480-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 504,
+  "nome_original": "Dança do Ventre",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia",
+      "cinto ornamentado"
+    ],
+    "material_visual": "tecido fluido com aplicações de lantejoulas e pedrarias",
+    "estilo_corte": "top estilo sutiã e saia longa com cintura baixa",
+    "acessorios_visiveis": [
+      "tiara de cabeça"
+    ],
+    "tematica_detalhada": "Dança do Ventre, com referências à cultura árabe e estética oriental"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/504.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 39.52,
+  "data_analise": "2026-07-28T02:34:13Z",
+  "data_criacao": "2026-07-27T23:34:13.766939-03:00"
+}

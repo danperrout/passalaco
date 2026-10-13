@@ -1,0 +1,30 @@
+{
+  "id": 6774,
+  "nome_original": "Peppa Pig",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "touca",
+      "vestido",
+      "calça"
+    ],
+    "material_visual": "tecido felpudo e soft",
+    "estilo_corte": "corte solto e volumoso",
+    "acessorios_visiveis": [
+      "pompons amarelos"
+    ],
+    "tematica_detalhada": "Fantasia infantil baseada na personagem Peppa Pig, caracterizada pelas cores rosa e vermelho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6774.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 27.85,
+  "data_analise": "2026-07-30T02:57:05Z",
+  "data_criacao": "2026-07-29T23:57:05.238226-03:00"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 8862,
+  "nome_original": "Casal Jason",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "camisetas"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "t-shirt casual",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia inspirada no personagem Jason Voorhees da franquia Sexta-Feira 13, apresentando estampas com a icônica máscara de hóquei"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8862.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.55,
+  "data_analise": "2026-07-27T19:34:19Z",
+  "data_criacao": "2026-07-27T16:34:19.908400-03:00"
+}

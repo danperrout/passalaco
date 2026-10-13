@@ -1,0 +1,30 @@
+{
+  "id": 4576,
+  "nome_original": "Sapato de Palhaco",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "laranja",
+      "preto",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "par de sapatos"
+    ],
+    "material_visual": "material sintético brilhante, aspecto de verniz ou PVC",
+    "estilo_corte": "bico arredondado e volumoso, formato exagerado",
+    "acessorios_visiveis": [
+      "cadarços pretos"
+    ],
+    "tematica_detalhada": "estética de palhaço clássico ou personagem de circo, com cores vibrantes e dimensões caricatas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4576.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.92,
+  "data_analise": "2026-07-30T05:53:08Z",
+  "data_criacao": "2026-07-30T02:53:08.063203-03:00"
+}

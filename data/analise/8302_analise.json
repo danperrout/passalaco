@@ -1,0 +1,32 @@
+{
+  "id": 8302,
+  "nome_original": "Conde Dracula",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "colete",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado e detalhes em renda ou babados",
+    "estilo_corte": "estilo vitoriano clássico com gola alta e estruturada",
+    "acessorios_visiveis": [
+      "chapéu de pele",
+      "babado no pescoço"
+    ],
+    "tematica_detalhada": "Vampiro aristocrata, especificamente inspirada na figura do Conde Drácula"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8302.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 51.21,
+  "data_analise": "2026-07-28T01:21:58Z",
+  "data_criacao": "2026-07-27T22:21:58.434223-03:00"
+}

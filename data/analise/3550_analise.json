@@ -1,0 +1,35 @@
+{
+  "id": 3550,
+  "nome_original": "Country",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "marrom",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "camisa",
+      "colete",
+      "calça",
+      "perneiras"
+    ],
+    "material_visual": "tecido sintético e material imitando couro",
+    "estilo_corte": "estilo western/country clássico",
+    "acessorios_visiveis": [
+      "chapéu de cowboy",
+      "colete",
+      "perneiras"
+    ],
+    "tematica_detalhada": "Fantasia de Cowboy/Country, inspirada no vestuário tradicional do oeste americano"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3550.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.57,
+  "data_analise": "2026-07-28T02:00:22Z",
+  "data_criacao": "2026-07-27T23:00:22.734740-03:00"
+}

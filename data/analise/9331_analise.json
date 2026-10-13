@@ -1,0 +1,29 @@
+{
+  "id": 9331,
+  "nome_original": "Bruxa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "chapéu de bruxa",
+      "vestido"
+    ],
+    "material_visual": "tule e tecido sintético",
+    "estilo_corte": "vestido longo com saia volumosa de tule e decote coração",
+    "acessorios_visiveis": [
+      "chapéu cônico de bruxa"
+    ],
+    "tematica_detalhada": "bruxa clássica com estética gótica e referências a festas de Halloween"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9331.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.82,
+  "data_analise": "2026-07-27T18:26:44Z",
+  "data_criacao": "2026-07-27T15:26:44.319345-03:00"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 6924,
+  "nome_original": "Anjo",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Coroaçăo",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido acetinado com brilho",
+    "estilo_corte": "vestido longo de corte fluido com decote em V",
+    "acessorios_visiveis": [
+      "auréola de penas",
+      "colares de pérolas",
+      "asas"
+    ],
+    "tematica_detalhada": "anjo celestial clássico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6924.jpg",
+  "data_analise": "2026-07-27T13:56:52Z"
+}

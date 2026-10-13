@@ -1,0 +1,29 @@
+{
+  "id": 8566,
+  "nome_original": "Detetive do Predio Azul",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "sobretudo"
+    ],
+    "material_visual": "tecido sintético com aspecto de gabardine ou poliéster",
+    "estilo_corte": "modelo trench coat com cinto amarrado e bolsos frontais",
+    "acessorios_visiveis": [
+      "distintivos",
+      "broches",
+      "patches coloridos"
+    ],
+    "tematica_detalhada": "Fantasia baseada nos personagens da série infantil Detetives do Prédio Azul (DPA), caracterizada pelo icônico sobretudo amarelo de detetive"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8566.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.9,
+  "data_analise": "2026-07-28T02:50:02Z",
+  "data_criacao": "2026-07-27T23:50:02.027025-03:00"
+}

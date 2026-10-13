@@ -1,0 +1,27 @@
+{
+  "id": 6749,
+  "nome_original": "Luvas do Hulk",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "par de luvas"
+    ],
+    "material_visual": "tecido sintético acolchoado",
+    "estilo_corte": "estilo punho fechado e volumoso",
+    "acessorios_visiveis": [
+      "elásticos de fixação"
+    ],
+    "tematica_detalhada": "inspirado no personagem Hulk da Marvel Comics, representando mãos gigantes e musculosas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6749.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 58.21,
+  "data_analise": "2026-07-29T12:56:41Z",
+  "data_criacao": "2026-07-29T09:56:41.176873-03:00"
+}

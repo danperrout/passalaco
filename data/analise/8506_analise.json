@@ -1,0 +1,30 @@
+{
+  "id": 8506,
+  "nome_original": "Emoji",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "calça",
+      "touca"
+    ],
+    "material_visual": "tecido sintético com estampa sublimada",
+    "estilo_corte": "modelagem oversized e arredondada no tronco",
+    "acessorios_visiveis": [
+      "touca laranja"
+    ],
+    "tematica_detalhada": "Emoji de 'carinha com óculos escuros', representando atitude cool ou confiança, baseado nos ícones de comunicação digital"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8506.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 46.58,
+  "data_analise": "2026-07-28T03:49:56Z",
+  "data_criacao": "2026-07-28T00:49:56.924377-03:00"
+}

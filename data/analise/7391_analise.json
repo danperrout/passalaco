@@ -1,0 +1,32 @@
+{
+  "id": 7391,
+  "nome_original": "Ladybug",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético com brilho, semelhante a lycra ou cetim",
+    "estilo_corte": "ajustado ao corpo (slim fit) com mangas longas",
+    "acessorios_visiveis": [
+      "máscara de olhos",
+      "peruca preta",
+      "bolsa transversal pequena"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Marinette/Ladybug da série animada Miraculous: As Aventuras de Ladybug"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7391.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 40.82,
+  "data_analise": "2026-07-29T08:40:46Z",
+  "data_criacao": "2026-07-29T05:40:46.309743-03:00"
+}

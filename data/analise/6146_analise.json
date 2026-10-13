@@ -1,0 +1,31 @@
+{
+  "id": 6146,
+  "nome_original": "Romeu",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul royal",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "veludo ou tecido sintético com acabamentos em renda",
+    "estilo_corte": "estilo renascentista com gola trabalhada e mangas bufantes",
+    "acessorios_visiveis": [
+      "chapéu com pluma"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Romeu, remetendo à nobreza da Renascença italiana"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6146.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.43,
+  "data_analise": "2026-07-30T05:00:22Z",
+  "data_criacao": "2026-07-30T02:00:22.011354-03:00"
+}

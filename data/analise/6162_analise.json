@@ -1,0 +1,26 @@
+{
+  "id": 6162,
+  "nome_original": "Medica",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "jaleco",
+      "calça"
+    ],
+    "material_visual": "tecido plano, possivelmente poliéster ou algodão",
+    "estilo_corte": "corte reto, comprimento médio, com gola e mangas curtas",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia de profissional de saúde, especificamente médica ou cientista, baseada em vestimentas clínicas tradicionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6162.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 79.72,
+  "data_analise": "2026-07-29T20:57:38Z",
+  "data_criacao": "2026-07-29T17:57:38.700942-03:00"
+}

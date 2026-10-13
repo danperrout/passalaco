@@ -1,0 +1,30 @@
+{
+  "id": 552,
+  "nome_original": "Elvis",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça"
+    ],
+    "material_visual": "tecido acetinado com brilho e aplicações de lantejoulas",
+    "estilo_corte": "estilo jumpsuit com gola alta, mangas largas e calça boca de sino",
+    "acessorios_visiveis": [
+      "cinto ornamentado",
+      "detalhes em pedraria no peito"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em Elvis Presley, especificamente na fase Las Vegas dos anos 70, caracterizada pelo luxo e extravagância"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/552.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.4,
+  "data_analise": "2026-07-28T03:40:10Z",
+  "data_criacao": "2026-07-28T00:40:10.044637-03:00"
+}

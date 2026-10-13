@@ -1,0 +1,30 @@
+{
+  "id": 3103,
+  "nome_original": "Maria Bonita",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante",
+    "estilo_corte": "vestido com sobreposição frontal em V e babados nos ombros",
+    "acessorios_visiveis": [
+      "chapéu de aba larga",
+      "aplicação de flor amarela e vermelha"
+    ],
+    "tematica_detalhada": "Maria Bonita, figura emblemática do cangaço brasileiro, representando a cultura do sertão nordestino"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3103.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 67.36,
+  "data_analise": "2026-07-29T17:33:19Z",
+  "data_criacao": "2026-07-29T14:33:19.054852-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 4142,
+  "nome_original": "Anos 70",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "multicolorido",
+      "branco",
+      "preto",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "calça",
+      "bandana"
+    ],
+    "material_visual": "tecido estampado com franjas de camurça ou sintético",
+    "estilo_corte": "estilo boho chic com colete alongado e franjas",
+    "acessorios_visiveis": [
+      "bandana na cabeça",
+      "colar"
+    ],
+    "tematica_detalhada": "estilo hippie dos anos 70"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4142.jpg",
+  "data_analise": "2026-07-27T14:06:09Z"
+}

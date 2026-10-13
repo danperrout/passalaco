@@ -1,0 +1,29 @@
+{
+  "id": 2049,
+  "nome_original": "Junina Mf",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou poliéster",
+    "estilo_corte": "vestido curto com mangas bufantes e corpete com cadarço",
+    "acessorios_visiveis": [
+      "chapéu",
+      "bolsa lateral"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina estilizada, com referências ao traje caipira tradicional, decorada com bandeirinhas coloridas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2049.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.86,
+  "data_analise": "2026-07-29T06:35:16Z",
+  "data_criacao": "2026-07-29T03:35:16.323982-03:00"
+}

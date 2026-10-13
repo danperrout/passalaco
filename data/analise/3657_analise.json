@@ -1,0 +1,30 @@
+{
+  "id": 3657,
+  "nome_original": "Pablo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "short",
+      "touca"
+    ],
+    "material_visual": "tecido sintético brilhante, possivelmente poliéster ou cetim",
+    "estilo_corte": "corte reto e solto, estilo macacão simulado",
+    "acessorios_visiveis": [
+      "touca com olhos estampados"
+    ],
+    "tematica_detalhada": "fantasia infantil de personagem pássaro ou pato, com cores vibrantes e design simplificado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3657.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 50.64,
+  "data_analise": "2026-07-30T01:17:01Z",
+  "data_criacao": "2026-07-29T22:17:01.618943-03:00"
+}

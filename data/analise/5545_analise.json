@@ -1,0 +1,26 @@
+{
+  "id": 5545,
+  "nome_original": "Bruxinha Esqueleto",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampas",
+    "estilo_corte": "estilo rodado com comprimento curto",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fusão de elementos de bruxa e esqueleto, com foco em Halloween e estética macabra infantil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5545.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.3,
+  "data_analise": "2026-07-27T18:40:53Z",
+  "data_criacao": "2026-07-27T15:40:53.996375-03:00"
+}

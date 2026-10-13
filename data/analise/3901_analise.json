@@ -1,0 +1,31 @@
+{
+  "id": 3901,
+  "nome_original": "Michael Jackson",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "estilo militar com modelagem ajustada",
+    "acessorios_visiveis": [
+      "chapéu coco",
+      "detalhes em cordão branco"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no estilo icônico de Michael Jackson, remetendo a performances musicais com estética militar e clássica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3901.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 58.7,
+  "data_analise": "2026-07-29T22:14:26Z",
+  "data_criacao": "2026-07-29T19:14:26.544365-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 6819,
+  "nome_original": "Patrulha Canina Colete Ryder",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "branco",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "calça"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou tactel",
+    "estilo_corte": "colete estruturado com gola alta e calça reta",
+    "acessorios_visiveis": [
+      "emblema da Patrulha Canina"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Ryder, líder da Patrulha Canina (Paw Patrol)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6819.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 72.92,
+  "data_analise": "2026-07-30T02:46:31Z",
+  "data_criacao": "2026-07-29T23:46:31.880146-03:00"
+}

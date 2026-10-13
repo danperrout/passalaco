@@ -1,0 +1,29 @@
+{
+  "id": 4861,
+  "nome_original": "Branca de Neve",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "corte clássico de princesa com corpete ajustado e saia volumosa",
+    "acessorios_visiveis": [
+      "laço vermelho na cabeça"
+    ],
+    "tematica_detalhada": "Personagem Branca de Neve, baseada nos contos de fadas clássicos e animações da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4861.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.09,
+  "data_analise": "2026-07-27T18:20:03Z",
+  "data_criacao": "2026-07-27T15:20:03.859952-03:00"
+}

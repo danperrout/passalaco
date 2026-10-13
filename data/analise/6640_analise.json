@@ -1,0 +1,27 @@
+{
+  "id": 6640,
+  "nome_original": "Alemă",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "cartola",
+      "blusa",
+      "saia"
+    ],
+    "material_visual": "plástico e tecido sintético",
+    "estilo_corte": "estilo volumoso com cintura marcada",
+    "acessorios_visiveis": [
+      "cartola"
+    ],
+    "tematica_detalhada": "fantasia artesanal com elementos de gala e cores contrastantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6640.jpg",
+  "data_analise": "2026-07-27T13:41:36Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 7136,
+  "nome_original": "Malevola",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "tiara de chifres"
+    ],
+    "material_visual": "veludo ou tecido sintético fosco",
+    "estilo_corte": "vestido curto com ombros estruturados e saia irregular",
+    "acessorios_visiveis": [
+      "tiara com chifres",
+      "cordão na cintura"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Malévola, da Disney, representando a icônica vilã fada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7136.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 99.53,
+  "data_analise": "2026-07-29T16:33:27Z",
+  "data_criacao": "2026-07-29T13:33:27.445862-03:00"
+}

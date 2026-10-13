@@ -1,0 +1,32 @@
+{
+  "id": 8340,
+  "nome_original": "India",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia",
+      "tiara"
+    ],
+    "material_visual": "palha sintética e tecido",
+    "estilo_corte": "estilo biquíni com saia curta de franjas",
+    "acessorios_visiveis": [
+      "tiara com penas",
+      "detalhes em penas coloridas"
+    ],
+    "tematica_detalhada": "fantasia temática de indígena genérica, inspirada em representações estereotipadas de povos nativos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8340.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 208.11,
+  "data_analise": "2026-07-28T15:55:43Z",
+  "data_criacao": "2026-07-28T12:55:43.013645-03:00"
+}

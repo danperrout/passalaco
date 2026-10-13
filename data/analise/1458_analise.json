@@ -1,0 +1,28 @@
+{
+  "id": 1458,
+  "nome_original": "Fred",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "azul marinho"
+    ],
+    "pecas_inclusas": [
+      "túnica"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte reto e amplo, sem mangas, estilo túnica",
+    "acessorios_visiveis": [
+      "gravata estilizada"
+    ],
+    "tematica_detalhada": "fantasia inspirada no personagem Fred Flintstone, referência à Era da Pedra com detalhes irregulares e rústicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1458.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 49.76,
+  "data_analise": "2026-07-28T06:22:09Z",
+  "data_criacao": "2026-07-28T03:22:09.233602-03:00"
+}

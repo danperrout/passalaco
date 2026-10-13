@@ -1,0 +1,29 @@
+{
+  "id": 4977,
+  "nome_original": "Barbie",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "roxo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule, cetim e glitter",
+    "estilo_corte": "estilo princesa com corpete ajustado e saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "tiara de princesa"
+    ],
+    "tematica_detalhada": "fantasia de Barbie Princesa, com referências a contos de fadas e estética real"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4977.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.76,
+  "data_analise": "2026-07-27T17:47:01Z",
+  "data_criacao": "2026-07-27T14:47:01.284602-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 4654,
+  "nome_original": "Dalila",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "estola/manto"
+    ],
+    "material_visual": "tecido leve, possivelmente renda ou tule com brilhos",
+    "estilo_corte": "corte fluido, longo, com decote em V e caimento solto",
+    "acessorios_visiveis": [
+      "tiara ornamentada",
+      "colar dourado",
+      "bracelete"
+    ],
+    "tematica_detalhada": "fantasia de inspiração egípcia ou bíblica, remetendo a figuras como Cleópatra ou Dalila"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4654.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.32,
+  "data_analise": "2026-07-28T02:23:26Z",
+  "data_criacao": "2026-07-27T23:23:26.830696-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 9082,
+  "nome_original": "Homem Aranha",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente poliéster ou lycra",
+    "estilo_corte": "justo ao corpo (skinny fit), peça única",
+    "acessorios_visiveis": [
+      "máscara com lentes brancas"
+    ],
+    "tematica_detalhada": "Super-herói Homem-Aranha da Marvel Comics, caracterizado por cores vibrantes e padrão de teia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9082.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 72.25,
+  "data_analise": "2026-07-28T14:04:04Z",
+  "data_criacao": "2026-07-28T11:04:04.436380-03:00"
+}

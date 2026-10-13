@@ -1,0 +1,26 @@
+{
+  "id": 2425,
+  "nome_original": "Arara",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Azul",
+      "Branco",
+      "Preto"
+    ],
+    "pecas_inclusas": [
+      "Macacão de uma peça",
+      "Capuz integrado",
+      "Asas integradas"
+    ],
+    "material_visual": "Tecido macio e opaco, com aspecto de feltro ou flanela.",
+    "estilo_corte": "Macacão com corte reto e folgado, mangas curtas e pernas na altura do joelho, com capuz e asas costuradas.",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia de arara, representando um pássaro tropical com bico e olhos estilizados no capuz e asas azuis."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2425.jpg",
+  "data_analise": "2026-07-27T16:46:48Z"
+}

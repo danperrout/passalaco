@@ -1,0 +1,29 @@
+{
+  "id": 9871,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "rosa choque",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com aplicação de rendas e babados",
+    "estilo_corte": "estilo caipira com decote ombro a ombro e saia rodada volumosa",
+    "acessorios_visiveis": [
+      "tiara com flores e fitas"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina estilizada, representando a figura da noiva ou prenda caipira com referências ao folclore rural brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9871.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 58.35,
+  "data_analise": "2026-07-29T01:34:04Z",
+  "data_criacao": "2026-07-28T22:34:04.202355-03:00"
+}

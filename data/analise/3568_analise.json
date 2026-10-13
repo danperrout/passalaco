@@ -1,0 +1,26 @@
+{
+  "id": 3568,
+  "nome_original": "Camisa",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa"
+    ],
+    "material_visual": "tecido sintético com estampa digital",
+    "estilo_corte": "modelagem slim com gola e botões",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia inspirada no personagem Homem-Aranha, simulando a textura de teia de aranha em formato de vestimenta casual"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3568.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.19,
+  "data_analise": "2026-07-27T18:48:40Z",
+  "data_criacao": "2026-07-27T15:48:40.049136-03:00"
+}

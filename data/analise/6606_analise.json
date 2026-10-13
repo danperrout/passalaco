@@ -1,0 +1,32 @@
+{
+  "id": 6606,
+  "nome_original": "Conde Dracula",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "casaco longo",
+      "calça",
+      "camisa",
+      "gravata"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "clássico vitoriano com gola alta estruturada",
+    "acessorios_visiveis": [
+      "gravata borboleta ou plastron",
+      "peruca preta"
+    ],
+    "tematica_detalhada": "Conde Drácula com elementos góticos, destacando-se a estampa de caveiras na gola e punhos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6606.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 51.32,
+  "data_analise": "2026-07-28T01:18:33Z",
+  "data_criacao": "2026-07-27T22:18:33.136406-03:00"
+}

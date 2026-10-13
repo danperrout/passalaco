@@ -1,0 +1,33 @@
+{
+  "id": 2272,
+  "nome_original": "Mascote Coelho",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "amarelo",
+      "azul",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "máscara de cabeça de coelho",
+      "paletó",
+      "colete",
+      "calça"
+    ],
+    "material_visual": "pelúcia e tecido sintético",
+    "estilo_corte": "estilo formal clássico com cauda de peixe",
+    "acessorios_visiveis": [
+      "gravata borboleta vermelha"
+    ],
+    "tematica_detalhada": "Mascote de coelho antropomórfico com trajes formais, remetendo a personagens como o Coelho Branco de Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2272.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.42,
+  "data_analise": "2026-07-29T19:20:16Z",
+  "data_criacao": "2026-07-29T16:20:16.521310-03:00"
+}

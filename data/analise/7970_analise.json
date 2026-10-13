@@ -1,0 +1,32 @@
+{
+  "id": 7970,
+  "nome_original": "Paquita",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa choque",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "jaqueta curta",
+      "chapéu",
+      "short"
+    ],
+    "material_visual": "cetim brilhante com detalhes em franjas e adornos metálicos",
+    "estilo_corte": "estilo militar com corte curto e justo",
+    "acessorios_visiveis": [
+      "chapéu estilo shako",
+      "cordões decorativos dourados",
+      "franjas nos ombros"
+    ],
+    "tematica_detalhada": "Fantasia de Paquita, inspirada em bandas marciais e no grupo de apoio do Xuxa Só Para Baixinhos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7970.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 132.96,
+  "data_analise": "2026-07-30T02:24:18Z",
+  "data_criacao": "2026-07-29T23:24:18.196680-03:00"
+}

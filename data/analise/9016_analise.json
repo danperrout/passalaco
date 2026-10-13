@@ -1,0 +1,28 @@
+{
+  "id": 9016,
+  "nome_original": "Junina Mf",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "rosa choque"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda e babados",
+    "estilo_corte": "estilo caipira estilizado com saia curta em camadas e decote ombro a ombro",
+    "acessorios_visiveis": [
+      "chapéu de palha decorado"
+    ],
+    "tematica_detalhada": "fantasia de festa junina feminina infantil estilizada, com referências ao traje típico caipira brasileiro em versão moderna e colorida"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9016.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 31.33,
+  "data_analise": "2026-07-29T06:52:00Z",
+  "data_criacao": "2026-07-29T03:52:00.345474-03:00"
+}

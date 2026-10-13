@@ -1,0 +1,31 @@
+{
+  "id": 4241,
+  "nome_original": "Minnie",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara com orelhas"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante com acabamento em renda",
+    "estilo_corte": "estilo baby doll com mangas bufantes e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara de orelhas de camundongo",
+      "laço na cintura",
+      "laço no busto"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Minnie Mouse da Disney, caracterizada pelas cores vermelho e preto com estampa de bolinhas brancas (polka dots)."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4241.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.33,
+  "data_analise": "2026-07-29T22:36:34Z",
+  "data_criacao": "2026-07-29T19:36:34.231668-03:00"
+}

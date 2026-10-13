@@ -1,0 +1,30 @@
+{
+  "id": 8647,
+  "nome_original": "Carteiro",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "boné"
+    ],
+    "material_visual": "tecido sintético leve",
+    "estilo_corte": "conjunto casual com camisa de gola e calça reta",
+    "acessorios_visiveis": [
+      "boné"
+    ],
+    "tematica_detalhada": "fantasia de carteiro, inspirada nos uniformes de serviços postais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8647.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.86,
+  "data_analise": "2026-07-27T19:29:44Z",
+  "data_criacao": "2026-07-27T16:29:44.173076-03:00"
+}

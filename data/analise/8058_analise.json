@@ -1,0 +1,31 @@
+{
+  "id": 8058,
+  "nome_original": "Chuck",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "colorido",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "camiseta de manga longa",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético e plástico/látex para a máscara",
+    "estilo_corte": "macacão clássico com alças e camiseta justa listrada",
+    "acessorios_visiveis": [
+      "máscara de personagem"
+    ],
+    "tematica_detalhada": "Fantasia do boneco assassino Chucky, referência à franquia de filmes de terror 'Brinquedo Assassino'"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8058.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 99.74,
+  "data_analise": "2026-07-27T21:50:57Z",
+  "data_criacao": "2026-07-27T18:50:57.719056-03:00"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 5639,
+  "nome_original": "She-ra",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa",
+      "tiara",
+      "braceletes"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado e detalhes metálicos",
+    "estilo_corte": "estilo túnica curta com corte em A e detalhes ornamentais no busto",
+    "acessorios_visiveis": [
+      "tiara com pontas",
+      "braceletes dourados",
+      "capa vermelha"
+    ],
+    "tematica_detalhada": "fantasia da personagem She-Ra, inspirada em guerreiras mágicas e estética de fantasia épica dos anos 80"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5639.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 41.55,
+  "data_analise": "2026-07-30T06:24:04Z",
+  "data_criacao": "2026-07-30T03:24:04.067535-03:00"
+}

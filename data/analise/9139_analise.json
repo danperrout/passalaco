@@ -1,0 +1,31 @@
+{
+  "id": 9139,
+  "nome_original": "Borboleta Halloween",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "asas",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético com acabamento em tule ou renda",
+    "estilo_corte": "vestido curto ajustado com alças finas e saia fluida",
+    "acessorios_visiveis": [
+      "asas de borboleta",
+      "luvas longas",
+      "colar/gargantilha"
+    ],
+    "tematica_detalhada": "Borboleta gótica ou sombria, adaptada para temática de Halloween"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9139.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.83,
+  "data_analise": "2026-07-27T18:19:31Z",
+  "data_criacao": "2026-07-27T15:19:31.446635-03:00"
+}

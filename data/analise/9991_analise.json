@@ -1,0 +1,31 @@
+{
+  "id": 9991,
+  "nome_original": "Coringa Vermelho",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "camisa",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco",
+    "estilo_corte": "terno slim fit clássico",
+    "acessorios_visiveis": [
+      "máscara de látex do Coringa"
+    ],
+    "tematica_detalhada": "Personagem Coringa (Joker), vilão da DC Comics, versão inspirada em trajes clássicos de cores vibrantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9991.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.71,
+  "data_analise": "2026-07-28T01:37:15Z",
+  "data_criacao": "2026-07-27T22:37:15.062488-03:00"
+}

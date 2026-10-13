@@ -1,0 +1,28 @@
+{
+  "id": 7607,
+  "nome_original": "Ninho New Born",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "tiara com orelhas",
+      "manta/casulo"
+    ],
+    "material_visual": "pelúcia macia e tecido sintético felpudo",
+    "estilo_corte": "formato circular envolvente para recém-nascido",
+    "acessorios_visiveis": [
+      "tiara de orelhas de coelho"
+    ],
+    "tematica_detalhada": "fantasia de coelhinho para ensaios newborn, remetendo a pureza e delicadeza infantil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7607.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 129.05,
+  "data_analise": "2026-07-29T23:43:24Z",
+  "data_criacao": "2026-07-29T20:43:24.331353-03:00"
+}

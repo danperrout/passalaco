@@ -1,0 +1,28 @@
+{
+  "id": 9088,
+  "nome_original": "Cruela",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com acabamento em tule na saia",
+    "estilo_corte": "estilo bipartido com saia curta e volumosa",
+    "acessorios_visiveis": [
+      "laço de cabelo"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Cruella de Vil, com referências a estampas de dálmatas e contraste monocromático"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9088.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 33.0,
+  "data_analise": "2026-07-28T02:18:59Z",
+  "data_criacao": "2026-07-27T23:18:59.992392-03:00"
+}

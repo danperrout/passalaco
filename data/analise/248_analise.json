@@ -1,0 +1,29 @@
+{
+  "id": 248,
+  "nome_original": "Bobo da Corte",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "chapéu de bobo da corte"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "corte geométrico com divisões verticais e bordas em zigue-zague",
+    "acessorios_visiveis": [
+      "chapéu com pontas múltiplas"
+    ],
+    "tematica_detalhada": "Bobo da Corte clássico, remetendo aos artistas de entretenimento da realeza medieval e renascentista"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/248.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.23,
+  "data_analise": "2026-07-27T18:16:28Z",
+  "data_criacao": "2026-07-27T15:16:28.291546-03:00"
+}

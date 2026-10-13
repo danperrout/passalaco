@@ -1,0 +1,30 @@
+{
+  "id": 6978,
+  "nome_original": "Noiva",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "véu"
+    ],
+    "material_visual": "tule e tecido sintético com aplicações florais",
+    "estilo_corte": "vestido curto com saia volumosa e mangas curtas",
+    "acessorios_visiveis": [
+      "tiara",
+      "véu"
+    ],
+    "tematica_detalhada": "fantasia de noiva estilizada e lúdica, com elementos florais coloridos que sugerem um tema romântico ou infantil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6978.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 138.75,
+  "data_analise": "2026-07-30T00:19:21Z",
+  "data_criacao": "2026-07-29T21:19:21.092924-03:00"
+}

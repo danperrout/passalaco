@@ -1,0 +1,33 @@
+{
+  "id": 6039,
+  "nome_original": "Cleopatra",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "gola egípcia",
+      "cinto com cauda",
+      "tiara"
+    ],
+    "material_visual": "tecido sintético branco e material metalizado dourado",
+    "estilo_corte": "vestido reto de comprimento longo com adornos estruturados",
+    "acessorios_visiveis": [
+      "tiara com detalhe superior",
+      "colar largo ornamentado",
+      "cinto ornamentado"
+    ],
+    "tematica_detalhada": "Fantasia de Cleópatra, inspirada na realeza do Antigo Egito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6039.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 62.37,
+  "data_analise": "2026-07-27T23:03:25Z",
+  "data_criacao": "2026-07-27T20:03:25.422873-03:00"
+}

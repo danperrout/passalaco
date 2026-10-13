@@ -1,0 +1,32 @@
+{
+  "id": 4847,
+  "nome_original": "Joaninha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia",
+      "asas",
+      "tiara"
+    ],
+    "material_visual": "cetim brilhante e tecido sintético fosco",
+    "estilo_corte": "blusa justa e saia volumosa com babados",
+    "acessorios_visiveis": [
+      "tiara com antenas",
+      "asas de joaninha"
+    ],
+    "tematica_detalhada": "fantasia de inseto, especificamente uma joaninha, com foco em elementos lúdicos e infantis"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4847.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 73.77,
+  "data_analise": "2026-07-28T21:28:58Z",
+  "data_criacao": "2026-07-28T18:28:58.298340-03:00"
+}

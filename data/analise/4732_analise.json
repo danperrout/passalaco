@@ -1,0 +1,35 @@
+{
+  "id": 4732,
+  "nome_original": "Raposa Natal",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "máscara de cabeça completa",
+      "casaco",
+      "calça",
+      "luvas",
+      "botas"
+    ],
+    "material_visual": "cetim brilhante e pelúcia",
+    "estilo_corte": "estilo mascote oversized com corte inspirado no traje do Papai Noel",
+    "acessorios_visiveis": [
+      "cinto branco",
+      "gorro acoplado",
+      "pompom azul"
+    ],
+    "tematica_detalhada": "Fusão entre o animal raposa e a figura do Papai Noel, adaptada para as cores do inverno/gelo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4732.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.62,
+  "data_analise": "2026-07-30T04:34:27Z",
+  "data_criacao": "2026-07-30T01:34:27.180888-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 531,
+  "nome_original": "Diabinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa"
+    ],
+    "material_visual": "cetim ou poliéster com detalhes em renda e glitter",
+    "estilo_corte": "vestido curto com saia rodada e barra em pontas, corpete com amarração frontal",
+    "acessorios_visiveis": [
+      "tiara de chifres"
+    ],
+    "tematica_detalhada": "Fantasia de diabinha estilizada com elementos góticos e sensuais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/531.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.37,
+  "data_analise": "2026-07-28T02:59:11Z",
+  "data_criacao": "2026-07-27T23:59:11.153534-03:00"
+}

@@ -1,0 +1,35 @@
+{
+  "id": 6773,
+  "nome_original": "Cigano",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "colete",
+      "calça",
+      "lenço de cabeça",
+      "faixa de cintura"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado na camisa e acabamento fosco no colete e calça",
+    "estilo_corte": "estilo folclórico com camisa de mangas bufantes, colete curto e calça reta",
+    "acessorios_visiveis": [
+      "lenço vermelho na cabeça",
+      "faixa vermelha na cintura",
+      "detalhe de amarração no decote"
+    ],
+    "tematica_detalhada": "Fantasia de Cigano masculino, com referências ao traje tradicional romani estilizado para festas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6773.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 68.19,
+  "data_analise": "2026-07-27T22:17:19Z",
+  "data_criacao": "2026-07-27T19:17:19.673108-03:00"
+}

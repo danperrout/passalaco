@@ -1,0 +1,34 @@
+{
+  "id": 7435,
+  "nome_original": "Star Wars Luck",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "branco",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "cinto",
+      "bolsa lateral"
+    ],
+    "material_visual": "tecido sintético com aparência de linho ou algodão rústico",
+    "estilo_corte": "corte assimétrico com camadas sobrepostas e modelagem solta",
+    "acessorios_visiveis": [
+      "cinto largo",
+      "bolsa utilitária",
+      "protetor de pulso"
+    ],
+    "tematica_detalhada": "estética de Star Wars, inspirada nas vestimentas de Jedi ou habitantes de planetas desérticos como Tatooine"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7435.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.99,
+  "data_analise": "2026-07-30T07:23:26Z",
+  "data_criacao": "2026-07-30T04:23:26.303922-03:00"
+}

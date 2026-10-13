@@ -1,0 +1,24 @@
+{
+  "id": 6933,
+  "nome_original": "Alice",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com aspecto de cetim ou nylon",
+    "estilo_corte": "vestido curto com mangas bufantes e cintura marcada",
+    "acessorios_visiveis": [
+      "tiara ou laço no cabelo"
+    ],
+    "tematica_detalhada": "Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6933.jpg",
+  "data_analise": "2026-07-27T13:47:37Z"
+}

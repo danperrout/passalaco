@@ -1,0 +1,29 @@
+{
+  "id": 4366,
+  "nome_original": "Quepe Russo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde oliva",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "quepe"
+    ],
+    "material_visual": "tecido sintético com aspecto de sarja ou feltro",
+    "estilo_corte": "estilo side cap (gorro de guarnição) com topo pontiagudo",
+    "acessorios_visiveis": [
+      "estrela dourada",
+      "botão lateral"
+    ],
+    "tematica_detalhada": "estética militar soviética/russa, remetendo a uniformes de oficiais ou soldados do exército"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4366.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 22.63,
+  "data_analise": "2026-07-30T04:18:41Z",
+  "data_criacao": "2026-07-30T01:18:41.794793-03:00"
+}

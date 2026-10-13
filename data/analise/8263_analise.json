@@ -1,0 +1,30 @@
+{
+  "id": 8263,
+  "nome_original": "Branca de Neve",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "cetim e tule",
+    "estilo_corte": "estilo princesa com saia volumosa e mangas bufantes",
+    "acessorios_visiveis": [
+      "tiara com laço vermelho"
+    ],
+    "tematica_detalhada": "personagem Branca de Neve da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8263.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.59,
+  "data_analise": "2026-07-27T18:20:34Z",
+  "data_criacao": "2026-07-27T15:20:34.115752-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 6803,
+  "nome_original": "Elvis",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça"
+    ],
+    "material_visual": "tecido sintético acetinado com aplicações de strass e bordados",
+    "estilo_corte": "conjunto bicolor com calça boca de sino e casaco de gola larga",
+    "acessorios_visiveis": [
+      "pedrarias coloridas",
+      "bordado de águias"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em Elvis Presley, especificamente em seus macacões icônicos da fase Las Vegas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6803.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 61.32,
+  "data_analise": "2026-07-28T03:44:07Z",
+  "data_criacao": "2026-07-28T00:44:07.250907-03:00"
+}

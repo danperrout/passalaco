@@ -1,0 +1,27 @@
+{
+  "id": 2618,
+  "nome_original": "Havaiano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga curta"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente poliéster",
+    "estilo_corte": "corte reto, gola aberta, estilo camisa havaiana",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "estilo tropical havaiano com estampas de paisagens paradisíacas, palmeiras e pôr do sol"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2618.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 92.71,
+  "data_analise": "2026-07-28T13:18:45Z",
+  "data_criacao": "2026-07-28T10:18:45.848946-03:00"
+}

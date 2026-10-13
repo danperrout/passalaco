@@ -1,0 +1,27 @@
+{
+  "id": 7225,
+  "nome_original": "Africana",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul",
+      "verde",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "turbante"
+    ],
+    "material_visual": "tecido com estampas coloridas e vibrantes",
+    "estilo_corte": "vestido longo e justo com turbante envolvente",
+    "acessorios_visiveis": [
+      "turbante"
+    ],
+    "tematica_detalhada": "fantasia inspirada em trajes tradicionais africanos com cores pan-africanas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7225.jpg",
+  "data_analise": "2026-07-27T13:36:34Z"
+}

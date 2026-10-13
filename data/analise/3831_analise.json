@@ -1,0 +1,33 @@
+{
+  "id": 3831,
+  "nome_original": "Domadora",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "saia",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado e franjas",
+    "estilo_corte": "casaco estruturado com ombreiras decoradas e saia curta plissada",
+    "acessorios_visiveis": [
+      "chapéu com pluma",
+      "cordões dourados ornamentais",
+      "franjas nos ombros"
+    ],
+    "tematica_detalhada": "domadora de circo clássica, com referências a uniformes militares de gala adaptados para entretenimento"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3831.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.74,
+  "data_analise": "2026-07-28T03:13:56Z",
+  "data_criacao": "2026-07-28T00:13:56.310559-03:00"
+}

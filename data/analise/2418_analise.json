@@ -1,0 +1,33 @@
+{
+  "id": 2418,
+  "nome_original": "Patati",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou cetim",
+    "estilo_corte": "estilo marinheiro com gola larga e barras onduladas",
+    "acessorios_visiveis": [
+      "laço vermelho",
+      "flor colorida no chapéu",
+      "franjas coloridas"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Patati, palhaço infantil brasileiro conhecido por apresentações musicais e lúdicas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2418.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 51.73,
+  "data_analise": "2026-07-30T02:38:37Z",
+  "data_criacao": "2026-07-29T23:38:37.682520-03:00"
+}

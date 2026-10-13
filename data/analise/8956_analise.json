@@ -1,0 +1,30 @@
+{
+  "id": 8956,
+  "nome_original": "Piloto Verde",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "boné"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou cetim",
+    "estilo_corte": "corte reto, estilo macacão de corrida com cintura marcada",
+    "acessorios_visiveis": [
+      "boné branco",
+      "patches de patrocinadores"
+    ],
+    "tematica_detalhada": "piloto de automobilismo/corrida, com referências a uniformes de equipes de Fórmula 1 ou Stock Car"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8956.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.22,
+  "data_analise": "2026-07-30T03:33:24Z",
+  "data_criacao": "2026-07-30T00:33:24.158144-03:00"
+}

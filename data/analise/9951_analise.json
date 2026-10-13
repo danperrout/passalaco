@@ -1,0 +1,28 @@
+{
+  "id": 9951,
+  "nome_original": "Divertidamente Tédio",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul royal"
+    ],
+    "pecas_inclusas": [
+      "blusa de manga longa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com aspecto de moletom ou elastano",
+    "estilo_corte": "estilo casual confortável, corte reto com punhos ajustados",
+    "acessorios_visiveis": [
+      "peruca azul"
+    ],
+    "tematica_detalhada": "Personagem Tédio (Ennui) do filme Divertidamente 2, caracterizado por roupas casuais em tons de azul e expressão de desinteresse"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9951.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 31.78,
+  "data_analise": "2026-07-28T03:10:51Z",
+  "data_criacao": "2026-07-28T00:10:51.116536-03:00"
+}

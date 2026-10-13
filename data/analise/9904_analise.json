@@ -1,0 +1,29 @@
+{
+  "id": 9904,
+  "nome_original": "Narizinho",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "blusa"
+    ],
+    "material_visual": "tecido sintético ou algodão com acabamento fosco",
+    "estilo_corte": "vestido modelo jardineira com saia rodada e blusa de mangas bufantes",
+    "acessorios_visiveis": [
+      "tiara com laço vermelho"
+    ],
+    "tematica_detalhada": "Personagem Narizinho, da obra Sítio do Picapau Amarelo, evocando um estilo camponês infantil clássico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9904.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.24,
+  "data_analise": "2026-07-29T23:30:59Z",
+  "data_criacao": "2026-07-29T20:30:59.232169-03:00"
+}

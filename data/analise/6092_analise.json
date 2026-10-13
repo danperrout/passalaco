@@ -1,0 +1,31 @@
+{
+  "id": 6092,
+  "nome_original": "Luigi",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Cosplay",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "macacão",
+      "boné"
+    ],
+    "material_visual": "tecido sintético com aspecto de poliéster",
+    "estilo_corte": "corte reto e folgado",
+    "acessorios_visiveis": [
+      "botões amarelos",
+      "logotipo L no boné"
+    ],
+    "tematica_detalhada": "Personagem Luigi da franquia de jogos Super Mario da Nintendo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6092.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.18,
+  "data_analise": "2026-07-29T12:43:37Z",
+  "data_criacao": "2026-07-29T09:43:37.736712-03:00"
+}

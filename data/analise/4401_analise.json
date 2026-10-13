@@ -1,0 +1,27 @@
+{
+  "id": 4401,
+  "nome_original": "Ursinho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "oversized/folgado",
+    "acessorios_visiveis": [
+      "orelhas integradas ao capuz"
+    ],
+    "tematica_detalhada": "Fantasia de urso ou animal antropomórfico em tom amarelo vibrante"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4401.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.43,
+  "data_analise": "2026-07-30T08:42:04Z",
+  "data_criacao": "2026-07-30T05:42:04.619608-03:00"
+}

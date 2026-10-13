@@ -1,0 +1,30 @@
+{
+  "id": 5646,
+  "nome_original": "Sambista",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "calça",
+      "touca"
+    ],
+    "material_visual": "tecido sintético leve",
+    "estilo_corte": "corte reto e folgado",
+    "acessorios_visiveis": [
+      "touca listrada"
+    ],
+    "tematica_detalhada": "fantasia de marinheiro ou personagem náutico, caracterizada pelas listras horizontais azuis e brancas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5646.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.15,
+  "data_analise": "2026-07-30T05:51:26Z",
+  "data_criacao": "2026-07-30T02:51:26.685954-03:00"
+}

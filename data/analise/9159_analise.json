@@ -1,0 +1,32 @@
+{
+  "id": 9159,
+  "nome_original": "Bat Girl",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "capa",
+      "vestido/corpo"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante",
+    "estilo_corte": "ajustado ao corpo com capa longa",
+    "acessorios_visiveis": [
+      "máscara com orelhas pontudas",
+      "cinto amarelo",
+      "emblema no peito"
+    ],
+    "tematica_detalhada": "Batgirl, personagem inspirada no universo DC Comics, derivada do Batman"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9159.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.98,
+  "data_analise": "2026-07-27T17:48:10Z",
+  "data_criacao": "2026-07-27T14:48:10.216025-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 9003,
+  "nome_original": "Junina Mf",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa",
+      "azul",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido estampado com acabamentos em renda e babados",
+    "estilo_corte": "estilo caipira com cintura marcada, saia rodada e decote em V com babados",
+    "acessorios_visiveis": [
+      "tiara com laço e fitas coloridas"
+    ],
+    "tematica_detalhada": "Festa Junina tradicional brasileira, representando a figura da noiva ou moça caipira"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9003.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 49.89,
+  "data_analise": "2026-07-29T06:50:27Z",
+  "data_criacao": "2026-07-29T03:50:27.394927-03:00"
+}

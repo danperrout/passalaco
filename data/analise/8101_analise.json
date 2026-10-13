@@ -1,0 +1,29 @@
+{
+  "id": 8101,
+  "nome_original": "Tiana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde limão",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético brilhante com detalhes em cetim",
+    "estilo_corte": "vestido curto com corpete justo e saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "tiara",
+      "flor decorativa na cintura"
+    ],
+    "tematica_detalhada": "Inspirada na Princesa Tiana do filme A Princesa e o Sapo, com elementos que remetem a folhas e natureza"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8101.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 71.65,
+  "data_analise": "2026-07-30T08:05:12Z",
+  "data_criacao": "2026-07-30T05:05:12.778742-03:00"
+}

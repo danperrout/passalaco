@@ -1,0 +1,32 @@
+{
+  "id": 5992,
+  "nome_original": "Rei",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "capa",
+      "calça"
+    ],
+    "material_visual": "tecido acetinado com adornos em galão dourado",
+    "estilo_corte": "casaco estruturado com corte reto e capa longa",
+    "acessorios_visiveis": [
+      "coroa",
+      "botas brancas"
+    ],
+    "tematica_detalhada": "realeza clássica europeia, evocando a imagem de um rei majestoso ou monarca imperial"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5992.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 52.77,
+  "data_analise": "2026-07-30T04:48:59Z",
+  "data_criacao": "2026-07-30T01:48:59.395250-03:00"
+}

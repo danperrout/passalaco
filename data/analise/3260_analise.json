@@ -1,0 +1,31 @@
+{
+  "id": 3260,
+  "nome_original": "Saia Chita",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "preto",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "saia",
+      "top"
+    ],
+    "material_visual": "tecido estampado tipo chita e malha lisa",
+    "estilo_corte": "saia curta rodada com cintura elástica e top justo estilo regata",
+    "acessorios_visiveis": [
+      "tiara de flores"
+    ],
+    "tematica_detalhada": "estilo regional brasileiro, remetendo a festas juninas, cultura caipira ou folclore popular"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3260.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 50.23,
+  "data_analise": "2026-07-30T05:41:24Z",
+  "data_criacao": "2026-07-30T02:41:24.154206-03:00"
+}

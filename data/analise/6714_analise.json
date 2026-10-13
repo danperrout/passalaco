@@ -1,0 +1,28 @@
+{
+  "id": 6714,
+  "nome_original": "Detetive do Predio Azul",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "casaco"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "estilo sobretudo com cintura marcada por faixa",
+    "acessorios_visiveis": [
+      "broche",
+      "faixa de amarração"
+    ],
+    "tematica_detalhada": "Fantasia inspirada nos personagens da série Detetives do Prédio Azul (DPB), remetendo ao vestuário investigativo infantil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6714.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 39.92,
+  "data_analise": "2026-07-28T02:51:13Z",
+  "data_criacao": "2026-07-27T23:51:13.719580-03:00"
+}

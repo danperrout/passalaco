@@ -1,0 +1,31 @@
+{
+  "id": 6993,
+  "nome_original": "Luigi",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "boné",
+      "camiseta de manga longa",
+      "jardineira"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster",
+    "estilo_corte": "ajuste padrão com jardineira de alças",
+    "acessorios_visiveis": [
+      "boné com a letra L",
+      "botões amarelos"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Luigi, da franquia de jogos Super Mario da Nintendo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6993.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 94.68,
+  "data_analise": "2026-07-29T12:31:11Z",
+  "data_criacao": "2026-07-29T09:31:11.850688-03:00"
+}

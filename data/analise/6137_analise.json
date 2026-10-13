@@ -1,0 +1,31 @@
+{
+  "id": 6137,
+  "nome_original": "Noiva Cadaver",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "off-white",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "véu"
+    ],
+    "material_visual": "renda, tule e tecido fluido com aspecto desgastado",
+    "estilo_corte": "estilo imperial com corpete ajustado e saia longa fluida",
+    "acessorios_visiveis": [
+      "guirlanda de flores na cabeça",
+      "buquê de flores brancas"
+    ],
+    "tematica_detalhada": "Noiva Cadáver, referência ao personagem de animação com estética gótica, melancólica e sobrenatural"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6137.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 19.31,
+  "data_analise": "2026-07-30T00:26:01Z",
+  "data_criacao": "2026-07-29T21:26:01.091043-03:00"
+}

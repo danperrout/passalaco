@@ -1,0 +1,32 @@
+{
+  "id": 9931,
+  "nome_original": "Fada",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Fadas/Duendes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde água",
+      "verde folha",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "coroa de flores"
+    ],
+    "material_visual": "tecido leve e fluido, possivelmente chiffon ou tule, com aplicações de folhas sintéticas e miçangas",
+    "estilo_corte": "vestido de corte assimétrico com um ombro só, cintura marcada e saia com babados verticais",
+    "acessorios_visiveis": [
+      "coroa de flores amarelas e brancas",
+      "detalhes de folhagens nos ombros",
+      "miçangas decorativas na saia"
+    ],
+    "tematica_detalhada": "Fada da Natureza ou Ninfa, com referências a elementos orgânicos, florestas e estética etérea"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9931.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.08,
+  "data_analise": "2026-07-28T04:41:36Z",
+  "data_criacao": "2026-07-28T01:41:36.683783-03:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 29,
+  "nome_original": "Alemă",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com renda",
+    "estilo_corte": "estilo dirndl com saia rodada e corpete ajustado",
+    "acessorios_visiveis": [
+      "tiara de flores coloridas"
+    ],
+    "tematica_detalhada": "traje típico alemão/bavaro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/29.jpg",
+  "data_analise": "2026-07-27T13:41:21Z"
+}

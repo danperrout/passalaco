@@ -1,0 +1,30 @@
+{
+  "id": 8382,
+  "nome_original": "Rainha Negra",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido curto com cauda",
+      "acessório de cabeça"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou poliéster, com detalhes em renda",
+    "estilo_corte": "estilo gótico/vitoriano com bustier ajustado, mangas bufantes curtas e saia curta evasê com cauda longa",
+    "acessorios_visiveis": [
+      "tiara ou fascinator de penas",
+      "detalhe de coração vermelho na saia"
+    ],
+    "tematica_detalhada": "Rainha de Copas em versão gótica/dark, misturando elementos de realeza com estética alternativa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8382.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.66,
+  "data_analise": "2026-07-30T04:33:24Z",
+  "data_criacao": "2026-07-30T01:33:24.662519-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 8588,
+  "nome_original": "Melindrosa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido com lantejoulas e franjas",
+    "estilo_corte": "curto, reto, com alças finas e detalhe de franjas no busto e na barra",
+    "acessorios_visiveis": [
+      "tiara com pluma rosa"
+    ],
+    "tematica_detalhada": "Estilo Melindrosa (Flapper) dos anos 20, referenciando a era do Jazz e a cultura Art Déco"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8588.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 117.65,
+  "data_analise": "2026-07-29T21:35:47Z",
+  "data_criacao": "2026-07-29T18:35:47.147193-03:00"
+}

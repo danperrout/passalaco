@@ -1,0 +1,31 @@
+{
+  "id": 6249,
+  "nome_original": "Chaves Feminino",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "preto",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "saia",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com aparência de malha e material plásticizado na saia",
+    "estilo_corte": "camiseta ajustada com listras horizontais, saia plissada curta e chapéu estilo marinheiro",
+    "acessorios_visiveis": [
+      "suspensórios laranjas"
+    ],
+    "tematica_detalhada": "Versão feminina do personagem Chaves (El Chavo del Ocho), referência à série de comédia mexicana"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6249.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 59.14,
+  "data_analise": "2026-07-27T20:43:54Z",
+  "data_criacao": "2026-07-27T17:43:54.653929-03:00"
+}

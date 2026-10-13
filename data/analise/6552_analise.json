@@ -1,0 +1,28 @@
+{
+  "id": 6552,
+  "nome_original": "Cascao",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "bermuda"
+    ],
+    "material_visual": "tecido sintético ou algodão",
+    "estilo_corte": "estilo casual com camiseta de manga curta e bermuda xadrez",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Personagem Cascão da Turma da Mônica, caracterizado pela camiseta amarela e bermuda vermelha xadrez"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6552.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.15,
+  "data_analise": "2026-07-27T19:38:56Z",
+  "data_criacao": "2026-07-27T16:38:56.802054-03:00"
+}

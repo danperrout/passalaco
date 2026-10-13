@@ -1,0 +1,31 @@
+{
+  "id": 6015,
+  "nome_original": "Raven Queen",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "capa longa",
+      "peruca"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante com detalhes em renda ou bordado no busto",
+    "estilo_corte": "corte império com saia evasê e capa fluida de comprimento total",
+    "acessorios_visiveis": [
+      "tiara/coroa",
+      "laço no pescoço"
+    ],
+    "tematica_detalhada": "Rainha Corvo (Raven Queen), inspirada em estética gótica real, personagem de Ever After High"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6015.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.18,
+  "data_analise": "2026-07-30T04:38:37Z",
+  "data_criacao": "2026-07-30T01:38:37.205217-03:00"
+}

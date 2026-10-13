@@ -1,0 +1,28 @@
+{
+  "id": 2338,
+  "nome_original": "Sapo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "tecido felpudo ou plush",
+    "estilo_corte": "estilo kigurumi ou macaquinho folgado",
+    "acessorios_visiveis": [
+      "capuz com detalhes de olhos e boca"
+    ],
+    "tematica_detalhada": "fantasia antropomórfica de sapo, com foco em aspecto lúdico e infantil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2338.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.67,
+  "data_analise": "2026-07-30T05:54:21Z",
+  "data_criacao": "2026-07-30T02:54:21.108618-03:00"
+}

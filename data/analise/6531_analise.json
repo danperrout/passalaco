@@ -1,0 +1,29 @@
+{
+  "id": 6531,
+  "nome_original": "Viuva Negra Vingadores",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "macacão inteiro"
+    ],
+    "material_visual": "tecido sintético com aspecto de couro ou elastano brilhante",
+    "estilo_corte": "justo ao corpo (slim fit) com decote em V",
+    "acessorios_visiveis": [
+      "cinto com fivela de ampulheta",
+      "protetores de joelho e cotovelo"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Viúva Negra (Natasha Romanoff) da franquia Vingadores da Marvel"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6531.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.64,
+  "data_analise": "2026-07-30T08:52:44Z",
+  "data_criacao": "2026-07-30T05:52:44.476280-03:00"
+}

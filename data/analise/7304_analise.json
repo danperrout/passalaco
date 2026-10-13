@@ -1,0 +1,31 @@
+{
+  "id": 7304,
+  "nome_original": "Goku",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Cosplay",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "calça",
+      "camiseta de manga longa"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "estilo artes marciais/gi",
+    "acessorios_visiveis": [
+      "faixa na cintura",
+      "emblema no peito"
+    ],
+    "tematica_detalhada": "Personagem Goku da série Dragon Ball, inspirada em trajes de luta orientais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7304.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 59.32,
+  "data_analise": "2026-07-28T11:08:01Z",
+  "data_criacao": "2026-07-28T08:08:01.076524-03:00"
+}

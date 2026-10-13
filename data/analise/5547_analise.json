@@ -1,0 +1,32 @@
+{
+  "id": 5547,
+  "nome_original": "Chef de Cozinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa choque"
+    ],
+    "pecas_inclusas": [
+      "dólmã",
+      "chapéu de chef",
+      "saia/avental",
+      "meias"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado e detalhes em renda ou bordado",
+    "estilo_corte": "corte clássico de chef com gola alta e botões frontais, ajustado para criança",
+    "acessorios_visiveis": [
+      "toque de chef",
+      "faixa decorativa"
+    ],
+    "tematica_detalhada": "Chef de Cozinha estilizada com estética feminina e cores vibrantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5547.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 59.19,
+  "data_analise": "2026-07-27T20:47:11Z",
+  "data_criacao": "2026-07-27T17:47:11.380766-03:00"
+}

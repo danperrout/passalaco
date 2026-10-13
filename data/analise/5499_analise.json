@@ -1,0 +1,31 @@
+{
+  "id": 5499,
+  "nome_original": "Grego",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "estola/manto"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado e detalhes em bordas douradas",
+    "estilo_corte": "túnica longa de corte reto com decote arredondado e manto drapeado transversal",
+    "acessorios_visiveis": [
+      "coroa de louros dourada",
+      "braceletes dourados"
+    ],
+    "tematica_detalhada": "Fantasia de Grécia Antiga, remetendo a figuras como deuses olímpicos, filósofos ou imperadores romanos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5499.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 81.75,
+  "data_analise": "2026-07-28T11:25:50Z",
+  "data_criacao": "2026-07-28T08:25:50.696459-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 9119,
+  "nome_original": "Elfo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "capa"
+    ],
+    "material_visual": "renda com aplicações de pedrarias e tecido acetinado na capa",
+    "estilo_corte": "corte sereia com fenda lateral e decote frontal",
+    "acessorios_visiveis": [
+      "tiara",
+      "colar"
+    ],
+    "tematica_detalhada": "fantasia de elfo de alta fantasia, com referências a personagens nobres ou reais de universos como O Senhor dos Anéis"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9119.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.78,
+  "data_analise": "2026-07-28T03:29:29Z",
+  "data_criacao": "2026-07-28T00:29:29.849029-03:00"
+}

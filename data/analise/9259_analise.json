@@ -1,0 +1,28 @@
+{
+  "id": 9259,
+  "nome_original": "Barbie",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com aparência de organza ou tule",
+    "estilo_corte": "vestido rodado com saia volumosa e decote em U",
+    "acessorios_visiveis": [
+      "tiara de princesa"
+    ],
+    "tematica_detalhada": "estética Barbie Core, inspirada em bonecas clássicas e no estilo princesa contemporâneo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9259.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 27.72,
+  "data_analise": "2026-07-27T17:44:58Z",
+  "data_criacao": "2026-07-27T14:44:58.424698-03:00"
+}

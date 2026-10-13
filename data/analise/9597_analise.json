@@ -1,0 +1,31 @@
+{
+  "id": 9597,
+  "nome_original": "Roupa de Pet Bruxinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza",
+      "preto",
+      "roxo",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "roupa principal",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético aveludado e feltro",
+    "estilo_corte": "modelo vestidinho para pet com ajuste de peitoral",
+    "acessorios_visiveis": [
+      "chapéu de bruxa"
+    ],
+    "tematica_detalhada": "fantasia de bruxinha para animais de estimação, com referências clássicas ao Halloween"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9597.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 49.14,
+  "data_analise": "2026-07-30T05:04:21Z",
+  "data_criacao": "2026-07-30T02:04:21.563730-03:00"
+}

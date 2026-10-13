@@ -1,0 +1,31 @@
+{
+  "id": 3876,
+  "nome_original": "The Flash",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com aspecto de elastano ou poliéster",
+    "estilo_corte": "ajustado ao corpo (slim fit) com detalhes em relevo no peitoral",
+    "acessorios_visiveis": [
+      "cinto amarelo com raio",
+      "máscara com detalhes laterais",
+      "botas amarelas"
+    ],
+    "tematica_detalhada": "Fantasia do personagem The Flash, super-herói da DC Comics conhecido por sua supervelocidade"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3876.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.1,
+  "data_analise": "2026-07-30T07:45:05Z",
+  "data_criacao": "2026-07-30T04:45:05.430198-03:00"
+}

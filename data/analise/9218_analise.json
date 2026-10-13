@@ -1,0 +1,31 @@
+{
+  "id": 9218,
+  "nome_original": "Maria Bonita",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "vestido curto com saia evasê e mangas curtas",
+    "acessorios_visiveis": [
+      "bandoleiras cruzadas",
+      "lenço vermelho no pescoço",
+      "chapéu de couro estilizado"
+    ],
+    "tematica_detalhada": "Cangaço brasileiro, representando a figura histórica de Maria Bonita"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9218.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.78,
+  "data_analise": "2026-07-29T17:37:35Z",
+  "data_criacao": "2026-07-29T14:37:35.053832-03:00"
+}

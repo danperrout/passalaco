@@ -1,0 +1,30 @@
+{
+  "id": 4577,
+  "nome_original": "Sininho",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com brilho/glitter",
+    "estilo_corte": "vestido curto com alças finas e barra em formato de pontas/zig-zag",
+    "acessorios_visiveis": [
+      "asas de fada",
+      "tiara",
+      "bolsa pequena"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Sininho (Tinker Bell), inspirada em fadas da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4577.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 35.93,
+  "data_analise": "2026-07-30T06:43:36Z",
+  "data_criacao": "2026-07-30T03:43:36.766797-03:00"
+}

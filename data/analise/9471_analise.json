@@ -1,0 +1,28 @@
+{
+  "id": 9471,
+  "nome_original": "Capa Luxo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Preto"
+    ],
+    "pecas_inclusas": [
+      "Capa com capuz"
+    ],
+    "material_visual": "Veludo",
+    "estilo_corte": "Corte longo e fluido com capuz amplo",
+    "acessorios_visiveis": [
+      "Broche ou fecho metálico ornamentado"
+    ],
+    "tematica_detalhada": "Fantasia de estilo gótico, místico ou vampírico, remetendo a capas de nobreza antiga ou personagens de fantasia sombria"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9471.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 61.34,
+  "data_analise": "2026-07-27T18:57:26Z",
+  "data_criacao": "2026-07-27T15:57:26.221222-03:00"
+}

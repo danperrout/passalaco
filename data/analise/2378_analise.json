@@ -1,0 +1,29 @@
+{
+  "id": 2378,
+  "nome_original": "Mascara",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Máscaras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "máscara"
+    ],
+    "material_visual": "veludo ou tecido aveludado com aplicação de tecido sintético na flor",
+    "estilo_corte": "máscara de baile veneziana cobrindo a área dos olhos",
+    "acessorios_visiveis": [
+      "joia central dourada",
+      "flor lateral vermelha"
+    ],
+    "tematica_detalhada": "estilo carnaval de Veneza, baile de máscaras ou temática luxuosa/romântica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2378.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 41.76,
+  "data_analise": "2026-07-29T18:32:40Z",
+  "data_criacao": "2026-07-29T15:32:40.294502-03:00"
+}

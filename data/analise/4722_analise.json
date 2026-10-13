@@ -1,0 +1,33 @@
+{
+  "id": 4722,
+  "nome_original": "Sesshomaru",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "estola de pele",
+      "faixa",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético e pele sintética",
+    "estilo_corte": "estilo kimono tradicional japonês com camadas",
+    "acessorios_visiveis": [
+      "peruca longa prateada",
+      "estola branca com detalhes amarelos"
+    ],
+    "tematica_detalhada": "Cosplay do personagem Sesshomaru do anime Inuyasha, referenciando a nobreza dos Youkai"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4722.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 127.8,
+  "data_analise": "2026-07-30T06:23:21Z",
+  "data_criacao": "2026-07-30T03:23:21.618031-03:00"
+}

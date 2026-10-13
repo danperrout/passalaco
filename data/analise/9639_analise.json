@@ -1,0 +1,26 @@
+{
+  "id": 9639,
+  "nome_original": "Beetlejuice",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão"
+    ],
+    "material_visual": "tecido sintético com elastano",
+    "estilo_corte": "ajustado ao corpo (slim fit) com estampa de listras verticais",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Personagem Beetlejuice, referência ao filme de Tim Burton, com estética gótica e surrealista"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9639.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.45,
+  "data_analise": "2026-07-27T17:51:03Z",
+  "data_criacao": "2026-07-27T14:51:03.128658-03:00"
+}

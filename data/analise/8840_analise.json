@@ -1,0 +1,35 @@
+{
+  "id": 8840,
+  "nome_original": "Jasmine e Jafar",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul turquesa",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "calça bufante",
+      "túnica longa",
+      "capa",
+      "faixa abdominal"
+    ],
+    "material_visual": "tecido sintético com brilho e detalhes dourados",
+    "estilo_corte": "estilo árabe com modelagem solta e cintura marcada",
+    "acessorios_visiveis": [
+      "tiara",
+      "colar",
+      "turbante"
+    ],
+    "tematica_detalhada": "Personagens Jasmine e Jafar do filme Aladdin, inspirados na cultura árabe e fantasia oriental"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8840.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 260.96,
+  "data_analise": "2026-07-28T20:12:07Z",
+  "data_criacao": "2026-07-28T17:12:07.570934-03:00"
+}

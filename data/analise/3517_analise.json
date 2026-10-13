@@ -1,0 +1,33 @@
+{
+  "id": 3517,
+  "nome_original": "Padre",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "batina",
+      "capa curta",
+      "estola/faixa",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado na faixa",
+    "estilo_corte": "corte longo e reto com capelete sobreposto",
+    "acessorios_visiveis": [
+      "colar com cruz",
+      "colarinho clerical",
+      "chapéu"
+    ],
+    "tematica_detalhada": "fantasia de padre católico, baseada em vestimentas clericais tradicionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3517.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 117.59,
+  "data_analise": "2026-07-30T01:23:50Z",
+  "data_criacao": "2026-07-29T22:23:50.356606-03:00"
+}

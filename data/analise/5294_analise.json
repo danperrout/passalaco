@@ -1,0 +1,33 @@
+{
+  "id": 5294,
+  "nome_original": "Soldado Ingles",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Preto",
+      "Dourado"
+    ],
+    "pecas_inclusas": [
+      "Túnica",
+      "Calça",
+      "Chapéu"
+    ],
+    "material_visual": "Tecido sintético com brilho acetinado",
+    "estilo_corte": "Corte reto com fechamento frontal ornamentado",
+    "acessorios_visiveis": [
+      "Chapéu de pele sintética",
+      "Cordões dourados",
+      "Detalhes de dragonas nos ombros"
+    ],
+    "tematica_detalhada": "Soldado da Guarda Real Britânica, referenciando os guardas do Palácio de Buckingham"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5294.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 32.38,
+  "data_analise": "2026-07-30T07:05:58Z",
+  "data_criacao": "2026-07-30T04:05:58.555132-03:00"
+}

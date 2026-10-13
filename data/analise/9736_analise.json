@@ -1,0 +1,31 @@
+{
+  "id": 9736,
+  "nome_original": "Noiva Cadaver",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "véu"
+    ],
+    "material_visual": "cetim ou tecido sintético com brilho",
+    "estilo_corte": "estilo sereia com corpete ajustado e saia fluida drapeada",
+    "acessorios_visiveis": [
+      "colar de pérolas",
+      "tiara",
+      "buquê de flores"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Emily do filme 'A Noiva Cadáver', misturando elementos nupciais com estética gótica e melancólica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9736.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 41.45,
+  "data_analise": "2026-07-30T00:27:25Z",
+  "data_criacao": "2026-07-29T21:27:25.057398-03:00"
+}

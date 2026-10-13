@@ -1,0 +1,29 @@
+{
+  "id": 3827,
+  "nome_original": "Vestido Vermelho",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "vestido"
+    ],
+    "material_visual": "tecido sintético, penas e glitter",
+    "estilo_corte": "chapéu cônico de aba larga e vestido com decote em V e mangas transparentes",
+    "acessorios_visiveis": [
+      "chapéu de bruxa"
+    ],
+    "tematica_detalhada": "fantasia de bruxa, referência clássica ao Halloween e folclore mágico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3827.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.17,
+  "data_analise": "2026-07-30T08:49:16Z",
+  "data_criacao": "2026-07-30T05:49:16.002452-03:00"
+}

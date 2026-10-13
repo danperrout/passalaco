@@ -1,0 +1,28 @@
+{
+  "id": 5392,
+  "nome_original": "Stitch",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "azul claro"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "pelúcia macia",
+    "estilo_corte": "estilo kigurumi / pijama oversized",
+    "acessorios_visiveis": [
+      "orelhas integradas ao capuz"
+    ],
+    "tematica_detalhada": "Personagem Stitch do filme Lilo & Stitch da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5392.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.18,
+  "data_analise": "2026-07-30T07:24:48Z",
+  "data_criacao": "2026-07-30T04:24:48.286811-03:00"
+}

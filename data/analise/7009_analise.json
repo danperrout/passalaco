@@ -1,0 +1,29 @@
+{
+  "id": 7009,
+  "nome_original": "Tiara Melindrosa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "tiara"
+    ],
+    "material_visual": "pedrarias, strass e penas",
+    "estilo_corte": "faixa frontal ornamentada",
+    "acessorios_visiveis": [
+      "penas brancas",
+      "cristais"
+    ],
+    "tematica_detalhada": "Estilo Melindrosa (Flapper) dos anos 20, referência à era do Jazz e ao Art Déco"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7009.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.59,
+  "data_analise": "2026-07-30T08:11:46Z",
+  "data_criacao": "2026-07-30T05:11:46.146796-03:00"
+}

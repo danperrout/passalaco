@@ -1,0 +1,32 @@
+{
+  "id": 4705,
+  "nome_original": "Magica",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "cartola",
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com acabamento em franjas metálicas",
+    "estilo_corte": "vestido curto com corpete ajustado e detalhes de ombreiras",
+    "acessorios_visiveis": [
+      "cartola com fita",
+      "botões dourados decorativos",
+      "franjas douradas"
+    ],
+    "tematica_detalhada": "fantasia de mestre de cerimônias ou mágico de circo, com referências a apresentadores de espetáculos clássicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4705.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 68.03,
+  "data_analise": "2026-07-29T15:59:42Z",
+  "data_criacao": "2026-07-29T12:59:42.771164-03:00"
+}

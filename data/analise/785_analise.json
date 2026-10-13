@@ -1,0 +1,33 @@
+{
+  "id": 785,
+  "nome_original": "Kiko",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "camisa estilo marinheiro",
+      "bermuda",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte reto e largo",
+    "acessorios_visiveis": [
+      "gravata vermelha",
+      "quepe amarelo"
+    ],
+    "tematica_detalhada": "fantasia do personagem Kiko, do seriado Chaves, baseada em um traje de marinheiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/785.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 35.51,
+  "data_analise": "2026-07-29T08:13:39Z",
+  "data_criacao": "2026-07-29T05:13:39.979082-03:00"
+}

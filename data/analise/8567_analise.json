@@ -1,0 +1,27 @@
+{
+  "id": 8567,
+  "nome_original": "Aladim",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul escuro",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "calça",
+      "gorro"
+    ],
+    "material_visual": "tecido sintético com detalhes dourados",
+    "estilo_corte": "estilo árabe com calça bufante e colete aberto",
+    "acessorios_visiveis": [
+      "chapéu/turbante"
+    ],
+    "tematica_detalhada": "personagem Aladim"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8567.jpg",
+  "data_analise": "2026-07-27T13:39:05Z"
+}

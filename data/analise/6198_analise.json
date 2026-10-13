@@ -1,0 +1,29 @@
+{
+  "id": 6198,
+  "nome_original": "Padre",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "batina",
+      "estola"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "túnica longa com mangas compridas e gola alta",
+    "acessorios_visiveis": [
+      "estola branca"
+    ],
+    "tematica_detalhada": "Fantasia de padre católico, baseada em vestes litúrgicas tradicionais do clero"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6198.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 125.14,
+  "data_analise": "2026-07-30T01:19:07Z",
+  "data_criacao": "2026-07-29T22:19:07.062675-03:00"
+}

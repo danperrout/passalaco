@@ -1,0 +1,29 @@
+{
+  "id": 9569,
+  "nome_original": "Bruxa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Halloween Infantil",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "vestido"
+    ],
+    "material_visual": "tule e tecido sintético acetinado",
+    "estilo_corte": "vestido curto com corpete ajustado e saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "chapéu de bruxa pontudo"
+    ],
+    "tematica_detalhada": "Bruxa clássica com estética moderna/fashion, focada em cores contrastantes de Halloween"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9569.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.12,
+  "data_analise": "2026-07-27T18:27:59Z",
+  "data_criacao": "2026-07-27T15:27:59.809082-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 590,
+  "nome_original": "Espanhola",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim e renda",
+    "estilo_corte": "corte evasê com saia em camadas e corpete com detalhe de amarração",
+    "acessorios_visiveis": [
+      "mantilha de renda",
+      "flores decorativas no cabelo"
+    ],
+    "tematica_detalhada": "Fantasia de dançarina de Flamenco, referenciando a cultura tradicional espanhola"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/590.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.67,
+  "data_analise": "2026-07-28T03:53:50Z",
+  "data_criacao": "2026-07-28T00:53:50.084851-03:00"
+}

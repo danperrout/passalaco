@@ -1,0 +1,30 @@
+{
+  "id": 4137,
+  "nome_original": "Bombeiro",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "calça",
+      "capacete"
+    ],
+    "material_visual": "tecido sintético com aparência de brim ou sarja",
+    "estilo_corte": "uniforme utilitário com corte reto e fechamento frontal",
+    "acessorios_visiveis": [
+      "capacete de bombeiro"
+    ],
+    "tematica_detalhada": "fantasia de bombeiro, inspirada em uniformes de serviço de emergência e combate a incêndios"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4137.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.35,
+  "data_analise": "2026-07-27T18:17:58Z",
+  "data_criacao": "2026-07-27T15:17:58.644535-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 5358,
+  "nome_original": "Gatinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara de orelhas"
+    ],
+    "material_visual": "cetim, tule e detalhes em glitter dourado",
+    "estilo_corte": "vestido curto com corpete justo e saia curta volumosa em camadas",
+    "acessorios_visiveis": [
+      "tiara com orelhas de gato"
+    ],
+    "tematica_detalhada": "fantasia de gatinha estilizada, com elementos lúdicos e cores contrastantes típicas de festas infantis ou temáticas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5358.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10313.71,
+  "data_analise": "2026-07-28T10:21:14Z",
+  "data_criacao": "2026-07-28T07:21:14.195805-03:00"
+}

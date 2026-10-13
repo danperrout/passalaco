@@ -1,0 +1,29 @@
+{
+  "id": 7851,
+  "nome_original": "Lol",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido com lantejoulas",
+    "estilo_corte": "vestido curto com camadas em babados",
+    "acessorios_visiveis": [
+      "tiara com pompons amarelos",
+      "peruca castanha"
+    ],
+    "tematica_detalhada": "fantasia de abelha, caracterizada pelas cores contrastantes e pompons que remetem a antenas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7851.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 49.58,
+  "data_analise": "2026-07-29T12:16:24Z",
+  "data_criacao": "2026-07-29T09:16:24.637581-03:00"
+}

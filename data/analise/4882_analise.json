@@ -1,0 +1,32 @@
+{
+  "id": 4882,
+  "nome_original": "Soldado",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde escuro",
+      "preto",
+      "verde oliva"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "calça",
+      "camiseta",
+      "bandana"
+    ],
+    "material_visual": "tecido sintético resistente com estampa camuflada",
+    "estilo_corte": "estilo militar utilitário com múltiplos bolsos",
+    "acessorios_visiveis": [
+      "bandana para a cabeça"
+    ],
+    "tematica_detalhada": "fantasia de soldado militar com camuflagem tática, referenciando forças armadas ou personagens de jogos de guerra"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4882.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.83,
+  "data_analise": "2026-07-30T07:00:08Z",
+  "data_criacao": "2026-07-30T04:00:08.864899-03:00"
+}

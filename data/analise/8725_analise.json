@@ -1,0 +1,34 @@
+{
+  "id": 8725,
+  "nome_original": "Mickey",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "branco",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "camisa",
+      "calça",
+      "tiara com orelhas"
+    ],
+    "material_visual": "tecido sintético, possivelmente cetim ou poliéster",
+    "estilo_corte": "estilo social formal infantil",
+    "acessorios_visiveis": [
+      "gravata borboleta amarela",
+      "orelhas de Mickey"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Mickey Mouse da Disney, simulando um traje de gala/social"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8725.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.69,
+  "data_analise": "2026-07-29T22:23:18Z",
+  "data_criacao": "2026-07-29T19:23:18.944851-03:00"
+}

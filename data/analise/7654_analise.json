@@ -1,0 +1,32 @@
+{
+  "id": 7654,
+  "nome_original": "La Casa de Papel",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "macacão utilitário de corte reto com zíper frontal",
+    "acessorios_visiveis": [
+      "cinto preto",
+      "coldre de perna",
+      "máscara de Salvador Dalí"
+    ],
+    "tematica_detalhada": "Fantasia inspirada nos personagens da série La Casa de Papel, representando os assaltantes do Banco da Espanha/Casa da Moeda"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7654.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 32.27,
+  "data_analise": "2026-07-29T08:19:23Z",
+  "data_criacao": "2026-07-29T05:19:23.869217-03:00"
+}

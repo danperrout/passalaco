@@ -1,0 +1,33 @@
+{
+  "id": 3960,
+  "nome_original": "Nobre",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "bege",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "colete",
+      "calças",
+      "jabot"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado e adornos dourados",
+    "estilo_corte": "corte colonial com casaco longo e calças curtas (estilo culotte)",
+    "acessorios_visiveis": [
+      "peruca branca",
+      "detalhes bordados dourados"
+    ],
+    "tematica_detalhada": "Nobreza europeia do século XVIII, remetendo ao período Barroco ou Rococó, estilo aristocrata"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3960.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.89,
+  "data_analise": "2026-07-29T23:55:19Z",
+  "data_criacao": "2026-07-29T20:55:19.759584-03:00"
+}

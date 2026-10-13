@@ -1,0 +1,29 @@
+{
+  "id": 8712,
+  "nome_original": "Fred",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "preto",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "túnica"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente poliéster",
+    "estilo_corte": "corte amplo estilo túnica com bainha irregular e rasgada",
+    "acessorios_visiveis": [
+      "detalhe central azul com apliques"
+    ],
+    "tematica_detalhada": "fantasia de personagem rústico ou tribal, com referências a roupas desgastadas e remendadas, possivelmente inspirada em personagens de fantasia ou pré-históricos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8712.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 58.48,
+  "data_analise": "2026-07-28T06:16:57Z",
+  "data_criacao": "2026-07-28T03:16:57.070661-03:00"
+}

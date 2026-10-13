@@ -1,0 +1,35 @@
+{
+  "id": 8773,
+  "nome_original": "Lobo Mau e Chapeuzinho Vermelho",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "máscara de lobo",
+      "macacão vermelho",
+      "camiseta preta",
+      "capa com capuz vermelha",
+      "vestido",
+      "avental branco"
+    ],
+    "material_visual": "tecido sintético e material peludo na máscara",
+    "estilo_corte": "conjunto composto por macacão reto e vestido infantil com saia rodada",
+    "acessorios_visiveis": [
+      "máscara de lobo",
+      "capuz"
+    ],
+    "tematica_detalhada": "Fantasia temática do conto de fadas Chapeuzinho Vermelho e o Lobo Mau"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8773.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 94.68,
+  "data_analise": "2026-07-29T12:13:09Z",
+  "data_criacao": "2026-07-29T09:13:09.618485-03:00"
+}

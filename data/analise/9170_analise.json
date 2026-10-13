@@ -1,0 +1,30 @@
+{
+  "id": 9170,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa choque",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "arranjo de cabeça"
+    ],
+    "material_visual": "tecido sintético translúcido e plumas ou fibras sintéticas volumosas",
+    "estilo_corte": "vestido longo de corte reto com transparência e decote em V",
+    "acessorios_visiveis": [
+      "colar de pedrarias",
+      "tiara volumosa de plumas"
+    ],
+    "tematica_detalhada": "estética de carnaval, inspirado em passistas ou rainhas de bateria, com foco em exuberância e glamour"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9170.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 96.12,
+  "data_analise": "2026-07-27T19:23:12Z",
+  "data_criacao": "2026-07-27T16:23:12.776703-03:00"
+}

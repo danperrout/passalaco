@@ -1,0 +1,33 @@
+{
+  "id": 1409,
+  "nome_original": "Xerife",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "colete",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte clássico de traje ocidental",
+    "acessorios_visiveis": [
+      "distintivo de estrela",
+      "cinto com fivela",
+      "gravata fina"
+    ],
+    "tematica_detalhada": "Xerife do Velho Oeste americano, referenciando a lei e a ordem na era dos cowboys"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1409.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.69,
+  "data_analise": "2026-07-30T09:01:19Z",
+  "data_criacao": "2026-07-30T06:01:19.233812-03:00"
+}

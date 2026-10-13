@@ -1,0 +1,33 @@
+{
+  "id": 4990,
+  "nome_original": "Ryu",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "kimono",
+      "calça",
+      "faixa",
+      "bandana"
+    ],
+    "material_visual": "tecido sintético leve",
+    "estilo_corte": "estilo artes marciais com mangas rasgadas",
+    "acessorios_visiveis": [
+      "faixa preta",
+      "bandana vermelha"
+    ],
+    "tematica_detalhada": "Personagem Ryu da série de jogos Street Fighter, referenciando lutadores de karatê e artes marciais japonesas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4990.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 36.33,
+  "data_analise": "2026-07-30T05:06:56Z",
+  "data_criacao": "2026-07-30T02:06:56.034270-03:00"
+}

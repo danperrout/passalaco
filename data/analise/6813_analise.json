@@ -1,0 +1,31 @@
+{
+  "id": 6813,
+  "nome_original": "Mario",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Cosplay",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "macacão",
+      "boné"
+    ],
+    "material_visual": "tecido sintético ou algodão fosco",
+    "estilo_corte": "estilo jardineira com corte reto e camiseta de manga curta",
+    "acessorios_visiveis": [
+      "boné com logo",
+      "botões amarelos decorativos"
+    ],
+    "tematica_detalhada": "Personagem Mario da franquia Super Mario da Nintendo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6813.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.46,
+  "data_analise": "2026-07-29T18:22:28Z",
+  "data_criacao": "2026-07-29T15:22:28.424394-03:00"
+}

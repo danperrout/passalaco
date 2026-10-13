@@ -1,0 +1,27 @@
+{
+  "id": 9131,
+  "nome_original": "Corset",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "corset"
+    ],
+    "material_visual": "tecido texturizado com detalhes em brilho e franjas na barra",
+    "estilo_corte": "tomara que caia com busto estruturado e modelagem ajustada ao corpo",
+    "acessorios_visiveis": [
+      "alças finas transparentes"
+    ],
+    "tematica_detalhada": "estilo cabaret, burlesco ou noite festiva, com referências a roupas de performance e dança"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9131.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 33.91,
+  "data_analise": "2026-07-28T01:46:00Z",
+  "data_criacao": "2026-07-27T22:46:00.254099-03:00"
+}

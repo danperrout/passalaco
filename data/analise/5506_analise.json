@@ -1,0 +1,34 @@
+{
+  "id": 5506,
+  "nome_original": "Mulher Maravilha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia",
+      "capa",
+      "tiara"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante",
+    "estilo_corte": "conjunto de duas peças com saia curta plissada e top justo",
+    "acessorios_visiveis": [
+      "tiara",
+      "braceletes",
+      "capa"
+    ],
+    "tematica_detalhada": "Mulher Maravilha, super-heroína da DC Comics, inspirada no visual clássico dos quadrinhos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5506.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 47.91,
+  "data_analise": "2026-07-29T23:25:33Z",
+  "data_criacao": "2026-07-29T20:25:33.068873-03:00"
+}

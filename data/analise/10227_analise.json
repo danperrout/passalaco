@@ -1,0 +1,28 @@
+{
+  "id": 10227,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com textura e babados de renda",
+    "estilo_corte": "ombro a ombro com saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "tiara com flor e fitas"
+    ],
+    "tematica_detalhada": "Festa Junina, inspirada no traje típico caipira estilizado com elementos modernos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10227.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 29.44,
+  "data_analise": "2026-07-29T02:04:26Z",
+  "data_criacao": "2026-07-28T23:04:26.617615-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 9979,
+  "nome_original": "Vampira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "roxo",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido curto com cauda",
+      "gola alta",
+      "luvas longas"
+    ],
+    "material_visual": "veludo e cetim com detalhes em renda",
+    "estilo_corte": "estilo corset no busto com saia bufante e cauda longa",
+    "acessorios_visiveis": [
+      "luvas",
+      "gola draculiana"
+    ],
+    "tematica_detalhada": "Vampira gótica com influências de moda vitoriana e elementos de fantasia dark"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9979.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.23,
+  "data_analise": "2026-07-30T08:47:41Z",
+  "data_criacao": "2026-07-30T05:47:41.913275-03:00"
+}

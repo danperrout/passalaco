@@ -1,0 +1,31 @@
+{
+  "id": 10044,
+  "nome_original": "Palhaço Assassino",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara"
+    ],
+    "material_visual": "poliéster sintético e plástico",
+    "estilo_corte": "macacão de peça única com gola arredondada e mangas curtas",
+    "acessorios_visiveis": [
+      "máscara de palhaço",
+      "pompons vermelhos"
+    ],
+    "tematica_detalhada": "Palhaço Assassino, inspirada em personagens de terror contemporâneos como Pennywise ou Art the Clown"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10044.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.71,
+  "data_analise": "2026-07-30T01:55:00Z",
+  "data_criacao": "2026-07-29T22:55:00.028731-03:00"
+}

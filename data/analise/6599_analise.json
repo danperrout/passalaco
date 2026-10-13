@@ -1,0 +1,32 @@
+{
+  "id": 6599,
+  "nome_original": "Freddy Krugger",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "verde escuro",
+      "marrom",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camiseta de manga longa",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com aspecto de malha e feltro",
+    "estilo_corte": "camiseta com listras horizontais e barra irregular, calça de corte reto e chapéu de aba larga",
+    "acessorios_visiveis": [
+      "luva com garras metálicas"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Freddy Krueger, ícone da franquia de filmes de terror A Hora do Pesadelo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6599.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 27.33,
+  "data_analise": "2026-07-28T06:32:58Z",
+  "data_criacao": "2026-07-28T03:32:58.940999-03:00"
+}

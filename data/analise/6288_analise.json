@@ -1,0 +1,28 @@
+{
+  "id": 6288,
+  "nome_original": "Rainha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim ou tecido sintético com brilho",
+    "estilo_corte": "estilo princesa com mangas bufantes, decote em U e saia curta na frente com cauda longa atrás",
+    "acessorios_visiveis": [
+      "coroa",
+      "peruca branca"
+    ],
+    "tematica_detalhada": "Rainha ou Princesa de contos de fada, com estética clássica e angelical"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6288.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 72.26,
+  "data_analise": "2026-07-30T04:20:54Z",
+  "data_criacao": "2026-07-30T01:20:54.430037-03:00"
+}

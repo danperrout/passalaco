@@ -1,0 +1,31 @@
+{
+  "id": 4908,
+  "nome_original": "Lobo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "verde",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "máscara de lobo",
+      "camisa xadrez",
+      "calça"
+    ],
+    "material_visual": "pelúcia sintética e tecido de algodão",
+    "estilo_corte": "estilo rústico com barras rasgadas e acabamento desfiado",
+    "acessorios_visiveis": [
+      "máscara com orelhas e focinho"
+    ],
+    "tematica_detalhada": "fantasia de lobisomem ou lobo antropomórfico com visual casual/caipira"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4908.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 22.32,
+  "data_analise": "2026-07-29T11:54:32Z",
+  "data_criacao": "2026-07-29T08:54:32.577721-03:00"
+}

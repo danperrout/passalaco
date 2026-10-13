@@ -1,0 +1,32 @@
+{
+  "id": 7734,
+  "nome_original": "Rei",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "dourado",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "manto",
+      "túnica",
+      "calça"
+    ],
+    "material_visual": "cetim e veludo sintético",
+    "estilo_corte": "túnica ajustada com manto longo e aberto",
+    "acessorios_visiveis": [
+      "coroa",
+      "colar ornamental"
+    ],
+    "tematica_detalhada": "Realeza clássica/medieval, inspirada em figuras de monarcas europeus ou personagens de contos de fada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7734.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 60.08,
+  "data_analise": "2026-07-30T04:47:17Z",
+  "data_criacao": "2026-07-30T01:47:17.359678-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2606,
+  "nome_original": "Paleto",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "verde oliva",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó"
+    ],
+    "material_visual": "tecido encorpado com trama xadrez, possivelmente lã ou poliéster",
+    "estilo_corte": "corte clássico, modelagem reta com lapela tradicional",
+    "acessorios_visiveis": [
+      "botões"
+    ],
+    "tematica_detalhada": "estilo vintage ou campestre, remetendo a trajes formais antigos, personagens de época ou estética 'grandfather core'"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2606.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.51,
+  "data_analise": "2026-07-30T01:28:44Z",
+  "data_criacao": "2026-07-29T22:28:44.697247-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 10156,
+  "nome_original": "Faraó",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "nemes (tocado)",
+      "saiote",
+      "capa",
+      "braceletes"
+    ],
+    "material_visual": "tecido acetinado com brilho",
+    "estilo_corte": "corte reto com drapeado na saia e caimento fluido na capa",
+    "acessorios_visiveis": [
+      "tocado egípcio",
+      "braceletes dourados"
+    ],
+    "tematica_detalhada": "Faraó do Antigo Egito, referenciando a realeza e a iconografia clássica egípcia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10156.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 61.61,
+  "data_analise": "2026-07-28T05:16:25Z",
+  "data_criacao": "2026-07-28T02:16:25.826953-03:00"
+}

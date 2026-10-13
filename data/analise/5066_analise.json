@@ -1,0 +1,29 @@
+{
+  "id": 5066,
+  "nome_original": "SDEV",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "tiara de orelhas"
+    ],
+    "material_visual": "tecido sintético, possivelmente plush ou poliéster",
+    "estilo_corte": "estilo kigurumi ou pijama enteriço, corte largo e confortável",
+    "acessorios_visiveis": [
+      "tiara com orelhas de coelho e detalhe floral"
+    ],
+    "tematica_detalhada": "fantasia de coelho, comumente associada à Páscoa ou personagens fofos de cultura pop"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5066.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 36.32,
+  "data_analise": "2026-07-30T05:55:59Z",
+  "data_criacao": "2026-07-30T02:55:59.419133-03:00"
+}

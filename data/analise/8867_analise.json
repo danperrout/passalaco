@@ -1,0 +1,34 @@
+{
+  "id": 8867,
+  "nome_original": "Robin Hood",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "marrom",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica com capuz",
+      "colete",
+      "calças",
+      "botas"
+    ],
+    "material_visual": "tecido sintético com aparência de camurça ou linho rústico",
+    "estilo_corte": "estilo medieval com corte assimétrico e camadas",
+    "acessorios_visiveis": [
+      "cinto transversal",
+      "bolsa lateral",
+      "protetores de punho"
+    ],
+    "tematica_detalhada": "Robin Hood, o arqueiro lendário da floresta de Sherwood, com referências à era medieval inglesa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8867.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.12,
+  "data_analise": "2026-07-30T04:57:38Z",
+  "data_criacao": "2026-07-30T01:57:38.639335-03:00"
+}

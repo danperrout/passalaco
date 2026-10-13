@@ -1,0 +1,29 @@
+{
+  "id": 8629,
+  "nome_original": "Sereia",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "cauda"
+    ],
+    "material_visual": "tecido coberto por lantejoulas",
+    "estilo_corte": "top curto e saia longa justa imitando cauda de peixe",
+    "acessorios_visiveis": [
+      "tiara ou arco de cabelo verde"
+    ],
+    "tematica_detalhada": "Sereia, com referências visuais à personagem Ariel de A Pequena Sereia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8629.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.67,
+  "data_analise": "2026-07-30T06:17:38Z",
+  "data_criacao": "2026-07-30T03:17:38.548274-03:00"
+}

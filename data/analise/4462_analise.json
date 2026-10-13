@@ -1,0 +1,31 @@
+{
+  "id": 4462,
+  "nome_original": "Can Can",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Danças",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "corset",
+      "saia curta",
+      "mini chapéu"
+    ],
+    "material_visual": "cetim e renda",
+    "estilo_corte": "ajustado ao corpo com saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "choker",
+      "chapéu decorativo"
+    ],
+    "tematica_detalhada": "Bailarina de Can Can, inspirada no Moulin Rouge e na cultura burlesca francesa do século XIX"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4462.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.11,
+  "data_analise": "2026-07-27T18:51:46Z",
+  "data_criacao": "2026-07-27T15:51:46.219804-03:00"
+}

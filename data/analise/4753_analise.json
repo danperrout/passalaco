@@ -1,0 +1,29 @@
+{
+  "id": 4753,
+  "nome_original": "Maria Antonieta",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul royal",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "sobrecapa/casaco"
+    ],
+    "material_visual": "veludo e tecido brocado com fios metálicos",
+    "estilo_corte": "estilo rococó com saia volumosa e mangas bufantes",
+    "acessorios_visiveis": [
+      "tiara/arco decorado"
+    ],
+    "tematica_detalhada": "fantasia inspirada na realeza francesa do século XVIII, especificamente na figura de Maria Antonieta"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4753.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 52.8,
+  "data_analise": "2026-07-29T17:25:51Z",
+  "data_criacao": "2026-07-29T14:25:51.397315-03:00"
+}

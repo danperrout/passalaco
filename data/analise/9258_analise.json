@@ -1,0 +1,28 @@
+{
+  "id": 9258,
+  "nome_original": "Barbie",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa choque",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule e tecido sintético acetinado",
+    "estilo_corte": "estilo tutu com saia volumosa e corpete ajustado",
+    "acessorios_visiveis": [
+      "tiara"
+    ],
+    "tematica_detalhada": "estética Barbiecore, inspirada em bonecas clássicas e bailarinas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9258.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.28,
+  "data_analise": "2026-07-27T17:46:55Z",
+  "data_criacao": "2026-07-27T14:46:55.237347-03:00"
+}

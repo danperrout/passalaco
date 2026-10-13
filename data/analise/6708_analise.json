@@ -1,0 +1,33 @@
+{
+  "id": 6708,
+  "nome_original": "Magico",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "camisa",
+      "gravata borboleta",
+      "cartola"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "clássico formal",
+    "acessorios_visiveis": [
+      "cartola",
+      "gravata borboleta"
+    ],
+    "tematica_detalhada": "Mágico clássico de palco, inspirado em figuras como illusionistas tradicionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6708.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 411.48,
+  "data_analise": "2026-07-29T16:15:15Z",
+  "data_criacao": "2026-07-29T13:15:15.588954-03:00"
+}

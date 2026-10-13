@@ -1,0 +1,32 @@
+{
+  "id": 5231,
+  "nome_original": "Transformes Optimus Prime",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "cinza"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "túnica",
+      "calça",
+      "botas"
+    ],
+    "material_visual": "tecido sintético com aspecto de espuma ou feltro",
+    "estilo_corte": "estilo robótico volumoso com formas geométricas",
+    "acessorios_visiveis": [
+      "capacete/máscara integrada"
+    ],
+    "tematica_detalhada": "Personagem Optimus Prime da franquia Transformers, líder dos Autobots"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5231.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.0,
+  "data_analise": "2026-07-30T08:34:33Z",
+  "data_criacao": "2026-07-30T05:34:33.669128-03:00"
+}

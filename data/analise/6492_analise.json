@@ -1,0 +1,29 @@
+{
+  "id": 6492,
+  "nome_original": "Sdevhomem Aranha Luxo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Azul"
+    ],
+    "pecas_inclusas": [
+      "Macacão",
+      "Máscara"
+    ],
+    "material_visual": "Tecido sintético com brilho, possivelmente lycra ou poliéster",
+    "estilo_corte": "Ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "Máscara com lentes brancas"
+    ],
+    "tematica_detalhada": "Super-herói Homem-Aranha da Marvel Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6492.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 77.73,
+  "data_analise": "2026-07-30T05:59:31Z",
+  "data_criacao": "2026-07-30T02:59:31.015663-03:00"
+}

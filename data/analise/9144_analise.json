@@ -1,0 +1,27 @@
+{
+  "id": 9144,
+  "nome_original": "Lider de Torcida",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com aspecto de poliéster ou elastano",
+    "estilo_corte": "estilo cheerleader com top curto e saia plissada curta",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Líder de torcida americana clássica, com numeração esportiva no peito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9144.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 64.14,
+  "data_analise": "2026-07-29T11:12:26Z",
+  "data_criacao": "2026-07-29T08:12:26.840850-03:00"
+}

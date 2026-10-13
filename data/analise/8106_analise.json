@@ -1,0 +1,33 @@
+{
+  "id": 8106,
+  "nome_original": "Robin",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "corpete",
+      "saia",
+      "capa",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "estilo cosplay feminino com corpete ajustado e saia evasê",
+    "acessorios_visiveis": [
+      "máscara preta",
+      "capa amarela"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Robin, do universo DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8106.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 64.29,
+  "data_analise": "2026-07-30T04:54:29Z",
+  "data_criacao": "2026-07-30T01:54:29.961307-03:00"
+}

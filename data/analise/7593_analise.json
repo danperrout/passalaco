@@ -1,0 +1,31 @@
+{
+  "id": 7593,
+  "nome_original": "Fazendinha",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "camisa xadrez",
+      "chapéu de palha"
+    ],
+    "material_visual": "tecido sintético, palha natural",
+    "estilo_corte": "estilo camponês com jardineira e camisa de manga curta",
+    "acessorios_visiveis": [
+      "chapéu de palha decorado"
+    ],
+    "tematica_detalhada": "fazendinha infantil, com referências a animais da fazenda (pintinhos e porco) e elementos rurais (milho)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7593.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 143.95,
+  "data_analise": "2026-07-28T05:21:00Z",
+  "data_criacao": "2026-07-28T02:21:00.691956-03:00"
+}

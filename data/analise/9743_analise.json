@@ -1,0 +1,28 @@
+{
+  "id": 9743,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido com brilho, possivelmente paetês ou lantejoulas",
+    "estilo_corte": "vestido curto de alças finas com corte reto",
+    "acessorios_visiveis": [
+      "máscara de baile",
+      "colar brilhante"
+    ],
+    "tematica_detalhada": "Baile de Máscaras ou Carnaval sofisticado, com referências a festas de gala e mistério"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9743.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.11,
+  "data_analise": "2026-07-27T19:25:18Z",
+  "data_criacao": "2026-07-27T16:25:18.403612-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 9581,
+  "nome_original": "Tiara Abobora",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "tiara"
+    ],
+    "material_visual": "pelúcia e plástico",
+    "estilo_corte": "acessório de cabeça circular com pompons",
+    "acessorios_visiveis": [
+      "olhos plásticos",
+      "detalhes de feltro preto"
+    ],
+    "tematica_detalhada": "Halloween, inspirada em abóboras (Jack-o'-lantern)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9581.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 63.85,
+  "data_analise": "2026-07-30T08:08:49Z",
+  "data_criacao": "2026-07-30T05:08:49.616446-03:00"
+}

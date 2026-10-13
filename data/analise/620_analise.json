@@ -1,0 +1,31 @@
+{
+  "id": 620,
+  "nome_original": "Farao",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Cleopatras e Faraós",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "nemes (tocado)"
+    ],
+    "material_visual": "tecido sintético com acabamentos em lurex ou cetim dourado",
+    "estilo_corte": "túnica longa de corte reto com mangas amplas",
+    "acessorios_visiveis": [
+      "adereço de cabeça faraônico",
+      "faixa abdominal decorativa"
+    ],
+    "tematica_detalhada": "Antigo Egito, representando a figura de um Faraó"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/620.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 80.9,
+  "data_analise": "2026-07-28T05:13:53Z",
+  "data_criacao": "2026-07-28T02:13:53.519359-03:00"
+}

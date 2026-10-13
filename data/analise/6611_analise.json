@@ -1,0 +1,34 @@
+{
+  "id": 6611,
+  "nome_original": "Sub Zero",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "colete",
+      "calça",
+      "protetores de braço"
+    ],
+    "material_visual": "tecido sintético com aparência de couro ou neoprene e detalhes metálicos",
+    "estilo_corte": "estilo ninja moderno com ajustes anatômicos e sobreposições",
+    "acessorios_visiveis": [
+      "máscara facial",
+      "cinto largo ornamentado",
+      "braceletes"
+    ],
+    "tematica_detalhada": "Personagem Sub-Zero da franquia de jogos Mortal Kombat, representando um guerreiro ninja com poderes de gelo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6611.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.01,
+  "data_analise": "2026-07-30T07:25:35Z",
+  "data_criacao": "2026-07-30T04:25:35.290452-03:00"
+}

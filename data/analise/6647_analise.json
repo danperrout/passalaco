@@ -1,0 +1,29 @@
+{
+  "id": 6647,
+  "nome_original": "Batgirl",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou elastano",
+    "estilo_corte": "vestido justo ao corpo com comprimento curto",
+    "acessorios_visiveis": [
+      "máscara com orelhas de morcego"
+    ],
+    "tematica_detalhada": "Personagem Batgirl, inspirada nos quadrinhos e filmes da DC Comics, representando a versão feminina do Batman"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6647.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.48,
+  "data_analise": "2026-07-27T17:49:02Z",
+  "data_criacao": "2026-07-27T14:49:02.692693-03:00"
+}

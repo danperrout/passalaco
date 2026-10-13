@@ -1,0 +1,28 @@
+{
+  "id": 4161,
+  "nome_original": "Dançarina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul turquesa",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido translúcido com aplicações de lantejoulas e brilhos",
+    "estilo_corte": "ajustado ao corpo com mangas longas e transparências",
+    "acessorios_visiveis": [
+      "tiara com plumas azuis"
+    ],
+    "tematica_detalhada": "fantasia de dançarina de carnaval ou showgirl, com referências a performances de palco e festas temáticas luxuosas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4161.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 54.32,
+  "data_analise": "2026-07-28T02:47:37Z",
+  "data_criacao": "2026-07-27T23:47:37.175083-03:00"
+}

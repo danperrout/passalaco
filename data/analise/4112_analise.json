@@ -1,0 +1,32 @@
+{
+  "id": 4112,
+  "nome_original": "Gangster",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "colete",
+      "camisa",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado e listras finas",
+    "estilo_corte": "estilo alfaiataria modernizada com saia curta de barra irregular",
+    "acessorios_visiveis": [
+      "gravata borboleta",
+      "chapéu fedora"
+    ],
+    "tematica_detalhada": "Gangster clássico dos anos 20 adaptado para o público feminino, referenciando a era da Lei Seca e a máfia italiana"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4112.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 134.21,
+  "data_analise": "2026-07-28T06:48:16Z",
+  "data_criacao": "2026-07-28T03:48:16.267074-03:00"
+}

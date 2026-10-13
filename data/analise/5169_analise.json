@@ -1,0 +1,34 @@
+{
+  "id": 5169,
+  "nome_original": "Saia Anos 60",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia",
+      "cinto",
+      "tiara",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado na saia e tecido fosco na blusa",
+    "estilo_corte": "estilo pin-up com saia godê volumosa e blusa ajustada",
+    "acessorios_visiveis": [
+      "tiara de cabelo",
+      "luvas curtas",
+      "cinto largo"
+    ],
+    "tematica_detalhada": "estilo rockabilly/pin-up dos anos 50 e 60, caracterizado por estampas de poá (bolinhas) e silhueta ampulheta"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5169.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 30.42,
+  "data_analise": "2026-07-30T05:27:32Z",
+  "data_criacao": "2026-07-30T02:27:32.277688-03:00"
+}

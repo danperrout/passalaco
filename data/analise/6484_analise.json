@@ -1,0 +1,31 @@
+{
+  "id": 6484,
+  "nome_original": "Buzz",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "verde",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "traje de corpo inteiro"
+    ],
+    "material_visual": "tecido sintético com aspecto acetinado e máscara de plástico rígido",
+    "estilo_corte": "corte ajustado ao corpo simulando uma armadura espacial",
+    "acessorios_visiveis": [
+      "máscara facial",
+      "detalhes de botões e emblemas no peito"
+    ],
+    "tematica_detalhada": "personagem Buzz Lightyear do filme Toy Story, representando um guarda espacial"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6484.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 40.78,
+  "data_analise": "2026-07-27T18:43:08Z",
+  "data_criacao": "2026-07-27T15:43:08.313084-03:00"
+}

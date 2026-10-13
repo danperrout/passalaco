@@ -1,0 +1,30 @@
+{
+  "id": 9174,
+  "nome_original": "Capetinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara de chifres"
+    ],
+    "material_visual": "tecido com brilho, possivelmente lantejoulas ou cetim",
+    "estilo_corte": "curto, justo ao corpo com detalhes de amarração frontal",
+    "acessorios_visiveis": [
+      "chifres",
+      "gola/choker"
+    ],
+    "tematica_detalhada": "Capetinha/Demônio, referência clássica a figuras mitológicas do inferno adaptada para fantasias de festas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9174.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.52,
+  "data_analise": "2026-07-27T18:58:56Z",
+  "data_criacao": "2026-07-27T15:58:56.055617-03:00"
+}

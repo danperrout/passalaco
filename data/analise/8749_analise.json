@@ -1,0 +1,30 @@
+{
+  "id": 8749,
+  "nome_original": "Casal Wolverine",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara",
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com aspecto de elastano ou cetim",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "máscaras com pontas características"
+    ],
+    "tematica_detalhada": "Casal inspirado nos trajes clássicos dos quadrinhos do Wolverine e possivelmente da Jean Grey ou inspired by X-Men"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8749.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 40.64,
+  "data_analise": "2026-07-27T19:38:41Z",
+  "data_criacao": "2026-07-27T16:38:41.256948-03:00"
+}

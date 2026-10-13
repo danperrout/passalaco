@@ -1,0 +1,30 @@
+{
+  "id": 9464,
+  "nome_original": "Jasmine",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul turquesa",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "calça estilo harém com sobreposição de saia"
+    ],
+    "material_visual": "cetim, tule e tecido com glitter/paetês",
+    "estilo_corte": "estilo árabe moderno, com cintura marcada e calças bufantes",
+    "acessorios_visiveis": [
+      "tiara com gema",
+      "broche ornamental no pescoço"
+    ],
+    "tematica_detalhada": "Fantasia da Princesa Jasmine, inspirada no filme Aladdin, com referências à cultura árabe e fantasia oriental"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9464.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 106.72,
+  "data_analise": "2026-07-28T20:02:10Z",
+  "data_criacao": "2026-07-28T17:02:10.959639-03:00"
+}

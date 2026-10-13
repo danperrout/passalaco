@@ -1,0 +1,29 @@
+{
+  "id": 2519,
+  "nome_original": "Raposa",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "oversized/estilo kigurumi",
+    "acessorios_visiveis": [
+      "orelhas acopladas ao capuz",
+      "detalhes do focinho"
+    ],
+    "tematica_detalhada": "fantasia de animal, especificamente um coala, com foco em conforto e aparência fofa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2519.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.71,
+  "data_analise": "2026-07-30T04:34:14Z",
+  "data_criacao": "2026-07-30T01:34:14.269716-03:00"
+}

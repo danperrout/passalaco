@@ -1,0 +1,30 @@
+{
+  "id": 4632,
+  "nome_original": "Jaqueta",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "calça"
+    ],
+    "material_visual": "material sintético com aspecto de couro ou vinil",
+    "estilo_corte": "estilo jaqueta de motociclista com gola larga e fechamento assimétrico",
+    "acessorios_visiveis": [
+      "zíper dourado",
+      "cinto com fivela"
+    ],
+    "tematica_detalhada": "estilo rockabilly ou rebelde dos anos 50, com referências a personagens como Grease ou Elvis Presley"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4632.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 102.06,
+  "data_analise": "2026-07-28T19:15:41Z",
+  "data_criacao": "2026-07-28T16:15:41.389721-03:00"
+}

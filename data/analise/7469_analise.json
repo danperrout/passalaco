@@ -1,0 +1,32 @@
+{
+  "id": 7469,
+  "nome_original": "Cocar",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "cocar de penas",
+      "top cropped",
+      "saia"
+    ],
+    "material_visual": "penas sintéticas, tecido de trama rústica semelhante a palha ou juta",
+    "estilo_corte": "top estilo halter com acabamento em vermelho, saia curta",
+    "acessorios_visiveis": [
+      "faixa de cabeça",
+      "plumas decorativas"
+    ],
+    "tematica_detalhada": "Fantasia temática indígena estilizada, com referências a trajes tribais e carnaval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7469.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 117.97,
+  "data_analise": "2026-07-27T23:42:08Z",
+  "data_criacao": "2026-07-27T20:42:08.731826-03:00"
+}

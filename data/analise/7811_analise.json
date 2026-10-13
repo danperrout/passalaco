@@ -1,0 +1,32 @@
+{
+  "id": 7811,
+  "nome_original": "Peter Pan",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com aspecto de feltro ou poliéster",
+    "estilo_corte": "corte rústico com túnica curta e calças ajustadas",
+    "acessorios_visiveis": [
+      "cinto marrom",
+      "botas bege/marrom",
+      "chapéu pontudo com pluma"
+    ],
+    "tematica_detalhada": "Fantasia infantil do personagem Peter Pan, referenciando o menino que não cresce da Terra do Nunca"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7811.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.65,
+  "data_analise": "2026-07-30T03:23:17Z",
+  "data_criacao": "2026-07-30T00:23:17.411689-03:00"
+}

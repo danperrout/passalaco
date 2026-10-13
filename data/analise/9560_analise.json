@@ -1,0 +1,31 @@
+{
+  "id": 9560,
+  "nome_original": "Conde Dracula",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Halloween Infantil",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "colete",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado e estampa geométrica no colete",
+    "estilo_corte": "corte clássico de gala com gola alta estruturada e capelete",
+    "acessorios_visiveis": [
+      "laço de gola",
+      "broche floral amarelo"
+    ],
+    "tematica_detalhada": "Vampiro clássico, especificamente inspirado no Conde Drácula, com elementos de vestimenta aristocrática gótica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9560.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.74,
+  "data_analise": "2026-07-28T01:27:15Z",
+  "data_criacao": "2026-07-27T22:27:15.200064-03:00"
+}

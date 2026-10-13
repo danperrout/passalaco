@@ -1,0 +1,31 @@
+{
+  "id": 801,
+  "nome_original": "Lobo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "estilo kigurumi ou macaquinho folgado",
+    "acessorios_visiveis": [
+      "orelhas",
+      "focinho com dentes",
+      "luvas integradas"
+    ],
+    "tematica_detalhada": "Fantasia de animal, especificamente um lobo, com referências a personagens de fábulas ou animais da floresta"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/801.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 79.29,
+  "data_analise": "2026-07-29T11:47:50Z",
+  "data_criacao": "2026-07-29T08:47:50.393687-03:00"
+}

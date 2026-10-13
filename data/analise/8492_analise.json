@@ -1,0 +1,30 @@
+{
+  "id": 8492,
+  "nome_original": "Vaca",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou plush",
+    "estilo_corte": "estilo kigurumi ou macacão justo de peça única",
+    "acessorios_visiveis": [
+      "chifres",
+      "orelhas"
+    ],
+    "tematica_detalhada": "fantasia de animal, especificamente uma vaca holandesa, com foco em elementos lúdicos e infantis"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8492.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.16,
+  "data_analise": "2026-07-30T08:43:25Z",
+  "data_criacao": "2026-07-30T05:43:25.841988-03:00"
+}

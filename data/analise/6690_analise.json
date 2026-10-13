@@ -1,0 +1,35 @@
+{
+  "id": 6690,
+  "nome_original": "Gladiador",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Gregas/Romanos",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "capacete",
+      "capa",
+      "saiote",
+      "braceletes",
+      "caneleiras"
+    ],
+    "material_visual": "material sintético com aspecto de couro ou plástico brilhante",
+    "estilo_corte": "estilo romano antigo com camadas sobrepostas na saia e corte aberto no tronco",
+    "acessorios_visiveis": [
+      "capacete com crista",
+      "broche decorativo na capa",
+      "braceletes",
+      "caneleiras"
+    ],
+    "tematica_detalhada": "Guerreiro da Antiguidade, com referências a Gladiadores romanos e soldados espartanos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6690.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 43.85,
+  "data_analise": "2026-07-28T11:01:27Z",
+  "data_criacao": "2026-07-28T08:01:27.515473-03:00"
+}

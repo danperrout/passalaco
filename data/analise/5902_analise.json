@@ -1,0 +1,28 @@
+{
+  "id": 5902,
+  "nome_original": "Aurora",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul claro",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido leve com detalhes em bordados ou aplicações brilhantes",
+    "estilo_corte": "vestido longo com mangas amplas em estilo medieval/fantasia",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "Fantasia de princesa de conto de fadas, com estilo medieval/fantasia clássica, remetendo a personagens como a Bela Adormecida ou rainhas de reinos de fantasia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5902.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 13.45,
+  "data_analise": "2026-07-27T16:57:37Z",
+  "data_criacao": "2026-07-27T13:57:37.284724-03:00"
+}

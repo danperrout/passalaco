@@ -1,0 +1,33 @@
+{
+  "id": 1483,
+  "nome_original": "Pequeno Principe",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaco longo",
+      "camisa branca",
+      "calça branca"
+    ],
+    "material_visual": "tecido aveludado no casaco e material sintético brilhante na coroa",
+    "estilo_corte": "casaco longo aberto com lapelas largas e corte reto",
+    "acessorios_visibles": [
+      "coroa dourada",
+      "cinto vermelho"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem O Pequeno Príncipe, referenciando a obra literária de Antoine de Saint-Exupéry"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1483.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 73.75,
+  "data_analise": "2026-07-30T03:08:49Z",
+  "data_criacao": "2026-07-30T00:08:49.439037-03:00"
+}

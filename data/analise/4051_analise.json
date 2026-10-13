@@ -1,0 +1,30 @@
+{
+  "id": 4051,
+  "nome_original": "Vaca",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "tecido felpudo ou plush",
+    "estilo_corte": "estilo kigurumi ou macacão oversized",
+    "acessorios_visiveis": [
+      "chifres",
+      "detalhe de focinho"
+    ],
+    "tematica_detalhada": "fantasia de animal, especificamente uma vaca, com abordagem lúdica e confortável"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4051.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.63,
+  "data_analise": "2026-07-30T08:43:46Z",
+  "data_criacao": "2026-07-30T05:43:46.349104-03:00"
+}

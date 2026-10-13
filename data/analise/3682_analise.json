@@ -1,0 +1,28 @@
+{
+  "id": 3682,
+  "nome_original": "Camisa, Colete Chapeu",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "multicolorido",
+      "azul",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "camisa"
+    ],
+    "material_visual": "tecido sintético ou algodão com estampa digital",
+    "estilo_corte": "camisa social de manga longa com colarinho",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "estética psicodélica ou glitch art, com estampa xadrez multicolorida distorcida"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3682.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.62,
+  "data_analise": "2026-07-27T18:50:02Z",
+  "data_criacao": "2026-07-27T15:50:02.569106-03:00"
+}

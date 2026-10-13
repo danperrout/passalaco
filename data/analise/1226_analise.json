@@ -1,0 +1,36 @@
+{
+  "id": 1226,
+  "nome_original": "Principe",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "camisa",
+      "capa",
+      "chapéu"
+    ],
+    "material_visual": "cetim ou poliéster brilhante com detalhes em renda e franjas",
+    "estilo_corte": "estilo imperial com corte estruturado e adornos ornamentais",
+    "acessorios_visiveis": [
+      "pluma vermelha",
+      "faixa na cintura",
+      "franjas douradas"
+    ],
+    "tematica_detalhada": "fantasia de príncipe clássico ou nobreza europeia, remetendo a contos de fadas ou trajes de gala históricos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1226.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 22.37,
+  "data_analise": "2026-07-30T04:06:02Z",
+  "data_criacao": "2026-07-30T01:06:02.509217-03:00"
+}

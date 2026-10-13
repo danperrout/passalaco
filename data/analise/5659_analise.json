@@ -1,0 +1,31 @@
+{
+  "id": 5659,
+  "nome_original": "Policial",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "saia",
+      "quepe"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco e brilho no quepe",
+    "estilo_corte": "corte justo com saia curta e camisa estruturada",
+    "acessorios_visiveis": [
+      "quepe com emblema",
+      "distintivo no peito"
+    ],
+    "tematica_detalhada": "fantasia de policial estilizada com abordagem fashion/festiva"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5659.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.14,
+  "data_analise": "2026-07-30T03:46:51Z",
+  "data_criacao": "2026-07-30T00:46:51.359186-03:00"
+}

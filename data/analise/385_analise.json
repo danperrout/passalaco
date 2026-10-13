@@ -1,0 +1,32 @@
+{
+  "id": 385,
+  "nome_original": "Chapolin",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "camiseta de manga longa",
+      "shorts",
+      "calça",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético com aspecto de elastano ou poliéster",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "antenas no capuz",
+      "martelo"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Chapolin Colorado, herói cômico da cultura pop latino-americana"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/385.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 80.5,
+  "data_analise": "2026-07-27T20:24:38Z",
+  "data_criacao": "2026-07-27T17:24:38.535201-03:00"
+}

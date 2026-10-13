@@ -1,0 +1,31 @@
+{
+  "id": 8386,
+  "nome_original": "Noiva Cadaver",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "cinza"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "véu"
+    ],
+    "material_visual": "renda, tule e tecido sintético",
+    "estilo_corte": "curto com saia rodada e corpete ajustado",
+    "acessorios_visiveis": [
+      "véu de noiva",
+      "detalhes em renda"
+    ],
+    "tematica_detalhada": "Noiva Cadáver, referenciando estética gótica e a personagem do filme homônimo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8386.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 63.23,
+  "data_analise": "2026-07-30T00:24:37Z",
+  "data_criacao": "2026-07-29T21:24:37.875719-03:00"
+}

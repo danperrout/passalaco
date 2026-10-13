@@ -1,0 +1,25 @@
+{
+  "id": 3130,
+  "nome_original": "Montagem",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "perneiras"
+    ],
+    "material_visual": "pelúcia ou material sintético felpudo",
+    "estilo_corte": "tubular e volumoso",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Complemento de fantasia simulando pelos de animal, possivelmente para personagens como o Monstro do Lago Ness, criaturas fantásticas ou animais vermelhos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3130.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.02,
+  "data_analise": "2026-07-29T22:55:31Z",
+  "data_criacao": "2026-07-29T19:55:31.747086-03:00"
+}

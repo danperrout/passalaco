@@ -1,0 +1,30 @@
+{
+  "id": 4064,
+  "nome_original": "Sambista",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético ou algodão",
+    "estilo_corte": "camiseta de corte reto com mangas curtas e calça reta",
+    "acessorios_visiveis": [
+      "chapéu panamá"
+    ],
+    "tematica_detalhada": "estilo sambista tradicional ou malandro carioca, caracterizado pelas listras horizontais e o chapéu clássico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4064.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.72,
+  "data_analise": "2026-07-30T05:51:02Z",
+  "data_criacao": "2026-07-30T02:51:02.040428-03:00"
+}

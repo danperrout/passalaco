@@ -1,0 +1,30 @@
+{
+  "id": 9496,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampa",
+    "estilo_corte": "estilo rodado com busto ajustado",
+    "acessorios_visiveis": [
+      "chapéu pequeno",
+      "cinto"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, com referências ao estilo caipira e estampa de vaca"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9496.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.63,
+  "data_analise": "2026-07-29T01:36:02Z",
+  "data_criacao": "2026-07-28T22:36:02.402709-03:00"
+}

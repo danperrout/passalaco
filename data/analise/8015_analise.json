@@ -1,0 +1,32 @@
+{
+  "id": 8015,
+  "nome_original": "Rainha de Copas",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "coroa",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou poliéster",
+    "estilo_corte": "vestido curto com saia rodada e babados na barra",
+    "acessorios_visiveis": [
+      "coroa dourada com detalhes vermelhos",
+      "luvas longas vermelhas"
+    ],
+    "tematica_detalhada": "Rainha de Copas, personagem inspirada na obra Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8015.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 32.77,
+  "data_analise": "2026-07-30T04:23:37Z",
+  "data_criacao": "2026-07-30T01:23:37.072107-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 6500,
+  "nome_original": "Ladybug",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "blusa de manga longa",
+      "calça",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente poliéster ou elastano",
+    "estilo_corte": "ajustado ao corpo (estilo macaquinho/body)",
+    "acessorios_visiveis": [
+      "máscara de olhos"
+    ],
+    "tematica_detalhada": "fantasia de joaninha, com forte referência à personagem Ladybug da série 'Miraculous'"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6500.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 43.93,
+  "data_analise": "2026-07-29T08:41:30Z",
+  "data_criacao": "2026-07-29T05:41:30.619052-03:00"
+}

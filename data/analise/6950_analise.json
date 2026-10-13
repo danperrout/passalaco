@@ -1,0 +1,30 @@
+{
+  "id": 6950,
+  "nome_original": "Modelo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com estampa de bolinhas e babados de renda",
+    "estilo_corte": "estilo rodado com cintura marcada e alças finas",
+    "acessorios_visiveis": [
+      "mini chapéu decorativo",
+      "colar de contas"
+    ],
+    "tematica_detalhada": "fantasia inspirada em trajes folclóricos tradicionais, possivelmente referenciando a cultura cigana ou festas regionais europeias"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6950.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 90.75,
+  "data_analise": "2026-07-29T22:47:21Z",
+  "data_criacao": "2026-07-29T19:47:21.247673-03:00"
+}

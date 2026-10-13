@@ -1,0 +1,33 @@
+{
+  "id": 5995,
+  "nome_original": "Dinossauro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "branco",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "capuz",
+      "camiseta",
+      "calça",
+      "luvas",
+      "meias"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster",
+    "estilo_corte": "corte amplo e confortável, estilo pijama ou macacão",
+    "acessorios_visiveis": [
+      "capuz com dentes e crista"
+    ],
+    "tematica_detalhada": "Dinossauro antropomorfizado, com referências a criaturas pré-históricas em estilo caricato/infantil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5995.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 101.36,
+  "data_analise": "2026-07-28T03:05:27Z",
+  "data_criacao": "2026-07-28T00:05:27.241128-03:00"
+}

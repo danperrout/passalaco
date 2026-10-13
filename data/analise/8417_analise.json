@@ -1,0 +1,31 @@
+{
+  "id": 8417,
+  "nome_original": "Bombeiro",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético leve",
+    "estilo_corte": "ajuste regular com cintura marcada por cinto",
+    "acessorios_visiveis": [
+      "cinto",
+      "quepe"
+    ],
+    "tematica_detalhada": "fantasia de bombeiro clássica, representando o uniforme operacional de combate a incêndio"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8417.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.68,
+  "data_analise": "2026-07-27T18:17:24Z",
+  "data_criacao": "2026-07-27T15:17:24.545776-03:00"
+}

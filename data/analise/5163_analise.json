@@ -1,0 +1,35 @@
+{
+  "id": 5163,
+  "nome_original": "Country",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "preto",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "colete",
+      "camisa",
+      "calça com perneiras"
+    ],
+    "material_visual": "tecido sintético com aparência de camurça ou sarja",
+    "estilo_corte": "estilo western com franjas e corte reto",
+    "acessorios_visiveis": [
+      "chapéu de cowboy",
+      "cinto",
+      "distintivo"
+    ],
+    "tematica_detalhada": "Fantasia de cowboy ou xerife do Velho Oeste americano"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5163.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 69.19,
+  "data_analise": "2026-07-28T02:06:16Z",
+  "data_criacao": "2026-07-27T23:06:16.047873-03:00"
+}

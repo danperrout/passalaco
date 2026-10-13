@@ -1,0 +1,30 @@
+{
+  "id": 10209,
+  "nome_original": "Junina Mf",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "bolero",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com acabamento em renda e detalhes brilhantes",
+    "estilo_corte": "vestido curto com saia rodada e jaqueta curta estilo bolero",
+    "acessorios_visiveis": [
+      "chapéu de cowboy com penugem"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina estilizada, inspirada no traje de caipira/country com abordagem moderna e feminina"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10209.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.71,
+  "data_analise": "2026-07-29T07:00:21Z",
+  "data_criacao": "2026-07-29T04:00:21.706899-03:00"
+}

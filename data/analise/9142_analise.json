@@ -1,0 +1,30 @@
+{
+  "id": 9142,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "dourado",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "touca/headpiece"
+    ],
+    "material_visual": "tecido sintético com brilho e adornos metálicos",
+    "estilo_corte": "ajustado ao corpo com decote em V",
+    "acessorios_visiveis": [
+      "estilo cocar ou adorno de cabeça volumoso"
+    ],
+    "tematica_detalhada": "fantasia de carnaval inspirada em passistas ou rainhas de bateria, com referências ao luxo e extravagância das escolas de samba"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9142.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.12,
+  "data_analise": "2026-07-27T19:21:14Z",
+  "data_criacao": "2026-07-27T16:21:14.766179-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 7865,
+  "nome_original": "Lider de Torcida",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco",
+    "estilo_corte": "top curto estilo regata com gola V e saia plissada curta",
+    "acessorios_visiveis": [
+      "pompons azuis"
+    ],
+    "tematica_detalhada": "Líder de torcida americana clássica, com numeração esportiva no peito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7865.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 317.04,
+  "data_analise": "2026-07-29T10:58:45Z",
+  "data_criacao": "2026-07-29T07:58:45.020215-03:00"
+}

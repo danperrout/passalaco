@@ -1,0 +1,29 @@
+{
+  "id": 10107,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prata",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "paetês e tecido sintético brilhante",
+    "estilo_corte": "curto e ajustado ao corpo",
+    "acessorios_visiveis": [
+      "estilo fascinator/adorno de cabeça"
+    ],
+    "tematica_detalhada": "estilo showgirl ou passista de carnaval, com foco em glamour e brilho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10107.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.45,
+  "data_analise": "2026-07-27T19:26:07Z",
+  "data_criacao": "2026-07-27T16:26:07.151559-03:00"
+}

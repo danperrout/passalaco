@@ -1,0 +1,26 @@
+{
+  "id": 3116,
+  "nome_original": "Chinesa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "veludo com bordados metálicos",
+    "estilo_corte": "estilo Cheongsam/Qipao com gola alta e fechamento lateral",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia inspirada na cultura chinesa tradicional, remetendo ao vestuário clássico oriental"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3116.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 61.72,
+  "data_analise": "2026-07-27T21:07:18Z",
+  "data_criacao": "2026-07-27T18:07:18.102064-03:00"
+}

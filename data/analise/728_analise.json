@@ -1,0 +1,31 @@
+{
+  "id": 728,
+  "nome_original": "Imperador Romano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Gregas/Romanos",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "capa"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado e detalhes em renda ou galão dourado",
+    "estilo_corte": "túnica longa de corte reto com capa drapeada sobre os ombros",
+    "acessorios_visiveis": [
+      "coroa de louros",
+      "broches dourados"
+    ],
+    "tematica_detalhada": "Imperador Romano, referenciando a vestimenta clássica da alta nobreza da Roma Antiga"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/728.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 75.74,
+  "data_analise": "2026-07-28T15:36:16Z",
+  "data_criacao": "2026-07-28T12:36:16.287082-03:00"
+}

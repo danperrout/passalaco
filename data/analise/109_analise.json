@@ -1,0 +1,24 @@
+{
+  "id": 109,
+  "nome_original": "Anos 70",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prateado",
+      "preto",
+      "multicolorido"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça"
+    ],
+    "material_visual": "paetês refletivos",
+    "estilo_corte": "ajustado com lapelas largas",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "disco anos 70 glamouroso"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/109.jpg",
+  "data_analise": "2026-07-27T14:05:44Z"
+}

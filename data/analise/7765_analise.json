@@ -1,0 +1,31 @@
+{
+  "id": 7765,
+  "nome_original": "Michael Jackson",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "material sintético com aspecto de couro ou vinil brilhante",
+    "estilo_corte": "conjunto ajustado com detalhes de tiras transversais e cinto",
+    "acessorios_visiveis": [
+      "chapéu de aba larga",
+      "cinto com fivela"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no cantor Michael Jackson, referenciando seus figurinos icônicos de performances musicais, especificamente o estilo 'Thriller' ou era 'Bad'"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7765.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.37,
+  "data_analise": "2026-07-29T22:11:18Z",
+  "data_criacao": "2026-07-29T19:11:18.852478-03:00"
+}

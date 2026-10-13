@@ -1,0 +1,29 @@
+{
+  "id": 760,
+  "nome_original": "Jasmine",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "calça"
+    ],
+    "material_visual": "tecido leve com detalhes em lantejoulas ou pedrarias metálicas",
+    "estilo_corte": "top estilo cropped com decote em V e calça pantalona de cintura baixa",
+    "acessorios_visiveis": [
+      "detalhes pendentes no cós da calça"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na Princesa Jasmine, com referências à cultura árabe e ao filme Aladdin"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/760.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 110.93,
+  "data_analise": "2026-07-28T19:34:27Z",
+  "data_criacao": "2026-07-28T16:34:27.863531-03:00"
+}

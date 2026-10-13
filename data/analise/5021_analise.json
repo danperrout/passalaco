@@ -1,0 +1,25 @@
+{
+  "id": 5021,
+  "nome_original": "Aranha",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camiseta sem manga",
+      "shorts"
+    ],
+    "material_visual": "tecido leve com textura de algodão ou malha",
+    "estilo_corte": "conjunto infantil de camiseta sem manga e shorts, com corte reto e confortável",
+    "acessorios_visiveis": [
+      "colar com pingente de aranha"
+    ],
+    "tematica_detalhada": "fantasia infantil de super-herói com temática de aranha, inspirada no Homem-Aranha, com padronagem de teia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5021.jpg",
+  "data_analise": "2026-07-27T16:46:33Z"
+}

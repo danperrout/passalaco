@@ -1,0 +1,31 @@
+{
+  "id": 6884,
+  "nome_original": "Masha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "magenta",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capuz",
+      "blusa"
+    ],
+    "material_visual": "cetim ou tecido sintético com brilho",
+    "estilo_corte": "vestido longo com alças e blusa de mangas bufantes",
+    "acessorios_visiveis": [
+      "capuz com amarração",
+      "detalhes rendados na barra"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Masha (do desenho Masha e o Urso) ou Chapeuzinho Vermelho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6884.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 326.38,
+  "data_analise": "2026-07-29T20:47:09Z",
+  "data_criacao": "2026-07-29T17:47:09.552978-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 3840,
+  "nome_original": "Rato",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "pelúcia ou tecido sintético macio",
+    "estilo_corte": "estilo kigurumi ou pijama inteiro",
+    "acessorios_visiveis": [
+      "orelhas de rato no capuz",
+      "nariz vermelho"
+    ],
+    "tematica_detalhada": "fantasia de rato antropomórfico, com características infantis e lúdicas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3840.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.57,
+  "data_analise": "2026-07-30T04:38:18Z",
+  "data_criacao": "2026-07-30T01:38:18.740081-03:00"
+}

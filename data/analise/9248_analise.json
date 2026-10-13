@@ -1,0 +1,27 @@
+{
+  "id": 9248,
+  "nome_original": "Wandinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim e tule",
+    "estilo_corte": "estilo princesa com saia volumosa em camadas e corpete ajustado",
+    "acessorios_visiveis": [
+      "peruca com tranças"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Wandinha Addams, com adaptação para estilo vestido de gala/festa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9248.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.84,
+  "data_analise": "2026-07-30T08:53:20Z",
+  "data_criacao": "2026-07-30T05:53:20.480716-03:00"
+}

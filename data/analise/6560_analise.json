@@ -1,0 +1,26 @@
+{
+  "id": 6560,
+  "nome_original": "Cebolinha",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "short"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "conjunto casual infantil",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia inspirada no personagem Cebolinha, da franquia Turma da Mônica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6560.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 51.7,
+  "data_analise": "2026-07-27T19:48:38Z",
+  "data_criacao": "2026-07-27T16:48:38.049812-03:00"
+}

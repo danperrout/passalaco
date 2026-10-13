@@ -1,0 +1,29 @@
+{
+  "id": 9803,
+  "nome_original": "Jesus",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "estola/manto"
+    ],
+    "material_visual": "tecido sintético leve com aspecto de poliéster",
+    "estilo_corte": "túnica longa de corte reto com mangas amplas e decote simples",
+    "acessorios_visiveis": [
+      "manto drapeado"
+    ],
+    "tematica_detalhada": "fantasia de Jesus Cristo, baseada em vestimentas bíblicas tradicionais da antiguidade"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9803.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 45.69,
+  "data_analise": "2026-07-28T21:15:56Z",
+  "data_criacao": "2026-07-28T18:15:56.706369-03:00"
+}

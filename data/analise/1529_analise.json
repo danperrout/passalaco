@@ -1,0 +1,32 @@
+{
+  "id": 1529,
+  "nome_original": "Guerreiro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "laranja",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calças",
+      "botas"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "túnica medieval com gola alta e corte assimétrico na barra",
+    "acessorios_visiveis": [
+      "cinto preto",
+      "emblema de flor-de-lis"
+    ],
+    "tematica_detalhada": "guerreiro medieval europeu com referências à heráldica francesa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1529.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 177.29,
+  "data_analise": "2026-07-28T11:55:42Z",
+  "data_criacao": "2026-07-28T08:55:42.789146-03:00"
+}

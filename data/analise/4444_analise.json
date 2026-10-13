@@ -1,0 +1,30 @@
+{
+  "id": 4444,
+  "nome_original": "Safari",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "caqui"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "vestido"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster ou sarja leve",
+    "estilo_corte": "vestido curto com gola, bolsos frontais com aba e saia plissada",
+    "acessorios_visiveis": [
+      "chapéu de aba larga",
+      "cinto"
+    ],
+    "tematica_detalhada": "estilo explorador de safari, remetendo a personagens de aventuras na selva ou arqueólogos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4444.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 136.45,
+  "data_analise": "2026-07-30T05:20:37Z",
+  "data_criacao": "2026-07-30T02:20:37.504294-03:00"
+}

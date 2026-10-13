@@ -1,0 +1,28 @@
+{
+  "id": 9350,
+  "nome_original": "Coroa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "azul claro"
+    ],
+    "pecas_inclusas": [
+      "coroa"
+    ],
+    "material_visual": "metal dourado com pedrarias sintéticas ou cristais",
+    "estilo_corte": "estilo tiara real com pontas ornamentadas e design simétrico",
+    "acessorios_visiveis": [
+      "cristais azuis"
+    ],
+    "tematica_detalhada": "realeza, princesa ou rainha, com referências a contos de fada e aristocracia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9350.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.42,
+  "data_analise": "2026-07-28T01:42:36Z",
+  "data_criacao": "2026-07-27T22:42:36.343139-03:00"
+}

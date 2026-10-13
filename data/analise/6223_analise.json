@@ -1,0 +1,29 @@
+{
+  "id": 6223,
+  "nome_original": "Peppa Pig",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "tutu",
+      "top com laço"
+    ],
+    "material_visual": "tule e cetim",
+    "estilo_corte": "volumoso e rodado",
+    "acessorios_visiveis": [
+      "laço de cetim"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Peppa Pig, com foco em elementos femininos e infantis como o tutu de bailarina"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6223.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.62,
+  "data_analise": "2026-07-30T02:57:19Z",
+  "data_criacao": "2026-07-29T23:57:19.333583-03:00"
+}

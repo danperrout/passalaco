@@ -1,0 +1,30 @@
+{
+  "id": 7333,
+  "nome_original": "Monstros S/A",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capuz"
+    ],
+    "material_visual": "tecido com paetês",
+    "estilo_corte": "vestido curto com capuz integrado e detalhes de dentes",
+    "acessorios_visiveis": [
+      "olhos saltados no capuz",
+      "pompons de cabelo"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Randall de Monstros S.A., caracterizada pela cor roxa e olhos ornamentais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7333.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.95,
+  "data_analise": "2026-07-29T22:54:14Z",
+  "data_criacao": "2026-07-29T19:54:14.330488-03:00"
+}

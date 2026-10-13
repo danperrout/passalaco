@@ -1,0 +1,26 @@
+{
+  "id": 10155,
+  "nome_original": "Alice",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "cetim e renda",
+    "estilo_corte": "estilo vitoriano com mangas bufantes e saia rodada",
+    "acessorios_visiveis": [
+      "tiara com laço",
+      "avental"
+    ],
+    "tematica_detalhada": "Alice no País das Maravilhas com detalhes de naipes de cartas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10155.jpg",
+  "data_analise": "2026-07-27T14:59:28Z"
+}

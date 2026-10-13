@@ -1,0 +1,32 @@
+{
+  "id": 6089,
+  "nome_original": "Pierrot",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "chapéu",
+      "gola/estola"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "corte bipartido verticalmente em cores contrastantes",
+    "acessorios_visiveis": [
+      "pompons coloridos",
+      "chapéu de bobo da corte"
+    ],
+    "tematica_detalhada": "Fantasia de Pierrot ou Arlequim, referenciando a Commedia dell'arte e personagens clássicos de circo e teatro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6089.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 50.46,
+  "data_analise": "2026-07-30T03:25:27Z",
+  "data_criacao": "2026-07-30T00:25:27.712505-03:00"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 120,
+  "nome_original": "Apresentadora",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou tafetá",
+    "estilo_corte": "estilo vintage com mangas bufantes, gola arredondada e saia rodada",
+    "acessorios_visiveis": [
+      "tiara com flores",
+      "cinto decorado"
+    ],
+    "tematica_detalhada": "estética retrô feminina com inspiração em apresentadoras ou bonecas clássicas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/120.jpg",
+  "data_analise": "2026-07-27T14:11:01Z"
+}

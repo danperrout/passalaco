@@ -1,0 +1,32 @@
+{
+  "id": 6221,
+  "nome_original": "Peter Pan",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "túnica com gola, amarração frontal e barra irregular em pontas",
+    "acessorios_visiveis": [
+      "cinto marrom",
+      "pena vermelha no chapéu",
+      "pedra decorativa no chapéu"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Peter Pan, referenciando o menino que não cresce da Terra do Nunca"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6221.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.73,
+  "data_analise": "2026-07-30T03:23:39Z",
+  "data_criacao": "2026-07-30T00:23:39.922397-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 5564,
+  "nome_original": "Mexicano",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "poncho",
+      "sombrero"
+    ],
+    "material_visual": "tecido sintético com acabamento em franjas",
+    "estilo_corte": "corte amplo e reto em formato de poncho",
+    "acessorios_visiveis": [
+      "chapéu mexicano (sombrero)"
+    ],
+    "tematica_detalhada": "Fantasia temática de cultura mexicana, referenciando trajes típicos tradicionais como o do charro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5564.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 70.4,
+  "data_analise": "2026-07-29T22:04:04Z",
+  "data_criacao": "2026-07-29T19:04:04.142797-03:00"
+}

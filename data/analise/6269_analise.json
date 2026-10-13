@@ -1,0 +1,25 @@
+{
+  "id": 6269,
+  "nome_original": "Alice",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou poliéster",
+    "estilo_corte": "estilo vestido de boneca com saia rodada e cintura marcada",
+    "acessorios_visiveis": [
+      "tiara com laço",
+      "laço na cintura"
+    ],
+    "tematica_detalhada": "Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6269.jpg",
+  "data_analise": "2026-07-27T13:47:23Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 7995,
+  "nome_original": "Soldadinho de Chumbo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Azul Marinho",
+      "Branco"
+    ],
+    "pecas_inclusas": [
+      "Chapéu",
+      "Casaco/Túnica",
+      "Calça"
+    ],
+    "material_visual": "Tecido sintético acetinado com adornos dourados",
+    "estilo_corte": "Corte militar clássico com gola alta e botões frontais decorativos",
+    "acessorios_visiveis": [
+      "Queixeira do chapéu",
+      "Galões dourados"
+    ],
+    "tematica_detalhada": "Soldadinho de Chumbo, baseada em uniformes militares históricos europeus e no conto de Hans Christian Andersen"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7995.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 19.13,
+  "data_analise": "2026-07-30T06:57:52Z",
+  "data_criacao": "2026-07-30T03:57:52.176765-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 9611,
+  "nome_original": "Visconde de Sabugosa",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "colete",
+      "cartola"
+    ],
+    "material_visual": "tecido sintético acetinado",
+    "estilo_corte": "estilo vitoriano com casaco longo (fraque) e corte reto na calça",
+    "acessorios_visiveis": [
+      "óculos redondos",
+      "cartola"
+    ],
+    "tematica_detalhada": "Personagem Visconde de Sabugosa, do Sítio do Picapau Amarelo, representando a nobreza caricata"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9611.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.11,
+  "data_analise": "2026-07-30T08:51:56Z",
+  "data_criacao": "2026-07-30T05:51:56.808500-03:00"
+}

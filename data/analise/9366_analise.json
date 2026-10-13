@@ -1,0 +1,30 @@
+{
+  "id": 9366,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "top/corset",
+      "saia curta"
+    ],
+    "material_visual": "tecido metalizado com aplicações de glitter e paetês",
+    "estilo_corte": "estilo passista de carnaval, com corte ajustado ao corpo e comprimento curto",
+    "acessorios_visiveis": [
+      "tiara com penas amarelas",
+      "detalhe de estrela"
+    ],
+    "tematica_detalhada": "Carnaval brasileiro, especificamente inspirada em fantasias de escolas de samba ou rainhas de bateria"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9366.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.94,
+  "data_analise": "2026-07-27T19:23:59Z",
+  "data_criacao": "2026-07-27T16:23:59.869978-03:00"
+}

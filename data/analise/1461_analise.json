@@ -1,0 +1,31 @@
+{
+  "id": 1461,
+  "nome_original": "Hera Venenosa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capa",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético com brilho e detalhes em apliques de folhas",
+    "estilo_corte": "macacão justo com decote em V e capa longa fluida",
+    "acessorios_visiveis": [
+      "peruca vermelha",
+      "detalhes de folhas decorativas"
+    ],
+    "tematica_detalhada": "Hera Venenosa (Poison Ivy), personagem vilã da DC Comics inspirada em botânica e natureza"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1461.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 171.12,
+  "data_analise": "2026-07-28T13:40:24Z",
+  "data_criacao": "2026-07-28T10:40:24.201274-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 6595,
+  "nome_original": "Guerreira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "corpete",
+      "saia",
+      "capa"
+    ],
+    "material_visual": "couro sintético e pele artificial",
+    "estilo_corte": "ajustado ao corpo com saia em tiras",
+    "acessorios_visiveis": [
+      "tiara",
+      "cinto",
+      "braceletes"
+    ],
+    "tematica_detalhada": "Guerreira medieval ou bárbara, com referências a trajes de combate antigos e cultura nórdica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6595.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 128.3,
+  "data_analise": "2026-07-28T11:43:01Z",
+  "data_criacao": "2026-07-28T08:43:01.299613-03:00"
+}

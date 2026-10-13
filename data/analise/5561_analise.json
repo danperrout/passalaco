@@ -1,0 +1,32 @@
+{
+  "id": 5561,
+  "nome_original": "Havaiano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "laranja",
+      "amarelo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético leve e plástico para o colar",
+    "estilo_corte": "camisa de manga curta com corte reto e calça casual",
+    "acessorios_visiveis": [
+      "colar de flores (lei)"
+    ],
+    "tematica_detalhada": "estilo havaiano tropical, referenciando a cultura do Havaí com estampas de palmeiras e pôr do sol"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5561.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 128.13,
+  "data_analise": "2026-07-28T13:26:24Z",
+  "data_criacao": "2026-07-28T10:26:24.791642-03:00"
+}

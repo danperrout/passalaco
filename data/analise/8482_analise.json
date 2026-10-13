@@ -1,0 +1,31 @@
+{
+  "id": 8482,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "saia"
+    ],
+    "material_visual": "tecido sintético brilhante, tule e glitter",
+    "estilo_corte": "estilo sereia com top em formato de concha e saia volumosa",
+    "acessorios_visiveis": [
+      "adorno de cabeça",
+      "cinto de pérolas"
+    ],
+    "tematica_detalhada": "Sereia, com referências a personagens de fantasia marinha e estética de Carnaval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8482.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.95,
+  "data_analise": "2026-07-27T19:26:38Z",
+  "data_criacao": "2026-07-27T16:26:38.583770-03:00"
+}

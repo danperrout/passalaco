@@ -1,0 +1,30 @@
+{
+  "id": 10132,
+  "nome_original": "Palhacinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Halloween Infantil",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com acabamento em tule e cetim",
+    "estilo_corte": "vestido curto com saia rodada e gola volumosa",
+    "acessorios_visiveis": [
+      "chapéu cônico de palhaço"
+    ],
+    "tematica_detalhada": "fantasia de palhacinha estilizada, com estética circense clássica e cores contrastantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10132.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 62.53,
+  "data_analise": "2026-07-30T01:42:07Z",
+  "data_criacao": "2026-07-29T22:42:07.311505-03:00"
+}

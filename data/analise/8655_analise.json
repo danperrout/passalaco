@@ -1,0 +1,28 @@
+{
+  "id": 8655,
+  "nome_original": "Bastao da Arlequina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "bastão"
+    ],
+    "material_visual": "material sintético com acabamento brilhante e cravejado",
+    "estilo_corte": "cilíndrico alongado",
+    "acessorios_visiveis": [
+      "pedras decorativas"
+    ],
+    "tematica_detalhada": "Acessório de personagem inspirado na Arlequina, remetendo a um bastão decorado ou cetro estilizado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8655.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.89,
+  "data_analise": "2026-07-27T17:48:02Z",
+  "data_criacao": "2026-07-27T14:48:02.131526-03:00"
+}

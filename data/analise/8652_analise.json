@@ -1,0 +1,30 @@
+{
+  "id": 8652,
+  "nome_original": "Mascote Lobo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "máscara de cabeça",
+      "macacão de corpo inteiro",
+      "luvas"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "estilo mascote oversized com modelagem ampla",
+    "acessorios_visiveis": [
+      "cabeça de lobo com orelhas"
+    ],
+    "tematica_detalhada": "fantasia de mascote de lobo antropomórfico, com traços cartunescos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8652.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 79.13,
+  "data_analise": "2026-07-29T19:47:48Z",
+  "data_criacao": "2026-07-29T16:47:48.900266-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 7844,
+  "nome_original": "Homem Aranha Luxo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul escuro",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado",
+    "estilo_corte": "justo ao corpo (skinny fit)",
+    "acessorios_visiveis": [
+      "máscara facial"
+    ],
+    "tematica_detalhada": "Personagem Homem-Aranha, com design inspirado na armadura Iron Spider da Marvel"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7844.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 103.2,
+  "data_analise": "2026-07-28T14:29:54Z",
+  "data_criacao": "2026-07-28T11:29:54.028792-03:00"
+}

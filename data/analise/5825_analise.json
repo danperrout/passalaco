@@ -1,0 +1,30 @@
+{
+  "id": 5825,
+  "nome_original": "Junina Mf",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "creme",
+      "rosa",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido estampado, possivelmente tricoline ou algodão, com rendas aplicadas",
+    "estilo_corte": "estilo caipira com mangas bufantes, cintura marcada e saia rodada com babados",
+    "acessorios_visiveis": [
+      "laço de fita para cabelo",
+      "cinto vermelho com detalhes ornamentais"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, representando a vestimenta tradicional camponesa/caipira estilizada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5825.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 45.08,
+  "data_analise": "2026-07-29T06:42:25Z",
+  "data_criacao": "2026-07-29T03:42:25.333924-03:00"
+}

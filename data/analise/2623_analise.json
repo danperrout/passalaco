@@ -1,0 +1,34 @@
+{
+  "id": 2623,
+  "nome_original": "Gato de Botas",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "chapéu",
+      "botas"
+    ],
+    "material_visual": "tecido sintético fosco com painel frontal texturizado",
+    "estilo_corte": "corte largo e confortável, estilo traje medieval/fantasia",
+    "acessorios_visiveis": [
+      "chapéu de aba larga",
+      "espada",
+      "cinto",
+      "botas altas"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Gato de Botas, baseada no conto de fadas clássico e adaptações cinematográficas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2623.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 157.71,
+  "data_analise": "2026-07-28T10:38:55Z",
+  "data_criacao": "2026-07-28T07:38:55.393875-03:00"
+}

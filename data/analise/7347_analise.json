@@ -1,0 +1,31 @@
+{
+  "id": 7347,
+  "nome_original": "Chiquinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "casaquinho"
+    ],
+    "material_visual": "tecido sintético com brilho leve",
+    "estilo_corte": "estilo infantil com saia rodada e gola arredondada",
+    "acessorios_visiveis": [
+      "óculos",
+      "peruca com maria-chiquinha"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Chiquinha (La Chilindrina) do programa El Chavo del Ocho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7347.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 61.71,
+  "data_analise": "2026-07-27T21:09:42Z",
+  "data_criacao": "2026-07-27T18:09:42.264461-03:00"
+}

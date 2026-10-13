@@ -1,0 +1,35 @@
+{
+  "id": 2246,
+  "nome_original": "Fera",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "marrom",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "máscara de fera",
+      "paletó",
+      "colete",
+      "calça",
+      "camisa"
+    ],
+    "material_visual": "tecido sintético com texturas de pelúcia na máscara e cetim/poliéster no traje",
+    "estilo_corte": "traje formal clássico com corte de fraque",
+    "acessorios_visiveis": [
+      "gravata branca",
+      "máscara facial"
+    ],
+    "tematica_detalhada": "Personagem a Fera do conto 'A Bela e a Fera', representando a mistura de traços animais com vestimentas da aristocracia europeia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2246.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 134.92,
+  "data_analise": "2026-07-28T05:39:33Z",
+  "data_criacao": "2026-07-28T02:39:33.534357-03:00"
+}

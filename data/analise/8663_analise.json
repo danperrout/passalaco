@@ -1,0 +1,31 @@
+{
+  "id": 8663,
+  "nome_original": "Noiva do Chuck",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido de noiva",
+      "jaqueta de couro",
+      "véu"
+    ],
+    "material_visual": "renda, tule e material sintético semelhante a couro",
+    "estilo_corte": "vestido longo evasê com jaqueta estilo biker curta",
+    "acessorios_visiveis": [
+      "véu de noiva",
+      "choker preta"
+    ],
+    "tematica_detalhada": "Fusão entre o clássico e o rebelde, inspirada na personagem Noiva do Chucky, contrastando a pureza do casamento com a estética rock/punk"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8663.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 61.29,
+  "data_analise": "2026-07-30T00:31:03Z",
+  "data_criacao": "2026-07-29T21:31:03.726548-03:00"
+}

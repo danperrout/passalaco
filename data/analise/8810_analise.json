@@ -1,0 +1,30 @@
+{
+  "id": 8810,
+  "nome_original": "Junina Mf",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "blusa branca",
+      "saia com suspensório"
+    ],
+    "material_visual": "tecido xadrez e renda",
+    "estilo_corte": "estilo caipira com saia rodada e alças",
+    "acessorios_visiveis": [
+      "laço de cabelo",
+      "pelúcias de animais costuradas na saia"
+    ],
+    "tematica_detalhada": "Festa Junina infantil, com referências à cultura rural brasileira e elementos lúdicos de fazenda"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8810.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 88.41,
+  "data_analise": "2026-07-29T06:34:34Z",
+  "data_criacao": "2026-07-29T03:34:34.535675-03:00"
+}

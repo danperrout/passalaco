@@ -1,0 +1,28 @@
+{
+  "id": 6902,
+  "nome_original": "Bela",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido de baile longo"
+    ],
+    "material_visual": "tule com glitter e tecido acetinado com bordados",
+    "estilo_corte": "estilo princesa com corpete ajustado e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara de cristais"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Bela, do conto de fadas 'A Bela e a Fera', representando o traje de baile clássico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6902.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.29,
+  "data_analise": "2026-07-27T17:51:55Z",
+  "data_criacao": "2026-07-27T14:51:55.904090-03:00"
+}

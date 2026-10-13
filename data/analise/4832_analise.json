@@ -1,0 +1,31 @@
+{
+  "id": 4832,
+  "nome_original": "Gueixa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "quimono",
+      "faixa (obi)",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético acetinado com estampa floral",
+    "estilo_corte": "corte tradicional japonês com mangas largas e fechamento transpassado",
+    "acessorios_visiveis": [
+      "peruca preta estilizada",
+      "ornamentos vermelhos no cabelo"
+    ],
+    "tematica_detalhada": "fantasia inspirada nas gueixas do Japão, caracterizada pelo uso do quimono e penteados tradicionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4832.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 36.71,
+  "data_analise": "2026-07-28T11:37:00Z",
+  "data_criacao": "2026-07-28T08:37:00.974928-03:00"
+}

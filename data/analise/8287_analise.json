@@ -1,0 +1,29 @@
+{
+  "id": 8287,
+  "nome_original": "Menino Gato",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul escuro",
+      "azul claro"
+    ],
+    "pecas_inclusas": [
+      "camiseta de manga longa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético elástico",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "máscara com orelhas de gato"
+    ],
+    "tematica_detalhada": "fantasia de personagem antropomórfico de gato, com estética de super-herói ou personagem de desenho animado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8287.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 43.02,
+  "data_analise": "2026-07-29T21:53:41Z",
+  "data_criacao": "2026-07-29T18:53:41.557714-03:00"
+}

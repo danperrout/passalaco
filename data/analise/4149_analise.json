@@ -1,0 +1,30 @@
+{
+  "id": 4149,
+  "nome_original": "Boneca de Corda",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com aparência de cetim ou poliéster",
+    "estilo_corte": "vestido curto com modelagem evasê e alças",
+    "acessorios_visiveis": [
+      "cartola preta",
+      "peruca preta"
+    ],
+    "tematica_detalhada": "boneca estilizada com elementos góticos ou circenses, caracterizada por cores contrastantes e acessórios teatrais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4149.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.88,
+  "data_analise": "2026-07-27T18:18:06Z",
+  "data_criacao": "2026-07-27T15:18:06.870689-03:00"
+}

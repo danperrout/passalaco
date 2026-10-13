@@ -1,0 +1,28 @@
+{
+  "id": 9986,
+  "nome_original": "Wandinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule e tecido sintético fosco",
+    "estilo_corte": "corte evasê com saia em camadas e gola frufru",
+    "acessorios_visiveis": [
+      "cinto",
+      "peruca com tranças"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Wandinha Addams, especificamente na versão do vestido de baile da série 'Wednesday'"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9986.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.08,
+  "data_analise": "2026-07-30T08:54:39Z",
+  "data_criacao": "2026-07-30T05:54:39.240753-03:00"
+}

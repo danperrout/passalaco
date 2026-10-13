@@ -1,0 +1,26 @@
+{
+  "id": 3792,
+  "nome_original": "Camisa, Colete e Chapeu",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "camisa"
+    ],
+    "material_visual": "tecido sintético com aparência de cetim ou poliéster",
+    "estilo_corte": "corte reto, manga longa, gola colarinho",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "camisa xadrez estilizada, possivelmente parte de um conjunto de cowboy ou lenhador moderno"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3792.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.26,
+  "data_analise": "2026-07-27T18:50:06Z",
+  "data_criacao": "2026-07-27T15:50:06.106164-03:00"
+}

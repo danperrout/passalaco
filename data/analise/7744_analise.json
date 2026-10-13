@@ -1,0 +1,30 @@
+{
+  "id": 7744,
+  "nome_original": "Mascara",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "peruca"
+    ],
+    "material_visual": "látex ou plástico para a máscara e fibras sintéticas para a peruca",
+    "estilo_corte": "máscara de rosto completo com peruca volumosa e desestruturada",
+    "acessorios_visiveis": [
+      "máscara de caveira",
+      "peruca preta"
+    ],
+    "tematica_detalhada": "tema de terror/horror, representando um esqueleto ou zumbi, comum em festas de Halloween"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7744.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 264.86,
+  "data_analise": "2026-07-29T18:44:37Z",
+  "data_criacao": "2026-07-29T15:44:37.113497-03:00"
+}

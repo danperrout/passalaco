@@ -1,0 +1,27 @@
+{
+  "id": 9520,
+  "nome_original": "Sobretudo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "sobretudo longo"
+    ],
+    "material_visual": "material sintético com brilho, semelhante a couro ou vinil",
+    "estilo_corte": "corte longo e reto, com gola alta e fechamento frontal por botões",
+    "acessorios_visiveis": [
+      "dragonas nos ombros"
+    ],
+    "tematica_detalhada": "estilo gótico, matrix ou vilão, com referências a uniformes militares estilizados ou personagens de ficção científica e fantasia sombria"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9520.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.17,
+  "data_analise": "2026-07-30T06:54:22Z",
+  "data_criacao": "2026-07-30T03:54:22.268061-03:00"
+}

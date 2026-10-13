@@ -1,0 +1,32 @@
+{
+  "id": 6712,
+  "nome_original": "Mascote Olaf",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "marrom",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "máscara de cabeça",
+      "macacão de corpo inteiro",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético aveludado ou pelúcia",
+    "estilo_corte": "estilo mascote volumoso e acolchoado",
+    "acessorios_visiveis": [
+      "nariz de cenoura",
+      "botões pretos decorativos"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Olaf, o boneco de neve do filme Frozen da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6712.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 130.11,
+  "data_analise": "2026-07-29T20:10:13Z",
+  "data_criacao": "2026-07-29T17:10:13.946999-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 7883,
+  "nome_original": "Dancarina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia",
+      "capa"
+    ],
+    "material_visual": "paetês, franjas e tecido sintético brilhante",
+    "estilo_corte": "conjunto de duas peças curto com capa longa",
+    "acessorios_visiveis": [
+      "tiara",
+      "coleira/choker"
+    ],
+    "tematica_detalhada": "estilo dançarina de show ou cabaret com temática gótica ou luxo noturno"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7883.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 22.08,
+  "data_analise": "2026-07-28T02:45:48Z",
+  "data_criacao": "2026-07-27T23:45:48.317200-03:00"
+}

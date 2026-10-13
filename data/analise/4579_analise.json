@@ -1,0 +1,28 @@
+{
+  "id": 4579,
+  "nome_original": "Oncinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "oversized / kigurumi",
+    "acessorios_visiveis": [
+      "orelhas acopladas ao capuz"
+    ],
+    "tematica_detalhada": "fantasia de animal, especificamente inspirada em um urso ou felino marrom"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4579.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 69.72,
+  "data_analise": "2026-07-30T00:50:25Z",
+  "data_criacao": "2026-07-29T21:50:25.487892-03:00"
+}

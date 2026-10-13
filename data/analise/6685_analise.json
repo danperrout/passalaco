@@ -1,0 +1,29 @@
+{
+  "id": 6685,
+  "nome_original": "Galinha Pintadinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho leve, possivelmente cetim ou poliéster",
+    "estilo_corte": "vestido curto com saia em camadas (babados) e gola arredondada",
+    "acessorios_visiveis": [
+      "laço vermelho na cintura"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Galinha Pintadinha, caracterizada pela cor azul com bolinhas brancas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6685.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.13,
+  "data_analise": "2026-07-28T06:41:13Z",
+  "data_criacao": "2026-07-28T03:41:13.021727-03:00"
+}

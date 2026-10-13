@@ -1,0 +1,36 @@
+{
+  "id": 6772,
+  "nome_original": "Principe",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "colete",
+      "camisa",
+      "calça",
+      "capa"
+    ],
+    "material_visual": "cetim e tecido sintético brilhante",
+    "estilo_corte": "clássico imperial com detalhes ornamentados",
+    "acessorios_visiveis": [
+      "pena vermelha no chapéu",
+      "detalhes em dourado",
+      "faixa na cintura"
+    ],
+    "tematica_detalhada": "Príncipe clássico de contos de fadas, com referências a trajes reais europeus estilizados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6772.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.85,
+  "data_analise": "2026-07-30T04:06:08Z",
+  "data_criacao": "2026-07-30T01:06:08.637133-03:00"
+}

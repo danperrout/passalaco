@@ -1,0 +1,28 @@
+{
+  "id": 5692,
+  "nome_original": "Bela",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "cetim com detalhes em renda e brilhos",
+    "estilo_corte": "estilo baile com corpete ajustado e saia volumosa com drapeados",
+    "acessorios_visiveis": [
+      "tiara/coroa dourada"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Bela, do filme A Bela e a Fera, representando o icônico vestido amarelo de baile"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5692.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.23,
+  "data_analise": "2026-07-27T17:52:52Z",
+  "data_criacao": "2026-07-27T14:52:52.332306-03:00"
+}

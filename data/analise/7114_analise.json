@@ -1,0 +1,32 @@
+{
+  "id": 7114,
+  "nome_original": "Coringa",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prata",
+      "vermelho",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "camisa",
+      "calça",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético com brilho metálico",
+    "estilo_corte": "terno clássico de corte reto",
+    "acessorios_visiveis": [
+      "peruca verde"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Coringa, com foco em cores contrastantes e visual excêntrico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7114.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.68,
+  "data_analise": "2026-07-28T01:32:53Z",
+  "data_criacao": "2026-07-27T22:32:53.951452-03:00"
+}

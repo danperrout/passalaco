@@ -1,0 +1,37 @@
+{
+  "id": 8768,
+  "nome_original": "Famila Chaves",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "verde",
+      "vermelho",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "camisas estilo marinheiro",
+      "vestidos",
+      "shorts",
+      "calças",
+      "casacos",
+      "toucas"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou algodão",
+    "estilo_corte": "corte casual e temático, com golas marinheiro e modelagem ampla",
+    "acessorios_visiveis": [
+      "toucas",
+      "lenços",
+      "alças de suspensório"
+    ],
+    "tematica_detalhada": "Conjunto de fantasias baseado nos personagens da série Chaves, incluindo referências ao Quico, Chaves, Dona Florinda e Professor Girafales"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8768.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 99.88,
+  "data_analise": "2026-07-28T04:45:05Z",
+  "data_criacao": "2026-07-28T01:45:05.030092-03:00"
+}

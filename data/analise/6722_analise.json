@@ -1,0 +1,31 @@
+{
+  "id": 6722,
+  "nome_original": "Ladybug",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "máscara",
+      "manguitos"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "vestido curto de corte reto com gola alta",
+    "acessorios_visiveis": [
+      "máscara ocular",
+      "bolsa transversal redonda"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Ladybug, do desenho animado Miraculous: As Aventuras de Ladybug"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6722.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.41,
+  "data_analise": "2026-07-29T08:36:28Z",
+  "data_criacao": "2026-07-29T05:36:28.111182-03:00"
+}

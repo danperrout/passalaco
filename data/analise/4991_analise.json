@@ -1,0 +1,31 @@
+{
+  "id": 4991,
+  "nome_original": "Leao",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético acetinado e pelúcia",
+    "estilo_corte": "macacão de peça única com ajuste folgado",
+    "acessorios_visiveis": [
+      "juba de pelúcia",
+      "detalhes de pelúcia nos pés"
+    ],
+    "tematica_detalhada": "fantasia de leão, representando o animal selvagem de forma lúdica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4991.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 322.0,
+  "data_analise": "2026-07-29T10:32:50Z",
+  "data_criacao": "2026-07-29T07:32:50.352054-03:00"
+}

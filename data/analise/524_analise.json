@@ -1,0 +1,28 @@
+{
+  "id": 524,
+  "nome_original": "Deusa Grega",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido fluido com acabamento em renda ou galão dourado",
+    "estilo_corte": "corte assimétrico de um ombro só, modelagem reta/fluida",
+    "acessorios_visiveis": [
+      "tiara dourada"
+    ],
+    "tematica_detalhada": "Deusa Grega ou figura da mitologia clássica, com referências a túnicas antigas e ornamentos imperiais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/524.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.57,
+  "data_analise": "2026-07-28T02:57:36Z",
+  "data_criacao": "2026-07-27T23:57:36.792951-03:00"
+}

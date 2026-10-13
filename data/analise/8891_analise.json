@@ -1,0 +1,27 @@
+{
+  "id": 8891,
+  "nome_original": "Apresentadora",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vinho",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "cartola"
+    ],
+    "material_visual": "tecido sintético com detalhes metalizados e brilhos",
+    "estilo_corte": "casaco estruturado estilo militar/ringmaster",
+    "acessorios_visiveis": [
+      "cartola",
+      "choker/gargantilha"
+    ],
+    "tematica_detalhada": "Apresentadora de circo ou mestre de cerimônias"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8891.jpg",
+  "data_analise": "2026-07-27T14:11:28Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 10026,
+  "nome_original": "Primavera",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte reto e solto",
+    "acessorios_visiveis": [
+      "guirlanda de flores amarelas",
+      "cinto de folhas"
+    ],
+    "tematica_detalhada": "representação da estação Primavera, focada em elementos da natureza como folhagens e flores"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10026.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.25,
+  "data_analise": "2026-07-30T03:58:17Z",
+  "data_criacao": "2026-07-30T00:58:17.678927-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 6540,
+  "nome_original": "Coringa",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul royal",
+      "roxo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "sobretudo",
+      "camiseta",
+      "calça"
+    ],
+    "material_visual": "material sintético com brilho, possivelmente courvin ou couro sintético",
+    "estilo_corte": "sobretudo longo de corte reto com lapelas largas",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia inspirada no personagem Coringa, com foco em cores vibrantes e estilo urbano/excêntrico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6540.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.59,
+  "data_analise": "2026-07-28T01:35:29Z",
+  "data_criacao": "2026-07-27T22:35:29.586156-03:00"
+}

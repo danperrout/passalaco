@@ -1,0 +1,28 @@
+{
+  "id": 9900,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa choque",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com acabamento em renda",
+    "estilo_corte": "estilo caipira moderno com decote ombro a ombro, mangas bufantes e saia curta em camadas com babados",
+    "acessorios_visiveis": [
+      "tiara com laço e fitas"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina estilizada, representando a personagem de noiva ou moça caipira com abordagem fashionista/colorida"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9900.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.73,
+  "data_analise": "2026-07-29T02:10:26Z",
+  "data_criacao": "2026-07-28T23:10:26.681568-03:00"
+}

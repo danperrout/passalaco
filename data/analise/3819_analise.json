@@ -1,0 +1,30 @@
+{
+  "id": 3819,
+  "nome_original": "Carta de Baralho",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado e detalhes em renda ou babados",
+    "estilo_corte": "estilo boneca com saia rodada e corpete ajustado",
+    "acessorios_visiveis": [
+      "cartola vermelha"
+    ],
+    "tematica_detalhada": "carta de baralho, com forte referência visual aos personagens do Reino de Copas da obra Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3819.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.67,
+  "data_analise": "2026-07-27T19:29:14Z",
+  "data_criacao": "2026-07-27T16:29:14.335024-03:00"
+}

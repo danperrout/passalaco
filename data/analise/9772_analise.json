@@ -1,0 +1,30 @@
+{
+  "id": 9772,
+  "nome_original": "Pedrita",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampa de animal print",
+    "estilo_corte": "modelo ombro a ombro assimétrico com saia evasê e cintura marcada",
+    "acessorios_visiveis": [
+      "tiara com detalhe floral",
+      "cinto preto com fivela branca"
+    ],
+    "tematica_detalhada": "fantasia da personagem Pedrita, de The Flintstones, remetendo a uma estética pré-histórica estilizada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9772.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.31,
+  "data_analise": "2026-07-30T02:55:34Z",
+  "data_criacao": "2026-07-29T23:55:34.322086-03:00"
+}

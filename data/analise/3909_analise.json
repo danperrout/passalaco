@@ -1,0 +1,30 @@
+{
+  "id": 3909,
+  "nome_original": "Capa",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "jabot/rufo"
+    ],
+    "material_visual": "cetim ou material sintético brilhante",
+    "estilo_corte": "capa longa com gola alta estruturada",
+    "acessorios_visiveis": [
+      "babado de pescoço"
+    ],
+    "tematica_detalhada": "Vampiro clássico, com referências ao Conde Drácula"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3909.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.69,
+  "data_analise": "2026-07-27T18:54:05Z",
+  "data_criacao": "2026-07-27T15:54:05.878216-03:00"
+}

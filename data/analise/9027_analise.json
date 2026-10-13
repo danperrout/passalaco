@@ -1,0 +1,29 @@
+{
+  "id": 9027,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule, cetim e feltro",
+    "estilo_corte": "estilo rodado com camadas de babados",
+    "acessorios_visiveis": [
+      "tiara com fitas",
+      "aplicações de feltro (casa e trator)"
+    ],
+    "tematica_detalhada": "Festa Junina infantil, com temática rural/caipira estilizada e elements de fazenda"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9027.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.72,
+  "data_analise": "2026-07-28T22:11:18Z",
+  "data_criacao": "2026-07-28T19:11:18.327715-03:00"
+}

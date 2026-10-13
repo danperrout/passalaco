@@ -1,0 +1,29 @@
+{
+  "id": 1407,
+  "nome_original": "Wolverine",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "macacão"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou elastano",
+    "estilo_corte": "ajustado ao corpo, estilo traje de super-herói",
+    "acessorios_visiveis": [
+      "cinto preto"
+    ],
+    "tematica_detalhada": "Personagem Wolverine da franquia X-Men da Marvel Comics, utilizando o traje clássico amarelo e azul"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1407.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.4,
+  "data_analise": "2026-07-30T08:54:49Z",
+  "data_criacao": "2026-07-30T05:54:49.522660-03:00"
+}

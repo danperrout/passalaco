@@ -1,0 +1,31 @@
+{
+  "id": 9643,
+  "nome_original": "La Casa de Papel",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster",
+    "estilo_corte": "estilo macacão utilitário com fechamento frontal por zíper",
+    "acessorios_visiveis": [
+      "cinto preto",
+      "suporte de perna/coldre preto"
+    ],
+    "tematica_detalhada": "Fantasia baseada na série 'La Casa de Papel', representando os assaltantes com a icônica máscara de Salvador Dalí"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9643.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 41.77,
+  "data_analise": "2026-07-29T08:18:51Z",
+  "data_criacao": "2026-07-29T05:18:51.319531-03:00"
+}

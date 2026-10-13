@@ -1,0 +1,31 @@
+{
+  "id": 1551,
+  "nome_original": "Presidiario",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "bermuda",
+      "touca"
+    ],
+    "material_visual": "tecido sintético leve",
+    "estilo_corte": "corte reto e folgado com estampa de listras horizontais",
+    "acessorios_visiveis": [
+      "touca listrada",
+      "crachá de identificação numérica"
+    ],
+    "tematica_detalhada": "fantasia de presidiário clássica, baseada no estereótipo visual de uniformes prisionais antigos de filmes e desenhos animados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1551.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.65,
+  "data_analise": "2026-07-30T03:56:30Z",
+  "data_criacao": "2026-07-30T00:56:30.511703-03:00"
+}

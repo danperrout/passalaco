@@ -1,0 +1,29 @@
+{
+  "id": 7438,
+  "nome_original": "Cocar Branco",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "cocar"
+    ],
+    "material_visual": "penas e adornos metálicos ou sintéticos dourados",
+    "estilo_corte": "estilo circular com extensões laterais e topo alongado",
+    "acessorios_visiveis": [
+      "penas decorativas",
+      "detalhes em dourado"
+    ],
+    "tematica_detalhada": "fantasia inspirada em cocares tribais, comumente utilizada em contextos de carnaval, festas temáticas ou referências a culturas indígenas estilizadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7438.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 39.79,
+  "data_analise": "2026-07-27T23:42:49Z",
+  "data_criacao": "2026-07-27T20:42:49.843636-03:00"
+}

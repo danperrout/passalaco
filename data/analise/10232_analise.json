@@ -1,0 +1,30 @@
+{
+  "id": 10232,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Vitrine",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo",
+      "rosa",
+      "multicolorido"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético estampado com acabamento em fitas e babados",
+    "estilo_corte": "vestido curto com alças finas, busto estruturado e saia em camadas de babados",
+    "acessorios_visiveis": [
+      "tiara com fitas coloridas"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina, representando a vestimenta típica caipira estilizada para celebrações regionais brasileiras"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10232.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 39.32,
+  "data_analise": "2026-07-29T02:07:53Z",
+  "data_criacao": "2026-07-28T23:07:53.610368-03:00"
+}

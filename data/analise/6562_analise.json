@@ -1,0 +1,34 @@
+{
+  "id": 6562,
+  "nome_original": "Espanhol",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "camisa",
+      "colete",
+      "calça",
+      "faixa"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco",
+    "estilo_corte": "ajustado ao corpo com colete clássico e camisa de mangas longas",
+    "acessorios_visiveis": [
+      "chapéu de aba larga com pompons vermelhos",
+      "faixa vermelha na cintura"
+    ],
+    "tematica_detalhada": "Fantasia de espanhol estilizada, remetendo a trajes tradicionais de danças como o flamenco ou referências a toreros"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6562.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.83,
+  "data_analise": "2026-07-28T03:52:25Z",
+  "data_criacao": "2026-07-28T00:52:25.664839-03:00"
+}

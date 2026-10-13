@@ -1,0 +1,31 @@
+{
+  "id": 3088,
+  "nome_original": "Chapolin",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "capuz",
+      "camisa de manga longa",
+      "shorts"
+    ],
+    "material_visual": "tecido sintético com aparência de lycra ou poliéster",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "antenas no capuz",
+      "martelo gigante"
+    ],
+    "tematica_detalhada": "Fantasia do personagem El Chapulín Colorado, herói cômico da cultura pop latino-americana"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3088.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 43.32,
+  "data_analise": "2026-07-27T20:23:17Z",
+  "data_criacao": "2026-07-27T17:23:17.747745-03:00"
+}

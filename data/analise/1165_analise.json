@@ -1,0 +1,32 @@
+{
+  "id": 1165,
+  "nome_original": "Pirata",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Piratas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "colete",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster",
+    "estilo_corte": "corte casual com acabamentos irregulares e desgastados na barra da camisa",
+    "acessorios_visiveis": [
+      "chapéu tricórnio",
+      "tapa-olho"
+    ],
+    "tematica_detalhada": "Pirata clássico, com referências a tripulações de corsários, utilizando a iconografia de caveira e ossos cruzados (Jolly Roger)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1165.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.73,
+  "data_analise": "2026-07-30T03:40:44Z",
+  "data_criacao": "2026-07-30T00:40:44.956356-03:00"
+}

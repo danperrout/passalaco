@@ -1,0 +1,29 @@
+{
+  "id": 8803,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul claro",
+      "rosa",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule, cetim e apliques de feltro",
+    "estilo_corte": "vestido de festa infantil com saia volumosa e mangas bufantes",
+    "acessorios_visiveis": [
+      "tiara com fitas"
+    ],
+    "tematica_detalhada": "Fantasia junina infantil estilizada, com temática de natureza e corujas coloridas, reinterpretando a roupa caipira em um estilo luxo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8803.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.13,
+  "data_analise": "2026-07-29T00:15:53Z",
+  "data_criacao": "2026-07-28T21:15:53.883112-03:00"
+}

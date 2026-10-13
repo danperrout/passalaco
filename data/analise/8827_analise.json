@@ -1,0 +1,36 @@
+{
+  "id": 8827,
+  "nome_original": "Familia Mario Bros",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "rosa",
+      "vermelho",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "macacão",
+      "camiseta",
+      "bonés"
+    ],
+    "material_visual": "tecido sintético acetinado e sarja",
+    "estilo_corte": "estilo cosplay com cortes simples e modelagem temática",
+    "acessorios_visiveis": [
+      "tiara/coroa",
+      "boné do Mario",
+      "boné do Luigi",
+      "botões amarelos"
+    ],
+    "tematica_detalhada": "Família Mario Bros, referenciando a Princesa Peach, Luigi e Mario do universo Nintendo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8827.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.84,
+  "data_analise": "2026-07-28T04:52:17Z",
+  "data_criacao": "2026-07-28T01:52:17.532057-03:00"
+}

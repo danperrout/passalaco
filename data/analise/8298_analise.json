@@ -1,0 +1,30 @@
+{
+  "id": 8298,
+  "nome_original": "Rainha Negra",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido curto com cauda",
+      "corselete integrado"
+    ],
+    "material_visual": "cetim sintético com acabamento em renda",
+    "estilo_corte": "estilo gótico vitoriano com gola alta estruturada e saia rodada",
+    "acessorios_visiveis": [
+      "máscara de renda/véu",
+      "aplicação de coração vermelho"
+    ],
+    "tematica_detalhada": "Rainha de Copas versão sombria/gótica, inspirada em Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8298.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.31,
+  "data_analise": "2026-07-30T04:33:39Z",
+  "data_criacao": "2026-07-30T01:33:39.064570-03:00"
+}

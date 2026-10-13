@@ -1,0 +1,31 @@
+{
+  "id": 10126,
+  "nome_original": "Dona Clotilde",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul royal",
+      "branco",
+      "cinza"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "casaquinho",
+      "detalhe frontal estampado"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "estilo vintage modesto, comprimento midi, mangas longas e gola alta",
+    "acessorios_visiveis": [
+      "touca branca com detalhe floral"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Dona Clotilde, da série Chaves, representando uma senhora solteirona com estilo conservador e antigo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10126.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 113.17,
+  "data_analise": "2026-07-28T03:17:46Z",
+  "data_criacao": "2026-07-28T00:17:46.399928-03:00"
+}

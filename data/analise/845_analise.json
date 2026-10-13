@@ -1,0 +1,30 @@
+{
+  "id": 845,
+  "nome_original": "Marinheira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul marinho"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "estilo marinheiro com gola larga e saia plissada",
+    "acessorios_visiveis": [
+      "chapéu de marinheiro"
+    ],
+    "tematica_detalhada": "fantasia de marinheira clássica, inspirada em uniformes navais e estética de 'sailor fuku' japonesa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/845.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.53,
+  "data_analise": "2026-07-29T17:56:15Z",
+  "data_criacao": "2026-07-29T14:56:15.023693-03:00"
+}

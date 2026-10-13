@@ -1,0 +1,31 @@
+{
+  "id": 7318,
+  "nome_original": "Luigi",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia de tule",
+      "boné"
+    ],
+    "material_visual": "tecido sintético e tule",
+    "estilo_corte": "estilo tutu com suspensórios decorativos",
+    "acessorios_visiveis": [
+      "boné com a letra L",
+      "botões amarelos"
+    ],
+    "tematica_detalhada": "Versão feminina e estilizada do personagem Luigi, da franquia Super Mario"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7318.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 68.55,
+  "data_analise": "2026-07-29T12:33:46Z",
+  "data_criacao": "2026-07-29T09:33:46.316343-03:00"
+}

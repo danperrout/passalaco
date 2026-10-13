@@ -1,0 +1,32 @@
+{
+  "id": 7197,
+  "nome_original": "Caveira Mexicana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "amarelo",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "adereço de cabeça"
+    ],
+    "material_visual": "tecido sintético com brilho e detalhes em renda",
+    "estilo_corte": "estilo vintage com cintura marcada e saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "coroa de flores artificiais",
+      "colar de flores"
+    ],
+    "tematica_detalhada": "Dia dos Mortos (Día de Muertos), tradição mexicana que celebra a memória dos ancestrais com cores vibrantes e elementos florais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7197.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.39,
+  "data_analise": "2026-07-27T19:45:34Z",
+  "data_criacao": "2026-07-27T16:45:34.245045-03:00"
+}

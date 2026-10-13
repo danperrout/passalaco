@@ -1,0 +1,29 @@
+{
+  "id": 5867,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "rosa",
+      "multicolorido"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com rendas e fitas de cetim",
+    "estilo_corte": "estilo corset no busto com saia rodada em camadas e babados",
+    "acessorios_visiveis": [
+      "tiara com flor e fitas coloridas"
+    ],
+    "tematica_detalhada": "Fantasia de festa junina estilizada, remetendo à figura da noiva ou caipira moderna com elementos folclóricos brasileiros"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5867.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 36.03,
+  "data_analise": "2026-07-29T01:02:29Z",
+  "data_criacao": "2026-07-28T22:02:29.177660-03:00"
+}

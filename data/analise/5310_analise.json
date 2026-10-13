@@ -1,0 +1,31 @@
+{
+  "id": 5310,
+  "nome_original": "Maquinista",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco",
+    "estilo_corte": "corte reto com gola alta e fechamento frontal",
+    "acessorios_visiveis": [
+      "quepe",
+      "galões nos punhos"
+    ],
+    "tematica_detalhada": "uniforme clássico de maquinista ou condutor de trem, remetendo a profissionais ferroviários de época"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5310.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 35.37,
+  "data_analise": "2026-07-29T17:22:29Z",
+  "data_criacao": "2026-07-29T14:22:29.526645-03:00"
+}

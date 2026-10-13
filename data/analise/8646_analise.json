@@ -1,0 +1,30 @@
+{
+  "id": 8646,
+  "nome_original": "Pantera Negra",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "blusa de manga longa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante e detalhes impressos",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "máscara facial"
+    ],
+    "tematica_detalhada": "Personagem Pantera Negra da Marvel, referenciando o super-herói do reino de Wakanda"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8646.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 80.13,
+  "data_analise": "2026-07-30T02:02:45Z",
+  "data_criacao": "2026-07-29T23:02:45.291789-03:00"
+}

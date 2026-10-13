@@ -1,0 +1,29 @@
+{
+  "id": 424,
+  "nome_original": "Cleopatra",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Cleopatras e Faraós",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com detalhes em bordados e pedrarias",
+    "estilo_corte": "corte reto e curto com gola ornamentada e detalhe frontal pendente",
+    "acessorios_visiveis": [
+      "tiara dourada",
+      "braceletes dourados"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na Rainha Cleópatra e na realeza do Antigo Egito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/424.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 201.84,
+  "data_analise": "2026-07-27T23:09:28Z",
+  "data_criacao": "2026-07-27T20:09:28.530932-03:00"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 9276,
+  "nome_original": "Casal Conde e Condessa",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "vestido",
+      "gola"
+    ],
+    "material_visual": "tecido sintético com brilho e aspecto de cetim ou tafetá",
+    "estilo_corte": "estilo vitoriano/gótico com corte estruturado para o homem e volumoso para a mulher",
+    "acessorios_visiveis": [
+      "colar",
+      "chapéu pequeno/fascínio",
+      "babados no pescoço"
+    ],
+    "tematica_detalhada": "Casal de nobreza gótica, referenciando a estética de vampiros aristocratas ou Drácula"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9276.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.55,
+  "data_analise": "2026-07-27T19:32:31Z",
+  "data_criacao": "2026-07-27T16:32:31.464264-03:00"
+}

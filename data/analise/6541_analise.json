@@ -1,0 +1,30 @@
+{
+  "id": 6541,
+  "nome_original": "Godinez",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde escuro",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "macacão curto",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético opaco",
+    "estilo_corte": "corte reto e folgado",
+    "acessorios_visiveis": [
+      "chapéu preto"
+    ],
+    "tematica_detalhada": "estilo camponês ou estudante tradicional, referenciando a estética de 'Godinez' (termo mexicano para estudantes ou funcionários de escritório)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6541.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 52.73,
+  "data_analise": "2026-07-28T11:02:52Z",
+  "data_criacao": "2026-07-28T08:02:52.245748-03:00"
+}

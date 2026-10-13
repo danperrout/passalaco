@@ -1,0 +1,30 @@
+{
+  "id": 5621,
+  "nome_original": "Coroa Rainha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "coroa"
+    ],
+    "material_visual": "feltro ou tecido sintético com adornos em plástico e metal",
+    "estilo_corte": "estilo tiara pontiaguda com bordas recortadas",
+    "acessorios_visiveis": [
+      "pedras sintéticas vermelhas",
+      "contas douradas"
+    ],
+    "tematica_detalhada": "fantasia de realeza, especificamente Rainha ou Rainha Má, com referências a contos de fadas e monarquias medievais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5621.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.18,
+  "data_analise": "2026-07-28T01:45:14Z",
+  "data_criacao": "2026-07-27T22:45:14.832223-03:00"
+}

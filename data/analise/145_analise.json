@@ -1,0 +1,25 @@
+{
+  "id": 145,
+  "nome_original": "Apresentadora",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul escuro",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "cartola",
+      "top/corpete"
+    ],
+    "material_visual": "tecido brilhante com aplicações de lantejoulas e pedrarias",
+    "estilo_corte": "ajustado ao corpo com detalhes ornamentais",
+    "acessorios_visiveis": [
+      "cartola decorada"
+    ],
+    "tematica_detalhada": "Apresentadora de circo ou show de variedades com estética glamourosa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/145.jpg",
+  "data_analise": "2026-07-27T14:11:50Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 5143,
+  "nome_original": "Noivo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "camisa"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte clássico de terno slim",
+    "acessorios_visiveis": [
+      "gravata"
+    ],
+    "tematica_detalhada": "fantasia de noivo ou traje formal, com detalhe de camisa xadrez vermelha conferindo um aspecto moderno ou casual ao conjunto"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5143.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.9,
+  "data_analise": "2026-07-30T00:33:37Z",
+  "data_criacao": "2026-07-29T21:33:37.041030-03:00"
+}

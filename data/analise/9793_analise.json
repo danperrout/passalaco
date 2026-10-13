@@ -1,0 +1,29 @@
+{
+  "id": 9793,
+  "nome_original": "Ketchup",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "túnica corporal",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster",
+    "estilo_corte": "corte reto e amplo, formato de embalagem cilíndrica",
+    "acessorios_visiveis": [
+      "rótulo impresso"
+    ],
+    "tematica_detalhada": "fantasia de alimento, simulando especificamente um frasco de ketchup de tomate"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9793.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 217.86,
+  "data_analise": "2026-07-29T08:02:01Z",
+  "data_criacao": "2026-07-29T05:02:01.216672-03:00"
+}

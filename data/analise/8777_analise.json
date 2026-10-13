@@ -1,0 +1,34 @@
+{
+  "id": 8777,
+  "nome_original": "Pirata 8 Meses",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Mesversario",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "bermuda",
+      "bandana",
+      "tapa-olho"
+    ],
+    "material_visual": "tecido sintético com acabamento em viés dourado",
+    "estilo_corte": "estilo infantil com colete aberto e bermuda curta",
+    "acessorios_visiveis": [
+      "cinto amarelo",
+      "tapa-olho",
+      "bandana"
+    ],
+    "tematica_detalhada": "pirata clássico com estampa de caveiras, referenciando a cultura de navegação e aventuras marítimas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8777.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.33,
+  "data_analise": "2026-07-30T03:42:47Z",
+  "data_criacao": "2026-07-30T00:42:47.905365-03:00"
+}

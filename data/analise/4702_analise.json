@@ -1,0 +1,34 @@
+{
+  "id": 4702,
+  "nome_original": "Palhacinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Circo",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "vermelho",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "colete",
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com acabamento em xadrez e texturas lisas",
+    "estilo_corte": "estilo rodado com colete ajustado",
+    "acessorios_visiveis": [
+      "chapéu coco",
+      "laço no pescoço",
+      "detalhes de estrelas"
+    ],
+    "tematica_detalhada": "fantasia de palhacinha estilizada com referências a circo clássico e elementos lúdicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4702.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.42,
+  "data_analise": "2026-07-30T01:35:18Z",
+  "data_criacao": "2026-07-29T22:35:18.166045-03:00"
+}

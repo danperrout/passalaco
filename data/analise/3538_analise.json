@@ -1,0 +1,27 @@
+{
+  "id": 3538,
+  "nome_original": "Paleto",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "camisa"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "alfaiataria clássica",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Terno formal branco, podendo referenciar personagens como Elvis Presley, noivos ou trajes de gala"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3538.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.53,
+  "data_analise": "2026-07-30T01:29:11Z",
+  "data_criacao": "2026-07-29T22:29:11.957852-03:00"
+}

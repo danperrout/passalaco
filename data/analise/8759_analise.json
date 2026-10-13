@@ -1,0 +1,32 @@
+{
+  "id": 8759,
+  "nome_original": "Mae e Filha Moana",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "bege",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "top tomara-que-caia",
+      "saia com franjas",
+      "sobreposição de tecido rendado"
+    ],
+    "material_visual": "tecido sintético, renda, ráfia e plástico",
+    "estilo_corte": "estilo tribal polonésio com corte curto e ajustes por amarração",
+    "acessorios_visiveis": [
+      "colar com pedra azul",
+      "guirlandas de flores para a cabeça"
+    ],
+    "tematica_detalhada": "fantasia inspirada na personagem Moana da Disney, referenciando a cultura da Polinésia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8759.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 398.21,
+  "data_analise": "2026-07-29T14:38:15Z",
+  "data_criacao": "2026-07-29T11:38:15.533092-03:00"
+}

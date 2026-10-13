@@ -1,0 +1,35 @@
+{
+  "id": 6542,
+  "nome_original": "Italiano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "colete",
+      "camisa",
+      "calça",
+      "lenço de pescoço",
+      "faixa de cintura"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster e cetim para os detalhes vermelhos",
+    "estilo_corte": "corte clássico e folgado, com colete aberto e camisa de mangas longas",
+    "acessorios_visiveis": [
+      "chapéu de aba larga",
+      "lenço vermelho"
+    ],
+    "tematica_detalhada": "estereótipo de imigrante italiano antigo ou personagem de época, referenciando trajes rústicos europeus"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6542.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 267.27,
+  "data_analise": "2026-07-28T17:53:19Z",
+  "data_criacao": "2026-07-28T14:53:19.832883-03:00"
+}

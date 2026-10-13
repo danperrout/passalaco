@@ -1,0 +1,27 @@
+{
+  "id": 366,
+  "nome_original": "Carimbo",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou nylon",
+    "estilo_corte": "blusa com decote ombro a ombro e elástico, saia longa com volume",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "estilo festivo ou performático, com cores vibrantes e contraste entre o rosa neon e o preto estampado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/366.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.5,
+  "data_analise": "2026-07-27T19:19:29Z",
+  "data_criacao": "2026-07-27T16:19:29.068244-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 2292,
+  "nome_original": "Cachorro Branco",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "macacão integral com capuz"
+    ],
+    "material_visual": "tecido felpudo tipo pelúcia ou soft",
+    "estilo_corte": "estilo kigurumi, corte amplo e confortável",
+    "acessorios_visiveis": [
+      "capuz com orelhas e focinho de cachorro"
+    ],
+    "tematica_detalhada": "fantasia de animal, especificamente um cachorro branco com detalhes em marrom, remetendo a personagens fofos de animações"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2292.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.98,
+  "data_analise": "2026-07-27T18:45:31Z",
+  "data_criacao": "2026-07-27T15:45:31.266395-03:00"
+}

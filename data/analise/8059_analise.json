@@ -1,0 +1,30 @@
+{
+  "id": 8059,
+  "nome_original": "Chuck",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "camiseta de manga longa"
+    ],
+    "material_visual": "tecido sintético com aspecto de malha e sarja",
+    "estilo_corte": "macacão oversized com alças e camiseta ajustada",
+    "acessorios_visiveis": [
+      "máscara de personagem",
+      "botões vermelhos"
+    ],
+    "tematica_detalhada": "Personagem Chucky do filme Brinquedo Assassino, representando um boneco diabólico com roupas infantis"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8059.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 27.43,
+  "data_analise": "2026-07-27T21:51:25Z",
+  "data_criacao": "2026-07-27T18:51:25.448781-03:00"
+}

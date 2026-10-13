@@ -1,0 +1,33 @@
+{
+  "id": 10085,
+  "nome_original": "Faraó",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Cleopatras e Faraós",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "nemes (tocado)",
+      "saiote",
+      "capa",
+      "braceletes"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "corte reto com drapeados e caimento fluido",
+    "acessorios_visiveis": [
+      "tocado egípcio",
+      "braceletes dourados",
+      "cinto decorativo"
+    ],
+    "tematica_detalhada": "Faraó do Antigo Egito, inspirada na realeza egípcia clássica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10085.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 129.95,
+  "data_analise": "2026-07-28T05:18:36Z",
+  "data_criacao": "2026-07-28T02:18:36.057901-03:00"
+}

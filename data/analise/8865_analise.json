@@ -1,0 +1,33 @@
+{
+  "id": 8865,
+  "nome_original": "Casal Apresentador",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "cartola"
+    ],
+    "material_visual": "cetim ou veludo com detalhes metálicos",
+    "estilo_corte": "estilo gala/clássico com corte estruturado",
+    "acessorios_visiveis": [
+      "gravata borboleta",
+      "colares dourados",
+      "cartola"
+    ],
+    "tematica_detalhada": "Casal de apresentadores de circo ou mestre de cerimônias, com estética luxuosa e performática"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8865.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.81,
+  "data_analise": "2026-07-27T19:30:55Z",
+  "data_criacao": "2026-07-27T16:30:55.796287-03:00"
+}

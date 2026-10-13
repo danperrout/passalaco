@@ -1,0 +1,31 @@
+{
+  "id": 9126,
+  "nome_original": "Deusa Grega",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Gregas/Romanos",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "faixa abdominal"
+    ],
+    "material_visual": "tecido fluido e leve, possivelmente chiffon ou poliéster",
+    "estilo_corte": "estilo túnica com drapeado e cintura marcada",
+    "acessorios_visiveis": [
+      "tiara dourada",
+      "colar dourado",
+      "pulseira preta"
+    ],
+    "tematica_detalhada": "Deusa Grega, inspirada nas vestimentas da Grécia Antiga como o quitão ou peplo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9126.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.15,
+  "data_analise": "2026-07-28T02:57:48Z",
+  "data_criacao": "2026-07-27T23:57:48.591656-03:00"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 7583,
+  "nome_original": "Arabe",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Árabes/Indianas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "magenta",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido tipo caftan"
+    ],
+    "material_visual": "tecido leve com bordados",
+    "estilo_corte": "caftan longo de corte reto e solto com mangas curtas",
+    "acessorios_visiveis": [
+      "faixa de cabeça com correntes",
+      "brinco pendente"
+    ],
+    "tematica_detalhada": "princesa árabe, contos das mil e uma noites"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7583.jpg",
+  "data_analise": "2026-07-27T16:46:01Z"
+}

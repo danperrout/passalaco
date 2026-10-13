@@ -1,0 +1,30 @@
+{
+  "id": 9094,
+  "nome_original": "Cavaleiro da Lua",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz",
+      "máscara",
+      "traje completo"
+    ],
+    "material_visual": "tecido sintético com brilho metálico ou lurex",
+    "estilo_corte": "longo e fluido com capuz integrado",
+    "acessorios_visiveis": [
+      "máscara facial"
+    ],
+    "tematica_detalhada": "Cavaleiro da Lua, personagem com estética mística e noturna, referenciando figuras sombrias ou super-heróis urbanos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9094.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.59,
+  "data_analise": "2026-07-27T19:40:00Z",
+  "data_criacao": "2026-07-27T16:40:00.733007-03:00"
+}

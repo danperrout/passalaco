@@ -1,0 +1,32 @@
+{
+  "id": 7094,
+  "nome_original": "Frevo",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo",
+      "azul",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante",
+    "estilo_corte": "camisa com mangas bufantes e babados, calça reta",
+    "acessorios_visiveis": [
+      "laço frontal",
+      "faixa na cintura com fitas"
+    ],
+    "tematica_detalhada": "Fantasia típica de Frevo, dança folclórica característica do Carnaval de Pernambuco"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7094.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 57.18,
+  "data_analise": "2026-07-28T06:35:57Z",
+  "data_criacao": "2026-07-28T03:35:57.045807-03:00"
+}

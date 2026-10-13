@@ -1,0 +1,30 @@
+{
+  "id": 9748,
+  "nome_original": "Jasmine",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul turquesa",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "saia sobreposta",
+      "calça"
+    ],
+    "material_visual": "tule e cetim sintético com detalhes metálicos",
+    "estilo_corte": "estilo oriental com cintura marcada e saia em camadas",
+    "acessorios_visiveis": [
+      "tiara dourada"
+    ],
+    "tematica_detalhada": "Fantasia da Princesa Jasmine, inspirada na cultura árabe e no filme Aladim"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9748.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 181.97,
+  "data_analise": "2026-07-28T20:05:13Z",
+  "data_criacao": "2026-07-28T17:05:13.216360-03:00"
+}

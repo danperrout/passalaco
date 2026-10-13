@@ -1,0 +1,33 @@
+{
+  "id": 8253,
+  "nome_original": "Country",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu",
+      "manguitos"
+    ],
+    "material_visual": "camurça sintética ou tecido texturizado",
+    "estilo_corte": "vestido curto de corte reto com franjas na barra e ombros",
+    "acessorios_visiveis": [
+      "chapéu de aba larga",
+      "cinto com fivela",
+      "colar",
+      "corda decorativa na cintura"
+    ],
+    "tematica_detalhada": "estilo country/western, com referências a trajes de cowboys ou personagens de filmes de faroeste"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8253.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 78.61,
+  "data_analise": "2026-07-28T02:11:58Z",
+  "data_criacao": "2026-07-27T23:11:58.559790-03:00"
+}

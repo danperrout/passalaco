@@ -1,0 +1,30 @@
+{
+  "id": 5852,
+  "nome_original": "Elsa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul claro",
+      "azul royal",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule, cetim e detalhes em glitter/paetês",
+    "estilo_corte": "vestido curto com cintura marcada e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara",
+      "peruca branca trançada"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Elsa do filme Frozen, Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5852.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.55,
+  "data_analise": "2026-07-28T03:37:03Z",
+  "data_criacao": "2026-07-28T00:37:03.869516-03:00"
+}

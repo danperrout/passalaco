@@ -1,0 +1,33 @@
+{
+  "id": 6917,
+  "nome_original": "Hatsune-miku",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Cosplay",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul turquesa",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "saia",
+      "gravata",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado",
+    "estilo_corte": "estilo escolar japonês modernizado com mangas destacadas",
+    "acessorios_visiveis": [
+      "gravata",
+      "peruca longa com maria-chiquinha"
+    ],
+    "tematica_detalhada": "Cosplay da personagem Hatsune Miku, uma idol virtual japonesa (Vocaloid)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6917.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 69.49,
+  "data_analise": "2026-07-28T13:05:11Z",
+  "data_criacao": "2026-07-28T10:05:11.379967-03:00"
+}

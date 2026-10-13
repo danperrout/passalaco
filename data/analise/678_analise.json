@@ -1,0 +1,32 @@
+{
+  "id": 678,
+  "nome_original": "Gueixa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido estilo quimono",
+      "faixa de cintura",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético acetinado com brilho",
+    "estilo_corte": "corte reto com mangas largas e fechamento transpassado",
+    "acessorios_visiveis": [
+      "faixa obi dourada",
+      "peruca preta",
+      "adorno floral vermelho no cabelo"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em Gueixa japonesa, referenciando a vestimenta tradicional Quimono com elementos estilizados para festa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/678.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 81.21,
+  "data_analise": "2026-07-28T11:33:21Z",
+  "data_criacao": "2026-07-28T08:33:21.718040-03:00"
+}

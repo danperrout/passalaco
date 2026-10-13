@@ -1,0 +1,29 @@
+{
+  "id": 6660,
+  "nome_original": "Farao",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "nemes (tocado)",
+      "saiote"
+    ],
+    "material_visual": "tecido sintético com brilho satinado",
+    "estilo_corte": "corte reto com detalhes em listras verticais e gola circular",
+    "acessorios_visiveis": [
+      "braceletes dourados"
+    ],
+    "tematica_detalhada": "Faraó do Antigo Egito, inspirada na realeza egípcia com cores contrastantes de poder e luxo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6660.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 100.13,
+  "data_analise": "2026-07-28T05:08:09Z",
+  "data_criacao": "2026-07-28T02:08:09.350735-03:00"
+}

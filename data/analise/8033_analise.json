@@ -1,0 +1,25 @@
+{
+  "id": 8033,
+  "nome_original": "Aquaman",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "armadura de peitoral",
+      "calças"
+    ],
+    "material_visual": "metalizado e sintético",
+    "estilo_corte": "ajustado ao corpo",
+    "acessorios_visiveis": [
+      "coroa"
+    ],
+    "tematica_detalhada": "Super-herói Aquaman"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8033.jpg",
+  "data_analise": "2026-07-27T14:12:50Z"
+}

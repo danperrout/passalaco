@@ -1,0 +1,32 @@
+{
+  "id": 3298,
+  "nome_original": "Burca",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "véu facial",
+      "manto"
+    ],
+    "material_visual": "tecido sintético fosco com aplicações de pedrarias e bordados",
+    "estilo_corte": "estilo niqab, com cobertura completa da cabeça e rosto, deixando apenas a fenda para os olhos",
+    "acessorios_visiveis": [
+      "miçangas",
+      "pedras brilhantes",
+      "bordados ornamentais"
+    ],
+    "tematica_detalhada": "vestimenta tradicional islâmica estilizada para fantasia, com referências ao niqab/burca com ornamentos decorativos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3298.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.86,
+  "data_analise": "2026-07-27T18:41:36Z",
+  "data_criacao": "2026-07-27T15:41:36.727223-03:00"
+}

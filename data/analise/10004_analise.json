@@ -1,0 +1,29 @@
+{
+  "id": 10004,
+  "nome_original": "Branquelas",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa choque",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "saia",
+      "top"
+    ],
+    "material_visual": "pelúcia sintética (estilo penas)",
+    "estilo_corte": "curto e volumoso com design assimétrico no busto",
+    "acessorios_visiveis": [
+      "aplicação de rosto de pássaro/criatura"
+    ],
+    "tematica_detalhada": "fantasia extravagante inspirada em aves exóticas ou criaturas coloridas, com foco em texturas felpudas e cores vibrantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10004.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.99,
+  "data_analise": "2026-07-27T18:22:16Z",
+  "data_criacao": "2026-07-27T15:22:16.830962-03:00"
+}

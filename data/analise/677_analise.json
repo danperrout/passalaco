@@ -1,0 +1,30 @@
+{
+  "id": 677,
+  "nome_original": "Gueixa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "quimono",
+      "faixa obi"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "corte tradicional japonês com mangas largas e fechamento transpassado",
+    "acessorios_visiveis": [
+      "faixa obi vermelha"
+    ],
+    "tematica_detalhada": "fantasia de gueixa inspirada na cultura tradicional japonesa, caracterizada pelo uso do quimono e obi"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/677.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 33.13,
+  "data_analise": "2026-07-28T11:38:42Z",
+  "data_criacao": "2026-07-28T08:38:42.109496-03:00"
+}

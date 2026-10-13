@@ -1,0 +1,30 @@
+{
+  "id": 6064,
+  "nome_original": "Dança do Ventre",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top estilo sutiã",
+      "saia longa"
+    ],
+    "material_visual": "tecido sintético com lantejoulas e franjas de contas",
+    "estilo_corte": "conjunto de duas peças com cintura baixa e top estruturado",
+    "acessorios_visiveis": [
+      "gargantilha",
+      "peruca loira"
+    ],
+    "tematica_detalhada": "dançarina de ventre com referências à cultura do Oriente Médio"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6064.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 22.08,
+  "data_analise": "2026-07-28T02:40:24Z",
+  "data_criacao": "2026-07-27T23:40:24.168337-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 8491,
+  "nome_original": "Vaca",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou plush",
+    "estilo_corte": "estilo kigurumi ou macacão justo de corpo inteiro",
+    "acessorios_visiveis": [
+      "chifres",
+      "orelhas"
+    ],
+    "tematica_detalhada": "fantasia de vaca holandesa, caracterizada por manchas pretas e brancas e barriga rosa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8491.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.57,
+  "data_analise": "2026-07-30T08:43:18Z",
+  "data_criacao": "2026-07-30T05:43:18.391277-03:00"
+}

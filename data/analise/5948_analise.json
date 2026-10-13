@@ -1,0 +1,30 @@
+{
+  "id": 5948,
+  "nome_original": "Minions",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "vestido jardineira"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou jeans leve",
+    "estilo_corte": "corte A para a jardineira e corte reto para a camiseta",
+    "acessorios_visiveis": [
+      "óculos de proteção goggle",
+      "tiara com fios de cabelo"
+    ],
+    "tematica_detalhada": "Personagem Minion da franquia 'Meu Malvado Favorito', caracterizado pelas cores amarelo e azul e óculos icônicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5948.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 35.71,
+  "data_analise": "2026-07-29T22:32:12Z",
+  "data_criacao": "2026-07-29T19:32:12.221837-03:00"
+}

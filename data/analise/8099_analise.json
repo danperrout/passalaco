@@ -1,0 +1,31 @@
+{
+  "id": 8099,
+  "nome_original": "Tempestade",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "calça",
+      "capa",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético com aspecto de couro ou vinil",
+    "estilo_corte": "ajustado ao corpo com capa longa e fluida",
+    "acessorios_visiveis": [
+      "cinto com fivela do símbolo X-Men"
+    ],
+    "tematica_detalhada": "Personagem Tempestade (Storm) dos X-Men da Marvel Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8099.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 30.27,
+  "data_analise": "2026-07-30T07:43:02Z",
+  "data_criacao": "2026-07-30T04:43:02.466479-03:00"
+}

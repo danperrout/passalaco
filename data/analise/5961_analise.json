@@ -1,0 +1,34 @@
+{
+  "id": 5961,
+  "nome_original": "Power Rangers",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "capacete",
+      "jaqueta",
+      "camiseta",
+      "calça"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou cetim",
+    "estilo_corte": "estilo militar estilizado com gola alta e cinturão largo",
+    "acessorios_visiveis": [
+      "capacete com emblema",
+      "cinto com fivela"
+    ],
+    "tematica_detalhada": "fantasia inspirada no personagem Law de One Piece, com referências a piratas e estética de anime"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5961.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.86,
+  "data_analise": "2026-07-30T03:54:48Z",
+  "data_criacao": "2026-07-30T00:54:48.960292-03:00"
+}

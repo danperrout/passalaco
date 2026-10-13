@@ -1,0 +1,30 @@
+{
+  "id": 2604,
+  "nome_original": "Exercito",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "calça",
+      "boina"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster ou gabardine",
+    "estilo_corte": "corte militar estruturado com gola alta e fechamento frontal",
+    "acessorios_visiveis": [
+      "boina",
+      "insígnias/botões dourados"
+    ],
+    "tematica_detalhada": "fantasia de exército ou força policial, inspirada em uniformes militares formais de gala ou serviço"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2604.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 34.09,
+  "data_analise": "2026-07-28T04:21:40Z",
+  "data_criacao": "2026-07-28T01:21:40.226144-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 671,
+  "nome_original": "Girafa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "tecido felpudo sintético",
+    "estilo_corte": "estilo kigurumi ou pijama oversized",
+    "acessorios_visiveis": [
+      "orelhas acopladas",
+      "chifres acoplados"
+    ],
+    "tematica_detalhada": "fantasia de animal, especificamente uma girafa, com estampa de manchas característica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/671.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 39.74,
+  "data_analise": "2026-07-28T10:59:33Z",
+  "data_criacao": "2026-07-28T07:59:33.281735-03:00"
+}

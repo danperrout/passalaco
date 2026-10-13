@@ -1,0 +1,30 @@
+{
+  "id": 3685,
+  "nome_original": "Elvis",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "camiseta",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco e detalhes em fitas brilhantes",
+    "estilo_corte": "conjunto casual com paletó aberto e calça reta",
+    "acessorios_visiveis": [
+      "peruca black power"
+    ],
+    "tematica_detalhada": "estilo inspirado em Elvis Presley, referenciando a estética do rock and roll dos anos 50/60"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3685.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 39.1,
+  "data_analise": "2026-07-28T03:39:45Z",
+  "data_criacao": "2026-07-28T00:39:45.369108-03:00"
+}

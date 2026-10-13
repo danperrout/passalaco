@@ -1,0 +1,29 @@
+{
+  "id": 8295,
+  "nome_original": "Medusa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "bronze"
+    ],
+    "pecas_inclusas": [
+      "top estilo corset",
+      "shorts"
+    ],
+    "material_visual": "tecido sintético com brilho metálico e texturizado",
+    "estilo_corte": "justo ao corpo, com decote coração e amarração frontal",
+    "acessorios_visiveis": [
+      "tiara de serpentes"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na Medusa da mitologia grega, caracterizada pelo adereço de cabeça com cobras e cores metálicas que remetem ao ouro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8295.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.67,
+  "data_analise": "2026-07-29T21:16:08Z",
+  "data_criacao": "2026-07-29T18:16:08.780142-03:00"
+}

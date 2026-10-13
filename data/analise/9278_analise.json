@@ -1,0 +1,31 @@
+{
+  "id": 9278,
+  "nome_original": "Conde Dracula",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "colete",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante e cetim",
+    "estilo_corte": "estilo vitoriano com gola alta e estruturada",
+    "acessorios_visiveis": [
+      "jabot de renda",
+      "botões dourados"
+    ],
+    "tematica_detalhada": "Vampiro clássico, inspirado no Conde Drácula, com estética gótica e aristocrática"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9278.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.25,
+  "data_analise": "2026-07-28T01:23:58Z",
+  "data_criacao": "2026-07-27T22:23:58.885440-03:00"
+}

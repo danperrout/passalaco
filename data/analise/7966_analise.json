@@ -1,0 +1,33 @@
+{
+  "id": 7966,
+  "nome_original": "Paquita",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul royal",
+      "dourado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "chapéu estilo shako",
+      "jaqueta curta",
+      "shorts/calcinha"
+    ],
+    "material_visual": "cetim brilhante com detalhes em lantejoulas e franjas",
+    "estilo_corte": "estilo militar estilizado com corte justo e comprimento curto",
+    "acessorios_visiveis": [
+      "plumas no chapéu",
+      "galões dourados",
+      "franjas nos ombros"
+    ],
+    "tematica_detalhada": "fantasia de Paquita, inspirada em bandas marciais e no grupo de apoio do Xuxa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7966.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.97,
+  "data_analise": "2026-07-30T02:29:24Z",
+  "data_criacao": "2026-07-29T23:29:24.544572-03:00"
+}

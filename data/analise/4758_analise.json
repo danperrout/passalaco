@@ -1,0 +1,29 @@
+{
+  "id": 4758,
+  "nome_original": "Fada",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho e tule",
+    "estilo_corte": "estilo corset no busto com saia curta e rodada",
+    "acessorios_visiveis": [
+      "tiara de flores",
+      "asas de fada"
+    ],
+    "tematica_detalhada": "Fada da floresta ou natureza, com elementos orgânicos e etéreos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4758.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.95,
+  "data_analise": "2026-07-28T04:33:43Z",
+  "data_criacao": "2026-07-28T01:33:43.002733-03:00"
+}

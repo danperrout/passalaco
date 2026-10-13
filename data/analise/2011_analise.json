@@ -1,0 +1,30 @@
+{
+  "id": 2011,
+  "nome_original": "Noiva",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "véu"
+    ],
+    "material_visual": "tule e tecido sintético com aplicações bordadas",
+    "estilo_corte": "estilo princesa com cintura marcada e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara",
+      "véu"
+    ],
+    "tematica_detalhada": "noiva infantil estilizada com elementos lúdicos, decorada com borboletas e flores coloridas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2011.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 69.45,
+  "data_analise": "2026-07-30T00:04:55Z",
+  "data_criacao": "2026-07-29T21:04:55.493262-03:00"
+}

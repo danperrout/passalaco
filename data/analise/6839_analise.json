@@ -1,0 +1,34 @@
+{
+  "id": 6839,
+  "nome_original": "Marinheiro 6 Meses",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Mesversario",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "camisa com gola de marinheiro",
+      "gravata",
+      "short com suspensórios"
+    ],
+    "material_visual": "tecido sintético ou algodão fosco",
+    "estilo_corte": "estilo náutico clássico para bebês",
+    "acessorios_visiveis": [
+      "chapéu de marinheiro",
+      "gravata borboleta/estreita",
+      "suspensórios"
+    ],
+    "tematica_detalhada": "fantasia de marinheiro infantil, inspirada em uniformes navais tradicionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6839.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 59.88,
+  "data_analise": "2026-07-29T18:17:26Z",
+  "data_criacao": "2026-07-29T15:17:26.304966-03:00"
+}

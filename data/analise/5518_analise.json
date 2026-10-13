@@ -1,0 +1,29 @@
+{
+  "id": 5518,
+  "nome_original": "SDEV",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "vestido curto"
+    ],
+    "material_visual": "renda, cetim ou poliéster",
+    "estilo_corte": "ombros caídos com saia rodada e listrada",
+    "acessorios_visiveis": [
+      "chapéu estilo pirata com detalhes em renda"
+    ],
+    "tematica_detalhada": "pirata estilizada com toque feminino e gótico, mesclando elementos náuticos clássicos com renda e listras"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5518.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.03,
+  "data_analise": "2026-07-30T05:56:08Z",
+  "data_criacao": "2026-07-30T02:56:08.760005-03:00"
+}

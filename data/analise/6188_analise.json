@@ -1,0 +1,30 @@
+{
+  "id": 6188,
+  "nome_original": "Odalisca",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "saia longa"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado e detalhes metálicos",
+    "estilo_corte": "estilo belly dance com cintura baixa e top curto",
+    "acessorios_visiveis": [
+      "tiara com detalhe central",
+      "detalhes dourados nas mangas"
+    ],
+    "tematica_detalhada": "Odalisca, inspirada em trajes tradicionais do Oriente Médio e dança do ventre"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6188.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 33.82,
+  "data_analise": "2026-07-30T00:40:23Z",
+  "data_criacao": "2026-07-29T21:40:23.161393-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 8163,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com estampas de poá e detalhes em renda ou babados",
+    "estilo_corte": "estilo caipira com saia rodada em camadas e corpete ajustado com amarração frontal",
+    "acessorios_visiveis": [
+      "mini chapéu de palha com flor"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, representando a personagem caipira estilizada com elementos tradicionais do interior do Brasil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8163.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 74.01,
+  "data_analise": "2026-07-29T00:12:56Z",
+  "data_criacao": "2026-07-28T21:12:56.951755-03:00"
+}

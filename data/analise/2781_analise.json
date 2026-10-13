@@ -1,0 +1,31 @@
+{
+  "id": 2781,
+  "nome_original": "Pirata",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "veludo sintético e renda",
+    "estilo_corte": "casaco estilo fraque com bordas contrastantes e vestido curto com babados",
+    "acessorios_visiveis": [
+      "chapéu de pirata"
+    ],
+    "tematica_detalhada": "Pirata clássico com influência colonial, remetendo a capitães de navios de fantasia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2781.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 45.52,
+  "data_analise": "2026-07-30T03:37:18Z",
+  "data_criacao": "2026-07-30T00:37:18.598755-03:00"
+}

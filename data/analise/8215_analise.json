@@ -1,0 +1,26 @@
+{
+  "id": 8215,
+  "nome_original": "Camisa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "camisa"
+    ],
+    "material_visual": "tecido xadrez",
+    "estilo_corte": "camisa de botão com modelagem casual",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "estilo casual cotidiano, referenciando visual de lenhador ou moda casual xadrez"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8215.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.94,
+  "data_analise": "2026-07-27T18:48:49Z",
+  "data_criacao": "2026-07-27T15:48:49.725470-03:00"
+}

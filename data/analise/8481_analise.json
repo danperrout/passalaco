@@ -1,0 +1,29 @@
+{
+  "id": 8481,
+  "nome_original": "Policial",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga curta",
+      "bermuda"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "estilo uniforme militar com gola e bolsos frontais",
+    "acessorios_vises": [
+      "detalhes em argolas metálicas",
+      "botões prateados"
+    ],
+    "tematica_detalhada": "fantasia de policial infantil, referenciando uniformes de forças de segurança"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8481.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.17,
+  "data_analise": "2026-07-30T03:44:50Z",
+  "data_criacao": "2026-07-30T00:44:50.759450-03:00"
+}

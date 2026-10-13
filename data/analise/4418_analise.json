@@ -1,0 +1,32 @@
+{
+  "id": 4418,
+  "nome_original": "Pirata",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Piratas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "blusa ombro a ombro",
+      "corselete",
+      "saia"
+    ],
+    "material_visual": "renda, tecido sintético acetinado",
+    "estilo_corte": "estilo vitoriano estilizado com saia curta rodada e decote ombro a ombro",
+    "acessorios_visiveis": [
+      "chapéu tricórnio",
+      "colar de pérolas"
+    ],
+    "tematica_detalhada": "pirata feminina estilizada com estética gótica ou lolita, focada em contraste monocromático"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4418.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.99,
+  "data_analise": "2026-07-30T03:39:38Z",
+  "data_criacao": "2026-07-30T00:39:38.991574-03:00"
+}

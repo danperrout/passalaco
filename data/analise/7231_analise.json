@@ -1,0 +1,29 @@
+{
+  "id": 7231,
+  "nome_original": "Bailarina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa claro",
+      "rosa bebê"
+    ],
+    "pecas_inclusas": [
+      "body",
+      "saia de tule"
+    ],
+    "material_visual": "elastano ou lycra no body e tule no tutu",
+    "estilo_corte": "body de alças largas com saia tutu volumosa",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "Fantasia de bailarina clássica, inspirada em tutus de balé profissional"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7231.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 4.93,
+  "data_analise": "2026-07-27T16:59:22Z",
+  "data_criacao": "2026-07-27T13:59:22.242177-03:00"
+}

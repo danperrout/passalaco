@@ -1,0 +1,29 @@
+{
+  "id": 1544,
+  "nome_original": "Branca de Neve",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim e tule",
+    "estilo_corte": "estilo princesa com saia volumosa e corpete ajustado",
+    "acessorios_visivel": [
+      "tiara com laço vermelho"
+    ],
+    "tematica_detalhada": "Personagem Branca de Neve, inspirada nos contos de fadas e animações da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1544.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.04,
+  "data_analise": "2026-07-27T18:21:15Z",
+  "data_criacao": "2026-07-27T15:21:15.878551-03:00"
+}

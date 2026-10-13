@@ -1,0 +1,30 @@
+{
+  "id": 1503,
+  "nome_original": "Mosqueteira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com acabamento em passamanaria dourada",
+    "estilo_corte": "estilo medieval com mangas longas e amplas e corte evasê",
+    "acessorios_visiveis": [
+      "chapéu de abas largas",
+      "peruca loira"
+    ],
+    "tematica_detalhada": "fantasia de Mosqueteira com referências ao período renascentista/barroco, apresentando um brasão frontal"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1503.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 41.64,
+  "data_analise": "2026-07-29T23:09:23Z",
+  "data_criacao": "2026-07-29T20:09:23.005584-03:00"
+}

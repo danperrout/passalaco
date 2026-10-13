@@ -1,0 +1,29 @@
+{
+  "id": 6240,
+  "nome_original": "Esqueleto",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "capuz com máscara"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "túnica sem mangas com barra irregular/rasgada",
+    "acessorios_visiveis": [
+      "máscara de caveira"
+    ],
+    "tematica_detalhada": "representação anatômica de um esqueleto humano, comum em festas de Halloween e celebrações do Dia dos Mortos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6240.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.28,
+  "data_analise": "2026-07-28T04:15:50Z",
+  "data_criacao": "2026-07-28T01:15:50.750886-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 6788,
+  "nome_original": "Vaca",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "touca"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou plush",
+    "estilo_corte": "estilo kigurumi ou pijama macacão largo",
+    "acessorios_visiveis": [
+      "touca com chifres e orelhas",
+      "detalhe circular na região abdominal"
+    ],
+    "tematica_detalhada": "fantasia de vaca com estampa malhada clássica, ideal para festas temáticas ou pijamas divertidos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6788.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.22,
+  "data_analise": "2026-07-30T08:43:06Z",
+  "data_criacao": "2026-07-30T05:43:06.401250-03:00"
+}

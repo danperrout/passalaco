@@ -1,0 +1,31 @@
+{
+  "id": 8225,
+  "nome_original": "Saia",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "dourado",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "saia"
+    ],
+    "material_visual": "tecido sintético com acabamento em renda e fitas decorativas",
+    "estilo_corte": "saia godê com cintura elástica e babados",
+    "acessorios_visiveis": [
+      "renda branca",
+      "fitas douradas e vermelhas"
+    ],
+    "tematica_detalhada": "fantasia folclórica ou regional, possivelmente inspirada em trajes típicos europeus ou festas juninas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8225.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.96,
+  "data_analise": "2026-07-30T05:26:44Z",
+  "data_criacao": "2026-07-30T02:26:44.396889-03:00"
+}

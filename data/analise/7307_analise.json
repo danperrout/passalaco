@@ -1,0 +1,34 @@
+{
+  "id": 7307,
+  "nome_original": "Farao",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Cleopatras e Faraós",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "colar ornamentado",
+      "cinto",
+      "tocado"
+    ],
+    "material_visual": "tecido sintético acetinado e detalhes em lantejoulas ou material metálico",
+    "estilo_corte": "túnica curta solta com drapeado frontal",
+    "acessorios_visiveis": [
+      "braceletes",
+      "coroa egípcia",
+      "colar largo",
+      "cinto com correntes"
+    ],
+    "tematica_detalhada": "Faraó do Antigo Egito, inspirada na realeza egípcia com elementos ornamentais dourados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7307.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 51.73,
+  "data_analise": "2026-07-28T05:15:23Z",
+  "data_criacao": "2026-07-28T02:15:23.936483-03:00"
+}

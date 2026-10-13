@@ -1,0 +1,31 @@
+{
+  "id": 2832,
+  "nome_original": "Esqueleto",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "cartola",
+      "casaco",
+      "macacão"
+    ],
+    "material_visual": "tecido sintético com estampa",
+    "estilo_corte": "estilo fraque com corte ajustado ao corpo",
+    "acessorios_visiveis": [
+      "cartola"
+    ],
+    "tematica_detalhada": "fantasia de esqueleto elegante, com referências ao estilo vitoriano ou ao personagem de mestre de cerimônias"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2832.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.11,
+  "data_analise": "2026-07-28T04:16:48Z",
+  "data_criacao": "2026-07-28T01:16:48.741948-03:00"
+}

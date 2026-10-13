@@ -1,0 +1,30 @@
+{
+  "id": 8102,
+  "nome_original": "Princesa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "luvas"
+    ],
+    "material_visual": "cetim, tule e detalhes em renda ou bordado prateado",
+    "estilo_corte": "estilo corset com decote ombro a ombro e saia curta volumosa com cauda",
+    "acessorios_visiveis": [
+      "tiara",
+      "luvas longas"
+    ],
+    "tematica_detalhada": "Fantasia de princesa clássica/estilizada, com referências a contos de fadas e estética de baile"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8102.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.55,
+  "data_analise": "2026-07-30T03:59:26Z",
+  "data_criacao": "2026-07-30T00:59:26.003136-03:00"
+}

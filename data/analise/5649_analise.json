@@ -1,0 +1,29 @@
+{
+  "id": 5649,
+  "nome_original": "Branca de Neve",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido completo"
+    ],
+    "material_visual": "cetim e tule",
+    "estilo_corte": "estilo princesa com saia volumosa e corpete ajustado",
+    "acessorios_visiveis": [
+      "laço vermelho na cabeça"
+    ],
+    "tematica_detalhada": "Branca de Neve, personagem clássica dos contos de fadas da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5649.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.25,
+  "data_analise": "2026-07-27T18:20:06Z",
+  "data_criacao": "2026-07-27T15:20:06.925430-03:00"
+}

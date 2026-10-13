@@ -1,0 +1,30 @@
+{
+  "id": 7707,
+  "nome_original": "Freira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "véu"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "túnica longa de corte reto com mangas largas",
+    "acessorios_visiveis": [
+      "colar com crucifixo",
+      "touca branca"
+    ],
+    "tematica_detalhada": "fantasia de freira católica, com referências religiosas tradicionais ou personagens de filmes de terror"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7707.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 119.9,
+  "data_analise": "2026-07-28T06:34:59Z",
+  "data_criacao": "2026-07-28T03:34:59.498305-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 9978,
+  "nome_original": "Noiva Cadaver",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "off-white"
+    ],
+    "pecas_inclusas": [
+      "vestido curto com cauda"
+    ],
+    "material_visual": "renda, cetim e tecido sintético",
+    "estilo_corte": "estilo corset no busto com saia curta volumosa e corte assimétrico (cauda)",
+    "acessorios_visiveis": [
+      "véu",
+      "buquê de flores brancas"
+    ],
+    "tematica_detalhada": "Noiva Cadáver, inspirada no personagem de animação com estética gótica e matrimonial"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9978.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.88,
+  "data_analise": "2026-07-30T00:29:19Z",
+  "data_criacao": "2026-07-29T21:29:19.575596-03:00"
+}

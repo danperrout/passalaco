@@ -1,0 +1,30 @@
+{
+  "id": 3221,
+  "nome_original": "Camisa e Chapeu de Palha",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "chapéu de palha"
+    ],
+    "material_visual": "tecido sintético e palha trançada",
+    "estilo_corte": "camisa de manga curta com estampa geométrica e chapéu de aba larga",
+    "acessorios_visiveis": [
+      "chapéu de palha"
+    ],
+    "tematica_detalhada": "fantasia casual ou temática, possivelmente remetendo a um visual campestre ou personagem específico de cultura pop"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3221.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.74,
+  "data_analise": "2026-07-27T18:49:22Z",
+  "data_criacao": "2026-07-27T15:49:22.866194-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 7990,
+  "nome_original": "Bela Adormecida",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim ou poliéster com camadas de tule brilhante",
+    "estilo_corte": "estilo princesa com corpete ajustado e saia volumosa",
+    "acessorios_visiveis": [
+      "coroa dourada"
+    ],
+    "tematica_detalhada": "Bela Adormecida, inspirada em princesas de contos de fadas da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7990.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.85,
+  "data_analise": "2026-07-27T17:54:25Z",
+  "data_criacao": "2026-07-27T14:54:25.388816-03:00"
+}

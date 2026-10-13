@@ -1,0 +1,28 @@
+{
+  "id": 7948,
+  "nome_original": "Borboleta Negra",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "asas de borboleta"
+    ],
+    "material_visual": "tecido sintético com brilho e asas em material translúcido com bordados ou estampas",
+    "estilo_corte": "estilo vestido curto com decote em V e alças finas",
+    "acessorios_visiveis": [
+      "tiara de flores pretas"
+    ],
+    "tematica_detalhada": "fantasia de borboleta negra, evocando um estilo gótico ou místico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7948.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.42,
+  "data_analise": "2026-07-27T18:19:35Z",
+  "data_criacao": "2026-07-27T15:19:35.138655-03:00"
+}

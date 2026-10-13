@@ -1,0 +1,30 @@
+{
+  "id": 7071,
+  "nome_original": "Menina Maluquinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com brilhos e tule",
+    "estilo_corte": "vestido curto com mangas bufantes e saia rodada em camadas",
+    "acessorios_visiveis": [
+      "chapéu prateado cilíndrico"
+    ],
+    "tematica_detalhada": "Personagem Menina Maluquinha, referência à literatura infantil brasileira, caracterizada pelo visual excêntrico e chapéu icônico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7071.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 66.38,
+  "data_analise": "2026-07-29T21:50:48Z",
+  "data_criacao": "2026-07-29T18:50:48.123799-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 5318,
+  "nome_original": "Mosquito da Dengue",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "blusa de manga longa",
+      "calça",
+      "touca"
+    ],
+    "material_visual": "tecido sintético elástico",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "antena na touca",
+      "fitas laterais"
+    ],
+    "tematica_detalhada": "fantasia de mosquito, representando especificamente o mosquito Aedes aegypti causador da dengue"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5318.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.58,
+  "data_analise": "2026-07-29T23:13:22Z",
+  "data_criacao": "2026-07-29T20:13:22.559300-03:00"
+}

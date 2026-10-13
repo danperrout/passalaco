@@ -1,0 +1,30 @@
+{
+  "id": 9137,
+  "nome_original": "Saia Anos 60",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com aparência de cetim ou poliéster",
+    "estilo_corte": "estilo pin-up com blusa justa e saia godê volumosa",
+    "acessorios_visiveis": [
+      "colar de pérolas",
+      "tiara com laço"
+    ],
+    "tematica_detalhada": "Estilo Rockabilly/Pin-up dos anos 50 e 60, remetendo à cultura do rock and roll clássico e moda retrô americana"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9137.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 44.04,
+  "data_analise": "2026-07-30T05:28:43Z",
+  "data_criacao": "2026-07-30T02:28:43.693504-03:00"
+}

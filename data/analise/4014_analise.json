@@ -1,0 +1,29 @@
+{
+  "id": 4014,
+  "nome_original": "Pedrita",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampa animal print (leopardo/onça)",
+    "estilo_corte": "modelo asymmetryco de um ombro só com barra irregular e pontiaguda",
+    "acessorios_visiveis": [
+      "tiara com ossos",
+      "colar de dentes/ossos"
+    ],
+    "tematica_detalhada": "Fantasia de Pedrita, personagem da franquia Os Flintstones, representando a era da pedra com estética pré-histórica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4014.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.17,
+  "data_analise": "2026-07-30T02:54:45Z",
+  "data_criacao": "2026-07-29T23:54:45.241884-03:00"
+}

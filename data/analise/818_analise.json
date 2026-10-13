@@ -1,0 +1,34 @@
+{
+  "id": 818,
+  "nome_original": "Magico",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "cartola",
+      "capa",
+      "colete",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "cetim ou poliéster com brilho",
+    "estilo_corte": "clássico e formal",
+    "acessorios_visiveis": [
+      "gravata borboleta",
+      "botões dourados no colete"
+    ],
+    "tematica_detalhada": "Mágico de palco clássico, com referências a ilusionistas tradicionais e estética circense"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/818.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.76,
+  "data_analise": "2026-07-29T16:22:44Z",
+  "data_criacao": "2026-07-29T13:22:44.226942-03:00"
+}

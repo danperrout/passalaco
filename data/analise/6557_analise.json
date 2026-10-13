@@ -1,0 +1,31 @@
+{
+  "id": 6557,
+  "nome_original": "Melindrosa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "tecido com aplicações de lantejoulas e miçangas",
+    "estilo_corte": "corte reto e curto, estilo anos 20",
+    "acessorios_visiveis": [
+      "tiara com pena rosa",
+      "colar de pérolas",
+      "brincos de argola"
+    ],
+    "tematica_detalhada": "Melindrosa (Flapper girl), inspirada na moda feminina da década de 1920, época do Jazz e da Lei Seca nos EUA"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6557.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 57.53,
+  "data_analise": "2026-07-29T21:41:42Z",
+  "data_criacao": "2026-07-29T18:41:42.309471-03:00"
+}

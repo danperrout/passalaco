@@ -1,0 +1,32 @@
+{
+  "id": 9778,
+  "nome_original": "Policial",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "saia",
+      "boina"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco",
+    "estilo_corte": "estilo crop top ajustado e saia curta plissada",
+    "acessorios_visiveis": [
+      "boina com emblema",
+      "cinto com fivela",
+      "distintivo no peito"
+    ],
+    "tematica_detalhada": "fantasia estilizada de policial feminina, com referências a uniformes escolares japoneses e trajes de cosplay"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9778.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.41,
+  "data_analise": "2026-07-30T03:47:47Z",
+  "data_criacao": "2026-07-30T00:47:47.042507-03:00"
+}

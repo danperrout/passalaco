@@ -1,0 +1,30 @@
+{
+  "id": 3795,
+  "nome_original": "Sapato de Palhaço",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "laranja",
+      "preto",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "par de sapatos"
+    ],
+    "material_visual": "material sintético brilhante, aspecto de vinil ou couro sintético envernizado",
+    "estilo_corte": "estilo oversized, bico arredondado e volumoso",
+    "acessorios_visiveis": [
+      "cadarços pretos"
+    ],
+    "tematica_detalhada": "calçados exagerados de palhaço, referência clássica ao entretenimento circense e figuras cômicas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3795.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.83,
+  "data_analise": "2026-07-30T05:53:45Z",
+  "data_criacao": "2026-07-30T02:53:45.725834-03:00"
+}

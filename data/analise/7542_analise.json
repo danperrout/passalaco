@@ -1,0 +1,29 @@
+{
+  "id": 7542,
+  "nome_original": "Padre",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "estola"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte reto com mangas 3/4 e gola alta",
+    "acessorios_visiveis": [
+      "estola com detalhes em dourado e cruzes"
+    ],
+    "tematica_detalhada": "clérigo cristão, especificamente a representação de um padre católico ou pastor"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7542.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.66,
+  "data_analise": "2026-07-30T01:21:11Z",
+  "data_criacao": "2026-07-29T22:21:11.767459-03:00"
+}

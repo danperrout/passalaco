@@ -1,0 +1,32 @@
+{
+  "id": 10217,
+  "nome_original": "Coringa",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "verde",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "casaco longo",
+      "camisa",
+      "calça",
+      "gravata"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado",
+    "estilo_corte": "corte clássico de sobretudo com lapelas",
+    "acessorios_visiveis": [
+      "gravata amarela"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Coringa (The Joker), vilão da DC Comics, com paleta de cores característica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10217.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 31.71,
+  "data_analise": "2026-07-28T01:33:40Z",
+  "data_criacao": "2026-07-27T22:33:40.426946-03:00"
+}

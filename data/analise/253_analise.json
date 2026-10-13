@@ -1,0 +1,30 @@
+{
+  "id": 253,
+  "nome_original": "Bombeiro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "cinza"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "calça",
+      "boné"
+    ],
+    "material_visual": "tecido sintético ou algodão",
+    "estilo_corte": "casual e folgado",
+    "acessorios_visiveis": [
+      "cinto"
+    ],
+    "tematica_detalhada": "Fantasia de Bombeiro, representando um uniforme simplificado de combate a incêndio"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/253.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.82,
+  "data_analise": "2026-07-27T18:17:11Z",
+  "data_criacao": "2026-07-27T15:17:11.755876-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 8466,
+  "nome_original": "Dragão",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "verde",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "pelúcia ou soft",
+    "estilo_corte": "estilo kigurumi / pijama",
+    "acessorios_visiveis": [
+      "asas",
+      "chifres de pelúcia"
+    ],
+    "tematica_detalhada": "Dragão antropomórfico em estilo cartoon"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8466.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.5,
+  "data_analise": "2026-07-28T03:25:17Z",
+  "data_criacao": "2026-07-28T00:25:17.395652-03:00"
+}

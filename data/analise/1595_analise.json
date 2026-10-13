@@ -1,0 +1,29 @@
+{
+  "id": 1595,
+  "nome_original": "Noiva",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "renda e tecido sintético com babados",
+    "estilo_corte": "vestido curto com saia rodada em camadas e mangas curtas",
+    "acessorios_visiveis": [
+      "tiara de flores",
+      "buquê de flores"
+    ],
+    "tematica_detalhada": "noiva estilizada com estética romântica ou 'cute', possivelmente inspirada em personagens de anime ou lolita"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1595.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 43.8,
+  "data_analise": "2026-07-30T00:09:06Z",
+  "data_criacao": "2026-07-29T21:09:06.698663-03:00"
+}

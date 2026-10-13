@@ -1,0 +1,31 @@
+{
+  "id": 5573,
+  "nome_original": "Dancarina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "preto",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "corset"
+    ],
+    "material_visual": "tecido sintético com acabamento em cetim e rendas",
+    "estilo_corte": "estilo can-can com saia assimétrica e corpete ajustado",
+    "acessorios_visiveis": [
+      "tiara com pena",
+      "choker"
+    ],
+    "tematica_detalhada": "dançarina de can-can francesa, referenciando o estilo burlesco e teatros de Paris"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5573.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 44.0,
+  "data_analise": "2026-07-28T02:45:25Z",
+  "data_criacao": "2026-07-27T23:45:25.895952-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 9745,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "saia"
+    ],
+    "material_visual": "tecido com brilho, lantejoulas e franjas metálicas",
+    "estilo_corte": "conjunto de duas peças com saia de franjas e top ajustado",
+    "acessorios_visiveis": [
+      "tiara/coroa",
+      "colar"
+    ],
+    "tematica_detalhada": "fantasia de Carnaval com temática luxuosa, remetendo a passistas ou inspirações egípcias/divindades douradas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9745.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.04,
+  "data_analise": "2026-07-27T19:24:21Z",
+  "data_criacao": "2026-07-27T16:24:21.846094-03:00"
+}

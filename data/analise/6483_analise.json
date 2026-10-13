@@ -1,0 +1,33 @@
+{
+  "id": 6483,
+  "nome_original": "Thor",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "prata",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "capacete",
+      "túnica com estampa de armadura",
+      "calça",
+      "capa"
+    ],
+    "material_visual": "tecido sintético com impressões digitais simulando metal e couro",
+    "estilo_corte": "ajustado ao corpo com design de armadura medieval estilizada",
+    "acessorios_visiveis": [
+      "martelo Mjölnir",
+      "capacete com chifres"
+    ],
+    "tematica_detalhada": "personagem Thor, o Deus do Trovão, baseado na mitologia nórdica e nas adaptações da Marvel Comics/MCU"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6483.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 22.65,
+  "data_analise": "2026-07-30T07:47:54Z",
+  "data_criacao": "2026-07-30T04:47:54.973957-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 6740,
+  "nome_original": "Peruca Coringa",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "peruca",
+      "capa"
+    ],
+    "material_visual": "fibras sintéticas e tecido poliéster",
+    "estilo_corte": "peruca volumosa e arredondada com franja curta",
+    "acessorios_visiveis": [
+      "colar de corrente metálica"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Coringa (Joker), referenciando a estética clássica dos quadrinhos e filmes da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6740.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.84,
+  "data_analise": "2026-07-30T03:18:07Z",
+  "data_criacao": "2026-07-30T00:18:07.990181-03:00"
+}

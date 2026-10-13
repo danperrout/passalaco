@@ -1,0 +1,29 @@
+{
+  "id": 742,
+  "nome_original": "Indiana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Árabes/Indianas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "sari",
+      "blusa"
+    ],
+    "material_visual": "tecido fluido e leve com bordados cintilantes",
+    "estilo_corte": "estilo drapeado tradicional indiano",
+    "acessorios_visiveis": [
+      "maang tikka / acessório de cabeça"
+    ],
+    "tematica_detalhada": "vestimenta tradicional da Índia, inspirada no Sari, remetendo à cultura asiática"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/742.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 238.96,
+  "data_analise": "2026-07-28T16:52:54Z",
+  "data_criacao": "2026-07-28T13:52:54.246895-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 4936,
+  "nome_original": "Luigi",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "vestido jardineira",
+      "boné"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "ajustado com saia plissada",
+    "acessorios_visiveis": [
+      "boné com logo",
+      "botões amarelos"
+    ],
+    "tematica_detalhada": "Versão feminina do personagem Luigi, da franquia Super Mario da Nintendo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4936.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.18,
+  "data_analise": "2026-07-29T12:34:12Z",
+  "data_criacao": "2026-07-29T09:34:12.781465-03:00"
+}

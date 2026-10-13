@@ -1,0 +1,30 @@
+{
+  "id": 1344,
+  "nome_original": "Tartaruga",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz",
+      "carapaça"
+    ],
+    "material_visual": "tecido sintético aveludado ou plush",
+    "estilo_corte": "estilo kigurumi ou macacão folgado",
+    "acessorios_visiveis": [
+      "carapaça acolchoada nas costas"
+    ],
+    "tematica_detalhada": "fantasia de tartaruga, com representação estilizada e lúdica do animal"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1344.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.15,
+  "data_analise": "2026-07-30T07:39:09Z",
+  "data_criacao": "2026-07-30T04:39:09.569695-03:00"
+}

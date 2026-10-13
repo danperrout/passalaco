@@ -1,0 +1,31 @@
+{
+  "id": 6558,
+  "nome_original": "Coringa",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "paletó longo",
+      "calça",
+      "camisa"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "alfaiataria clássica com corte reto",
+    "acessorios_visiveis": [
+      "gravata"
+    ],
+    "tematica_detalhada": "Personagem Coringa (Joker), inspirada no visual clássico de vilão dos quadrinhos da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6558.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.19,
+  "data_analise": "2026-07-28T01:33:08Z",
+  "data_criacao": "2026-07-27T22:33:08.443440-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 5685,
+  "nome_original": "Galinha Pintadinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "touca/capacete"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou cetim",
+    "estilo_corte": "vestido curto com mangas bufantes transparentes e cintura marcada",
+    "acessorios_visiveis": [
+      "touca com bico e crista"
+    ],
+    "tematica_detalhada": "Personagem Galinha Pintadinha, referência a série infantil brasileira de animação musical"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5685.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.58,
+  "data_analise": "2026-07-28T06:41:43Z",
+  "data_criacao": "2026-07-28T03:41:43.186486-03:00"
+}

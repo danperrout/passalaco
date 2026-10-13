@@ -1,0 +1,35 @@
+{
+  "id": 2790,
+  "nome_original": "Mascarado",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "camisa",
+      "calça bufante",
+      "chapéu",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster",
+    "estilo_corte": "estilo clássico de personagem de aventura com calças curtas e volumosas",
+    "acessorios_visiveis": [
+      "máscara ocular",
+      "chapéu de aba larga",
+      "cinto decorativo",
+      "cadarços no peito"
+    ],
+    "tematica_detalhada": "Fantasia de Zorro ou justiceiro mascarado, referenciando personagens de capa e espada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2790.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 139.79,
+  "data_analise": "2026-07-29T19:06:53Z",
+  "data_criacao": "2026-07-29T16:06:53.454864-03:00"
+}

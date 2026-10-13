@@ -1,0 +1,32 @@
+{
+  "id": 4451,
+  "nome_original": "Os Tres Porquinhos",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde escuro",
+      "vermelho",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "jardineira",
+      "camiseta",
+      "chapéu de palha"
+    ],
+    "material_visual": "tecido sintético, palha natural e feltro",
+    "estilo_corte": "estilo camponês com jardineira de alças",
+    "acessorios_visíveis": [
+      "orelhas de porco no chapéu",
+      "objeto simulando feixe de palha"
+    ],
+    "tematica_detalhada": "Personagem dos Três Porquinhos, especificamente o porquinho que constrói a casa de palha"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4451.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 74.25,
+  "data_analise": "2026-07-30T01:09:44Z",
+  "data_criacao": "2026-07-29T22:09:44.297789-03:00"
+}

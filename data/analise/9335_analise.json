@@ -1,0 +1,32 @@
+{
+  "id": 9335,
+  "nome_original": "Duende",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça curta",
+      "meias"
+    ],
+    "material_visual": "tecido sintético poliester com acabamentos em cetim",
+    "estilo_corte": "estilo medieval estilizado com túnica curta e calças bufantes",
+    "acessorios_visiveis": [
+      "cinto preto com fivela dourada",
+      "botões dourados"
+    ],
+    "tematica_detalhada": "fantasia de ajudante do Papai Noel, baseada na figura folclórica do duende natalino"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9335.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.72,
+  "data_analise": "2026-07-28T03:26:10Z",
+  "data_criacao": "2026-07-28T00:26:10.055973-03:00"
+}

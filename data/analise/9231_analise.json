@@ -1,0 +1,30 @@
+{
+  "id": 9231,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido estampado com detalhes em renda e fitas coloridas",
+    "estilo_corte": "vestido rodado com saia em camadas e mangas bufantes",
+    "acessorios_visiveis": [
+      "laços de fita no cabelo",
+      "mini bandeirinhas aplicadas",
+      "mini pipas decorativas"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, com referências a elementos típicos como bandeirinhas, pipas e o traje caipira estilizado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9231.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.18,
+  "data_analise": "2026-07-28T21:56:19Z",
+  "data_criacao": "2026-07-28T18:56:19.784182-03:00"
+}

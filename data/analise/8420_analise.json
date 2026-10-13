@@ -1,0 +1,26 @@
+{
+  "id": 8420,
+  "nome_original": "Batgirl Lilas",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "lilas",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho",
+    "estilo_corte": "estilo princesa com saia volumosa",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "versão estilizada e infantil da personagem Batgirl, adaptada para cores pastéis e estética de festa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8420.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.55,
+  "data_analise": "2026-07-27T17:49:19Z",
+  "data_criacao": "2026-07-27T14:49:19.761103-03:00"
+}

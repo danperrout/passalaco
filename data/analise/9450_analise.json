@@ -1,0 +1,29 @@
+{
+  "id": 9450,
+  "nome_original": "Ariel",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "verde-água",
+      "azul",
+      "lilás",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "coroa"
+    ],
+    "material_visual": "lantejoulas, paetês, tule, tecido sintético liso e brilhante",
+    "estilo_corte": "vestido estilo sereia com corpete ajustado, ombros curtos, busto em concha e saia em camadas com babados",
+    "acessorios_visiveis": [
+      "coroa",
+      "gema verde no busto"
+    ],
+    "tematica_detalhada": "fantasia da personagem Ariel (A Pequena Sereia) com elementos marinhos de concha e cauda de sereia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9450.jpg",
+  "data_analise": "2026-07-27T16:47:36Z"
+}

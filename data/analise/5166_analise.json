@@ -1,0 +1,34 @@
+{
+  "id": 5166,
+  "nome_original": "He Man",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "vermelho",
+      "prata",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "peitoral",
+      "cinto",
+      "saiote de pele",
+      "braceletes"
+    ],
+    "material_visual": "tecido sintético, imitação de couro e pele artificial",
+    "estilo_corte": "estilo bárbaro com cortes irregulares no saiote e estrutura rígida no peitoral",
+    "acessorios_visiveis": [
+      "espada",
+      "braceletes"
+    ],
+    "tematica_detalhada": "Fantasia do personagem He-Man, referenciando a estética de fantasia épica e heróis de ação dos anos 80"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5166.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 211.77,
+  "data_analise": "2026-07-28T13:36:27Z",
+  "data_criacao": "2026-07-28T10:36:27.414719-03:00"
+}

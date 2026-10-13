@@ -1,0 +1,29 @@
+{
+  "id": 9428,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "corpete",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com acabamento em renda e fitas",
+    "estilo_corte": "corpete justo com amarração frontal e saia rodada em camadas com babados",
+    "acessorios_visiveis": [
+      "laço de cabelo com fitas coloridas"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina, representando a vestimenta típica camponesa estilizada do folclore brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9428.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 36.33,
+  "data_analise": "2026-07-29T01:29:23Z",
+  "data_criacao": "2026-07-28T22:29:23.109274-03:00"
+}

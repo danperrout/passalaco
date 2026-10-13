@@ -1,0 +1,33 @@
+{
+  "id": 1228,
+  "nome_original": "Principe",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "chapéu",
+      "calça"
+    ],
+    "material_visual": "cetim ou poliéster brilhante",
+    "estilo_corte": "túnica solta com acabamentos ornamentados",
+    "acessorios_visiveis": [
+      "plumas pretas no chapéu",
+      "detalhes dourados",
+      "colares decorativos"
+    ],
+    "tematica_detalhada": "Príncipe ou nobreza clássica, com referências a uniformes militares ornamentais ou trajes de gala históricos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1228.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.68,
+  "data_analise": "2026-07-30T04:13:03Z",
+  "data_criacao": "2026-07-30T01:13:03.915512-03:00"
+}

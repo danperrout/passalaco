@@ -1,0 +1,27 @@
+{
+  "id": 10170,
+  "nome_original": "Super Poderosas Docinho",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim com corpete de lantejoulas",
+    "estilo_corte": "vestido curto com alças finas e saia rodada",
+    "acessorios_visiveis": [
+      "óculos de sol redondos verdes"
+    ],
+    "tematica_detalhada": "Personagem Docinho (Buttercup) da série As Meninas Superpoderosas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10170.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.31,
+  "data_analise": "2026-07-30T07:30:23Z",
+  "data_criacao": "2026-07-30T04:30:23.734698-03:00"
+}

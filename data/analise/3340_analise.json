@@ -1,0 +1,28 @@
+{
+  "id": 3340,
+  "nome_original": "Mascara",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "máscara"
+    ],
+    "material_visual": "glitter e penas",
+    "estilo_corte": "máscara de carnaval semi-facial",
+    "acessorios_visiveis": [
+      "plumas amarelas"
+    ],
+    "tematica_detalhada": "Carnaval de Veneza ou festas de gala mascaradas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3340.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 48.62,
+  "data_analise": "2026-07-29T18:35:15Z",
+  "data_criacao": "2026-07-29T15:35:15.910342-03:00"
+}

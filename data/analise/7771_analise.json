@@ -1,0 +1,31 @@
+{
+  "id": 7771,
+  "nome_original": "Mario",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Cosplay",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "jardineira",
+      "boné"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou cetim",
+    "estilo_corte": "corte solto e confortável, estilo cosplay",
+    "acessorios_visiveis": [
+      "botões amarelos",
+      "boné com detalhe frontal"
+    ],
+    "tematica_detalhada": "Personagem Mario do jogo Super Mario da Nintendo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7771.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 38.38,
+  "data_analise": "2026-07-29T18:19:05Z",
+  "data_criacao": "2026-07-29T15:19:05.910399-03:00"
+}

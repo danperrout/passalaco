@@ -1,0 +1,32 @@
+{
+  "id": 2469,
+  "nome_original": "Capitao Gancho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calças",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante",
+    "estilo_corte": "estilo pirata com camisa de gola e calças largas",
+    "acessorios_visiveis": [
+      "tapa-olho",
+      "colar dourado"
+    ],
+    "tematica_detalhada": "Pirata, especificamente inspirada no personagem Capitão Gancho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2469.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.85,
+  "data_analise": "2026-07-27T19:18:36Z",
+  "data_criacao": "2026-07-27T16:18:36.231769-03:00"
+}

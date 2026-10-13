@@ -1,0 +1,28 @@
+{
+  "id": 9661,
+  "nome_original": "Coelhinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prata",
+      "multicolorido"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido com lantejoulas holográficas",
+    "estilo_corte": "ajustado ao corpo com alças finas",
+    "acessorios_visiveis": [
+      "tiara de orelhas de coelho com brilhos"
+    ],
+    "tematica_detalhada": "fantasia de coelhinha estilizada com estética glamourosa e festiva, focada em brilho e reflexos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9661.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 43.53,
+  "data_analise": "2026-07-28T00:19:03Z",
+  "data_criacao": "2026-07-27T21:19:03.173173-03:00"
+}

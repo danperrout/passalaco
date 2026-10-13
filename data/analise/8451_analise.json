@@ -1,0 +1,28 @@
+{
+  "id": 8451,
+  "nome_original": "Dory",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica"
+    ],
+    "material_visual": "tecido sintético aveludado ou plush",
+    "estilo_corte": "corte reto e amplo em formato de saco/túnica",
+    "acessorios_visiveis": [
+      "estampas de olhos e boca"
+    ],
+    "tematica_detalhada": "Personagem Dory do filme Procurando Nemo/Procurando Dory da Disney Pixar"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8451.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.58,
+  "data_analise": "2026-07-28T03:22:02Z",
+  "data_criacao": "2026-07-28T00:22:02.348783-03:00"
+}

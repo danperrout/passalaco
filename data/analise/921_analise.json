@@ -1,0 +1,27 @@
+{
+  "id": 921,
+  "nome_original": "Morte",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica com capuz"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "túnica longa e solta com extremidades rasgadas e irregulares",
+    "acessorios_visiveis": [
+      "cordão/faixa na cintura"
+    ],
+    "tematica_detalhada": "Personificação da Morte (Ceifador), inspirada em figuras góticas e folclore ocidental"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/921.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 108.58,
+  "data_analise": "2026-07-29T23:02:53Z",
+  "data_criacao": "2026-07-29T20:02:53.328977-03:00"
+}

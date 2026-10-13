@@ -1,0 +1,32 @@
+{
+  "id": 4155,
+  "nome_original": "Coringa",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "sobretudo",
+      "calça",
+      "camisa",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético com aparência de sarja ou poliéster",
+    "estilo_corte": "alfaiataria clássica com sobretudo longo",
+    "acessorios_visiveis": [
+      "gravata borboleta ou plastron",
+      "peruca verde"
+    ],
+    "tematica_detalhada": "Personagem Coringa (Joker), vilão dos quadrinhos DC Comics, com referências ao visual clássico do personagem"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4155.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.98,
+  "data_analise": "2026-07-28T01:34:01Z",
+  "data_criacao": "2026-07-27T22:34:01.716529-03:00"
+}

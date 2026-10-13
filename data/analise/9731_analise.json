@@ -1,0 +1,29 @@
+{
+  "id": 9731,
+  "nome_original": "Malevola",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "tiara de chifres"
+    ],
+    "material_visual": "tecido sintético com brilho e detalhes em lantejoulas",
+    "estilo_corte": "longo, justo ao corpo, com decote em V e mangas longas fluidas",
+    "acessorios_visiveis": [
+      "tiara com chifres"
+    ],
+    "tematica_detalhada": "Personagem Malévola, a vilã clássica da Disney, com estética gótica e mística"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9731.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 58.57,
+  "data_analise": "2026-07-29T16:46:26Z",
+  "data_criacao": "2026-07-29T13:46:26.519248-03:00"
+}

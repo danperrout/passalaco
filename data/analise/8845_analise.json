@@ -1,0 +1,32 @@
+{
+  "id": 8845,
+  "nome_original": "Familia Ladybug",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão adulto",
+      "macacão infantil",
+      "máscara adulta",
+      "máscara infantil"
+    ],
+    "material_visual": "tecido sintético com elasticidade",
+    "estilo_corte": "ajustado ao corpo (slim fit) com mangas e pernas longas",
+    "acessorios_visiveis": [
+      "máscaras oculares",
+      "bolsa lateral pequena"
+    ],
+    "tematica_detalhada": "Família Ladybug, baseada na personagem Miraculous: As Aventuras de Ladybug"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8845.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.11,
+  "data_analise": "2026-07-28T04:51:21Z",
+  "data_criacao": "2026-07-28T01:51:21.866019-03:00"
+}

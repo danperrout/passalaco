@@ -1,0 +1,28 @@
+{
+  "id": 2327,
+  "nome_original": "Guardiã da Floresta",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido com brilho/lurex e aplicações de pétalas de tecido",
+    "estilo_corte": "estilo cocktail com alças finas e saia evasê",
+    "acessorios_visiveis": [
+      "choker preta"
+    ],
+    "tematica_detalhada": "estética de natureza e fantasia, remetendo a ninfas, fadas ou guardiãs da floresta através do uso de elementos florais e tons orgânicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2327.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 45.95,
+  "data_analise": "2026-07-28T11:32:00Z",
+  "data_criacao": "2026-07-28T08:32:00.184867-03:00"
+}

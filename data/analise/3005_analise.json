@@ -1,0 +1,31 @@
+{
+  "id": 3005,
+  "nome_original": "Paleto",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "branco",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "blazer/paletó",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com estampa xadrez",
+    "estilo_corte": "corte feminino ajustado com lapelas",
+    "acessorios_visiveis": [
+      "colar de pérolas"
+    ],
+    "tematica_detalhada": "estilo vintage ou colegial, remetendo a personagens de dramas escolares ou moda retrô"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3005.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 48.31,
+  "data_analise": "2026-07-30T01:26:42Z",
+  "data_criacao": "2026-07-29T22:26:42.479982-03:00"
+}

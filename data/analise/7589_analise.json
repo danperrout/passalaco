@@ -1,0 +1,29 @@
+{
+  "id": 7589,
+  "nome_original": "Blusa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "chapéu"
+    ],
+    "material_visual": "tecido xadrez sintético e palha",
+    "estilo_corte": "blusa solta com estampa xadrez e chapéu de aba curta",
+    "acessorios_visiveis": [
+      "chapéu com flores rosas e fitas"
+    ],
+    "tematica_detalhada": "estilo campestre ou camponesa com toque moderno e cores vibrantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7589.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.91,
+  "data_analise": "2026-07-27T18:14:12Z",
+  "data_criacao": "2026-07-27T15:14:12.561403-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 7293,
+  "nome_original": "Cisne Negro",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "corpete",
+      "saia de plumas",
+      "asas"
+    ],
+    "material_visual": "cetim, plumas e sintéticos",
+    "estilo_corte": "ajustado ao corpo com cintura marcada e saia curta volumosa",
+    "acessorios_visiveis": [
+      "tiara com rede e detalhe floral"
+    ],
+    "tematica_detalhada": "Cisne Negro, inspirada no ballet 'O Lago dos Cisnes' e no filme 'Black Swan'"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7293.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 118.02,
+  "data_analise": "2026-07-27T22:58:13Z",
+  "data_criacao": "2026-07-27T19:58:13.739527-03:00"
+}

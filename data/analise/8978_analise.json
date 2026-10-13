@@ -1,0 +1,30 @@
+{
+  "id": 8978,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampas variadas e detalhes em renda",
+    "estilo_corte": "vestido rodado com mangas bufantes e babados na barra",
+    "acessorios_visiveis": [
+      "chapéu de palha decorado",
+      "miniaturas de bandeirinhas",
+      "aplicações coloridas"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, com elementos típicos do interior, caipira e celebrações regionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8978.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 41.98,
+  "data_analise": "2026-07-29T00:50:38Z",
+  "data_criacao": "2026-07-28T21:50:38.772955-03:00"
+}

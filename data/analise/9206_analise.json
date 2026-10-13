@@ -1,0 +1,30 @@
+{
+  "id": 9206,
+  "nome_original": "Junina Saia Mf",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com rendas e fitas de cetim",
+    "estilo_corte": "blusa justa de alças e saia volumosa com camadas e babados",
+    "acessorios_visiveis": [
+      "laço de cabelo com fitas"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, caracterizada pelo estilo caipira com cores vibrantes e detalhes em renda"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9206.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.44,
+  "data_analise": "2026-07-29T07:47:29Z",
+  "data_criacao": "2026-07-29T04:47:29.487771-03:00"
+}

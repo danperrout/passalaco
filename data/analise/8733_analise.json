@@ -1,0 +1,31 @@
+{
+  "id": 8733,
+  "nome_original": "Super Homem",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capa"
+    ],
+    "material_visual": "tecido sintético com aspecto elástico",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visibéis": [
+      "cinto amarelo",
+      "botas vermelhas"
+    ],
+    "tematica_detalhada": "Super-Homem, super-herói da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8733.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.39,
+  "data_analise": "2026-07-30T07:26:51Z",
+  "data_criacao": "2026-07-30T04:26:51.654175-03:00"
+}

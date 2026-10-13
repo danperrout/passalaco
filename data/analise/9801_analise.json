@@ -1,0 +1,29 @@
+{
+  "id": 9801,
+  "nome_original": "Policial",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "quepe"
+    ],
+    "material_visual": "tecido sintético com brilho leve",
+    "estilo_corte": "vestido curto com gola, mangas curtas e cintura marcada",
+    "acessorios_visiveis": [
+      "cinto com fivela dourada",
+      "distintivo"
+    ],
+    "tematica_detalhada": "fantasia de policial feminina estilizada para festas, inspirada em uniformes de autoridade"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9801.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.4,
+  "data_analise": "2026-07-30T03:47:55Z",
+  "data_criacao": "2026-07-30T00:47:55.257212-03:00"
+}

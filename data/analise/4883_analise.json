@@ -1,0 +1,32 @@
+{
+  "id": 4883,
+  "nome_original": "Soldado",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "marrom",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "boina",
+      "colete",
+      "calça",
+      "camiseta"
+    ],
+    "material_visual": "tecido sintético com estampa camuflada",
+    "estilo_corte": "estilo militar utilitário",
+    "acessorios_visiveis": [
+      "boina"
+    ],
+    "tematica_detalhada": "fantasia de soldado militar com padrão de camuflagem florestal"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4883.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.54,
+  "data_analise": "2026-07-30T06:59:51Z",
+  "data_criacao": "2026-07-30T03:59:51.693981-03:00"
+}

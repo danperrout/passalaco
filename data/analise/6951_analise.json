@@ -1,0 +1,30 @@
+{
+  "id": 6951,
+  "nome_original": "Modelo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "roxo",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho e babados",
+    "estilo_corte": "vestido curto, sem mangas, com saia volumosa em camadas de babados",
+    "acessorios_visiveis": [
+      "botas marrons"
+    ],
+    "tematica_detalhada": "fantasia inspirada em trajes típicos folclóricos, possivelmente referenciando festas populares como a Festa Junina ou trajes camponeses estilizados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6951.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.58,
+  "data_analise": "2026-07-29T22:47:37Z",
+  "data_criacao": "2026-07-29T19:47:37.579993-03:00"
+}

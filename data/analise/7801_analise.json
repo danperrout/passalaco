@@ -1,0 +1,29 @@
+{
+  "id": 7801,
+  "nome_original": "Valente",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde escuro",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "veludo",
+    "estilo_corte": "vestido longo com cintura marcada e decote em V",
+    "acessorios_visiveis": [
+      "cinto",
+      "aljava com flechas"
+    ],
+    "tematica_detalhada": "Personagem Merida do filme Valente, inspirada na cultura escocesa medieval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7801.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.71,
+  "data_analise": "2026-07-30T08:44:04Z",
+  "data_criacao": "2026-07-30T05:44:04.410622-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 7868,
+  "nome_original": "Unicornio",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "azul claro",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "tule e cetim",
+    "estilo_corte": "estilo tutu com saia volumosa e corpete ajustado",
+    "acessorios_visiveis": [
+      "tiara com chifre de unicórnio"
+    ],
+    "tematica_detalhada": "fantasia infantil de unicórnio, com estética mística e cores pastéis"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7868.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.54,
+  "data_analise": "2026-07-30T08:39:46Z",
+  "data_criacao": "2026-07-30T05:39:46.134542-03:00"
+}

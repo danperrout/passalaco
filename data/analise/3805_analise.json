@@ -1,0 +1,30 @@
+{
+  "id": 3805,
+  "nome_original": "Presidiario",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente poliéster",
+    "estilo_corte": "corte reto e folgado com estampa de listras horizontais",
+    "acessorios_visiveis": [
+      "placa de identificação com número 171"
+    ],
+    "tematica_detalhada": "fantasia de presidiário clássico, referenciando uniformes prisionais antigos de estilo caricato"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3805.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.14,
+  "data_analise": "2026-07-30T03:56:45Z",
+  "data_criacao": "2026-07-30T00:56:45.184838-03:00"
+}

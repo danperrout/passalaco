@@ -1,0 +1,30 @@
+{
+  "id": 9958,
+  "nome_original": "Japonês",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "faixa"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster ou cetim",
+    "estilo_corte": "corte reto com gola em V e mangas curtas, inspirado em vestimentas orientais",
+    "acessorios_visiveis": [
+      "faixa abdominal vermelha"
+    ],
+    "tematica_detalhada": "fantasia inspirada em trajes tradicionais japoneses, remetendo a estilos como Kimono ou Judogi"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9958.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 102.03,
+  "data_analise": "2026-07-28T19:10:44Z",
+  "data_criacao": "2026-07-28T16:10:44.925394-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 809,
+  "nome_original": "Macaco",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "estilo kigurumi ou macacão folgado",
+    "acessorios_visiveis": [
+      "laço de fechamento no pescoço"
+    ],
+    "tematica_detalhada": "fantasia de macaco, com representação simplificada de primata"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/809.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 106.33,
+  "data_analise": "2026-07-29T12:59:52Z",
+  "data_criacao": "2026-07-29T09:59:52.469928-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 599,
+  "nome_original": "Esquilo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "folgado e volumoso",
+    "acessorios_visiveis": [
+      "orelhas no capuz",
+      "detalhe de nariz vermelho"
+    ],
+    "tematica_detalhada": "fantasia de animal, representando um esquilo ou roedor"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/599.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 34.17,
+  "data_analise": "2026-07-28T04:17:55Z",
+  "data_criacao": "2026-07-28T01:17:55.585493-03:00"
+}

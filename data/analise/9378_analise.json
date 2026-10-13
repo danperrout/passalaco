@@ -1,0 +1,28 @@
+{
+  "id": 9378,
+  "nome_original": "Coroa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "azul turquesa"
+    ],
+    "pecas_inclusas": [
+      "coroa"
+    ],
+    "material_visual": "metal dourado com pedras sintéticas facetadas",
+    "estilo_corte": "estilo tiara clássica com pontas ornamentadas e filigrana",
+    "acessorios_visiveis": [
+      "pedras preciosas falsas"
+    ],
+    "tematica_detalhada": "realeza, monarquia, fantasia de princesa ou rainha"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9378.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 40.72,
+  "data_analise": "2026-07-28T01:40:39Z",
+  "data_criacao": "2026-07-27T22:40:39.389460-03:00"
+}

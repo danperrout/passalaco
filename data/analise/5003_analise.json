@@ -1,0 +1,33 @@
+{
+  "id": 5003,
+  "nome_original": "Palhacinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Circo",
+  "analise_visual": {
+    "cores_predominantes": [
+      "colorido",
+      "prata",
+      "azul",
+      "rosa",
+      "verde",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "paetês no busto e tule na saia",
+    "estilo_corte": "vestido curto com saia volumosa estilo tutu e alças finas",
+    "acessorios_visiveis": [
+      "tiara com pompons coloridos"
+    ],
+    "tematica_detalhada": "fantasia de palhaça estilizada, com foco em cores vibrantes e elementos circenses modernos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5003.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 46.04,
+  "data_analise": "2026-07-30T01:36:26Z",
+  "data_criacao": "2026-07-29T22:36:26.334555-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 9594,
+  "nome_original": "Sacola",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "branco",
+      "roxo",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "sacola de doces"
+    ],
+    "material_visual": "tecido sintético/poliéster",
+    "estilo_corte": "formato de bolsa retangular com alça",
+    "acessorios_visiveis": [
+      "alça de mão"
+    ],
+    "tematica_detalhada": "Halloween, focada na coleta de doces, com ilustrações de fantasma e morcegos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9594.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 64.79,
+  "data_analise": "2026-07-30T05:12:22Z",
+  "data_criacao": "2026-07-30T02:12:22.644589-03:00"
+}

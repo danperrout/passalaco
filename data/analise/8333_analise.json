@@ -1,0 +1,30 @@
+{
+  "id": 8333,
+  "nome_original": "Capa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco",
+    "estilo_corte": "longo, fluido com caimento reto",
+    "acessorios_visiveis": [
+      "chapéu de bolinha",
+      "detalhes decorativos no pescoço"
+    ],
+    "tematica_detalhada": "fantasia de bruxa clássica ou personagem gótica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8333.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.07,
+  "data_analise": "2026-07-27T18:55:17Z",
+  "data_criacao": "2026-07-27T15:55:17.380527-03:00"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 6763,
+  "nome_original": "Ana",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "dourado",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim, renda e adornos metálicos",
+    "estilo_corte": "estilo princesa com saia volumosa e corpete ajustado",
+    "acessorios_visiveis": [
+      "peruca castanha"
+    ],
+    "tematica_detalhada": "fantasia de personagem estilo lolita ou princesa real com detalhes ornamentais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6763.jpg",
+  "data_analise": "2026-07-27T13:55:48Z"
+}

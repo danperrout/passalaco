@@ -1,0 +1,32 @@
+{
+  "id": 4147,
+  "nome_original": "Gangster",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "casaco",
+      "colete",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com detalhes em risca de giz",
+    "estilo_corte": "estilo vintage/clássico com corte ajustado no tronco e saia curta",
+    "acessorios_visiveis": [
+      "chapéu coco",
+      "gravata borboleta"
+    ],
+    "tematica_detalhada": "Gangster feminina, com referências à moda dos anos 20 e 30, adaptada para fantasia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4147.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 71.75,
+  "data_analise": "2026-07-28T06:49:28Z",
+  "data_criacao": "2026-07-28T03:49:28.517714-03:00"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 7096,
+  "nome_original": "Mimico",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "camiseta listrada",
+      "calça",
+      "chapéu",
+      "suspensórios"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "estilo casual com calça de cintura elástica e camiseta de mangas curtas",
+    "acessorios_visiveis": [
+      "chapéu coco",
+      "suspensórios vermelhos"
+    ],
+    "tematica_detalhada": "Fantasia de mímico clássico, baseada na performance artística de teatro gestual e pantomima"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7096.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 50.13,
+  "data_analise": "2026-07-29T22:25:13Z",
+  "data_criacao": "2026-07-29T19:25:13.950301-03:00"
+}

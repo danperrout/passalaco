@@ -1,0 +1,31 @@
+{
+  "id": 3045,
+  "nome_original": "Oncinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "preto",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "corpete",
+      "saia"
+    ],
+    "material_visual": "tecido com estampa animal print e tule",
+    "estilo_corte": "corpete ajustado com alças finas e saia curta volumosa",
+    "acessorios_visiveis": [
+      "tiara de orelhas de onça",
+      "gravata borboleta"
+    ],
+    "tematica_detalhada": "fantasia de oncinha com toque sensual e elementos de traje formal"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3045.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 52.72,
+  "data_analise": "2026-07-30T00:51:54Z",
+  "data_criacao": "2026-07-29T21:51:54.986807-03:00"
+}

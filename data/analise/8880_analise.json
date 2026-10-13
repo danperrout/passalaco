@@ -1,0 +1,32 @@
+{
+  "id": 8880,
+  "nome_original": "Noiva Cadaver",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "cinza"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "peruca"
+    ],
+    "material_visual": "cetim ou poliéster com tule e renda",
+    "estilo_corte": "estilo corset com saia curta armada e volumosa",
+    "acessorios_visiveis": [
+      "tiara",
+      "colar",
+      "peruca"
+    ],
+    "tematica_detalhada": "Noiva Cadáver, inspirada na estética gótica e no personagem do filme de animação homônimo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8880.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 36.25,
+  "data_analise": "2026-07-30T00:29:01Z",
+  "data_criacao": "2026-07-29T21:29:01.422147-03:00"
+}

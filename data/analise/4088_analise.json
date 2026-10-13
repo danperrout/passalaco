@@ -1,0 +1,31 @@
+{
+  "id": 4088,
+  "nome_original": "Bambam",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "marrom",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "saiote"
+    ],
+    "material_visual": "tecido sintético com estampa animal print",
+    "estilo_corte": "corte irregular com bordas rasgadas",
+    "acessorios_visiveis": [
+      "colar de dentes",
+      "faixa transversal",
+      "tiara"
+    ],
+    "tematica_detalhada": "fantasia de homem das cavernas ou homem pré-histórico, referenciando figuras primitivas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4088.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 204.31,
+  "data_analise": "2026-07-27T17:17:50Z",
+  "data_criacao": "2026-07-27T14:17:50.261033-03:00"
+}

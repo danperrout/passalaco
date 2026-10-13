@@ -1,0 +1,28 @@
+{
+  "id": 7757,
+  "nome_original": "Canguru",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "tecido sintético aveludado ou plush",
+    "estilo_corte": "estilo kigurumi ou pijama oversized",
+    "acessorios_visiveis": [
+      "orelhas de animal integradas ao capuz"
+    ],
+    "tematica_detalhada": "representação antropomórfica de um canguru, focada em conforto e ludicidade"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7757.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.81,
+  "data_analise": "2026-07-27T18:53:56Z",
+  "data_criacao": "2026-07-27T15:53:56.446582-03:00"
+}

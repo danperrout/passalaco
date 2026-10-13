@@ -1,0 +1,29 @@
+{
+  "id": 9504,
+  "nome_original": "Dona Clotilde",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "cinza"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "blusa de gola alta"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "vestido de corte reto com botões frontais e mangas longas",
+    "acessorios_visiveis": [
+      "peruca azul volumosa"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Dona Clotilde, a bruxa do Chaves, caracterizada por roupas modestas e peruca extravagante"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9504.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 58.22,
+  "data_analise": "2026-07-28T03:15:52Z",
+  "data_criacao": "2026-07-28T00:15:52.876792-03:00"
+}

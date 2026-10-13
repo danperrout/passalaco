@@ -1,0 +1,32 @@
+{
+  "id": 2231,
+  "nome_original": "Xerife",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "colete",
+      "short"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster ou cetim",
+    "estilo_corte": "estilo gótico/lolita com recorte frontal (cut-out) e mangas bufantes",
+    "acessorios_visiveis": [
+      "laço no pescoço",
+      "detalhes de amarração",
+      "cinto decorativo dourado"
+    ],
+    "tematica_detalhada": "versão estilizada e feminizada de um traje de autoridade/xerife com influências de moda alternativa e cosplay"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2231.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.63,
+  "data_analise": "2026-07-30T09:00:37Z",
+  "data_criacao": "2026-07-30T06:00:37.357121-03:00"
+}

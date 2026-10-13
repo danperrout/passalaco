@@ -1,0 +1,33 @@
+{
+  "id": 8270,
+  "nome_original": "Pequeno Principe",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "dourado",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "corte clássico de casaco longo com lapelas contrastantes",
+    "acessorios_visiveis": [
+      "chapéu dourado",
+      "botões decorativos"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Pequeno Príncipe, referenciando a obra literária de Antoine de Saint-Exupéry"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8270.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 39.93,
+  "data_analise": "2026-07-30T02:59:40Z",
+  "data_criacao": "2026-07-29T23:59:40.590753-03:00"
+}

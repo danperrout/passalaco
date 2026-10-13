@@ -1,0 +1,30 @@
+{
+  "id": 10139,
+  "nome_original": "Astronauta",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão de peça única",
+      "boné"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente poliéster ou nylon, com acabamento fosco",
+    "estilo_corte": "corte solto e confortável de macacão tipo jumpsuit com gola e punhos pretos",
+    "acessorios_visiveis": [
+      "boné branco",
+      "patches/emblemas de astronauta"
+    ],
+    "tematica_detalhada": "Fantasia de astronauta inspirada em exploradores espaciais, com emblemas que remetem à NASA e à exploração espacial."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10139.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 8.72,
+  "data_analise": "2026-07-27T16:57:07Z",
+  "data_criacao": "2026-07-27T13:57:07.499648-03:00"
+}

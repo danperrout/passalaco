@@ -1,0 +1,28 @@
+{
+  "id": 8093,
+  "nome_original": "Bela Adormecida",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim, tule e detalhes em brilho/estilo glitter",
+    "estilo_corte": "vestido de baile com corpete ajustado e saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "tiara/coroa dourada"
+    ],
+    "tematica_detalhada": "fantasia de princesa, inspirada na personagem Bela Adormecida da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8093.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.06,
+  "data_analise": "2026-07-27T17:54:08Z",
+  "data_criacao": "2026-07-27T14:54:08.160381-03:00"
+}

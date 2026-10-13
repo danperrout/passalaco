@@ -1,0 +1,29 @@
+{
+  "id": 9191,
+  "nome_original": "Mascara Coruja",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Máscaras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "verde",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "máscara"
+    ],
+    "material_visual": "penas e glitter",
+    "estilo_corte": "máscara de carnaval estilo veneziano",
+    "acessorios_visiveis": [
+      "pena de pavão"
+    ],
+    "tematica_detalhada": "Fantasia de coruja com inspiração em bailes de máscaras e carnaval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9191.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 88.41,
+  "data_analise": "2026-07-29T18:59:57Z",
+  "data_criacao": "2026-07-29T15:59:57.163103-03:00"
+}

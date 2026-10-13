@@ -1,0 +1,28 @@
+{
+  "id": 105,
+  "nome_original": "Jaqueta",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido com lantejoulas ou acabamento brilhante/metalizado",
+    "estilo_corte": "jaqueta curta com gola clássica e corte reto",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia de gala ou performance, remetendo a estilos como disco, rock star ou personagens de shows musicais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/105.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 43.43,
+  "data_analise": "2026-07-28T19:13:57Z",
+  "data_criacao": "2026-07-28T16:13:57.856608-03:00"
+}

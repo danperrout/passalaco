@@ -1,0 +1,34 @@
+{
+  "id": 8801,
+  "nome_original": "Raya",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo",
+      "verde oliva"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "blusa",
+      "calças",
+      "cinto",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com aparência de couro e fibras naturais no chapéu",
+    "estilo_corte": "estilo aventureiro com camadas e inspiração asiática",
+    "acessorios_visiveis": [
+      "chapéu cônico de palha",
+      "cinto largo"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Raya, do filme Raya e o Último Dragão, com referências a culturas do Sudeste Asiático"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8801.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 94.04,
+  "data_analise": "2026-07-30T04:40:46Z",
+  "data_criacao": "2026-07-30T01:40:46.743711-03:00"
+}

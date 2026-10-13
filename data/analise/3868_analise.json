@@ -1,0 +1,31 @@
+{
+  "id": 3868,
+  "nome_original": "Xale",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "xale",
+      "blusa",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com bordados florais e acabamento em franjas",
+    "estilo_corte": "estilo folclórico tradicional com saia rodada e xale amplo",
+    "acessorios_visiveis": [
+      "peruca ruiva"
+    ],
+    "tematica_detalhada": "traje típico regional, possivelmente inspirado em vestimentas folclóricas europeias ou latinas (como danças ciganas ou tradicionais)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3868.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.02,
+  "data_analise": "2026-07-30T09:00:18Z",
+  "data_criacao": "2026-07-30T06:00:18.378610-03:00"
+}

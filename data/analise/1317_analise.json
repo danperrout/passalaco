@@ -1,0 +1,30 @@
+{
+  "id": 1317,
+  "nome_original": "Soldado Romano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Gregas/Romanos",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "capa",
+      "capacete"
+    ],
+    "material_visual": "tecido sintético com aplicações de lantejoulas ou brilhos metálicos",
+    "estilo_corte": "estilo armadura com saia plissada (pteruges) e corte reto",
+    "acessorios_visiveis": [
+      "capacete romano com crista"
+    ],
+    "tematica_detalhada": "Soldado do Império Romano, com referências a generais ou centuriões devido aos detalhes dourados e à capa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1317.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 45.92,
+  "data_analise": "2026-07-30T07:10:02Z",
+  "data_criacao": "2026-07-30T04:10:02.072712-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 8617,
+  "nome_original": "Acesssorio do Jack Sparow",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "dourado",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "bandana",
+      "espada",
+      "bainha"
+    ],
+    "material_visual": "tecido sintético, plástico e metal",
+    "estilo_corte": "estilo pirata clássico",
+    "acessorios_visiveis": [
+      "bandana vermelha",
+      "sabre",
+      "bainha preta"
+    ],
+    "tematica_detalhada": "Acessórios inspirados no personagem Capitão Jack Sparrow da franquia Piratas do Caribe"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8617.jpg",
+  "data_analise": "2026-07-27T13:36:01Z"
+}

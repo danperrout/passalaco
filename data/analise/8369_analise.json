@@ -1,0 +1,33 @@
+{
+  "id": 8369,
+  "nome_original": "Magico",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "camisa",
+      "calça",
+      "cartola"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "corte clássico de gala com botões frontais decorativos",
+    "acessorios_visiveis": [
+      "gravata borboleta",
+      "cartola"
+    ],
+    "tematica_detalhada": "mágico de palco clássico ou mestre de cerimônias de circo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8369.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.03,
+  "data_analise": "2026-07-29T16:24:09Z",
+  "data_criacao": "2026-07-29T13:24:09.335817-03:00"
+}

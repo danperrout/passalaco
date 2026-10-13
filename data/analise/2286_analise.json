@@ -1,0 +1,30 @@
+{
+  "id": 2286,
+  "nome_original": "Vaquinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "modelagem oversize estilo kigurumi",
+    "acessorios_visiveis": [
+      "chifres",
+      "focinho"
+    ],
+    "tematica_detalhada": "fantasia de animal, especificamente uma vaca holandesa, com foco em elementos lúdicos e confortáveis"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2286.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.49,
+  "data_analise": "2026-07-30T08:49:00Z",
+  "data_criacao": "2026-07-30T05:49:00.951699-03:00"
+}

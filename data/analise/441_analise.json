@@ -1,0 +1,29 @@
+{
+  "id": 441,
+  "nome_original": "Coelhinho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom claro",
+      "marrom escuro"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz com orelhas"
+    ],
+    "material_visual": "tecido sintético com aparência de elastano ou poliéster",
+    "estilo_corte": "ajustado ao corpo (slim fit) com mangas longas",
+    "acessorios_visiveis": [
+      "orelhas de coelho integradas ao capuz"
+    ],
+    "tematica_detalhada": "fantasia de coelho em tons terrosos, com design simplificado para festas ou apresentações infantis"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/441.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 31.81,
+  "data_analise": "2026-07-28T00:32:28Z",
+  "data_criacao": "2026-07-27T21:32:28.590284-03:00"
+}

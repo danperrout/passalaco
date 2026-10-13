@@ -1,0 +1,32 @@
+{
+  "id": 9534,
+  "nome_original": "Elfo",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "rosa",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "tule, tecido laminado dourado e feltro",
+    "estilo_corte": "estilo tutu com corpete ajustado e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara com chifres e flores",
+      "asas de tule",
+      "aplicações florais"
+    ],
+    "tematica_detalhada": "fantasia de criatura mística ou elfo da floresta, com referências a renas e natureza"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9534.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 29.22,
+  "data_analise": "2026-07-28T03:29:05Z",
+  "data_criacao": "2026-07-28T00:29:05.765743-03:00"
+}

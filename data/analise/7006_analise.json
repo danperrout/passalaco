@@ -1,0 +1,31 @@
+{
+  "id": 7006,
+  "nome_original": "Chines",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "cetim brilhante",
+    "estilo_corte": "estilo oriental com mangas largas e gola alta",
+    "acessorios_visiveis": [
+      "chapéu bordado com pompom"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na cultura chinesa, remetendo a trajes tradicionais estilizados para festas."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7006.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 33.62,
+  "data_analise": "2026-07-27T20:55:56Z",
+  "data_criacao": "2026-07-27T17:55:56.834630-03:00"
+}

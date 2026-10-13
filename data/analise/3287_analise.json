@@ -1,0 +1,29 @@
+{
+  "id": 3287,
+  "nome_original": "Bela Adormecida",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco",
+      "prateado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "cetim, tule e adornos com glitter ou lantejoulas",
+    "estilo_corte": "estilo princesa com saia volumosa e mangas bufantes",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "fantasia de princesa inspirada na personagem Bela Adormecida, com referências a contos de fadas clássicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3287.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 22.67,
+  "data_analise": "2026-07-27T17:55:45Z",
+  "data_criacao": "2026-07-27T14:55:45.699164-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 2274,
+  "nome_original": "Mascote Ze Gotinha",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "macacão integral",
+      "máscara de cabeça completa"
+    ],
+    "material_visual": "pelúcia sintética macia",
+    "estilo_corte": "estilo mascote oversized com formato arredondado",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Mascote Zé Gotinha, símbolo das campanhas de vacinação do Brasil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2274.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 87.52,
+  "data_analise": "2026-07-29T20:37:18Z",
+  "data_criacao": "2026-07-29T17:37:18.957405-03:00"
+}

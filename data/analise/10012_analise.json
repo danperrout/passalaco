@@ -1,0 +1,30 @@
+{
+  "id": 10012,
+  "nome_original": "Draculaura",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa escuro",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "corpete",
+      "saia"
+    ],
+    "material_visual": "cetim, renda e tecido sintético",
+    "estilo_corte": "estilo corset com saia curta e rodada",
+    "acessorios_visiveis": [
+      "gola de renda",
+      "luvas de renda"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Draculaura da franquia Monster High, misturando elementos góticos vitorianos com estética moderna"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10012.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 22.76,
+  "data_analise": "2026-07-28T03:24:23Z",
+  "data_criacao": "2026-07-28T00:24:23.432612-03:00"
+}

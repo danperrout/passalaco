@@ -1,0 +1,30 @@
+{
+  "id": 1487,
+  "nome_original": "Pirata",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Piratas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda e cetim",
+    "estilo_corte": "estilo corset com saia curta e armada",
+    "acessorios_visiveis": [
+      "chapéu de pirata com pluma",
+      "faixa na cintura"
+    ],
+    "tematica_detalhada": "pirata feminina estilizada, com referências a roupas de época adaptadas para fantasia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1487.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.65,
+  "data_analise": "2026-07-30T03:40:08Z",
+  "data_criacao": "2026-07-30T00:40:08.872580-03:00"
+}

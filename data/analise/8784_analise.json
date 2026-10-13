@@ -1,0 +1,32 @@
+{
+  "id": 8784,
+  "nome_original": "Mae e Filho Rainha e Rei",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "casaco militar",
+      "calça branca"
+    ],
+    "material_visual": "veludo e cetim com bordados dourados",
+    "estilo_corte": "corte imperial para a rainha e corte militar estruturado para o rei",
+    "acessorios_visiveis": [
+      "coroa da rainha",
+      "coroa do rei",
+      "cordões ornamentais dourados"
+    ],
+    "tematica_detalhada": "realeza clássica europeia, inspirada em monarquias medievais ou renascentistas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8784.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 686.24,
+  "data_analise": "2026-07-29T15:20:01Z",
+  "data_criacao": "2026-07-29T12:20:01.068169-03:00"
+}

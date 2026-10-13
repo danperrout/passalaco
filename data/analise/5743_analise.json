@@ -1,0 +1,29 @@
+{
+  "id": 5743,
+  "nome_original": "Noiva",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule, cetim e apliques florais",
+    "estilo_corte": "corte princesa com cintura marcada e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara com laço e fitas"
+    ],
+    "tematica_detalhada": "fantasia de noiva infantil ou dama de honra, com estilo romântico e delicado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5743.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 50.21,
+  "data_analise": "2026-07-30T00:07:37Z",
+  "data_criacao": "2026-07-29T21:07:37.241660-03:00"
+}

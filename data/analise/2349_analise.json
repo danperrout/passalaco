@@ -1,0 +1,33 @@
+{
+  "id": 2349,
+  "nome_original": "Cocar",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Acessórios",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "laranja",
+      "amarelo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "cocar",
+      "estola de penas",
+      "colar"
+    ],
+    "material_visual": "penas artificiais, miçangas e fios",
+    "estilo_corte": "estilo carnaval com volume radial e camadas",
+    "acessorios_visiveis": [
+      "colar de contas",
+      "detalhes ornamentais centrais"
+    ],
+    "tematica_detalhada": "fantasia inspirada em cocares indígenas estilizados para carnaval ou festas temáticas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2349.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 148.5,
+  "data_analise": "2026-07-27T23:32:09Z",
+  "data_criacao": "2026-07-27T20:32:09.909775-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 9273,
+  "nome_original": "Super Mulher",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capa",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com brilho metálico e textura canelada",
+    "estilo_corte": "ajustado ao corpo (slim fit) com mangas longas e gola alta",
+    "acessorios_visiveis": [
+      "máscara ocular",
+      "capa"
+    ],
+    "tematica_detalhada": "Super-heroína baseada na Supergirl/Supermulher, referenciando a DC Comics com o icônico escudo em formato de diamante no peito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9273.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.61,
+  "data_analise": "2026-07-30T07:30:10Z",
+  "data_criacao": "2026-07-30T04:30:10.770450-03:00"
+}

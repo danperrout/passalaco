@@ -1,0 +1,31 @@
+{
+  "id": 4539,
+  "nome_original": "Mexicano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "bege",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "poncho",
+      "chapéu",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com textura de trama",
+    "estilo_corte": "poncho amplo com franjas na barra e chapéu de aba larga",
+    "acessorios_visiveis": [
+      "sombrero"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na cultura tradicional mexicana, remetendo à figura do charro ou camponês"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4539.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 69.91,
+  "data_analise": "2026-07-29T22:00:18Z",
+  "data_criacao": "2026-07-29T19:00:18.004782-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 5333,
+  "nome_original": "Cartola Com Orelha de Coelho",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "cartola",
+      "orelhas de coelho"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante ou glitter",
+    "estilo_corte": "acessório de cabeça cilíndrico com extensões verticais",
+    "acessorios_visiveis": [
+      "orelhas de coelho acopladas"
+    ],
+    "tematica_detalhada": "Fusão de elementos clássicos (cartola) com elementos fantásticos/animais (coelho), remetendo ao personagem Coelho Branco de Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5333.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.93,
+  "data_analise": "2026-07-27T19:29:51Z",
+  "data_criacao": "2026-07-27T16:29:51.961643-03:00"
+}

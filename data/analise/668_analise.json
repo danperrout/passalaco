@@ -1,0 +1,32 @@
+{
+  "id": 668,
+  "nome_original": "Gato de Botas",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético acetinado",
+    "estilo_corte": "túnica solta com mangas compridas e calças ajustadas",
+    "acessorios_visiveis": [
+      "cinto com fivela",
+      "pluma amarela no chapéu",
+      "detalhe ornamental no peito"
+    ],
+    "tematica_detalhada": "Fantasia baseada no personagem Gato de Botas, referenciando a estética de aventureiro/espadachim com elementos felinos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/668.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 68.0,
+  "data_analise": "2026-07-28T10:40:03Z",
+  "data_criacao": "2026-07-28T07:40:03.753731-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 7444,
+  "nome_original": "Cinderela",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul claro",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tule, cetim e aplicações de pedrarias",
+    "estilo_corte": "estilo princesa com corpete ajustado, mangas bufantes e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara"
+    ],
+    "tematica_detalhada": "Fantasia de Cinderela, inspirada na personagem da Disney, remetendo a contos de fadas e realeza"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7444.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 167.92,
+  "data_analise": "2026-07-27T22:29:07Z",
+  "data_criacao": "2026-07-27T19:29:07.105953-03:00"
+}

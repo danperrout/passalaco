@@ -1,0 +1,31 @@
+{
+  "id": 6659,
+  "nome_original": "Thor",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "calça",
+      "capa"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "conjunto confortável de duas peças com capa acoplada",
+    "acessorios_visiveis": [
+      "capa vermelha"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Thor, da Marvel Comics/MCU, adaptada para bebês"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6659.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.99,
+  "data_analise": "2026-07-30T07:49:05Z",
+  "data_criacao": "2026-07-30T04:49:05.051720-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 7866,
+  "nome_original": "Palhacinho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "chapéu cônico",
+      "jardineira",
+      "camiseta de manga longa"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante",
+    "estilo_corte": "folgado e infantil",
+    "acessorios_visiveis": [
+      "pompons coloridos",
+      "detalhe dourado no chapéu"
+    ],
+    "tematica_detalhada": "Fantasia de palhaço clássico para bebês, com foco em cores vibrantes e estampa de bolinhas, ideal para festas de primeiro aniversário"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7866.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 19.84,
+  "data_analise": "2026-07-30T01:47:49Z",
+  "data_criacao": "2026-07-29T22:47:49.436250-03:00"
+}

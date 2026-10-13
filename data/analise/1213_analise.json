@@ -1,0 +1,29 @@
+{
+  "id": 1213,
+  "nome_original": "Cinderela",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "cetim, tule e renda com detalhes brilhantes",
+    "estilo_corte": "vestido de baile com corpete ajustado, saia volumosa e sobreposição na cintura",
+    "acessorios_visiveis": [
+      "tiara",
+      "luvas longas"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Cinderela, inspirada em contos de fadas e vestidos de gala clássicos da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1213.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 131.7,
+  "data_analise": "2026-07-27T22:43:26Z",
+  "data_criacao": "2026-07-27T19:43:26.527637-03:00"
+}

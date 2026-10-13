@@ -1,0 +1,28 @@
+{
+  "id": 9262,
+  "nome_original": "Morticia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "véu/capa"
+    ],
+    "material_visual": "tecido sintético com textura aveludada ou chenille e detalhes em franjas",
+    "estilo_corte": "corte sereia, justo ao corpo com evasê na barra e mangas amplas",
+    "acessorios_visiveis": [
+      "véu longo"
+    ],
+    "tematica_detalhada": "fantasia da personagem Morticia Addams, da Família Addams, com estética gótica e macabra"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9262.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.44,
+  "data_analise": "2026-07-29T23:08:20Z",
+  "data_criacao": "2026-07-29T20:08:20.459757-03:00"
+}

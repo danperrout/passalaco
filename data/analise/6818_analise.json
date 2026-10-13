@@ -1,0 +1,31 @@
+{
+  "id": 6818,
+  "nome_original": "Moana",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Infantis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "bege",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "tecido texturizado, renda e materiais sintéticos",
+    "estilo_corte": "estilo tribal com saia assimétrica e top reto",
+    "acessorios_visiveis": [
+      "guirlanda de flores",
+      "colar com pedra azul"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Moana da Disney, com referências à cultura polinésia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6818.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.06,
+  "data_analise": "2026-07-29T22:44:45Z",
+  "data_criacao": "2026-07-29T19:44:45.485282-03:00"
+}

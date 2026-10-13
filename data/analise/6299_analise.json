@@ -1,0 +1,31 @@
+{
+  "id": 6299,
+  "nome_original": "Bope",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "boina",
+      "camiseta",
+      "colete tático",
+      "calça"
+    ],
+    "material_visual": "tecido sintético e poliéster",
+    "estilo_corte": "estilo militar operacional",
+    "acessorios_visiveis": [
+      "boina",
+      "colete com bolsos"
+    ],
+    "tematica_detalhada": "Batalhão de Operações Policiais Especiais (BOPE) da Polícia Militar do Rio de Janeiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6299.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.1,
+  "data_analise": "2026-07-27T18:19:10Z",
+  "data_criacao": "2026-07-27T15:19:10.600270-03:00"
+}

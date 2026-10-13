@@ -1,0 +1,29 @@
+{
+  "id": 7524,
+  "nome_original": "Camisa e Paleto",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa xadrez",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com estampa xadrez e feltro no chapéu",
+    "estilo_corte": "camisa de corte reto e chapéu de aba larga",
+    "acessorios_visiveis": [
+      "chapéu de cowboy"
+    ],
+    "tematica_detalhada": "estilo country ou cowboy, com referência à cultura rural norte-americana ou sertaneja"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7524.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.08,
+  "data_analise": "2026-07-27T18:49:29Z",
+  "data_criacao": "2026-07-27T15:49:29.084283-03:00"
+}

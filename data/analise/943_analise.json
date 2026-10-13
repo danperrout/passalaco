@@ -1,0 +1,34 @@
+{
+  "id": 943,
+  "nome_original": "Mulher Maravilha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara",
+      "botas",
+      "munhequeiras"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco e brilho leve",
+    "estilo_corte": "vestido curto com alças finas, corte em V na cintura e saia evasê",
+    "acessorios_visiveis": [
+      "tiara com estrela",
+      "munhequeiras azuis",
+      "botas vermelhas com detalhe branco"
+    ],
+    "tematica_detalhada": "Fantasia da super-heroína Mulher Maravilha, personagem da DC Comics, com elementos icônicos como o logotipo no peito e as estrelas na saia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/943.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.01,
+  "data_analise": "2026-07-29T23:26:25Z",
+  "data_criacao": "2026-07-29T20:26:25.005747-03:00"
+}

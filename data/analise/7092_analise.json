@@ -1,0 +1,32 @@
+{
+  "id": 7092,
+  "nome_original": "Unicornio",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "azul",
+      "branco",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "corpete",
+      "saia de tule",
+      "tiara"
+    ],
+    "material_visual": "cetim, glitter/paetês e tule",
+    "estilo_corte": "vestido curto com corpete ajustado e saia volumosa estilo tutu",
+    "acessorios_visiveis": [
+      "tiara com chifre de unicórnio e flores"
+    ],
+    "tematica_detalhada": "fantasia de unicórnio, focada em elementos mágicos e cores pastéis/neon, comum em festas infantis e Carnaval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7092.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.47,
+  "data_analise": "2026-07-30T08:40:01Z",
+  "data_criacao": "2026-07-30T05:40:01.596089-03:00"
+}

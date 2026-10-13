@@ -1,0 +1,30 @@
+{
+  "id": 6892,
+  "nome_original": "Ninja",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "túnica",
+      "calças"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "estilo oriental com gola estruturada e detalhes em viés preto",
+    "acessorios_visiveis": [
+      "faixa na cintura"
+    ],
+    "tematica_detalhada": "Ninja amarelo, possivelmente inspirado em personagens de artes marciais ou cultura pop como Kill Bill ou Power Rangers"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6892.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 53.92,
+  "data_analise": "2026-07-29T23:54:14Z",
+  "data_criacao": "2026-07-29T20:54:14.888209-03:00"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 4467,
+  "nome_original": "Jack Sparrow",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "casaco longo",
+      "camisa",
+      "calça",
+      "chapéu",
+      "botas"
+    ],
+    "material_visual": "material sintético com aparência de couro",
+    "estilo_corte": "estilo pirata clássico com casaco longo e camisa de gola aberta",
+    "acessorios_visiveis": [
+      "chapéu tricórnio",
+      "cinto com fivela",
+      "laço na gola"
+    ],
+    "tematica_detalhada": "fantasia de pirata, especificamente baseada no personagem Capitão Jack Sparrow da franquia Piratas do Caribe"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4467.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 75.01,
+  "data_analise": "2026-07-28T18:01:18Z",
+  "data_criacao": "2026-07-28T15:01:18.707793-03:00"
+}

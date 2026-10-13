@@ -1,0 +1,28 @@
+{
+  "id": 4864,
+  "nome_original": "Princesa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim, tule com glitter e apliques de lantejoulas",
+    "estilo_corte": "vestido longo com saia volumosa e corpete ajustado",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "fantasia de princesa clássica, com estética inspirada em contos de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4864.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.86,
+  "data_analise": "2026-07-30T03:58:36Z",
+  "data_criacao": "2026-07-30T00:58:36.320012-03:00"
+}

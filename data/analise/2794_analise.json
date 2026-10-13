@@ -1,0 +1,31 @@
+{
+  "id": 2794,
+  "nome_original": "Policial",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "vestido curto com gola e saia evasê",
+    "acessorios_visiveis": [
+      "cinto com fivela",
+      "distintivo",
+      "quepe"
+    ],
+    "tematica_detalhada": "fantasia de policial feminina estilizada para festas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2794.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.17,
+  "data_analise": "2026-07-30T03:46:38Z",
+  "data_criacao": "2026-07-30T00:46:38.052127-03:00"
+}

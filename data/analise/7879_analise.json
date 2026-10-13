@@ -1,0 +1,31 @@
+{
+  "id": 7879,
+  "nome_original": "Maui 6 Meses",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Mesversario",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "preto",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "short",
+      "saia de folhas"
+    ],
+    "material_visual": "malha de algodão ou poliéster com saia em tecido sintético",
+    "estilo_corte": "conjunto infantil casual com corte reto e saia sobreposta",
+    "acessorios_visiveis": [
+      "saia de folhas artificiais"
+    ],
+    "tematica_detalhada": "Personagem Maui do filme Moana, com estampas tribais polinesias e elementos naturais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7879.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 22.57,
+  "data_analise": "2026-07-29T20:52:16Z",
+  "data_criacao": "2026-07-29T17:52:16.079744-03:00"
+}

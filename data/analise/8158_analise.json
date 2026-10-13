@@ -1,0 +1,28 @@
+{
+  "id": 8158,
+  "nome_original": "Bailarina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido de bailarina"
+    ],
+    "material_visual": "tule, cetim e detalhes com pedrarias/brilho",
+    "estilo_corte": "vestido de corpo ajustado com saia armada de tule volumoso e camadas de babados",
+    "acessorios_visiveis": [
+      "tiara com coroa"
+    ],
+    "tematica_detalhada": "fantasia de bailarina clássica, inspirada em elementos de tutu e estética de princesa/contos de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8158.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 14.31,
+  "data_analise": "2026-07-27T16:59:16Z",
+  "data_criacao": "2026-07-27T13:59:16.893447-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 2518,
+  "nome_original": "Chef de Cozinha",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "dólmã",
+      "calça",
+      "chapéu de chef"
+    ],
+    "material_visual": "tecido sintético ou algodão com aspecto fosco",
+    "estilo_corte": "corte reto com fechamento frontal por botões duplos",
+    "acessorios_visiveis": [
+      "toque blanche"
+    ],
+    "tematica_detalhada": "profissional de gastronomia, especificamente um Chef de Cozinha clássico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2518.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 42.59,
+  "data_analise": "2026-07-27T20:51:02Z",
+  "data_criacao": "2026-07-27T17:51:02.128757-03:00"
+}

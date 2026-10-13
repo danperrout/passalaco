@@ -1,0 +1,33 @@
+{
+  "id": 2345,
+  "nome_original": "Chaves",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "laranja",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "bermuda",
+      "boné",
+      "suspensórios"
+    ],
+    "material_visual": "tecido sintético e algodão",
+    "estilo_corte": "corte casual e folgado",
+    "acessorios_visiveis": [
+      "boné",
+      "suspensórios"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Chaves, da série de comédia mexicana El Chavo del Ocho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2345.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.88,
+  "data_analise": "2026-07-27T20:42:22Z",
+  "data_criacao": "2026-07-27T17:42:22.580329-03:00"
+}

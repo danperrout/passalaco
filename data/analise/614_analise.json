@@ -1,0 +1,25 @@
+{
+  "id": 614,
+  "nome_original": "Fantasma",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "túnica com capuz"
+    ],
+    "material_visual": "tecido sintético leve",
+    "estilo_corte": "corte amplo e fluido com bordas rasgadas/irregulares",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasma clássico, baseado na representação tradicional de lençol branco com aberturas para os olhos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/614.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 69.88,
+  "data_analise": "2026-07-28T05:01:50Z",
+  "data_criacao": "2026-07-28T02:01:50.369036-03:00"
+}

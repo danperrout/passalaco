@@ -1,0 +1,31 @@
+{
+  "id": 9565,
+  "nome_original": "Palhaço Assassino",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster e plástico para a máscara",
+    "estilo_corte": "macacão justo com gola rufada e mangas curtas",
+    "acessorios_visiveis": [
+      "pompons vermelhos",
+      "máscara de palhaço"
+    ],
+    "tematica_detalhada": "Palhaço assassino/terror, com referências a personagens como Pennywise e a estética de circo macabro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9565.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.13,
+  "data_analise": "2026-07-30T01:54:33Z",
+  "data_criacao": "2026-07-29T22:54:33.525183-03:00"
+}

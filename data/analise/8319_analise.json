@@ -1,0 +1,29 @@
+{
+  "id": 8319,
+  "nome_original": "Astronauta",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capacete"
+    ],
+    "material_visual": "tecido branco liso com detalhes em material metalizado prateado/glitter",
+    "estilo_corte": "macacão de corpo inteiro com mangas longas e pernas retas",
+    "acessorios_visiveis": [
+      "capacete de astronauta"
+    ],
+    "tematica_detalhada": "Astronauta/Exploração Espacial, inspirada em trajes espaciais clássicos de ficção científica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8319.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 33.47,
+  "data_analise": "2026-07-27T16:55:29Z",
+  "data_criacao": "2026-07-27T13:55:29.274901-03:00"
+}

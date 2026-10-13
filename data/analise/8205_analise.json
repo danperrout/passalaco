@@ -1,0 +1,30 @@
+{
+  "id": 8205,
+  "nome_original": "Carimbo",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "multicolorido",
+      "amarelo",
+      "azul",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com textura de fitas ou franjas brilhantes",
+    "estilo_corte": "vestido longo de corte reto com camadas de franjas",
+    "acessorios_visiveis": [
+      "decorações de papel em formato de flores/estrelas ao fundo"
+    ],
+    "tematica_detalhada": "fantasia festiva e vibrante, com estética carnavalesca ou de celebração tropical, focada em explosão de cores"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8205.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.0,
+  "data_analise": "2026-07-27T19:19:35Z",
+  "data_criacao": "2026-07-27T16:19:35.406047-03:00"
+}

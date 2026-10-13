@@ -1,0 +1,29 @@
+{
+  "id": 9535,
+  "nome_original": "Rainha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "veludo e tule",
+    "estilo_corte": "estilo princesa com saia volumosa drapeada e corpete ajustado",
+    "acessorios_visiveis": [
+      "coroa dourada",
+      "cinto com fivela"
+    ],
+    "tematica_detalhada": "fantasia de realeza clássica, remetendo a rainhas ou princesas de contos de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9535.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 41.74,
+  "data_analise": "2026-07-30T04:21:48Z",
+  "data_criacao": "2026-07-30T01:21:48.136228-03:00"
+}

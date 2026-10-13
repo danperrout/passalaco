@@ -1,0 +1,30 @@
+{
+  "id": 10148,
+  "nome_original": "Jasmine",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul turquesa",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "calça bufante",
+      "saiote de tule"
+    ],
+    "material_visual": "cetim com detalhes em glitter e tule transparente",
+    "estilo_corte": "estilo oriental com calça estilo harém e top ajustado",
+    "acessorios_visiveis": [
+      "laços de cabelo com pingentes"
+    ],
+    "tematica_detalhada": "Inspirada na Princesa Jasmine do filme Aladdin, com referências à vestimenta tradicional árabe"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10148.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 89.74,
+  "data_analise": "2026-07-28T20:00:23Z",
+  "data_criacao": "2026-07-28T17:00:23.894264-03:00"
+}

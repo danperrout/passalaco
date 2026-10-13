@@ -1,0 +1,31 @@
+{
+  "id": 9084,
+  "nome_original": "Tucano",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "branco",
+      "preto",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "capa de penas",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com camadas recortadas simulando penas",
+    "estilo_corte": "capa curta com corte escalonado em formato de pétalas",
+    "acessorios_visiveis": [
+      "laço de pescoço"
+    ],
+    "tematica_detalhada": "fantasia de animal, especificamente um Tucano, representada por cores vibrantes e texturas de plumagem"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9084.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.17,
+  "data_analise": "2026-07-30T08:37:21Z",
+  "data_criacao": "2026-07-30T05:37:21.058071-03:00"
+}

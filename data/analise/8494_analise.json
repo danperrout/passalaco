@@ -1,0 +1,35 @@
+{
+  "id": 8494,
+  "nome_original": "Mulher Maravilha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia",
+      "braceletes",
+      "botas",
+      "tiara"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado e detalhes metalizados",
+    "estilo_corte": "estilo armadura guerreira com top estruturado e saia curta drapeada",
+    "acessorios_visiveis": [
+      "tiara dourada",
+      "braceletes metálicos",
+      "grevas/botas detalhadas"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Mulher Maravilha, inspirada na super-heroína da DC Comics, com estética de guerreira amazona"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8494.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 55.52,
+  "data_analise": "2026-07-29T23:24:44Z",
+  "data_criacao": "2026-07-29T20:24:44.317267-03:00"
+}

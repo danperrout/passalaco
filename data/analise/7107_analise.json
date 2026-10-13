@@ -1,0 +1,29 @@
+{
+  "id": 7107,
+  "nome_original": "Star Wars Princesa Leia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "prateado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "capuz/véu"
+    ],
+    "material_visual": "tecido sintético fluido com cinto texturizado",
+    "estilo_corte": "corte reto e fluido, comprimento longo, mangas amplas e gola alta",
+    "acessorios_visiveis": [
+      "cinto largo ornamentado"
+    ],
+    "tematica_detalhada": "Personagem Princesa Leia da franquia Star Wars, especificamente referenciando seu traje clássico de gala/diplomacia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7107.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.77,
+  "data_analise": "2026-07-30T07:23:55Z",
+  "data_criacao": "2026-07-30T04:23:55.105189-03:00"
+}

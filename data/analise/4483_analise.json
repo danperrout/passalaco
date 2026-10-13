@@ -1,0 +1,30 @@
+{
+  "id": 4483,
+  "nome_original": "Jose do Egito",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica longa",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético fosco com detalhes em galão dourado e bordados coloridos",
+    "estilo_corte": "corte reto e amplo, estilo túnica tradicional do oriente médio",
+    "acessorios_visiveis": [
+      "gola ornamental bordada",
+      "frisos dourados nas bordas"
+    ],
+    "tematica_detalhada": "Fantasia bíblica representando José do Egito, com referências a vestimentas antigas egípcias e semitas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4483.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 97.51,
+  "data_analise": "2026-07-28T21:38:15Z",
+  "data_criacao": "2026-07-28T18:38:15.169975-03:00"
+}

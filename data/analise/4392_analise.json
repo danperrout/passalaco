@@ -1,0 +1,28 @@
+{
+  "id": 4392,
+  "nome_original": "Ursinha Pooh",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com aparência de veludo ou plush",
+    "estilo_corte": "vestido curto com blusa vermelha e saia amarela plissada/ondulada",
+    "acessorios_visiveis": [
+      "tiara com orelhas de urso"
+    ],
+    "tematica_detalhada": "Versão feminilizada do personagem Ursinho Pooh, baseada nas cores icônicas do personagem da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4392.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.23,
+  "data_analise": "2026-07-30T08:41:43Z",
+  "data_criacao": "2026-07-30T05:41:43.984017-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1471,
+  "nome_original": "Mamae Noel",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Natalinas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "gorro"
+    ],
+    "material_visual": "tecido aveludado com acabamentos em pelúcia sintética",
+    "estilo_corte": "vestido curto com gola ampla e cintura marcada",
+    "acessorios_visiveis": [
+      "cinto preto",
+      "gorro de Papai Noel"
+    ],
+    "tematica_detalhada": "Mamãe Noel, inspirada no folclore natalino ocidental"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1471.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 107.79,
+  "data_analise": "2026-07-29T16:54:51Z",
+  "data_criacao": "2026-07-29T13:54:51.623500-03:00"
+}

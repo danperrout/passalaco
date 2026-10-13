@@ -1,0 +1,30 @@
+{
+  "id": 5953,
+  "nome_original": "Minions",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "macacão",
+      "touca"
+    ],
+    "material_visual": "tecido sintético com aparência de jeans no macacão",
+    "estilo_corte": "modelagem folgada e confortável",
+    "acessorios_visiveis": [
+      "óculos de proteção integrados à touca"
+    ],
+    "tematica_detalhada": "personagem Minion da franquia de filmes Meu Malvado Favorito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5953.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.74,
+  "data_analise": "2026-07-29T22:32:38Z",
+  "data_criacao": "2026-07-29T19:32:38.233763-03:00"
+}

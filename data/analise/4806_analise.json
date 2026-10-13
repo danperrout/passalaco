@@ -1,0 +1,28 @@
+{
+  "id": 4806,
+  "nome_original": "Máscara",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prata",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "máscara"
+    ],
+    "material_visual": "tecido brilhante com aplicação de glitter e lantejoulas",
+    "estilo_corte": "máscara facial com topo em formato de coroa pontiaguda",
+    "acessorios_visiveis": [
+      "máscara ornamentada"
+    ],
+    "tematica_detalhada": "estilo baile de máscaras veneziano, com referências a realeza e luxo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4806.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 34.4,
+  "data_analise": "2026-07-29T18:57:25Z",
+  "data_criacao": "2026-07-29T15:57:25.588233-03:00"
+}

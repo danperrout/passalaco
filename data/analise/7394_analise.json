@@ -1,0 +1,30 @@
+{
+  "id": 7394,
+  "nome_original": "Girafa",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster",
+    "estilo_corte": "estilo kigurumi ou macacão integral com modelagem folgada",
+    "acessorios_visiveis": [
+      "orelhas de girafa",
+      "chifres/ossicones"
+    ],
+    "tematica_detalhada": "fantasia de animal, especificamente uma girafa, focada em representação lúdica e infantil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7394.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 192.96,
+  "data_analise": "2026-07-28T10:57:56Z",
+  "data_criacao": "2026-07-28T07:57:56.294764-03:00"
+}

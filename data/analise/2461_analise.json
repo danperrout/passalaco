@@ -1,0 +1,26 @@
+{
+  "id": 2461,
+  "nome_original": "Alien",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com detalhes brilhantes/lurex",
+    "estilo_corte": "ajustado ao corpo com capuz integrado",
+    "acessorios_visiveis": [
+      "máscara facial de alienígena"
+    ],
+    "tematica_detalhada": "alienígena futurista com elementos espaciais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2461.jpg",
+  "data_analise": "2026-07-27T13:55:19Z"
+}

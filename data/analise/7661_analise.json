@@ -1,0 +1,32 @@
+{
+  "id": 7661,
+  "nome_original": "Rei Mago",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "laranja",
+      "dourado",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "túnica longa",
+      "manto/capa com capuz",
+      "touca/coroa"
+    ],
+    "material_visual": "tecido sintético com acabamento em fitas douradas",
+    "estilo_corte": "corte reto e fluido, estilo vestimenta antiga/oriental",
+    "acessorios_visiveis": [
+      "touca vermelha com borda dourada"
+    ],
+    "tematica_detalhada": "Rei Mago bíblico, referência aos Reis Magos do Natal com estética de nobreza oriental antiga"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7661.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.06,
+  "data_analise": "2026-07-30T04:51:50Z",
+  "data_criacao": "2026-07-30T01:51:50.733447-03:00"
+}

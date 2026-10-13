@@ -1,0 +1,30 @@
+{
+  "id": 8264,
+  "nome_original": "Mundo Bita",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "cetim e tule",
+    "estilo_corte": "estilo boneca com saia volumosa e mangas bufantes",
+    "acessorios_visiveis": [
+      "cartola pequena",
+      "cinto de pérolas"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no universo Mundo Bita, adaptada para o público infantil feminino com elementos clássicos de performance"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8264.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.59,
+  "data_analise": "2026-07-29T23:28:36Z",
+  "data_criacao": "2026-07-29T20:28:36.951827-03:00"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 9403,
+  "nome_original": "Jessie Toy Story",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "saia",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado na saia",
+    "estilo_corte": "camisa de manga longa com pala decorativa e saia evasê curta",
+    "acessorios_visiveis": [
+      "chapéu de aba larga",
+      "detalhes de costura ornamental"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Jessie do filme Toy Story, com temática de cowgirl/oeste americano"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9403.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 42.35,
+  "data_analise": "2026-07-28T21:12:53Z",
+  "data_criacao": "2026-07-28T18:12:53.519385-03:00"
+}

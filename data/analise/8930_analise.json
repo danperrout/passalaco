@@ -1,0 +1,29 @@
+{
+  "id": 8930,
+  "nome_original": "Mamae Noel",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Natalinas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido com capuz",
+      "cinto"
+    ],
+    "material_visual": "veludo com acabamentos em pele sintética",
+    "estilo_corte": "vestido curto com cintura marcada e saia rodada",
+    "acessorios_visiveis": [
+      "cinto preto com fivela"
+    ],
+    "tematica_detalhada": "Mamãe Noel, inspirada nas figuras tradicionais do Natal ocidental"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8930.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 115.54,
+  "data_analise": "2026-07-29T16:53:03Z",
+  "data_criacao": "2026-07-29T13:53:03.569141-03:00"
+}

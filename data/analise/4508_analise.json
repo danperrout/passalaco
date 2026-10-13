@@ -1,0 +1,29 @@
+{
+  "id": 4508,
+  "nome_original": "Morte",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "túnica com capuz",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético leve com acabamento fosco",
+    "estilo_corte": "estilo túnica longa e solta com extremidades rasgadas e desfiadas",
+    "acessorios_visiveis": [
+      "máscara facial"
+    ],
+    "tematica_detalhada": "fantasia de Morte ou Ceifador, com referências visuais ao personagem Ghostface da franquia Pânico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4508.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.46,
+  "data_analise": "2026-07-29T23:06:25Z",
+  "data_criacao": "2026-07-29T20:06:25.091164-03:00"
+}

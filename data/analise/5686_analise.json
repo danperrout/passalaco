@@ -1,0 +1,25 @@
+{
+  "id": 5686,
+  "nome_original": "Alice",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "transparente"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "vinil transparente com aplicações plásticas",
+    "estilo_corte": "vestido curto com saia rodada e gola arredondada",
+    "acessorios_visiveis": [
+      "tiara com laço"
+    ],
+    "tematica_detalhada": "releitura estilizada e moderna da personagem Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5686.jpg",
+  "data_analise": "2026-07-27T13:47:31Z"
+}

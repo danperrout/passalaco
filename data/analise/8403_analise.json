@@ -1,0 +1,29 @@
+{
+  "id": 8403,
+  "nome_original": "Vampira",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa"
+    ],
+    "material_visual": "cetim, tule e renda",
+    "estilo_corte": "estilo gótico com corpete ajustado e saia curta volumosa",
+    "acessorios_visiveis": [
+      "gola alta estruturada"
+    ],
+    "tematica_detalhada": "Vampira clássica com estética vitoriana/gótica, remetendo a personagens de fantasia sombria"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8403.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.74,
+  "data_analise": "2026-07-30T08:47:23Z",
+  "data_criacao": "2026-07-30T05:47:23.131166-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2815,
+  "nome_original": "Indiana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top cropped ombro a ombro",
+      "saia longa"
+    ],
+    "material_visual": "tecido fluido com detalhes em lantejoulas e contas",
+    "estilo_corte": "estilo boho com top elástico e saia com fenda",
+    "acessorios_visiveis": [
+      "tiara de contas douradas",
+      "cinto de lantejoulas",
+      "colares de contas"
+    ],
+    "tematica_detalhada": "Fantasia com inspiração étnica/exótica, remetendo a estilos orientais, indianos ou dançarina do ventre"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2815.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 128.38,
+  "data_analise": "2026-07-28T16:48:54Z",
+  "data_criacao": "2026-07-28T13:48:54.988833-03:00"
+}

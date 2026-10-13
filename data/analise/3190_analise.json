@@ -1,0 +1,29 @@
+{
+  "id": 3190,
+  "nome_original": "Colete",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético ou algodão",
+    "estilo_corte": "colete aberto com corte reto e chapéu de aba curta",
+    "acessorios_visiveis": [
+      "chapéu com faixa preta"
+    ],
+    "tematica_detalhada": "estilo artístico ou festivo, com recortes coloridos aplicados ao colete branco, remetendo a temas de carnaval, arte moderna ou personagens excêntricos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3190.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 60.53,
+  "data_analise": "2026-07-28T00:40:59Z",
+  "data_criacao": "2026-07-27T21:40:59.139496-03:00"
+}

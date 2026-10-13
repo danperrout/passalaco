@@ -1,0 +1,35 @@
+{
+  "id": 9392,
+  "nome_original": "Mascote Coelho",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza",
+      "branco",
+      "azul",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "cabeça de coelho",
+      "colete",
+      "calça",
+      "luvas/mãos",
+      "pés"
+    ],
+    "material_visual": "pelúcia sintética e tecido brim/sarja para o colete",
+    "estilo_corte": "estilo mascote full-body com corte amplo e volumoso",
+    "acessorios_visiveis": [
+      "gravata borboleta vermelha",
+      "colete xadrez"
+    ],
+    "tematica_detalhada": "mascote de coelho antropomórfico com vestimentas formais, lembrando personagens de desenhos animados clássicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9392.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 37.18,
+  "data_analise": "2026-07-29T19:27:28Z",
+  "data_criacao": "2026-07-29T16:27:28.395165-03:00"
+}

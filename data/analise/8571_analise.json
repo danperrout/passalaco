@@ -1,0 +1,33 @@
+{
+  "id": 8571,
+  "nome_original": "Pirata",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Piratas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "bermuda",
+      "bandana",
+      "faixa de cintura"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente poliéster",
+    "estilo_corte": "camisa de corte solto com decote em V e amarração, bermuda curta",
+    "acessorios_visiveis": [
+      "tapa-olho",
+      "bandana listrada",
+      "faixa listrada"
+    ],
+    "tematica_detalhada": "fantasia clássica de pirata, com referências a marinheiros e corsários tradicionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8571.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.08,
+  "data_analise": "2026-07-30T03:39:22Z",
+  "data_criacao": "2026-07-30T00:39:22.437526-03:00"
+}

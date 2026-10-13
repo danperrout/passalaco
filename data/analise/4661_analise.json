@@ -1,0 +1,30 @@
+{
+  "id": 4661,
+  "nome_original": "Village People Policial",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga curta",
+      "calça",
+      "quepe"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "uniforme clássico de serviço com corte reto",
+    "acessorios_visiveis": [
+      "cinto",
+      "insígnia no quepe"
+    ],
+    "tematica_detalhada": "Fantasia de policial inspirada no grupo musical Village People, remetendo ao estereótipo de autoridade policial em contextos de festa e performance"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4661.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.64,
+  "data_analise": "2026-07-30T08:50:42Z",
+  "data_criacao": "2026-07-30T05:50:42.583274-03:00"
+}

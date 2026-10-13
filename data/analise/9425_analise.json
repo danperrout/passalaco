@@ -1,0 +1,29 @@
+{
+  "id": 9425,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "rosa",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampa floral e detalhes em renda",
+    "estilo_corte": "vestido curto com mangas bufantes, decote arredondado e saia rodada em camadas (babados)",
+    "acessorios_visiveis": [
+      "tiara de flor"
+    ],
+    "tematica_detalhada": "fantasia de Festa Junina estilizada, representando a figura da 'caipira' com elementos coloridos e campestres"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9425.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 51.06,
+  "data_analise": "2026-07-29T01:24:22Z",
+  "data_criacao": "2026-07-28T22:24:22.013276-03:00"
+}

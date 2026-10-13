@@ -1,0 +1,28 @@
+{
+  "id": 1969,
+  "nome_original": "Noiva",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa claro"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim ou poliéster com renda e tule",
+    "estilo_corte": "corte evasê com saia em camadas e mangas bufantes",
+    "acessorios_visiveis": [
+      "detalhes em renda no decote"
+    ],
+    "tematica_detalhada": "fantasia de noiva clássica ou princesa, com referências a trajes de casamento tradicionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1969.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 52.07,
+  "data_analise": "2026-07-30T00:00:54Z",
+  "data_criacao": "2026-07-29T21:00:54.901779-03:00"
+}

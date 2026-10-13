@@ -1,0 +1,29 @@
+{
+  "id": 3742,
+  "nome_original": "Capa",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "jabot/babado de pescoço"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou poliéster",
+    "estilo_corte": "capa longa com gola alta estruturada",
+    "acessorios_visiveis": [
+      "peruca preta"
+    ],
+    "tematica_detalhada": "fantasia de vampiro clássico, com referências ao Conde Drácula"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3742.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.1,
+  "data_analise": "2026-07-27T18:54:16Z",
+  "data_criacao": "2026-07-27T15:54:16.333588-03:00"
+}

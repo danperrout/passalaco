@@ -1,0 +1,29 @@
+{
+  "id": 5542,
+  "nome_original": "Scooby Doo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster ou plush",
+    "estilo_corte": "modelagem kigurumi ou macacão integral justo",
+    "acessorios_visiveis": [
+      "coleira azul",
+      "orelhas no capuz"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Scooby-Doo, o cão da série animada Scooby-Doo, caracterizada pela cor marrom e a icônica coleira azul"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5542.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.28,
+  "data_analise": "2026-07-30T05:55:22Z",
+  "data_criacao": "2026-07-30T02:55:22.804011-03:00"
+}

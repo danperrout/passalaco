@@ -1,0 +1,31 @@
+{
+  "id": 9279,
+  "nome_original": "Condessa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "luvas",
+      "chapéu"
+    ],
+    "material_visual": "veludo, tule e cetim",
+    "estilo_corte": "estilo corset com saia volumosa em camadas e comprimento assimétrico",
+    "acessorios_visiveis": [
+      "colar de pérolas negras",
+      "chapéu com véu e pluma",
+      "luvas longas"
+    ],
+    "tematica_detalhada": "fantasia de Condessa gótica ou vitoriana, com referências a trajes de gala sombrios e estética steampunk/dark"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9279.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 44.32,
+  "data_analise": "2026-07-28T01:31:44Z",
+  "data_criacao": "2026-07-27T22:31:44.620178-03:00"
+}

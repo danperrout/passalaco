@@ -1,0 +1,32 @@
+{
+  "id": 5565,
+  "nome_original": "Mexicano",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "verde",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "poncho",
+      "sombrero"
+    ],
+    "material_visual": "tecido sintético com textura de trama",
+    "estilo_corte": "corte reto e amplo, estilo poncho",
+    "acessorios_visiveis": [
+      "chapéu mexicano",
+      "colar"
+    ],
+    "tematica_detalhada": "fantasia estereotipada de mexicano, referenciando a cultura popular do México através do poncho colorido e do sombrero"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5565.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 139.07,
+  "data_analise": "2026-07-29T22:06:24Z",
+  "data_criacao": "2026-07-29T19:06:24.257341-03:00"
+}

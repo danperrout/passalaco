@@ -1,0 +1,29 @@
+{
+  "id": 6226,
+  "nome_original": "Bruxa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "chapéu de bruxa",
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com aparência de cetim ou poliéster",
+    "estilo_corte": "vestido curto com chapéu cônico clássico",
+    "acessorios_visiveis": [
+      "chapéu de bruxa com detalhe dourado"
+    ],
+    "tematica_detalhada": "Bruxa clássica, inspirada em arquétipos de contos de fadas e folclore europeu"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6226.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.97,
+  "data_analise": "2026-07-27T18:23:24Z",
+  "data_criacao": "2026-07-27T15:23:24.662348-03:00"
+}

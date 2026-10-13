@@ -1,0 +1,30 @@
+{
+  "id": 10146,
+  "nome_original": "Chel Eldorado",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "top tomara que caia",
+      "saia longa com fenda"
+    ],
+    "material_visual": "tecido leve, possivelmente algodão ou elastano",
+    "estilo_corte": "estilo tribal moderno com cintura baixa e fenda lateral",
+    "acessorios_visiveis": [
+      "brincos circulares",
+      "braceletes"
+    ],
+    "tematica_detalhada": "Cosplay da personagem Chel do filme animado A Lenda do Eldorado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10146.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 29.7,
+  "data_analise": "2026-07-27T20:54:06Z",
+  "data_criacao": "2026-07-27T17:54:06.771639-03:00"
+}

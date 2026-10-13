@@ -1,0 +1,31 @@
+{
+  "id": 9757,
+  "nome_original": "Saia Anos 60",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com estampa de bolinhas",
+    "estilo_corte": "saia evasê com cintura alta e top justo",
+    "acessorios_visiveis": [
+      "tiara com flor",
+      "colar de pérolas",
+      "pulseira"
+    ],
+    "tematica_detalhada": "estilo pin-up dos anos 60, referenciando a moda retro e a cultura pop da época"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9757.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.95,
+  "data_analise": "2026-07-30T05:33:49Z",
+  "data_criacao": "2026-07-30T02:33:49.311243-03:00"
+}

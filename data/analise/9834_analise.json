@@ -1,0 +1,26 @@
+{
+  "id": 9834,
+  "nome_original": "Camisa Xadrez Amarela Com Preto",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa"
+    ],
+    "material_visual": "tecido sintético ou algodão com aparência de flanela",
+    "estilo_corte": "camisa casual de manga longa com gola e bolso frontal",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "estilo lenhador ou camponês, podendo referenciar personagens como Killua (Hunter x Hunter) ou referências a roupas de trabalho rústicas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9834.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.13,
+  "data_analise": "2026-07-27T18:49:58Z",
+  "data_criacao": "2026-07-27T15:49:58.785604-03:00"
+}

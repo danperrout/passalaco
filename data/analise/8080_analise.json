@@ -1,0 +1,31 @@
+{
+  "id": 8080,
+  "nome_original": "Capitã America",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante/acetinado",
+    "estilo_corte": "vestido curto, sem alças, estilo corpete ajustado",
+    "acessorios_visiveis": [
+      "máscara com letra A",
+      "escudo circular"
+    ],
+    "tematica_detalhada": "Versão feminina da Capitã América, personagem dos quadrinhos e filmes da Marvel"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8080.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.35,
+  "data_analise": "2026-07-27T18:59:04Z",
+  "data_criacao": "2026-07-27T15:59:04.764502-03:00"
+}

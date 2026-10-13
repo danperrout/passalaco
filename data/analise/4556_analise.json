@@ -1,0 +1,34 @@
+{
+  "id": 4556,
+  "nome_original": "Jessie Toy Story",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente poliéster",
+    "estilo_corte": "estilo cowboy com modelagem ajustada ao corpo",
+    "acessorios_visiveis": [
+      "chapéu de cowboy",
+      "cinto com fivela",
+      "punhos amarelos"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Woody do filme Toy Story, apresentando elementos clássicos de cowboy como a calça de estampa de vaca e o chapéu vermelho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4556.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 36.14,
+  "data_analise": "2026-07-28T21:11:01Z",
+  "data_criacao": "2026-07-28T18:11:01.266668-03:00"
+}

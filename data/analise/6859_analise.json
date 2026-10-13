@@ -1,0 +1,30 @@
+{
+  "id": 6859,
+  "nome_original": "Hulk Bebê",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "bermuda",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "camiseta com relevo muscular e bermuda com barras desfiadas",
+    "acessorios_visiveis": [
+      "máscara facial"
+    ],
+    "tematica_detalhada": "Personagem Hulk da Marvel Comics, versão infantil, simulando a aparência musculosa e as roupas rasgadas do personagem"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6859.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 71.64,
+  "data_analise": "2026-07-28T15:31:26Z",
+  "data_criacao": "2026-07-28T12:31:26.271996-03:00"
+}

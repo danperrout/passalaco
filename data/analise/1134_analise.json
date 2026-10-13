@@ -1,0 +1,31 @@
+{
+  "id": 1134,
+  "nome_original": "Pierrot",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "touca"
+    ],
+    "material_visual": "tecido sintético com detalhes em tule e pompons",
+    "estilo_corte": "corte bicolor dividido verticalmente (half-and-half)",
+    "acessorios_visiveis": [
+      "chapéu de bobo da corte",
+      "gola de tule"
+    ],
+    "tematica_detalhada": "Fantasia de Pierrot/Bobo da Corte, referenciando personagens clássicos de teatro e carnaval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1134.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.02,
+  "data_analise": "2026-07-30T03:25:36Z",
+  "data_criacao": "2026-07-30T00:25:36.002498-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 4752,
+  "nome_original": "Patata",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "vestido curto com saia rodada e mangas curtas",
+    "acessorios_visiveis": [
+      "laço amarelo",
+      "chapéu verde"
+    ],
+    "tematica_detalhada": "fantasia de elfo ou ajudante do Papai Noel, referenciando a cultura natalina"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4752.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 29.69,
+  "data_analise": "2026-07-30T02:32:24Z",
+  "data_criacao": "2026-07-29T23:32:24.649401-03:00"
+}

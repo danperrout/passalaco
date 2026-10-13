@@ -1,0 +1,28 @@
+{
+  "id": 9955,
+  "nome_original": "Princesa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul celeste",
+      "azul royal"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule, cetim e aplicações florais",
+    "estilo_corte": "estilo princesa com saia volumosa e bustiê ajustado",
+    "acessorios_visiveis": [
+      "tiara"
+    ],
+    "tematica_detalhada": "fantasia de princesa clássica, com referências a contos de fadas e estética real"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9955.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.97,
+  "data_analise": "2026-07-30T03:59:32Z",
+  "data_criacao": "2026-07-30T00:59:32.305856-03:00"
+}

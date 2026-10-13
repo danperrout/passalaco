@@ -1,0 +1,32 @@
+{
+  "id": 2861,
+  "nome_original": "Lady Gaga",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "rosa",
+      "amarelo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "corpete",
+      "saia de tule",
+      "peruca"
+    ],
+    "material_visual": "cetim, tule e fibra sintética",
+    "estilo_corte": "estilo corset com amarração frontal e saia curta volumosa",
+    "acessorios_visiveis": [
+      "peruca bicolore"
+    ],
+    "tematica_detalhada": "fantasia inspirada no estilo pop extravagante de Lady Gaga, misturando elementos de cabaret e moda urbana"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2861.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 40.54,
+  "data_analise": "2026-07-29T08:32:15Z",
+  "data_criacao": "2026-07-29T05:32:15.225968-03:00"
+}

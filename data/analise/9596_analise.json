@@ -1,0 +1,26 @@
+{
+  "id": 9596,
+  "nome_original": "Capa Roxa",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "capa"
+    ],
+    "material_visual": "tecido sintético com brilho/lurex",
+    "estilo_corte": "corte reto com borda serrilhada em triângulos",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "estética mística ou vilanesca, remetendo a personagens de fantasia como bruxos ou magos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9596.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.6,
+  "data_analise": "2026-07-27T18:57:35Z",
+  "data_criacao": "2026-07-27T15:57:35.290216-03:00"
+}

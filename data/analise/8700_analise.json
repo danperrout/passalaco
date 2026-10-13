@@ -1,0 +1,29 @@
+{
+  "id": 8700,
+  "nome_original": "Monstros S/A",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde limão",
+      "azul",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "shorts"
+    ],
+    "material_visual": "tecido sintético elástico com apliques brilhantes",
+    "estilo_corte": "conjunto casual de manga curta e corte reto",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia baseada no personagem Mike Wazowski do filme Monstros S.A., caracterizada pela cor verde e o olho central único"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8700.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.91,
+  "data_analise": "2026-07-29T22:54:27Z",
+  "data_criacao": "2026-07-29T19:54:27.565137-03:00"
+}

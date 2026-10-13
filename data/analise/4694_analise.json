@@ -1,0 +1,32 @@
+{
+  "id": 4694,
+  "nome_original": "Sakura Cardcaptors",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu",
+      "laço"
+    ],
+    "material_visual": "tecido sintético com acabamento em renda",
+    "estilo_corte": "estilo lolita com saia rodada e cintura marcada",
+    "acessorios_visiveis": [
+      "chapéucoordinates",
+      "laço no pescoço",
+      "cetro/varinha"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Sakura Kinomoto do anime Cardcaptor Sakura, inspirada em trajes clássicos de boneca ou festa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4694.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.31,
+  "data_analise": "2026-07-30T05:50:37Z",
+  "data_criacao": "2026-07-30T02:50:37.569183-03:00"
+}

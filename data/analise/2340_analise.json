@@ -1,0 +1,36 @@
+{
+  "id": 2340,
+  "nome_original": "Fiona Guerreira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "verde",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia",
+      "ombreiras",
+      "cinto",
+      "luvas",
+      "caneleiras"
+    ],
+    "material_visual": "tecido sintético e detalhes que imitam metal/couro",
+    "estilo_corte": "estilo medieval guerreiro com saia curta assimétrica",
+    "acessorios_visiveis": [
+      "colar com pedra verde",
+      "fivela de cinto ornamentada",
+      "braceletes"
+    ],
+    "tematica_detalhada": "Versão guerreira da personagem Fiona do filme Shrek, mesclando elementos de fantasia medieval com referências escocesas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2340.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 73.2,
+  "data_analise": "2026-07-28T06:08:23Z",
+  "data_criacao": "2026-07-28T03:08:23.025372-03:00"
+}

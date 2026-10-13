@@ -1,0 +1,25 @@
+{
+  "id": 9612,
+  "nome_original": "Ana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "preto",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho e cetim",
+    "estilo_corte": "estilo princesa com corpete ajustado e saia volumosa",
+    "acessorios_visiveis": [
+      "laço no pescoço"
+    ],
+    "tematica_detalhada": "inspirada na personagem Ana do filme Frozen"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9612.jpg",
+  "data_analise": "2026-07-27T13:55:54Z"
+}

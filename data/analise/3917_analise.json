@@ -1,0 +1,29 @@
+{
+  "id": 3917,
+  "nome_original": "Bela Adormecida",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "cetim e tule com detalhes brilhantes",
+    "estilo_corte": "estilo princesa com cintura marcada, saia volumosa e decote com gola branca",
+    "acessorios_visiveis": [
+      "tiara dourada"
+    ],
+    "tematica_detalhada": "Fantasia da Bela Adormecida, inspirada na personagem Aurora da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3917.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.85,
+  "data_analise": "2026-07-27T17:53:54Z",
+  "data_criacao": "2026-07-27T14:53:54.357258-03:00"
+}

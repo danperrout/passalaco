@@ -1,0 +1,30 @@
+{
+  "id": 5271,
+  "nome_original": "Enfermeira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "touca"
+    ],
+    "material_visual": "tecido sintético com acabamento em renda e fitas de cetim",
+    "estilo_corte": "estilo baby doll com saia evasê e decote realçado por renda",
+    "acessorios_visiveis": [
+      "touca de enfermeira",
+      "laços decorativos"
+    ],
+    "tematica_detalhada": "fantasia sensual de enfermeira, baseada em estereótipos de festas à fantasia e cultura pop"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5271.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 22.54,
+  "data_analise": "2026-07-28T03:50:53Z",
+  "data_criacao": "2026-07-28T00:50:53.454796-03:00"
+}

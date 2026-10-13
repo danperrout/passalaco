@@ -1,0 +1,34 @@
+{
+  "id": 5598,
+  "nome_original": "Kamen Rider",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "capacete",
+      "peitoral",
+      "macacão",
+      "cinto",
+      "joelheiras"
+    ],
+    "material_visual": "tecido sintético fosco e material laminado metalizado",
+    "estilo_corte": "justo ao corpo com armadura sobreposta",
+    "acessorios_visiveis": [
+      "capacete com viseira",
+      "ombreiras",
+      "cinto com fivela"
+    ],
+    "tematica_detalhada": "Fantasia baseada na franquia japonesa Kamen Rider, apresentando estética de herói mascarado com elementos de armadura tecnológica/futurista"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5598.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 45.5,
+  "data_analise": "2026-07-29T07:52:26Z",
+  "data_criacao": "2026-07-29T04:52:26.070780-03:00"
+}

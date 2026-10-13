@@ -1,0 +1,31 @@
+{
+  "id": 5643,
+  "nome_original": "Deusa Grega",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul royal",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "braceletes",
+      "tiara/adorno de cabeça"
+    ],
+    "material_visual": "tecido sintético fluido com detalhes em material laminado dourado",
+    "estilo_corte": "corte império com drapeados no busto e comprimento longo",
+    "acessorios_visiveis": [
+      "tiara decorada",
+      "braceletes dourados"
+    ],
+    "tematica_detalhada": "fantasia inspirada na Antiguidade Clássica, com referências a divindades gregas ou egípcias"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5643.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.85,
+  "data_analise": "2026-07-28T02:55:16Z",
+  "data_criacao": "2026-07-27T23:55:16.844907-03:00"
+}

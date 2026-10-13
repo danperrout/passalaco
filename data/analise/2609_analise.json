@@ -1,0 +1,31 @@
+{
+  "id": 2609,
+  "nome_original": "Colete e Chapeu",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "marrom",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "camisa xadrez",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com aparência de lã no colete e algodão na camisa",
+    "estilo_corte": "corte clássico com colete ajustado e camisa de mangas longas",
+    "acessorios_visiveis": [
+      "botões"
+    ],
+    "tematica_detalhada": "estilo caipira ou camponês, referenciando festas juninas brasileiras ou visual country"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2609.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 146.83,
+  "data_analise": "2026-07-28T00:53:28Z",
+  "data_criacao": "2026-07-27T21:53:28.054714-03:00"
+}

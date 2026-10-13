@@ -1,0 +1,32 @@
+{
+  "id": 8752,
+  "nome_original": "Casal Presidiarios",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camiseta masculina",
+      "calça masculina",
+      "top feminino",
+      "saia feminina",
+      "duas toucas"
+    ],
+    "material_visual": "tecido sintético com estampa de listras",
+    "estilo_corte": "estilo casual e ajustado ao corpo",
+    "acessorios_visiveis": [
+      "toucas com numeração"
+    ],
+    "tematica_detalhada": "Casal de presidiários com referência ao uniforme clássico de prisioneiros com listras pretas e brancas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8752.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.54,
+  "data_analise": "2026-07-27T19:36:00Z",
+  "data_criacao": "2026-07-27T16:36:00.433095-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 7776,
+  "nome_original": "Fazendinha",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "camisa xadrez",
+      "chapéu"
+    ],
+    "material_visual": "jeans e palha",
+    "estilo_corte": "estilo camponês com jardineira",
+    "acessorios_visiveis": [
+      "chapéu de palha"
+    ],
+    "tematica_detalhada": "Fazendinha, remetendo a um pequeno agricultor ou caipira, com detalhes de animais como pintinho no bolso."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7776.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 106.69,
+  "data_analise": "2026-07-28T05:25:20Z",
+  "data_criacao": "2026-07-28T02:25:20.936596-03:00"
+}

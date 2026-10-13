@@ -1,0 +1,30 @@
+{
+  "id": 8534,
+  "nome_original": "Arlequina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "camiseta",
+      "short"
+    ],
+    "material_visual": "tecido sintético com leve brilho, possivelmente poliéster ou cetim",
+    "estilo_corte": "confortável e esportivo, estilo streetwear infantil",
+    "acessorios_visiveis": [
+      "nenhum"
+    ],
+    "tematica_detalhada": "fantasia inspirada na personagem Arlequina (Harley Quinn), com divisão de cores assimétrica e estampa gráfica na camiseta"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8534.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 5.33,
+  "data_analise": "2026-07-27T16:53:11Z",
+  "data_criacao": "2026-07-27T13:53:11.742598-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 3049,
+  "nome_original": "Rainha de Copas",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "veludo ou tecido aveludado",
+    "estilo_corte": "estilo patinadora com saia rodada e decote em V",
+    "acessorios_visiveis": [
+      "gola alta rígida"
+    ],
+    "tematica_detalhada": "Rainha de Copas, inspirada no personagem de Alice no País das Maravilhas, com elementos de naipes de cartas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3049.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.5,
+  "data_analise": "2026-07-30T04:24:18Z",
+  "data_criacao": "2026-07-30T01:24:18.508830-03:00"
+}

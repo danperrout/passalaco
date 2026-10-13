@@ -1,0 +1,30 @@
+{
+  "id": 539,
+  "nome_original": "Dr Caramujo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz",
+      "concha"
+    ],
+    "material_visual": "tecido sintético elastano e material texturizado para a concha",
+    "estilo_corte": "justo ao corpo (slim fit) com elemento volumoso frontal",
+    "acessorios_visiveis": [
+      "concha decorativa"
+    ],
+    "tematica_detalhada": "Fantasia de caracol, representando o molusco com sua característica concha espiralada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/539.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 30.12,
+  "data_analise": "2026-07-28T03:22:47Z",
+  "data_criacao": "2026-07-28T00:22:47.948849-03:00"
+}

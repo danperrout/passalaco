@@ -1,0 +1,30 @@
+{
+  "id": 8251,
+  "nome_original": "Gato Pelucia",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "pelúcia macia",
+    "estilo_corte": "estilo kigurumi / pijama integral",
+    "acessorios_visiveis": [
+      "máscara de gato integrada ao capuz",
+      "pantufas"
+    ],
+    "tematica_detalhada": "Gato de Cheshire da obra Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8251.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 65.29,
+  "data_analise": "2026-07-28T10:41:09Z",
+  "data_criacao": "2026-07-28T07:41:09.398269-03:00"
+}

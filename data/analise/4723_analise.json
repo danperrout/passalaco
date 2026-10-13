@@ -1,0 +1,31 @@
+{
+  "id": 4723,
+  "nome_original": "Mario",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "camiseta de manga longa",
+      "boné"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster",
+    "estilo_corte": "ajustado ao corpo, com macacão de alças",
+    "acessorios_visiveis": [
+      "boné com logo",
+      "botões amarelos"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Mario, da franquia de jogos da Nintendo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4723.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.78,
+  "data_analise": "2026-07-29T18:22:10Z",
+  "data_criacao": "2026-07-29T15:22:10.654544-03:00"
+}

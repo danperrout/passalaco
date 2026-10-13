@@ -1,0 +1,25 @@
+{
+  "id": 8686,
+  "nome_original": "Ajudante de Papai Noel",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "touca"
+    ],
+    "material_visual": "tecido sintético com acabamento em pelúcia",
+    "estilo_corte": "vestido curto com saia rodada e gola alta",
+    "acessorios_visiveis": [
+      "touca"
+    ],
+    "tematica_detalhada": "Ajudante do Papai Noel / Elfo de Natal"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8686.jpg",
+  "data_analise": "2026-07-27T13:38:22Z"
+}

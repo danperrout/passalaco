@@ -1,0 +1,29 @@
+{
+  "id": 9030,
+  "nome_original": "Junina Saia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia"
+    ],
+    "material_visual": "tecido xadrez e cetim com babados",
+    "estilo_corte": "blusa justa sem mangas e saia volumosa com camadas de babados",
+    "acessorios_visiveis": [
+      "tiara colorida"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, remetendo ao traje típico caipira estilizado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9030.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 27.58,
+  "data_analise": "2026-07-29T07:12:14Z",
+  "data_criacao": "2026-07-29T04:12:14.284041-03:00"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 8781,
+  "nome_original": "Mae e Filha Guerreira",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "capa",
+      "túnica",
+      "saia plissada",
+      "tiara"
+    ],
+    "material_visual": "material sintético com brilho semelhante ao couro e detalhes em pele artificial",
+    "estilo_corte": "corte medieval com saia curta e capelete",
+    "acessorios_visiveis": [
+      "tiaras",
+      "cinto",
+      "detalhes em pele nos ombros"
+    ],
+    "tematica_detalhada": "estilo guerreira medieval ou tribal, com referências a personagens de fantasia como vikings ou bárbaros"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8781.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 662.92,
+  "data_analise": "2026-07-29T14:03:57Z",
+  "data_criacao": "2026-07-29T11:03:57.998844-03:00"
+}

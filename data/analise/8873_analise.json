@@ -1,0 +1,32 @@
+{
+  "id": 8873,
+  "nome_original": "Casal Branca de Neve e Caçador",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido de princesa",
+      "casaco longo",
+      "calça"
+    ],
+    "material_visual": "tecidos sintéticos, possivelmente cetim e tule",
+    "estilo_corte": "vestido com saia volumida e corte reto para o traje masculino",
+    "acessorios_visiveis": [
+      "laço no cabelo"
+    ],
+    "tematica_detalhada": "Casal inspirado nos personagens Branca de Neve e o Caçador, referenciando contos de fadas e adaptações cinematográficas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8873.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.71,
+  "data_analise": "2026-07-27T19:31:04Z",
+  "data_criacao": "2026-07-27T16:31:04.662631-03:00"
+}

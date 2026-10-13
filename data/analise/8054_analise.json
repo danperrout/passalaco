@@ -1,0 +1,29 @@
+{
+  "id": 8054,
+  "nome_original": "Junina Mf",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com rendas e apliques",
+    "estilo_corte": "vestido rodado com babados e mangas bufantes",
+    "acessorios_visiveis": [
+      "tiara colorida com fitas"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina feminina, inspirada no traje caipira tradicional brasileiro com elementos lúdicos e coloridos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8054.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.6,
+  "data_analise": "2026-07-29T06:53:38Z",
+  "data_criacao": "2026-07-29T03:53:38.120053-03:00"
+}

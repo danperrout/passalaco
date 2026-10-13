@@ -1,0 +1,28 @@
+{
+  "id": 8569,
+  "nome_original": "Aladim",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "branco",
+      "dourado",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com detalhes em bordado dourado",
+    "estilo_corte": "colete aberto sem mangas e calça estilo harém folgada",
+    "acessorios_visiveis": [
+      "fez/chapéu vermelho"
+    ],
+    "tematica_detalhada": "inspirada no personagem Aladim, com estética árabe clássica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8569.jpg",
+  "data_analise": "2026-07-27T13:39:06Z"
+}

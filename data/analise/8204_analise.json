@@ -1,0 +1,32 @@
+{
+  "id": 8204,
+  "nome_original": "Unicornio",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "lilás",
+      "rosa",
+      "verde",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia tutu"
+    ],
+    "material_visual": "tule, cetim e paetês",
+    "estilo_corte": "blusa regata ajustada com saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "tiara de unicórnio com chifre e flores"
+    ],
+    "tematica_detalhada": "fantasia infantil de unicórnio com estética colorida e mágica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8204.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.03,
+  "data_analise": "2026-07-30T08:39:52Z",
+  "data_criacao": "2026-07-30T05:39:52.100052-03:00"
+}

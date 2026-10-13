@@ -1,0 +1,29 @@
+{
+  "id": 4630,
+  "nome_original": "Astronauta",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prata",
+      "cinza claro"
+    ],
+    "pecas_inclusas": [
+      "macacão completo",
+      "capacete"
+    ],
+    "material_visual": "tecido sintético com acabamento metalizado e brilhante, assemelhando-se a material aluminizado",
+    "estilo_corte": "corte folgado e volumoso, característico de trajes de proteção ou espaciais",
+    "acessorios_visiveis": [
+      "capacete com visor"
+    ],
+    "tematica_detalhada": "Astronauta, explorador espacial, inspirada em trajes de voo da NASA ou ficção científica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4630.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 16.57,
+  "data_analise": "2026-07-27T16:56:21Z",
+  "data_criacao": "2026-07-27T13:56:21.202801-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 8936,
+  "nome_original": "Safari",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com aparência de sarja ou algodão",
+    "estilo_corte": "vestido curto com botões frontais, mangas curtas e cintura marcada",
+    "acessorios_visiveis": [
+      "chapéu de safari",
+      "cinto com estampa animal",
+      "detalhes nas mangas com estampa animal"
+    ],
+    "tematica_detalhada": "exploradora de safari, remetendo a guias de natureza ou personagens de aventura na selva"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8936.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 33.08,
+  "data_analise": "2026-07-30T05:14:09Z",
+  "data_criacao": "2026-07-30T02:14:09.708420-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 7251,
+  "nome_original": "Espanhola",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado e rendas",
+    "estilo_corte": "estilo ombro a ombro, curto, com saia rodada em babados",
+    "acessorios_visiveis": [
+      "tiara com flor vermelha"
+    ],
+    "tematica_detalhada": "fantasia de dançarina espanhola, inspirada no estilo Flamenco"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7251.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 35.97,
+  "data_analise": "2026-07-28T03:55:20Z",
+  "data_criacao": "2026-07-28T00:55:20.455410-03:00"
+}

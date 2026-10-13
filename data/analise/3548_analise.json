@@ -1,0 +1,31 @@
+{
+  "id": 3548,
+  "nome_original": "Coelho da Alice",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "corte clássico de alfaiataria estilizada",
+    "acessorios_visiveis": [
+      "orelhas de coelho",
+      "detalhes dourados no paletó"
+    ],
+    "tematica_detalhada": "Coelho Branco da obra Alice no País das Maravilhas, caracterizado por trajes formais e orelhas de animal"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3548.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 38.22,
+  "data_analise": "2026-07-28T00:34:10Z",
+  "data_criacao": "2026-07-27T21:34:10.862322-03:00"
+}

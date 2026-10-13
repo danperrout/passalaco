@@ -1,0 +1,27 @@
+{
+  "id": 9627,
+  "nome_original": "Aladim",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "calça",
+      "gorro"
+    ],
+    "material_visual": "tecido sintético com detalhes dourados",
+    "estilo_corte": "estilo oriental com calça larga e colete sem mangas",
+    "acessorios_visiveis": [
+      "gorro com borda dourada"
+    ],
+    "tematica_detalhada": "fantasia inspirada no personagem Aladim"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9627.jpg",
+  "data_analise": "2026-07-27T13:39:13Z"
+}

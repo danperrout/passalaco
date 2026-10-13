@@ -1,0 +1,26 @@
+{
+  "id": 3117,
+  "nome_original": "Chinesa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "rosa choque"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido sintético com brilhos ou lantejoulas",
+    "estilo_corte": "estilo qipao com gola alta, mangas curtas e fenda lateral",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia inspirada na cultura chinesa, baseada no vestido tradicional Cheongsam/Qipao"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3117.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.24,
+  "data_analise": "2026-07-27T21:02:03Z",
+  "data_criacao": "2026-07-27T18:02:03.062441-03:00"
+}

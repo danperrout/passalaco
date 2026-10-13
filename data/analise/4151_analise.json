@@ -1,0 +1,32 @@
+{
+  "id": 4151,
+  "nome_original": "Bobo da Corte",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "azul",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "chapéu de bobo da corte",
+      "túnica",
+      "calças largas"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado",
+    "estilo_corte": "estilo bufante com golas e punhos franzidos e pontas triangulares",
+    "acessorios_visiveis": [
+      "guizos nas pontas do chapéu"
+    ],
+    "tematica_detalhada": "Bobo da Corte clássico, inspirado no entretenimento medieval e renascentista, caracterizado por cores vibrantes e formas exageradas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4151.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.65,
+  "data_analise": "2026-07-27T18:16:53Z",
+  "data_criacao": "2026-07-27T15:16:53.525519-03:00"
+}

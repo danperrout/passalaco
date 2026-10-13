@@ -1,0 +1,29 @@
+{
+  "id": 2726,
+  "nome_original": "Monica",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "pelúcia do Sansão"
+    ],
+    "material_visual": "tecido sintético, possivelmente malha ou poliéster",
+    "estilo_corte": "vestido curto sem mangas com acabamento em renda na barra",
+    "acessorios_visiveis": [
+      "pelúcia de coelho azul"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Mônica, da Turma da Mônica, incluindo seu coelho Sansão"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2726.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.72,
+  "data_analise": "2026-07-29T22:49:51Z",
+  "data_criacao": "2026-07-29T19:49:51.810212-03:00"
+}

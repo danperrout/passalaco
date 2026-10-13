@@ -1,0 +1,31 @@
+{
+  "id": 8445,
+  "nome_original": "Hela",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capa",
+      "tiara/elmo"
+    ],
+    "material_visual": "tecido sintético com elastano e acabamento acetinado",
+    "estilo_corte": "ajustado ao corpo (bodycon) com recortes nos ombros",
+    "acessorios_visiveis": [
+      "elmo com chifres estilizados",
+      "capa longa"
+    ],
+    "tematica_detalhada": "Personagem Hela, a Deusa da Morte, inspirada no universo Marvel (Thor: Ragnarok)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8445.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 64.47,
+  "data_analise": "2026-07-28T13:37:32Z",
+  "data_criacao": "2026-07-28T10:37:32.295041-03:00"
+}

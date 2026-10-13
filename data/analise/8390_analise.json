@@ -1,0 +1,29 @@
+{
+  "id": 8390,
+  "nome_original": "Condessa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "luvas longas"
+    ],
+    "material_visual": "veludo com detalhes em renda",
+    "estilo_corte": "corte assimétrico na barra, decote ombro a ombro com alças finas",
+    "acessorios_visiveis": [
+      "fascínio de cabelo preto"
+    ],
+    "tematica_detalhada": "estilo gótico vitoriano, referenciando a figura de uma condessa vampira ou nobre sombria"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8390.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.72,
+  "data_analise": "2026-07-28T01:30:05Z",
+  "data_criacao": "2026-07-27T22:30:05.654399-03:00"
+}

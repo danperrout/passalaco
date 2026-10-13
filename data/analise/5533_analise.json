@@ -1,0 +1,33 @@
+{
+  "id": 5533,
+  "nome_original": "Robin",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou poliéster",
+    "estilo_corte": "vestido curto com saia rodada e corpete ajustado",
+    "acessorios_visiveis": [
+      "cinto amarelo",
+      "máscara preta",
+      "capa preta"
+    ],
+    "tematica_detalhada": "fantasia feminina inspirada no personagem Robin, do universo DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5533.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 77.35,
+  "data_analise": "2026-07-30T04:55:47Z",
+  "data_criacao": "2026-07-30T01:55:47.627246-03:00"
+}

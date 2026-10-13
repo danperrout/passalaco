@@ -1,0 +1,30 @@
+{
+  "id": 3123,
+  "nome_original": "Chines",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "cetim brilhante",
+    "estilo_corte": "estilo oriental com gola alta e corte reto",
+    "acessorios_visiveis": [
+      "chapéu combinando"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na cultura chinesa tradicional, remetendo a vestimentas festivas ou imperiais com padrões ornamentais dourados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3123.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.16,
+  "data_analise": "2026-07-27T20:58:28Z",
+  "data_criacao": "2026-07-27T17:58:28.306644-03:00"
+}

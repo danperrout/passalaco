@@ -1,0 +1,32 @@
+{
+  "id": 9977,
+  "nome_original": "Pierrot",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "tiara",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda e pompons",
+    "estilo_corte": "estilo baby-doll com saia volumosa e corpete ajustado",
+    "acessorios_visiveis": [
+      "tiara com pompom",
+      "luvas curtas",
+      "colarinho franzido"
+    ],
+    "tematica_detalhada": "estilização moderna do Pierrot, personagem da Commedia dell'arte, com estética gótica suave ou lolita"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9977.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 27.72,
+  "data_analise": "2026-07-30T03:26:43Z",
+  "data_criacao": "2026-07-30T00:26:43.806120-03:00"
+}

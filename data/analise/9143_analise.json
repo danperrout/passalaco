@@ -1,0 +1,31 @@
+{
+  "id": 9143,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "arranjo de cabeça"
+    ],
+    "material_visual": "tecido com lantejoulas ou glitter dourado e elementos sintéticos no acessório de cabeça",
+    "estilo_corte": "vestido justo ao corpo (estilo coluna) com comprimento médio",
+    "acessorios_visiveis": [
+      "auréola de raios dourados",
+      "flores vermelhas na cabeça"
+    ],
+    "tematica_detalhada": "fantasia com temática celestial ou religiosa, remetendo a representações de santos, anjos ou divindades com uso de auréola e cores simbólicas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9143.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.85,
+  "data_analise": "2026-07-27T19:21:10Z",
+  "data_criacao": "2026-07-27T16:21:10.353628-03:00"
+}

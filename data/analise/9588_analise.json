@@ -1,0 +1,27 @@
+{
+  "id": 9588,
+  "nome_original": "Tiara",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "tiara"
+    ],
+    "material_visual": "veludo ou tecido macio acolchoado",
+    "estilo_corte": "estilo gomos arredondados/acolchoado",
+    "acessorios_visiveis": [
+      "detalhes metálicos pequenos"
+    ],
+    "tematica_detalhada": "acessório de cabelo versátil, podendo ser usado em fantasias de luxo, góticas ou como acessório de moda casual"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9588.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.58,
+  "data_analise": "2026-07-30T08:07:44Z",
+  "data_criacao": "2026-07-30T05:07:44.827909-03:00"
+}

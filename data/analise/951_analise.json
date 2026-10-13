@@ -1,0 +1,34 @@
+{
+  "id": 951,
+  "nome_original": "Napoleão",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "chapéu",
+      "camisa"
+    ],
+    "material_visual": "cetim ou poliéster com brilho",
+    "estilo_corte": "estilo militar imperial com gola alta e punhos",
+    "acessorios_visiveis": [
+      "chapéu tricórnio",
+      "dragonas douradas",
+      "botões ornamentais"
+    ],
+    "tematica_detalhada": "Fantasia de Napoleão Bonaparte, inspirada em uniformes militares franceses do período napoleônico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/951.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.55,
+  "data_analise": "2026-07-29T23:29:10Z",
+  "data_criacao": "2026-07-29T20:29:10.127504-03:00"
+}

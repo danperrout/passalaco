@@ -1,0 +1,32 @@
+{
+  "id": 3327,
+  "nome_original": "Colete e Jabu",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "amarelo",
+      "vermelho",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "camisa xadrez",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético imitando couro e algodão",
+    "estilo_corte": "estilo western com franjas na barra do colete",
+    "acessorios_visiveis": [
+      "chapéu de cowboy"
+    ],
+    "tematica_detalhada": "Fantasia de Cowboy/Velho Oeste, referenciando a cultura rural norte-americana"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3327.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 34.77,
+  "data_analise": "2026-07-28T00:55:02Z",
+  "data_criacao": "2026-07-27T21:55:02.092132-03:00"
+}

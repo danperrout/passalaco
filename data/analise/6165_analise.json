@@ -1,0 +1,30 @@
+{
+  "id": 6165,
+  "nome_original": "Baiana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "turbante"
+    ],
+    "material_visual": "renda e tecidos leves, possivelmente algodão ou poliéster com detalhes bordados",
+    "estilo_corte": "vestido longo com saia em camadas (godê/em nível), corpete com ombros de fora e babados",
+    "acessorios_visiveis": [
+      "colar de contas coloridas",
+      "pulseira",
+      "turbante/torso"
+    ],
+    "tematica_detalhada": "Fantasia de Baiana, inspirada nas vestimentas tradicionais das baianas de acarajé, com forte referência à cultura afro-brasileira e ao candomblé."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6165.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 8.2,
+  "data_analise": "2026-07-27T16:59:01Z",
+  "data_criacao": "2026-07-27T13:59:01.813522-03:00"
+}

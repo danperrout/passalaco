@@ -1,0 +1,31 @@
+{
+  "id": 7973,
+  "nome_original": "Mulan",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde limão",
+      "azul",
+      "vinho"
+    ],
+    "pecas_inclusas": [
+      "vestido estilo quimono",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético brilhante com acabamento acetinado",
+    "estilo_corte": "corte largo com mangas amplas inspirado em vestimentas tradicionais asiáticas",
+    "acessorios_visiveis": [
+      "faixa abdominal (obi)",
+      "adereço de cabelo"
+    ],
+    "tematica_detalhada": "Fantasia baseada na personagem Mulan, referenciando a cultura tradicional chinesa através de um quimono estilizado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7973.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.93,
+  "data_analise": "2026-07-29T23:16:18Z",
+  "data_criacao": "2026-07-29T20:16:18.297201-03:00"
+}

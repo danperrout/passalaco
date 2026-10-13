@@ -1,0 +1,28 @@
+{
+  "id": 6227,
+  "nome_original": "Star Wars Princesa Leia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster",
+    "estilo_corte": "corte reto e fluido com mangas longas e capuz integrado",
+    "acessorios_visiveis": [
+      "cinto branco"
+    ],
+    "tematica_detalhada": "Fantasia da Princesa Leia, personagem da franquia Star Wars, inspirada em seu traje clássico branco"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6227.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.15,
+  "data_analise": "2026-07-30T07:23:47Z",
+  "data_criacao": "2026-07-30T04:23:47.056788-03:00"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 9738,
+  "nome_original": "Chapolin",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Amarelo"
+    ],
+    "pecas_inclusas": [
+      "Blusa de manga longa",
+      "Shorts",
+      "Calça",
+      "Capuz"
+    ],
+    "material_visual": "Tecido sintético com aparência de poliéster ou elastano",
+    "estilo_corte": "Corte casual e solto, estilo traje de super-herói simplificado",
+    "acessorios_visiveis": [
+      "Antenas no capuz",
+      "Martelo de plástico",
+      "Logotipo de coração com letras CH"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Chapolin Colorado, herói cômico criado por Roberto Gómez Bolaños"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9738.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 58.3,
+  "data_analise": "2026-07-27T20:29:02Z",
+  "data_criacao": "2026-07-27T17:29:02.670450-03:00"
+}

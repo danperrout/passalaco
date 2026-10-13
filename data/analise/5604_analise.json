@@ -1,0 +1,25 @@
+{
+  "id": 5604,
+  "nome_original": "Ana",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "magenta",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim e tule",
+    "estilo_corte": "estilo princesa com saia volumosa e gola alta",
+    "acessorios_visiveis": [
+      "detalhes ornamentais no corpete"
+    ],
+    "tematica_detalhada": "fantasia temática inspirada em personagens de fantasia ou contos de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5604.jpg",
+  "data_analise": "2026-07-27T13:55:43Z"
+}

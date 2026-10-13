@@ -1,0 +1,31 @@
+{
+  "id": 8450,
+  "nome_original": "Baby Shark",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza",
+      "branco",
+      "creme"
+    ],
+    "pecas_inclusas": [
+      "macacão/mortalha com capuz"
+    ],
+    "material_visual": "tecido peluciado ou soft, de aspecto macio e aveludado",
+    "estilo_corte": "modelagem folgada e volumosa, estilo kigurumi/pijama",
+    "acessorios_visiveis": [
+      "barbatanas laterais",
+      "cauda",
+      "capuz com detalhes de olhos e boca"
+    ],
+    "tematica_detalhada": "personagem Baby Shark, baseado na popular música infantil do fenômeno cultural global Baby Shark"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8450.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 13.99,
+  "data_analise": "2026-07-27T16:58:34Z",
+  "data_criacao": "2026-07-27T13:58:34.749938-03:00"
+}

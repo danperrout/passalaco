@@ -1,0 +1,29 @@
+{
+  "id": 7478,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido estampado com chita ou tricoline, rendas e fitas",
+    "estilo_corte": "vestido rodado com mangas bufantes e babados na barra",
+    "acessorios_visiveis": [
+      "chapéu de palha decorado"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina brasileira, representando a vestimenta típica caipira com estampas de poá e xadrez"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7478.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.41,
+  "data_analise": "2026-07-29T00:13:26Z",
+  "data_criacao": "2026-07-28T21:13:26.338793-03:00"
+}

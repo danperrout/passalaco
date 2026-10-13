@@ -1,0 +1,31 @@
+{
+  "id": 9336,
+  "nome_original": "Melindrosa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Danças",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prata",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "luvas"
+    ],
+    "material_visual": "paetês ou lantejoulas metálicas",
+    "estilo_corte": "estilo reto, curto, com alças finas",
+    "acessorios_visiveis": [
+      "tiara com pluma",
+      "colar choker",
+      "luvas longas"
+    ],
+    "tematica_detalhada": "Melindrosa dos anos 20 (Flapper girl), remetendo à Era do Jazz e ao estilo Art Déco"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9336.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.74,
+  "data_analise": "2026-07-29T21:45:06Z",
+  "data_criacao": "2026-07-29T18:45:06.462756-03:00"
+}

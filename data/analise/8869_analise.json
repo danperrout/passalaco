@@ -1,0 +1,29 @@
+{
+  "id": 8869,
+  "nome_original": "Madame Esqueleto",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "casaco longo",
+      "top interno"
+    ],
+    "material_visual": "tecido sintético com estampa de listras finas",
+    "estilo_corte": "estilo sobretudo com gola alta estruturada e assimétrica",
+    "acessorios_visiveis": [
+      "anéis"
+    ],
+    "tematica_detalhada": "estética gótica moderna com referências a personagens sombrios e elegantes, como a Madame Esqueleto"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8869.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 231.55,
+  "data_analise": "2026-07-29T13:09:11Z",
+  "data_criacao": "2026-07-29T10:09:11.992396-03:00"
+}

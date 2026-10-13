@@ -1,0 +1,32 @@
+{
+  "id": 4028,
+  "nome_original": "Tigresa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "bege",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "luvas longas",
+      "tiara de orelhas"
+    ],
+    "material_visual": "tecido sintético com estampa animal print e tule na saia",
+    "estilo_corte": "vestido curto justo com alças finas e saia volumosa em camadas de tule",
+    "acessorios_visiveis": [
+      "tiara com orelhas de tigre",
+      "luvas longas com estampa de tigre"
+    ],
+    "tematica_detalhada": "Fantasia de Tigresa, com foco em elementos animalescos e estética de festa temática ou cosplay"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4028.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 359.45,
+  "data_analise": "2026-07-30T08:20:55Z",
+  "data_criacao": "2026-07-30T05:20:55.504564-03:00"
+}

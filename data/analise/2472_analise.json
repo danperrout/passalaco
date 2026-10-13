@@ -1,0 +1,31 @@
+{
+  "id": 2472,
+  "nome_original": "Halloween",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "bermuda",
+      "capa"
+    ],
+    "material_visual": "tecido sintético com brilho metálico na capa e malha nas roupas",
+    "estilo_corte": "corte casual com gola redonda e capeleta curta com bordas irregulares",
+    "acessorios_visiveis": [
+      "capa prateada"
+    ],
+    "tematica_detalhada": "fantasia infantil inspirada em vampiros ou personagens góticos, utilizando padrões geométricos em zigue-zague"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2472.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 269.36,
+  "data_analise": "2026-07-28T12:12:23Z",
+  "data_criacao": "2026-07-28T09:12:23.887717-03:00"
+}

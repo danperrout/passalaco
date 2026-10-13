@@ -1,0 +1,34 @@
+{
+  "id": 669,
+  "nome_original": "Mexicano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "chapéu",
+      "lenço"
+    ],
+    "material_visual": "tecido sintético com brilho na camisa e tecido fosco na calça",
+    "estilo_corte": "camisa de mangas longas com punhos ajustados e calça de corte reto",
+    "acessorios_visiveis": [
+      "chapéu de aba larga",
+      "lenço vermelho no pescoço",
+      "cinto dourado"
+    ],
+    "tematica_detalhada": "fantasia inspirada no traje típico de charro ou vaqueiro mexicano"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/669.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 128.97,
+  "data_analise": "2026-07-29T22:02:27Z",
+  "data_criacao": "2026-07-29T19:02:27.256609-03:00"
+}

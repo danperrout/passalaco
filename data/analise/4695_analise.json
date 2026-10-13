@@ -1,0 +1,30 @@
+{
+  "id": 4695,
+  "nome_original": "Caçador de Vampiro",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "casaco longo",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente poliéster ou cetim",
+    "estilo_corte": "estilo gótico vitoriano com sobretudo longo e corte reto",
+    "acessorios_visiveis": [
+      "gola alta ornamentada"
+    ],
+    "tematica_detalhada": "caçador de vampiros com estética neoclássica/gótica, remetendo a personagens como Van Helsing ou estilo steampunk sombrio"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4695.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.05,
+  "data_analise": "2026-07-27T18:45:10Z",
+  "data_criacao": "2026-07-27T15:45:10.901966-03:00"
+}

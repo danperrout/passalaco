@@ -1,0 +1,30 @@
+{
+  "id": 4625,
+  "nome_original": "Malandro",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "calça"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente poliéster ou algodão",
+    "estilo_corte": "camiseta de manga curta com gola redonda e calça de corte reto",
+    "acessorios_visiveis": [
+      "chapéu panamá",
+      "peruca preta"
+    ],
+    "tematica_detalhada": "Fantasia de Malandro, referenciando a cultura boêmia do Rio de Janeiro e a figura do malandro carioca"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4625.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 133.91,
+  "data_analise": "2026-07-29T16:31:47Z",
+  "data_criacao": "2026-07-29T13:31:47.626521-03:00"
+}

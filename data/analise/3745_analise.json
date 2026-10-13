@@ -1,0 +1,28 @@
+{
+  "id": 3745,
+  "nome_original": "Capetinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "vestido curto com gola adornada e barra irregular/rasgada",
+    "acessorios_visiveis": [
+      "tiara com chifres"
+    ],
+    "tematica_detalhada": "fantasia de capetinha/diabo, referenciando figuras mitológicas do submundo com estética de festa à fantasia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3745.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.32,
+  "data_analise": "2026-07-27T18:58:15Z",
+  "data_criacao": "2026-07-27T15:58:15.852507-03:00"
+}

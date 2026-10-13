@@ -1,0 +1,27 @@
+{
+  "id": 10060,
+  "nome_original": "Wandinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "mistura de material sintético brilhante no busto e tule ou organza na saia",
+    "estilo_corte": "corte evasê com saia em camadas e gola estruturada",
+    "acessorios_visiveis": [
+      "gola com babados"
+    ],
+    "tematica_detalhada": "fantasia inspirada na personagem Wandinha Addams, com estética gótica moderna"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10060.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.19,
+  "data_analise": "2026-07-30T08:54:06Z",
+  "data_criacao": "2026-07-30T05:54:06.592204-03:00"
+}

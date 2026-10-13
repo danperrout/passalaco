@@ -1,0 +1,31 @@
+{
+  "id": 664,
+  "nome_original": "Gatinha Marie",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia",
+      "tiara"
+    ],
+    "material_visual": "tecido sintético com detalhes em pelúcia",
+    "estilo_corte": "estilo baby-doll com saia curta e rodada",
+    "acessorios_visiveis": [
+      "tiara com orelhas e laço",
+      "coleira"
+    ],
+    "tematica_detalhada": "Fantasia baseada na personagem Gatinha Marie, do filme Aristogatas da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/664.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 201.35,
+  "data_analise": "2026-07-28T10:24:40Z",
+  "data_criacao": "2026-07-28T07:24:40.837873-03:00"
+}

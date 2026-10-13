@@ -1,0 +1,33 @@
+{
+  "id": 9983,
+  "nome_original": "Russel Up Altas Aventuras",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "bermuda",
+      "boné"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster",
+    "estilo_corte": "corte infantil casual, camisa de manga curta com gola e bermuda solta",
+    "acessorios_visiveis": [
+      "lenço laranja",
+      "bandoleira colorida com emblemas",
+      "boné branco"
+    ],
+    "tematica_detalhada": "Personagem Russell do filme Up: Altas Aventuras, representando um explorador do grupo de escoteiros"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9983.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 83.31,
+  "data_analise": "2026-07-30T05:06:05Z",
+  "data_criacao": "2026-07-30T02:06:05.443580-03:00"
+}

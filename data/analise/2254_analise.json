@@ -1,0 +1,30 @@
+{
+  "id": 2254,
+  "nome_original": "Mosqueteira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vinho",
+      "dourado",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com acabamento em renda ou galão dourado",
+    "estilo_corte": "vestido curto com mangas amplas estilo sino e decote quadrado",
+    "acessorios_visiveis": [
+      "chapéu tricórnio"
+    ],
+    "tematica_detalhada": "fantasia de Mosqueteira, inspirada na indumentária militar francesa do século XVII, com referências a personagens como os Três Mosqueteiros"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2254.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.58,
+  "data_analise": "2026-07-29T23:09:49Z",
+  "data_criacao": "2026-07-29T20:09:49.037794-03:00"
+}

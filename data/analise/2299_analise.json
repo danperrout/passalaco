@@ -1,0 +1,27 @@
+{
+  "id": 2299,
+  "nome_original": "Princesa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "cetim e tule com rendas aplicadas",
+    "estilo_corte": "estilo princesa com cintura marcada, mangas curtas bufantes e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara/coroa dourada"
+    ],
+    "tematica_detalhada": "Fantasia de princesa clássica, remetendo a contos de fadas e arquétipos de realeza"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2299.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.28,
+  "data_analise": "2026-07-30T03:58:23Z",
+  "data_criacao": "2026-07-30T00:58:23.896991-03:00"
+}

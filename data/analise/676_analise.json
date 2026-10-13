@@ -1,0 +1,30 @@
+{
+  "id": 676,
+  "nome_original": "Guarda",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga curta",
+      "calça"
+    ],
+    "material_visual": "tecido sintético fosco com fitas reflexivas",
+    "estilo_corte": "corte reto e utilitário, estilo uniforme",
+    "acessorios_visiveis": [
+      "colete de faixas reflexivas",
+      "patch no braço"
+    ],
+    "tematica_detalhada": "uniforme de guarda de trânsito, vigilante ou agente de segurança operacional"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/676.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.85,
+  "data_analise": "2026-07-28T11:30:23Z",
+  "data_criacao": "2026-07-28T08:30:23.970236-03:00"
+}

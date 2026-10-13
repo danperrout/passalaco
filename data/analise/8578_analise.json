@@ -1,0 +1,31 @@
+{
+  "id": 8578,
+  "nome_original": "Capitao America",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "camiseta",
+      "calça"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou elastano",
+    "estilo_corte": "ajustado ao corpo, estilo macacão ou conjunto de duas peças",
+    "acessorios_visiveis": [
+      "máscara com a letra A"
+    ],
+    "tematica_detalhada": "Super-herói Capitão América, personagem da Marvel Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8578.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 71.19,
+  "data_analise": "2026-07-27T19:09:57Z",
+  "data_criacao": "2026-07-27T16:09:57.302311-03:00"
+}

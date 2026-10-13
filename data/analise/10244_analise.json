@@ -1,0 +1,29 @@
+{
+  "id": 10244,
+  "nome_original": "Junina Saia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com rendas e detalhes em fitas",
+    "estilo_corte": "modelo tomara que caia com saia rodada e curta",
+    "acessorios_visiveis": [
+      "tiara com flores e fitas"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, estilo caipira estilizado/moderno"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10244.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 39.99,
+  "data_analise": "2026-07-29T07:46:27Z",
+  "data_criacao": "2026-07-29T04:46:27.716275-03:00"
+}

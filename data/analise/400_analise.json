@@ -1,0 +1,31 @@
+{
+  "id": 400,
+  "nome_original": "Chun Li",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Cosplay",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "cetim ou tecido sintético com brilho",
+    "estilo_corte": "estilo qipao modificado com corte curto e cintura marcada",
+    "acessorios_visiveis": [
+      "faixa na cintura",
+      "bordados dourados"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Chun-Li da série Street Fighter, com referências ao vestuário tradicional chinês"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/400.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 38.95,
+  "data_analise": "2026-07-27T21:58:25Z",
+  "data_criacao": "2026-07-27T18:58:25.276063-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 7354,
+  "nome_original": "Cleopatra",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "peruca"
+    ],
+    "material_visual": "cetim, lurex metálico e tule",
+    "estilo_corte": "túnica longa com mangas fluidas e cintura marcada",
+    "acessorios_visiveis": [
+      "peruca preta com franja e adornos",
+      "colar ornamentado"
+    ],
+    "tematica_detalhada": "Fantasia de Cleópatra, inspirada na realeza do Antigo Egito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7354.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 67.29,
+  "data_analise": "2026-07-27T23:04:33Z",
+  "data_criacao": "2026-07-27T20:04:33.009872-03:00"
+}

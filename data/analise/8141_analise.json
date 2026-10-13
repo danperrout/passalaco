@@ -1,0 +1,28 @@
+{
+  "id": 8141,
+  "nome_original": "Junina Saia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda e fitas",
+    "estilo_corte": "vestido curto com saia rodada e corpete ajustado",
+    "acessorios_visiveis": [
+      "tiara floral com fitas"
+    ],
+    "tematica_detalhada": "Festa Junina estilizada, com referências à cultura caipira brasileira em versão moderna e colorida"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8141.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 29.17,
+  "data_analise": "2026-07-29T07:04:48Z",
+  "data_criacao": "2026-07-29T04:04:48.824004-03:00"
+}

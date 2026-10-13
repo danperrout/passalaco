@@ -1,0 +1,35 @@
+{
+  "id": 2252,
+  "nome_original": "Palhaço",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "cartola",
+      "paletó",
+      "colete",
+      "calça",
+      "gravata borboleta"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou poliéster",
+    "estilo_corte": "corte clássico de palhaço circense com listras verticais e cores contrastantes",
+    "acessorios_visiveis": [
+      "cartola listrada",
+      "gravata borboleta gigante"
+    ],
+    "tematica_detalhada": "palhaço clássico de circo, com estética vibrante e lúdica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2252.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.76,
+  "data_analise": "2026-07-30T01:49:49Z",
+  "data_criacao": "2026-07-29T22:49:49.202888-03:00"
+}

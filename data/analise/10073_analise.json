@@ -1,0 +1,26 @@
+{
+  "id": 10073,
+  "nome_original": "Carta de Baralho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica retangular"
+    ],
+    "material_visual": "tecido sintético ou plástico com aparência rígida",
+    "estilo_corte": "corte reto e retangular, simulando a forma de uma carta",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia de carta de baralho, referenciando elementos de jogos de cartas ou personagens como os do País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10073.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.19,
+  "data_analise": "2026-07-27T19:29:37Z",
+  "data_criacao": "2026-07-27T16:29:37.212419-03:00"
+}

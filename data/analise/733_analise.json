@@ -1,0 +1,37 @@
+{
+  "id": 733,
+  "nome_original": "India",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "amarelo",
+      "laranja",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia curta",
+      "estojos de braço",
+      "estojos de perna",
+      "cocar"
+    ],
+    "material_visual": "miçangas, tecido sintético, plumas e detalhes em imitação de osso ou marfim",
+    "estilo_corte": "estilo festival/carnaval, com cortes curtos e ajustados ao corpo",
+    "acessorios_visiveis": [
+      "colar de miçangas",
+      "cocar ornamentado",
+      "braceletes",
+      "tornozeleiras"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em representações estilizadas de povos indígenas, com forte influência de trajes de Carnaval e festivais, utilizando elementos ornamentais como penas e contas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/733.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 123.45,
+  "data_analise": "2026-07-28T15:40:11Z",
+  "data_criacao": "2026-07-28T12:40:11.299306-03:00"
+}

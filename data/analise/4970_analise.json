@@ -1,0 +1,32 @@
+{
+  "id": 4970,
+  "nome_original": "Pequeno Principe",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "dourado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "camisa com jabot",
+      "coroa"
+    ],
+    "material_visual": "tecido acetinado com brilho e coroa em material glitterizado",
+    "estilo_corte": "estilo militar clássico com gola e punhos contrastantes",
+    "acessorios_visiveis": [
+      "coroa dourada com pedras azuis"
+    ],
+    "tematica_detalhada": "fantasia infantil inspirada no personagem O Pequeno Príncipe, remetendo a trajes realeza clássicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4970.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 228.95,
+  "data_analise": "2026-07-30T03:06:28Z",
+  "data_criacao": "2026-07-30T00:06:28.674837-03:00"
+}

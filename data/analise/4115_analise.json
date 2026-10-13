@@ -1,0 +1,32 @@
+{
+  "id": 4115,
+  "nome_original": "Star Wars Jedi Exila",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul royal",
+      "dourado",
+      "cinza"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calças",
+      "protetores de braço"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado e detalhes que imitam couro ou metal",
+    "estilo_corte": "ajustado ao corpo com camadas sobrepostas e detalhes de amarrações na cintura",
+    "acessorios_visiveis": [
+      "protetores de antebraço",
+      "cinturão estilizado"
+    ],
+    "tematica_detalhada": "Inspirada no universo Star Wars, especificamente em um guerreiro Jedi exilado, misturando elementos de vestes monásticas com armadura leve"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4115.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 30.02,
+  "data_analise": "2026-07-30T07:22:10Z",
+  "data_criacao": "2026-07-30T04:22:10.968437-03:00"
+}

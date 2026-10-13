@@ -1,0 +1,30 @@
+{
+  "id": 4252,
+  "nome_original": "Ursinho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "rosa",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "modelagem ampla e confortável estilo kigurumi",
+    "acessorios_visiveis": [
+      "orelhas no capuz",
+      "detalhes de garras nos pés"
+    ],
+    "tematica_detalhada": "fantasia de urso pardo estilizado para bebês"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4252.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.39,
+  "data_analise": "2026-07-30T08:41:50Z",
+  "data_criacao": "2026-07-30T05:41:50.924364-03:00"
+}

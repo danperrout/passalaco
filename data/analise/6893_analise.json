@@ -1,0 +1,29 @@
+{
+  "id": 6893,
+  "nome_original": "Astronauta",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prata",
+      "cinza claro"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "tecido metalizado com textura granulada/brilhante",
+    "estilo_corte": "corte folgado estilo jumpsuit com capuz integrado e ombros estruturados",
+    "acessorios_visiveis": [
+      "capuz"
+    ],
+    "tematica_detalhada": "exploração espacial, astronauta, ficção científica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6893.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 13.38,
+  "data_analise": "2026-07-27T16:56:53Z",
+  "data_criacao": "2026-07-27T13:56:53.133144-03:00"
+}

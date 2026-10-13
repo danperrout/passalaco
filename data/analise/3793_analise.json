@@ -1,0 +1,28 @@
+{
+  "id": 3793,
+  "nome_original": "Chapeu Visconde",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "chapéu"
+    ],
+    "material_visual": "feltro ou tecido sintético rígido com fios de nylon ou plástico",
+    "estilo_corte": "circular com topo arredondado",
+    "acessorios_visiveis": [
+      "hastes metálicas ou plásticas",
+      "estrutura de fios"
+    ],
+    "tematica_detalhada": "Acessório inspirado no personagem Visconde de Sabugosa, do Sítio do Picapau Amarelo, simulando a aparência de um milho ou sabugo estilizado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3793.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.04,
+  "data_analise": "2026-07-27T19:52:40Z",
+  "data_criacao": "2026-07-27T16:52:40.969431-03:00"
+}

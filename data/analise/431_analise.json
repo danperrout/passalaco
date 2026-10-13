@@ -1,0 +1,29 @@
+{
+  "id": 431,
+  "nome_original": "Coelhinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "tiara de orelhas"
+    ],
+    "material_visual": "cetim ou tecido sintético com brilho",
+    "estilo_corte": "folgado, estilo pijama/kigurumi",
+    "acessorios_visiveis": [
+      "tiara com orelhas de coelho"
+    ],
+    "tematica_detalhada": "Fantasia de coelho, com referências a personagens infantis ou temática de Páscoa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/431.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 129.69,
+  "data_analise": "2026-07-28T00:00:34Z",
+  "data_criacao": "2026-07-27T21:00:34.197528-03:00"
+}

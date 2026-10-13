@@ -1,0 +1,28 @@
+{
+  "id": 137,
+  "nome_original": "Bailarina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "bodys/top",
+      "saia de tule"
+    ],
+    "material_visual": "cetim, tule e renda",
+    "estilo_corte": "ajustado no busto com alças finas e saia volumosa com camadas",
+    "acessorios_visiveis": [
+      "nenhum"
+    ],
+    "tematica_detalhada": "fantasia de bailarina clássica, inspirada em trajes de balé clássico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/137.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 5.83,
+  "data_analise": "2026-07-27T17:00:21Z",
+  "data_criacao": "2026-07-27T14:00:21.128845-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 9282,
+  "nome_original": "It a Coisa",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça"
+    ],
+    "material_visual": "tecido acetinado com brilho",
+    "estilo_corte": "estilo palhaço vitoriano com babados e camadas",
+    "acessorios_visiveis": [
+      "gola de rufos",
+      "pompons vermelhos",
+      "maquiagem facial",
+      "peruca"
+    ],
+    "tematica_detalhada": "Personagem Pennywise do filme It: A Coisa, representando um palhaço aterrorizante"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9282.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 74.58,
+  "data_analise": "2026-07-28T17:35:41Z",
+  "data_criacao": "2026-07-28T14:35:41.016643-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 9220,
+  "nome_original": "Trança Wandinha e Maozinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "extensão de trança",
+      "mão artificial"
+    ],
+    "material_visual": "fibras sintéticas e plástico ou borracha",
+    "estilo_corte": "trança longa e mão esculpida",
+    "acessorios_visiveis": [
+      "mãozinha"
+    ],
+    "tematica_detalhada": "Personagens da série Wandinha (Wednesday), referenciando a personagem principal e seu assistente Coisa (Thing)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9220.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.71,
+  "data_analise": "2026-07-30T08:33:51Z",
+  "data_criacao": "2026-07-30T05:33:51.068278-03:00"
+}

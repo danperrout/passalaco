@@ -1,0 +1,30 @@
+{
+  "id": 252,
+  "nome_original": "Bombeiro",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "calça",
+      "boné"
+    ],
+    "material_visual": "tecido sintético ou algodão",
+    "estilo_corte": "camiseta de manga curta e calça reta",
+    "acessorios_visiveis": [
+      "boné"
+    ],
+    "tematica_detalhada": "Fantasia de bombeiro simplificada, com referência ao uniforme de serviço"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/252.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.38,
+  "data_analise": "2026-07-27T18:17:08Z",
+  "data_criacao": "2026-07-27T15:17:08.514398-03:00"
+}

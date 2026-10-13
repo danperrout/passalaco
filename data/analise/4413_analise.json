@@ -1,0 +1,30 @@
+{
+  "id": 4413,
+  "nome_original": "Penelope Charmosa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "magenta"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu",
+      "luvas longas"
+    ],
+    "material_visual": "tecido sintético com aparência de cetim ou poliéster",
+    "estilo_corte": "vestido curto com saia evasê e gola alta",
+    "acessorios_visiveis": [
+      "óculos de proteção acoplados ao chapéu"
+    ],
+    "tematica_detalhada": "Personagem Penélope Charmosa, do desenho animado Corrida Maluca, com estética de pilota de corrida vintage"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4413.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.64,
+  "data_analise": "2026-07-30T02:56:09Z",
+  "data_criacao": "2026-07-29T23:56:09.510786-03:00"
+}

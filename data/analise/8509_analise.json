@@ -1,0 +1,27 @@
+{
+  "id": 8509,
+  "nome_original": "Simbolo (yin)",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "túnica assimétrica",
+      "calça"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte assimétrico e curvilíneo",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Representação do símbolo Yin Yang, referenciando a filosofia chinesa de dualidade e equilíbrio de forças opostas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8509.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.72,
+  "data_analise": "2026-07-30T06:40:02Z",
+  "data_criacao": "2026-07-30T03:40:02.445601-03:00"
+}

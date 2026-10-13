@@ -1,0 +1,30 @@
+{
+  "id": 6049,
+  "nome_original": "Presidiaria",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "vestido curto sem mangas com gola alta e corte reto",
+    "acessorios_visiveis": [
+      "chapéu estilo quepe"
+    ],
+    "tematica_detalhada": "Fantasia de presidiária clássica, com listras horizontais e número de identificação, remetendo a representações caricaturais de prisioneiros em desenhos animados e cinema"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6049.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.78,
+  "data_analise": "2026-07-30T03:56:05Z",
+  "data_criacao": "2026-07-30T00:56:05.618799-03:00"
+}

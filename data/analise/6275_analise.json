@@ -1,0 +1,29 @@
+{
+  "id": 6275,
+  "nome_original": "Cinderela",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul claro",
+      "azul royal"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "cetim no corpete e tule com glitter na saia",
+    "estilo_corte": "estilo princesa com cintura marcada, decote ombro a ombro e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara",
+      "luvas longas"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Cinderela, referência aos contos de fadas da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6275.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 98.24,
+  "data_analise": "2026-07-27T22:38:09Z",
+  "data_criacao": "2026-07-27T19:38:09.073006-03:00"
+}

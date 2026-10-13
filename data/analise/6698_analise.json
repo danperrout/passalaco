@@ -1,0 +1,29 @@
+{
+  "id": 6698,
+  "nome_original": "Estetoscopio",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "estetoscópio"
+    ],
+    "material_visual": "borracha e metal",
+    "estilo_corte": "formato anatômico de instrumento médico",
+    "acessorios_visiveis": [
+      "auscultador",
+      "tubos acústicos"
+    ],
+    "tematica_detalhada": "Profissional de saúde, especificamente médico ou enfermeiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6698.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.66,
+  "data_analise": "2026-07-28T04:18:12Z",
+  "data_criacao": "2026-07-28T01:18:12.606703-03:00"
+}

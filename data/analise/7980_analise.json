@@ -1,0 +1,33 @@
+{
+  "id": 7980,
+  "nome_original": "Sdevhavaiano",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "amarelo",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "camisa havaiana",
+      "colar de flores",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético leve e plástico/tecido para as flores",
+    "estilo_corte": "camisa de manga curta com corte reto e estampado",
+    "acessorios_visiveis": [
+      "lei havaiana (colar de flores)",
+      "peruca preta"
+    ],
+    "tematica_detalhada": "Estilo havaiano/tropical, referenciando a cultura do Havaí e festas temáticas de praia ou Luau"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7980.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 29.22,
+  "data_analise": "2026-07-30T05:57:16Z",
+  "data_criacao": "2026-07-30T02:57:16.032789-03:00"
+}

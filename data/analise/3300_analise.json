@@ -1,0 +1,30 @@
+{
+  "id": 3300,
+  "nome_original": "Burca",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "véu",
+      "túnica"
+    ],
+    "material_visual": "tecido fluido com aplicações de pedrarias e brilhos",
+    "estilo_corte": "estilo drapeado e amplo, cobrindo a cabeça e o corpo",
+    "acessorios_visiveis": [
+      "pedras ornamentais",
+      "miçangas"
+    ],
+    "tematica_detalhada": "representação estilizada de vestimenta tradicional islâmica (burca/niqab) com foco em ornamentação festiva"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3300.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.62,
+  "data_analise": "2026-07-27T18:41:42Z",
+  "data_criacao": "2026-07-27T15:41:42.638337-03:00"
+}

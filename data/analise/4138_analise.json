@@ -1,0 +1,30 @@
+{
+  "id": 4138,
+  "nome_original": "Indio Americano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "preto",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com acabamento em franjas",
+    "estilo_corte": "túnica solta com decote em V e calça reta",
+    "acessorios_visiveis": [
+      "peruca preta com maria-chiquinha"
+    ],
+    "tematica_detalhada": "Estereótipo de indígena norte-americano, com referências a vestimentas tradicionais de camurça e adornos geométricos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4138.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 63.65,
+  "data_analise": "2026-07-28T17:29:31Z",
+  "data_criacao": "2026-07-28T14:29:31.981245-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 5650,
+  "nome_original": "Malevola",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "roxo",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "tiara de chifres"
+    ],
+    "material_visual": "tecido sintético com detalhes em lurex ou glitter",
+    "estilo_corte": "corte longo com abertura frontal e mangas compridas",
+    "acessorios_visiveis": [
+      "tiara com chifres pretos"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Malévola, vilã da Disney, com estética de fada malvada e gótica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5650.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 103.04,
+  "data_analise": "2026-07-29T16:38:20Z",
+  "data_criacao": "2026-07-29T13:38:20.391094-03:00"
+}

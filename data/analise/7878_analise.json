@@ -1,0 +1,31 @@
+{
+  "id": 7878,
+  "nome_original": "Maui",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "preto",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "shorts",
+      "saia de folhas"
+    ],
+    "material_visual": "tecido sintético com estampa",
+    "estilo_corte": "conjunto casual com saia sobreposta",
+    "acessorios_visiveis": [
+      "saia de folhas artificiais"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Maui do filme Moana, com estampas inspiradas em tatuagens polinesias"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7878.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.72,
+  "data_analise": "2026-07-29T20:51:53Z",
+  "data_criacao": "2026-07-29T17:51:53.227843-03:00"
+}

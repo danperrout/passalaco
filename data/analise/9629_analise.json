@@ -1,0 +1,29 @@
+{
+  "id": 9629,
+  "nome_original": "Mago",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica com capuz",
+      "manto superior"
+    ],
+    "material_visual": "tecido sintético com textura levemente amassada",
+    "estilo_corte": "amplo e fluido, com corte reto e camadas sobrepostas",
+    "acessorios_visiveis": [
+      "pingente branco"
+    ],
+    "tematica_detalhada": "fantasia de mago ou clérigo medieval, com referências a personagens de fantasia épica e ordens místicas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9629.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 52.75,
+  "data_analise": "2026-07-29T16:28:04Z",
+  "data_criacao": "2026-07-29T13:28:04.542144-03:00"
+}

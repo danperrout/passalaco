@@ -1,0 +1,30 @@
+{
+  "id": 4053,
+  "nome_original": "Joaninha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "tiara"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "macacão de peça única com mangas longas e modelagem folgada",
+    "acessorios_visiveis": [
+      "tiara com antenas",
+      "capa vermelha"
+    ],
+    "tematica_detalhada": "fantasia de inseto, especificamente representando uma joaninha"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4053.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 130.31,
+  "data_analise": "2026-07-28T21:21:26Z",
+  "data_criacao": "2026-07-28T18:21:26.033173-03:00"
+}

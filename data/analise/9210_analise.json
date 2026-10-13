@@ -1,0 +1,29 @@
+{
+  "id": 9210,
+  "nome_original": "Junina Wandinha Mf",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido xadrez com rendas e babados",
+    "estilo_corte": "vestido curto com camadas volumosas e alças",
+    "acessorios_visiveis": [
+      "tiara de tranças"
+    ],
+    "tematica_detalhada": "Fusão entre a personagem Wandinha Addams e a estética de Festa Junina brasileira"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9210.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 22.7,
+  "data_analise": "2026-07-29T07:51:40Z",
+  "data_criacao": "2026-07-29T04:51:40.272824-03:00"
+}

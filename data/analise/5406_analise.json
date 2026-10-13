@@ -1,0 +1,29 @@
+{
+  "id": 5406,
+  "nome_original": "Bob Esponja Plancton",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou espuma",
+    "estilo_corte": "estilo mascot/kigurumi, corte amplo e volumoso",
+    "acessorios_visiveis": [
+      "antenas no topo da cabeça"
+    ],
+    "tematica_detalhada": "Personagem Plankton da série animada Bob Esponja, caracterizado por sua cor verde e formato único"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5406.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.4,
+  "data_analise": "2026-07-27T18:16:12Z",
+  "data_criacao": "2026-07-27T15:16:12.225775-03:00"
+}

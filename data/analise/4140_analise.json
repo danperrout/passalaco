@@ -1,0 +1,33 @@
+{
+  "id": 4140,
+  "nome_original": "Capitao Gancho",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster",
+    "estilo_corte": "estilo colonial com modelagem folgada",
+    "acessorios_visiveis": [
+      "chapéu tricórnio",
+      "peruca cacheada",
+      "faixa na cintura"
+    ],
+    "tematica_detalhada": "pirata clássico, com referências ao personagem Capitão Gancho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4140.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.32,
+  "data_analise": "2026-07-27T19:18:30Z",
+  "data_criacao": "2026-07-27T16:18:30.045374-03:00"
+}

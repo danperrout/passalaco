@@ -1,0 +1,33 @@
+{
+  "id": 7368,
+  "nome_original": "Sdevarlequina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "camiseta",
+      "shorts"
+    ],
+    "material_visual": "material sintético com brilho, possivelmente cetim ou poliéster",
+    "estilo_corte": "estilo bomber jacket com shorts curtos e camiseta ajustada",
+    "acessorios_visiveis": [
+      "peruca loira",
+      "cinto preto com fivela dourada",
+      "colar dourado"
+    ],
+    "tematica_detalhada": "fantasia baseada na personagem Arlequina (Harley Quinn), inspirada na estética de cores divididas e estilo urbano moderno"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7368.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 19.89,
+  "data_analise": "2026-07-30T05:56:45Z",
+  "data_criacao": "2026-07-30T02:56:45.635875-03:00"
+}

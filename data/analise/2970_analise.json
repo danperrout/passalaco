@@ -1,0 +1,25 @@
+{
+  "id": 2970,
+  "nome_original": "Anjo L",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido sintético leve com brilhos e transparências",
+    "estilo_corte": "vestido longo de corte fluido com mangas compridas",
+    "acessorios_visiveis": [
+      "asas de anjo",
+      "tiara de flores azuis"
+    ],
+    "tematica_detalhada": "fantasia de anjo celestial com detalhes em azul"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2970.jpg",
+  "data_analise": "2026-07-27T13:57:50Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 5395,
+  "nome_original": "Caçador",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom escuro",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "jaqueta",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com aparência de couro ou lona",
+    "estilo_corte": "estilo rústico e utilitário com modelagem folgada",
+    "acessorios_visiveis": [
+      "chapéu de aba larga"
+    ],
+    "tematica_detalhada": "caçador clássico ou explorador, com referências a personagens de aventura ou estilo safari"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5395.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 38.54,
+  "data_analise": "2026-07-27T18:44:49Z",
+  "data_criacao": "2026-07-27T15:44:49.557496-03:00"
+}

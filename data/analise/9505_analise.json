@@ -1,0 +1,33 @@
+{
+  "id": 9505,
+  "nome_original": "Popis",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa choque",
+      "azul turquesa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara com laços",
+      "shorts/saia inferior"
+    ],
+    "material_visual": "tecido sintético com acabamento em renda",
+    "estilo_corte": "estilo boneca com mangas bufantes e cintura marcada",
+    "acessorios_visiveis": [
+      "laços no cabelo",
+      "laços nas mangas",
+      "laços nos bolsos"
+    ],
+    "tematica_detalhada": "fantasia inspirada na personagem Popis, do programa El Chavo del Ocho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9505.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.04,
+  "data_analise": "2026-07-30T03:49:44Z",
+  "data_criacao": "2026-07-30T00:49:44.846718-03:00"
+}

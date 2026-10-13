@@ -1,0 +1,31 @@
+{
+  "id": 917,
+  "nome_original": "Moranguinho",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "avental",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com estampa de poá e detalhes em renda/babados",
+    "estilo_corte": "estilo camponesa com saia rodada e babados",
+    "acessorios_visiveis": [
+      "chapéu de aba larga",
+      "avental branco"
+    ],
+    "tematica_detalhada": "Personagem Moranguinho, inspirada em estética de colheita de frutas e bonecas clássicas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/917.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.68,
+  "data_analise": "2026-07-29T22:55:53Z",
+  "data_criacao": "2026-07-29T19:55:53.274405-03:00"
+}

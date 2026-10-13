@@ -1,0 +1,29 @@
+{
+  "id": 6752,
+  "nome_original": "Cleopatra",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido acetinado com bordas metalizadas",
+    "estilo_corte": "corte assimétrico com drapeado e decote reto adornado",
+    "acessorios_visiveis": [
+      "tiara egípcia com pingentes",
+      "braceletes"
+    ],
+    "tematica_detalhada": "fantasia inspirada na rainha Cleópatra e na estética do Antigo Egito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6752.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 75.64,
+  "data_analise": "2026-07-27T22:59:29Z",
+  "data_criacao": "2026-07-27T19:59:29.709046-03:00"
+}

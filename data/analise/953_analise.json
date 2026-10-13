@@ -1,0 +1,30 @@
+{
+  "id": 953,
+  "nome_original": "Narizinho",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul celeste",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "blusa"
+    ],
+    "material_visual": "tecido sintético com aspecto de cetim ou oxford",
+    "estilo_corte": "estilo camponesa com saia plissada e gola peter pan",
+    "acessorios_visiveis": [
+      "detalhe de renda na cintura",
+      "aplicação de flor no busto"
+    ],
+    "tematica_detalhada": "Personagem Narizinho, do livro Sítio do Picapau Amarelo, representando a estética infantil e bucólica da obra de Monteiro Lobato"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/953.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 56.12,
+  "data_analise": "2026-07-29T23:30:34Z",
+  "data_criacao": "2026-07-29T20:30:34.641409-03:00"
+}

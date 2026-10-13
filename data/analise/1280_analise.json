@@ -1,0 +1,25 @@
+{
+  "id": 1280,
+  "nome_original": "Arabe",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Árabes/Indianas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "véu"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado",
+    "estilo_corte": "estilo kaftan com corte amplo e fluido",
+    "acessorios_visiveis": [
+      "bordados dourados na gola e barras"
+    ],
+    "tematica_detalhada": "fantasia inspirada em trajes tradicionais árabes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1280.jpg",
+  "data_analise": "2026-07-27T14:13:28Z"
+}

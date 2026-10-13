@@ -1,0 +1,33 @@
+{
+  "id": 6027,
+  "nome_original": "Portuguesa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "verde",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "avental",
+      "véu"
+    ],
+    "material_visual": "tecido sintético com cetim e estampa floral",
+    "estilo_corte": "corte tradicional europeu com saia rodada e corpete ajustado",
+    "acessorios_visiveis": [
+      "véu vermelho",
+      "laço decorativo no decote"
+    ],
+    "tematica_detalhada": "fantasia de camponesa portuguesa, inspirada em trajes típicos regionais europeus para festas folclóricas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6027.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.67,
+  "data_analise": "2026-07-30T03:51:40Z",
+  "data_criacao": "2026-07-30T00:51:40.493186-03:00"
+}

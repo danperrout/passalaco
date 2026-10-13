@@ -1,0 +1,28 @@
+{
+  "id": 6020,
+  "nome_original": "Batman",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "macacão"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "máscara com orelhas pontiagudas"
+    ],
+    "tematica_detalhada": "Super-herói Batman, personagem da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6020.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.18,
+  "data_analise": "2026-07-27T17:49:37Z",
+  "data_criacao": "2026-07-27T14:49:37.392610-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 191,
+  "nome_original": "Barbie Magia",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "tecido acetinado com glitter, tule e apliques brilhantes",
+    "estilo_corte": "estilo princesa com corpete ajustado e saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "tiara de princesa"
+    ],
+    "tematica_detalhada": "fantasia inspirada na Barbie com tema de magia e realeza, referenciando contos de fadas e princesas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/191.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.52,
+  "data_analise": "2026-07-27T17:47:13Z",
+  "data_criacao": "2026-07-27T14:47:13.133032-03:00"
+}

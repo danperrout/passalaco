@@ -1,0 +1,29 @@
+{
+  "id": 4763,
+  "nome_original": "Moulin Rouge",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "corpete",
+      "saia curta"
+    ],
+    "material_visual": "cetim e renda",
+    "estilo_corte": "estilo corset com saia curta em camadas de babados",
+    "acessorios_visiveis": [
+      "fascinator de renda no cabelo"
+    ],
+    "tematica_detalhada": "Can-can do Moulin Rouge, referenciando a cultura dos cabarés franceses de Paris"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4763.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 39.92,
+  "data_analise": "2026-07-29T23:14:39Z",
+  "data_criacao": "2026-07-29T20:14:39.685698-03:00"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 1175,
+  "nome_original": "Policial",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "boné",
+      "cinto",
+      "coleira"
+    ],
+    "material_visual": "tecido sintético fosco com detalhes em material sintético brilhante/verniz",
+    "estilo_corte": "vestido curto com gola e corte evasê",
+    "acessorios_visiveis": [
+      "boné de policial",
+      "cinto com fivela dourada",
+      "coleira choker",
+      "distintivo/emblema no boné"
+    ],
+    "tematica_detalhada": "fantasia estilizada de policial feminina, com abordagem sensual e referências a uniformes de autoridade"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1175.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.55,
+  "data_analise": "2026-07-30T03:45:53Z",
+  "data_criacao": "2026-07-30T00:45:53.303537-03:00"
+}

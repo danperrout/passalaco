@@ -1,0 +1,32 @@
+{
+  "id": 8890,
+  "nome_original": "Espantalho",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "laranja",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com texturas de palha e renda",
+    "estilo_corte": "vestido curto estilo corset com saia rodada e babados",
+    "acessorios_visiveis": [
+      "chapéu de bruxa",
+      "detalhes de palha nos ombros e punhos",
+      "laço de amarração frontal"
+    ],
+    "tematica_detalhada": "Espantalho estilizado com elementos de bruxa, misturando o rústico do campo com a estética de Halloween"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8890.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 50.79,
+  "data_analise": "2026-07-28T04:09:11Z",
+  "data_criacao": "2026-07-28T01:09:11.202128-03:00"
+}

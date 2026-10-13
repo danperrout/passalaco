@@ -1,0 +1,33 @@
+{
+  "id": 6080,
+  "nome_original": "Cafetão",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "paletó",
+      "calça",
+      "camiseta"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante e plástico transparente sobreposto",
+    "estilo_corte": "alfaiataria clássica com ajuste reto",
+    "acessorios_visiveis": [
+      "chapéu coco",
+      "corrente grossa",
+      "colar com cruz"
+    ],
+    "tematica_detalhada": "estereótipo de cafetão ou personagem urbano extravagante, com referências a moda underground e elementos de ostentação"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6080.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.55,
+  "data_analise": "2026-07-27T18:48:13Z",
+  "data_criacao": "2026-07-27T15:48:13.009976-03:00"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 1352,
+  "nome_original": "Noivo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "bege",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "gravata",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético acetinado e palha",
+    "estilo_corte": "terno clássico de corte reto",
+    "acessorios_visiveis": [
+      "chapéu de palha",
+      "gravata borboleta estilizada",
+      "broche"
+    ],
+    "tematica_detalhada": "Noivo com influência regional ou temática de festa junina/campo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1352.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.13,
+  "data_analise": "2026-07-30T00:34:28Z",
+  "data_criacao": "2026-07-29T21:34:28.141045-03:00"
+}

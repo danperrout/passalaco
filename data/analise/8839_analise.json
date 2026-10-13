@@ -1,0 +1,37 @@
+{
+  "id": 8839,
+  "nome_original": "Jasmine e Aladim",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul turquesa",
+      "roxo",
+      "bege",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "calça baggy",
+      "colete",
+      "calça saruel",
+      "touca"
+    ],
+    "material_visual": "cetim sintético com detalhes em lurex ou glitter",
+    "estilo_corte": "estilo árabe/oriental com modelagens largas e cinturas marcadas",
+    "acessorios_visiveis": [
+      "tiara",
+      "véu",
+      "colar",
+      "cinto dourado"
+    ],
+    "tematica_detalhada": "Personagens Jasmine e Aladim do filme Aladdin, inspirados na cultura árabe fictícia de Agrabah"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8839.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 152.83,
+  "data_analise": "2026-07-28T20:07:46Z",
+  "data_criacao": "2026-07-28T17:07:46.337628-03:00"
+}

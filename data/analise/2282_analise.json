@@ -1,0 +1,29 @@
+{
+  "id": 2282,
+  "nome_original": "Tigre",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "oversized / confortável",
+    "acessorios_visiveis": [
+      "orelhas de tigre no capuz"
+    ],
+    "tematica_detalhada": "fantasia de animal, especificamente um tigre, com foco em representação lúdica e infantil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2282.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 29.4,
+  "data_analise": "2026-07-30T08:14:05Z",
+  "data_criacao": "2026-07-30T05:14:05.977035-03:00"
+}

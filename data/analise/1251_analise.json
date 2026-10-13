@@ -1,0 +1,30 @@
+{
+  "id": 1251,
+  "nome_original": "Saci",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "gorro",
+      "camiseta",
+      "short"
+    ],
+    "material_visual": "tecido sintético com aparência de poliéster ou helanca",
+    "estilo_corte": "corte simples e ajustado ao corpo",
+    "acessorios_visiveis": [
+      "gorro pontudo"
+    ],
+    "tematica_detalhada": "personagem Saci-Pererê, figura emblemática do folclore brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1251.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.91,
+  "data_analise": "2026-07-30T05:08:18Z",
+  "data_criacao": "2026-07-30T02:08:18.479078-03:00"
+}

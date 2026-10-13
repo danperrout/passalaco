@@ -1,0 +1,26 @@
+{
+  "id": 9598,
+  "nome_original": "Pet Esqueleto",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético elástico com acabamento em tule na barra",
+    "estilo_corte": "modelo vestido curto com saia franzida",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia de esqueleto estilizada para pets, com referências ao Halloween e elemento romântico representado por um coração no lugar do esterno"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9598.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.65,
+  "data_analise": "2026-07-30T03:22:45Z",
+  "data_criacao": "2026-07-30T00:22:45.377969-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2866,
+  "nome_original": "Palhaço",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Circo",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "verde",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "peruca"
+    ],
+    "material_visual": "cetim sintético brilhante",
+    "estilo_corte": "corte largo e volumoso com gola franzida",
+    "acessorios_visiveis": [
+      "peruca multicolorida",
+      "pompons azuis"
+    ],
+    "tematica_detalhada": "Palhaço clássico de circo, com cores vibrantes e elementos lúdicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2866.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 32.11,
+  "data_analise": "2026-07-30T01:53:29Z",
+  "data_criacao": "2026-07-29T22:53:29.692394-03:00"
+}

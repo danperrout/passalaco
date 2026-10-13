@@ -1,0 +1,33 @@
+{
+  "id": 10172,
+  "nome_original": "Nezuko Kamado",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "marrom",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "quimono rosa",
+      "haori marrom",
+      "obi",
+      "meias"
+    ],
+    "material_visual": "tecido sintético com aparência de seda ou algodão",
+    "estilo_corte": "estilo tradicional japonês",
+    "acessorios_visiveis": [
+      "bambu na boca",
+      "fita de cabelo"
+    ],
+    "tematica_detalhada": "personagem Nezuko Kamado do anime e mangá Demon Slayer (Kimetsu no Yaiba), representando a cultura japonesa tradicional com elementos sobrenaturais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10172.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.15,
+  "data_analise": "2026-07-29T23:34:10Z",
+  "data_criacao": "2026-07-29T20:34:10.715370-03:00"
+}

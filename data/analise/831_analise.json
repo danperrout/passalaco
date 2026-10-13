@@ -1,0 +1,37 @@
+{
+  "id": 831,
+  "nome_original": "Maria Bonita",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu",
+      "lenço",
+      "bandoleira",
+      "bolsa lateral"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "vestido curto com corte reto e gola",
+    "acessorios_visiveis": [
+      "chapéu de couro",
+      "faixa na testa",
+      "lenço no pescoço",
+      "cartucheira/bandoleira",
+      "bolsa de couro com franjas"
+    ],
+    "tematica_detalhada": "Fantasia de Maria Bonita, representando a figura feminina do cangaço no sertão nordestino brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/831.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 130.56,
+  "data_analise": "2026-07-29T17:29:10Z",
+  "data_criacao": "2026-07-29T14:29:10.998041-03:00"
+}

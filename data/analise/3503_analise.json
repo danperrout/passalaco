@@ -1,0 +1,29 @@
+{
+  "id": 3503,
+  "nome_original": "Branca de Neve",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim e tule",
+    "estilo_corte": "vestido curto com saia volumosa em camadas e corpete ajustado",
+    "acessorios_visiveis": [
+      "laço vermelho na cabeça"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Branca de Neve, com referências ao visual clássico dos contos de fadas da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3503.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.3,
+  "data_analise": "2026-07-27T18:19:53Z",
+  "data_criacao": "2026-07-27T15:19:53.909224-03:00"
+}

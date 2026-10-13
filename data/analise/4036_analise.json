@@ -1,0 +1,30 @@
+{
+  "id": 4036,
+  "nome_original": "Homem de Ferro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "macacão"
+    ],
+    "material_visual": "tecido sintético com impressões gráficas",
+    "estilo_corte": "ajustado ao corpo, peça única",
+    "acessorios_visiveis": [
+      "máscara facial",
+      "reator arc impresso no peito"
+    ],
+    "tematica_detalhada": "Homem de Ferro, super-herói da Marvel Comics e do Universo Cinematográfico Marvel"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4036.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 108.64,
+  "data_analise": "2026-07-28T14:57:40Z",
+  "data_criacao": "2026-07-28T11:57:40.212544-03:00"
+}

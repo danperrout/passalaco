@@ -1,0 +1,29 @@
+{
+  "id": 9294,
+  "nome_original": "Avatar",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul claro",
+      "azul escuro"
+    ],
+    "pecas_inclusas": [
+      "blusa de manga longa",
+      "calça legging"
+    ],
+    "material_visual": "tecido sintético elástico com estampa digital",
+    "estilo_corte": "ajustado ao corpo (bodycon) com modelagem anatômica",
+    "acessorios_visiveis": [
+      "luvas integradas"
+    ],
+    "tematica_detalhada": "fantasia inspirada nos Na'vi do filme Avatar, caracterizada por padrões de pele azulados e estriados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9294.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 4.97,
+  "data_analise": "2026-07-27T16:57:42Z",
+  "data_criacao": "2026-07-27T13:57:42.524711-03:00"
+}

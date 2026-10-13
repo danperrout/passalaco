@@ -1,0 +1,30 @@
+{
+  "id": 9911,
+  "nome_original": "The Flash",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "polainas"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "vestido curto sem alças com saia rodada",
+    "acessorios_visiveis": [
+      "braceletes dourados",
+      "emblema de raio no peito"
+    ],
+    "tematica_detalhada": "Versão feminina da fantasia do super-herói The Flash, da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9911.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.4,
+  "data_analise": "2026-07-30T07:45:30Z",
+  "data_criacao": "2026-07-30T04:45:30.346925-03:00"
+}

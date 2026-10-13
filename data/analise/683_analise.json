@@ -1,0 +1,31 @@
+{
+  "id": 683,
+  "nome_original": "Guerreiro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "prata",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "capuz",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado e detalhes metalizados",
+    "estilo_corte": "túnica solta com mangas largas e barra irregular",
+    "acessorios_visiveis": [
+      "brasão estampado no peito"
+    ],
+    "tematica_detalhada": "guerreiro medieval ou cavaleiro, com referências a heráldica europeia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/683.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 235.69,
+  "data_analise": "2026-07-28T11:59:38Z",
+  "data_criacao": "2026-07-28T08:59:38.766099-03:00"
+}

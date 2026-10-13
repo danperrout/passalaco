@@ -1,0 +1,27 @@
+{
+  "id": 9041,
+  "nome_original": "Alemao",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "verde",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "suspensórios",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "tradicional bávaro",
+    "acessorios_visiveis": [
+      "chapéu pontudo"
+    ],
+    "tematica_detalhada": "estilo típico alemão/bávaro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9041.jpg",
+  "data_analise": "2026-07-27T13:43:49Z"
+}

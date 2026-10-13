@@ -1,0 +1,30 @@
+{
+  "id": 6559,
+  "nome_original": "Chiquinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "casaco"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "estilo infantil com cintura marcada e gola arredondada",
+    "acessorios_visiveis": [
+      "óculos de armação preta"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Chiquinha (do seriado Chaves), caracterizada por roupas simples, cores contrastantes e óculos típicos."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6559.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.34,
+  "data_analise": "2026-07-27T21:07:46Z",
+  "data_criacao": "2026-07-27T18:07:46.741911-03:00"
+}

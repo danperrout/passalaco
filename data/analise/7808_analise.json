@@ -1,0 +1,30 @@
+{
+  "id": 7808,
+  "nome_original": "Sabre de Luz Darth Vader",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "sabre de luz"
+    ],
+    "material_visual": "plástico rígido e polímero translúcido",
+    "estilo_corte": "cilíndrico e alongado",
+    "acessorios_visiveis": [
+      "punho ergonômico",
+      "lâmina luminosa"
+    ],
+    "tematica_detalhada": "Inspirado na franquia Star Wars, especificamente na arma característica do personagem Darth Vader e dos Sith."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7808.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 62.95,
+  "data_analise": "2026-07-30T05:07:59Z",
+  "data_criacao": "2026-07-30T02:07:59.287136-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 4003,
+  "nome_original": "Pedrita",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampa animal print",
+    "estilo_corte": "corte assimétrico de um ombro só com barra irregular em formato de pontas",
+    "acessorios_visiveis": [
+      "tiara com laço",
+      "colar de dentes/contas"
+    ],
+    "tematica_detalhada": "fantasia de Pedrita, personagem da franquia Os Flintstones, representando a era da pedra com estilo pré-histórico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4003.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.14,
+  "data_analise": "2026-07-30T02:55:23Z",
+  "data_criacao": "2026-07-29T23:55:23.745776-03:00"
+}

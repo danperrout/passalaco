@@ -1,0 +1,35 @@
+{
+  "id": 443,
+  "nome_original": "Colegial",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "saia plissada",
+      "camisa",
+      "suspensórios",
+      "gravata",
+      "boina"
+    ],
+    "material_visual": "tecido sintético com estampa xadrez e tecido plano branco",
+    "estilo_corte": "corte curto com saia plissada e camisa amarrada na cintura",
+    "acessorios_visiveis": [
+      "boina xadrez",
+      "gravata xadrez",
+      "suspensórios xadrez"
+    ],
+    "tematica_detalhada": "fantasia de colegial estilizada, com referências a uniformes escolares clássicos e estética preppy/anime"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/443.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 88.71,
+  "data_analise": "2026-07-28T00:39:58Z",
+  "data_criacao": "2026-07-27T21:39:58.309771-03:00"
+}

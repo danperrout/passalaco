@@ -1,0 +1,30 @@
+{
+  "id": 7520,
+  "nome_original": "Maria",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul claro",
+      "branco",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "túnica longa",
+      "véu"
+    ],
+    "material_visual": "tecido sintético fosco e tule com brilhos",
+    "estilo_corte": "corte reto e longo, solto no corpo",
+    "acessorios_visiveis": [
+      "véu com bordas prateadas"
+    ],
+    "tematica_detalhada": "representação bíblica da Virgem Maria, comumente utilizada em encenações de Natal ou festas religiosas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7520.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.35,
+  "data_analise": "2026-07-29T17:24:11Z",
+  "data_criacao": "2026-07-29T14:24:11.448933-03:00"
+}

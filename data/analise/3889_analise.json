@@ -1,0 +1,28 @@
+{
+  "id": 3889,
+  "nome_original": "Espanhola",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Ciganas/Espanholas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim ou poliéster com brilho",
+    "estilo_corte": "corte ombro a ombro com saia curta e babados",
+    "acessorios_visiveis": [
+      "tiara com flor vermelha"
+    ],
+    "tematica_detalhada": "Fantasia de dançarina espanhola inspirada no Flamenco"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3889.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.86,
+  "data_analise": "2026-07-28T03:56:12Z",
+  "data_criacao": "2026-07-28T00:56:12.538843-03:00"
+}

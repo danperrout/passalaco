@@ -1,0 +1,30 @@
+{
+  "id": 6968,
+  "nome_original": "Dama",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "dourado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "tecido fluido com aplicações de lantejoulas ou miçangas no busto",
+    "estilo_corte": "estilo império com cintura alta e saia longa e fluida",
+    "acessorios_visiveis": [
+      "tiara dourada"
+    ],
+    "tematica_detalhada": "fantasia de dama da nobreza, com referências à Grécia Antiga ou período neoclássico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6968.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.22,
+  "data_analise": "2026-07-28T02:30:21Z",
+  "data_criacao": "2026-07-27T23:30:21.845250-03:00"
+}

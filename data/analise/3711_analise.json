@@ -1,0 +1,32 @@
+{
+  "id": 3711,
+  "nome_original": "Willy Wonka",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "casaco longo",
+      "colete",
+      "cartola"
+    ],
+    "material_visual": "tecido sintético com aspecto de poliéster",
+    "estilo_corte": "sobretudo longo com corte reto e colete ajustado",
+    "acessorios_visiveis": [
+      "cartola preta",
+      "gravata borboleta ou laço no pescoço"
+    ],
+    "tematica_detalhada": "Fantasia baseada no personagem Willy Wonka, do livro e filmes A Fantástica Fábrica de Chocolate"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3711.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.12,
+  "data_analise": "2026-07-30T08:54:44Z",
+  "data_criacao": "2026-07-30T05:54:44.696389-03:00"
+}

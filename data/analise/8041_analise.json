@@ -1,0 +1,30 @@
+{
+  "id": 8041,
+  "nome_original": "Mulher Gato",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético com brilho, similar a couro sintético ou vinil",
+    "estilo_corte": "justo ao corpo (skinny) com gola colarinho e detalhes de costura aparente",
+    "acessorios_visiveis": [
+      "máscara de gato",
+      "luvas"
+    ],
+    "tematica_detalhada": "Fantasia da Mulher Gato, personagem icônica da DC Comics e do Batman"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8041.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.37,
+  "data_analise": "2026-07-29T23:18:53Z",
+  "data_criacao": "2026-07-29T20:18:53.763823-03:00"
+}

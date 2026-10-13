@@ -1,0 +1,30 @@
+{
+  "id": 8505,
+  "nome_original": "Emoji",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "painel frontal de emoji",
+      "boné"
+    ],
+    "material_visual": "tecido sintético e espuma",
+    "estilo_corte": "estilo oversized com painel circular frontal",
+    "acessorios_visiveis": [
+      "boné laranja"
+    ],
+    "tematica_detalhada": "fantasia baseada em emojis de redes sociais, especificamente o emoji de 'rosto com óculos' (nerd)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8505.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.06,
+  "data_analise": "2026-07-28T03:50:17Z",
+  "data_criacao": "2026-07-28T00:50:17.914286-03:00"
+}

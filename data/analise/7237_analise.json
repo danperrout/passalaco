@@ -1,0 +1,30 @@
+{
+  "id": 7237,
+  "nome_original": "Emilia",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético acetinado e fibras sintéticas para a peruca",
+    "estilo_corte": "vestido com estampa quadriculada no busto, mangas bufantes e saia evasê",
+    "acessorios_visiveis": [
+      "peruca cacheada colorida",
+      "laço verde no cabelo"
+    ],
+    "tematica_detalhada": "Personagem Emília do livro Sítio do Picapau Amarelo, de Monteiro Lobato"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7237.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.56,
+  "data_analise": "2026-07-28T03:44:20Z",
+  "data_criacao": "2026-07-28T00:44:20.080740-03:00"
+}

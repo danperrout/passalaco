@@ -1,0 +1,30 @@
+{
+  "id": 6042,
+  "nome_original": "Cigana Luxo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido acetinado com renda na barra",
+    "estilo_corte": "corte evasê com babados e decote ombro a ombro",
+    "acessorios_visiveis": [
+      "tiara",
+      "colar",
+      "cinto de corrente"
+    ],
+    "tematica_detalhada": "fantasia de cigana inspirada em trajes folclóricos romani com elementos de luxo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6042.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 63.63,
+  "data_analise": "2026-07-27T22:10:42Z",
+  "data_criacao": "2026-07-27T19:10:42.400214-03:00"
+}

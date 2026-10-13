@@ -1,0 +1,33 @@
+{
+  "id": 8710,
+  "nome_original": "It a Coisa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "punhos franzidos",
+      "tornozeleiras franzidas"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda e pompom de lã",
+    "estilo_corte": "estilo vintage/vitoriano com saia rodada e babados",
+    "acessorios_visiveis": [
+      "pompom vermelho",
+      "fitas vermelhas na cintura",
+      "rendas decorativas"
+    ],
+    "tematica_detalhada": "personagem Pennywise do filme 'It: A Coisa', inspirada na vestimenta de palhaço antigo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8710.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 62.97,
+  "data_analise": "2026-07-28T17:33:04Z",
+  "data_criacao": "2026-07-28T14:33:04.741925-03:00"
+}

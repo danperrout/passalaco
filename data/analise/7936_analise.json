@@ -1,0 +1,27 @@
+{
+  "id": 7936,
+  "nome_original": "Alemao",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "blusa",
+      "avental/saia"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "estilo camponês europeu com avental",
+    "acessorios_visiveis": [
+      "chapéu pontudo"
+    ],
+    "tematica_detalhada": "estereótipo de camponês alemão/estilo tirolês"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7936.jpg",
+  "data_analise": "2026-07-27T13:43:49Z"
+}

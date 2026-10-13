@@ -1,0 +1,26 @@
+{
+  "id": 9046,
+  "nome_original": "Alema",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido estilo dirndl"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda",
+    "estilo_corte": "corte tradicional bávaro com corpete ajustado e saia rodada",
+    "acessorios_visiveis": [
+      "tiara de flores"
+    ],
+    "tematica_detalhada": "fantasia típica alemã, inspirada no traje tradicional Oktoberfest"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9046.jpg",
+  "data_analise": "2026-07-27T13:41:09Z"
+}

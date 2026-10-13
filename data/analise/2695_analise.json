@@ -1,0 +1,27 @@
+{
+  "id": 2695,
+  "nome_original": "Arara Azul",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul-royal",
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz integrado",
+      "asas costuradas"
+    ],
+    "material_visual": "tecido macio com aspecto de feltro ou plush",
+    "estilo_corte": "macacão unissex de corte folgado, mangas curtas, com zíper frontal e capuz com detalhes de pássaro",
+    "acessorios_visiveis": [
+      "capuz com bico e olhos de arara",
+      "asas laterais simulando penas"
+    ],
+    "tematica_detalhada": "animal selvagem, pássaro tropical, arara-azul, fauna brasileira"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2695.jpg",
+  "data_analise": "2026-07-27T16:46:54Z"
+}

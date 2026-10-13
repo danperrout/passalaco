@@ -1,0 +1,32 @@
+{
+  "id": 1229,
+  "nome_original": "Principe",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul royal",
+      "dourado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante",
+    "estilo_corte": "corte reto com acabamentos em franjas douradas",
+    "acessorios_visiveis": [
+      "pluma vermelha",
+      "galão dourado decorativo"
+    ],
+    "tematica_detalhada": "fantasia de príncipe clássico ou guarda real, com referências a trajes aristocráticos europeus estilizados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1229.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.46,
+  "data_analise": "2026-07-30T04:09:56Z",
+  "data_criacao": "2026-07-30T01:09:56.945042-03:00"
+}

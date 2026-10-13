@@ -1,0 +1,25 @@
+{
+  "id": 1279,
+  "nome_original": "Arabe",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Árabes/Indianas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "manto com capuz"
+    ],
+    "material_visual": "tecido leve, possivelmente poliéster ou cetim",
+    "estilo_corte": "estilo túnica longa e fluida com cobertura de cabeça",
+    "acessorios_visiveis": [
+      "tiara ou adorno de cabeça dourado"
+    ],
+    "tematica_detalhada": "fantasia inspirada em trajes tradicionais árabes ou figuras místicas do oriente médio"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1279.jpg",
+  "data_analise": "2026-07-27T14:13:16Z"
+}

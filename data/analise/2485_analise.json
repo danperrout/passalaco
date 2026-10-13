@@ -1,0 +1,29 @@
+{
+  "id": 2485,
+  "nome_original": "Bope",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "boina"
+    ],
+    "material_visual": "tecido sintético ou brim",
+    "estilo_corte": "estilo militar, corte reto e ajustado",
+    "acessorios_visiveis": [
+      "boina com emblema"
+    ],
+    "tematica_detalhada": "Batalhão de Operações Policiais Especiais (BOPE), inspirada em forças policiais táticas brasileiras"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2485.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.53,
+  "data_analise": "2026-07-27T18:18:57Z",
+  "data_criacao": "2026-07-27T15:18:57.268610-03:00"
+}

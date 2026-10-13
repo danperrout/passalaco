@@ -1,0 +1,32 @@
+{
+  "id": 7766,
+  "nome_original": "Michael Jackson",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético opaco com adornos metálicos",
+    "estilo_corte": "estilo militar com gola alta e trespassado",
+    "acessorios_visiveis": [
+      "botões dourados",
+      "galões decorativos",
+      "chapéu de aba larga"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no estilo militar de Michael Jackson, referenciando performances icônicas e videoclipes como 'Black or White' ou 'They Don't Care About Us'."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7766.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 68.69,
+  "data_analise": "2026-07-29T22:13:27Z",
+  "data_criacao": "2026-07-29T19:13:27.117269-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 4678,
+  "nome_original": "Samurai",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Cosplay",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "faixa abdominal"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "estilo kimono curto com recortes modernos e abertura no peito",
+    "acessorios_visiveis": [
+      "faixa preta na cintura",
+      "detalhes pretos nos braços"
+    ],
+    "tematica_detalhada": "fantasia estilizada inspirada na cultura samurai japonesa, com abordagem moderna e fashion"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4678.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.05,
+  "data_analise": "2026-07-30T05:52:33Z",
+  "data_criacao": "2026-07-30T02:52:33.008316-03:00"
+}

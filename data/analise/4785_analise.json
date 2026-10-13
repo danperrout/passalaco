@@ -1,0 +1,30 @@
+{
+  "id": 4785,
+  "nome_original": "Cigana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "marrom",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "lenço de cabeça"
+    ],
+    "material_visual": "tecido sintético com babados",
+    "estilo_corte": "vestido curto com decote em V adornado por babados e saia fluida em camadas",
+    "acessorios_visiveis": [
+      "lenço de cabeça com moedas"
+    ],
+    "tematica_detalhada": "Fantasia de cigana estilizada, com referências ao vestuário folclórico romani e danças orientais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4785.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 71.78,
+  "data_analise": "2026-07-27T22:01:15Z",
+  "data_criacao": "2026-07-27T19:01:15.430454-03:00"
+}

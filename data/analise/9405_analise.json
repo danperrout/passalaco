@@ -1,0 +1,35 @@
+{
+  "id": 9405,
+  "nome_original": "Robin",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "vermelho",
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "capa",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente poliéster ou elastano",
+    "estilo_corte": "ajustado ao corpo com estampa digital simulando musculatura e detalhes",
+    "acessorios_visiveis": [
+      "luvas verdes",
+      "cinto amarelo estampado",
+      "máscara preta"
+    ],
+    "tematica_detalhada": "super-herói Robin, parceiro do Batman da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9405.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.78,
+  "data_analise": "2026-07-30T04:57:10Z",
+  "data_criacao": "2026-07-30T01:57:10.020550-03:00"
+}

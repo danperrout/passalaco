@@ -1,0 +1,30 @@
+{
+  "id": 7595,
+  "nome_original": "Noiva",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "véu"
+    ],
+    "material_visual": "tecido sintético com renda e apliques de feltro ou tecido",
+    "estilo_corte": "vestido rodado com cintura marcada e decote redondo",
+    "acessorios_visiveis": [
+      "tiara",
+      "véu"
+    ],
+    "tematica_detalhada": "noiva temática com estampa de morangos, misturando a formalidade de um casamento com elementos lúdicos de frutas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7595.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 35.39,
+  "data_analise": "2026-07-30T00:13:53Z",
+  "data_criacao": "2026-07-29T21:13:53.182351-03:00"
+}

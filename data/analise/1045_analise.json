@@ -1,0 +1,32 @@
+{
+  "id": 1045,
+  "nome_original": "Palhacinho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul",
+      "vermelho",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "peruca"
+    ],
+    "material_visual": "cetim sintético e tule",
+    "estilo_corte": "folgado e bufante com punhos elásticos",
+    "acessorios_visiveis": [
+      "gola de tule",
+      "peruca crespa multicolorida"
+    ],
+    "tematica_detalhada": "Palhaço clássico e colorido, com estética infantil e lúdica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1045.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.82,
+  "data_analise": "2026-07-30T01:46:27Z",
+  "data_criacao": "2026-07-29T22:46:27.781359-03:00"
+}

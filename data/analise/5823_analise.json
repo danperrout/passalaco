@@ -1,0 +1,31 @@
+{
+  "id": 5823,
+  "nome_original": "Junina Saia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "blusa regata",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda ou tule na barra",
+    "estilo_corte": "estilo caipira com saia rodada e listrada",
+    "acessorios_visiveis": [
+      "laço de cabelo colorido",
+      "faixa na cintura",
+      "laço lateral na saia"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, representando a vestimenta típica caipira estilizada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5823.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 69.3,
+  "data_analise": "2026-07-29T07:04:18Z",
+  "data_criacao": "2026-07-29T04:04:18.915049-03:00"
+}

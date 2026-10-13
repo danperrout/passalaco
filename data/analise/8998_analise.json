@@ -1,0 +1,30 @@
+{
+  "id": 8998,
+  "nome_original": "Junina Saia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia"
+    ],
+    "material_visual": "tecido xadrez e tecido sintético com estampas",
+    "estilo_corte": "blusa justa e saia volumosa com babados",
+    "acessorios_visiveis": [
+      "tiara com pompons"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, com referências a cenários rurais e caipiras"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8998.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 232.37,
+  "data_analise": "2026-07-29T07:21:05Z",
+  "data_criacao": "2026-07-29T04:21:05.576813-03:00"
+}

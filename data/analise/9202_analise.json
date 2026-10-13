@@ -1,0 +1,30 @@
+{
+  "id": 9202,
+  "nome_original": "Junina Saia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com estampas e retalhos",
+    "estilo_corte": "blusa justa e saia rodada com babados",
+    "acessorios_visiveis": [
+      "flor de cabelo"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, caracterizada pelo estilo caipira com uso de retalhos coloridos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9202.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 165.88,
+  "data_analise": "2026-07-29T07:16:30Z",
+  "data_criacao": "2026-07-29T04:16:30.086834-03:00"
+}

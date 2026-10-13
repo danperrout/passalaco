@@ -1,0 +1,27 @@
+{
+  "id": 9136,
+  "nome_original": "Mascote Cachorro",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "cabeça de mascote"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "estilo mascot全身 (corpo inteiro) com modelagem volumosa",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia de cachorro antropomorfizado, estilo mascote promocional ou de entretenimento"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9136.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 95.2,
+  "data_analise": "2026-07-29T19:10:40Z",
+  "data_criacao": "2026-07-29T16:10:40.791861-03:00"
+}

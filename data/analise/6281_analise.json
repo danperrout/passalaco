@@ -1,0 +1,28 @@
+{
+  "id": 6281,
+  "nome_original": "Jasmine",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul turquesa"
+    ],
+    "pecas_inclusas": [
+      "top ombro a ombro",
+      "calça pantalona"
+    ],
+    "material_visual": "tecido acetinado com detalhes em tule brilhante",
+    "estilo_corte": "conjunto de duas peças com cintura marcada e calça fluida",
+    "acessorios_visiveis": [
+      "cinto decorativo com pedrarias"
+    ],
+    "tematica_detalhada": "Personagem Jasmine do filme Aladdin, inspirada em trajes árabes estilizados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6281.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 156.65,
+  "data_analise": "2026-07-28T19:44:44Z",
+  "data_criacao": "2026-07-28T16:44:44.117384-03:00"
+}

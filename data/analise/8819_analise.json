@@ -1,0 +1,33 @@
+{
+  "id": 8819,
+  "nome_original": "Mae e Filha Palhacinha",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "verde",
+      "rosa",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "vestido adulto",
+      "vestido infantil",
+      "mini chapéu adulto",
+      "mini chapéu infantil"
+    ],
+    "material_visual": "tule, cetim e tecidos sintéticos brilhantes",
+    "estilo_corte": "saia rodada estilo tutu com corpete ajustado e gola volumosa",
+    "acessorios_visiveis": [
+      "mini chapéus decorativos"
+    ],
+    "tematica_detalhada": "Palhaça colorida e festiva, com referências a circos clássicos e estética infantil lúdica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8819.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 523.78,
+  "data_analise": "2026-07-29T14:50:20Z",
+  "data_criacao": "2026-07-29T11:50:20.460652-03:00"
+}

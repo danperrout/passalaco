@@ -1,0 +1,26 @@
+{
+  "id": 3118,
+  "nome_original": "Chinesa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim ou tecido sintético com brilho e estampa floral",
+    "estilo_corte": "estilo qipao/cheongsam, justo ao corpo, com gola alta e mangas curtas",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia inspirada na cultura chinesa, remetendo ao vestido tradicional Qipao, frequentemente associado a celebrações e festividades orientais."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3118.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 90.94,
+  "data_analise": "2026-07-27T21:03:34Z",
+  "data_criacao": "2026-07-27T18:03:34.904640-03:00"
+}

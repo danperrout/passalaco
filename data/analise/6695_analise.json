@@ -1,0 +1,28 @@
+{
+  "id": 6695,
+  "nome_original": "Luna",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster ou oxford",
+    "estilo_corte": "estilo evasê com cintura marcada e gola careca",
+    "acessorios_visiveis": [
+      "cinto vermelho"
+    ],
+    "tematica_detalhada": "fantasia infantil baseada na personagem Luna do desenho 'O Show da Luna', focada em ciência e descoberta"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6695.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 33.67,
+  "data_analise": "2026-07-29T12:54:28Z",
+  "data_criacao": "2026-07-29T09:54:28.724532-03:00"
+}

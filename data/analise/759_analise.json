@@ -1,0 +1,30 @@
+{
+  "id": 759,
+  "nome_original": "Jasmine",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul turquesa",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "cetim com sobreposição de tule e aplicações de brilho",
+    "estilo_corte": "top estilo biquíni com amarração no pescoço e saia curta com transparência",
+    "acessorios_visiveis": [
+      "pedrarias aplicadas",
+      "correntes decorativas na cintura"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na Princesa Jasmine do filme Aladdin, com referências ao vestuário árabe estilizado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/759.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 101.9,
+  "data_analise": "2026-07-28T19:32:36Z",
+  "data_criacao": "2026-07-28T16:32:36.412128-03:00"
+}

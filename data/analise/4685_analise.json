@@ -1,0 +1,30 @@
+{
+  "id": 4685,
+  "nome_original": "Elvis",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com brilho e apliques de strass",
+    "estilo_corte": "estilo anos 70 com gola ampla e calça boca de sino",
+    "acessorios_visiveis": [
+      "lenço vermelho",
+      "detalhes em pedraria"
+    ],
+    "tematica_detalhada": "fantasia inspirada no cantor Elvis Presley, referenciando a fase Las Vegas com roupas extravagantes e brilhantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4685.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.17,
+  "data_analise": "2026-07-28T03:40:27Z",
+  "data_criacao": "2026-07-28T00:40:27.488959-03:00"
+}

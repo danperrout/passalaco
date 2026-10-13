@@ -1,0 +1,32 @@
+{
+  "id": 8724,
+  "nome_original": "Dança do Ventre",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Danças",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia",
+      "mangas removíveis"
+    ],
+    "material_visual": "tecido sintético com lantejoulas e adornos de miçangas/estrasses",
+    "estilo_corte": "conjunto de duas peças com cintura baixa e transparência",
+    "acessorios_visiveis": [
+      "tiara de cabeça",
+      "cinto ornamentado",
+      "detalhes em franjas de contas"
+    ],
+    "tematica_detalhada": "fantasia de dançarina do ventre com referências à cultura árabe/oriental"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8724.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.57,
+  "data_analise": "2026-07-28T02:40:42Z",
+  "data_criacao": "2026-07-27T23:40:42.087565-03:00"
+}

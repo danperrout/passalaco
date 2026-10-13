@@ -1,0 +1,30 @@
+{
+  "id": 7774,
+  "nome_original": "Havaiana 8 Meses",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "top smock",
+      "saia tutu"
+    ],
+    "material_visual": "tule e tecido elástico",
+    "estilo_corte": "estilo tutu com top ajustado",
+    "acessorios_visiveis": [
+      "guirlanda de flores",
+      "aplicações florais no traje"
+    ],
+    "tematica_detalhada": "temática havaiana/tropical, remetendo a hula dance e natureza exótica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7774.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 104.95,
+  "data_analise": "2026-07-28T13:06:56Z",
+  "data_criacao": "2026-07-28T10:06:56.633561-03:00"
+}

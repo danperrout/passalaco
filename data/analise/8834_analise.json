@@ -1,0 +1,29 @@
+{
+  "id": 8834,
+  "nome_original": "Diabinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "paetês e tule",
+    "estilo_corte": "tomara que caia com saia volumosa estilo tutu",
+    "acessorios_visiveis": [
+      "tiara de chifres",
+      "colar choker"
+    ],
+    "tematica_detalhada": "diabinha estilizada com elementos de fogo, referenciando figuras demoníacas de forma festiva e glamourosa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8834.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.49,
+  "data_analise": "2026-07-28T02:59:39Z",
+  "data_criacao": "2026-07-27T23:59:39.843101-03:00"
+}

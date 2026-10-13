@@ -1,0 +1,30 @@
+{
+  "id": 8030,
+  "nome_original": "Chapeuzinho Vermelho",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz",
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda e fitas",
+    "estilo_corte": "estilo camponesa com corpete transpassado por cordões",
+    "acessorios_visiveis": [
+      "capuz",
+      "fitas de amarração"
+    ],
+    "tematica_detalhada": "personagem de conto de fadas Chapeuzinho Vermelho, com estética estilizada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8030.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.51,
+  "data_analise": "2026-07-27T19:53:24Z",
+  "data_criacao": "2026-07-27T16:53:24.394025-03:00"
+}

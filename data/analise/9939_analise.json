@@ -1,0 +1,32 @@
+{
+  "id": 9939,
+  "nome_original": "Viúva",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "véu",
+      "tiara de flores"
+    ],
+    "material_visual": "renda e cetim",
+    "estilo_corte": "estilo corset com alças finas, mangas bufantes em renda e saia curta assimétrica",
+    "acessorios_visiveis": [
+      "véu de renda",
+      "tiara com flores vermelhas e pretas",
+      "choker preta"
+    ],
+    "tematica_detalhada": "viúva gótica com referências a trajes fúnebres vitorianos e elementos de fantasia dark"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9939.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.95,
+  "data_analise": "2026-07-30T08:52:37Z",
+  "data_criacao": "2026-07-30T05:52:37.515055-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 8455,
+  "nome_original": "Palhacinho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "gola",
+      "touca"
+    ],
+    "material_visual": "tecido sintético brilhante, possivelmente cetim ou poliéster",
+    "estilo_corte": "corte bipartido verticalmente com modelagem solta",
+    "acessorios_visiveis": [
+      "gola de babados",
+      "touca decorada"
+    ],
+    "tematica_detalhada": "fantasia de palhaço clássico, com referências a personagens de circo tradicionais e elementos de arlequim"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8455.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.31,
+  "data_analise": "2026-07-30T01:45:17Z",
+  "data_criacao": "2026-07-29T22:45:17.537007-03:00"
+}

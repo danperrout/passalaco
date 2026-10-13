@@ -1,0 +1,28 @@
+{
+  "id": 7513,
+  "nome_original": "Dona Baratinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim e tule",
+    "estilo_corte": "vestido curto com saia volumosa tipo tutu",
+    "acessorios_visiveis": [
+      "tiara com antenas",
+      "peruca preta"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Dona Baratinha, baseada em fábulas infantis, representando um inseto personificado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7513.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.46,
+  "data_analise": "2026-07-28T03:14:29Z",
+  "data_criacao": "2026-07-28T00:14:29.385816-03:00"
+}

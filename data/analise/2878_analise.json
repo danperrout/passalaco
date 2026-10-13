@@ -1,0 +1,30 @@
+{
+  "id": 2878,
+  "nome_original": "Nossa Senhora de Guadalupe",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul-turquesa",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "manto com capuz"
+    ],
+    "material_visual": "cetim brilhante",
+    "estilo_corte": "corte longo e fluido com manto sobreposto",
+    "acessorios_visiveis": [
+      "auréola"
+    ],
+    "tematica_detalhada": "Representação religiosa de Nossa Senhora de Guadalupe, ícone cultural e religioso do México"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2878.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 51.03,
+  "data_analise": "2026-07-30T00:37:56Z",
+  "data_criacao": "2026-07-29T21:37:56.236759-03:00"
+}

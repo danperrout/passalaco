@@ -1,0 +1,29 @@
+{
+  "id": 8426,
+  "nome_original": "Enfermeira",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "touca"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda e fita de cetim",
+    "estilo_corte": "corte infantil com mangas bufantes e saia rodada",
+    "acessorios_visiveis": [
+      "touca de enfermeira com cruz vermelha"
+    ],
+    "tematica_detalhada": "fantasia clássica de enfermeira, com referências ao uniforme tradicional de saúde com elementos estilizados para festas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8426.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.67,
+  "data_analise": "2026-07-28T03:51:15Z",
+  "data_criacao": "2026-07-28T00:51:15.029046-03:00"
+}

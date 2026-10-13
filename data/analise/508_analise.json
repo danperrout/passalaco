@@ -1,0 +1,31 @@
+{
+  "id": 508,
+  "nome_original": "Dança do Ventre",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Danças",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia",
+      "cinto de quadril"
+    ],
+    "material_visual": "tecido fluido com adornos de miçangas e lantejoulas",
+    "estilo_corte": "conjunto de duas peças com top estilo sutiã e saia longa",
+    "acessorios_visiveis": [
+      "tiara de cabeça",
+      "franjas de miçangas"
+    ],
+    "tematica_detalhada": "fantasia de dançarina do ventre com referências à cultura árabe e oriental"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/508.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.16,
+  "data_analise": "2026-07-28T02:41:39Z",
+  "data_criacao": "2026-07-27T23:41:39.844220-03:00"
+}

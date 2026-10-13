@@ -1,0 +1,30 @@
+{
+  "id": 4426,
+  "nome_original": "Pirata",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "veludo sintético e renda",
+    "estilo_corte": "casaco estilo militar com corte evasê e vestido curto com babados",
+    "acessorios_visiveis": [
+      "chapéu tricórnio"
+    ],
+    "tematica_detalhada": "Pirata clássico feminino, com referências à moda naval do século XVIII"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4426.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.13,
+  "data_analise": "2026-07-30T03:37:27Z",
+  "data_criacao": "2026-07-30T00:37:27.004436-03:00"
+}

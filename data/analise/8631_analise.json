@@ -1,0 +1,31 @@
+{
+  "id": 8631,
+  "nome_original": "Rapunzel",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "lilás",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim e tule",
+    "estilo_corte": "estilo princesa com corpete ajustado e saia volumosa",
+    "acessorios_visiveis": [
+      "peruca com trança longa",
+      "tiara",
+      "flores decorativas"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Rapunzel, inspirada no conto de fadas e na animação da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8631.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.04,
+  "data_analise": "2026-07-30T04:34:43Z",
+  "data_criacao": "2026-07-30T01:34:43.650490-03:00"
+}

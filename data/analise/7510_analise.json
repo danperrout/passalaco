@@ -1,0 +1,32 @@
+{
+  "id": 7510,
+  "nome_original": "Palhacinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara com chapéu"
+    ],
+    "material_visual": "tule, cetim e tecido sintético",
+    "estilo_corte": "estilo baby doll com saia volumosa de tule e mangas bufantes",
+    "acessorios_visiveis": [
+      "mini cartola",
+      "laços decorativos",
+      "tiara"
+    ],
+    "tematica_detalhada": "Palhacinha clássica de circo, com cores vibrantes e elementos lúdicos típicos de entretenimento infantil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7510.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 54.74,
+  "data_analise": "2026-07-30T01:41:04Z",
+  "data_criacao": "2026-07-29T22:41:04.226874-03:00"
+}

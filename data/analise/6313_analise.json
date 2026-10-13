@@ -1,0 +1,32 @@
+{
+  "id": 6313,
+  "nome_original": "Tiara Princesa Sophia",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "lilás",
+      "branco",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara",
+      "colar"
+    ],
+    "material_visual": "cetim brilhante e plástico metalizado com pedrarias",
+    "estilo_corte": "vestido com mangas bufantes",
+    "acessorios_visiveis": [
+      "tiara de princesa",
+      "colar de pérolas com pingente"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Princesa Sofia (Sofia the First), com elementos reais e realeza infantil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6313.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.06,
+  "data_analise": "2026-07-30T08:12:02Z",
+  "data_criacao": "2026-07-30T05:12:02.571888-03:00"
+}

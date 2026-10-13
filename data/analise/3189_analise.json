@@ -1,0 +1,30 @@
+{
+  "id": 3189,
+  "nome_original": "Colete",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "verde",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético ou feltro",
+    "estilo_corte": "colete sem mangas com recortes irregulares e chapéu de aba curta",
+    "acessorios_visiveis": [
+      "fita preta no chapéu"
+    ],
+    "tematica_detalhada": "fantasia colorida e lúdica, possivelmente inspirada em personagens de circo, palhaços ou temas festivos infantis"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3189.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 34.09,
+  "data_analise": "2026-07-28T00:47:08Z",
+  "data_criacao": "2026-07-27T21:47:08.675313-03:00"
+}

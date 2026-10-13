@@ -1,0 +1,30 @@
+{
+  "id": 1254,
+  "nome_original": "Safari",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético leve com detalhes em estampa animal print",
+    "estilo_corte": "estilo safari com decote em V, botões frontais e saia plissada",
+    "acessorios_visiveis": [
+      "chapéu de safari",
+      "gargantilha preta"
+    ],
+    "tematica_detalhada": "fantasia de exploradora de safari, referenciando guarda-florestas ou aventureiros de selva"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1254.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.67,
+  "data_analise": "2026-07-30T05:16:10Z",
+  "data_criacao": "2026-07-30T02:16:10.202158-03:00"
+}

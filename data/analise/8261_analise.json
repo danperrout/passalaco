@@ -1,0 +1,29 @@
+{
+  "id": 8261,
+  "nome_original": "Country",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "saia",
+      "chapéu"
+    ],
+    "material_visual": "camurça sintética",
+    "estilo_corte": "curto com franjas",
+    "acessorios_visiveis": [
+      "chapéu de cowboy"
+    ],
+    "tematica_detalhada": "estilo country/western, referenciando a cultura de cowboys e cowgirls do oeste americano"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8261.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 46.6,
+  "data_analise": "2026-07-28T02:07:41Z",
+  "data_criacao": "2026-07-27T23:07:41.620298-03:00"
+}

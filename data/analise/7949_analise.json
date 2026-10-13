@@ -1,0 +1,31 @@
+{
+  "id": 7949,
+  "nome_original": "Sereia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "dourado",
+      "creme"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "tiara"
+    ],
+    "material_visual": "crochê ou renda com aplicações de miçangas e pérolas",
+    "estilo_corte": "corte sereia, ajustado ao corpo com babado amplo na barra e busto tomara-que-caia",
+    "acessorios_visiveis": [
+      "tiara de conchas",
+      "correntes de pérolas ornamentais"
+    ],
+    "tematica_detalhada": "Sereia mitológica com estética orgânica e marítima, remetendo a tesouros do oceano"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7949.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 54.61,
+  "data_analise": "2026-07-30T06:20:37Z",
+  "data_criacao": "2026-07-30T03:20:37.073840-03:00"
+}

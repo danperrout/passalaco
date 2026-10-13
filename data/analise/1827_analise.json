@@ -1,0 +1,30 @@
+{
+  "id": 1827,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda e fitas",
+    "estilo_corte": "vestido curto com saia rodada em camadas (babados)",
+    "acessorios_visiveis": [
+      "tiara com enfeite",
+      "flores decorativas no busto"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina feminina, inspirada no traje caipira estilizado com cores vibrantes e adornos típicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1827.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 102.23,
+  "data_analise": "2026-07-28T22:40:11Z",
+  "data_criacao": "2026-07-28T19:40:11.637198-03:00"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 8019,
+  "nome_original": "Policial",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "quepe",
+      "coleira"
+    ],
+    "material_visual": "material sintético com aspecto de couro ou vinil",
+    "estilo_corte": "vestido curto com gola, mangas curtas e cintura marcada por cinto",
+    "acessorios_visiveis": [
+      "quepe",
+      "cinto com fivela",
+      "insígnia no peito",
+      "coleira"
+    ],
+    "tematica_detalhada": "fantasia estilizada de policial feminina, com abordagem sensual e referências a uniformes de autoridade"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8019.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.54,
+  "data_analise": "2026-07-30T03:47:05Z",
+  "data_criacao": "2026-07-30T00:47:05.062043-03:00"
+}

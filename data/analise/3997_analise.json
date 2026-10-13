@@ -1,0 +1,25 @@
+{
+  "id": 3997,
+  "nome_original": "Morte",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica com capuz"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster",
+    "estilo_corte": "corte amplo, longo e fluido, com mangas largas",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Ceifador ou personificação da Morte, referenciando a figura clássica do Grim Reaper"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3997.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 36.81,
+  "data_analise": "2026-07-29T23:01:04Z",
+  "data_criacao": "2026-07-29T20:01:04.404315-03:00"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 8590,
+  "nome_original": "Anjo Negro",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "asas",
+      "calça",
+      "coleira"
+    ],
+    "material_visual": "penas sintéticas e tecido elástico",
+    "estilo_corte": "ajustado ao corpo",
+    "acessorios_visiveis": [
+      "asas negras",
+      "choker"
+    ],
+    "tematica_detalhada": "anjo caído ou anjo negro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8590.jpg",
+  "data_analise": "2026-07-27T13:58:03Z"
+}

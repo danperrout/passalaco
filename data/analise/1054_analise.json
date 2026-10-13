@@ -1,0 +1,33 @@
+{
+  "id": 1054,
+  "nome_original": "Palhaço",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "azul",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "chapéu",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético brilhante, possivelmente poliéster ou cetim",
+    "estilo_corte": "estilo oversized com modelagem larga e retangular",
+    "acessorios_visiveis": [
+      "chapéu xadrez",
+      "peruca azul/verde"
+    ],
+    "tematica_detalhada": "palhaço clássico e colorido, com referências a figuras circenses tradicionais e estética de patchwork"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1054.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 33.3,
+  "data_analise": "2026-07-30T01:48:58Z",
+  "data_criacao": "2026-07-29T22:48:58.595606-03:00"
+}

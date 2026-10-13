@@ -1,0 +1,29 @@
+{
+  "id": 533,
+  "nome_original": "Diabo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara",
+      "botas"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "estilo kigurumi ou pijama oversized",
+    "acessorios_visiveis": [
+      "chifres"
+    ],
+    "tematica_detalhada": "diabo personificado como criatura peluda, misturando elementos demoníacos com um aspecto de mascote"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/533.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.0,
+  "data_analise": "2026-07-28T03:01:38Z",
+  "data_criacao": "2026-07-28T00:01:38.351404-03:00"
+}

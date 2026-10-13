@@ -1,0 +1,30 @@
+{
+  "id": 5076,
+  "nome_original": "Power Rangers",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "macacão"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante",
+    "estilo_corte": "ajustado ao corpo",
+    "acessorios_visiveis": [
+      "cinto"
+    ],
+    "tematica_detalhada": "Power Rangers, especificamente inspirada no Ranger Vermelho, referência à cultura pop de séries de super-heróis sentai"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5076.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 37.01,
+  "data_analise": "2026-07-30T03:53:23Z",
+  "data_criacao": "2026-07-30T00:53:23.894944-03:00"
+}

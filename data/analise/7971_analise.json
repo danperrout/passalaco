@@ -1,0 +1,32 @@
+{
+  "id": 7971,
+  "nome_original": "Paquita",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "dourado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "short",
+      "chapéu"
+    ],
+    "material_visual": "tecido acetinado, paetês e franjas metálicas",
+    "estilo_corte": "estilo militar cropped com cintura alta",
+    "acessorios_visiveis": [
+      "chapéu de estilo militar com pluma",
+      "detalhes de cordão decorativo"
+    ],
+    "tematica_detalhada": "fantasia de Paquita, inspirada em grupos de dança e coreografias de apoio, com estética de banda marcial"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7971.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 188.52,
+  "data_analise": "2026-07-30T02:28:16Z",
+  "data_criacao": "2026-07-29T23:28:16.192875-03:00"
+}

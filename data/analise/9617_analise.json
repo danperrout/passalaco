@@ -1,0 +1,29 @@
+{
+  "id": 9617,
+  "nome_original": "Malevola",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "tiara com chifres"
+    ],
+    "material_visual": "cetim ou tecido sintético com brilho",
+    "estilo_corte": "corte curto com mangas longas e ombreiras estruturadas",
+    "acessorios_visiveis": [
+      "tiara de chifres",
+      "peruca preta"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Malévola, da Disney, representando a icônica vilã com elementos góticos e sombrios"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9617.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 87.24,
+  "data_analise": "2026-07-29T16:50:22Z",
+  "data_criacao": "2026-07-29T13:50:22.605960-03:00"
+}

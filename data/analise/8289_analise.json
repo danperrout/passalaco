@@ -1,0 +1,34 @@
+{
+  "id": 8289,
+  "nome_original": "Thor",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "túnica",
+      "calça",
+      "capacete"
+    ],
+    "material_visual": "tecido sintético acetinado e plástico moldado",
+    "estilo_corte": "conjunto de peça única com capa acoplada",
+    "acessorios_visiveis": [
+      "martelo Mjölnir",
+      "capacete viking",
+      "discos metálicos decorativos"
+    ],
+    "tematica_detalhada": "Personagem Thor, inspirado na mitologia nórdica e nas adaptações da Marvel Comics/MCU"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8289.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.51,
+  "data_analise": "2026-07-30T07:47:18Z",
+  "data_criacao": "2026-07-30T04:47:18.753119-03:00"
+}

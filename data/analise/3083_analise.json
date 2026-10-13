@@ -1,0 +1,33 @@
+{
+  "id": 3083,
+  "nome_original": "Tango",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "calça",
+      "chapéu",
+      "faixa de cintura"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "ajustado ao corpo com colete aberto e faixa drapeada",
+    "acessorios_visiveis": [
+      "chapéu de aba larga",
+      "faixa vermelha",
+      "detalhes decorativos vermelhos no colete"
+    ],
+    "tematica_detalhada": "Traje típico de dançarino de tango ou gaúcho, referenciando a cultura rioplatense da Argentina e Uruguai"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3083.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.6,
+  "data_analise": "2026-07-30T07:38:40Z",
+  "data_criacao": "2026-07-30T04:38:40.608667-03:00"
+}

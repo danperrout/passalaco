@@ -1,0 +1,34 @@
+{
+  "id": 857,
+  "nome_original": "Marinheiro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente poliéster ou cetim",
+    "estilo_corte": "corte reto e solto, com gola marinheiro",
+    "acessorios_visiveis": [
+      "chapéu de marinheiro",
+      "detalhe de âncora dourada",
+      "laço no pescoço"
+    ],
+    "tematica_detalhada": "fantasia de marinheiro clássica, remetendo a uniformes navais tradicionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/857.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 537.81,
+  "data_analise": "2026-07-29T18:10:08Z",
+  "data_criacao": "2026-07-29T15:10:08.693867-03:00"
+}

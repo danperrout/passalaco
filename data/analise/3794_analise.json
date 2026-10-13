@@ -1,0 +1,28 @@
+{
+  "id": 3794,
+  "nome_original": "Bela",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "cetim com aplicações de glitter e detalhes em renda/bordado",
+    "estilo_corte": "estilo baile com saia volumosa e corpete ajustado",
+    "acessorios_visiveis": [
+      "tiara dourada"
+    ],
+    "tematica_detalhada": "Personagem Bela do filme 'A Bela e a Fera', representando o traje de baile icônico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3794.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.66,
+  "data_analise": "2026-07-27T17:51:49Z",
+  "data_criacao": "2026-07-27T14:51:49.307433-03:00"
+}

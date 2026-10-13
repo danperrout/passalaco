@@ -1,0 +1,30 @@
+{
+  "id": 6046,
+  "nome_original": "Piloto",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "boné"
+    ],
+    "material_visual": "tecido sintético acetinado",
+    "estilo_corte": "estilo macacão de corrida ajustado com gola alta",
+    "acessorios_visiveis": [
+      "cinto branco com bandeira do Brasil",
+      "boné vermelho"
+    ],
+    "tematica_detalhada": "Piloto de Fórmula 1 da equipe Ferrari, com referências a patrocinadores como Shell e Marlboro, e identificação brasileira"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6046.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.72,
+  "data_analise": "2026-07-30T03:27:42Z",
+  "data_criacao": "2026-07-30T00:27:42.540318-03:00"
+}

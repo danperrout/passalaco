@@ -1,0 +1,30 @@
+{
+  "id": 1106,
+  "nome_original": "Pedrita",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Gregas/Romanos",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "faixa de cabelo"
+    ],
+    "material_visual": "tecido sintético com estampa de animal print",
+    "estilo_corte": "vestido curto de alça única com decote assimétrico",
+    "acessorios_visiveis": [
+      "tiara com pompons",
+      "colar de contas"
+    ],
+    "tematica_detalhada": "fantasia da personagem Pedrita, do desenho The Flintstones, remetendo à era pré-histórica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1106.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 22.22,
+  "data_analise": "2026-07-30T02:54:29Z",
+  "data_criacao": "2026-07-29T23:54:29.799169-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1554,
+  "nome_original": "Presidiario",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente poliéster",
+    "estilo_corte": "corte reto e folgado com estampa de listras horizontais",
+    "acessorios_visiveis": [
+      "touca combinando com a roupa"
+    ],
+    "tematica_detalhada": "fantasia de prisioneiro clássica, com referência a uniformes de presídios antigos e uso do número 171"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1554.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.89,
+  "data_analise": "2026-07-30T03:56:11Z",
+  "data_criacao": "2026-07-30T00:56:11.792256-03:00"
+}

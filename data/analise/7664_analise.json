@@ -1,0 +1,32 @@
+{
+  "id": 7664,
+  "nome_original": "Hannibal",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte reto com camisa de gola e calça folgada",
+    "acessorios_visiveis": [
+      "máscara facial preta",
+      "estabilizador/faixa branca frontal"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Hannibal Lecter, referenciando trajes de contenção ou uniformes prisionais de alta segurança"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7664.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 132.52,
+  "data_analise": "2026-07-28T12:16:54Z",
+  "data_criacao": "2026-07-28T09:16:54.065096-03:00"
+}

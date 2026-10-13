@@ -1,0 +1,35 @@
+{
+  "id": 8739,
+  "nome_original": "Casal Medieval",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaca",
+      "camisa",
+      "vestido longo",
+      "chapéu"
+    ],
+    "material_visual": "tecidos sintéticos com brilho, possivelmente cetim ou poliéster",
+    "estilo_corte": "estilo renascentista/medieval com casaco longo e vestido de cintura alta e saia ampla",
+    "acessorios_visivelis": [
+      "chapéu de abas",
+      "detalhes dourados ornamentais",
+      "tiara ou adorno de cabeça"
+    ],
+    "tematica_detalhada": "Casal Medieval/Renascentista, remetendo a nobreza da época, com referências a cortes europeias antigas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8739.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.96,
+  "data_analise": "2026-07-27T19:35:26Z",
+  "data_criacao": "2026-07-27T16:35:26.964733-03:00"
+}

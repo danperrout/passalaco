@@ -1,0 +1,32 @@
+{
+  "id": 8088,
+  "nome_original": "Wolverine",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "corpete",
+      "saia",
+      "máscara",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético brilhante, possivelmente cetim ou poliéster",
+    "estilo_corte": "estilo feminilizado com corpete ajustado e saia curta franzida",
+    "acessorios_visiveis": [
+      "máscara com pontas",
+      "luvas pretas com garras prateadas"
+    ],
+    "tematica_detalhada": "versão feminilizada do personagem Wolverine dos X-Men, com logo da equipe no peito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8088.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.24,
+  "data_analise": "2026-07-30T08:55:07Z",
+  "data_criacao": "2026-07-30T05:55:07.130481-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 8327,
+  "nome_original": "Rainha Ma",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "prateado"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "coroa"
+    ],
+    "material_visual": "tecido com paetês e detalhes em renda",
+    "estilo_corte": "estilo princesa com mangas bufantes, corpete ajustado com amarração frontal e saia rodada",
+    "acessorios_visiveis": [
+      "coroa preta"
+    ],
+    "tematica_detalhada": "realeza sombria ou gótica, remetendo a uma versão alternativa de rainha ou personagem de contos de fadas obscuros"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8327.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.59,
+  "data_analise": "2026-07-30T04:30:54Z",
+  "data_criacao": "2026-07-30T01:30:54.475450-03:00"
+}

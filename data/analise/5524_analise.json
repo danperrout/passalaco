@@ -1,0 +1,22 @@
+{
+  "id": 5524,
+  "nome_original": "Aquaman",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "macacão de corpo inteiro"
+    ],
+    "material_visual": "tecido sintético elastano",
+    "estilo_corte": "ajustado ao corpo (skinny)",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "versão simplificada e estilizada do personagem Aquaman"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5524.jpg",
+  "data_analise": "2026-07-27T14:12:33Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 4445,
+  "nome_original": "Lenço",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "rosa",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "lenço de cabeça"
+    ],
+    "material_visual": "tecido sintético com acabamento em franjas",
+    "estilo_corte": "estilo babushka ou lenço camponês",
+    "acessorios_visiveis": [
+      "colar dourado"
+    ],
+    "tematica_detalhada": "estética camponesa europeia ou russa, remetendo a personagens folclóricos ou tradicionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4445.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 186.09,
+  "data_analise": "2026-07-29T10:46:01Z",
+  "data_criacao": "2026-07-29T07:46:01.133508-03:00"
+}

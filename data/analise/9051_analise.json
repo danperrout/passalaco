@@ -1,0 +1,31 @@
+{
+  "id": 9051,
+  "nome_original": "Patati",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado",
+    "estilo_corte": "estilo marinheiro com mangas e barras em babados",
+    "acessorios_visiveis": [
+      "laço vermelho",
+      "chapéu azul"
+    ],
+    "tematica_detalhada": "fantasia do personagem Patati, palhaço infantil brasileiro, com elementos de uniforme naval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9051.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.6,
+  "data_analise": "2026-07-30T02:35:26Z",
+  "data_criacao": "2026-07-29T23:35:26.825082-03:00"
+}

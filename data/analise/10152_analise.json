@@ -1,0 +1,30 @@
+{
+  "id": 10152,
+  "nome_original": "India",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "rosa",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "cocar"
+    ],
+    "material_visual": "tecido sintético com franjas e penas artificiais",
+    "estilo_corte": "vestido curto de um ombro só com acabamento em franjas na barra",
+    "acessorios_visiveis": [
+      "cocar decorativo com penas"
+    ],
+    "tematica_detalhada": "Fantasia estilizada de indígena, com referências genéricas a culturas nativas americanas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10152.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 363.94,
+  "data_analise": "2026-07-28T16:44:53Z",
+  "data_criacao": "2026-07-28T13:44:53.364285-03:00"
+}

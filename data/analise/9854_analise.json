@@ -1,0 +1,29 @@
+{
+  "id": 9854,
+  "nome_original": "Junina Verde",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde lima",
+      "branco",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com estampa floral e babados",
+    "estilo_corte": "vestido rodado com camadas de babados e alças largas",
+    "acessorios_visiveis": [
+      "tiara com laço e fitas"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina infantil, inspirada no traje caipira estilizado com elementos rurais e florais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9854.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 62.11,
+  "data_analise": "2026-07-29T07:50:30Z",
+  "data_criacao": "2026-07-29T04:50:30.234099-03:00"
+}

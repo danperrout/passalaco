@@ -1,0 +1,32 @@
+{
+  "id": 8385,
+  "nome_original": "Rainha de Copas",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "corpete",
+      "saia curta",
+      "luvas longas"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante",
+    "estilo_corte": "estilo espartilho com gola alta e saia assimétrica",
+    "acessorios_visiveis": [
+      "tiara",
+      "luvas"
+    ],
+    "tematica_detalhada": "Rainha de Copas, inspirada na obra Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8385.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 39.28,
+  "data_analise": "2026-07-30T04:26:00Z",
+  "data_criacao": "2026-07-30T01:26:00.503121-03:00"
+}

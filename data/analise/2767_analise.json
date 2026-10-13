@@ -1,0 +1,33 @@
+{
+  "id": 2767,
+  "nome_original": "Soldadinho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "preto",
+      "cinza"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "calça",
+      "capacete"
+    ],
+    "material_visual": "tecido sintético com estampa camuflada",
+    "estilo_corte": "estilo militar operacional com ajuste por cinto",
+    "acessorios_visiveis": [
+      "capacete com estrela",
+      "cinto",
+      "botas pretas"
+    ],
+    "tematica_detalhada": "fantasia de soldado militar com padrão de camuflagem, remetendo a exércitos modernos ou figuras de ação militares"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2767.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.87,
+  "data_analise": "2026-07-30T06:57:12Z",
+  "data_criacao": "2026-07-30T03:57:12.143178-03:00"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 7326,
+  "nome_original": "Saia Tule",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul claro"
+    ],
+    "pecas_inclusas": [
+      "saia de tule"
+    ],
+    "material_visual": "tule sintético translúcido",
+    "estilo_corte": "evasê volumoso com cós elástico",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "estilo tutu de bailarina, comum em fantasias de fadas, princesas ou figurinos de dança clássica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7326.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.89,
+  "data_analise": "2026-07-30T05:50:10Z",
+  "data_criacao": "2026-07-30T02:50:10.549022-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 7544,
+  "nome_original": "Maria Bonita",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda e adornos brilhantes",
+    "estilo_corte": "vestido curto com saia rodada e alças, chapéu estilo cangaíste",
+    "acessorios_visiveis": [
+      "chapéu de couro estilizado",
+      "detalhes em pedrarias"
+    ],
+    "tematica_detalhada": "Fantasia de Maria Bonita, referência à cultura do Cangaço do Nordeste brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7544.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 45.55,
+  "data_analise": "2026-07-29T17:35:28Z",
+  "data_criacao": "2026-07-29T14:35:28.653160-03:00"
+}

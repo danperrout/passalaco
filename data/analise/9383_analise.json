@@ -1,0 +1,28 @@
+{
+  "id": 9383,
+  "nome_original": "Coroa Guardada",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prateado",
+      "iridescente"
+    ],
+    "pecas_inclusas": [
+      "tiara"
+    ],
+    "material_visual": "metal prateado com incrustações de cristais e pedras sintéticas",
+    "estilo_corte": "estilo coroa clássica com pontas ornamentadas e design simétrico",
+    "acessorios_visiveis": [
+      "pedras preciosas artificiais"
+    ],
+    "tematica_detalhada": "realeza, fantasia de princesa ou rainha, com referências a contos de fada e luxo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9383.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.85,
+  "data_analise": "2026-07-28T01:44:14Z",
+  "data_criacao": "2026-07-27T22:44:14.446496-03:00"
+}

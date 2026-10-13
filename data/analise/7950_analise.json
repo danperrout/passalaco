@@ -1,0 +1,35 @@
+{
+  "id": 7950,
+  "nome_original": "Guerreiro",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Gregas/Romanos",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "capacete",
+      "ombreira",
+      "cinto",
+      "saiote",
+      "braçadeiras"
+    ],
+    "material_visual": "material sintético imitando couro e tecido",
+    "estilo_corte": "estilo armadura fragmentada com cortes assimétricos",
+    "acessorios_visiveis": [
+      "crista de penas vermelhas",
+      "fivela metálica",
+      "detalhes em pele sintética"
+    ],
+    "tematica_detalhada": "Guerreiro da Antiguidade com forte referência a centuriões romanos e gladiadores"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7950.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 37.6,
+  "data_analise": "2026-07-28T11:52:44Z",
+  "data_criacao": "2026-07-28T08:52:44.066760-03:00"
+}

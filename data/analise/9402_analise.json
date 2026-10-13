@@ -1,0 +1,31 @@
+{
+  "id": 9402,
+  "nome_original": "Policial",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "boina"
+    ],
+    "material_visual": "tecido sintético com acabamento em couro sintético na bainha e aba do chapéu",
+    "estilo_corte": "vestido justo no busto com saia rodada, decote em V e mangas curtas bufantes",
+    "acessorios_visiveis": [
+      "cinto preto com fivela dourada",
+      "boina com emblema",
+      "botões decorativos dourados"
+    ],
+    "tematica_detalhada": "fantasia estilizada de policial ou autoridade militar, com abordagem sensual e fashionista"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9402.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.77,
+  "data_analise": "2026-07-30T03:47:37Z",
+  "data_criacao": "2026-07-30T00:47:37.223894-03:00"
+}

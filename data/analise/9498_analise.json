@@ -1,0 +1,33 @@
+{
+  "id": 9498,
+  "nome_original": "Lampiao",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "cinto",
+      "chapéu",
+      "bolsa"
+    ],
+    "material_visual": "tecido sintético tipo sarja ou poliéster",
+    "estilo_corte": "macacão de manga curta com corte reto",
+    "acessorios_visiveis": [
+      "chapéu de couro estilizado",
+      "cinto ornamentado",
+      "bolsa transversal"
+    ],
+    "tematica_detalhada": "Cangaço brasileiro, referenciando a figura histórica de Lampião"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9498.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 821.42,
+  "data_analise": "2026-07-29T09:12:56Z",
+  "data_criacao": "2026-07-29T06:12:56.247511-03:00"
+}

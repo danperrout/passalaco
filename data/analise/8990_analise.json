@@ -1,0 +1,31 @@
+{
+  "id": 8990,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "magenta",
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com renda e fitas de cetim",
+    "estilo_corte": "vestido rodado com babados e mangas bufantes",
+    "acessorios_visiveis": [
+      "tiara com flor",
+      "aplicações florais no vestido"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina infantil, inspirada no traje típico caipira brasileiro, caracterizada por cores vibrantes, xadrez e adornos florais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8990.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 43.15,
+  "data_analise": "2026-07-29T00:58:43Z",
+  "data_criacao": "2026-07-28T21:58:43.491248-03:00"
+}

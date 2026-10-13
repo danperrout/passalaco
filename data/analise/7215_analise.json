@@ -1,0 +1,32 @@
+{
+  "id": 7215,
+  "nome_original": "Medieval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "branco",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "tiara"
+    ],
+    "material_visual": "veludo e cetim com detalhes em renda ou passamanaria dourada",
+    "estilo_corte": "corte imperial com saia ampla e corpete estruturado",
+    "acessorios_visiveis": [
+      "tiara dourada",
+      "cinto ornamentado"
+    ],
+    "tematica_detalhada": "Fantasia de realeza medieval, remetendo a rainhas ou nobreza europeia da Idade Média"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7215.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 30.19,
+  "data_analise": "2026-07-29T21:08:59Z",
+  "data_criacao": "2026-07-29T18:08:59.229284-03:00"
+}

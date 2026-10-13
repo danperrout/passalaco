@@ -1,0 +1,29 @@
+{
+  "id": 9782,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul royal",
+      "azul escuro"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "saia curta com franjas"
+    ],
+    "material_visual": "tecido com paetês e franjas sintéticas",
+    "estilo_corte": "conjunto de duas peças, top tomara que caia e saia de cintura alta com franjas longas",
+    "acessorios_visiveis": [
+      "arranjo de cabeça com penas e flores"
+    ],
+    "tematica_detalhada": "fantasia de passista de carnaval ou showgirl, com referências a desfiles de escolas de samba"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9782.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.67,
+  "data_analise": "2026-07-27T19:24:31Z",
+  "data_criacao": "2026-07-27T16:24:31.190979-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 9540,
+  "nome_original": "Bruxinha",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Halloween Infantil",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tule, tecido sintético e glitter",
+    "estilo_corte": "vestido curto com saia volumosa em camadas e gola franzida",
+    "acessorios_visiveis": [
+      "chapéu de bruxa pontudo"
+    ],
+    "tematica_detalhada": "bruxinha clássica com estética festiva e elementos de Halloween"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9540.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 448.51,
+  "data_analise": "2026-07-27T18:40:35Z",
+  "data_criacao": "2026-07-27T15:40:35.197587-03:00"
+}

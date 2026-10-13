@@ -1,0 +1,32 @@
+{
+  "id": 9706,
+  "nome_original": "Mascote Monica Noel",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "máscara de cabeça",
+      "roupão/manto",
+      "gorro de Papai Noel",
+      "calças/botas pretas"
+    ],
+    "material_visual": "tecido aveludado com detalhes em pelúcia sintética",
+    "estilo_corte": "estilo sobretudo longo com abertura frontal e acabamento em pele",
+    "acessorios_visiveis": [
+      "cinto preto",
+      "pelúcia do Sansão"
+    ],
+    "tematica_detalhada": "Fusão da personagem Mônica (Turma da Mônica) com a estética do Papai Noel para temática natalina"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9706.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 66.64,
+  "data_analise": "2026-07-29T20:08:03Z",
+  "data_criacao": "2026-07-29T17:08:03.572714-03:00"
+}

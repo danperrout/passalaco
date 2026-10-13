@@ -1,0 +1,34 @@
+{
+  "id": 10000,
+  "nome_original": "Grinch",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "casaco de papai noel",
+      "calças verdes",
+      "gorro",
+      "máscara"
+    ],
+    "material_visual": "pelúcia e tecido sintético",
+    "estilo_corte": "folgado e volumoso",
+    "acessorios_visiveis": [
+      "cinto preto com fivela",
+      "luvas verdes",
+      "botas pretas"
+    ],
+    "tematica_detalhada": "Personagem Grinch, inspirada no livro e filmes 'Como o Grinch Roubou o Natal', misturando elementos de Papai Noel com a aparência do personagem"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10000.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 46.86,
+  "data_analise": "2026-07-28T11:29:30Z",
+  "data_criacao": "2026-07-28T08:29:30.893965-03:00"
+}

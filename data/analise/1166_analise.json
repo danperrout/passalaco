@@ -1,0 +1,34 @@
+{
+  "id": 1166,
+  "nome_original": "Jack Sparrow",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "camisa",
+      "calça",
+      "bandana"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte colonial com casaco longo e camisa de punhos bufantes",
+    "acessorios_visiveis": [
+      "cinto",
+      "tapa-olho",
+      "bandana"
+    ],
+    "tematica_detalhada": "Pirata, especificamente inspirada no personagem Jack Sparrow da franquia Piratas do Caribe"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1166.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 243.72,
+  "data_analise": "2026-07-28T18:13:35Z",
+  "data_criacao": "2026-07-28T15:13:35.341416-03:00"
+}

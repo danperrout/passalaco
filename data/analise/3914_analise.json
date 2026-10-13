@@ -1,0 +1,28 @@
+{
+  "id": 3914,
+  "nome_original": "Cinderela",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul claro",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule, cetim e detalhes em glitter ou paetês",
+    "estilo_corte": "vestido de baile com mangas bufantes e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara"
+    ],
+    "tematica_detalhada": "fantasia de princesa inspirada na personagem Cinderela da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3914.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 191.73,
+  "data_analise": "2026-07-27T22:46:38Z",
+  "data_criacao": "2026-07-27T19:46:38.534493-03:00"
+}

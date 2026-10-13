@@ -1,0 +1,28 @@
+{
+  "id": 4365,
+  "nome_original": "Quepe Russo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "quepe"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "cilíndrico e volumoso",
+    "acessorios_visiveis": [
+      "emblema frontal dourado"
+    ],
+    "tematica_detalhada": "Inspiração em trajes militares russos ou eslavos, remetendo ao estilo Ushanka ou quepes de alta patente"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4365.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.92,
+  "data_analise": "2026-07-30T04:18:18Z",
+  "data_criacao": "2026-07-30T01:18:18.828200-03:00"
+}

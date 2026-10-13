@@ -1,0 +1,31 @@
+{
+  "id": 9576,
+  "nome_original": "Chapeu de Bruxa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "saia"
+    ],
+    "material_visual": "feltro, tule e renda",
+    "estilo_corte": "chapéu cônico com saia volumosa em tule",
+    "acessorios_visiveis": [
+      "fita decorativa",
+      "renda",
+      "detalhes brilhantes"
+    ],
+    "tematica_detalhada": "Bruxa clássica, com elementos de fantasia e magia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9576.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.82,
+  "data_analise": "2026-07-27T19:52:17Z",
+  "data_criacao": "2026-07-27T16:52:17.701523-03:00"
+}

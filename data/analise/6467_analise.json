@@ -1,0 +1,28 @@
+{
+  "id": 6467,
+  "nome_original": "Sophia",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule, cetim e pedrarias",
+    "estilo_corte": "estilo princesa com mangas bufantes e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara de cristais"
+    ],
+    "tematica_detalhada": "Fantasia de princesa, com forte referência à personagem Princesa Sofia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6467.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.79,
+  "data_analise": "2026-07-30T07:15:55Z",
+  "data_criacao": "2026-07-30T04:15:55.755430-03:00"
+}

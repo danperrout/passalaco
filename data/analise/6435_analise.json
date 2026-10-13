@@ -1,0 +1,31 @@
+{
+  "id": 6435,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "azul",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "cetim ou poliéster com rendas e apliques",
+    "estilo_corte": "vestido rodado com cintura marcada e mangas curtas bufantes",
+    "acessorios_visiveis": [
+      "tiara com laço e flor",
+      "cinto com aplique de coração"
+    ],
+    "tematica_detalhada": "fantasia de festa junina infantil, estilo caipira estilizada com elementos coloridos e decorativos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6435.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 49.68,
+  "data_analise": "2026-07-28T23:39:58Z",
+  "data_criacao": "2026-07-28T20:39:58.224314-03:00"
+}

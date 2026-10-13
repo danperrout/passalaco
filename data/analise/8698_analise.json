@@ -1,0 +1,29 @@
+{
+  "id": 8698,
+  "nome_original": "Magali 4 Meses",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Mesversario",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "miúda/calça"
+    ],
+    "material_visual": "cetim e tule",
+    "estilo_corte": "estilo tutu com mangas bufantes",
+    "acessorios_visiveis": [
+      "fatia de melancia de pelúcia"
+    ],
+    "tematica_detalhada": "Personagem Magali da Turma da Mônica, caracterizada pelas cores amarelo e a referência à melancia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8698.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 237.1,
+  "data_analise": "2026-07-29T15:49:17Z",
+  "data_criacao": "2026-07-29T12:49:17.422963-03:00"
+}

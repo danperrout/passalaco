@@ -1,0 +1,29 @@
+{
+  "id": 7754,
+  "nome_original": "Monstros S/A",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde limão",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido com paetês",
+    "estilo_corte": "vestido curto de corte reto com mangas curtas",
+    "acessorios_visiveis": [
+      "chapéu estilo quepe com detalhe frontal"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Mike Wazowski do filme Monstros S.A., caracterizada pelo corpo verde e olho único central."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7754.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.48,
+  "data_analise": "2026-07-29T22:55:17Z",
+  "data_criacao": "2026-07-29T19:55:17.422880-03:00"
+}

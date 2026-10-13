@@ -1,0 +1,34 @@
+{
+  "id": 6771,
+  "nome_original": "Principe",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "turbante",
+      "faixa"
+    ],
+    "material_visual": "cetim ou poliéster com brilho",
+    "estilo_corte": "estilo oriental/árabe com túnica de gola alta e corte reto",
+    "acessorios_visiveis": [
+      "turbante com pluma",
+      "ombreiras douradas com franjas",
+      "faixa abdominal"
+    ],
+    "tematica_detalhada": "Príncipe árabe ou personagem inspirado em contos como Aladim"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6771.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 65.47,
+  "data_analise": "2026-07-30T04:09:39Z",
+  "data_criacao": "2026-07-30T01:09:39.710368-03:00"
+}

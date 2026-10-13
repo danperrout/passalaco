@@ -1,0 +1,29 @@
+{
+  "id": 7300,
+  "nome_original": "Wolverine",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "ajustado ao corpo com painéis laterais contrastantes",
+    "acessorios_visiveis": [
+      "máscara com pontas características"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Wolverine, dos X-Men da Marvel Comics, baseada no traje clássico amarelo e azul"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7300.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.35,
+  "data_analise": "2026-07-30T08:55:00Z",
+  "data_criacao": "2026-07-30T05:55:00.082581-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 8347,
+  "nome_original": "Detetive do Predio Azul",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "violeta"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "blusa",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado na saia e tecido fosco no casaco",
+    "estilo_corte": "conjunto composto por casaco aberto de corte reto e saia curta evasê",
+    "acessorios_visiveis": [
+      "distintivo/broche no peito",
+      "peruca"
+    ],
+    "tematica_detalhada": "Fantasia inspirada nos personagens da série infantil Detetives do Prédio Azul (DPB), especificamente remetendo à personagem Lucy"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8347.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 27.01,
+  "data_analise": "2026-07-28T02:49:46Z",
+  "data_criacao": "2026-07-27T23:49:46.839037-03:00"
+}

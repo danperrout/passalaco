@@ -1,0 +1,29 @@
+{
+  "id": 6946,
+  "nome_original": "Modelo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com estampa xadrez e babados",
+    "estilo_corte": "estilo boneca com saia volumosa em camadas e alças finas",
+    "acessorios_visiveis": [
+      "fitas coloridas no cabelo"
+    ],
+    "tematica_detalhada": "estilo camponesa estilizada ou personagem de anime/fantasia inspirada em trajes tradicionais europeus coloridos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6946.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 48.9,
+  "data_analise": "2026-07-29T22:49:27Z",
+  "data_criacao": "2026-07-29T19:49:27.486105-03:00"
+}

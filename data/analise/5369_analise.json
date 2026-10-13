@@ -1,0 +1,32 @@
+{
+  "id": 5369,
+  "nome_original": "Mexicana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "laranja",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "blusa estilo poncho",
+      "saia curta",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético acetinado com brilho",
+    "estilo_corte": "corte amplo e fluido com detalhes em zigue-zague",
+    "acessorios_visiveis": [
+      "chapéu de aba larga com franjas",
+      "cinto com amarração"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na cultura mexicana, remetendo a trajes folclóricos estilizados para festas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5369.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 92.5,
+  "data_analise": "2026-07-29T21:56:13Z",
+  "data_criacao": "2026-07-29T18:56:13.661537-03:00"
+}

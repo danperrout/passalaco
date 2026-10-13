@@ -1,0 +1,29 @@
+{
+  "id": 1132,
+  "nome_original": "Pierrot",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão bicolor",
+      "gola"
+    ],
+    "material_visual": "tecido acetinado com brilho",
+    "estilo_corte": "corte dividido verticalmente em duas cores com punhos e barras franzidos",
+    "acessorios_visiveis": [
+      "gola rufada"
+    ],
+    "tematica_detalhada": "Personagem Pierrot, figura clássica da Commedia dell'arte, representando o palhaço triste e melancólico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1132.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.69,
+  "data_analise": "2026-07-30T03:26:03Z",
+  "data_criacao": "2026-07-30T00:26:03.587617-03:00"
+}

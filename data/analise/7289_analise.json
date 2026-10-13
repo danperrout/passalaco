@@ -1,0 +1,35 @@
+{
+  "id": 7289,
+  "nome_original": "Charada",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "azul",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga longa",
+      "calça",
+      "chapéu",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético elástico",
+    "estilo_corte": "ajustado ao corpo",
+    "acessorios_visiveis": [
+      "chapéu de aba",
+      "máscara ocular",
+      "luvas",
+      "faixa na cintura"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Charada (The Riddler), vilão dos quadrinhos do Batman, caracterizado por pontos de interrogação e cores vibrantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7289.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 106.05,
+  "data_analise": "2026-07-27T20:30:49Z",
+  "data_criacao": "2026-07-27T17:30:49.434265-03:00"
+}

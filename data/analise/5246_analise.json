@@ -1,0 +1,28 @@
+{
+  "id": 5246,
+  "nome_original": "Draculaura",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampa e renda",
+    "estilo_corte": "estilo boneca com saia rodada e gola alta de renda",
+    "acessorios_visiveis": [
+      "laços rosa"
+    ],
+    "tematica_detalhada": "Fantasia baseada na personagem Draculaura da franquia Monster High, misturando elementos góticos com estética Lolita"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5246.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.05,
+  "data_analise": "2026-07-28T03:24:00Z",
+  "data_criacao": "2026-07-28T00:24:00.389027-03:00"
+}

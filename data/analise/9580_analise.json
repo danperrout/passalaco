@@ -1,0 +1,28 @@
+{
+  "id": 9580,
+  "nome_original": "Tiara Gato",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "tiara"
+    ],
+    "material_visual": "pelúcia sintética e plástico",
+    "estilo_corte": "arco circular com pompons orifícios",
+    "acessorios_visiveis": [
+      "orelhas de gato"
+    ],
+    "tematica_detalhada": "Acessório de fantasia de gato, comumente utilizado em festas à fantasia, Halloween ou eventos temáticos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9580.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.86,
+  "data_analise": "2026-07-30T08:11:29Z",
+  "data_criacao": "2026-07-30T05:11:29.254975-03:00"
+}

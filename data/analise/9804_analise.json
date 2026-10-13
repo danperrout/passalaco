@@ -1,0 +1,29 @@
+{
+  "id": 9804,
+  "nome_original": "Dinossauro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou poliéster",
+    "estilo_corte": "estilo kigurumi ou pijama oversized",
+    "acessorios_visiveis": [
+      "detalhes em babados no capuz e punhos"
+    ],
+    "tematica_detalhada": "dinossauro estilizado e infantil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9804.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 95.23,
+  "data_analise": "2026-07-28T03:08:13Z",
+  "data_criacao": "2026-07-28T00:08:13.940533-03:00"
+}

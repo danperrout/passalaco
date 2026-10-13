@@ -1,0 +1,33 @@
+{
+  "id": 5644,
+  "nome_original": "Pirata",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "blusa",
+      "corpete",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com acabamento em renda e fitas de cetim",
+    "estilo_corte": "estilo camponesa com corpete ajustado e saia rodada",
+    "acessorios_visiveis": [
+      "chapéu de pirata com babados",
+      "laços decorativos"
+    ],
+    "tematica_detalhada": "Pirata feminina com estética estilizada e romântica, lembrando trajes coloniais fantasiosos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5644.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.85,
+  "data_analise": "2026-07-30T03:40:18Z",
+  "data_criacao": "2026-07-30T00:40:18.011083-03:00"
+}

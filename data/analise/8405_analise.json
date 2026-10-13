@@ -1,0 +1,32 @@
+{
+  "id": 8405,
+  "nome_original": "Noiva Cadaver",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza",
+      "branco",
+      "azul claro"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "véu"
+    ],
+    "material_visual": "renda, tule e tecido sintético",
+    "estilo_corte": "estilo corset com saia curta e rodada",
+    "acessorios_visiveis": [
+      "véu",
+      "tiara",
+      "detalhes de flores negras"
+    ],
+    "tematica_detalhada": "Noiva Cadáver, inspirada no personagem de animação homônima, misturando elementos nupciais com estética gótica e macabra"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8405.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 63.36,
+  "data_analise": "2026-07-30T00:25:41Z",
+  "data_criacao": "2026-07-29T21:25:41.509920-03:00"
+}

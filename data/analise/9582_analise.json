@@ -1,0 +1,29 @@
+{
+  "id": 9582,
+  "nome_original": "Chapeu e Corset",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul royal",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "corset"
+    ],
+    "material_visual": "tecido sintético com brilho e detalhes em penas ou plumas",
+    "estilo_corte": "estilo cabaret/burlesca com corset ajustado e chapéu cônico alongado",
+    "acessorios_visiveis": [
+      "chapéu ornamentado"
+    ],
+    "tematica_detalhada": "estilo showgirl ou performance de cabaret, com referências a figurinos teatrais extravagantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9582.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.37,
+  "data_analise": "2026-07-27T19:52:27Z",
+  "data_criacao": "2026-07-27T16:52:27.803229-03:00"
+}

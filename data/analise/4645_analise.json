@@ -1,0 +1,31 @@
+{
+  "id": 4645,
+  "nome_original": "Wally",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "calça",
+      "touca"
+    ],
+    "material_visual": "tecido sintético ou algodão com acabamento fosco",
+    "estilo_corte": "corte casual e reto, com camiseta de mangas longas e calça ajustada",
+    "acessorios_visiveis": [
+      "touca com pompom"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Wally (Onde está o Wally?), caracterizada pelas listras horizontais vermelhas e brancas e calça azul."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4645.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.05,
+  "data_analise": "2026-07-30T08:52:57Z",
+  "data_criacao": "2026-07-30T05:52:57.698082-03:00"
+}

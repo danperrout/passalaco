@@ -1,0 +1,34 @@
+{
+  "id": 9972,
+  "nome_original": "Casal Anos 70",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "multicolorido",
+      "azul",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "camisa",
+      "vestido",
+      "turbantes"
+    ],
+    "material_visual": "tecido sintético com estampa floral psicodélica",
+    "estilo_corte": "corte flare/boca de sino e modelagem ajustada",
+    "acessorios_visiveis": [
+      "turbantes"
+    ],
+    "tematica_detalhada": "Casal anos 70 com estética hippie e psicodélica, referenciando o movimento Flower Power"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9972.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.74,
+  "data_analise": "2026-07-27T19:30:51Z",
+  "data_criacao": "2026-07-27T16:30:51.698163-03:00"
+}

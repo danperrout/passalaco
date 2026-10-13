@@ -1,0 +1,31 @@
+{
+  "id": 4603,
+  "nome_original": "Magico de Oz",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "camisa",
+      "gravata borboleta"
+    ],
+    "material_visual": "tecido sintético com aparência de poliéster ou cetim",
+    "estilo_corte": "estilo smoking clássico com corte reto",
+    "acessorios_visiveis": [
+      "cartola"
+    ],
+    "tematica_detalhada": "Fantasia de Mágico, inspirada no personagem O Mágico de Oz ou em apresentações de ilusionismo clássicas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4603.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 35.42,
+  "data_analise": "2026-07-29T16:27:11Z",
+  "data_criacao": "2026-07-29T13:27:11.509916-03:00"
+}

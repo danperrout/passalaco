@@ -1,0 +1,32 @@
+{
+  "id": 1154,
+  "nome_original": "Pirata",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "bermuda",
+      "bandana"
+    ],
+    "material_visual": "tecido sintético leve",
+    "estilo_corte": "corte reto com barras irregulares e serrilhadas",
+    "acessorios_visiveis": [
+      "tapa-olho",
+      "bandana",
+      "faixa na cintura"
+    ],
+    "tematica_detalhada": "Pirata clássico, com foco em elementos icônicos como a bandana e o tapa-olho, apresentando estampa frontal de caveira dourada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1154.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.18,
+  "data_analise": "2026-07-30T03:37:34Z",
+  "data_criacao": "2026-07-30T00:37:34.555751-03:00"
+}

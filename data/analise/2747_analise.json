@@ -1,0 +1,31 @@
+{
+  "id": 2747,
+  "nome_original": "Joaninha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "asas",
+      "tiara"
+    ],
+    "material_visual": "material sintético brilhante no busto e tecido fosco na saia",
+    "estilo_corte": "vestido curto com busto ajustado e saia rodada",
+    "acessorios_visiveis": [
+      "tiara com antenas",
+      "asas de joaninha"
+    ],
+    "tematica_detalhada": "fantasia de inseto, especificamente uma joaninha, caracterizada pelas cores vermelho e preto com estampa de bolinhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2747.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 145.45,
+  "data_analise": "2026-07-28T21:19:14Z",
+  "data_criacao": "2026-07-28T18:19:14.451550-03:00"
+}

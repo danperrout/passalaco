@@ -1,0 +1,34 @@
+{
+  "id": 2841,
+  "nome_original": "Palhaço",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "gravata",
+      "cartola"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou poliéster",
+    "estilo_corte": "estilo oversized com calças bufantes",
+    "acessorios_visiveis": [
+      "cartola preta",
+      "gravata de bolinhas",
+      "suspensórios vermelhos"
+    ],
+    "tematica_detalhada": "palhaço clássico e colorido, com referências a trajes circenses tradicionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2841.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.05,
+  "data_analise": "2026-07-30T01:50:37Z",
+  "data_criacao": "2026-07-29T22:50:37.329612-03:00"
+}

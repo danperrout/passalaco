@@ -1,0 +1,33 @@
+{
+  "id": 9033,
+  "nome_original": "Mascote Jacaré",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "máscara/cabeça",
+      "macacão de corpo inteiro",
+      "luvas",
+      "botas/pés",
+      "cauda"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "estilo mascote volumoso (oversized) com enchimento",
+    "acessorios_visiveis": [
+      "dentes artificiais",
+      "garras brancas"
+    ],
+    "tematica_detalhada": "Animal jacaré ou crocodilo, com estética de personagem de desenho animado ou mascote esportivo/promocional"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9033.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 30.95,
+  "data_analise": "2026-07-29T19:38:35Z",
+  "data_criacao": "2026-07-29T16:38:35.032770-03:00"
+}

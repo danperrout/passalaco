@@ -1,0 +1,29 @@
+{
+  "id": 3825,
+  "nome_original": "Mascote Raposa",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "macacão de corpo inteiro",
+      "cabeça de mascote"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "estilo mascote volumoso e oversized",
+    "acessorios_visiveis": [
+      "máscara com orelhas e focinho"
+    ],
+    "tematica_detalhada": "mascote antropomórfico de raposa ou canídeo, com cores estilizadas para fins promocionais ou festivos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3825.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 45.35,
+  "data_analise": "2026-07-29T20:25:39Z",
+  "data_criacao": "2026-07-29T17:25:39.032588-03:00"
+}

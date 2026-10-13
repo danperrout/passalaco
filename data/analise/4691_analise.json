@@ -1,0 +1,28 @@
+{
+  "id": 4691,
+  "nome_original": "Princesa do Mario",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa claro",
+      "rosa choque"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou cetim",
+    "estilo_corte": "vestido curto com decote ombro a ombro e saia rodada",
+    "acessorios_visiveis": [
+      "coroa"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na Princesa Peach da franquia Super Mario"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4691.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.37,
+  "data_analise": "2026-07-30T04:03:18Z",
+  "data_criacao": "2026-07-30T01:03:18.595935-03:00"
+}

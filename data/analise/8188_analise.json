@@ -1,0 +1,31 @@
+{
+  "id": 8188,
+  "nome_original": "Lol",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa",
+      "verde",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim no corpete e tule na saia",
+    "estilo_corte": "corpete ajustado sem mangas com saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "tiara de unicórnio com flores",
+      "laço rosa na cintura"
+    ],
+    "tematica_detalhada": "fantasia de unicórnio colorida, com referências a elementos mágicos e cores pastéis"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8188.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 264.5,
+  "data_analise": "2026-07-29T12:26:21Z",
+  "data_criacao": "2026-07-29T09:26:21.677602-03:00"
+}

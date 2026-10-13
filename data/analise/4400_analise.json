@@ -1,0 +1,33 @@
+{
+  "id": 4400,
+  "nome_original": "Principe",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com acabamentos em dourado",
+    "estilo_corte": "estilo militar com ombreiras e cintura marcada",
+    "acessorios_visiveis": [
+      "plumas no chapéu",
+      "galões dourados",
+      "cinto decorativo"
+    ],
+    "tematica_detalhada": "fantasia de príncipe com inspiração em uniformes militares históricos de gala"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4400.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 33.26,
+  "data_analise": "2026-07-30T04:10:30Z",
+  "data_criacao": "2026-07-30T01:10:30.497863-03:00"
+}

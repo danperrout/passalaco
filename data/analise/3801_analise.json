@@ -1,0 +1,30 @@
+{
+  "id": 3801,
+  "nome_original": "Chines",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "magenta",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "cetim brilhante com estampas florais",
+    "estilo_corte": "estilo Tangzhuang com gola mandarim e fechamento frontal por botões",
+    "acessorios_visiveis": [
+      "chapéu tradicional com detalhe em pompom"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na vestimenta tradicional chinesa, remetendo a trajes imperiais ou festivos da China"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3801.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.6,
+  "data_analise": "2026-07-27T20:55:22Z",
+  "data_criacao": "2026-07-27T17:55:22.537116-03:00"
+}

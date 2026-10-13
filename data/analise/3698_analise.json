@@ -1,0 +1,33 @@
+{
+  "id": 3698,
+  "nome_original": "Chapeleira Maluca",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "amarelo",
+      "marrom",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "cartola",
+      "paletó",
+      "camisa"
+    ],
+    "material_visual": "tecido estampado com aspecto de veludo ou sarja",
+    "estilo_corte": "estilo vitoriano excêntrico com paletó alongado",
+    "acessorios_visiveis": [
+      "cartola com etiqueta",
+      "gravata borboleta"
+    ],
+    "tematica_detalhada": "Chapeleira Maluca, personagem da obra Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3698.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.38,
+  "data_analise": "2026-07-27T19:50:52Z",
+  "data_criacao": "2026-07-27T16:50:52.878037-03:00"
+}

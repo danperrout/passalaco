@@ -1,0 +1,30 @@
+{
+  "id": 2350,
+  "nome_original": "Peruca",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "peruca",
+      "roupa"
+    ],
+    "material_visual": "fibra sintética para a peruca e tecido fosco para a vestimenta",
+    "estilo_corte": "estilo colonial ou jurídico, preso na parte posterior com volume no topo",
+    "acessorios_visiveis": [
+      "laço azul"
+    ],
+    "tematica_detalhada": "fantasia de juiz, advogado ou personagem de época do século XVIII, remetendo a figuras de autoridade jurídica ou aristocracia europeia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2350.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.73,
+  "data_analise": "2026-07-30T03:16:00Z",
+  "data_criacao": "2026-07-30T00:16:00.613656-03:00"
+}

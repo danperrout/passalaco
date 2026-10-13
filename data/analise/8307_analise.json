@@ -1,0 +1,32 @@
+{
+  "id": 8307,
+  "nome_original": "Caveira Mexicana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tule, cetim e tecido sintético",
+    "estilo_corte": "estilo boneca com saia volumosa e alças finas",
+    "acessorios_visiveis": [
+      "chapéu coco",
+      "véu de bolinhas",
+      "estampa de caveira"
+    ],
+    "tematica_detalhada": "Dia dos Mortos (Día de Muertos) com estética gótica e referências à cultura mexicana"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8307.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 27.41,
+  "data_analise": "2026-07-27T19:42:56Z",
+  "data_criacao": "2026-07-27T16:42:56.453951-03:00"
+}

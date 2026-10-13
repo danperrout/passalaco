@@ -1,0 +1,30 @@
+{
+  "id": 858,
+  "nome_original": "Marinheiro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "blusa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com textura levemente acetinada ou canelada",
+    "estilo_corte": "estilo náutico clássico com gola larga e calça folgada",
+    "acessorios_visiveis": [
+      "chapéu de marinheiro"
+    ],
+    "tematica_detalhada": "fantasia de marinheiro infantil, baseada no uniforme naval tradicional"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/858.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.97,
+  "data_analise": "2026-07-29T18:13:51Z",
+  "data_criacao": "2026-07-29T15:13:51.105356-03:00"
+}

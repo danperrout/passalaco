@@ -1,0 +1,33 @@
+{
+  "id": 5448,
+  "nome_original": "Peru",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "marrom",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "capuz com cabeça de ave",
+      "blusa de manga longa",
+      "calça/saia volumosa",
+      "covers de pés"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou feltro",
+    "estilo_corte": "folgado e volumoso na parte inferior para simular corpo de ave",
+    "acessorios_visiveis": [
+      "pés de ave estilizados"
+    ],
+    "tematica_detalhada": "fantasia de peru ou ave vermelha, com representação caricata de bico, crista e patas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5448.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.84,
+  "data_analise": "2026-07-30T03:13:55Z",
+  "data_criacao": "2026-07-30T00:13:55.488827-03:00"
+}

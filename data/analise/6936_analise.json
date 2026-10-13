@@ -1,0 +1,29 @@
+{
+  "id": 6936,
+  "nome_original": "Suspensorio",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "suspensórios"
+    ],
+    "material_visual": "tecido elástico sintético com presilhas metálicas",
+    "estilo_corte": "fitas lineares com ajuste por presilhas",
+    "acessorios_visiveis": [
+      "presilhas de metal"
+    ],
+    "tematica_detalhada": "Acessório com cores que remetem à bandeira da Alemanha ou Bélgica, utilizado para fantasias temáticas, eventos nacionais ou estilos retrô/geek"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6936.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.83,
+  "data_analise": "2026-07-30T07:33:17Z",
+  "data_criacao": "2026-07-30T04:33:17.003729-03:00"
+}

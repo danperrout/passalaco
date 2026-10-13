@@ -1,0 +1,26 @@
+{
+  "id": 7278,
+  "nome_original": "Africano",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "azul",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "chapéu"
+    ],
+    "material_visual": "tecido com estampas coloridas",
+    "estilo_corte": "túnica sem mangas com gola redonda e chapéu cilíndrico",
+    "acessorios_visiveis": [
+      "chapéu estampado"
+    ],
+    "tematica_detalhada": "inspiração em trajes tradicionais africanos com padronagens étnicas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7278.jpg",
+  "data_analise": "2026-07-27T13:37:24Z"
+}

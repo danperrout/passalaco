@@ -1,0 +1,33 @@
+{
+  "id": 3821,
+  "nome_original": "Gato de Botas",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "chapéu",
+      "botas"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "corte clássico de fantasia com mangas bufantes e túnica curta",
+    "acessorios_visiveis": [
+      "chapéu de abas largas com plumas amarelas",
+      "cinto preto com fivela",
+      "capa preta"
+    ],
+    "tematica_detalhada": "fantasia do personagem Gato de Botas, baseada em contos de fadas e referências de aventura medieval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3821.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 349.97,
+  "data_analise": "2026-07-28T10:36:17Z",
+  "data_criacao": "2026-07-28T07:36:17.316109-03:00"
+}

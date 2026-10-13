@@ -1,0 +1,27 @@
+{
+  "id": 8613,
+  "nome_original": "Magali",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com acabamento em tule na barra",
+    "estilo_corte": "corte evasê com mangas curtas e gola redonda",
+    "acessorios_visiveis": [
+      "aplicação de melancia"
+    ],
+    "tematica_detalhada": "personagem Magali da Turma da Mônica, referenciada pela cor amarela do vestido e a imagem da melancia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8613.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 256.01,
+  "data_analise": "2026-07-29T15:42:54Z",
+  "data_criacao": "2026-07-29T12:42:54.554309-03:00"
+}

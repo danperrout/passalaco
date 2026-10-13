@@ -1,0 +1,31 @@
+{
+  "id": 9393,
+  "nome_original": "Mascote Coelho",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "máscara de cabeça de coelho",
+      "paletó",
+      "macacão de corpo inteiro"
+    ],
+    "material_visual": "pelúcia sintética e tecido acetinado",
+    "estilo_corte": "estilo mascote com paletó de corte clássico",
+    "acessorios_visiveis": [
+      "gravata borboleta amarela",
+      "punhos de renda brancos"
+    ],
+    "tematica_detalhada": "Mascote de coelho antropomórfico, com referências a coelhos de Páscoa ou personagens de contos de fadas como o Coelho Branco de Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9393.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 41.51,
+  "data_analise": "2026-07-29T19:22:51Z",
+  "data_criacao": "2026-07-29T16:22:51.682795-03:00"
+}

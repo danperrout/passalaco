@@ -1,0 +1,32 @@
+{
+  "id": 4773,
+  "nome_original": "Chapeleiro Maluco",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "marrom",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "casaco",
+      "gravata borboleta volumosa"
+    ],
+    "material_visual": "tecido com textura xadrez ou quadriculada",
+    "estilo_corte": "estilo vitoriano excêntrico e desproporcional",
+    "acessorios_visiveis": [
+      "cartola com etiqueta",
+      "laço de pescoço oversized"
+    ],
+    "tematica_detalhada": "Personagem Chapeleiro Maluco, baseada na obra Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4773.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.53,
+  "data_analise": "2026-07-27T19:51:21Z",
+  "data_criacao": "2026-07-27T16:51:21.756695-03:00"
+}

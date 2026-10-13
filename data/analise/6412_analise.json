@@ -1,0 +1,29 @@
+{
+  "id": 6412,
+  "nome_original": "Elsa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul claro",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente tule ou cetim, com apliques brilhantes",
+    "estilo_corte": "vestido longo com cintura marcada e mangas longas transparentes",
+    "acessorios_visiveis": [
+      "tiara",
+      "peruca de trança loira"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Elsa, do filme Frozen, representando a Rainha da Neve"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6412.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 39.86,
+  "data_analise": "2026-07-28T03:30:39Z",
+  "data_criacao": "2026-07-28T00:30:39.827330-03:00"
+}

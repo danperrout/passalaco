@@ -1,0 +1,25 @@
+{
+  "id": 2325,
+  "nome_original": "Marilyn Monroe",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido leve com aspecto de cetim ou poliéster e saia plissada",
+    "estilo_corte": "estilo vintage anos 50, com decote em V e saia evasê volumosa",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia inspirada na icônica Marilyn Monroe, referenciando o estilo glamour de Hollywood da era de ouro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2325.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 189.88,
+  "data_analise": "2026-07-29T17:47:24Z",
+  "data_criacao": "2026-07-29T14:47:24.734387-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 9625,
+  "nome_original": "Policial",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga curta",
+      "calça",
+      "boné"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster ou cetim",
+    "estilo_corte": "corte reto e solto, estilo uniforme operacional",
+    "acessorios_visiveis": [
+      "botões metálicos",
+      "boné com emblema"
+    ],
+    "tematica_detalhada": "fantasia de policial genérica, com referências a uniformes de segurança ou forças policiais urbanas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9625.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.67,
+  "data_analise": "2026-07-30T03:47:15Z",
+  "data_criacao": "2026-07-30T00:47:15.615589-03:00"
+}

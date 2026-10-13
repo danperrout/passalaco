@@ -1,0 +1,28 @@
+{
+  "id": 7815,
+  "nome_original": "Coroa Disney",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prata",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "anel"
+    ],
+    "material_visual": "metal prateado com pedrarias sintéticas e detalhe central em resina ou vidro",
+    "estilo_corte": "estilo rebuscado com arabescos e filigranas",
+    "acessorios_visiveis": [
+      "pedras transparentes/azuladas"
+    ],
+    "tematica_detalhada": "Temática da Disney, referenciando a Cinderela, com design inspirado em realeza e contos de fada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7815.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.14,
+  "data_analise": "2026-07-28T01:43:32Z",
+  "data_criacao": "2026-07-27T22:43:32.639358-03:00"
+}

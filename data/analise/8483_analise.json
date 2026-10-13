@@ -1,0 +1,33 @@
+{
+  "id": 8483,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "amarelo",
+      "azul",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "top decorado",
+      "saia curta ornamentada",
+      "headpiece"
+    ],
+    "material_visual": "paetês, lantejoulas, penas e tecidos sintéticos brilhantes",
+    "estilo_corte": "estilo biquíni ornamentado com corte justo e revelador",
+    "acessorios_visiveis": [
+      "plumas coloridas na cabeça",
+      "pedrarias"
+    ],
+    "tematica_detalhada": "Passista de Carnaval brasileiro, referenciando as escolas de samba e desfiles de carnaval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8483.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.61,
+  "data_analise": "2026-07-27T19:23:51Z",
+  "data_criacao": "2026-07-27T16:23:51.140626-03:00"
+}

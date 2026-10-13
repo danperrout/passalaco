@@ -1,0 +1,30 @@
+{
+  "id": 9168,
+  "nome_original": "Malevola",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara de chifres",
+      "asas"
+    ],
+    "material_visual": "pelúcia ou tecido felpudo",
+    "estilo_corte": "vestido curto, reto, sem mangas",
+    "acessorios_visiveis": [
+      "chifres",
+      "asas negras"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Malévola, remetendo a figuras de fadas malignas ou demônios"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9168.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 102.06,
+  "data_analise": "2026-07-29T16:36:37Z",
+  "data_criacao": "2026-07-29T13:36:37.046017-03:00"
+}

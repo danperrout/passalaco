@@ -1,0 +1,32 @@
+{
+  "id": 9413,
+  "nome_original": "Chaves",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "branco",
+      "marrom",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "camiseta listrada",
+      "bermuda"
+    ],
+    "material_visual": "tecido sintético ou algodão",
+    "estilo_corte": "casual e folgado, simulando roupas desgastadas",
+    "acessorios_visiveis": [
+      "suspensórios vermelhos",
+      "chapéu de malha"
+    ],
+    "tematica_detalhada": "Personagem Chaves, da série mexicana El Chavo del Ocho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9413.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 32.31,
+  "data_analise": "2026-07-27T20:42:55Z",
+  "data_criacao": "2026-07-27T17:42:55.196044-03:00"
+}

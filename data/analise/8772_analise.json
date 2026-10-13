@@ -1,0 +1,28 @@
+{
+  "id": 8772,
+  "nome_original": "Laço de Carro",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Acessórios",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "laço"
+    ],
+    "material_visual": "tecido acetinado com brilho e borda rendada",
+    "estilo_corte": "formato de laço clássico com pontas alongadas",
+    "acessorios_visiveis": [
+      "detalhe em renda dourada"
+    ],
+    "tematica_detalhada": "acessório decorativo em formato de laço, frequentemente utilizado em fantasias de presente, personagens festivos ou ornamentos de Natal"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8772.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 46.46,
+  "data_analise": "2026-07-29T08:30:52Z",
+  "data_criacao": "2026-07-29T05:30:52.262997-03:00"
+}

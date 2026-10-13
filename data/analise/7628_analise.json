@@ -1,0 +1,32 @@
+{
+  "id": 7628,
+  "nome_original": "Cosplay",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "camisa com babados"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado e detalhes metálicos",
+    "estilo_corte": "estilo príncipe/realeza contemporâneo com corte slim",
+    "acessorios_visiveis": [
+      "coroa dourada",
+      "gravata borboleta laranja"
+    ],
+    "tematica_detalhada": "Fantasia de príncipe ou realeza estilizada, com referências a personagens de animes ou cosplays de temática nobre"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7628.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 34.71,
+  "data_analise": "2026-07-28T01:57:09Z",
+  "data_criacao": "2026-07-27T22:57:09.282624-03:00"
+}

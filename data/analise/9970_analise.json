@@ -1,0 +1,31 @@
+{
+  "id": 9970,
+  "nome_original": "Cigana Luxo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Ciganas/Espanholas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Dourado"
+    ],
+    "pecas_inclusas": [
+      "Top ombro a ombro",
+      "Saia longa com babados",
+      "Lenço de cabeça"
+    ],
+    "material_visual": "Tecido sintético com brilho, detalhes em renda e adornos metálicos",
+    "estilo_corte": "Corte evasê na saia com camadas assimétricas e top cigana com babados",
+    "acessorios_visiveis": [
+      "Moedas douradas decorativas",
+      "Lenço"
+    ],
+    "tematica_detalhada": "Fantasia de Cigana Luxo, com referências ao estilo boho e dança do ventre, focada em elementos festivos e ornamentos metálicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9970.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 48.53,
+  "data_analise": "2026-07-27T22:11:31Z",
+  "data_criacao": "2026-07-27T19:11:31.216051-03:00"
+}

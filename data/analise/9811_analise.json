@@ -1,0 +1,25 @@
+{
+  "id": 9811,
+  "nome_original": "Anjo",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "prateado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido acetinado com rendas e detalhes brilhantes",
+    "estilo_corte": "fluido, longo, com corpete adornado e saia solta",
+    "acessorios_visiveis": [
+      "auréola",
+      "asas de anjo"
+    ],
+    "tematica_detalhada": "anjo celestial clássico com elementos etéreos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9811.jpg",
+  "data_analise": "2026-07-27T13:56:33Z"
+}

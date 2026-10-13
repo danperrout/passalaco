@@ -1,0 +1,32 @@
+{
+  "id": 8852,
+  "nome_original": "Poderoso Chefinho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga longa",
+      "calça",
+      "gravata",
+      "suspensórios"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco e cetim na gravata",
+    "estilo_corte": "estilo social executivo infantil",
+    "acessorios_visiveis": [
+      "gravata",
+      "suspensórios"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Poderoso Chefinho, simulando um traje formal de negócios para crianças."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8852.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.59,
+  "data_analise": "2026-07-30T03:44:08Z",
+  "data_criacao": "2026-07-30T00:44:08.156690-03:00"
+}

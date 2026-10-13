@@ -1,0 +1,30 @@
+{
+  "id": 7027,
+  "nome_original": "Rainha de Copas",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda e cetim",
+    "estilo_corte": "estilo baby doll com saia rodada e decote arredondado",
+    "acessorios_visiveis": [
+      "coroa dourada",
+      "luvas longas vermelhas"
+    ],
+    "tematica_detalhada": "Rainha de Copas, personagem inspirada no livro Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7027.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 27.18,
+  "data_analise": "2026-07-30T04:25:08Z",
+  "data_criacao": "2026-07-30T01:25:08.576713-03:00"
+}

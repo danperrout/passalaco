@@ -1,0 +1,30 @@
+{
+  "id": 8666,
+  "nome_original": "Boneco Papai Noel",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Natalinas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "chapéu cônico"
+    ],
+    "material_visual": "tecido sintético leve",
+    "estilo_corte": "corte reto com gola contrastante",
+    "acessorios_visiveis": [
+      "chapéu"
+    ],
+    "tematica_detalhada": "Fantasia de elfo natalino, personagem auxiliar do Papai Noel"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8666.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.27,
+  "data_analise": "2026-07-27T18:18:49Z",
+  "data_criacao": "2026-07-27T15:18:49.730413-03:00"
+}

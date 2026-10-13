@@ -1,0 +1,30 @@
+{
+  "id": 999,
+  "nome_original": "Padre",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "capuz/capa"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "longo e amplo com mangas largas",
+    "acessorios_visiveis": [
+      "crucifixo dourado",
+      "cordão de cintura"
+    ],
+    "tematica_detalhada": "fantasia de padre ou monge, referenciando vestimentas religiosas católicas ou franciscanas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/999.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 41.76,
+  "data_analise": "2026-07-30T01:20:42Z",
+  "data_criacao": "2026-07-29T22:20:42.822553-03:00"
+}

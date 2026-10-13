@@ -1,0 +1,29 @@
+{
+  "id": 4872,
+  "nome_original": "Minnie",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim com brilho e veludo",
+    "estilo_corte": "vestido curto com mangas bufantes e saia rodada",
+    "acessorios_visiveis": [
+      "tiara com orelhas e laço",
+      "laço decorativo no busto"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Minnie Mouse, caracterizada pelas cores clássicas e estampa de bolinhas (polka dots)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4872.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.31,
+  "data_analise": "2026-07-29T22:41:16Z",
+  "data_criacao": "2026-07-29T19:41:16.488297-03:00"
+}

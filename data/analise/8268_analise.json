@@ -1,0 +1,29 @@
+{
+  "id": 8268,
+  "nome_original": "Blusa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "blusa"
+    ],
+    "material_visual": "tecido sintético com estampa de corações e renda preta",
+    "estilo_corte": "decote ombro a ombro com acabamento em renda",
+    "acessorios_visiveis": [
+      "tiara decorada com girassóis e fitas coloridas"
+    ],
+    "tematica_detalhada": "estilo romântico e lúdico, possivelmente inspirada em estéticas como 'coquette' ou fantasias temáticas de amor e natureza"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8268.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.73,
+  "data_analise": "2026-07-27T18:13:38Z",
+  "data_criacao": "2026-07-27T15:13:38.827892-03:00"
+}

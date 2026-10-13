@@ -1,0 +1,28 @@
+{
+  "id": 10003,
+  "nome_original": "Branquelas",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "conjunto curto de duas peças com textura felpuda",
+    "acessorios_visiveis": [
+      "detalhe de rosto de animal/personagem no busto"
+    ],
+    "tematica_detalhada": "fantasia inspirada em animais brancos ou criaturas peludas, possivelmente com referência a personagens caricatos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10003.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.28,
+  "data_analise": "2026-07-27T18:22:12Z",
+  "data_criacao": "2026-07-27T15:22:12.513537-03:00"
+}

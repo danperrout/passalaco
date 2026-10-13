@@ -1,0 +1,31 @@
+{
+  "id": 9334,
+  "nome_original": "Fred Krugger",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camiseta de manga longa",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com aparência de malha",
+    "estilo_corte": "corte reto e folgado",
+    "acessorios_visiveis": [
+      "luva com garras",
+      "chapéu fedora"
+    ],
+    "tematica_detalhada": "Personagem Freddy Krueger da franquia de filmes A Hora do Pesadelo, caracterizado por listras horizontais vermelhas e pretas e luva de lâminas."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9334.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 75.14,
+  "data_analise": "2026-07-28T06:27:31Z",
+  "data_criacao": "2026-07-28T03:27:31.411733-03:00"
+}

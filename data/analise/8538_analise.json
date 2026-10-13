@@ -1,0 +1,30 @@
+{
+  "id": 8538,
+  "nome_original": "Arlequina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "camiseta",
+      "shorts"
+    ],
+    "material_visual": "tecido sintético com brilho (estilo cetim ou poliéster)",
+    "estilo_corte": "caimento esportivo e casual",
+    "acessorios_visiveis": [
+      "nenhum"
+    ],
+    "tematica_detalhada": "fantasia inspirada na personagem Arlequina (Suicide Squad/Esquadrão Suicida)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8538.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 12.38,
+  "data_analise": "2026-07-27T16:52:54Z",
+  "data_criacao": "2026-07-27T13:52:54.204265-03:00"
+}

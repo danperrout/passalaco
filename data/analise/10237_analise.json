@@ -1,0 +1,28 @@
+{
+  "id": 10237,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Vitrine",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho e acabamento em renda",
+    "estilo_corte": "modelo ombro a ombro com saia curta em camadas (babados)",
+    "acessorios_visiveis": [
+      "tiara com adornos"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina, inspirada no traje caipira estilizado e colorido"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10237.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 51.98,
+  "data_analise": "2026-07-29T01:31:19Z",
+  "data_criacao": "2026-07-28T22:31:19.724439-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 7297,
+  "nome_original": "X-men Gambit",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "preto",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "sobretudo",
+      "colete",
+      "calças"
+    ],
+    "material_visual": "material sintético com aspecto de couro e tecido texturizado",
+    "estilo_corte": "sobretudo longo com gola alta estruturada e corte reto",
+    "acessorios_visiveis": [
+      "peruca preta"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Gambit, dos X-Men da Marvel Comics, inspirada no visual clássico com sobretudo e traje de combate"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7297.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.9,
+  "data_analise": "2026-07-30T09:00:08Z",
+  "data_criacao": "2026-07-30T06:00:08.596459-03:00"
+}

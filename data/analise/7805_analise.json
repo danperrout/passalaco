@@ -1,0 +1,32 @@
+{
+  "id": 7805,
+  "nome_original": "Boneco Noel",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Branco",
+      "Preto"
+    ],
+    "pecas_inclusas": [
+      "Touca de Papai Noel",
+      "Casaco",
+      "Calças"
+    ],
+    "material_visual": "Tecido sintético aveludado com acabamentos em pelúcia branca",
+    "estilo_corte": "Corte amplo e volumoso, característico de fantasias de personagens (mascote)",
+    "acessorios_visiveis": [
+      "Touca de natal",
+      "Bordas de pelúcia"
+    ],
+    "tematica_detalhada": "Fusão do personagem Mickey Mouse com a figura do Papai Noel, referenciando o Natal da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7805.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.89,
+  "data_analise": "2026-07-27T18:18:46Z",
+  "data_criacao": "2026-07-27T15:18:46.197632-03:00"
+}

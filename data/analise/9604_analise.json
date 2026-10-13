@@ -1,0 +1,32 @@
+{
+  "id": 9604,
+  "nome_original": "Fada",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Fadas/Duendes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul royal",
+      "prata",
+      "azul claro"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "asas",
+      "tiara de flores"
+    ],
+    "material_visual": "tecido fluido na saia, corpete com pedrarias e asas em material sintético translúcido",
+    "estilo_corte": "vestido longo com decote em V profundo e cintura marcada",
+    "acessorios_visiveis": [
+      "asas de fada",
+      "coroa de flores coloridas"
+    ],
+    "tematica_detalhada": "fantasia de fada da natureza ou fada mística, com elementos que remetem à fantasia clássica e contos de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9604.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 50.44,
+  "data_analise": "2026-07-28T04:41:15Z",
+  "data_criacao": "2026-07-28T01:41:15.268872-03:00"
+}

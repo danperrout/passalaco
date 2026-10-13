@@ -1,0 +1,29 @@
+{
+  "id": 9863,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "rosa",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampas florais e acabamento em renda",
+    "estilo_corte": "estilo caipira com decote ombro a ombro, babados e saia rodada",
+    "acessorios_visiveis": [
+      "tiara com fitas coloridas"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, representando a figura da noiva ou prenda caipira com elementos folclóricos regionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9863.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.36,
+  "data_analise": "2026-07-29T01:41:22Z",
+  "data_criacao": "2026-07-28T22:41:22.480657-03:00"
+}

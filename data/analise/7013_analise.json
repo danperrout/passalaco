@@ -1,0 +1,29 @@
+{
+  "id": 7013,
+  "nome_original": "Rainha de Copas",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Preto",
+      "Dourado"
+    ],
+    "pecas_inclusas": [
+      "Vestido"
+    ],
+    "material_visual": "Cetim ou tecido sintético brilhante",
+    "estilo_corte": "Vestido com corpete estruturado e saia evasê",
+    "acessorios_visiveis": [
+      "Tiara/Coroa"
+    ],
+    "tematica_detalhada": "Rainha de Copas, personagem inspirada na obra Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7013.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.14,
+  "data_analise": "2026-07-30T04:26:40Z",
+  "data_criacao": "2026-07-30T01:26:40.646407-03:00"
+}

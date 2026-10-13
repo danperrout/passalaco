@@ -1,0 +1,31 @@
+{
+  "id": 6063,
+  "nome_original": "Deusa Grega",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "adereço de cabeça"
+    ],
+    "material_visual": "tecido sintético com detalhes em passamanaria ou bordados",
+    "estilo_corte": "corte reto e fluido com gola ornamental larga e cintura marcada",
+    "acessorios_visiveis": [
+      "tiara com pendentes de contas",
+      "cinto decorativo"
+    ],
+    "tematica_detalhada": "Embora solicitada como Deusa Grega, a estética visual remete fortemente a uma representação estilizada de trajes do Antigo Egito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6063.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 30.36,
+  "data_analise": "2026-07-28T02:53:19Z",
+  "data_criacao": "2026-07-27T23:53:19.643157-03:00"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 9600,
+  "nome_original": "Laço",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "laço"
+    ],
+    "material_visual": "tecido acetinado com bordados em linha brilhante ou lurex",
+    "estilo_corte": "formato de laço com pontas alongadas",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "acessório decorativo sofisticado, possivelmente para uso em cabelos ou roupas, com estética clássica e luxuosa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9600.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 473.26,
+  "data_analise": "2026-07-29T08:30:05Z",
+  "data_criacao": "2026-07-29T05:30:05.519805-03:00"
+}

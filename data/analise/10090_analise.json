@@ -1,0 +1,32 @@
+{
+  "id": 10090,
+  "nome_original": "Papai Noel Super Luxo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Natalinas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "casaco longo",
+      "calça",
+      "gorro",
+      "barba"
+    ],
+    "material_visual": "veludo com acabamentos em pele sintética e detalhes dourados",
+    "estilo_corte": "corte clássico de sobretudo longo com bordas largas de pele",
+    "acessorios_visiveis": [
+      "barba postiça",
+      "estrela no topo do gorro"
+    ],
+    "tematica_detalhada": "Papai Noel tradicional, figura icônica do Natal, em versão luxuosa com adornos dourados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10090.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 46.67,
+  "data_analise": "2026-07-30T02:19:30Z",
+  "data_criacao": "2026-07-29T23:19:30.873475-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2202,
+  "nome_original": "Sdevhomem Aranha",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "macacão"
+    ],
+    "material_visual": "tecido sintético elástico",
+    "estilo_corte": "justo ao corpo",
+    "acessorios_visiveis": [
+      "máscara com estampa de teia"
+    ],
+    "tematica_detalhada": "Homem-Aranha, super-herói da Marvel Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2202.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 56.04,
+  "data_analise": "2026-07-30T05:58:13Z",
+  "data_criacao": "2026-07-30T02:58:13.006718-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 8513,
+  "nome_original": "Luigi",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "boné",
+      "camiseta",
+      "macacão"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte casual e folgado",
+    "acessorios_visiveis": [
+      "botões amarelos"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Luigi, da franquia de jogos Super Mario da Nintendo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8513.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 72.4,
+  "data_analise": "2026-07-29T12:42:40Z",
+  "data_criacao": "2026-07-29T09:42:40.240374-03:00"
+}

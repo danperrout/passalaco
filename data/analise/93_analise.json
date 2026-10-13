@@ -1,0 +1,24 @@
+{
+  "id": 93,
+  "nome_original": "Anos 60",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampa de poá",
+    "estilo_corte": "estilo rodado com cintura marcada",
+    "acessorios_visiveis": [
+      "laço de cabelo"
+    ],
+    "tematica_detalhada": "estética vintage anos 60 com padrão de bolinhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/93.jpg",
+  "data_analise": "2026-07-27T14:00:07Z"
+}

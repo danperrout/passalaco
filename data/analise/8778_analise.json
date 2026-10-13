@@ -1,0 +1,29 @@
+{
+  "id": 8778,
+  "nome_original": "Batman 6 Meses",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Mesversario",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "body",
+      "capa"
+    ],
+    "material_visual": "tecido sintético com brilho",
+    "estilo_corte": "ajustado ao corpo para bebês",
+    "acessorios_visiveis": [
+      "cinto de utilidades amarelo"
+    ],
+    "tematica_detalhada": "Versão infantil do super-herói Batman, da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8778.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.6,
+  "data_analise": "2026-07-27T17:50:18Z",
+  "data_criacao": "2026-07-27T14:50:18.708296-03:00"
+}

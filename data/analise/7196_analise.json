@@ -1,0 +1,27 @@
+{
+  "id": 7196,
+  "nome_original": "Cabeça",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "máscara de cabeça"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "modelagem anatômica animal",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia de animal, possivelmente representando um cachorro ou criatura peluda"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7196.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.26,
+  "data_analise": "2026-07-27T18:43:15Z",
+  "data_criacao": "2026-07-27T15:43:15.919790-03:00"
+}

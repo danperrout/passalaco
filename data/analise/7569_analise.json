@@ -1,0 +1,31 @@
+{
+  "id": 7569,
+  "nome_original": "Padre",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "batina",
+      "estola"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado na estola",
+    "estilo_corte": "túnica longa de corte reto com mangas largas",
+    "acessorios_visiveis": [
+      "colarinho clerical",
+      "estola ornamentada"
+    ],
+    "tematica_detalhada": "fantasia de padre ou clérigo cristão, com referências a vestimentas litúrgicas tradicionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7569.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 22.6,
+  "data_analise": "2026-07-30T01:25:14Z",
+  "data_criacao": "2026-07-29T22:25:14.188148-03:00"
+}

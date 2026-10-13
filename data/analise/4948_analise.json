@@ -1,0 +1,30 @@
+{
+  "id": 4948,
+  "nome_original": "Bailarina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "corpo do vestido com corpete"
+    ],
+    "material_visual": "tule, cetim e detalhes em glitter ou tecido metalizado",
+    "estilo_corte": "vestido de festa com corpete estruturado, mangas bufantes curtas e saia volumosa de tule",
+    "acessorios_visiveis": [
+      "tiara/coroa",
+      "colar"
+    ],
+    "tematica_detalhada": "fantasia de princesa ou bailarina colorida, possivelmente com temática de fada ou personagem de conto de fadas devido ao uso de cores vibrantes e brilho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4948.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 21.56,
+  "data_analise": "2026-07-27T17:00:14Z",
+  "data_criacao": "2026-07-27T14:00:14.964207-03:00"
+}

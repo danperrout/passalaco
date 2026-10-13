@@ -1,0 +1,35 @@
+{
+  "id": 8925,
+  "nome_original": "Harry Potter Hermione",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "cinza",
+      "bordô",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz",
+      "camisa branca",
+      "saia plissada",
+      "gravata"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster",
+    "estilo_corte": "uniforme escolar estilizado com capa",
+    "acessorios_visiveis": [
+      "gravata listrada",
+      "cinto listrado",
+      "brasão da Grifinória"
+    ],
+    "tematica_detalhada": "Personagem Hermione Granger da saga Harry Potter, representando o uniforme da casa Grifinória da Escola de Magia e Bruxaria de Hogwarts"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8925.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 123.23,
+  "data_analise": "2026-07-28T12:53:21Z",
+  "data_criacao": "2026-07-28T09:53:21.924979-03:00"
+}

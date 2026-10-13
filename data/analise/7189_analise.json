@@ -1,0 +1,31 @@
+{
+  "id": 7189,
+  "nome_original": "Espantalho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde escuro",
+      "bege",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com detalhes que imitam palha",
+    "estilo_corte": "corte reto e folgado",
+    "acessorios_visiveis": [
+      "chapéu de aba larga"
+    ],
+    "tematica_detalhada": "fantasia de espantalho clássico, com referências a personagens rurais e folclore"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7189.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 27.47,
+  "data_analise": "2026-07-28T04:11:44Z",
+  "data_criacao": "2026-07-28T01:11:44.803971-03:00"
+}

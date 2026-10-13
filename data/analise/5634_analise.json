@@ -1,0 +1,29 @@
+{
+  "id": 5634,
+  "nome_original": "Mascara",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Máscaras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "máscara facial"
+    ],
+    "material_visual": "tecido metalizado com brilho, penas e pedrarias",
+    "estilo_corte": "máscara de rosto completo com topo adornado",
+    "acessorios_visiveis": [
+      "penas vermelhas",
+      "pedras vermelhas decorativas"
+    ],
+    "tematica_detalhada": "Fantasia de Carnaval ou baile de máscaras, com referências ao estilo veneziano e luxo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5634.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 60.82,
+  "data_analise": "2026-07-29T18:50:44Z",
+  "data_criacao": "2026-07-29T15:50:44.977717-03:00"
+}

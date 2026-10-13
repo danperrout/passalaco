@@ -1,0 +1,30 @@
+{
+  "id": 9609,
+  "nome_original": "Elsa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul claro",
+      "branco",
+      "prateado"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim ou poliéster com sobreposição de tule brilhante e detalhes em lantejoulas",
+    "estilo_corte": "vestido de festa com corpete ajustado e saia volumosa em formato A",
+    "acessorios_visiveis": [
+      "tiara de cristais",
+      "peruca loira com trança"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Elsa do filme Frozen, inspirada em temas de gelo e inverno"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9609.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 56.74,
+  "data_analise": "2026-07-28T03:38:00Z",
+  "data_criacao": "2026-07-28T00:38:00.909499-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 5551,
+  "nome_original": "The Flash",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão"
+    ],
+    "material_visual": "tecido sintético ou poliéster fosco",
+    "estilo_corte": "corte solto e confortável, estilo pijama ou roupa de dormir",
+    "acessorios_visiveis": [
+      "emblema de raio estampado"
+    ],
+    "tematica_detalhada": "Fantasia do super-herói The Flash, personagem da DC Comics conhecido por sua supervelocidade"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5551.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.05,
+  "data_analise": "2026-07-30T07:44:30Z",
+  "data_criacao": "2026-07-30T04:44:30.555589-03:00"
+}

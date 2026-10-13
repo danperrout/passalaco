@@ -1,0 +1,31 @@
+{
+  "id": 6204,
+  "nome_original": "Palhacinho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "branco",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "peruca"
+    ],
+    "material_visual": "cetim ou poliéster brilhante",
+    "estilo_corte": "corte reto e solto com gola adornada",
+    "acessorios_visiveis": [
+      "peruca multicolorida",
+      "pompons coloridos"
+    ],
+    "tematica_detalhada": "Palhaço clássico e festivo, com referências ao entretenimento circense infantil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6204.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 49.18,
+  "data_analise": "2026-07-30T01:44:11Z",
+  "data_criacao": "2026-07-29T22:44:11.029395-03:00"
+}

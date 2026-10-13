@@ -1,0 +1,30 @@
+{
+  "id": 5281,
+  "nome_original": "Mascara Michael Mayers Latex",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "parte superior da armadura"
+    ],
+    "material_visual": "plástico rígido com acabamento metálico brilhante",
+    "estilo_corte": "estilo armadura robótica moldada",
+    "acessorios_visiveis": [
+      "olhos iluminados por LED"
+    ],
+    "tematica_detalhada": "Homem de Ferro (Iron Man), personagem da Marvel Comics e do Universo Cinematográfico Marvel"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5281.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 73.67,
+  "data_analise": "2026-07-29T19:01:28Z",
+  "data_criacao": "2026-07-29T16:01:28.296131-03:00"
+}

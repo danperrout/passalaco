@@ -1,0 +1,28 @@
+{
+  "id": 394,
+  "nome_original": "Dama",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul royal",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "veludo com brilho ou tecido metalizado",
+    "estilo_corte": "estilo império com decote quadrado e mangas curtas",
+    "acessorios_visiveis": [
+      "tiara dourada"
+    ],
+    "tematica_detalhada": "fantasia de dama da corte ou nobreza medieval/renascentista"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/394.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.89,
+  "data_analise": "2026-07-28T02:28:16Z",
+  "data_criacao": "2026-07-27T23:28:16.072185-03:00"
+}

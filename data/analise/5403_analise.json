@@ -1,0 +1,29 @@
+{
+  "id": 5403,
+  "nome_original": "Bob Esponja Patrick",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "macacão completo",
+      "máscara/cabeça"
+    ],
+    "material_visual": "espuma ou tecido sintético acolchoado",
+    "estilo_corte": "estilo mascote, volumoso e arredondado",
+    "acessorios_visiveis": [
+      "detalhes do rosto impressos"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Patrick Estrela, do desenho animado Bob Esponja"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5403.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.57,
+  "data_analise": "2026-07-27T18:16:08Z",
+  "data_criacao": "2026-07-27T15:16:08.429069-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 3770,
+  "nome_original": "Halloween Abobora",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "máscara de abóbora",
+      "túnica preta",
+      "luvas de garras"
+    ],
+    "material_visual": "plástico ou látex na máscara, tecido sintético na túnica",
+    "estilo_corte": "túnica longa e folgada com mangas compridas",
+    "acessorios_visiveis": [
+      "máscara de abóbora com rosto esculpido",
+      "luvas com garras amarelas"
+    ],
+    "tematica_detalhada": "Halloween clássico, inspirada em Jack-o'-lantern com abordagem de terror/monstro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3770.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 137.09,
+  "data_analise": "2026-07-28T12:14:41Z",
+  "data_criacao": "2026-07-28T09:14:41.257539-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 6886,
+  "nome_original": "Cat Noir",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara"
+    ],
+    "material_visual": "material sintético com brilho, similar a couro ou vinil",
+    "estilo_corte": "ajustado ao corpo (slim fit), com fechamento frontal por zíper",
+    "acessorios_visiveis": [
+      "máscara com orelhas de gato"
+    ],
+    "tematica_detalhada": "Personagem Cat Noir da série Miraculous: As Aventuras de Ladybug"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6886.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.44,
+  "data_analise": "2026-07-27T19:39:24Z",
+  "data_criacao": "2026-07-27T16:39:24.142193-03:00"
+}

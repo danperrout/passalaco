@@ -1,0 +1,25 @@
+{
+  "id": 8714,
+  "nome_original": "Akatsuki",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "manto",
+      "protetor de testa"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "túnica longa com gola alta",
+    "acessorios_visiveis": [
+      "bandana de metal"
+    ],
+    "tematica_detalhada": "Organização Akatsuki do anime Naruto"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8714.jpg",
+  "data_analise": "2026-07-27T13:38:40Z"
+}

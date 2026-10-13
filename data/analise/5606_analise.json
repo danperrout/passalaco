@@ -1,0 +1,23 @@
+{
+  "id": 5606,
+  "nome_original": "Ana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "rosa",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecidos sintéticos, possivelmente cetim e tule",
+    "estilo_corte": "estilo princesa com saia volumosa e evasê",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia colorida inspirada em personagens de fantasia ou contos de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5606.jpg",
+  "data_analise": "2026-07-27T13:55:35Z"
+}

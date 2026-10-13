@@ -1,0 +1,31 @@
+{
+  "id": 5371,
+  "nome_original": "Samurai",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "faixa abdominal"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "corte estilizado com abertura frontal no busto e saia plissada",
+    "acessorios_visiveis": [
+      "faixa preta na cintura",
+      "detalhes pretos nos braços"
+    ],
+    "tematica_detalhada": "versão estilizada e feminina de traje samurai, com referências a kimonos japoneses adaptados para fantasia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5371.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.68,
+  "data_analise": "2026-07-30T05:52:23Z",
+  "data_criacao": "2026-07-30T02:52:23.500314-03:00"
+}

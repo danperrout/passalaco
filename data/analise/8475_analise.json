@@ -1,0 +1,31 @@
+{
+  "id": 8475,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "lilás",
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "saia de tule"
+    ],
+    "material_visual": "tule e tecido sintético com aplicações de flores artificiais",
+    "estilo_corte": "estilo fada com saia volumosa e rodada",
+    "acessorios_visiveis": [
+      "guirlanda de flores",
+      "asas de arame"
+    ],
+    "tematica_detalhada": "fantasia de fada da primavera ou ninfa, com forte referência a elementos florais e natureza"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8475.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.12,
+  "data_analise": "2026-07-27T19:23:46Z",
+  "data_criacao": "2026-07-27T16:23:46.202756-03:00"
+}

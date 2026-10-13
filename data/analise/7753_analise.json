@@ -1,0 +1,30 @@
+{
+  "id": 7753,
+  "nome_original": "Dama",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "cetim e renda ou tecido texturizado",
+    "estilo_corte": "vestido longo com corpete ajustado e saia volumosa",
+    "acessorios_visiveis": [
+      "faixa na cintura",
+      "tiara de flores"
+    ],
+    "tematica_detalhada": "fantasia de dama ou princesa, com referências a roupas de gala infantis ou trajes de debutante"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7753.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 52.83,
+  "data_analise": "2026-07-28T02:27:36Z",
+  "data_criacao": "2026-07-27T23:27:36.472262-03:00"
+}

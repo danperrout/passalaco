@@ -1,0 +1,30 @@
+{
+  "id": 8612,
+  "nome_original": "Chef de Cozinha",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "chapéu de chef",
+      "casaco de chef",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com aparência de poliéster ou algodão",
+    "estilo_corte": "corte reto com casaco de abotoamento duplo",
+    "acessorios_visiveis": [
+      "botões decorativos"
+    ],
+    "tematica_detalhada": "fantasia de Chef de Cozinha profissional, inspirada no vestuário clássico de gastronomia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8612.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 39.75,
+  "data_analise": "2026-07-27T20:51:42Z",
+  "data_criacao": "2026-07-27T17:51:42.351846-03:00"
+}

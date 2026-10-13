@@ -1,0 +1,30 @@
+{
+  "id": 4063,
+  "nome_original": "Lampiao",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético ou sarja",
+    "estilo_corte": "estilo militar rústico com bolsos frontais",
+    "acessorios_visiveis": [
+      "bandoleira de couro"
+    ],
+    "tematica_detalhada": "Cangaceiro, inspirada na figura histórica de Lampião, representando a cultura do sertão nordestino brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4063.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.12,
+  "data_analise": "2026-07-29T08:53:32Z",
+  "data_criacao": "2026-07-29T05:53:32.976076-03:00"
+}

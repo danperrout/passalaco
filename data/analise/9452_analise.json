@@ -1,0 +1,27 @@
+{
+  "id": 9452,
+  "nome_original": "Princesa Elena",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido acetinado com detalhes estampados",
+    "estilo_corte": "estilo princesa com ombros caídos e saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "Fantasia da Princesa Elena de Avalon, inspirada em cultura latina e realeza"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9452.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.41,
+  "data_analise": "2026-07-30T04:04:12Z",
+  "data_criacao": "2026-07-30T01:04:12.804012-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 330,
+  "nome_original": "Bruxa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "azul escuro"
+    ],
+    "pecas_inclusas": [
+      "chapéu pontudo",
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilhos ou glitter",
+    "estilo_corte": "vestido curto com corte evasê e chapéu cônico clássico",
+    "acessorios_visiveis": [
+      "chapéu de bruxa com detalhe de lua crescente"
+    ],
+    "tematica_detalhada": "Bruxa clássica com temática mística/astrológica, referenciando a iconografia tradicional de feitiçaria e magia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/330.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 39.13,
+  "data_analise": "2026-07-27T18:23:19Z",
+  "data_criacao": "2026-07-27T15:23:19.413084-03:00"
+}

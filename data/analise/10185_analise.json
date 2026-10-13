@@ -1,0 +1,30 @@
+{
+  "id": 10185,
+  "nome_original": "Mascote Coelho",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "macacão de corpo inteiro",
+      "máscara de cabeça de coelho",
+      "vestido"
+    ],
+    "material_visual": "pelúcia sintética e tecido de poliéster",
+    "estilo_corte": "estilo mascote oversized com ajuste folgado",
+    "acessorios_visiveis": [
+      "laço rosa xadrez na cabeça"
+    ],
+    "tematica_detalhada": "mascote de coelho antropomórfico com estética feminina e delicada, remetendo a personagens de parques temáticos ou festas infantis"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10185.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 386.71,
+  "data_analise": "2026-07-29T19:19:08Z",
+  "data_criacao": "2026-07-29T16:19:08.815021-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 4930,
+  "nome_original": "Chuck",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "camiseta de manga longa"
+    ],
+    "material_visual": "sarja ou jeans para o macacão e malha para a camiseta",
+    "estilo_corte": "macacão oversized com alças e camiseta justa com gola alta",
+    "acessorios_visiveis": [
+      "peruca ruiva"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Chucky, do filme Brinquedo Assassino, caracterizada pelas cores primárias e visual infantilizado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4930.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 116.88,
+  "data_analise": "2026-07-27T21:47:11Z",
+  "data_criacao": "2026-07-27T18:47:11.790370-03:00"
+}

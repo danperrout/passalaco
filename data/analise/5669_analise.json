@@ -1,0 +1,31 @@
+{
+  "id": 5669,
+  "nome_original": "Lobo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "marrom",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "capuz com orelhas",
+      "colete xadrez",
+      "calça"
+    ],
+    "material_visual": "tecido sintético xadrez e pelúcia",
+    "estilo_corte": "corte irregular e rasgado na barra do colete",
+    "acessorios_visiveis": [
+      "punhos de pelúcia"
+    ],
+    "tematica_detalhada": "Lobo Mau, com referências ao conto de fadas Chapeuzinho Vermelho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5669.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 142.67,
+  "data_analise": "2026-07-29T12:05:01Z",
+  "data_criacao": "2026-07-29T09:05:01.783590-03:00"
+}

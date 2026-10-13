@@ -1,0 +1,32 @@
+{
+  "id": 5107,
+  "nome_original": "Minnie",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara de orelhas"
+    ],
+    "material_visual": "tecido aveludado ou plush",
+    "estilo_corte": "vestido curto com mangas bufantes e saia rodada",
+    "acessorios_visiveis": [
+      "tiara com orelhas de mouse",
+      "laço na tiara",
+      "laço na cintura"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Minnie Mouse da Disney, caracterizada pelas orelhas arredondadas e estampa de bolinhas (polka dots)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5107.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.49,
+  "data_analise": "2026-07-29T22:38:12Z",
+  "data_criacao": "2026-07-29T19:38:12.301372-03:00"
+}

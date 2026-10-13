@@ -1,0 +1,32 @@
+{
+  "id": 1264,
+  "nome_original": "Medieval",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "branco",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "camisa",
+      "calça",
+      "cinto"
+    ],
+    "material_visual": "tecido sintético com textura acetinada ou brocado na túnica e tecido leve na camisa",
+    "estilo_corte": "corte reto com decote em V e mangas bufantes",
+    "acessorios_visiveis": [
+      "cinto de couro com fivela"
+    ],
+    "tematica_detalhada": "fantasia medieval camponesa ou nobreza baixa, remetendo a personagens de época da Europa Medieval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1264.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.49,
+  "data_analise": "2026-07-29T21:07:31Z",
+  "data_criacao": "2026-07-29T18:07:31.872169-03:00"
+}

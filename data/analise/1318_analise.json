@@ -1,0 +1,30 @@
+{
+  "id": 1318,
+  "nome_original": "Star Wars Palpatine",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho escuro",
+      "vinho"
+    ],
+    "pecas_inclusas": [
+      "túnica longa",
+      "capa com capuz",
+      "máscara"
+    ],
+    "material_visual": "cetim e tecido aveludado com detalhes em brocado",
+    "estilo_corte": "estilo robe longo e fluido com mangas largas",
+    "acessorios_visiveis": [
+      "máscara facial"
+    ],
+    "tematica_detalhada": "Imperador Palpatine da franquia Star Wars, representando a estética de um Lorde Sith"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1318.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.76,
+  "data_analise": "2026-07-30T07:23:40Z",
+  "data_criacao": "2026-07-30T04:23:40.332793-03:00"
+}

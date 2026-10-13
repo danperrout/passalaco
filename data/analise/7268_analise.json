@@ -1,0 +1,28 @@
+{
+  "id": 7268,
+  "nome_original": "Bela",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tule e tecido acetinado com brilhos/glitter",
+    "estilo_corte": "estilo baile com corpete ajustado e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara dourada"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Bela, do conto de fadas A Bela e a Fera"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7268.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.35,
+  "data_analise": "2026-07-27T17:51:26Z",
+  "data_criacao": "2026-07-27T14:51:26.991611-03:00"
+}

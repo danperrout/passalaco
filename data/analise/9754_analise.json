@@ -1,0 +1,35 @@
+{
+  "id": 9754,
+  "nome_original": "Guerreiro",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "top asymmetrical",
+      "saia",
+      "cinturão",
+      "braceletes",
+      "caneleiras",
+      "capa"
+    ],
+    "material_visual": "couro sintético ou material similar a vinil",
+    "estilo_corte": "corte minimalista e ajustado ao corpo, com design assimétrico no busto",
+    "acessorios_visiveis": [
+      "braceletes de antebraço",
+      "caneleiras",
+      "capa vermelha"
+    ],
+    "tematica_detalhada": "guerreiro clássico ou gladiador com influências de fantasia épica, lembrando personagens de estilo bárbaro ou heróis de arena"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9754.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 349.28,
+  "data_analise": "2026-07-28T12:07:52Z",
+  "data_criacao": "2026-07-28T09:07:52.965533-03:00"
+}

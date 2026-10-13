@@ -1,0 +1,31 @@
+{
+  "id": 1219,
+  "nome_original": "Chapeleira Maluca",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "creme",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "casaco",
+      "saia"
+    ],
+    "material_visual": "tecido acetinado e tule com brilhos",
+    "estilo_corte": "estilo vitoriano com volume na saia",
+    "acessorios_visiveis": [
+      "cartola oversized"
+    ],
+    "tematica_detalhada": "Chapeleira Maluca, inspirada na obra Alice no País das Maravilhas, com estética Lolita/Gótica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1219.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 27.28,
+  "data_analise": "2026-07-27T19:50:08Z",
+  "data_criacao": "2026-07-27T16:50:08.568146-03:00"
+}

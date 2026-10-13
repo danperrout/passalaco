@@ -1,0 +1,29 @@
+{
+  "id": 8174,
+  "nome_original": "Junina Mf",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "rosa",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com rendas e detalhes em glitter ou cetim",
+    "estilo_corte": "vestido rodado com babados e mangas curtas bufantes",
+    "acessorios_visiveis": [
+      "laço de cabelo"
+    ],
+    "tematica_detalhada": "Festa Junina infantil, com referências ao estilo caipira estilizado e colorido"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8174.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.22,
+  "data_analise": "2026-07-29T06:34:58Z",
+  "data_criacao": "2026-07-29T03:34:58.944608-03:00"
+}

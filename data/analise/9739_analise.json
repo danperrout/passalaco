@@ -1,0 +1,38 @@
+{
+  "id": 9739,
+  "nome_original": "Jack Sparrow",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "preto",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "casaco",
+      "colete",
+      "calça",
+      "camisa",
+      "faixa"
+    ],
+    "material_visual": "tecido sintético com aparência de brim ou poliéster",
+    "estilo_corte": "estilo pirata colonial com modelagem solta e camadas",
+    "acessorios_visiveis": [
+      "chapéu tricórnio",
+      "faixa vermelha na cintura",
+      "lenço vermelho no pescoço",
+      "extensões de cabelo/dreadlocks"
+    ],
+    "tematica_detalhada": "fantasia de pirata inspirada no personagem Capitão Jack Sparrow da franquia Piratas do Caribe"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9739.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 414.07,
+  "data_analise": "2026-07-28T18:38:47Z",
+  "data_criacao": "2026-07-28T15:38:47.927197-03:00"
+}

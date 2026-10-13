@@ -1,0 +1,29 @@
+{
+  "id": 8200,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampas florais e xadrez",
+    "estilo_corte": "estilo caipira com saia rodada em camadas, mangas bufantes e decote quadrado",
+    "acessorios_visiveis": [
+      "tiara com laço"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina, representando a personagem caipira tradicional do folclore brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8200.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 37.5,
+  "data_analise": "2026-07-28T22:10:22Z",
+  "data_criacao": "2026-07-28T19:10:22.655166-03:00"
+}

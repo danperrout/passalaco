@@ -1,0 +1,33 @@
+{
+  "id": 1143,
+  "nome_original": "Piloto",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "capacete"
+    ],
+    "material_visual": "tecido sintético e plástico metalizado",
+    "estilo_corte": "ajustado com gola dobrada",
+    "acessorios_visiveis": [
+      "luvas brancas",
+      "cinto branco",
+      "capacete"
+    ],
+    "tematica_detalhada": "fantasia de piloto de corrida ou aviação clássica, com estética inspirada em uniformes vintage de competição"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1143.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.21,
+  "data_analise": "2026-07-30T03:30:03Z",
+  "data_criacao": "2026-07-30T00:30:03.852797-03:00"
+}

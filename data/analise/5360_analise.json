@@ -1,0 +1,30 @@
+{
+  "id": 5360,
+  "nome_original": "Palhacinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Circo",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido com lantejoulas no busto, tecido sintético com estampa de bolinhas na saia e pompons de pelúcia",
+    "estilo_corte": "vestido curto com busto ajustado e saia evasê",
+    "acessorios_visiveis": [
+      "chapéu cônico de palhaço"
+    ],
+    "tematica_detalhada": "fantasia de palhacinha clássica e colorida, com elementos circenses tradicionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5360.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.76,
+  "data_analise": "2026-07-30T01:34:53Z",
+  "data_criacao": "2026-07-29T22:34:53.280337-03:00"
+}

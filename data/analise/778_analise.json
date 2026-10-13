@@ -1,0 +1,30 @@
+{
+  "id": 778,
+  "nome_original": "Noivo Trasformado Em Jeca Excluir",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "camisa"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco",
+    "estilo_corte": "alfaiataria clássica, corte reto",
+    "acessorios_visiveis": [
+      "peruca preta"
+    ],
+    "tematica_detalhada": "traje formal de noivo ou gala, com contraste monocromático"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/778.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 19.73,
+  "data_analise": "2026-07-30T00:36:31Z",
+  "data_criacao": "2026-07-29T21:36:31.936466-03:00"
+}

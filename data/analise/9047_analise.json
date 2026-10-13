@@ -1,0 +1,33 @@
+{
+  "id": 9047,
+  "nome_original": "Gaucha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia",
+      "lenço",
+      "cinto"
+    ],
+    "material_visual": "tecido sintético com aparência de cetim ou poliéster",
+    "estilo_corte": "blusa com mangas bufantes e saia longa rodada com barras decoradas",
+    "acessorios_visiveis": [
+      "lenço no pescoço",
+      "cinto preto"
+    ],
+    "tematica_detalhada": "Traje típico gaúcho feminino, representando a cultura tradicionalista do Rio Grande do Sul"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9047.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 92.6,
+  "data_analise": "2026-07-28T10:44:01Z",
+  "data_criacao": "2026-07-28T07:44:01.451105-03:00"
+}

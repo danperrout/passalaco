@@ -1,0 +1,33 @@
+{
+  "id": 7895,
+  "nome_original": "Exercito",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "preto",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "boné"
+    ],
+    "material_visual": "tecido sintético com estampa camuflada",
+    "estilo_corte": "estilo militar utilitário",
+    "acessorios_visiveis": [
+      "cinto com fivela dourada",
+      "patch da bandeira dos EUA",
+      "patch com texto USA"
+    ],
+    "tematica_detalhada": "fantasia de soldado do exército dos Estados Unidos, com referências a uniformes militares camuflados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7895.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.93,
+  "data_analise": "2026-07-28T04:20:23Z",
+  "data_criacao": "2026-07-28T01:20:23.045644-03:00"
+}

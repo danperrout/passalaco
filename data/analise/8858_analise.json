@@ -1,0 +1,28 @@
+{
+  "id": 8858,
+  "nome_original": "Apresentadora",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Circo",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vinho",
+      "dourado",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "chapéu",
+      "saia"
+    ],
+    "material_visual": "tecido aveludado com detalhes em lurex ou cetim dourado",
+    "estilo_corte": "estilo militar com gola alta e corte ajustado",
+    "acessorios_visiveis": [
+      "cartola",
+      "gargantilha"
+    ],
+    "tematica_detalhada": "Apresentadora de circo ou mestre de cerimônias vintage"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8858.jpg",
+  "data_analise": "2026-07-27T14:11:15Z"
+}

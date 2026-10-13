@@ -1,0 +1,29 @@
+{
+  "id": 8580,
+  "nome_original": "Leao",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "tecido felpudo sintético",
+    "estilo_corte": "estilo kigurumi ou macacão integral",
+    "acessorios_visiveis": [
+      "laço dourado"
+    ],
+    "tematica_detalhada": "fantasia de leão, representando o animal selvagem com destaque para a juba"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8580.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 53.0,
+  "data_analise": "2026-07-29T10:38:05Z",
+  "data_criacao": "2026-07-29T07:38:05.964057-03:00"
+}

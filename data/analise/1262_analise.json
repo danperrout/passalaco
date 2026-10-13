@@ -1,0 +1,30 @@
+{
+  "id": 1262,
+  "nome_original": "Samurai",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul turquesa",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "faixa de cintura",
+      "faixa de cabeça"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou poliéster",
+    "estilo_corte": "estilo quimono com fechamento transpassado e mangas curtas",
+    "acessorios_visiveis": [
+      "faixa para a cabeça com detalhes prateados"
+    ],
+    "tematica_detalhada": "fantasia inspirada em guerreiros orientais, com referências simplificadas ao traje de um Samurai ou ninja"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1262.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.63,
+  "data_analise": "2026-07-30T05:52:38Z",
+  "data_criacao": "2026-07-30T02:52:38.915613-03:00"
+}

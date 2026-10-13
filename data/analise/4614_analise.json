@@ -1,0 +1,33 @@
+{
+  "id": 4614,
+  "nome_original": "Robin Hood",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "bege",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco e detalhes em fitas",
+    "estilo_corte": "túnica medieval de corte reto com detalhes transversais e calças ajustadas",
+    "acessorios_visiveis": [
+      "cinto",
+      "alça transversal",
+      "chapéu pontudo"
+    ],
+    "tematica_detalhada": "Figura do arqueiro Robin Hood, referenciando o folclore inglês medieval e a vida na floresta"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4614.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 19.04,
+  "data_analise": "2026-07-30T04:59:11Z",
+  "data_criacao": "2026-07-30T01:59:11.103769-03:00"
+}

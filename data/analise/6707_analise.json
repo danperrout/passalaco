@@ -1,0 +1,30 @@
+{
+  "id": 6707,
+  "nome_original": "Cisne Negro",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "corselete",
+      "saia tutu",
+      "tiara"
+    ],
+    "material_visual": "tule, renda e detalhes brilhantes/pedraria",
+    "estilo_corte": "corpo ajustado com saia curta volumosa e armada",
+    "acessorios_visiveis": [
+      "tiara pontiaguda",
+      "asas de penas"
+    ],
+    "tematica_detalhada": "Cisne Negro, inspirada no ballet O Lago dos Cisnes e na personagem Nina do filme Cisne Negro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6707.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 64.04,
+  "data_analise": "2026-07-27T22:56:15Z",
+  "data_criacao": "2026-07-27T19:56:15.450207-03:00"
+}

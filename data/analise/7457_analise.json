@@ -1,0 +1,31 @@
+{
+  "id": 7457,
+  "nome_original": "Cocar",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "cocar",
+      "vestido"
+    ],
+    "material_visual": "penas sintéticas, tecido e detalhes em plástico/miçangas",
+    "estilo_corte": "acessório de cabeça volumoso com adornos pendentes",
+    "acessorios_visiveis": [
+      "cocar de penas",
+      "colar integrado"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em culturas indígenas, com referências a cocares tribais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7457.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 50.55,
+  "data_analise": "2026-07-27T23:34:20Z",
+  "data_criacao": "2026-07-27T20:34:20.768630-03:00"
+}

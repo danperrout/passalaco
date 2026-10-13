@@ -1,0 +1,35 @@
+{
+  "id": 2403,
+  "nome_original": "Eddie Iron Maiden",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaco militar",
+      "calça",
+      "máscara"
+    ],
+    "material_visual": "cetim ou poliéster brilhante",
+    "estilo_corte": "uniforme militar histórico com gola alta",
+    "acessorios_visiveis": [
+      "faixa transversal azul",
+      "cinto marrom com franja",
+      "dragonas douradas",
+      "punhos decorados"
+    ],
+    "tematica_detalhada": "Eddie, o mascote da banda Iron Maiden, especificamente inspirado na era 'The Trooper' com referências a uniformes militares britânicos do século XIX"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2403.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 40.64,
+  "data_analise": "2026-07-28T03:26:50Z",
+  "data_criacao": "2026-07-28T00:26:50.969086-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1408,
+  "nome_original": "Xerife",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "quepe"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "corte justo no busto com saia evasê e decote em V",
+    "acessorios_visiveis": [
+      "quepe com estrela",
+      "cinto decorativo"
+    ],
+    "tematica_detalhada": "Fantasia estilizada de autoridade policial/xerife, com abordagem sensual e referências a uniformes de segurança pública"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1408.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.7,
+  "data_analise": "2026-07-30T09:01:05Z",
+  "data_criacao": "2026-07-30T06:01:05.179972-03:00"
+}

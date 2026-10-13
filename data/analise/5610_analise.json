@@ -1,0 +1,34 @@
+{
+  "id": 5610,
+  "nome_original": "Lady America",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "paletó",
+      "calça",
+      "chapéus"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante",
+    "estilo_corte": "feminino curto e ajustado, masculino corte clássico de terno",
+    "acessorios_visiveis": [
+      "mini cartola",
+      "cartola grande",
+      "gravata borboleta"
+    ],
+    "tematica_detalhada": "estética patriótica dos Estados Unidos, referenciando cores da bandeira americana e a figura do Tio Sam"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5610.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.6,
+  "data_analise": "2026-07-29T08:31:17Z",
+  "data_criacao": "2026-07-29T05:31:17.164442-03:00"
+}

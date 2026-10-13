@@ -1,0 +1,30 @@
+{
+  "id": 8892,
+  "nome_original": "Diabinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "laranja",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido com paetês brilhantes e saia de tule",
+    "estilo_corte": "estilo baby-doll com corpete ajustado e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara de chifres",
+      "choker/colar"
+    ],
+    "tematica_detalhada": "fantasia de diabinha estilizada, com gradação de cores remetendo ao fogo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8892.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.76,
+  "data_analise": "2026-07-28T02:59:26Z",
+  "data_criacao": "2026-07-27T23:59:26.226314-03:00"
+}

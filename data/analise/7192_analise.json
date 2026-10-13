@@ -1,0 +1,28 @@
+{
+  "id": 7192,
+  "nome_original": "Rowena Ravenclaw",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul royal",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "veludo com acabamento brilhante",
+    "estilo_corte": "corte império com decote quadrado e mangas curtas",
+    "acessorios_visiveis": [
+      "tiara dourada"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em Rowena Ravenclaw, fundadora da casa Ravenclaw da série Harry Potter, com estética medieval/renascentista"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7192.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 19.78,
+  "data_analise": "2026-07-30T05:04:41Z",
+  "data_criacao": "2026-07-30T02:04:41.747281-03:00"
+}

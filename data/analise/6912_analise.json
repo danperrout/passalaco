@@ -1,0 +1,29 @@
+{
+  "id": 6912,
+  "nome_original": "Batgirl",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com acabamento em tule ou franjas",
+    "estilo_corte": "vestido curto com saia volumosa e armada",
+    "acessorios_visiveis": [
+      "máscara com orelhas pontiagudas"
+    ],
+    "tematica_detalhada": "personagem Batgirl, inspirada nos quadrinhos e filmes da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6912.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.31,
+  "data_analise": "2026-07-27T17:48:17Z",
+  "data_criacao": "2026-07-27T14:48:17.839338-03:00"
+}

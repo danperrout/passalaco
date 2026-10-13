@@ -1,0 +1,31 @@
+{
+  "id": 5985,
+  "nome_original": "Minions",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "vestido jardineira",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético com aspecto brilhante",
+    "estilo_corte": "corte evasê na saia com alças largas no busto",
+    "acessorios_visiveis": [
+      "óculos de proteção",
+      "tiara com topete"
+    ],
+    "tematica_detalhada": "Personagem Minion da franquia 'Meu Malvado Favorito', caracterizado pelo macacão azul e corpo amarelo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5985.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 78.52,
+  "data_analise": "2026-07-29T22:30:43Z",
+  "data_criacao": "2026-07-29T19:30:43.659985-03:00"
+}

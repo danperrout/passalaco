@@ -1,0 +1,29 @@
+{
+  "id": 4023,
+  "nome_original": "Monstro",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético fosco e borracha ou látex para a máscara",
+    "estilo_corte": "corte amplo e fluido com barras desfiadas e irregulares",
+    "acessorios_visiveis": [
+      "máscara de monstro"
+    ],
+    "tematica_detalhada": "monstro genérico de terror, com referências a criaturas zumbis ou demônios"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4023.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.81,
+  "data_analise": "2026-07-29T22:53:10Z",
+  "data_criacao": "2026-07-29T19:53:10.726708-03:00"
+}

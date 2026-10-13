@@ -1,0 +1,27 @@
+{
+  "id": 6456,
+  "nome_original": "Saia",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "saia"
+    ],
+    "material_visual": "tule",
+    "estilo_corte": "estilo tutu, volumoso e armado",
+    "acessorios_visiveis": [
+      "detalhes decorativos na cintura"
+    ],
+    "tematica_detalhada": "fantasia de bailarina ou princesa, com referência a trajes de ballet clássico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6456.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 59.34,
+  "data_analise": "2026-07-30T05:26:38Z",
+  "data_criacao": "2026-07-30T02:26:38.162013-03:00"
+}

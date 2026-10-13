@@ -1,0 +1,33 @@
+{
+  "id": 7549,
+  "nome_original": "Jeca",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "branco",
+      "verde",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "gravata"
+    ],
+    "material_visual": "tecido sintético com estampa xadrez",
+    "estilo_corte": "corte oversized e desajustado",
+    "acessorios_visiveis": [
+      "chapéu de palha",
+      "flor amarela decorativa"
+    ],
+    "tematica_detalhada": "fantasia de caipira/Jeca Tatu, referenciando a cultura rural brasileira e festas juninas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7549.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 57.28,
+  "data_analise": "2026-07-28T20:55:17Z",
+  "data_criacao": "2026-07-28T17:55:17.251439-03:00"
+}

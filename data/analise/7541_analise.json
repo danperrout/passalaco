@@ -1,0 +1,30 @@
+{
+  "id": 7541,
+  "nome_original": "Padre",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "cordão de cintura"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "corte reto com mangas amplas e gola alta",
+    "acessorios_visiveis": [
+      "crucifixo dourado",
+      "cordão"
+    ],
+    "tematica_detalhada": "clérigo católico, representando a vestimenta tradicional de um padre ou monge"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7541.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.91,
+  "data_analise": "2026-07-30T01:21:33Z",
+  "data_criacao": "2026-07-29T22:21:33.028965-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 8586,
+  "nome_original": "Bombeiro",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "boné"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente poliéster ou nylon",
+    "estilo_corte": "ajustado ao corpo com gola amarela e fechamento frontal",
+    "acessorios_visiveis": [
+      "boné de bombeiro"
+    ],
+    "tematica_detalhada": "fantasia de bombeiro estilizada para festas, com cores vibrantes e elementos simplificados do uniforme de combate ao fogo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8586.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.17,
+  "data_analise": "2026-07-27T18:17:45Z",
+  "data_criacao": "2026-07-27T15:17:45.312190-03:00"
+}

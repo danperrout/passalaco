@@ -1,0 +1,32 @@
+{
+  "id": 7464,
+  "nome_original": "Safari",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "caqui"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga curta",
+      "bermuda",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster ou sarja leve",
+    "estilo_corte": "estilo militar/utilitário com múltiplos bolsos frontais",
+    "acessorios_visiveis": [
+      "chapéu de safari",
+      "detalhes de botões",
+      "estampa frontal"
+    ],
+    "tematica_detalhada": "fantasia de explorador ou guia de safari, remetendo a expedições na selva e aventureiros"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7464.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.21,
+  "data_analise": "2026-07-30T05:18:20Z",
+  "data_criacao": "2026-07-30T02:18:20.739363-03:00"
+}

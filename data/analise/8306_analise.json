@@ -1,0 +1,28 @@
+{
+  "id": 8306,
+  "nome_original": "Bruxa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou poliéster",
+    "estilo_corte": "vestido curto com cintura marcada e saia rodada",
+    "acessorios_visiveis": [
+      "detalhes em renda ou fitas pretas"
+    ],
+    "tematica_detalhada": "bruxa moderna ou gótica com estética sensual, fugindo do estereótipo tradicional de cores escuras"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8306.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.31,
+  "data_analise": "2026-07-27T18:25:41Z",
+  "data_criacao": "2026-07-27T15:25:41.892196-03:00"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2550,
+  "nome_original": "Bela",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido acetinado com brilhos e glitter no corpete",
+    "estilo_corte": "estilo baile com saia volumosa e decote ombro a ombro",
+    "acessorios_visiveis": [
+      "tiara"
+    ],
+    "tematica_detalhada": "Personagem Bela do filme A Bela e a Feras, representando o traje do baile"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2550.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.14,
+  "data_analise": "2026-07-27T17:52:02Z",
+  "data_criacao": "2026-07-27T14:52:02.399006-03:00"
+}

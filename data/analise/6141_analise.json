@@ -1,0 +1,30 @@
+{
+  "id": 6141,
+  "nome_original": "Odalisca",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com detalhes metalizados",
+    "estilo_corte": "top curto de alças finas e calça estilo harém",
+    "acessorios_visiveis": [
+      "tiara dourada",
+      "peruca preta"
+    ],
+    "tematica_detalhada": "Fantasia de Odalisca, com referências ao vestuário tradicional do Oriente Médio e dança do ventre"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6141.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 39.57,
+  "data_analise": "2026-07-30T00:41:26Z",
+  "data_criacao": "2026-07-29T21:41:26.945448-03:00"
+}

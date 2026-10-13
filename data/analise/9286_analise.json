@@ -1,0 +1,31 @@
+{
+  "id": 9286,
+  "nome_original": "Marinheira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "cetim ou poliéster com detalhes em renda",
+    "estilo_corte": "estilo baby doll com saia curta rodada e bustier ajustado",
+    "acessorios_visiveis": [
+      "cinto branco",
+      "chapéu de marinheiro"
+    ],
+    "tematica_detalhada": "fantasia de marinheira estilizada, inspirada em uniformes navais clássicos com abordagem fashion/festa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9286.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.96,
+  "data_analise": "2026-07-29T17:57:07Z",
+  "data_criacao": "2026-07-29T14:57:07.827964-03:00"
+}

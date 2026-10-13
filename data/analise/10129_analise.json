@@ -1,0 +1,30 @@
+{
+  "id": 10129,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia curta"
+    ],
+    "material_visual": "tecido metalizado com brilho",
+    "estilo_corte": "estilo cropped e mini saia",
+    "acessorios_visiveis": [
+      "tiara com raios",
+      "flores amarelas"
+    ],
+    "tematica_detalhada": "fantasia de carnaval inspirada em elementos solares ou divindades, com estética de passista"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10129.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.22,
+  "data_analise": "2026-07-27T19:27:50Z",
+  "data_criacao": "2026-07-27T16:27:50.959217-03:00"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 6575,
+  "nome_original": "Morte",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica com capuz"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte reto e amplo, estilo túnica longa",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Representação clássica da Morte ou Ceifador, com referências a figuras sombrias e góticas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6575.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.24,
+  "data_analise": "2026-07-29T23:06:05Z",
+  "data_criacao": "2026-07-29T20:06:05.954981-03:00"
+}

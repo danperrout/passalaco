@@ -1,0 +1,29 @@
+{
+  "id": 8439,
+  "nome_original": "Palhacinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "paetês no busto e tule na saia",
+    "estilo_corte": "estilo tutu com busto ajustado e saia volumosa",
+    "acessorios_visiveis": [
+      "peruca castanha",
+      "laço rosa no cabelo"
+    ],
+    "tematica_detalhada": "fantasia de palhacinha estilizada com estética glamourosa e feminina"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8439.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 38.38,
+  "data_analise": "2026-07-30T01:30:29Z",
+  "data_criacao": "2026-07-29T22:30:29.851353-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 8461,
+  "nome_original": "Lobo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "cinza",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "capuz com orelhas",
+      "camisa xadrez",
+      "camiseta interna",
+      "calça"
+    ],
+    "material_visual": "pelúcia sintética e tecido de flanela",
+    "estilo_corte": "estilo casual com sobreposição de camadas e capuz volumoso",
+    "acessorios_visiveis": [
+      "orelhas de lobo no capuz"
+    ],
+    "tematica_detalhada": "Lobisomem em estilo casual/moderno, referenciando a transformação parcial do personagem"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8461.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 320.96,
+  "data_analise": "2026-07-29T12:02:38Z",
+  "data_criacao": "2026-07-29T09:02:38.758843-03:00"
+}

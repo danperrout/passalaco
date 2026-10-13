@@ -1,0 +1,33 @@
+{
+  "id": 8832,
+  "nome_original": "Japones",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "faixa",
+      "touca"
+    ],
+    "material_visual": "tecido sintético com textura canelada",
+    "estilo_corte": "inspirado em kimono com corte reto e mangas largas",
+    "acessorios_visiveis": [
+      "faixa na cintura",
+      "touca com círculo vermelho"
+    ],
+    "tematica_detalhada": "fantasia inspirada na cultura japonesa, remetendo a vestimentas tradicionais como o kimono ou traje de artes marciais, com referência à bandeira do Japão na touca"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8832.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 131.82,
+  "data_analise": "2026-07-28T19:01:18Z",
+  "data_criacao": "2026-07-28T16:01:18.912285-03:00"
+}

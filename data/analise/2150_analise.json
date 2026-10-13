@@ -1,0 +1,30 @@
+{
+  "id": 2150,
+  "nome_original": "Junina Mf",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda e apliques",
+    "estilo_corte": "modelo ciganinha com decote ombro a ombro, cintura marcada e saia rodada",
+    "acessorios_visiveis": [
+      "chapéu de palha decorado",
+      "cinto colorido"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, representando a estética caipira estilizada com elementos típicos como remendos e cores vibrantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2150.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.73,
+  "data_analise": "2026-07-29T06:37:03Z",
+  "data_criacao": "2026-07-29T03:37:03.763674-03:00"
+}

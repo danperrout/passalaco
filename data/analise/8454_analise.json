@@ -1,0 +1,29 @@
+{
+  "id": 8454,
+  "nome_original": "Palhacinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Circo",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "multicolorido"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "paetês e tule",
+    "estilo_corte": "estilo tutu com corpete ajustado e manguinhas bufantes",
+    "acessorios_visiveis": [
+      "cartola decorada"
+    ],
+    "tematica_detalhada": "fantasia de palhacinha glamourosa, com referências a circo e festas infantis"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8454.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 44.0,
+  "data_analise": "2026-07-30T01:38:15Z",
+  "data_criacao": "2026-07-29T22:38:15.541460-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 6790,
+  "nome_original": "Super Mulher",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa"
+    ],
+    "material_visual": "tecido sintético com aspecto acetinado/brilhante",
+    "estilo_corte": "estilo vestido curto com saia franzida e corpete ajustado",
+    "acessorios_visiveis": [
+      "capa"
+    ],
+    "tematica_detalhada": "Supergirl/Super Mulher, baseada na personagem dos quadrinhos da DC Comics, apresentando o icônico logotipo em formato de diamante no peito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6790.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.05,
+  "data_analise": "2026-07-30T07:29:13Z",
+  "data_criacao": "2026-07-30T04:29:13.268991-03:00"
+}

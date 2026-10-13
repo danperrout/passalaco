@@ -1,0 +1,31 @@
+{
+  "id": 8893,
+  "nome_original": "Rainha Má",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "capa",
+      "coroa",
+      "choker"
+    ],
+    "material_visual": "tecido sintético com brilho e tule transparente",
+    "estilo_corte": "vestido justo com decote em V e fenda lateral alta",
+    "acessorios_visiveis": [
+      "coroa pontiaguda",
+      "colar choker"
+    ],
+    "tematica_detalhada": "Rainha Má, inspirada em vilãs de contos de fadas como a Rainha de Branca de Neve ou Malévola"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8893.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 19.27,
+  "data_analise": "2026-07-30T04:31:14Z",
+  "data_criacao": "2026-07-30T01:31:14.885080-03:00"
+}

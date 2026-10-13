@@ -1,0 +1,26 @@
+{
+  "id": 9776,
+  "nome_original": "Barney",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "túnica"
+    ],
+    "material_visual": "couro ou camurça sintética",
+    "estilo_corte": "corte reto e amplo, estilo túnica medieval",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia inspirada em eras primitivas, homem das cavernas ou estilo rústico medieval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9776.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.37,
+  "data_analise": "2026-07-27T17:47:50Z",
+  "data_criacao": "2026-07-27T14:47:50.689391-03:00"
+}

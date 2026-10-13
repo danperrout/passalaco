@@ -1,0 +1,34 @@
+{
+  "id": 7716,
+  "nome_original": "Principe",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaca",
+      "calça",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado e adornos metálicos",
+    "estilo_corte": "estilo militar aristocrático com casaca alongada",
+    "acessorios_visiveis": [
+      "faixa transversal vermelha",
+      "medalhão dourado",
+      "galões dourados"
+    ],
+    "tematica_detalhada": "Príncipe ou nobreza europeia clássica, com referências a uniformes militares de gala do século XVIII ou XIX"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7716.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.73,
+  "data_analise": "2026-07-30T04:05:01Z",
+  "data_criacao": "2026-07-30T01:05:01.973627-03:00"
+}

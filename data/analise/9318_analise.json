@@ -1,0 +1,28 @@
+{
+  "id": 9318,
+  "nome_original": "Cinderela",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul claro",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "cetim, tule com glitter e renda",
+    "estilo_corte": "vestido de baile com corpete ajustado, decote em V e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Cinderela, inspirada no vestido de baile clássico dos contos de fadas da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9318.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 57.72,
+  "data_analise": "2026-07-27T22:49:08Z",
+  "data_criacao": "2026-07-27T19:49:08.954851-03:00"
+}

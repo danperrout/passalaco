@@ -1,0 +1,32 @@
+{
+  "id": 8935,
+  "nome_original": "Guerreira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa",
+      "tiara"
+    ],
+    "material_visual": "couro sintético com detalhes em pele sintética",
+    "estilo_corte": "curto, ajustado ao corpo com saia plissada e capa longa",
+    "acessorios_visiveis": [
+      "tiara",
+      "braceletes",
+      "cinto"
+    ],
+    "tematica_detalhada": "Guerreira medieval ou bárbara, com referências a personagens de fantasia épica e cultura viking"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8935.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.84,
+  "data_analise": "2026-07-28T11:45:27Z",
+  "data_criacao": "2026-07-28T08:45:27.583197-03:00"
+}

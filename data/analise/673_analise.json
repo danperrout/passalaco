@@ -1,0 +1,31 @@
+{
+  "id": 673,
+  "nome_original": "Goku",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "faixa de cintura",
+      "munhequeiras"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster ou cetim",
+    "estilo_corte": "estilo kimono com gola em V e calças largas",
+    "acessorios_visiveis": [
+      "faixa azul na cintura",
+      "munhequeiras azuis"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Goku da série Dragon Ball, representando seu traje de luta clássico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/673.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 65.48,
+  "data_analise": "2026-07-28T11:09:06Z",
+  "data_criacao": "2026-07-28T08:09:06.900528-03:00"
+}

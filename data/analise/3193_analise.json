@@ -1,0 +1,33 @@
+{
+  "id": 3193,
+  "nome_original": "Colete",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "branco",
+      "verde",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "chapéu",
+      "camisa"
+    ],
+    "material_visual": "feltro e tecido sintético",
+    "estilo_corte": "colete curto sem mangas com aplicações recortadas",
+    "acessorios_visiveis": [
+      "chapéu com fita preta"
+    ],
+    "tematica_detalhada": "fantasia temática infantil ou folclórica, com elementos de natureza e cores vibrantes aplicadas no colete"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3193.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 114.77,
+  "data_analise": "2026-07-28T00:42:54Z",
+  "data_criacao": "2026-07-27T21:42:54.186317-03:00"
+}

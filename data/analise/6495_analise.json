@@ -1,0 +1,29 @@
+{
+  "id": 6495,
+  "nome_original": "Homem Aranha Luxo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "máscara com lentes brancas"
+    ],
+    "tematica_detalhada": "super-herói Homem-Aranha da Marvel Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6495.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 314.42,
+  "data_analise": "2026-07-28T14:21:10Z",
+  "data_criacao": "2026-07-28T11:21:10.142496-03:00"
+}

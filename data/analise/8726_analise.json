@@ -1,0 +1,32 @@
+{
+  "id": 8726,
+  "nome_original": "Principe Rapunzel",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "bege",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com aparência de veludo no colete e algodão/poliéster nas demais peças",
+    "estilo_corte": "estilo medieval/renascentista com camisa de mangas bufantes e colete ajustado",
+    "acessorios_visiveis": [
+      "cinto largo com fivela dourada",
+      "botas pretas"
+    ],
+    "tematica_detalhada": "fantasia inspirada no personagem Flynn Rider do filme Enrolados (Tangled), representando um príncipe ou ladrão charmoso de época"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8726.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.94,
+  "data_analise": "2026-07-30T04:17:35Z",
+  "data_criacao": "2026-07-30T01:17:35.909756-03:00"
+}

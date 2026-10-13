@@ -1,0 +1,26 @@
+{
+  "id": 5611,
+  "nome_original": "Anos 70",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "multicolorido",
+      "verde",
+      "azul",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho ou reflexos",
+    "estilo_corte": "estilo túnica ou vestido curto solto",
+    "acessorios_visiveis": [
+      "faixa de cabelo ou tiara roxa"
+    ],
+    "tematica_detalhada": "estilo psicodélico dos anos 70"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5611.jpg",
+  "data_analise": "2026-07-27T14:05:10Z"
+}

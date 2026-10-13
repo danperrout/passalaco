@@ -1,0 +1,28 @@
+{
+  "id": 3248,
+  "nome_original": "Junina Mf",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com rendas e babados",
+    "estilo_corte": "estilo caipira com saia volumosa e mangas bufantes",
+    "acessorios_visiveis": [
+      "laço de cabelo"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, representando a vestimenta típica de caipira estilizada para boneca"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3248.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 88.34,
+  "data_analise": "2026-07-29T06:29:26Z",
+  "data_criacao": "2026-07-29T03:29:26.007029-03:00"
+}

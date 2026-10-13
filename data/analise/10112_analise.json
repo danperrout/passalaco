@@ -1,0 +1,33 @@
+{
+  "id": 10112,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde neon",
+      "branco",
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia",
+      "headpiece"
+    ],
+    "material_visual": "tule, lantejoulas, penas e pedrarias",
+    "estilo_corte": "estilo passista de carnaval com saia curta volumosa e top ajustado",
+    "acessorios_visiveis": [
+      "estilo coroa de penas",
+      "detalhes em brilho no busto"
+    ],
+    "tematica_detalhada": "Fantasia de Carnaval inspirada em passistas de escolas de samba, com foco em cores vibrantes e elementos festivos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10112.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 22.44,
+  "data_analise": "2026-07-27T19:28:18Z",
+  "data_criacao": "2026-07-27T16:28:18.234346-03:00"
+}

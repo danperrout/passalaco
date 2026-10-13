@@ -1,0 +1,29 @@
+{
+  "id": 9658,
+  "nome_original": "Capitã Marvel",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "macacão peça única"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante/estampado",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "estrela dourada no peito"
+    ],
+    "tematica_detalhada": "Fantasia baseada na super-heroína Capitã Marvel, personagem dos quadrinhos e filmes da Marvel Studios"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9658.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.85,
+  "data_analise": "2026-07-27T18:59:42Z",
+  "data_criacao": "2026-07-27T15:59:42.805326-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 2529,
+  "nome_original": "Foca",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza",
+      "branco",
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz",
+      "gola decorativa"
+    ],
+    "material_visual": "pelúcia sintética e cetim",
+    "estilo_corte": "estilo kigurumi ou macacão folgado",
+    "acessorios_visiveis": [
+      "bola colorida"
+    ],
+    "tematica_detalhada": "foca de circo, referenciando a performance clássica de animais em espetáculos circenses"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2529.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 66.13,
+  "data_analise": "2026-07-28T06:09:29Z",
+  "data_criacao": "2026-07-28T03:09:29.428045-03:00"
+}

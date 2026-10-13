@@ -1,0 +1,29 @@
+{
+  "id": 7829,
+  "nome_original": "Unicornio",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "rosa",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule e tecido com paetês",
+    "estilo_corte": "modelo festa com saia volumosa e decote américaine",
+    "acessorios_visiveis": [
+      "tiara com chifre de unicórnio e flores"
+    ],
+    "tematica_detalhada": "fantasia de unicórnio com estética colorida e mágica, remetendo a criaturas mitológicas e arco-íris"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7829.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.66,
+  "data_analise": "2026-07-30T08:38:44Z",
+  "data_criacao": "2026-07-30T05:38:44.702393-03:00"
+}

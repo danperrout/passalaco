@@ -1,0 +1,26 @@
+{
+  "id": 5560,
+  "nome_original": "Havaiano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga curta"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente poliéster ou viscose",
+    "estilo_corte": "corte reto com gola aberta estilo resort/havaiana",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Estilo havaiano clássico com estampa floral de girassóis, remetendo a roupas de férias, praia ou festas temáticas tropicais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5560.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 87.41,
+  "data_analise": "2026-07-28T13:21:52Z",
+  "data_criacao": "2026-07-28T10:21:52.372210-03:00"
+}

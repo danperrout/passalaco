@@ -1,0 +1,34 @@
+{
+  "id": 5541,
+  "nome_original": "Harry Potter Hermione",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "cinza",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz",
+      "saia plissada",
+      "camisa branca"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster",
+    "estilo_corte": "estilo uniforme escolar com capa longa",
+    "acessorios_visiveis": [
+      "gravata",
+      "brasão bordado",
+      "cinto decorativo"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Hermione Granger da série Harry Potter, representando o uniforme da casa Gryffindor da Escola de Magia e Bruxaria de Hogwarts"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5541.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 137.3,
+  "data_analise": "2026-07-28T12:49:00Z",
+  "data_criacao": "2026-07-28T09:49:00.722837-03:00"
+}

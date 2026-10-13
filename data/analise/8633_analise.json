@@ -1,0 +1,29 @@
+{
+  "id": 8633,
+  "nome_original": "Descendentes Evie",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com brilho e acabamento acetinado",
+    "estilo_corte": "vestido curto com mangas amplas e corte assimétrico na barra",
+    "acessorios_visiveis": [
+      "colar com pingente"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Evie da franquia Descendentes, inspirada na filha da Rainha Má"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8633.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.23,
+  "data_analise": "2026-07-28T02:49:19Z",
+  "data_criacao": "2026-07-27T23:49:19.422756-03:00"
+}

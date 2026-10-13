@@ -1,0 +1,29 @@
+{
+  "id": 9620,
+  "nome_original": "Espanhola",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com acabamento em renda e fitas douradas",
+    "estilo_corte": "corte ombro a ombro com saia rodada em camadas e babados",
+    "acessorios_visiveis": [
+      "mantilha de renda preta",
+      "flor vermelha na cintura"
+    ],
+    "tematica_detalhada": "fantasia de bailarina de flamenco espanhola, inspirada na cultura tradicional da Andaluzia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9620.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 50.75,
+  "data_analise": "2026-07-28T04:08:20Z",
+  "data_criacao": "2026-07-28T01:08:20.075114-03:00"
+}

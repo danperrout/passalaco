@@ -1,0 +1,34 @@
+{
+  "id": 7802,
+  "nome_original": "Mascote Mickey Noel",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "máscara de cabeça",
+      "jaqueta",
+      "calça",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético com acabamento em pelúcia branca",
+    "estilo_corte": "estilo mascote oversized com modelagem de traje de Papai Noel",
+    "acessorios_visiveis": [
+      "gorro de Noel",
+      "cinto preto com fivela",
+      "botões dourados"
+    ],
+    "tematica_detalhada": "Fusão do personagem Mickey Mouse com a figura do Papai Noel, temática natalina"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7802.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 68.01,
+  "data_analise": "2026-07-29T19:55:01Z",
+  "data_criacao": "2026-07-29T16:55:01.238151-03:00"
+}

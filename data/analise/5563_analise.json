@@ -1,0 +1,29 @@
+{
+  "id": 5563,
+  "nome_original": "Mexicana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido leve, possivelmente algodão ou poliéster, com detalhes bordados",
+    "estilo_corte": "vestido longo com cintura marcada e saia fluida",
+    "acessorios_visiveis": [
+      "sombrero mexicano"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na cultura tradicional mexicana, remetendo a trajes típicos regionais com uso de cores vibrantes e chapéu característico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5563.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.96,
+  "data_analise": "2026-07-29T21:54:40Z",
+  "data_criacao": "2026-07-29T18:54:40.793330-03:00"
+}

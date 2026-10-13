@@ -1,0 +1,27 @@
+{
+  "id": 6614,
+  "nome_original": "Havaiano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "rosa",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "camisa"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente poliéster",
+    "estilo_corte": "camisa de manga curta com gola",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "estilo havaiano tropical, caracterizado por estampas florais vibrantes remetendo a praias e cultura do Havaí"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6614.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 143.65,
+  "data_analise": "2026-07-28T13:24:16Z",
+  "data_criacao": "2026-07-28T10:24:16.292181-03:00"
+}

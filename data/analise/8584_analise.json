@@ -1,0 +1,29 @@
+{
+  "id": 8584,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "paetês e tecido sintético",
+    "estilo_corte": "estilo biquíni com brilho",
+    "acessorios_visiveis": [
+      "tiara de flores amarelas"
+    ],
+    "tematica_detalhada": "fantasia de carnaval inspirada em temas florais ou solares, remetendo a passistas de samba ou festas tropicais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8584.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.66,
+  "data_analise": "2026-07-27T19:20:44Z",
+  "data_criacao": "2026-07-27T16:20:44.298779-03:00"
+}

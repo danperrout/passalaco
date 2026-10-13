@@ -1,0 +1,30 @@
+{
+  "id": 242,
+  "nome_original": "Ben 10",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "verde",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "calça"
+    ],
+    "material_visual": "tecido sintético ou algodão",
+    "estilo_corte": "casual e ajustado",
+    "acessorios_visiveis": [
+      "relógio Omnitrix no pulso"
+    ],
+    "tematica_detalhada": "Personagem Ben 10 da série de animação homônima, caracterizado por sua camiseta branca com listra vertical preta e calça verde."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/242.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.02,
+  "data_analise": "2026-07-27T17:56:58Z",
+  "data_criacao": "2026-07-27T14:56:58.507302-03:00"
+}

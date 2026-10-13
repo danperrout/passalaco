@@ -1,0 +1,25 @@
+{
+  "id": 7321,
+  "nome_original": "Saia Tule",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa claro"
+    ],
+    "pecas_inclusas": [
+      "saia"
+    ],
+    "material_visual": "tule",
+    "estilo_corte": "saia longa volumosa com cintura elástica",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "estilo bailarina, princesa ou fada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7321.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 72.51,
+  "data_analise": "2026-07-30T05:49:33Z",
+  "data_criacao": "2026-07-30T02:49:33.215227-03:00"
+}

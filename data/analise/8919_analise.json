@@ -1,0 +1,30 @@
+{
+  "id": 8919,
+  "nome_original": "Mamae Noel Luxo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "capa com capuz",
+      "cinto"
+    ],
+    "material_visual": "veludo com acabamentos em pele sintética",
+    "estilo_corte": "corte longo e fluido com abertura frontal e detalhes bordados",
+    "acessorios_visiveis": [
+      "cinto preto com fivela dourada"
+    ],
+    "tematica_detalhada": "Mamãe Noel em versão luxo, inspirada na tradição natalina ocidental com elementos de alta costura"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8919.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 36.34,
+  "data_analise": "2026-07-29T17:17:36Z",
+  "data_criacao": "2026-07-29T14:17:36.826711-03:00"
+}

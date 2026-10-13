@@ -1,0 +1,27 @@
+{
+  "id": 9852,
+  "nome_original": "Junina Saia Rosa P",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "roxo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "saia"
+    ],
+    "material_visual": "tecido sintético com textura xadrez e listrada",
+    "estilo_corte": "saia curta com volume e franzido na cintura",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Festa Junina, inspirada no traje típico caipira brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9852.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 53.2,
+  "data_analise": "2026-07-29T07:49:27Z",
+  "data_criacao": "2026-07-29T04:49:27.845791-03:00"
+}

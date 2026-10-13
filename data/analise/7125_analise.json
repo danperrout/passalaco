@@ -1,0 +1,29 @@
+{
+  "id": 7125,
+  "nome_original": "Bruxa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético e tule",
+    "estilo_corte": "vestido curto com saia volumosa e corpete justo",
+    "acessorios_visiveis": [
+      "chapéu de bruxa pontudo"
+    ],
+    "tematica_detalhada": "Bruxa clássica com cores típicas de Halloween"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7125.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.87,
+  "data_analise": "2026-07-27T18:24:05Z",
+  "data_criacao": "2026-07-27T15:24:05.168292-03:00"
+}

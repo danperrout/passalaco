@@ -1,0 +1,28 @@
+{
+  "id": 9946,
+  "nome_original": "Gueixa Cnfecção",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "verde",
+      "branco",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampa digital",
+    "estilo_corte": "estilo qipao/cheongsam com gola alta e fechamento lateral",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia inspirada na cultura asiática, referenciando trajes tradicionais chineses e japoneses com estampas florais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9946.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.54,
+  "data_analise": "2026-07-28T11:40:08Z",
+  "data_criacao": "2026-07-28T08:40:08.055257-03:00"
+}

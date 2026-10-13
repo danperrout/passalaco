@@ -1,0 +1,31 @@
+{
+  "id": 2488,
+  "nome_original": "Luigi",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "jardineira",
+      "boné"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte reto e folgado",
+    "acessorios_visiveis": [
+      "boné com letra L",
+      "botões amarelos"
+    ],
+    "tematica_detalhada": "Personagem Luigi, da franquia de jogos Super Mario da Nintendo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2488.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 194.83,
+  "data_analise": "2026-07-29T12:29:36Z",
+  "data_criacao": "2026-07-29T09:29:36.761283-03:00"
+}

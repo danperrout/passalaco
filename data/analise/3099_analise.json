@@ -1,0 +1,29 @@
+{
+  "id": 3099,
+  "nome_original": "Vaca",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "blusa com capuz",
+      "calça"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou plush",
+    "estilo_corte": "estilo pijama ou kigurumi, corte folgado com punhos ajustados",
+    "acessorios_visiveis": [
+      "orelhas de vaca acopladas ao capuz"
+    ],
+    "tematica_detalhada": "fantasia de animal, especificamente uma vaca holandesa, com estampa clássica de manchas pretas e brancas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3099.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.26,
+  "data_analise": "2026-07-30T08:43:30Z",
+  "data_criacao": "2026-07-30T05:43:30.380377-03:00"
+}

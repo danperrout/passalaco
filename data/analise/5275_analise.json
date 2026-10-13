@@ -1,0 +1,31 @@
+{
+  "id": 5275,
+  "nome_original": "Super Homem 8 Meses",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Mesversario",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "blusa de manga longa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com elasticidade, possivelmente poliéster ou malha",
+    "estilo_corte": "ajuste confortável para bebê, com punhos e gola em ribana",
+    "acessorios_visiveis": [
+      "estampa do escudo do Super Homem",
+      "estampa de cinto amarelo"
+    ],
+    "tematica_detalhada": "Fantasia infantil inspirada no super-herói Super Homem, personagem icônico da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5275.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.97,
+  "data_analise": "2026-07-30T07:28:56Z",
+  "data_criacao": "2026-07-30T04:28:56.193894-03:00"
+}

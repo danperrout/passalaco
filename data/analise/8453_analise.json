@@ -1,0 +1,28 @@
+{
+  "id": 8453,
+  "nome_original": "Palhacinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "multicolorido"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "paetês e tule",
+    "estilo_corte": "curto com saia volumosa e decote em V",
+    "acessorios_visiveis": [
+      "tiara com pompons coloridos"
+    ],
+    "tematica_detalhada": "fantasia de palhacinha estilizada com foco em brilho e cores vibrantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8453.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.98,
+  "data_analise": "2026-07-30T01:34:28Z",
+  "data_criacao": "2026-07-29T22:34:28.092434-03:00"
+}

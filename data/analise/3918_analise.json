@@ -1,0 +1,29 @@
+{
+  "id": 3918,
+  "nome_original": "Barbie",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "magenta",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim, tule e glitter",
+    "estilo_corte": "vestido de baile com corpete justo e saia volumosa",
+    "acessorios_visiveis": [
+      "coroa"
+    ],
+    "tematica_detalhada": "Barbie Princesa, referenciando a estética de contos de fadas e realeza moderna"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3918.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.29,
+  "data_analise": "2026-07-27T17:45:05Z",
+  "data_criacao": "2026-07-27T14:45:05.009853-03:00"
+}

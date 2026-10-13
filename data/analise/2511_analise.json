@@ -1,0 +1,30 @@
+{
+  "id": 2511,
+  "nome_original": "Mamae Noel",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "gorro"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante com detalhes em pelúcia",
+    "estilo_corte": "vestido curto com alças finas, decote em V e saia evasê",
+    "acessorios_visiveis": [
+      "cinto preto com fivela dourada",
+      "gorro de Natal"
+    ],
+    "tematica_detalhada": "Mamãe Noel estilizada, versão sensual/festiva da personagem tradicional do Natal"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2511.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 144.39,
+  "data_analise": "2026-07-29T17:02:25Z",
+  "data_criacao": "2026-07-29T14:02:25.268566-03:00"
+}

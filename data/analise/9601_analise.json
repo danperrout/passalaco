@@ -1,0 +1,29 @@
+{
+  "id": 9601,
+  "nome_original": "Fantasma",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica com capuz",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente poliéster",
+    "estilo_corte": "estilo robe longo e amplo com mangas compridas e capuz",
+    "acessorios_visiveis": [
+      "corrente de plástico branca"
+    ],
+    "tematica_detalhada": "fantasia de fantasma estilizada com elementos de terror, apresentando costuras negras decorativas que remetem a remendos ou Frankenstein"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9601.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 27.53,
+  "data_analise": "2026-07-28T05:02:43Z",
+  "data_criacao": "2026-07-28T02:02:43.476249-03:00"
+}

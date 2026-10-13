@@ -1,0 +1,26 @@
+{
+  "id": 5309,
+  "nome_original": "Alemă",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "coroa de flores"
+    ],
+    "material_visual": "tecido sintético com babados e renda",
+    "estilo_corte": "estilo camponesa com saia volumosa e decote arredondado",
+    "acessorios_visiveis": [
+      "guirlanda de flores na cabeça"
+    ],
+    "tematica_detalhada": "traje típico tradicional alemão (Dirndl)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5309.jpg",
+  "data_analise": "2026-07-27T13:41:32Z"
+}

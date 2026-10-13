@@ -1,0 +1,26 @@
+{
+  "id": 9114,
+  "nome_original": "Anjo Negro",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "asas",
+      "calças",
+      "gargantilha"
+    ],
+    "material_visual": "penas e tecido sintético",
+    "estilo_corte": "ajustado ao corpo",
+    "acessorios_visiveis": [
+      "asas de penas",
+      "choker"
+    ],
+    "tematica_detalhada": "anjo negro / anjo caído"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9114.jpg",
+  "data_analise": "2026-07-27T13:58:10Z"
+}

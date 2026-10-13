@@ -1,0 +1,27 @@
+{
+  "id": 9212,
+  "nome_original": "Feioso Wandinha",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "camiseta de manga longa",
+      "bermuda"
+    ],
+    "material_visual": "tecido sintético com aparência de poliéster ou elastano",
+    "estilo_corte": "corte casual e reto, modelagem confortável",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia baseada no personagem Feioso (Pugsley), irmão da Wandinha Addams, com foco no padrão de listras horizontais características do personagem."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9212.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 96.47,
+  "data_analise": "2026-07-28T05:32:13Z",
+  "data_criacao": "2026-07-28T02:32:13.505352-03:00"
+}

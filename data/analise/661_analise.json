@@ -1,0 +1,28 @@
+{
+  "id": 661,
+  "nome_original": "Gatinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "touca"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster ou plush",
+    "estilo_corte": "macacão inteiro de corte reto e solto",
+    "acessorios_visiveis": [
+      "touca com orelhas e rosto de gato"
+    ],
+    "tematica_detalhada": "fantasia de gato branco, focada em um visual lúdico e infantil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/661.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 224.39,
+  "data_analise": "2026-07-28T07:26:16Z",
+  "data_criacao": "2026-07-28T04:26:16.623709-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 8657,
+  "nome_original": "Bruxa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "cetim e tule com brilhos",
+    "estilo_corte": "vestido curto com saia volumosa em camadas e decote arredondado",
+    "acessorios_visiveis": [
+      "chapéu de bruxa pontudo"
+    ],
+    "tematica_detalhada": "bruxa clássica infantil/estilizada com elementos modernos e cores vibrantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8657.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.67,
+  "data_analise": "2026-07-27T18:24:51Z",
+  "data_criacao": "2026-07-27T15:24:51.131838-03:00"
+}

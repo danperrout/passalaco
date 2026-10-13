@@ -1,0 +1,33 @@
+{
+  "id": 8896,
+  "nome_original": "Cigana",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "preto",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "corpete",
+      "saia",
+      "lenço de cintura",
+      "turbante"
+    ],
+    "material_visual": "tecidos sintéticos, renda nas mangas e tecido estampado",
+    "estilo_corte": "corpete ajustado com decote, mangas bufantes transparentes e saia longa rodada com camadas",
+    "acessorios_visiveis": [
+      "lenço de cabeça",
+      "faixa de cintura"
+    ],
+    "tematica_detalhada": "Fantasia de Cigana, com referências ao traje tradicional romani estilizado para festas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8896.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 125.04,
+  "data_analise": "2026-07-27T22:05:52Z",
+  "data_criacao": "2026-07-27T19:05:52.101361-03:00"
+}

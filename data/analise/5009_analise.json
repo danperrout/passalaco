@@ -1,0 +1,29 @@
+{
+  "id": 5009,
+  "nome_original": "Trapezista",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "macacão"
+    ],
+    "material_visual": "tecido sintético com brilho e detalhes em lantejoulas ou bordados",
+    "estilo_corte": "macacão justo com decote arredondado e pernas retas",
+    "acessorios_visiveis": [
+      "tiara dourada",
+      "detalhes pendentes nos ombros"
+    ],
+    "tematica_detalhada": "Trapezista de circo clássico, com estética inspirada em performances acrobáticas e figurinos de espetáculo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5009.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.33,
+  "data_analise": "2026-07-30T08:34:48Z",
+  "data_criacao": "2026-07-30T05:34:48.517500-03:00"
+}

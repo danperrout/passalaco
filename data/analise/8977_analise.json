@@ -1,0 +1,29 @@
+{
+  "id": 8977,
+  "nome_original": "Mirabel",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul turquesa"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com aparência de poliéster e detalhes bordados",
+    "estilo_corte": "blusa de manga curta com decote arredondado e saia longa reta",
+    "acessorios_visiveis": [
+      "bolsa lateral bordada"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Mirabel do filme Encanto, inspirada na cultura colombiana com bordados florais coloridos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8977.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.06,
+  "data_analise": "2026-07-29T22:41:31Z",
+  "data_criacao": "2026-07-29T19:41:31.844382-03:00"
+}

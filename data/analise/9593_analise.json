@@ -1,0 +1,28 @@
+{
+  "id": 9593,
+  "nome_original": "Sacola",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "sacola"
+    ],
+    "material_visual": "TNT (tecido não tecido)",
+    "estilo_corte": "sacola retangular com alças",
+    "acessorios_visiveis": [
+      "alças de mão"
+    ],
+    "tematica_detalhada": "Halloween, representada por uma abóbora esculpida (Jack-o'-lantern)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9593.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 178.25,
+  "data_analise": "2026-07-30T05:11:17Z",
+  "data_criacao": "2026-07-30T02:11:17.546516-03:00"
+}

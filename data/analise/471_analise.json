@@ -1,0 +1,31 @@
+{
+  "id": 471,
+  "nome_original": "Chef de Cozinha",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "chapéu de chef",
+      "dólmã",
+      "calça"
+    ],
+    "material_visual": "tecido sintético ou algodão com acabamento fosco",
+    "estilo_corte": "corte clássico de chef com gola alta e fechamento frontal transpassado",
+    "acessorios_visiveis": [
+      "botões decorativos azuis",
+      "vivo azul nas bordas"
+    ],
+    "tematica_detalhada": "fantasia de chef de cozinha profissional, inspirada na vestimenta tradicional de gastronomia francesa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/471.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 55.41,
+  "data_analise": "2026-07-27T20:46:11Z",
+  "data_criacao": "2026-07-27T17:46:11.633360-03:00"
+}

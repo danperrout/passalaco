@@ -1,0 +1,31 @@
+{
+  "id": 7317,
+  "nome_original": "Mario",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Cosplay",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia",
+      "boné"
+    ],
+    "material_visual": "tecido sintético e tule",
+    "estilo_corte": "estilo tutu com suspensórios",
+    "acessorios_visiveis": [
+      "boné com emblema",
+      "botões amarelos"
+    ],
+    "tematica_detalhada": "versão feminina e estilizada do personagem Mario, da franquia Super Mario da Nintendo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7317.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 50.43,
+  "data_analise": "2026-07-29T18:19:56Z",
+  "data_criacao": "2026-07-29T15:19:56.605056-03:00"
+}

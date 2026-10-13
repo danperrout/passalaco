@@ -1,0 +1,28 @@
+{
+  "id": 587,
+  "nome_original": "Espanhola",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Ciganas/Espanholas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim ou poliéster com brilho",
+    "estilo_corte": "vestido curto com saia em camadas de babados e detalhe de renda no busto",
+    "acessorios_visiveis": [
+      "tiara com flor vermelha"
+    ],
+    "tematica_detalhada": "Fantasia de bailarina de Flamenco, inspirada na cultura tradicional espanhola"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/587.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.05,
+  "data_analise": "2026-07-28T04:06:54Z",
+  "data_criacao": "2026-07-28T01:06:54.973660-03:00"
+}

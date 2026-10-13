@@ -1,0 +1,30 @@
+{
+  "id": 4821,
+  "nome_original": "Mascara",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Máscaras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "rosa",
+      "vermelho",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "máscara"
+    ],
+    "material_visual": "tecido floral com bordas em glitter ou lurex dourado",
+    "estilo_corte": "estilo veneziano com extensões ornamentais em formato de pétalas ou leque",
+    "acessorios_visiveis": [
+      "pérolas decorativas"
+    ],
+    "tematica_detalhada": "Máscara de baile de gala ou Carnaval de Veneza, com estética barroca e floral"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4821.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 103.28,
+  "data_analise": "2026-07-29T18:53:41Z",
+  "data_criacao": "2026-07-29T15:53:41.472960-03:00"
+}

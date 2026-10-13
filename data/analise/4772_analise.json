@@ -1,0 +1,36 @@
+{
+  "id": 4772,
+  "nome_original": "Fera",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "dourado",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "colete",
+      "camisa",
+      "calça",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com detalhes em lurex ou tecido brilhante",
+    "estilo_corte": "traje formal de época com corte clássico",
+    "acessorios_visiveis": [
+      "máscara de fera com juba",
+      "babado nos punhos",
+      "gravata branca"
+    ],
+    "tematica_detalhada": "Personagem A Fera, do conto de fadas A Bela e a Fera"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4772.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 419.91,
+  "data_analise": "2026-07-28T05:52:13Z",
+  "data_criacao": "2026-07-28T02:52:13.621344-03:00"
+}

@@ -1,0 +1,35 @@
+{
+  "id": 6791,
+  "nome_original": "Mascote Mickey",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "branco",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "máscara de cabeça",
+      "paletó",
+      "camisa",
+      "calça",
+      "luvas",
+      "sapatos"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante no paletó e pelúcia na cabeça",
+    "estilo_corte": "estilo mascote oversized com corte formal de gala",
+    "acessorios_visiveis": [
+      "gravata borboleta amarela"
+    ],
+    "tematica_detalhada": "Personagem Mickey Mouse da Disney, trajando roupa formal de gala/maestro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6791.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 72.05,
+  "data_analise": "2026-07-29T19:52:17Z",
+  "data_criacao": "2026-07-29T16:52:17.914595-03:00"
+}

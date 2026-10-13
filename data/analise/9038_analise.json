@@ -1,0 +1,29 @@
+{
+  "id": 9038,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido xadrez com acabamentos em renda",
+    "estilo_corte": "vestido rodado com saia em camadas e babados",
+    "acessorios_visiveis": [
+      "tiara com flores"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, representando a vestimenta típica caipira estilizada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9038.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.7,
+  "data_analise": "2026-07-28T21:59:26Z",
+  "data_criacao": "2026-07-28T18:59:26.845882-03:00"
+}

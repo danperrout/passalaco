@@ -1,0 +1,29 @@
+{
+  "id": 10162,
+  "nome_original": "Mascote Angel Stitch",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa choque",
+      "rosa claro"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara de cabeça"
+    ],
+    "material_visual": "pelúcia sintética macia",
+    "estilo_corte": "estilo mascote corpo inteiro (kigurumi)",
+    "acessorios_visiveis": [
+      "orelhas grandes"
+    ],
+    "tematica_detalhada": "Versão feminina/rosa do personagem Stitch (Angel) do filme Lilo & Stitch da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10162.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 48.47,
+  "data_analise": "2026-07-29T19:09:04Z",
+  "data_criacao": "2026-07-29T16:09:04.952738-03:00"
+}

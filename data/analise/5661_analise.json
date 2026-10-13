@@ -1,0 +1,24 @@
+{
+  "id": 5661,
+  "nome_original": "Anjo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "túnica"
+    ],
+    "material_visual": "tecido leve e fluido",
+    "estilo_corte": "longo e solto",
+    "acessorios_visiveis": [
+      "asas",
+      "auréola/colar"
+    ],
+    "tematica_detalhada": "Anjo celestial"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5661.jpg",
+  "data_analise": "2026-07-27T13:57:05Z"
+}

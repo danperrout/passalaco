@@ -1,0 +1,31 @@
+{
+  "id": 5500,
+  "nome_original": "Super Mulher",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou poliéster",
+    "estilo_corte": "vestido curto com saia plissada e decote reto",
+    "acessorios_visiveis": [
+      "capa vermelha",
+      "gola"
+    ],
+    "tematica_detalhada": "Supergirl/Super Mulher, personagem inspirada nos quadrinhos da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5500.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.54,
+  "data_analise": "2026-07-30T07:29:42Z",
+  "data_criacao": "2026-07-30T04:29:42.675403-03:00"
+}

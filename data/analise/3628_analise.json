@@ -1,0 +1,31 @@
+{
+  "id": 3628,
+  "nome_original": "Cebolinha Xerife",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "colete",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "estilo faroeste adaptado para infantil",
+    "acessorios_visiveis": [
+      "chapéu de cowboy com distintivo"
+    ],
+    "tematica_detalhada": "Personagem Cebolinha da Turma da Mônica vestido como Xerife do Velho Oeste"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3628.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.64,
+  "data_analise": "2026-07-27T19:48:46Z",
+  "data_criacao": "2026-07-27T16:48:46.051881-03:00"
+}

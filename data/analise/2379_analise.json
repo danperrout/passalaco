@@ -1,0 +1,29 @@
+{
+  "id": 2379,
+  "nome_original": "Mascara",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Máscaras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "off-white"
+    ],
+    "pecas_inclusas": [
+      "máscara"
+    ],
+    "material_visual": "tecido rendado e aplicações florais em tecido",
+    "estilo_corte": "máscara de baile veneziana estilo antifaz",
+    "acessorios_visiveis": [
+      "flores ornamentais",
+      "pérolas decorativas"
+    ],
+    "tematica_detalhada": "estilo baile de máscaras, carnaval de Veneza ou temática romântica e sofisticada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2379.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 30.13,
+  "data_analise": "2026-07-29T18:48:00Z",
+  "data_criacao": "2026-07-29T15:48:00.560633-03:00"
+}

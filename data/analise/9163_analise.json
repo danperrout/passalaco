@@ -1,0 +1,29 @@
+{
+  "id": 9163,
+  "nome_original": "Mulher Aranha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou poliéster",
+    "estilo_corte": "vestido curto com saia em camadas de babados e mangas curtas",
+    "acessorios_visiveis": [
+      "máscara facial"
+    ],
+    "tematica_detalhada": "Versão feminina inspirada no Homem-Aranha (Spider-Man) da Marvel, caracterizada pelas cores clássicas e a estampa de aranha no peito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9163.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.69,
+  "data_analise": "2026-07-29T23:16:46Z",
+  "data_criacao": "2026-07-29T20:16:46.833141-03:00"
+}

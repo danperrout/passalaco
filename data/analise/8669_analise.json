@@ -1,0 +1,30 @@
+{
+  "id": 8669,
+  "nome_original": "Guepardo",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "tule com glitter e tecido sintético com estampa animal",
+    "estilo_corte": "vestido curto estilo tutu com corpete justo e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara com orelhas de guepardo"
+    ],
+    "tematica_detalhada": "fantasia infantil de guepardo/leopardo com abordagem estilizada e festiva"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8669.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 44.17,
+  "data_analise": "2026-07-28T11:40:52Z",
+  "data_criacao": "2026-07-28T08:40:52.732733-03:00"
+}

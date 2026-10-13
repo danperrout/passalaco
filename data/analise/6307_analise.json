@@ -1,0 +1,33 @@
+{
+  "id": 6307,
+  "nome_original": "Soldadinho de Chumbo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com detalhes em fios metálicos e pelúcia",
+    "estilo_corte": "estilo militar estruturado com gola alta",
+    "acessorios_visiveis": [
+      "ombreiras com franjas",
+      "correntes douradas",
+      "botões ornamentais"
+    ],
+    "tematica_detalhada": "Soldadinho de Chumbo, inspirada em uniformes militares clássicos e guardas reais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6307.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 36.75,
+  "data_analise": "2026-07-30T06:59:23Z",
+  "data_criacao": "2026-07-30T03:59:23.569759-03:00"
+}

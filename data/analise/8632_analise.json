@@ -1,0 +1,30 @@
+{
+  "id": 8632,
+  "nome_original": "Joaninha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "cetim ou tecido sintético com brilho",
+    "estilo_corte": "vestido curto com mangas bufantes e saia volumosa com acabamento em renda",
+    "acessorios_visiveis": [
+      "tiara com antenas",
+      "renda na barra"
+    ],
+    "tematica_detalhada": "fantasia de joaninha, inspirada no inseto, com padrão clássico de bolinhas (polka dots)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8632.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 288.33,
+  "data_analise": "2026-07-28T21:33:47Z",
+  "data_criacao": "2026-07-28T18:33:47.277271-03:00"
+}

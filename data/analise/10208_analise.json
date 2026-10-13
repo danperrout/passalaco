@@ -1,0 +1,30 @@
+{
+  "id": 10208,
+  "nome_original": "Junina Mf",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "rosa",
+      "amarelo",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampas florais e detalhes em renda",
+    "estilo_corte": "vestido curto com decote ombro a ombro, corpete estilo corset com cadarço e saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "fitas coloridas no cabelo"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina estilizada (caipira), com referências ao folclore rural brasileiro em versão colorida e moderna"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10208.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.4,
+  "data_analise": "2026-07-29T07:00:34Z",
+  "data_criacao": "2026-07-29T04:00:34.391823-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 4000,
+  "nome_original": "Fiona",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde escuro",
+      "verde oliva"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "tiara"
+    ],
+    "material_visual": "veludo no corpete e cetim ou tecido acetinado na saia",
+    "estilo_corte": "corte medieval com corpete ajustado, decote quadrado e saia longa fluida",
+    "acessorios_visiveis": [
+      "tiara dourada e verde"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na Princesa Fiona do filme Shrek, remetendo a um estilo de realeza medieval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4000.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 47.26,
+  "data_analise": "2026-07-28T06:00:17Z",
+  "data_criacao": "2026-07-28T03:00:17.403752-03:00"
+}

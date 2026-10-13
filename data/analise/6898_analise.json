@@ -1,0 +1,29 @@
+{
+  "id": 6898,
+  "nome_original": "Jardim Encantado",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul tiffany",
+      "lilás",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule com aplicações de flores e borboletas em 3D",
+    "estilo_corte": "estilo princesa com cintura marcada e saia volumosa",
+    "acessorios_visiveis": [
+      "guirlanda de flores para a cabeça"
+    ],
+    "tematica_detalhada": "Jardim Encantado, com referências a fadas e natureza exuberante"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6898.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 134.21,
+  "data_analise": "2026-07-28T19:22:55Z",
+  "data_criacao": "2026-07-28T16:22:55.371759-03:00"
+}

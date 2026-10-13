@@ -1,0 +1,31 @@
+{
+  "id": 8303,
+  "nome_original": "Diabinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "tiara de chifres"
+    ],
+    "material_visual": "cetim, tule e renda",
+    "estilo_corte": "estilo corset com decote coração e saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "tiara com chifres",
+      "choker preta",
+      "asas de tule"
+    ],
+    "tematica_detalhada": "Fantasia de diabinha sensual, com referências clássicas de personagens demoníacas de festas à fantasia e Halloween"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8303.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.53,
+  "data_analise": "2026-07-28T02:59:01Z",
+  "data_criacao": "2026-07-27T23:59:01.451828-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 8988,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampa xadrez e aplicação de feltro",
+    "estilo_corte": "estilo caipira com saia rodada, babados e alças",
+    "acessorios_visiveis": [
+      "tiara com flor e fitas"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina infantil, representando a cultura rural brasileira com elementos típicos como fogueira e bandeirinhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8988.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.16,
+  "data_analise": "2026-07-29T00:51:07Z",
+  "data_criacao": "2026-07-28T21:51:07.237237-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 8608,
+  "nome_original": "Luigi",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Cosplay",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "macacão",
+      "boné"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster",
+    "estilo_corte": "ajuste reto e casual",
+    "acessorios_visiveis": [
+      "botões amarelos",
+      "letra L no boné"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Luigi, da franquia de jogos Super Mario da Nintendo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8608.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 84.58,
+  "data_analise": "2026-07-29T12:32:36Z",
+  "data_criacao": "2026-07-29T09:32:36.709677-03:00"
+}

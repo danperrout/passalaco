@@ -1,0 +1,32 @@
+{
+  "id": 7645,
+  "nome_original": "Aviador",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "touca de aviador"
+    ],
+    "material_visual": "tecido de veludo cotelê ou camurça sintética",
+    "estilo_corte": "macacão de peça única com modelagem folgada e protetores de ouvido integrados",
+    "acessorios_visiveis": [
+      "óculos de proteção",
+      "cinto marrom",
+      "protetores de ouvido integrados"
+    ],
+    "tematica_detalhada": "Aviador clássico/Vintage, remetendo aos primeiros pilotos de aviação da era das Grandes Guerras"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7645.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 7.64,
+  "data_analise": "2026-07-27T16:57:50Z",
+  "data_criacao": "2026-07-27T13:57:50.534499-03:00"
+}

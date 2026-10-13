@@ -1,0 +1,30 @@
+{
+  "id": 4395,
+  "nome_original": "Oncinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "touca"
+    ],
+    "material_visual": "tecido sintético com estampa animal print",
+    "estilo_corte": "corte ajustado, peça única com gola alta e mangas longas",
+    "acessorios_visiveis": [
+      "orelhas na touca"
+    ],
+    "tematica_detalhada": "fantasia de animal, especificamente inspirada em leopardos ou onças"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4395.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 51.85,
+  "data_analise": "2026-07-30T00:55:52Z",
+  "data_criacao": "2026-07-29T21:55:52.861653-03:00"
+}

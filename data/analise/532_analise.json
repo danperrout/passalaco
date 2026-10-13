@@ -1,0 +1,28 @@
+{
+  "id": 532,
+  "nome_original": "Diabo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho"
+    ],
+    "pecas_inclusas": [
+      "Túnica com capuz"
+    ],
+    "material_visual": "Tecido sintético com brilho, semelhante a cetim ou poliéster",
+    "estilo_corte": "Corte amplo e fluido, com bainhas irregulares/rasgadas nas mangas e na base",
+    "acessorios_visiveis": [
+      "Cordão de cintura",
+      "Chifres integrados ao capuz"
+    ],
+    "tematica_detalhada": "Fantasia de Diabo, com estética minimalista e elementos clássicos de representações demoníacas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/532.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.5,
+  "data_analise": "2026-07-28T03:02:29Z",
+  "data_criacao": "2026-07-28T00:02:29.998113-03:00"
+}

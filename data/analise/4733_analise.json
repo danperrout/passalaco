@@ -1,0 +1,27 @@
+{
+  "id": 4733,
+  "nome_original": "Havaiano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "verde",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga curta"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente poliéster",
+    "estilo_corte": "corte reto, gola aberta e mangas curtas",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Estilo havaiano tropical, caracterizado por estampas florais e folhagens exuberantes, remetendo a festas luau e cultura do Pacífico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4733.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 98.5,
+  "data_analise": "2026-07-28T13:20:24Z",
+  "data_criacao": "2026-07-28T10:20:24.686105-03:00"
+}

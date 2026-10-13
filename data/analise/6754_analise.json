@@ -1,0 +1,31 @@
+{
+  "id": 6754,
+  "nome_original": "Star Wars Darth Vader",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "cinza"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "túnica",
+      "calças"
+    ],
+    "material_visual": "tecido sintético com impressões gráficas e plástico rígido no capacete",
+    "estilo_corte": "corte reto com ajuste folgado, estilo traje espacial",
+    "acessorios_visiveis": [
+      "capacete",
+      "capa"
+    ],
+    "tematica_detalhada": "Personagem Darth Vader da franquia Star Wars, representando o Lorde Sith"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6754.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.2,
+  "data_analise": "2026-07-30T07:19:56Z",
+  "data_criacao": "2026-07-30T04:19:56.454677-03:00"
+}

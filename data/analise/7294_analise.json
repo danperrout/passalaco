@@ -1,0 +1,33 @@
+{
+  "id": 7294,
+  "nome_original": "Ezio Auditore Feminino",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Cosplay",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul marinho",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "túnica com capuz",
+      "cinto",
+      "braceletes"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco e detalhes em material sintético imitando couro",
+    "estilo_corte": "túnica longa assimétrica com capuz e ajuste na cintura",
+    "acessorios_visiveis": [
+      "cinto largo",
+      "braceletes de couro sintético",
+      "alça transversal"
+    ],
+    "tematica_detalhada": "Versão feminina do personagem Ezio Auditore da franquia de jogos Assassin's Creed, inspirada no traje de assassino do Renascimento"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7294.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.65,
+  "data_analise": "2026-07-28T04:29:47Z",
+  "data_criacao": "2026-07-28T01:29:47.590992-03:00"
+}

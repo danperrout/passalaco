@@ -1,0 +1,31 @@
+{
+  "id": 9631,
+  "nome_original": "Exorcista",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica longa",
+      "capa curta"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "estilo batina clerical com corte reto e longo",
+    "acessorios_visiveis": [
+      "cruzes douradas bordadas",
+      "cinto de corrente"
+    ],
+    "tematica_detalhada": "fantasia de exorcista ou padre gótico, com referências a figuras religiosas e filmes de terror"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9631.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.21,
+  "data_analise": "2026-07-28T04:28:26Z",
+  "data_criacao": "2026-07-28T01:28:26.449450-03:00"
+}

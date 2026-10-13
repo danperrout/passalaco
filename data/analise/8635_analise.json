@@ -1,0 +1,29 @@
+{
+  "id": 8635,
+  "nome_original": "Mundo Bita",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "mini cartola"
+    ],
+    "material_visual": "tule, cetim e tecido sintético",
+    "estilo_corte": "estilo baby doll com saia tutu e mangas bufantes",
+    "acessorios_visiveis": [
+      "mini cartola com fita rosa"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Bita do Mundo Bita, adaptada para o público feminino com elementos de tutu e cores contrastantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8635.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.68,
+  "data_analise": "2026-07-29T23:28:23Z",
+  "data_criacao": "2026-07-29T20:28:23.620297-03:00"
+}

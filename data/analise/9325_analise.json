@@ -1,0 +1,35 @@
+{
+  "id": 9325,
+  "nome_original": "Robin Hood",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde musgo",
+      "marrom",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica com capuz",
+      "colete",
+      "calça",
+      "botas"
+    ],
+    "material_visual": "tecido sintético com aparência de couro e linho",
+    "estilo_corte": "medieval rústico com corte assimétrico e camadas",
+    "acessorios_visiveis": [
+      "cinto largo",
+      "alça transversal",
+      "protetores de pulso",
+      "arco e flecha"
+    ],
+    "tematica_detalhada": "Arqueiro medieval, referenciando o personagem folclórico Robin Hood e a estética de florestas inglesas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9325.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.76,
+  "data_analise": "2026-07-30T04:59:16Z",
+  "data_criacao": "2026-07-30T01:59:16.294559-03:00"
+}

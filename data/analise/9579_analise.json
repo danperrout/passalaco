@@ -1,0 +1,28 @@
+{
+  "id": 9579,
+  "nome_original": "Mascara",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Máscaras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "máscara"
+    ],
+    "material_visual": "tecido adornado com lantejoulas, miçangas e cristais",
+    "estilo_corte": "estilo veneziano com bordas recortadas e ornamentadas",
+    "acessorios_visiveis": [
+      "alças de fixação"
+    ],
+    "tematica_detalhada": "Máscara de baile de gala ou carnaval veneziano, evocando mistério e sofisticação"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9579.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 138.27,
+  "data_analise": "2026-07-29T18:56:00Z",
+  "data_criacao": "2026-07-29T15:56:00.545387-03:00"
+}

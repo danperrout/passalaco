@@ -1,0 +1,29 @@
+{
+  "id": 10109,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia curta"
+    ],
+    "material_visual": "tecido com aplicação de lantejoulas ou glitter",
+    "estilo_corte": "conjunto de duas peças com corte ajustado e saia rodada",
+    "acessorios_visiveis": [
+      "tiara decorativa com plumas e adornos"
+    ],
+    "tematica_detalhada": "Fantasia de Carnaval inspirada em passistas ou rainhas de bateria, com foco em brilho e exuberância"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10109.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.47,
+  "data_analise": "2026-07-27T19:27:21Z",
+  "data_criacao": "2026-07-27T16:27:21.219053-03:00"
+}

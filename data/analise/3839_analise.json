@@ -1,0 +1,25 @@
+{
+  "id": 3839,
+  "nome_original": "Alemă",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido leve com rendas e fitas coloridas",
+    "estilo_corte": "estilo camponesa com saia volumosa e decote arredondado",
+    "acessorios_visiveis": [
+      "coroa de flores vermelhas"
+    ],
+    "tematica_detalhada": "traje típico regional alemão (estilo Dirndl)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3839.jpg",
+  "data_analise": "2026-07-27T13:41:14Z"
+}

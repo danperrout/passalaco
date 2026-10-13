@@ -1,0 +1,31 @@
+{
+  "id": 9360,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara/auréola"
+    ],
+    "material_visual": "tecido metalizado, tule brilhante e elementos rígidos metálicos",
+    "estilo_corte": "ajustado ao corpo com sobreposição de transparências e brilhos",
+    "acessorios_visiveis": [
+      "auréola de raios",
+      "flores vermelhas na cabeça"
+    ],
+    "tematica_detalhada": "estética celestial ou divina, remetendo a figuras angelicais ou santas com toque barroco e festivo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9360.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.96,
+  "data_analise": "2026-07-27T19:25:14Z",
+  "data_criacao": "2026-07-27T16:25:14.947825-03:00"
+}

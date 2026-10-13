@@ -1,0 +1,35 @@
+{
+  "id": 9573,
+  "nome_original": "Portugues",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "colete",
+      "camisa",
+      "calça",
+      "lenço"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou cetim",
+    "estilo_corte": "clássico, com colete ajustado e calças largas",
+    "acessorios_visiveis": [
+      "chapéu de aba larga",
+      "lenço vermelho no pescoço",
+      "botões dourados no colete"
+    ],
+    "tematica_detalhada": "Fantasia de Português, referenciando estereótipos culturais de imigrantes portugueses antigos ou personagens folclóricos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9573.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.41,
+  "data_analise": "2026-07-30T03:50:44Z",
+  "data_criacao": "2026-07-30T00:50:44.156423-03:00"
+}

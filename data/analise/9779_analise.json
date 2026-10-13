@@ -1,0 +1,28 @@
+{
+  "id": 9779,
+  "nome_original": "Fred",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "túnica"
+    ],
+    "material_visual": "tecido sintético com brilho leve, possivelmente poliéster",
+    "estilo_corte": "corte reto e amplo, sem mangas, com barra inferior em formato de zigue-zague/rasgado",
+    "acessorios_visiveis": [
+      "gravata azul costurada"
+    ],
+    "tematica_detalhada": "fantasia inspirada no personagem Fred do desenho ' Flintstones', caracterizada por cores vibrantes e padrões geométricos simples"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9779.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 29.73,
+  "data_analise": "2026-07-28T06:23:42Z",
+  "data_criacao": "2026-07-28T03:23:42.702188-03:00"
+}

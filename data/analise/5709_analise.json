@@ -1,0 +1,30 @@
+{
+  "id": 5709,
+  "nome_original": "Gorro Peruano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "gorro",
+      "poncho"
+    ],
+    "material_visual": "lã tricotada ou tecido sintético com aspecto de tear",
+    "estilo_corte": "poncho folgado com gorro ajustado ao topo da cabeça",
+    "acessorios_visiveis": [
+      "pompons coloridos",
+      "tassels/franjas"
+    ],
+    "tematica_detalhada": "Traje típico andino, inspirado na cultura do Peru e Bolívia, com padrões geométricos tradicionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5709.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 53.91,
+  "data_analise": "2026-07-28T11:24:27Z",
+  "data_criacao": "2026-07-28T08:24:27.452983-03:00"
+}

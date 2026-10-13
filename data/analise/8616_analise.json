@@ -1,0 +1,29 @@
+{
+  "id": 8616,
+  "nome_original": "Borboleta",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "corpo da fantasia",
+      "asas"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente tule ou organza",
+    "estilo_corte": "estilo vestido curto com camadas volumosas e recortes geométricos",
+    "acessorios_visiveis": [
+      "asas de borboleta"
+    ],
+    "tematica_detalhada": "fantasia de borboleta monarca, focada nas cores vibrantes de alerta da espécie"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8616.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.7,
+  "data_analise": "2026-07-27T18:19:22Z",
+  "data_criacao": "2026-07-27T15:19:22.474315-03:00"
+}

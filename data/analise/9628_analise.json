@@ -1,0 +1,33 @@
+{
+  "id": 9628,
+  "nome_original": "Pirata",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "bandana",
+      "faixa de cintura",
+      "bermuda"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "corte solto com barras irregulares e recortadas em formato de zigue-zague",
+    "acessorios_visiveis": [
+      "bandana listrada",
+      "tapa-olho",
+      "cordão de amarração no decote"
+    ],
+    "tematica_detalhada": "pirata clássico, com referências a corsários e estética de aventura marítima"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9628.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.82,
+  "data_analise": "2026-07-30T03:41:35Z",
+  "data_criacao": "2026-07-30T00:41:35.120340-03:00"
+}

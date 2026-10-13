@@ -1,0 +1,30 @@
+{
+  "id": 3815,
+  "nome_original": "Carta de Baralho",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "mini chapéu"
+    ],
+    "material_visual": "tecido sintético com acabamento em renda ou babados",
+    "estilo_corte": "vestido curto com saia rodada e detalhes em babados",
+    "acessorios_visiveis": [
+      "mini chapéu com pluma"
+    ],
+    "tematica_detalhada": "Carta de baralho, com referências ao estilo Rainha de Copas de Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3815.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.34,
+  "data_analise": "2026-07-27T19:29:33Z",
+  "data_criacao": "2026-07-27T16:29:33.700620-03:00"
+}

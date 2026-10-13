@@ -1,0 +1,28 @@
+{
+  "id": 9585,
+  "nome_original": "Saquinho de Balas Halloween",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "roxo",
+      "vermelho",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "saquinhos de embalagem"
+    ],
+    "material_visual": "plástico laminado",
+    "estilo_corte": "retangular",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Halloween, com ilustrações de bruxa e vampiro para embalagem de doces"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9585.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 29.43,
+  "data_analise": "2026-07-30T05:55:06Z",
+  "data_criacao": "2026-07-30T02:55:06.486819-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 8246,
+  "nome_original": "Guerreira Medieval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa",
+      "cinto"
+    ],
+    "material_visual": "tecido sintético acetinado e rede translúcida",
+    "estilo_corte": "estilo túnica curta com cintura marcada e capa fluida",
+    "acessorios_visiveis": [
+      "tiara com pedra vermelha",
+      "cinto largo",
+      "protetores de braço"
+    ],
+    "tematica_detalhada": "guerreira medieval ou personagem de fantasia épica com referências a elfas ou arqueiras de floresta"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8246.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 78.17,
+  "data_analise": "2026-07-28T11:50:04Z",
+  "data_criacao": "2026-07-28T08:50:04.916982-03:00"
+}

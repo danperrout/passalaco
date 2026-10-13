@@ -1,0 +1,36 @@
+{
+  "id": 9053,
+  "nome_original": "Wood Toy Story",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul",
+      "marrom",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "colete",
+      "calça",
+      "chapéu",
+      "lenço"
+    ],
+    "material_visual": "tecido sintético com aspecto de cetim ou poliéster",
+    "estilo_corte": "estilo western/cowboy com ajuste padrão",
+    "acessorios_visiveis": [
+      "chapéu de cowboy",
+      "lenço vermelho",
+      "botas"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Woody, do filme Toy Story, representando um cowboy clássico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9053.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.1,
+  "data_analise": "2026-07-30T08:55:18Z",
+  "data_criacao": "2026-07-30T05:55:18.113965-03:00"
+}

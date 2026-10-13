@@ -1,0 +1,31 @@
+{
+  "id": 7238,
+  "nome_original": "Mario",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "camisa",
+      "boné"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster",
+    "estilo_corte": "macacão de corte reto com alças e camisa de manga curta",
+    "acessorios_visiveis": [
+      "boné com letra M",
+      "botões amarelos"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Mario, da franquia de jogos Super Mario da Nintendo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7238.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 59.8,
+  "data_analise": "2026-07-29T18:18:26Z",
+  "data_criacao": "2026-07-29T15:18:26.535603-03:00"
+}

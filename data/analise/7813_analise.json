@@ -1,0 +1,29 @@
+{
+  "id": 7813,
+  "nome_original": "Coroa Disney",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "tiara/coroa"
+    ],
+    "material_visual": "metal dourado com pedrarias sintéticas",
+    "estilo_corte": "estilo tiara real com arabescos e detalhes ornamentados",
+    "acessorios_visiveis": [
+      "pedras vermelhas",
+      "cristais transparentes"
+    ],
+    "tematica_detalhada": "Fantasia de princesa inspirada no universo Disney, remetendo a realeza e contos de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7813.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.6,
+  "data_analise": "2026-07-28T01:42:55Z",
+  "data_criacao": "2026-07-27T22:42:55.230178-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 7137,
+  "nome_original": "Capitao Gancho",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Piratas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "casaco longo",
+      "camisa de babados",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado e detalhes bordados",
+    "estilo_corte": "estilo colonial com casaco aberto e camisa com gola jabot",
+    "acessorios_visiveis": [
+      "chapéu de aba larga"
+    ],
+    "tematica_detalhada": "Capitão Gancho, personagem icônico de Peter Pan, representando a estética de um pirata aristocrata"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7137.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.69,
+  "data_analise": "2026-07-27T19:18:41Z",
+  "data_criacao": "2026-07-27T16:18:41.742219-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 6498,
+  "nome_original": "Ginastica Ritmica",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "bege",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "collant/leotard"
+    ],
+    "material_visual": "lycra com aplicações de glitter, pedrarias e franjas",
+    "estilo_corte": "justo ao corpo com decote frontal e mangas longas em tule",
+    "acessorios_visiveis": [
+      "tiara de penas"
+    ],
+    "tematica_detalhada": "fantasia de ginástica rítmica ou patinação artística, com estética de performance competitiva e elementos ornamentais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6498.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 84.31,
+  "data_analise": "2026-07-28T10:54:43Z",
+  "data_criacao": "2026-07-28T07:54:43.060801-03:00"
+}

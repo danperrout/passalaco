@@ -1,0 +1,32 @@
+{
+  "id": 8872,
+  "nome_original": "Familia Vampiros",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestidos",
+      "coletes",
+      "capas",
+      "calças"
+    ],
+    "material_visual": "cetim, veludo e renda",
+    "estilo_corte": "estilo gótico vitoriano com golas altas e estruturadas",
+    "acessorios_visiveis": [
+      "golas de renda",
+      "babados"
+    ],
+    "tematica_detalhada": "Família de vampiros aristocratas, com referências ao Conde Drácula e estética gótica clássica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8872.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.21,
+  "data_analise": "2026-07-28T05:00:20Z",
+  "data_criacao": "2026-07-28T02:00:20.287968-03:00"
+}

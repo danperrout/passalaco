@@ -1,0 +1,31 @@
+{
+  "id": 4555,
+  "nome_original": "Batman",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "cinza"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "capa",
+      "traje de corpo inteiro"
+    ],
+    "material_visual": "tecido sintético com aparência de couro ou elastano",
+    "estilo_corte": "ajustado ao corpo (slim fit) com modelagem tática",
+    "acessorios_visiveis": [
+      "cinto de utilidades",
+      "máscara com orelhas pontiagudas"
+    ],
+    "tematica_detalhada": "Super-herói Batman da DC Comics, caracterizado como vigilante noturno de Gotham City"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4555.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.11,
+  "data_analise": "2026-07-27T17:50:00Z",
+  "data_criacao": "2026-07-27T14:50:00.416597-03:00"
+}

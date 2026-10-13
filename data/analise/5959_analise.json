@@ -1,0 +1,32 @@
+{
+  "id": 5959,
+  "nome_original": "Power Rangers",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "calça",
+      "capacete"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante e detalhes em dourado",
+    "estilo_corte": "estilo militar com botões frontais decorativos e gola alta branca",
+    "acessorios_visiveis": [
+      "capacete com visor",
+      "punhos cinzas"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em Power Rangers, especificamente com estética de capitão ou uniforme militar espacial"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5959.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.44,
+  "data_analise": "2026-07-30T03:54:55Z",
+  "data_criacao": "2026-07-30T00:54:55.819582-03:00"
+}

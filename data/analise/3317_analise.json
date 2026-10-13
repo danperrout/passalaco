@@ -1,0 +1,26 @@
+{
+  "id": 3317,
+  "nome_original": "Camisa e Suspensorio",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "camisa"
+    ],
+    "material_visual": "tecido sintético com aspecto brilhante",
+    "estilo_corte": "corte slim com gola montant",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "vestuário casual com estampa xadrez, remetendo a estilos campestres ou retrô"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3317.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.1,
+  "data_analise": "2026-07-27T18:49:41Z",
+  "data_criacao": "2026-07-27T15:49:41.596233-03:00"
+}

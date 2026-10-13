@@ -1,0 +1,28 @@
+{
+  "id": 10103,
+  "nome_original": "Futurista",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "casaco longo",
+      "cinto"
+    ],
+    "material_visual": "material sintético metalizado com brilho refletivo",
+    "estilo_corte": "corte reto, estilo sobretudo com gola larga e cintura marcada",
+    "acessorios_visiveis": [
+      "colar metálico"
+    ],
+    "tematica_detalhada": "futurismo espacial, referências a estética sci-fi e moda vanguardista"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10103.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.43,
+  "data_analise": "2026-07-28T06:39:25Z",
+  "data_criacao": "2026-07-28T03:39:25.551460-03:00"
+}

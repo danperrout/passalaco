@@ -1,0 +1,27 @@
+{
+  "id": 7982,
+  "nome_original": "Coelhinho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "túnica"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente poliéster",
+    "estilo_corte": "corte reto, solto, estilo camisola ou túnica curta",
+    "acessorios_visiveis": [
+      "tiara com orelhas de coelho peludas"
+    ],
+    "tematica_detalhada": "Fantasia de coelhinho, comumente associada à Páscoa ou a personagens lúdicos de animais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7982.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 71.73,
+  "data_analise": "2026-07-28T00:29:18Z",
+  "data_criacao": "2026-07-27T21:29:18.495099-03:00"
+}

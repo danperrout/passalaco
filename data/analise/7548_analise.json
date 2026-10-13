@@ -1,0 +1,32 @@
+{
+  "id": 7548,
+  "nome_original": "Lampiao",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte reto e utilitário",
+    "acessorios_visiveis": [
+      "bandoleiras cruzadas",
+      "cinto de munição",
+      "chapéu de couro estilizado"
+    ],
+    "tematica_detalhada": "Cangaceiro, referência ao personagem histórico Lampião e à cultura do sertão nordestino brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7548.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 424.89,
+  "data_analise": "2026-07-29T08:52:27Z",
+  "data_criacao": "2026-07-29T05:52:27.710647-03:00"
+}

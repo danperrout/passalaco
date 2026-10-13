@@ -1,0 +1,32 @@
+{
+  "id": 9764,
+  "nome_original": "Chapeuzinho Vermelho",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Branco",
+      "Preto"
+    ],
+    "pecas_inclusas": [
+      "Capa com capuz",
+      "Vestido curto"
+    ],
+    "material_visual": "Tecido sintético com brilho, possivelmente cetim ou poliéster, com detalhes em renda",
+    "estilo_corte": "Corte ajustado ao corpo com saia evasê e detalhe de corset frontal",
+    "acessorios_visiveis": [
+      "Capuz",
+      "Avental branco",
+      "Laços pretos nas mangas"
+    ],
+    "tematica_detalhada": "Fantasia baseada na personagem de conto de fadas Chapeuzinho Vermelho, com elementos estilizados de camponesa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9764.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 171.61,
+  "data_analise": "2026-07-27T20:01:07Z",
+  "data_criacao": "2026-07-27T17:01:07.938963-03:00"
+}

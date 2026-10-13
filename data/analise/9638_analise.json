@@ -1,0 +1,29 @@
+{
+  "id": 9638,
+  "nome_original": "Beetlejuice",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "terno slim fit com listras verticais e horizontais",
+    "acessorios_visiveis": [
+      "gravata"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Beetlejuice, caracterizada pelo padrão de listras contrastantes e estilo gótico excêntrico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9638.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.81,
+  "data_analise": "2026-07-27T17:51:08Z",
+  "data_criacao": "2026-07-27T14:51:08.765879-03:00"
+}

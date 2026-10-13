@@ -1,0 +1,31 @@
+{
+  "id": 6214,
+  "nome_original": "Michael Jackson",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético fosco com detalhes em galão dourado",
+    "estilo_corte": "estilo militar com gola alta e corte reto",
+    "acessorios_visiveis": [
+      "luvas douradas",
+      "chapéu de aba larga"
+    ],
+    "tematica_detalhada": "Fantasia inspirada nos figurinos icônicos de Michael Jackson, referenciando a estética militar presente em suas performances e videoclipes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6214.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 32.44,
+  "data_analise": "2026-07-29T22:14:59Z",
+  "data_criacao": "2026-07-29T19:14:59.968363-03:00"
+}

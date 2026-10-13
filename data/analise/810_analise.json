@@ -1,0 +1,28 @@
+{
+  "id": 810,
+  "nome_original": "Macaco",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "corte amplo e confortável, estilo kigurumi ou pijama animal",
+    "acessorios_visiveis": [
+      "capuz com textura de pelo"
+    ],
+    "tematica_detalhada": "fantasia de primata/macaco, focada em representação animal antropomórfica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/810.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 84.36,
+  "data_analise": "2026-07-29T12:58:05Z",
+  "data_criacao": "2026-07-29T09:58:05.866409-03:00"
+}

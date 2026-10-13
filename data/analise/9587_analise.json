@@ -1,0 +1,29 @@
+{
+  "id": 9587,
+  "nome_original": "Colar de Baratas",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "preto",
+      "prateado"
+    ],
+    "pecas_inclusas": [
+      "colar"
+    ],
+    "material_visual": "corrente de metal e figuras de plástico ou borracha",
+    "estilo_corte": "estilo acessório de gargantilha com pingentes",
+    "acessorios_visiveis": [
+      "réplicas de baratas"
+    ],
+    "tematica_detalhada": "fantasia de terror ou humor grotesco, focada em entomofobia (medo de insetos) e estética chocante"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9587.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.46,
+  "data_analise": "2026-07-28T00:34:32Z",
+  "data_criacao": "2026-07-27T21:34:32.823038-03:00"
+}

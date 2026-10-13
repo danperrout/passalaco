@@ -1,0 +1,32 @@
+{
+  "id": 2867,
+  "nome_original": "Palhaço",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "amarelo",
+      "multicolorido"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético brilhante, possivelmente cetim ou poliéster",
+    "estilo_corte": "estilo oversized, folgado, com gola rufada e punhos franzidos",
+    "acessorios_visiveis": [
+      "nariz de palhaço",
+      "peruca multicolorida",
+      "laços decorativos"
+    ],
+    "tematica_detalhada": "Palhaço clássico de circo, caracterizado por cores vibrantes, estampa de bolinhas e elementos lúdicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2867.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.82,
+  "data_analise": "2026-07-30T01:50:25Z",
+  "data_criacao": "2026-07-29T22:50:25.553140-03:00"
+}

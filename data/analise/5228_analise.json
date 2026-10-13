@@ -1,0 +1,32 @@
+{
+  "id": 5228,
+  "nome_original": "Mexicano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "poncho",
+      "chapéu",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com bordados e franjas",
+    "estilo_corte": "poncho folgado com corte reto e calça slim",
+    "acessorios_visiveis": [
+      "sombrero",
+      "colar"
+    ],
+    "tematica_detalhada": "Fantasia estereotipada de mexicano, referenciando a vestimenta tradicional de charros ou camponeses do México"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5228.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.91,
+  "data_analise": "2026-07-29T22:02:53Z",
+  "data_criacao": "2026-07-29T19:02:53.466092-03:00"
+}

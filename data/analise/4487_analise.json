@@ -1,0 +1,32 @@
+{
+  "id": 4487,
+  "nome_original": "Melindrosa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara",
+      "luvas"
+    ],
+    "material_visual": "franjas brilhantes e tecido acetinado",
+    "estilo_corte": "vestido curto reto com franjas",
+    "acessorios_visiveis": [
+      "colar de pérolas",
+      "tiara com pluma",
+      "luvas longas"
+    ],
+    "tematica_detalhada": "Melindrosa, inspirada na moda feminina da década de 1920 (anos 20), remetendo ao estilo Flapper e à era do Jazz"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4487.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.62,
+  "data_analise": "2026-07-29T21:44:11Z",
+  "data_criacao": "2026-07-29T18:44:11.797744-03:00"
+}

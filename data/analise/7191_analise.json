@@ -1,0 +1,30 @@
+{
+  "id": 7191,
+  "nome_original": "Safari",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "caqui"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "colete",
+      "short"
+    ],
+    "material_visual": "tecido sintético fosco com aparência de sarja ou brim",
+    "estilo_corte": "estilo utilitário com múltiplos bolsos e corte reto",
+    "acessorios_visiveis": [
+      "chapéu de aba larga"
+    ],
+    "tematica_detalhada": "explorador de safari ou arqueólogo, remetendo a personagens como Indiana Jones"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7191.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 40.2,
+  "data_analise": "2026-07-30T05:17:54Z",
+  "data_criacao": "2026-07-30T02:17:54.224229-03:00"
+}

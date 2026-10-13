@@ -1,0 +1,32 @@
+{
+  "id": 9952,
+  "nome_original": "Fada",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Fadas/Duendes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "azul claro",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "asas"
+    ],
+    "material_visual": "tule, renda e tecido sintético brilhante",
+    "estilo_corte": "estilo princesa com saia evasê curta e corpete ajustado",
+    "acessorios_visiveis": [
+      "tiara de flores",
+      "asas de fada",
+      "cinto de flores"
+    ],
+    "tematica_detalhada": "Fada da Natureza/Primavera, com referências a criaturas místicas de florestas e contos de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9952.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 31.95,
+  "data_analise": "2026-07-28T04:36:24Z",
+  "data_criacao": "2026-07-28T01:36:24.146044-03:00"
+}

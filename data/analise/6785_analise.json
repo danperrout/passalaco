@@ -1,0 +1,29 @@
+{
+  "id": 6785,
+  "nome_original": "Arlequina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "body/macacão",
+      "luvas longas"
+    ],
+    "material_visual": "tecido elástico, possivelmente elastano ou licra",
+    "estilo_corte": "ajustado ao corpo, estilo collant com detalhes geométricos",
+    "acessorios_visiveis": [
+      "choker preta"
+    ],
+    "tematica_detalhada": "Arlequina (Harley Quinn)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6785.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 5.81,
+  "data_analise": "2026-07-27T16:52:35Z",
+  "data_criacao": "2026-07-27T13:52:35.275695-03:00"
+}

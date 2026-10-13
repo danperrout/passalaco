@@ -1,0 +1,29 @@
+{
+  "id": 903,
+  "nome_original": "Monica",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "saia"
+    ],
+    "material_visual": "tecido sintético ou algodão",
+    "estilo_corte": "camiseta básica de corte reto com saia curta franzida",
+    "acessorios_visiveis": [
+      "pelúcia do Sansão"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Mônica, dos quadrinhos Turma da Mônica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/903.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 85.69,
+  "data_analise": "2026-07-29T22:51:18Z",
+  "data_criacao": "2026-07-29T19:51:18.165016-03:00"
+}

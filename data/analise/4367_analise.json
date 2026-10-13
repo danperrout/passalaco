@@ -1,0 +1,30 @@
+{
+  "id": 4367,
+  "nome_original": "Quepe Russo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde oliva",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "quepe"
+    ],
+    "material_visual": "tecido sintético com textura canelada e aba em material sintético brilhante",
+    "estilo_corte": "estilo militar circular com topo achatado e aba rígida",
+    "acessorios_vises": [
+      "emblema dourado frontal",
+      "alça de fixação no queixo"
+    ],
+    "tematica_detalhada": "fantasia de inspiração militar russa, remetendo a uniformes de oficiais do exército da antiga União Soviética ou Rússia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4367.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.71,
+  "data_analise": "2026-07-30T04:19:00Z",
+  "data_criacao": "2026-07-30T01:19:00.858007-03:00"
+}

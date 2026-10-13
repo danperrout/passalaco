@@ -1,0 +1,32 @@
+{
+  "id": 7241,
+  "nome_original": "Dom Pedro",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul royal",
+      "dourado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "casaco militar",
+      "calça",
+      "jabot"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado e bordados em linha dourada",
+    "estilo_corte": "estilo militar imperial com casaco longo na parte traseira e gola alta",
+    "acessorios_visiveis": [
+      "dragonas douradas",
+      "botões ornamentais"
+    ],
+    "tematica_detalhada": "fantasia de imperador ou figura militar do século XIX, referenciando a figura histórica de Dom Pedro I"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7241.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 36.72,
+  "data_analise": "2026-07-28T03:12:53Z",
+  "data_criacao": "2026-07-28T00:12:53.193525-03:00"
+}

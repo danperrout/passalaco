@@ -1,0 +1,29 @@
+{
+  "id": 10230,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com texturas elásticas e babados de renda",
+    "estilo_corte": "estilo tomara-que-caia com busto franzido e saia rodada curta",
+    "acessorios_visiveis": [
+      "tiara com flor e fitas"
+    ],
+    "tematica_detalhada": "fantasia típica de Festa Junina brasileira, representando a vestimenta camponesa estilizada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10230.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 50.76,
+  "data_analise": "2026-07-29T02:09:55Z",
+  "data_criacao": "2026-07-28T23:09:55.080274-03:00"
+}

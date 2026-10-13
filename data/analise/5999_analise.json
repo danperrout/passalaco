@@ -1,0 +1,30 @@
+{
+  "id": 5999,
+  "nome_original": "Fred",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "preto",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "túnica"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente poliéster",
+    "estilo_corte": "corte reto e amplo, estilo túnica, com bordas irregulares e rasgadas",
+    "acessorios_visiveis": [
+      "detalhe central decorativo",
+      "elementos que simulam penas ou pele animal"
+    ],
+    "tematica_detalhada": "fantasia temática de personagem primitivo, homem das cavernas ou tribal, com referências a vestimentas rústicas e pré-históricas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5999.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 99.22,
+  "data_analise": "2026-07-28T06:15:58Z",
+  "data_criacao": "2026-07-28T03:15:58.257666-03:00"
+}

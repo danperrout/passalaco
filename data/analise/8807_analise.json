@@ -1,0 +1,29 @@
+{
+  "id": 8807,
+  "nome_original": "Junina Saia Mf",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "blusa regata",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com aspecto de chita ou cetim",
+    "estilo_corte": "blusa justa e saia curta volumosa com babados",
+    "acessorios_visiveis": [
+      "tiara com flores e fitas"
+    ],
+    "tematica_detalhada": "Festa Junina, inspirada no traje típico caipira brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8807.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 63.41,
+  "data_analise": "2026-07-29T07:48:34Z",
+  "data_criacao": "2026-07-29T04:48:34.122401-03:00"
+}

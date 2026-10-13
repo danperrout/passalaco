@@ -1,0 +1,31 @@
+{
+  "id": 9019,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul",
+      "rosa",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampas e rendas",
+    "estilo_corte": "vestido rodado com camadas de babados e mangas curtas",
+    "acessorios_visiveis": [
+      "tiara com flor e fitas",
+      "flor decorativa na cintura"
+    ],
+    "tematica_detalhada": "fantasia de Festa Junina infantil, estilo caipira estilizada com estampas de borboletas e cores vibrantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9019.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 96.95,
+  "data_analise": "2026-07-28T22:14:37Z",
+  "data_criacao": "2026-07-28T19:14:37.199896-03:00"
+}

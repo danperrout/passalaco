@@ -1,0 +1,28 @@
+{
+  "id": 764,
+  "nome_original": "Jasmine",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "saia"
+    ],
+    "material_visual": "cetim e tule",
+    "estilo_corte": "estilo dançarina do ventre com top halter e saia fluida transparente",
+    "acessorios_visiveis": [
+      "detalhes em pedrarias/strass"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na Princesa Jasmine (versão alternativa vermelha) ou dançarina do oriente médio"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/764.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 132.16,
+  "data_analise": "2026-07-28T19:28:42Z",
+  "data_criacao": "2026-07-28T16:28:42.227511-03:00"
+}

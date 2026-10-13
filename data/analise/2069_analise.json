@@ -1,0 +1,30 @@
+{
+  "id": 2069,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "adereço de cabeça"
+    ],
+    "material_visual": "tecido com estampa de poá e detalhes em renda",
+    "estilo_corte": "vestido rodado com mangas curtas bufantes e decote quadrado",
+    "acessorios_visiveis": [
+      "tiara ou lenço de cabeça",
+      "cinto decorativo"
+    ],
+    "tematica_detalhada": "traje típico de Festa Junina brasileira, representando a personagem caipira estilizada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2069.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.7,
+  "data_analise": "2026-07-28T23:15:00Z",
+  "data_criacao": "2026-07-28T20:15:00.628980-03:00"
+}

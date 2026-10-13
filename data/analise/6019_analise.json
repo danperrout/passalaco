@@ -1,0 +1,26 @@
+{
+  "id": 6019,
+  "nome_original": "Anos 70",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "boina"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado",
+    "estilo_corte": "vestido curto com padrão xadrez oversized",
+    "acessorios_visiveis": [
+      "boina",
+      "colar de contas"
+    ],
+    "tematica_detalhada": "estilo retrô anos 70 com inspiração mod"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6019.jpg",
+  "data_analise": "2026-07-27T14:03:40Z"
+}

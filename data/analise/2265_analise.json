@@ -1,0 +1,29 @@
+{
+  "id": 2265,
+  "nome_original": "Mascote Urso",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "macacão de corpo inteiro",
+      "cabeça de mascote"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "oversized e volumoso",
+    "acessorios_visiveis": [
+      "boné verde"
+    ],
+    "tematica_detalhada": "mascote de urso antropomórfico, com aparência amigável e caricata"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2265.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 55.87,
+  "data_analise": "2026-07-29T20:34:42Z",
+  "data_criacao": "2026-07-29T17:34:42.120016-03:00"
+}

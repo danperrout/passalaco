@@ -1,0 +1,31 @@
+{
+  "id": 9558,
+  "nome_original": "Bruxa Esqueleto",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Halloween Infantil",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "roxo",
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "chapéu de bruxa",
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com tule e detalhes impressos",
+    "estilo_corte": "vestido curto com saia volumosa em camadas de tule e decote arredondado",
+    "acessorios_visiveis": [
+      "chapéu cônico de bruxa com borda de tule"
+    ],
+    "tematica_detalhada": "Fusão de bruxa com esqueleto, utilizando cores neon vibrantes para criar um visual festivo e macabro moderno"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9558.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 40.72,
+  "data_analise": "2026-07-27T18:31:08Z",
+  "data_criacao": "2026-07-27T15:31:08.476479-03:00"
+}

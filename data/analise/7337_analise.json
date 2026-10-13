@@ -1,0 +1,31 @@
+{
+  "id": 7337,
+  "nome_original": "Mario",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Cosplay",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "macacão",
+      "boné"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "ajuste casual com macacão de alças",
+    "acessorios_visiveis": [
+      "botões amarelos",
+      "boné com logo"
+    ],
+    "tematica_detalhada": "Personagem Mario do jogo Super Mario Bros da Nintendo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7337.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 55.57,
+  "data_analise": "2026-07-29T18:21:52Z",
+  "data_criacao": "2026-07-29T15:21:52.597508-03:00"
+}

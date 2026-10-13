@@ -1,0 +1,29 @@
+{
+  "id": 9178,
+  "nome_original": "Coelhinha Paetê",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "paetês e franjas metálicas",
+    "estilo_corte": "decote em V, modelagem ajustada com saia de franjas",
+    "acessorios_visiveis": [
+      "tiara de orelhas de coelho",
+      "colar dourado"
+    ],
+    "tematica_detalhada": "Fantasia de coelhinha glamourosa, inspirada em trajes de festa, carnaval ou eventos temáticos de luxo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9178.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 44.44,
+  "data_analise": "2026-07-28T00:26:43Z",
+  "data_criacao": "2026-07-27T21:26:43.878489-03:00"
+}

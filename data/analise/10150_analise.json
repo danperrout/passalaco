@@ -1,0 +1,29 @@
+{
+  "id": 10150,
+  "nome_original": "Coelhinha 2 Meses",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Mesversario",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "tule, pelúcia e tecido sintético",
+    "estilo_corte": "estilo vestido de festa infantil com saia volumosa e mangas curtas",
+    "acessorios_visiveis": [
+      "tiara com orelhas de coelho"
+    ],
+    "tematica_detalhada": "fantasia de coelhinha baby, com referências à Páscoa e estética delicada infantil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10150.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 167.64,
+  "data_analise": "2026-07-28T00:23:09Z",
+  "data_criacao": "2026-07-27T21:23:09.257949-03:00"
+}

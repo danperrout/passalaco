@@ -1,0 +1,25 @@
+{
+  "id": 7710,
+  "nome_original": "Arabe",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica longa",
+      "lenço de cabeça"
+    ],
+    "material_visual": "tecido leve, possivelmente poliéster ou algodão",
+    "estilo_corte": "túnica longa e fluida com corte reto",
+    "acessorios_visiveis": [
+      "agal (cordão preto de cabeça)"
+    ],
+    "tematica_detalhada": "traje tradicional árabe masculino (thobe e ghutra)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7710.jpg",
+  "data_analise": "2026-07-27T14:12:56Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2182,
+  "nome_original": "Jason",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com aplicação de lantejoulas ou brilhos",
+    "estilo_corte": "corte reto, comprimento curto, decote em V e mangas curtas",
+    "acessorios_visiveis": [
+      "bolsa tiracolo em formato de máscara de hóquei"
+    ],
+    "tematica_detalhada": "Fantasia estilizada feminina inspirada no personagem Jason Voorhees da franquia Sexta-Feira 13, com elementos icônicos como a máscara de hóquei"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2182.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 54.29,
+  "data_analise": "2026-07-28T20:28:48Z",
+  "data_criacao": "2026-07-28T17:28:48.577014-03:00"
+}

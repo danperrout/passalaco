@@ -1,0 +1,29 @@
+{
+  "id": 9652,
+  "nome_original": "Medusa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "luvas longas"
+    ],
+    "material_visual": "tecido com brilho metálico e tule transparente",
+    "estilo_corte": "vestido curto com decote em V profundo e saia assimétrica em tule",
+    "acessorios_visiveis": [
+      "tiara de cobras douradas"
+    ],
+    "tematica_detalhada": "Mitologia Grega, representando a personagem Medusa com o icônico cabelo de serpentes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9652.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 59.78,
+  "data_analise": "2026-07-29T21:17:08Z",
+  "data_criacao": "2026-07-29T18:17:08.849134-03:00"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 4113,
+  "nome_original": "Alemă",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "verde",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "corselete",
+      "saia",
+      "tiara"
+    ],
+    "material_visual": "tecido sintético com adornos aplicados",
+    "estilo_corte": "estilo camponês europeu com cintura marcada",
+    "acessorios_visiveis": [
+      "tiara de flores"
+    ],
+    "tematica_detalhada": "fantasia folclórica inspirada em trajes típicos alemães (Dirndl)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4113.jpg",
+  "data_analise": "2026-07-27T13:41:36Z"
+}

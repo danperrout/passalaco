@@ -1,0 +1,29 @@
+{
+  "id": 4589,
+  "nome_original": "Dorothy Magico de Oz",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido jardineira",
+      "blusa"
+    ],
+    "material_visual": "tecido xadrez (gingham) e tecido liso",
+    "estilo_corte": "estilo campestre com alças e saia rodada",
+    "acessorios_visiveis": [
+      "botões decorativos"
+    ],
+    "tematica_detalhada": "Personagem Dorothy do filme/livro O Mágico de Oz, referenciando o estilo clássico de camponesa americana"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4589.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.76,
+  "data_analise": "2026-07-28T03:21:46Z",
+  "data_criacao": "2026-07-28T00:21:46.471197-03:00"
+}

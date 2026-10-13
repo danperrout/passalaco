@@ -1,0 +1,32 @@
+{
+  "id": 8753,
+  "nome_original": "Chapeuzinho Vermelho 2 Meses",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Mesversario",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz",
+      "vestido",
+      "calça/miúda de crochê"
+    ],
+    "material_visual": "cetim e crochê",
+    "estilo_corte": "estilo infantil/bebê, com capa solta e conjunto de crochê",
+    "acessorios_visiveis": [
+      "laços decorativos",
+      "cordões de amarração"
+    ],
+    "tematica_detalhada": "Fantasia de Chapeuzinho Vermelho, personagem de conto de fadas clássico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8753.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 111.43,
+  "data_analise": "2026-07-27T20:05:49Z",
+  "data_criacao": "2026-07-27T17:05:49.792154-03:00"
+}

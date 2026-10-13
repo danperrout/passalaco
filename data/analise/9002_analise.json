@@ -1,0 +1,30 @@
+{
+  "id": 9002,
+  "nome_original": "Junina Mf",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "amarelo",
+      "azul turquesa",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético estampado com detalhes em renda e babados",
+    "estilo_corte": "vestido rodado com cintura marcada, mangas curtas com babados e camadas na saia",
+    "acessorios_visiveis": [
+      "tiara com fitas coloridas"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, representando a vestimenta típica caipira estilizada para crianças, com referências ao campo e celebrações rurais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9002.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.92,
+  "data_analise": "2026-07-29T06:36:13Z",
+  "data_criacao": "2026-07-29T03:36:13.075999-03:00"
+}

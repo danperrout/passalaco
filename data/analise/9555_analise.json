@@ -1,0 +1,30 @@
+{
+  "id": 9555,
+  "nome_original": "Chuck",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Halloween Infantil",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "camiseta"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "estilo infantil/juvenil com jardineira",
+    "acessorios_visiveis": [
+      "máscara de látex"
+    ],
+    "tematica_detalhada": "Boneco assassino Chucky da franquia de filmes 'Brinquedo Assassino'"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9555.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.89,
+  "data_analise": "2026-07-27T21:56:13Z",
+  "data_criacao": "2026-07-27T18:56:13.379381-03:00"
+}

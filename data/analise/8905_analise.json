@@ -1,0 +1,35 @@
+{
+  "id": 8905,
+  "nome_original": "Esqueleto",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "camiseta com estampa de esqueleto",
+      "calça",
+      "cartola"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "estilo formal clássico com ajuste slim",
+    "acessorios_vises": [
+      "cartola com caveira",
+      "flor vermelha na lapela",
+      "luvas de esqueleto",
+      "faixas vermelhas na cintura"
+    ],
+    "tematica_detalhada": "fantasia de esqueleto elegante, com referências ao estilo gótico vitoriano ou personagem de 'O Estranho Mundo de Jack'"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8905.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 51.97,
+  "data_analise": "2026-07-28T04:15:09Z",
+  "data_criacao": "2026-07-28T01:15:09.919276-03:00"
+}

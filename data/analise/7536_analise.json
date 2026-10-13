@@ -1,0 +1,35 @@
+{
+  "id": 7536,
+  "nome_original": "Rei",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "dourado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "capa",
+      "coroa"
+    ],
+    "material_visual": "veludo e cetim sintético",
+    "estilo_corte": "estilo militar imperial com adornos ornamentais",
+    "acessorios_visiveis": [
+      "coroa",
+      "dragonas",
+      "correntes decorativas",
+      "cinto dourado"
+    ],
+    "tematica_detalhada": "fantasia de rei ou imperador com referências a trajes de gala monárquicos clássicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7536.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 45.75,
+  "data_analise": "2026-07-30T04:42:49Z",
+  "data_criacao": "2026-07-30T01:42:49.724854-03:00"
+}

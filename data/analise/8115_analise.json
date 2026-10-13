@@ -1,0 +1,35 @@
+{
+  "id": 8115,
+  "nome_original": "Fera",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul royal",
+      "dourado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "colete",
+      "calça",
+      "máscara de fera",
+      "jabot"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado e bordados",
+    "estilo_corte": "estilo aristocrático do século XVIII",
+    "acessorios_visiveis": [
+      "máscara de animal com pelos",
+      "luvas brancas",
+      "babado no pescoço"
+    ],
+    "tematica_detalhada": "Personagem a Fera do conto 'A Bela e a Fera', referenciando a vestimenta de baile real"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8115.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 179.32,
+  "data_analise": "2026-07-28T05:56:59Z",
+  "data_criacao": "2026-07-28T02:56:59.720203-03:00"
+}

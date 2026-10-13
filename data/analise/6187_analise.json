@@ -1,0 +1,29 @@
+{
+  "id": 6187,
+  "nome_original": "Astronauta",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prata",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "capacete",
+      "macacão"
+    ],
+    "material_visual": "tecido sintético brilhante, possivelmente cetim ou poliamida metalizada",
+    "estilo_corte": "corte estruturado de macacão infantil com capuz/capacete integrado",
+    "acessorios_visiveis": [
+      "viseira de malha/tela"
+    ],
+    "tematica_detalhada": "astronauta explorador espacial, com detalhe da bandeira do Brasil no peito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6187.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 8.6,
+  "data_analise": "2026-07-27T16:55:44Z",
+  "data_criacao": "2026-07-27T13:55:44.957323-03:00"
+}

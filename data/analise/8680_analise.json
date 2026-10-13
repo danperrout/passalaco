@@ -1,0 +1,27 @@
+{
+  "id": 8680,
+  "nome_original": "Ajudante de Papai Noel",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "gorro"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente poliéster",
+    "estilo_corte": "conjunto de duas peças com túnica ajustada e calça reta",
+    "acessorios_visiveis": [
+      "cinto preto",
+      "botões dourados"
+    ],
+    "tematica_detalhada": "ajudante do Papai Noel / elfo natalino"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8680.jpg",
+  "data_analise": "2026-07-27T13:38:27Z"
+}

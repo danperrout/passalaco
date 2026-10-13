@@ -1,0 +1,35 @@
+{
+  "id": 9451,
+  "nome_original": "Jack",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "azul",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "chapéu tricórnio",
+      "casaco longo",
+      "colete",
+      "calças",
+      "lenço de cintura"
+    ],
+    "material_visual": "tecido sintético com aparência de linho e camurça",
+    "estilo_corte": "estilo colonial pirata com corte reto e camadas",
+    "acessorios_visiveis": [
+      "cinto com fivela",
+      "bandana vermelha",
+      "detalhes em dourado no colete"
+    ],
+    "tematica_detalhada": "Fantasia de pirata, fortemente inspirada no personagem Capitão Jack Sparrow da franquia Piratas do Caribe"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9451.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 52.32,
+  "data_analise": "2026-07-28T17:58:10Z",
+  "data_criacao": "2026-07-28T14:58:10.230075-03:00"
+}

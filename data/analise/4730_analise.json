@@ -1,0 +1,30 @@
+{
+  "id": 4730,
+  "nome_original": "Bebezao",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "touca"
+    ],
+    "material_visual": "tecido sintético com aparência de cetim ou nylon",
+    "estilo_corte": "estilo infantil, amplo e volumoso",
+    "acessorios_visiveis": [
+      "laço azul no pescoço",
+      "touca com babados"
+    ],
+    "tematica_detalhada": "fantasia de bebê gigante (bebezão), remetendo a roupas de recém-nascido em escala adulta"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4730.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.77,
+  "data_analise": "2026-07-27T17:50:45Z",
+  "data_criacao": "2026-07-27T14:50:45.645212-03:00"
+}

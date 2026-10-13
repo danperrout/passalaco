@@ -1,0 +1,33 @@
+{
+  "id": 10186,
+  "nome_original": "Mascote Coelho",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "cabeça de coelho",
+      "paletó",
+      "colete",
+      "calça",
+      "luvas"
+    ],
+    "material_visual": "pelúcia macia e tecido com glitter/paetês",
+    "estilo_corte": "estilo fraque formal",
+    "acessorios_visiveis": [
+      "gravata borboleta preta"
+    ],
+    "tematica_detalhada": "Mascote de coelho antropomórfico vestido com trajes de gala, remetendo ao personagem Coelho Branco de Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10186.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 37.58,
+  "data_analise": "2026-07-29T19:21:37Z",
+  "data_criacao": "2026-07-29T16:21:37.272554-03:00"
+}

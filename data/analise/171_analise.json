@@ -1,0 +1,31 @@
+{
+  "id": 171,
+  "nome_original": "Barbie",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "magenta",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "tecido sintético com brilhos, possivelmente tule e cetim",
+    "estilo_corte": "estilo princesa com saia volumosa e corpete ajustado",
+    "acessorios_visiveis": [
+      "tiara ornamentada",
+      "asas de fada"
+    ],
+    "tematica_detalhada": "Barbie Fada, misturando a estética clássica da boneca com elementos de fantasia mística e contos de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/171.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.98,
+  "data_analise": "2026-07-27T17:45:58Z",
+  "data_criacao": "2026-07-27T14:45:58.715684-03:00"
+}

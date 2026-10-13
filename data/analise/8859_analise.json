@@ -1,0 +1,28 @@
+{
+  "id": 8859,
+  "nome_original": "Caveira Mexicana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda e tule",
+    "estilo_corte": "estilo longo com decote ornamentado por babados",
+    "acessorios_visiveis": [
+      "tiara de flores multicoloridas"
+    ],
+    "tematica_detalhada": "Caveira Mexicana inspirada no Dia de los Muertos, utilizando elementos típicos como flores vibrantes e representação de esqueleto no corpo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8859.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 27.66,
+  "data_analise": "2026-07-27T19:44:40Z",
+  "data_criacao": "2026-07-27T16:44:40.209357-03:00"
+}

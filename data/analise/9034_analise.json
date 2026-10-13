@@ -1,0 +1,30 @@
+{
+  "id": 9034,
+  "nome_original": "Noiva",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul claro"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "tiara"
+    ],
+    "material_visual": "renda e cetim",
+    "estilo_corte": "estilo lolita com saia volumosa em camadas e mangas bufantes",
+    "acessorios_visiveis": [
+      "tiara de flores",
+      "buquê de rosas vermelhas"
+    ],
+    "tematica_detalhada": "noiva estilizada com estética kawaii ou lolita, misturando elementos clássicos de casamento com moda alternativa japonesa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9034.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.48,
+  "data_analise": "2026-07-30T00:03:45Z",
+  "data_criacao": "2026-07-29T21:03:45.746527-03:00"
+}

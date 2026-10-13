@@ -1,0 +1,27 @@
+{
+  "id": 8315,
+  "nome_original": "Capitã Marvel",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão peça única"
+    ],
+    "material_visual": "tecido sintético com elastano e acabamento brilhante",
+    "estilo_corte": "justo ao corpo (body fit)",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "personagem Capitã Marvel da Marvel Comics e Universo Cinematográfico Marvel"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8315.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.72,
+  "data_analise": "2026-07-27T18:59:37Z",
+  "data_criacao": "2026-07-27T15:59:37.696651-03:00"
+}

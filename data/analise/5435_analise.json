@@ -1,0 +1,31 @@
+{
+  "id": 5435,
+  "nome_original": "Deusa Darc",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "capa/manto",
+      "tiara"
+    ],
+    "material_visual": "tecido sintético com detalhes em brilho e transparência na capa",
+    "estilo_corte": "ajustado ao corpo com decote em V e capa fluida",
+    "acessorios_visiveis": [
+      "tiara/coroa",
+      "cinto ornamental com correntes"
+    ],
+    "tematica_detalhada": "Deusa gótica ou soberana sombria, misturando elementos de realeza com estética dark"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5435.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.93,
+  "data_analise": "2026-07-28T02:52:00Z",
+  "data_criacao": "2026-07-27T23:52:00.703296-03:00"
+}

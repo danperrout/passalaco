@@ -1,0 +1,31 @@
+{
+  "id": 2620,
+  "nome_original": "Bobo da Corte",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "máscara",
+      "chapéu"
+    ],
+    "material_visual": "tecido acetinado e laminado com brilho metálico",
+    "estilo_corte": "túnica solta com detalhes ornamentados e gola alta",
+    "acessorios_visiveis": [
+      "máscara facial",
+      "estilo de chapéu com pontas múltiplas"
+    ],
+    "tematica_detalhada": "Bobo da Corte medieval com referências a figurinos de carnaval ou teatro clássico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2620.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.73,
+  "data_analise": "2026-07-27T18:16:58Z",
+  "data_criacao": "2026-07-27T15:16:58.547479-03:00"
+}

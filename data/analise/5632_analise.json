@@ -1,0 +1,27 @@
+{
+  "id": 5632,
+  "nome_original": "Coroa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "coroa"
+    ],
+    "material_visual": "metal dourado com acabamento brilhante",
+    "estilo_corte": "estilo aramado com recortes ornamentais vazados",
+    "acessorios_visiveis": [
+      "coroa"
+    ],
+    "tematica_detalhada": "realeza, monarquia, temática de príncipe ou princesa, referências a contos de fada ou festas de gala"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5632.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.2,
+  "data_analise": "2026-07-28T01:37:26Z",
+  "data_criacao": "2026-07-27T22:37:26.259817-03:00"
+}

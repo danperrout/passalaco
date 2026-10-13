@@ -1,0 +1,28 @@
+{
+  "id": 215,
+  "nome_original": "Batman",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "máscara com orelhas",
+      "traje de corpo inteiro"
+    ],
+    "material_visual": "material sintético com brilho, possivelmente vinil ou elastano",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "capuz com orelhas pontudas"
+    ],
+    "tematica_detalhada": "Batman, super-herói da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/215.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.77,
+  "data_analise": "2026-07-27T17:50:04Z",
+  "data_criacao": "2026-07-27T14:50:04.469278-03:00"
+}

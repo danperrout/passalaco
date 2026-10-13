@@ -1,0 +1,30 @@
+{
+  "id": 8159,
+  "nome_original": "Elvis",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com brilho e aplicações de pedrarias",
+    "estilo_corte": "estilo jumpsuit com gola alta e calça flare",
+    "acessorios_visiveis": [
+      "cinto com fivela grande ornamentada"
+    ],
+    "tematica_detalhada": "Elvis Presley na fase Las Vegas, caracterizada pelo luxo, brilho e extravagância dos anos 70"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8159.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 70.52,
+  "data_analise": "2026-07-28T03:42:25Z",
+  "data_criacao": "2026-07-28T00:42:25.532691-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 786,
+  "nome_original": "Lady Gaga",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "loiro"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "peruca"
+    ],
+    "material_visual": "tecido com lantejoulas ou acabamento metalizado brilhante",
+    "estilo_corte": "vestido tomara que caia com saia rodada e volumosa",
+    "acessorios_visiveis": [
+      "peruca loira com penteado volumoso"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na estética pop da artista Lady Gaga, remetendo a seus figurinos icônicos de palco com brilho e cabelos extravagantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/786.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 33.67,
+  "data_analise": "2026-07-29T08:32:49Z",
+  "data_criacao": "2026-07-29T05:32:49.169536-03:00"
+}

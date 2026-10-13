@@ -1,0 +1,34 @@
+{
+  "id": 3845,
+  "nome_original": "Indio",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "laranja",
+      "azul",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "tiara",
+      "saia",
+      "colar"
+    ],
+    "material_visual": "tecido sintético, penas artificiais e fibras trançadas",
+    "estilo_corte": "estilo tribal com saia curta de franjas coloridas",
+    "acessorios_visiveis": [
+      "tiara de penas",
+      "colar com dentes/contas",
+      "bracelete"
+    ],
+    "tematica_detalhada": "fantasia de indígena genérica, com referências estilizadas a trajes tribais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3845.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 220.96,
+  "data_analise": "2026-07-28T17:11:39Z",
+  "data_criacao": "2026-07-28T14:11:39.306941-03:00"
+}

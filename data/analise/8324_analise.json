@@ -1,0 +1,35 @@
+{
+  "id": 8324,
+  "nome_original": "Doutor Estranho",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "capa",
+      "calça",
+      "cinto"
+    ],
+    "material_visual": "tecido sintético acetinado",
+    "estilo_corte": "túnica longa com gola alta e capa fluida",
+    "acessorios_visBiveis": [
+      "cinto largo",
+      "broche circular no peito",
+      "protetores de braço",
+      "caneleiras"
+    ],
+    "tematica_detalhada": "Fantasia baseada no personagem Doutor Estranho da Marvel Comics e MCU, representando um mestre das artes místicas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8324.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.87,
+  "data_analise": "2026-07-28T03:22:17Z",
+  "data_criacao": "2026-07-28T00:22:17.503911-03:00"
+}

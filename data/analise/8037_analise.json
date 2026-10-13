@@ -1,0 +1,31 @@
+{
+  "id": 8037,
+  "nome_original": "Marinheira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "chapéu de marinheiro"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "corte ajustado ao corpo com saia rodada e babados na barra",
+    "acessorios_visiveis": [
+      "laço vermelho no pescoço",
+      "broche decorativo no peito"
+    ],
+    "tematica_detalhada": "fantasia de marinheira clássica com estética estilizada para festas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8037.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.07,
+  "data_analise": "2026-07-29T17:56:50Z",
+  "data_criacao": "2026-07-29T14:56:50.594369-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 7594,
+  "nome_original": "Fazendinha",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "vermelho",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "camisa",
+      "chapéu"
+    ],
+    "material_visual": "jeans e tecido estampado",
+    "estilo_corte": "conjunto infantil com macacão de alças e camisa de manga longa",
+    "acessorios_visiveis": [
+      "chapéu de palha"
+    ],
+    "tematica_detalhada": "Fazendinha, com referências a animais do campo como vaca e galinha, e estética de agricultor rural"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7594.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 72.27,
+  "data_analise": "2026-07-28T05:26:33Z",
+  "data_criacao": "2026-07-28T02:26:33.476781-03:00"
+}

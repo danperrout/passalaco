@@ -1,0 +1,34 @@
+{
+  "id": 9641,
+  "nome_original": "Rei de Copas",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "capa",
+      "chapéu"
+    ],
+    "material_visual": "veludo ou tecido sintético brilhante",
+    "estilo_corte": "corte largo e volumoso, estilo medieval/teatral",
+    "acessorios_visiveis": [
+      "coroa/chapéu temático",
+      "capa com forro xadrez"
+    ],
+    "tematica_detalhada": "Rei de Copas, com referências a baralhos e à obra Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9641.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.26,
+  "data_analise": "2026-07-30T04:50:24Z",
+  "data_criacao": "2026-07-30T01:50:24.347513-03:00"
+}

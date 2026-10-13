@@ -1,0 +1,29 @@
+{
+  "id": 5648,
+  "nome_original": "Branca de Neve",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante com detalhes em renda ou tule branco na barra",
+    "estilo_corte": "vestido curto com corpete ajustado e saia rodada",
+    "acessorios_visiveis": [
+      "tiara com laço vermelho"
+    ],
+    "tematica_detalhada": "Branca de Neve, personagem clássica dos contos de fadas da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5648.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 19.63,
+  "data_analise": "2026-07-27T18:21:12Z",
+  "data_criacao": "2026-07-27T15:21:12.518172-03:00"
+}

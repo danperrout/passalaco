@@ -1,0 +1,32 @@
+{
+  "id": 7750,
+  "nome_original": "Chapeleira Maluca",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "marrom",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "cartola"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante e cetim",
+    "estilo_corte": "vestido estilo empire com saia rodada e volumosa",
+    "acessorios_visiveis": [
+      "cartola com etiqueta",
+      "detalhes em renda/tule na barra"
+    ],
+    "tematica_detalhada": "Versão feminilizada e estilizada da Chapeleira Maluca, inspirada na obra Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7750.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.63,
+  "data_analise": "2026-07-27T19:50:29Z",
+  "data_criacao": "2026-07-27T16:50:29.158770-03:00"
+}

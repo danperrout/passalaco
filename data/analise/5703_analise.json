@@ -1,0 +1,31 @@
+{
+  "id": 5703,
+  "nome_original": "Saia Anos 60",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com estampa de poá",
+    "estilo_corte": "estilo pin-up com saia rodada e cintura marcada",
+    "acessorios_visiveis": [
+      "colar de pérolas",
+      "laço de cabelo",
+      "faixa na cintura"
+    ],
+    "tematica_detalhada": "Moda retrô dos anos 50 e 60, inspirada no estilo pin-up e na estética clássica da época"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5703.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.87,
+  "data_analise": "2026-07-30T05:27:01Z",
+  "data_criacao": "2026-07-30T02:27:01.555856-03:00"
+}

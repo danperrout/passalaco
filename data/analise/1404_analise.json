@@ -1,0 +1,27 @@
+{
+  "id": 1404,
+  "nome_original": "Vilma",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com aparência de camurça ou feltro",
+    "estilo_corte": "estilo túnica curta com corte assimétrico e drapeado",
+    "acessorios_visiveis": [
+      "colar de contas brancas"
+    ],
+    "tematica_detalhada": "fantasia de mulher das cavernas, inspirada na personagem Vilma Flintstone"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1404.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.47,
+  "data_analise": "2026-07-30T08:50:49Z",
+  "data_criacao": "2026-07-30T05:50:49.357003-03:00"
+}

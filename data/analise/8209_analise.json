@@ -1,0 +1,32 @@
+{
+  "id": 8209,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "laranja",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "tecido xadrez com sobreposição de tule e rendas",
+    "estilo_corte": "vestido infantil rodado com mangas bufantes e cintura marcada",
+    "acessorios_visiveis": [
+      "tiara decorada",
+      "laço na cintura",
+      "pompons coloridos"
+    ],
+    "tematica_detalhada": "traje típico de Festa Junina brasileira, inspirado no estilo caipira estilizado para crianças"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8209.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.9,
+  "data_analise": "2026-07-28T21:57:53Z",
+  "data_criacao": "2026-07-28T18:57:53.635962-03:00"
+}

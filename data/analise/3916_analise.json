@@ -1,0 +1,29 @@
+{
+  "id": 3916,
+  "nome_original": "Gata",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "cetim e renda",
+    "estilo_corte": "ajustado ao corpo com saia curta e rodada",
+    "acessorios_visiveis": [
+      "tiara de orelhas de gato",
+      "luvas longas"
+    ],
+    "tematica_detalhada": "fantasia de gata preta, com referências a estilos sensuais de festas à fantasia ou cosplay"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3916.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 208.18,
+  "data_analise": "2026-07-28T07:12:19Z",
+  "data_criacao": "2026-07-28T04:12:19.828110-03:00"
+}

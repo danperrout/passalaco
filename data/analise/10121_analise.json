@@ -1,0 +1,30 @@
+{
+  "id": 10121,
+  "nome_original": "Tiana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde limão",
+      "verde oliva",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "cetim ou tecido sintético com brilho",
+    "estilo_corte": "estilo tomara-que-caia com saia em camadas sobrepostas simulando pétalas",
+    "acessorios_visiveis": [
+      "tiara de coroa",
+      "flores ornamentais na cintura"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na Princesa Tiana do filme A Princesa e o Sapo, com design que remete a elementos da natureza e flores de lótus"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10121.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.21,
+  "data_analise": "2026-07-30T08:07:15Z",
+  "data_criacao": "2026-07-30T05:07:15.369066-03:00"
+}

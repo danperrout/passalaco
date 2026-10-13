@@ -1,0 +1,26 @@
+{
+  "id": 2676,
+  "nome_original": "Anos 60",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "touca"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "corte em A (trapézio)",
+    "acessorios_visiveis": [
+      "touca"
+    ],
+    "tematica_detalhada": "moda mod own dos anos 60 com estilo geométrico/color block"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2676.jpg",
+  "data_analise": "2026-07-27T14:00:19Z"
+}

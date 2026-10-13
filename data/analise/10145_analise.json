@@ -1,0 +1,27 @@
+{
+  "id": 10145,
+  "nome_original": "Monalisa",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica de corpo inteiro"
+    ],
+    "material_visual": "tecido sintético com impressão digital",
+    "estilo_corte": "corte reto em formato de quadro",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Réplica da pintura Mona Lisa de Leonardo da Vinci, simulando uma moldura de quadro clássico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10145.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.58,
+  "data_analise": "2026-07-29T22:49:36Z",
+  "data_criacao": "2026-07-29T19:49:36.360644-03:00"
+}

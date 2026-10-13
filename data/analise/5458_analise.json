@@ -1,0 +1,33 @@
+{
+  "id": 5458,
+  "nome_original": "Papai Noel Luxo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Natalinas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "gorro",
+      "barba"
+    ],
+    "material_visual": "tecido aveludado com acabamento em pelúcia sintética",
+    "estilo_corte": "corte clássico e amplo, com detalhes de bordas peludas",
+    "acessorios_visiveis": [
+      "cinto preto com fivela dourada",
+      "botas pretas"
+    ],
+    "tematica_detalhada": "Papai Noel, personagem icônico do Natal, representando a figura do provedor de presentes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5458.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.12,
+  "data_analise": "2026-07-30T02:13:40Z",
+  "data_criacao": "2026-07-29T23:13:40.379409-03:00"
+}

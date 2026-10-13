@@ -1,0 +1,30 @@
+{
+  "id": 9781,
+  "nome_original": "Beth",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul royal",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "tiara com laço"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou poliéster",
+    "estilo_corte": "vestido curto com modelagem assimétrica em um dos ombros e saia rodada",
+    "acessorios_visiveis": [
+      "laço de cabelo",
+      "cinto preto com detalhe central"
+    ],
+    "tematica_detalhada": "fantasia feminina estilizada, possivelmente inspirada em personagens de animação ou estética de 'cheerleader' fashion"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9781.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 140.5,
+  "data_analise": "2026-07-27T17:59:32Z",
+  "data_criacao": "2026-07-27T14:59:32.977248-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 6173,
+  "nome_original": "Olaf",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz",
+      "calça"
+    ],
+    "material_visual": "pelúcia macia",
+    "estilo_corte": "modelagem volumosa e arredondada",
+    "acessorios_visiveis": [
+      "nariz de cenoura",
+      "dente frontal",
+      "botões pretos"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Olaf, o boneco de neve do filme Frozen da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6173.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 43.29,
+  "data_analise": "2026-07-30T00:46:56Z",
+  "data_criacao": "2026-07-29T21:46:56.170076-03:00"
+}

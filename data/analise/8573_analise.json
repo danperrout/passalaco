@@ -1,0 +1,31 @@
+{
+  "id": 8573,
+  "nome_original": "Astronauta",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "capacete",
+      "macacão"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco e detalhes em material plástico no visor",
+    "estilo_corte": "macacão de corpo inteiro com modelagem larga e estruturada",
+    "acessorios_visiveis": [
+      "capacete com visor dourado",
+      "patches decorativos"
+    ],
+    "tematica_detalhada": "Exploração espacial e temática de astronauta da NASA, inspirada em trajes espaciais reais para uso recreativo/festa."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8573.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 10.37,
+  "data_analise": "2026-07-27T16:56:04Z",
+  "data_criacao": "2026-07-27T13:56:04.369221-03:00"
+}

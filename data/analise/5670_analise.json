@@ -1,0 +1,34 @@
+{
+  "id": 5670,
+  "nome_original": "Comandante",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "gravata",
+      "quepe"
+    ],
+    "material_visual": "tecido sintético com aspecto de poliéster",
+    "estilo_corte": "uniforme militar com corte reto e gola colarinho",
+    "acessorios_visiveis": [
+      "quepe com emblema",
+      "gravata",
+      "ombreiras",
+      "galões nas mangas"
+    ],
+    "tematica_detalhada": "comandante de aviação ou capitão naval, inspirada em uniformes de tripulação aérea"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5670.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 32.05,
+  "data_analise": "2026-07-28T01:14:25Z",
+  "data_criacao": "2026-07-27T22:14:25.790998-03:00"
+}

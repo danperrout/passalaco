@@ -1,0 +1,32 @@
+{
+  "id": 7312,
+  "nome_original": "Mulher Maravilha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara",
+      "braceletes"
+    ],
+    "material_visual": "cetim, paetês e tecido sintético brilhante",
+    "estilo_corte": "vestido curto com bustiê ajustado e saia rodada",
+    "acessorios_visiveis": [
+      "tiara dourada com estrela",
+      "braceletes azuis"
+    ],
+    "tematica_detalhada": "Personagem Mulher Maravilha da DC Comics, com elementos iconográficos como as estrelas e as cores da bandeira americana"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7312.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.8,
+  "data_analise": "2026-07-29T23:26:00Z",
+  "data_criacao": "2026-07-29T20:26:00.686977-03:00"
+}

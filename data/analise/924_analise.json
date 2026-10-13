@@ -1,0 +1,28 @@
+{
+  "id": 924,
+  "nome_original": "Morticia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido opaco com detalhes em tule translúcido",
+    "estilo_corte": "vestido justo com decote em V, mangas 3/4 e detalhes fluidos nas extremidades",
+    "acessorios_visiveis": [
+      "peruca preta"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Morticia Addams da Família Addams, com estética gótica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/924.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.2,
+  "data_analise": "2026-07-29T23:07:08Z",
+  "data_criacao": "2026-07-29T20:07:08.662081-03:00"
+}

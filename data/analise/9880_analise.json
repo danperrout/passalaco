@@ -1,0 +1,30 @@
+{
+  "id": 9880,
+  "nome_original": "Junina Saia",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia"
+    ],
+    "material_visual": "tecido xadrez e cetim/cetim sintético",
+    "estilo_corte": "estilo caipira com saia rodada e babados",
+    "acessorios_visiveis": [
+      "tiara com flores e fitas"
+    ],
+    "tematica_detalhada": "Festa Junina tradicional brasileira, representando a figura da noiva ou moça caipira estilizada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9880.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 55.14,
+  "data_analise": "2026-07-29T07:33:48Z",
+  "data_criacao": "2026-07-29T04:33:48.602725-03:00"
+}

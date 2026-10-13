@@ -1,0 +1,31 @@
+{
+  "id": 1137,
+  "nome_original": "Piloto",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "boné"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster",
+    "estilo_corte": "macacão integral com gola alta e punhos ajustados",
+    "acessorios_visiveis": [
+      "boné",
+      "patches de patrocinadores",
+      "cinto"
+    ],
+    "tematica_detalhada": "Piloto de corrida inspirado no personagem Relâmpago McQueen da franquia Carros"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1137.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 46.92,
+  "data_analise": "2026-07-30T03:33:00Z",
+  "data_criacao": "2026-07-30T00:33:00.665833-03:00"
+}

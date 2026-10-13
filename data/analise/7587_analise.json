@@ -1,0 +1,27 @@
+{
+  "id": 7587,
+  "nome_original": "Paleto",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "paletó"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte reto com lapela clássica e fechamento por botões",
+    "acessorios_visiveis": [
+      "peruca preta"
+    ],
+    "tematica_detalhada": "traje formal estilizado em cor vibrante, possivelmente para representações cômicas, personagens específicos de teatro ou eventos temáticos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7587.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.22,
+  "data_analise": "2026-07-30T01:28:06Z",
+  "data_criacao": "2026-07-29T22:28:06.139852-03:00"
+}

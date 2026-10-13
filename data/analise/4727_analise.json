@@ -1,0 +1,30 @@
+{
+  "id": 4727,
+  "nome_original": "Sereia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "tecido com lantejoulas",
+    "estilo_corte": "top curto e saia curta ajustada",
+    "acessorios_visiveis": [
+      "tiara/coroa",
+      "peruca"
+    ],
+    "tematica_detalhada": "Fantasia de sereia, com referências visuais à personagem Ariel da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4727.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.23,
+  "data_analise": "2026-07-30T06:19:17Z",
+  "data_criacao": "2026-07-30T03:19:17.209566-03:00"
+}

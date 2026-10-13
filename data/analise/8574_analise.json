@@ -1,0 +1,28 @@
+{
+  "id": 8574,
+  "nome_original": "Elsa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde água",
+      "azul claro"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido sintético brilhante com sobreposição de tule e aplicações de glitter",
+    "estilo_corte": "corte império com decote ombro a ombro e saia evasê",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "fantasia inspirada na personagem Elsa do filme Frozen, com elementos que remetem ao gelo e magia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8574.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 22.74,
+  "data_analise": "2026-07-28T03:36:05Z",
+  "data_criacao": "2026-07-28T00:36:05.302097-03:00"
+}

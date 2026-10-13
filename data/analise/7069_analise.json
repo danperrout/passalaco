@@ -1,0 +1,31 @@
+{
+  "id": 7069,
+  "nome_original": "Coelhinha Alice",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "avental",
+      "tiara de orelhas"
+    ],
+    "material_visual": "cetim e renda",
+    "estilo_corte": "estilo vitoriano com saia volumosa e mangas bufantes",
+    "acessorios_visiveis": [
+      "orelhas de coelho",
+      "avental branco com renda"
+    ],
+    "tematica_detalhada": "Fusão entre a personagem Alice no País das Maravilhas e a figura do Coelho Branco"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7069.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 44.67,
+  "data_analise": "2026-07-28T00:25:59Z",
+  "data_criacao": "2026-07-27T21:25:59.124718-03:00"
+}

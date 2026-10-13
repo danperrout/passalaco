@@ -1,0 +1,25 @@
+{
+  "id": 8929,
+  "nome_original": "Anjo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "túnica"
+    ],
+    "material_visual": "tecido leve com brilho e texturas etéreas",
+    "estilo_corte": "fluido e longo",
+    "acessorios_visiveis": [
+      "detalhes dourados na cintura"
+    ],
+    "tematica_detalhada": "anjo celestial com estética luminosa e mística"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8929.jpg",
+  "data_analise": "2026-07-27T13:56:47Z"
+}

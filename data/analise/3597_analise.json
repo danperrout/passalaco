@@ -1,0 +1,29 @@
+{
+  "id": 3597,
+  "nome_original": "Bailarina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "corpo/bodysuit",
+      "saia"
+    ],
+    "material_visual": "tule, glitter e detalhes brilhantes",
+    "estilo_corte": "ajustado ao corpo com saia rodada e volumosa",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "Bailarina clássica, inspirada em contos de fadas ou personagens de ballet"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3597.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 11.18,
+  "data_analise": "2026-07-27T17:00:44Z",
+  "data_criacao": "2026-07-27T14:00:44.075720-03:00"
+}

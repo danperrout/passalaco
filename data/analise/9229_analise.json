@@ -1,0 +1,27 @@
+{
+  "id": 9229,
+  "nome_original": "Wandinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim e tule",
+    "estilo_corte": "vestido de festa com saia volumosa em camadas e decote arredondado",
+    "acessorios_visiveis": [
+      "peruca com tranças"
+    ],
+    "tematica_detalhada": "Personagem Wandinha Addams, inspirada na série Wednesday, com estética gótica e sombria"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9229.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.86,
+  "data_analise": "2026-07-30T08:54:14Z",
+  "data_criacao": "2026-07-30T05:54:14.729951-03:00"
+}

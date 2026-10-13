@@ -1,0 +1,34 @@
+{
+  "id": 6236,
+  "nome_original": "Chaves",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "branco",
+      "laranja",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camiseta listrada",
+      "saia plissada",
+      "suspensórios",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético e algodão",
+    "estilo_corte": "estilo casual e infantilizado com saia curta plissada",
+    "acessorios_visiveis": [
+      "suspensórios laranjas",
+      "chapéu de tecido escuro"
+    ],
+    "tematica_detalhada": "Fantasia baseada no personagem Chaves (El Chavo del Ocho), adaptada para versão feminina"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6236.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 53.91,
+  "data_analise": "2026-07-27T20:40:04Z",
+  "data_criacao": "2026-07-27T17:40:04.710516-03:00"
+}

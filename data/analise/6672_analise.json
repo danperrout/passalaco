@@ -1,0 +1,26 @@
+{
+  "id": 6672,
+  "nome_original": "Alemă",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "avental"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda",
+    "estilo_corte": "estilo camponês com saia rodada e corpete ajustado",
+    "acessorios_visiveis": [
+      "guirlanda de flores na cabeça"
+    ],
+    "tematica_detalhada": "traje típico tradicional alemão (dirndl)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6672.jpg",
+  "data_analise": "2026-07-27T13:41:25Z"
+}

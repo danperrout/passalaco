@@ -1,0 +1,29 @@
+{
+  "id": 9068,
+  "nome_original": "Homem Aranha",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "macacão completo",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante e texturizado",
+    "estilo_corte": "justo ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "máscara integrada"
+    ],
+    "tematica_detalhada": "Homem-Aranha, personagem da Marvel Comics, especificamente inspirada em versões como Miles Morales ou trajes tecnológicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9068.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 50.06,
+  "data_analise": "2026-07-28T14:06:39Z",
+  "data_criacao": "2026-07-28T11:06:39.273622-03:00"
+}

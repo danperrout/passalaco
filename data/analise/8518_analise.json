@@ -1,0 +1,30 @@
+{
+  "id": 8518,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "multicolorido",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "tecido metalizado e plumas sintéticas",
+    "estilo_corte": "conjunto de duas peças curto e justo",
+    "acessorios_visiveis": [
+      "arranjo de cabeça de plumas",
+      "estola de plumas"
+    ],
+    "tematica_detalhada": "Carnaval brasileiro, inspirado em passista de escola de samba ou bailarina de carnaval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8518.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.24,
+  "data_analise": "2026-07-27T19:24:14Z",
+  "data_criacao": "2026-07-27T16:24:14.702419-03:00"
+}

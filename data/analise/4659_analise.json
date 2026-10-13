@@ -1,0 +1,35 @@
+{
+  "id": 4659,
+  "nome_original": "Village People Cowboy",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "colete",
+      "lenço",
+      "camisa",
+      "calça",
+      "perneiras"
+    ],
+    "material_visual": "material sintético com aspecto de couro e tecido poliéster",
+    "estilo_corte": "estilo western com ajustes típicos de trajes de montaria",
+    "acessorios_visiveis": [
+      "cinto com fivela grande",
+      "lenço de pescoço"
+    ],
+    "tematica_detalhada": "fantasia de cowboy inspirada no grupo Village People, remetendo ao arquétipo do oeste americano"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4659.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.5,
+  "data_analise": "2026-07-30T08:50:24Z",
+  "data_criacao": "2026-07-30T05:50:24.296531-03:00"
+}

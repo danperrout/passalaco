@@ -1,0 +1,28 @@
+{
+  "id": 9367,
+  "nome_original": "Coroa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "tiara"
+    ],
+    "material_visual": "metal dourado com pedrarias facetadas",
+    "estilo_corte": "design curvilíneo com formato de coroa e detalhes em coração",
+    "acessorios_visiveis": [
+      "cristais vermelhos"
+    ],
+    "tematica_detalhada": "realeza, rainha de copas ou temática de amor e poder"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9367.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 75.15,
+  "data_analise": "2026-07-28T01:41:55Z",
+  "data_criacao": "2026-07-27T22:41:55.186609-03:00"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 3650,
+  "nome_original": "Africana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "turbante"
+    ],
+    "material_visual": "tecido estampado",
+    "estilo_corte": "longo e fluido",
+    "acessorios_visiveis": [
+      "turbante"
+    ],
+    "tematica_detalhada": "vestimenta inspirada em culturas africanas com estampas coloridas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3650.jpg",
+  "data_analise": "2026-07-27T13:37:01Z"
+}

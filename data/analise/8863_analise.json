@@ -1,0 +1,31 @@
+{
+  "id": 8863,
+  "nome_original": "Casal Diabo e Diabinha",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "túnica longa"
+    ],
+    "material_visual": "tecido brilhante com lantejoulas e cetim",
+    "estilo_corte": "vestido ajustado com brilho e túnica de corte reto com cintura marcada",
+    "acessorios_visiveis": [
+      "tiara com chifres vermelhos",
+      "máscara com chifres pretos",
+      "colar gargantilha"
+    ],
+    "tematica_detalhada": "Casal Diabo e Diabinha, baseada em arquétipos clássicos de demônios e figuras infernais para festas temáticas e Halloween"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8863.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.33,
+  "data_analise": "2026-07-27T19:32:45Z",
+  "data_criacao": "2026-07-27T16:32:45.140679-03:00"
+}

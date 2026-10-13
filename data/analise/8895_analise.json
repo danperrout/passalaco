@@ -1,0 +1,31 @@
+{
+  "id": 8895,
+  "nome_original": "Lobo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "cinza"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capuz com orelhas"
+    ],
+    "material_visual": "tecido xadrez com acabamentos em pelúcia sintética",
+    "estilo_corte": "estilo baby-doll com saia rodada e alças",
+    "acessorios_visiveis": [
+      "cinto preto com fivela",
+      "pompons de pelúcia"
+    ],
+    "tematica_detalhada": "Lobo estilizado com referências a Chapeuzinho Vermelho, misturando elementos caninos e estética rústica/estilizada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8895.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 333.29,
+  "data_analise": "2026-07-29T11:53:24Z",
+  "data_criacao": "2026-07-29T08:53:24.604902-03:00"
+}

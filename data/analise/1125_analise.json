@@ -1,0 +1,32 @@
+{
+  "id": 1125,
+  "nome_original": "Peter Pan",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde limão",
+      "verde escuro",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "corte irregular com barras serrilhadas e amarrado no gola",
+    "acessorios_visiveis": [
+      "faixa vermelha na cintura",
+      "pena vermelha no chapéu"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Peter Pan, baseada na obra de J.M. Barrie, representando o menino que não cresce da Terra do Nunca"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1125.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.38,
+  "data_analise": "2026-07-30T03:24:23Z",
+  "data_criacao": "2026-07-30T00:24:23.968883-03:00"
+}

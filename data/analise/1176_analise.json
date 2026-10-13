@@ -1,0 +1,30 @@
+{
+  "id": 1176,
+  "nome_original": "Policial",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "saia",
+      "boné"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco",
+    "estilo_corte": "estilo sexy/estilizado com camisa curta e saia curta",
+    "acessorios_visiveis": [
+      "boné com emblema"
+    ],
+    "tematica_detalhada": "fantasia de policial feminina estilizada para festas, baseada em uniformes de forças de segurança"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1176.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.18,
+  "data_analise": "2026-07-30T03:45:23Z",
+  "data_criacao": "2026-07-30T00:45:23.214944-03:00"
+}

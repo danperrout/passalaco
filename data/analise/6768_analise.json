@@ -1,0 +1,29 @@
+{
+  "id": 6768,
+  "nome_original": "Ladybug",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com elasticidade, possivelmente elastano ou poliéster",
+    "estilo_corte": "ajustado ao corpo (skinny/bodycon) com mangas longas e pernas longas",
+    "acessorios_visiveis": [
+      "máscara ocular"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Ladybug da série 'Miraculous: As Aventuras de Ladybug'"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6768.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 177.6,
+  "data_analise": "2026-07-29T08:35:47Z",
+  "data_criacao": "2026-07-29T05:35:47.060094-03:00"
+}

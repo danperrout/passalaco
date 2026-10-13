@@ -1,0 +1,29 @@
+{
+  "id": 8870,
+  "nome_original": "Casal Chuck",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "multicolorido"
+    ],
+    "pecas_inclusas": [
+      "macacão azul",
+      "camiseta listrada"
+    ],
+    "material_visual": "tecido sintético e malha",
+    "estilo_corte": "estilo jardineira com corte reto e mangas longas",
+    "acessorios_visiveis": [
+      "máscara de personagem"
+    ],
+    "tematica_detalhada": "Personagem Chucky, do filme Brinquedo Assassino, adaptada para casal"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8870.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.84,
+  "data_analise": "2026-07-27T19:32:01Z",
+  "data_criacao": "2026-07-27T16:32:01.253748-03:00"
+}

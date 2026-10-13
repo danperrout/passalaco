@@ -1,0 +1,29 @@
+{
+  "id": 8915,
+  "nome_original": "Round 6",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Preto"
+    ],
+    "pecas_inclusas": [
+      "Macacão com capuz"
+    ],
+    "material_visual": "Tecido sintético fosco, possivelmente poliéster",
+    "estilo_corte": "Corte reto e utilitário, estilo uniforme industrial",
+    "acessorios_visiveis": [
+      "Cinto preto",
+      "Máscara preta"
+    ],
+    "tematica_detalhada": "Fantasia baseada nos guardas da série sul-coreana 'Round 6' (Squid Game), representando a hierarquia de controle do jogo."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8915.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.44,
+  "data_analise": "2026-07-30T05:02:39Z",
+  "data_criacao": "2026-07-30T02:02:39.801048-03:00"
+}

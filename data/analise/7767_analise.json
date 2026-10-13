@@ -1,0 +1,31 @@
+{
+  "id": 7767,
+  "nome_original": "Harry Potter Hermione",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "cinza",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz",
+      "blusa",
+      "saia plissada"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte reto para a capa e corte evasê plissado para a saia",
+    "acessorios_visiveis": [
+      "brasão da casa Gryffindor"
+    ],
+    "tematica_detalhada": "uniforme escolar de Hogwarts da personagem Hermione Granger, da saga Harry Potter, representando a casa Gryffindor"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7767.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 136.59,
+  "data_analise": "2026-07-28T12:51:17Z",
+  "data_criacao": "2026-07-28T09:51:17.586100-03:00"
+}

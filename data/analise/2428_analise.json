@@ -1,0 +1,29 @@
+{
+  "id": 2428,
+  "nome_original": "Cachorro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "estilo kigurumi ou macacão integral",
+    "acessorios_visiveis": [
+      "orelhas integradas ao capuz"
+    ],
+    "tematica_detalhada": "fantasia de animal, especificamente um cachorro, com foco em conforto e aparência fofa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2428.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.33,
+  "data_analise": "2026-07-27T18:45:15Z",
+  "data_criacao": "2026-07-27T15:45:15.403355-03:00"
+}

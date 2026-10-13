@@ -1,0 +1,31 @@
+{
+  "id": 1526,
+  "nome_original": "Mario",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Cosplay",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "macacão",
+      "boné"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster",
+    "estilo_corte": "corte reto e folgado, estilo operário",
+    "acessorios_visiveis": [
+      "botões amarelos decorativos",
+      "boné com emblema"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Mario, da franquia Super Mario da Nintendo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1526.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 65.54,
+  "data_analise": "2026-07-29T18:25:10Z",
+  "data_criacao": "2026-07-29T15:25:10.874535-03:00"
+}

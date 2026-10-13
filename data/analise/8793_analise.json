@@ -1,0 +1,37 @@
+{
+  "id": 8793,
+  "nome_original": "Familia Patrulha Canina",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "mascote completo",
+      "camisa azul",
+      "chapéu azul",
+      "vestido rosa",
+      "tiara rosa",
+      "camiseta branca e vermelha"
+    ],
+    "material_visual": "tecidos sintéticos, pelúcia e poliéster",
+    "estilo_corte": "corte casual e fantasias temáticas infantis",
+    "acessorios_visiveis": [
+      "chapéu de bombeiro/policial",
+      "tiara",
+      "emblemas da Patrulha Canina"
+    ],
+    "tematica_detalhada": "Família Patrulha Canina, baseada na série animada Paw Patrol, representando personagens como Marshall, Chase e Skye"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8793.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 60.7,
+  "data_analise": "2026-07-28T04:55:54Z",
+  "data_criacao": "2026-07-28T01:55:54.184939-03:00"
+}

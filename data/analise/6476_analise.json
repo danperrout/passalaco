@@ -1,0 +1,30 @@
+{
+  "id": 6476,
+  "nome_original": "Piloto",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capacete"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster",
+    "estilo_corte": "ajustado, estilo macacão de corrida",
+    "acessorios_visiveis": [
+      "capacete com protetores auriculares"
+    ],
+    "tematica_detalhada": "Piloto de corrida ou aviação, com referências a uniformes esportivos de alta velocidade e elementos gráficos de chamas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6476.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.3,
+  "data_analise": "2026-07-30T03:30:15Z",
+  "data_criacao": "2026-07-30T00:30:15.764770-03:00"
+}

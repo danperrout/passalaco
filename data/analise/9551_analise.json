@@ -1,0 +1,28 @@
+{
+  "id": 9551,
+  "nome_original": "Caça Fantasma",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "caqui"
+    ],
+    "pecas_inclusas": [
+      "macacão"
+    ],
+    "material_visual": "tecido sintético com aspecto acetinado ou poliéster",
+    "estilo_corte": "corte reto, estilo macacão de trabalho com gola e fechamento frontal",
+    "acessorios_visiveis": [
+      "emblema circular no peito"
+    ],
+    "tematica_detalhada": "fantasia baseada nos personagens da franquia Ghostbusters (Os Caça-Fantasmas), simulando o uniforme operacional de campo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9551.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 39.47,
+  "data_analise": "2026-07-27T18:44:10Z",
+  "data_criacao": "2026-07-27T15:44:10.713818-03:00"
+}

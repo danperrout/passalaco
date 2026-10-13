@@ -1,0 +1,29 @@
+{
+  "id": 9645,
+  "nome_original": "Noiva do Chuck",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "jaqueta"
+    ],
+    "material_visual": "tule e material sintético imitando couro",
+    "estilo_corte": "vestido curto com saia volumosa e jaqueta estilo biker",
+    "acessorios_visiveis": [
+      "zíperes metálicos"
+    ],
+    "tematica_detalhada": "estilo noiva rebelde ou gótica, referenciando a personagem Noiva do Chucky com a mistura de elementos românticos e rock/punk"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9645.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 35.88,
+  "data_analise": "2026-07-30T00:31:39Z",
+  "data_criacao": "2026-07-29T21:31:39.916082-03:00"
+}

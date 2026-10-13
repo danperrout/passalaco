@@ -1,0 +1,29 @@
+{
+  "id": 10042,
+  "nome_original": "Rainha Má",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "capa"
+    ],
+    "material_visual": "tule, renda bordada e tecido sintético",
+    "estilo_corte": "estilo mini vestido ajustado com saia volumosa e capa fluida",
+    "acessorios_visiveis": [
+      "coroa pontiaguda"
+    ],
+    "tematica_detalhada": "Rainha Má, com referências a vilãs de contos de fadas e estética gótica real"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10042.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 42.95,
+  "data_analise": "2026-07-30T04:32:36Z",
+  "data_criacao": "2026-07-30T01:32:36.090103-03:00"
+}

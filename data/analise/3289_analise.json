@@ -1,0 +1,26 @@
+{
+  "id": 3289,
+  "nome_original": "Sari",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul royal"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "véu/xale"
+    ],
+    "material_visual": "tecido leve e fluido com brilhos pontuais",
+    "estilo_corte": "corte longo e drapeado com cobertura de cabeça",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia inspirada em trajes tradicionais do Oriente Médio ou Sul da Ásia, remetendo a um Sari ou Hijab estilizado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3289.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.76,
+  "data_analise": "2026-07-30T05:55:14Z",
+  "data_criacao": "2026-07-30T02:55:14.235036-03:00"
+}

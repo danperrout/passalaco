@@ -1,0 +1,33 @@
+{
+  "id": 6961,
+  "nome_original": "Maria Bonita",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "blusa",
+      "saia",
+      "colete/bandoleira"
+    ],
+    "material_visual": "tecido sintético com aparência de brim ou linho e detalhes em material sintético que imita couro",
+    "estilo_corte": "estilo rústico cangaceiro com corte reto e ajustes por amarrações",
+    "acessorios_visiveis": [
+      "chapéu de couro típico",
+      "cartucheiras",
+      "cinto com bolsos"
+    ],
+    "tematica_detalhada": "Fantasia de Maria Bonita, referência à figura histórica do Cangaço no sertão nordestino do Brasil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6961.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 83.13,
+  "data_analise": "2026-07-29T17:32:11Z",
+  "data_criacao": "2026-07-29T14:32:11.410068-03:00"
+}

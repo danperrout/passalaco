@@ -1,0 +1,32 @@
+{
+  "id": 6760,
+  "nome_original": "Minnie",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "cetim e tecido com estampa de poá",
+    "estilo_corte": "vestido rodado com gola arredondada e mangas bufantes",
+    "acessorios_visiveis": [
+      "tiara com orelhas e laço",
+      "broche central",
+      "faixa com laço na cintura"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Minnie Mouse da Disney, versão rosa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6760.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.13,
+  "data_analise": "2026-07-29T22:32:53Z",
+  "data_criacao": "2026-07-29T19:32:53.630536-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2611,
+  "nome_original": "Colete Preto G",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com textura tramada no colete e algodão/poliéster na camisa",
+    "estilo_corte": "colete slim fit com corte em V e botões frontais",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "estilo rústico ou campestre, remetendo a personagens como fazendeiros, estilo steampunk casual ou visual vintage"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2611.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 45.98,
+  "data_analise": "2026-07-28T00:55:48Z",
+  "data_criacao": "2026-07-27T21:55:48.867114-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 10117,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia curta"
+    ],
+    "material_visual": "tecido sintético brilhante com aplicações coloridas",
+    "estilo_corte": "conjunto de duas peças com corte ajustado e saia drapeada",
+    "acessorios_visiveis": [
+      "adorno de cabeça",
+      "colar"
+    ],
+    "tematica_detalhada": "fantasia de Carnaval com estética de passista ou bailarina, referenciando as cores e o brilho típicos das festas carnavalescas brasileiras"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10117.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.95,
+  "data_analise": "2026-07-27T19:27:05Z",
+  "data_criacao": "2026-07-27T16:27:05.681987-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 7631,
+  "nome_original": "Misa Death Note",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Cosplay",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "corset",
+      "saia",
+      "luvas",
+      "choker"
+    ],
+    "material_visual": "veludo, renda e material sintético similar a couro",
+    "estilo_corte": "ajustado ao corpo com cintura marcada e comprimento curto",
+    "acessorios_visiveis": [
+      "corrente decorativa",
+      "choker de pescoço"
+    ],
+    "tematica_detalhada": "Estilo gótico lolita inspirado na personagem Misa Amane do anime e mangá Death Note"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7631.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.12,
+  "data_analise": "2026-07-29T22:42:29Z",
+  "data_criacao": "2026-07-29T19:42:29.867433-03:00"
+}

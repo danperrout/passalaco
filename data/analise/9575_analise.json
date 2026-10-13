@@ -1,0 +1,28 @@
+{
+  "id": 9575,
+  "nome_original": "Chapeu de Bruxa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "chapéu de bruxa"
+    ],
+    "material_visual": "feltro ou tecido sintético com tule na base",
+    "estilo_corte": "cônico com aba arredondada e acabamento em rede",
+    "acessorios_visiveis": [
+      "bandeirolas decorativas de halloween"
+    ],
+    "tematica_detalhada": "Halloween, representando a figura clássica da bruxa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9575.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.94,
+  "data_analise": "2026-07-27T19:52:22Z",
+  "data_criacao": "2026-07-27T16:52:22.094364-03:00"
+}

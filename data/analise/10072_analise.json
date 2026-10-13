@@ -1,0 +1,33 @@
+{
+  "id": 10072,
+  "nome_original": "Rainha Negra Luxo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "corselet",
+      "saiote frontal",
+      "ombreiras estruturadas",
+      "manguitos",
+      "perneiras",
+      "capa"
+    ],
+    "material_visual": "tecido acetinado com bordados em lurex ou fios metálicos prateados",
+    "estilo_corte": "estilo barroco moderno com silhueta marcada e volumes estruturados nos ombros",
+    "acessorios_visiveis": [
+      "máscara veneziana com pluma"
+    ],
+    "tematica_detalhada": "Rainha Negra de luxo com influências de Carnaval de Veneza e estética gótica sofisticada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10072.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.99,
+  "data_analise": "2026-07-30T04:34:05Z",
+  "data_criacao": "2026-07-30T01:34:05.016583-03:00"
+}

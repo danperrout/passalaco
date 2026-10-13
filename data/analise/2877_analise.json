@@ -1,0 +1,33 @@
+{
+  "id": 2877,
+  "nome_original": "Stephanie",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "peruca",
+      "bolsa",
+      "meias"
+    ],
+    "material_visual": "tecido sintético acetinado",
+    "estilo_corte": "vestido curto sem mangas com listras verticais",
+    "acessorios_visiveis": [
+      "peruca rosa",
+      "bolsa transversal rosa",
+      "tiara ou arco roxo"
+    ],
+    "tematica_detalhada": "Fantasia estilizada em tons de rosa, possivelmente inspirada em personagens de anime ou estética pop colorida"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2877.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.33,
+  "data_analise": "2026-07-30T07:24:37Z",
+  "data_criacao": "2026-07-30T04:24:37.588969-03:00"
+}

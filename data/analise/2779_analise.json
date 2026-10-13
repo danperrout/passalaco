@@ -1,0 +1,33 @@
+{
+  "id": 2779,
+  "nome_original": "Leoa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "luvas",
+      "tiara de orelhas",
+      "polainas"
+    ],
+    "material_visual": "tecido sintético com detalhes em pelúcia",
+    "estilo_corte": "estilo corset com amarração frontal e saia rodada",
+    "acessorios_visiveis": [
+      "orelhas de leão",
+      "luvas com punhos de pelúcia",
+      "polainas com pelúcia"
+    ],
+    "tematica_detalhada": "fantasia de leoa estilizada, com elementos que remetem ao animal através da paleta de cores terrosas e texturas peludas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2779.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 44.13,
+  "data_analise": "2026-07-29T10:46:45Z",
+  "data_criacao": "2026-07-29T07:46:45.543329-03:00"
+}

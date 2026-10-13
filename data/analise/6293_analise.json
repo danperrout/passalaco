@@ -1,0 +1,27 @@
+{
+  "id": 6293,
+  "nome_original": "Aladim",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "calças",
+      "chapéu"
+    ],
+    "material_visual": "cetim sintético",
+    "estilo_corte": "estilo oriental com calças largas e colete ajustado",
+    "acessorios_visiveis": [
+      "detalhes dourados",
+      "bordados no chapéu"
+    ],
+    "tematica_detalhada": "personagem Aladim inspirado em estética árabe"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6293.jpg",
+  "data_analise": "2026-07-27T13:38:58Z"
+}

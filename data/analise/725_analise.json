@@ -1,0 +1,30 @@
+{
+  "id": 725,
+  "nome_original": "Hulk",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "camisa acolchoada",
+      "bermuda"
+    ],
+    "material_visual": "tecido sintético com enchimento para simular músculos",
+    "estilo_corte": "ajustado ao corpo com efeito volumoso e calças com extremidades rasgadas",
+    "acessorios_visiveis": [
+      "máscara facial"
+    ],
+    "tematica_detalhada": "Personagem Hulk da Marvel Comics, representando a versão transformada e musculosa do Dr. Bruce Banner"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/725.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 244.38,
+  "data_analise": "2026-07-28T15:12:21Z",
+  "data_criacao": "2026-07-28T12:12:21.208669-03:00"
+}

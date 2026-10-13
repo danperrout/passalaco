@@ -1,0 +1,25 @@
+{
+  "id": 2655,
+  "nome_original": "Capa",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz"
+    ],
+    "material_visual": "tecido sintético com aspecto acetinado ou poliéster",
+    "estilo_corte": "corte amplo, fluido e longo, com capuz integrado",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia de temática sombria, podendo representar a Morte (Ceifador), bruxo, vampiro ou personagem de mistério/terror"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2655.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.07,
+  "data_analise": "2026-07-27T18:54:12Z",
+  "data_criacao": "2026-07-27T15:54:12.945139-03:00"
+}

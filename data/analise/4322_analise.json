@@ -1,0 +1,30 @@
+{
+  "id": 4322,
+  "nome_original": "Noiva",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "lilás",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule e tecido sintético com detalhes em renda ou babados",
+    "estilo_corte": "corte princesa com mangas bufantes e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara de flores",
+      "buquê de flores"
+    ],
+    "tematica_detalhada": "fantasia de noiva estilizada com cores pastéis, remetendo a um tema romântico, fantasioso ou de conto de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4322.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 35.83,
+  "data_analise": "2026-07-30T00:05:32Z",
+  "data_criacao": "2026-07-29T21:05:32.774103-03:00"
+}

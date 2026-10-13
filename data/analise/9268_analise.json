@@ -1,0 +1,34 @@
+{
+  "id": 9268,
+  "nome_original": "Familia Adans",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó risca de giz",
+      "calça",
+      "vestido preto",
+      "camiseta listrada",
+      "bermuda preta"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado e malha",
+    "estilo_corte": "corte clássico formal para adulto e corte casual/infantil",
+    "acessorios_visiveis": [
+      "gravata borboleta",
+      "peruca longa preta",
+      "laço no cabelo"
+    ],
+    "tematica_detalhada": "Família Addams, composta por personagens como Gomez, Morticia e Wandinha"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9268.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 36.36,
+  "data_analise": "2026-07-28T04:46:41Z",
+  "data_criacao": "2026-07-28T01:46:41.448065-03:00"
+}

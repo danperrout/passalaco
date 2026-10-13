@@ -1,0 +1,28 @@
+{
+  "id": 581,
+  "nome_original": "Espanhola",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Ciganas/Espanholas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim e renda",
+    "estilo_corte": "corte evasê com babados no decote e na saia",
+    "acessorios_visiveis": [
+      "flor decorativa na cintura"
+    ],
+    "tematica_detalhada": "Fantasia de dançarina de flamenco espanhola, referenciando a cultura tradicional da Andaluzia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/581.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 113.89,
+  "data_analise": "2026-07-28T04:06:37Z",
+  "data_criacao": "2026-07-28T01:06:37.295741-03:00"
+}

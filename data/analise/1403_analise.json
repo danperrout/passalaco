@@ -1,0 +1,28 @@
+{
+  "id": 1403,
+  "nome_original": "Vilma",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "corte reto com barra irregular e rasgada",
+    "acessorios_visiveis": [
+      "colar de contas brancas"
+    ],
+    "tematica_detalhada": "fantasia de pré-história, inspirada na personagem Vilma Flintstone"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1403.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.87,
+  "data_analise": "2026-07-30T08:51:03Z",
+  "data_criacao": "2026-07-30T05:51:03.072517-03:00"
+}

@@ -1,0 +1,35 @@
+{
+  "id": 5575,
+  "nome_original": "Zorro",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "máscara",
+      "capa",
+      "camisa",
+      "cinto/faixa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético fosco com detalhes em bordado dourado",
+    "estilo_corte": "estilo colonial espanhol com corte reto e cape draped",
+    "acessorios_visiveis": [
+      "chapéu de aba larga",
+      "máscara ocular",
+      "faixa abdominal ornamentada"
+    ],
+    "tematica_detalhada": "personagem Zorro, herói mascarado inspirado na cultura colonial da Califórnia espanhola"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5575.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 43.35,
+  "data_analise": "2026-07-30T09:05:40Z",
+  "data_criacao": "2026-07-30T06:05:40.802424-03:00"
+}

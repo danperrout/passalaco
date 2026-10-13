@@ -1,0 +1,29 @@
+{
+  "id": 6833,
+  "nome_original": "Coelhinho",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "tiara de orelhas",
+      "body/maiô"
+    ],
+    "material_visual": "pelúcia sintética e tule",
+    "estilo_corte": "ajustado ao corpo com acabamento felpudo",
+    "acessorios_visiveis": [
+      "orelhas de coelho",
+      "saia de tule"
+    ],
+    "tematica_detalhada": "Fantasia de coelhinho, referenciando a Páscoa ou personagens antropomórficos de coelho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6833.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 41.72,
+  "data_analise": "2026-07-28T00:28:06Z",
+  "data_criacao": "2026-07-27T21:28:06.456534-03:00"
+}

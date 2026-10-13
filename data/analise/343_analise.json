@@ -1,0 +1,30 @@
+{
+  "id": 343,
+  "nome_original": "Portuguesa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia"
+    ],
+    "material_visual": "tecido sintético ou algodão com bordados",
+    "estilo_corte": "blusa folgada com mangas longas e saia rodada com cintura alta",
+    "acessorios_visiveis": [
+      "tiara de flores"
+    ],
+    "tematica_detalhada": "fantasia inspirada em trajes típicos europeus/portugueses, com referências a vestimentas folclóricas tradicionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/343.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.64,
+  "data_analise": "2026-07-30T03:51:07Z",
+  "data_criacao": "2026-07-30T00:51:07.064517-03:00"
+}

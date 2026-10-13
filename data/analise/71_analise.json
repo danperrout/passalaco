@@ -1,0 +1,26 @@
+{
+  "id": 71,
+  "nome_original": "Anos 60",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético leve",
+    "estilo_corte": "estilo rodado com cintura marcada",
+    "acessorios_visiveis": [
+      "tiara com laço",
+      "colar de pérolas",
+      "cinto vermelho"
+    ],
+    "tematica_detalhada": "moda retrô anos 60 com estampa de poá"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/71.jpg",
+  "data_analise": "2026-07-27T14:05:16Z"
+}

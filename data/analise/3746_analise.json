@@ -1,0 +1,31 @@
+{
+  "id": 3746,
+  "nome_original": "Capa",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "camisa com jabot",
+      "colete",
+      "calças"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou poliéster",
+    "estilo_corte": "corte clássico de época com gola alta e babados",
+    "acessorios_visiveis": [
+      "peruca"
+    ],
+    "tematica_detalhada": "estilo aristocrático do século XVIII, remetendo a personagens como vampiros clássicos, nobres franceses ou Drácula"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3746.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.09,
+  "data_analise": "2026-07-27T18:54:01Z",
+  "data_criacao": "2026-07-27T15:54:01.856201-03:00"
+}

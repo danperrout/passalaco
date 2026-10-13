@@ -1,0 +1,27 @@
+{
+  "id": 2373,
+  "nome_original": "Mascara",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "máscara"
+    ],
+    "material_visual": "tecido com glitter ou lantejoulas",
+    "estilo_corte": "estilo veneziano com bordas recortadas em formato de coroa",
+    "acessorios_visiveis": [
+      "pedrarias decorativas"
+    ],
+    "tematica_detalhada": "Fantasia de baile de máscaras, carnaval de Veneza ou temática real/luxuosa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2373.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 86.08,
+  "data_analise": "2026-07-29T18:31:58Z",
+  "data_criacao": "2026-07-29T15:31:58.252379-03:00"
+}

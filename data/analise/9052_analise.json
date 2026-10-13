@@ -1,0 +1,33 @@
+{
+  "id": 9052,
+  "nome_original": "Patata",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "verde",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "calça",
+      "chapéu",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético acetinado ou poliéster",
+    "estilo_corte": "corte reto e folgado, estilo traje folclórico ou uniforme estilizado",
+    "acessorios_visiveis": [
+      "laço amarelo",
+      "botões dourados"
+    ],
+    "tematica_detalhada": "fantasia inspirada em personagens lúdicos ou folclóricos, com cores vibrantes que remetem a temas festivos ou personagens de contos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9052.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.17,
+  "data_analise": "2026-07-30T02:33:51Z",
+  "data_criacao": "2026-07-29T23:33:51.869359-03:00"
+}

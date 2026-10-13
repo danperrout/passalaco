@@ -1,0 +1,30 @@
+{
+  "id": 3875,
+  "nome_original": "Pata",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz",
+      "botas de pata"
+    ],
+    "material_visual": "pelúcia macia ou fleece",
+    "estilo_corte": "estilo kigurumi ou macacão oversized",
+    "acessorios_visiveis": [
+      "capuz com bico e olhos",
+      "botas em formato de patas"
+    ],
+    "tematica_detalhada": "fantasia de pato ou pintinho, referenciando animais domésticos de fazenda"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3875.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.77,
+  "data_analise": "2026-07-30T02:30:33Z",
+  "data_criacao": "2026-07-29T23:30:33.933387-03:00"
+}

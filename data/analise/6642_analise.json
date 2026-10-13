@@ -1,0 +1,27 @@
+{
+  "id": 6642,
+  "nome_original": "Alemã",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "verde",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia",
+      "avental"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda",
+    "estilo_corte": "estilo dirndl tradicional com cintura marcada e saia rodada",
+    "acessorios_visiveis": [
+      "tiara de flores vermelhas"
+    ],
+    "tematica_detalhada": "traje típico folclórico alemão"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6642.jpg",
+  "data_analise": "2026-07-27T14:55:56Z"
+}

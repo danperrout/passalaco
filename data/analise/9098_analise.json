@@ -1,0 +1,29 @@
+{
+  "id": 9098,
+  "nome_original": "Esqueleto",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético elástico",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "máscara de caveira"
+    ],
+    "tematica_detalhada": "representação anatômica de um esqueleto humano, comumente utilizada em festas de Halloween ou eventos temáticos de terror"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9098.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 19.16,
+  "data_analise": "2026-07-28T04:17:08Z",
+  "data_criacao": "2026-07-28T01:17:08.341353-03:00"
+}

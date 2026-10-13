@@ -1,0 +1,32 @@
+{
+  "id": 8940,
+  "nome_original": "Chapolim",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "máscara/capuz",
+      "camiseta",
+      "shorts",
+      "calça"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou elastano",
+    "estilo_corte": "ajustado ao corpo, estilo traje de herói",
+    "acessorios_visiveis": [
+      "antenas com esferas",
+      "martelo gigante"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Chapolin Colorado, ícone da comédia mexicana criado por Roberto Gómez Bolaños"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8940.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 230.22,
+  "data_analise": "2026-07-27T20:21:46Z",
+  "data_criacao": "2026-07-27T17:21:46.853064-03:00"
+}

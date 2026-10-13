@@ -1,0 +1,26 @@
+{
+  "id": 9674,
+  "nome_original": "Anjo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Coroaçăo",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "asas"
+    ],
+    "material_visual": "tecido translúcido, tule e penas",
+    "estilo_corte": "vestido longo de manga comprida com caimento fluido",
+    "acessorios_visiveis": [
+      "auréola",
+      "detalhes dourados na gola e bainha"
+    ],
+    "tematica_detalhada": "Anjo celestial clássico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9674.jpg",
+  "data_analise": "2026-07-27T13:57:37Z"
+}

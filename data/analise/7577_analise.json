@@ -1,0 +1,31 @@
+{
+  "id": 7577,
+  "nome_original": "Junina Mf",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "tecido estampado, possivelmente tricoline ou algodão, com fitas e rendas",
+    "estilo_corte": "estilo caipira com mangas bufantes, cintura marcada e saia rodada com babados",
+    "acessorios_visiveis": [
+      "tiara com laço",
+      "laços decorativos na cintura"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina infantil, representando a personagem caipira tradicional do folclore brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7577.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.04,
+  "data_analise": "2026-07-29T06:47:13Z",
+  "data_criacao": "2026-07-29T03:47:13.380876-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 5498,
+  "nome_original": "Grego",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Gregas/Romanos",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "estola/manto"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado e bordas decoradas",
+    "estilo_corte": "corte reto e fluido, inspirado em túnicas da antiguidade",
+    "acessorios_visiveis": [
+      "coroa de louros dourada",
+      "braceletes dourados"
+    ],
+    "tematica_detalhada": "Fantasia de Grécia Antiga ou Roma Antiga, referenciando a vestimenta de imperadores, filósofos ou deuses do Olimpo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5498.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 50.19,
+  "data_analise": "2026-07-28T11:26:41Z",
+  "data_criacao": "2026-07-28T08:26:41.217078-03:00"
+}

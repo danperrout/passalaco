@@ -1,0 +1,29 @@
+{
+  "id": 372,
+  "nome_original": "Carmem Miranda",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido curto com babados",
+      "arranjo de flores para cabeça"
+    ],
+    "material_visual": "cetim ou tecido sintético com brilho",
+    "estilo_corte": "estilo baiana com camadas de babados horizontais",
+    "acessorios_visiveis": [
+      "tiara de flores coloridas"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em Carmem Miranda, remetendo à cultura baiana e ao tropicalismo brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/372.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.66,
+  "data_analise": "2026-07-27T19:20:16Z",
+  "data_criacao": "2026-07-27T16:20:16.058733-03:00"
+}

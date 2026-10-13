@@ -1,0 +1,32 @@
+{
+  "id": 5365,
+  "nome_original": "Mulher Maravilha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia",
+      "botas"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "top com alças finas e saia curta franzida",
+    "acessorios_visiveis": [
+      "tiara",
+      "braceletes"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Mulher Maravilha, inspirada nos quadrinhos e filmes da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5365.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.45,
+  "data_analise": "2026-07-29T23:19:45Z",
+  "data_criacao": "2026-07-29T20:19:45.814294-03:00"
+}

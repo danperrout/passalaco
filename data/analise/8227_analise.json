@@ -1,0 +1,27 @@
+{
+  "id": 8227,
+  "nome_original": "Carimbo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido sintético com estampa colorida",
+    "estilo_corte": "vestido longo com cintura marcada e saia ampla",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia com temática floral e cores vibrantes, possivelmente inspirada em elementos da natureza ou folclore festivo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8227.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.72,
+  "data_analise": "2026-07-27T19:19:46Z",
+  "data_criacao": "2026-07-27T16:19:46.204097-03:00"
+}

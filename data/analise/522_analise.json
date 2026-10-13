@@ -1,0 +1,32 @@
+{
+  "id": 522,
+  "nome_original": "Deusa Grega",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "tiara",
+      "protetores de pulso"
+    ],
+    "material_visual": "cetim e tecido translúcido fluido",
+    "estilo_corte": "corte império com alças largas e saia fluida",
+    "acessorios_visiveis": [
+      "tiara dourada",
+      "braceletes",
+      "detalhe floral na cintura"
+    ],
+    "tematica_detalhada": "Deusa Grega estilizada com referências a figuras mitológicas ou personagens de fantasia clássica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/522.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.51,
+  "data_analise": "2026-07-28T02:53:35Z",
+  "data_criacao": "2026-07-27T23:53:35.508465-03:00"
+}

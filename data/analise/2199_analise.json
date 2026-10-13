@@ -1,0 +1,30 @@
+{
+  "id": 2199,
+  "nome_original": "Capitao America",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "macacão"
+    ],
+    "material_visual": "tecido sintético com aspecto de poliéster ou lycra",
+    "estilo_corte": "ajustado ao corpo, estilo colante",
+    "acessorios_visiveis": [
+      "máscara com letra A"
+    ],
+    "tematica_detalhada": "Super-herói Capitão América da Marvel Comics, referenciando as cores da bandeira dos Estados Unidos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2199.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 131.77,
+  "data_analise": "2026-07-27T19:07:24Z",
+  "data_criacao": "2026-07-27T16:07:24.193457-03:00"
+}

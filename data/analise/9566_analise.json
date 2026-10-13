@@ -1,0 +1,31 @@
+{
+  "id": 9566,
+  "nome_original": "Palhaço Assassino",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Infantil",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster e plástico para a máscara",
+    "estilo_corte": "macacão de peça única com gola rufada e corte assimétrico",
+    "acessorios_visiveis": [
+      "máscara de palhaço",
+      "botões vermelhos decorativos"
+    ],
+    "tematica_detalhada": "palhaço assassino, com estética de terror inspirada em personagens como Pennywise ou Art the Clown"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9566.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.19,
+  "data_analise": "2026-07-30T01:55:31Z",
+  "data_criacao": "2026-07-29T22:55:31.503691-03:00"
+}

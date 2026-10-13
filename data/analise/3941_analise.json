@@ -1,0 +1,33 @@
+{
+  "id": 3941,
+  "nome_original": "Os Incriveis",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga longa",
+      "calça",
+      "máscara",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou lycra",
+    "estilo_corte": "ajustado ao corpo, estilo traje de super-herói",
+    "acessorios_visiveis": [
+      "máscara ocular preta",
+      "luvas pretas"
+    ],
+    "tematica_detalhada": "Fantasia inspirada nos personagens do filme 'Os Incríveis', da Pixar, com foco no logotipo central característico da família"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3941.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.48,
+  "data_analise": "2026-07-30T01:01:25Z",
+  "data_criacao": "2026-07-29T22:01:25.340151-03:00"
+}

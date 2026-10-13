@@ -1,0 +1,32 @@
+{
+  "id": 3342,
+  "nome_original": "Mascara",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Máscaras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "adereço de cabeça",
+      "gola"
+    ],
+    "material_visual": "cetim, tecido acetinado e detalhes em glitter ou lurex dourado",
+    "estilo_corte": "estilo bufante na gola e pontas alongadas e curvas no adereço de cabeça",
+    "acessorios_visiveis": [
+      "guizos/sininhos",
+      "pérolas decorativas"
+    ],
+    "tematica_detalhada": "Fantasia de bobo da corte ou arlequim, com referências ao Carnaval de Veneza"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3342.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 19.41,
+  "data_analise": "2026-07-29T18:47:10Z",
+  "data_criacao": "2026-07-29T15:47:10.531821-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 6169,
+  "nome_original": "Indiana",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido sintético com brilho e adornos metálicos",
+    "estilo_corte": "estilo túnica longa com mangas curtas e cintura marcada",
+    "acessorios_visiveis": [
+      "tiara dourada com pedraria"
+    ],
+    "tematica_detalhada": "fantasia inspirada em trajes tradicionais da Índia ou personagens de contos orientais, como a Princesa Jasmine"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6169.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 70.11,
+  "data_analise": "2026-07-28T16:46:03Z",
+  "data_criacao": "2026-07-28T13:46:03.813330-03:00"
+}

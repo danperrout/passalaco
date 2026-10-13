@@ -1,0 +1,29 @@
+{
+  "id": 395,
+  "nome_original": "Chico Bento",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "calça"
+    ],
+    "material_visual": "tecido sintético e palha",
+    "estilo_corte": "estilo caipira, corte reto e simples",
+    "acessorios_visiveis": [
+      "chapéu de palha"
+    ],
+    "tematica_detalhada": "Personagem Chico Bento, referenciando a cultura rural brasileira e a Vila Abobrinha"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/395.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 29.2,
+  "data_analise": "2026-07-27T20:54:36Z",
+  "data_criacao": "2026-07-27T17:54:36.263143-03:00"
+}

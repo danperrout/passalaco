@@ -1,0 +1,32 @@
+{
+  "id": 2853,
+  "nome_original": "Marinheira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com acabamento em renda na barra",
+    "estilo_corte": "vestido curto estilo baby doll com gola marinheiro",
+    "acessorios_visiveis": [
+      "laço vermelho",
+      "chapéu de marinheira",
+      "broche decorativo"
+    ],
+    "tematica_detalhada": "fantasia de marinheira clássica, com referências a uniformes navais estilizados para festas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2853.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 81.12,
+  "data_analise": "2026-07-29T17:52:32Z",
+  "data_criacao": "2026-07-29T14:52:32.765611-03:00"
+}

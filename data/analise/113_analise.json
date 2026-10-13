@@ -1,0 +1,26 @@
+{
+  "id": 113,
+  "nome_original": "Anos 70",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "multicolorido",
+      "amarelo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "touca/lenço"
+    ],
+    "material_visual": "tecido com estampas psicodélicas e brilho",
+    "estilo_corte": "estilo boho com corte fluido e ajuste na cintura",
+    "acessorios_visiveis": [
+      "lenço de cabeça"
+    ],
+    "tematica_detalhada": "estética hippie dos anos 70 com padrões florais e psicodélicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/113.jpg",
+  "data_analise": "2026-07-27T14:05:35Z"
+}

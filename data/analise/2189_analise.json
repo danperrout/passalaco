@@ -1,0 +1,31 @@
+{
+  "id": 2189,
+  "nome_original": "Vaca",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético aveludado ou plush",
+    "estilo_corte": "estilo kigurumi ou pijama enteriço",
+    "acessorios_visiveis": [
+      "orelhas rosadas",
+      "chifres",
+      "guizo"
+    ],
+    "tematica_detalhada": "fantasia de animal, especificamente uma vaca holandesa, com design caricato e confortável"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2189.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.52,
+  "data_analise": "2026-07-30T08:43:13Z",
+  "data_criacao": "2026-07-30T05:43:13.547543-03:00"
+}

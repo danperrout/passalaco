@@ -1,0 +1,31 @@
+{
+  "id": 7651,
+  "nome_original": "Xuxa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "vestido curto estilo militar com botões frontais",
+    "acessorios_visiveis": [
+      "quepe",
+      "botões dourados"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no visual de comandante/militar da Xuxa, remetendo à estética de apresentadora de programas infantis dos anos 80/90"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7651.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.89,
+  "data_analise": "2026-07-30T09:01:31Z",
+  "data_criacao": "2026-07-30T06:01:31.390067-03:00"
+}

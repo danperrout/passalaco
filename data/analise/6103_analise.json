@@ -1,0 +1,32 @@
+{
+  "id": 6103,
+  "nome_original": "Cigano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Preto"
+    ],
+    "pecas_inclusas": [
+      "Camisa",
+      "Colete",
+      "Calça",
+      "Lenço de cabeça"
+    ],
+    "material_visual": "Tecido com brilho acetinado na camisa e lenço, tecido fosco no colete e calça",
+    "estilo_corte": "Corte clássico com camisa de gola aberta e colete reto",
+    "acessorios_visiveis": [
+      "Lenço de cabeça",
+      "Detalhes dourados na camisa"
+    ],
+    "tematica_detalhada": "Fantasia de Cigano masculino, inspirada em representações folclóricas e teatrais de povos nômades"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6103.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 96.68,
+  "data_analise": "2026-07-27T22:16:11Z",
+  "data_criacao": "2026-07-27T19:16:11.168099-03:00"
+}

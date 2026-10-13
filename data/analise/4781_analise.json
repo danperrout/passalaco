@@ -1,0 +1,31 @@
+{
+  "id": 4781,
+  "nome_original": "Patata",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Circo",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "mini chapéu com tiara"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante",
+    "estilo_corte": "estilo boneca com mangas bufantes e saia rodada",
+    "acessorios_visiveis": [
+      "laço amarelo",
+      "mini cartola"
+    ],
+    "tematica_detalhada": "Fantasia infantil inspirada em personagens festivos ou folclóricos, possivelmente referenciando a estética de duendes ou personagens de contos de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4781.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.89,
+  "data_analise": "2026-07-30T02:31:53Z",
+  "data_criacao": "2026-07-29T23:31:53.620314-03:00"
+}

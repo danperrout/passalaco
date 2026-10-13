@@ -1,0 +1,26 @@
+{
+  "id": 622,
+  "nome_original": "Feiticeiro",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente poliéster ou cetim",
+    "estilo_corte": "corte irregular com bordas rasgadas/dentadas",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "feiticeiro ou mago sombrio, com estética gótica ou mística"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/622.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 123.29,
+  "data_analise": "2026-07-28T05:37:18Z",
+  "data_criacao": "2026-07-28T02:37:18.355109-03:00"
+}

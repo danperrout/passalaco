@@ -1,0 +1,30 @@
+{
+  "id": 2321,
+  "nome_original": "Transformers Bumblebee",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "túnica/blusa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com aspecto de espuma ou neoprene",
+    "estilo_corte": "estilo robótico com ombreiras volumosas e modelagem estruturada",
+    "acessorios_visiveis": [
+      "máscara facial com visor"
+    ],
+    "tematica_detalhada": "Personagem Bumblebee da franquia Transformers, representando um robô autoconvertível"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2321.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.0,
+  "data_analise": "2026-07-30T08:34:02Z",
+  "data_criacao": "2026-07-30T05:34:02.340869-03:00"
+}

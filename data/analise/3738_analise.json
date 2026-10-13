@@ -1,0 +1,30 @@
+{
+  "id": 3738,
+  "nome_original": "Coroa Disney",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "tiara"
+    ],
+    "material_visual": "metal dourado com incrustações de strass e medalhão central",
+    "estilo_corte": "estilo coroa real com pontas ornamentadas",
+    "acessorios_visiveis": [
+      "strass",
+      "medalhão com imagem"
+    ],
+    "tematica_detalhada": "Temática de princesas Disney, especificamente referenciando a Cinderela"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3738.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.67,
+  "data_analise": "2026-07-28T01:43:14Z",
+  "data_criacao": "2026-07-27T22:43:14.210210-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 7540,
+  "nome_original": "Carmem Miranda",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido curto com babados",
+      "tiara de flores"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou lurex",
+    "estilo_corte": "modelo curto com camadas de babados horizontais",
+    "acessorios_visiveis": [
+      "tiara floral colorida"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em Carmem Miranda, remetendo à cultura brasileira, baiana e ao estilo tropicalista"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7540.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.49,
+  "data_analise": "2026-07-27T19:20:12Z",
+  "data_criacao": "2026-07-27T16:20:12.976458-03:00"
+}

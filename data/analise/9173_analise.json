@@ -1,0 +1,28 @@
+{
+  "id": 9173,
+  "nome_original": "Mascara",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Máscaras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "champanhe"
+    ],
+    "pecas_inclusas": [
+      "máscara"
+    ],
+    "material_visual": "revestimento de glitter ou lantejoulas pequenas",
+    "estilo_corte": "máscara de meia face (estilo veneziano) com aberturas para os olhos",
+    "acessorios_visiveis": [
+      "fita de amarração preta"
+    ],
+    "tematica_detalhada": "máscara de baile de gala, carnaval ou festa à fantasia, referenciando o estilo de máscaras venezianas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9173.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 56.16,
+  "data_analise": "2026-07-29T18:51:41Z",
+  "data_criacao": "2026-07-29T15:51:41.428975-03:00"
+}

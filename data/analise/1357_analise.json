@@ -1,0 +1,31 @@
+{
+  "id": 1357,
+  "nome_original": "Tropa de Elite",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "boné",
+      "camiseta",
+      "bermuda"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou elastano",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "cinto"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no filme Tropa de Elite, referenciando o BOPE (Batalhão de Operações Policiais Especiais) com a caveira característica."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1357.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.68,
+  "data_analise": "2026-07-30T08:37:05Z",
+  "data_criacao": "2026-07-30T05:37:05.510729-03:00"
+}

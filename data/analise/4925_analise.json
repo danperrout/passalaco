@@ -1,0 +1,30 @@
+{
+  "id": 4925,
+  "nome_original": "Ninja",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "túnica com capuz",
+      "calça"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "folgado e fluido",
+    "acessorios_visiveis": [
+      "laços vermelhos nos punhos",
+      "laços vermelhos nos tornozelos"
+    ],
+    "tematica_detalhada": "Ninja estilizado com elementos de anime, apresentando estampa frontal de chamas vermelhas e design inspirado em guerreiros furtivos orientais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4925.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 47.25,
+  "data_analise": "2026-07-29T23:49:36Z",
+  "data_criacao": "2026-07-29T20:49:36.270756-03:00"
+}

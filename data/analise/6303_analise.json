@@ -1,0 +1,30 @@
+{
+  "id": 6303,
+  "nome_original": "Indiana",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa choque",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "sari",
+      "blusa curta"
+    ],
+    "material_visual": "tecido fluido com brilho acetinado e bordados metálicos",
+    "estilo_corte": "estilo drapeado tradicional indiano",
+    "acessorios_visiveis": [
+      "maang tikka (joia de testa)",
+      "tiara dourada"
+    ],
+    "tematica_detalhada": "fantasia inspirada na cultura indiana, representando a vestimenta tradicional feminina (Sari)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6303.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 236.03,
+  "data_analise": "2026-07-28T16:56:51Z",
+  "data_criacao": "2026-07-28T13:56:51.558468-03:00"
+}

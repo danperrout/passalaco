@@ -1,0 +1,28 @@
+{
+  "id": 8627,
+  "nome_original": "Astronauta",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "tecido sintético ou poliéster, com aspecto de material leve e resistente",
+    "estilo_corte": "macacão integral (one-piece) com capuz ajustado e detalhes em contraste",
+    "acessorios_visiveis": [
+      "emblema da NASA no peito"
+    ],
+    "tematica_detalhada": "fantasia de astronauta inspirada na temática espacial e exploração aeroespacial, com referência direta à agência NASA"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8627.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 6.42,
+  "data_analise": "2026-07-27T16:55:36Z",
+  "data_criacao": "2026-07-27T13:55:36.058474-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 7259,
+  "nome_original": "Cinderela",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul claro",
+      "azul royal",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "cetim no corpete e tule na saia",
+    "estilo_corte": "estilo princesa com corpete ajustado, decote ombro a ombro e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Cinderela, inspirada no traje do baile da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7259.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 118.33,
+  "data_analise": "2026-07-27T22:40:07Z",
+  "data_criacao": "2026-07-27T19:40:07.756840-03:00"
+}

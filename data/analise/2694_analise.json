@@ -1,0 +1,29 @@
+{
+  "id": 2694,
+  "nome_original": "Urso",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "kigurumi / oversized",
+    "acessorios_visiveis": [
+      "laço de amarração no pescoço"
+    ],
+    "tematica_detalhada": "fantasia de urso antropomórfico, estilo pijama de corpo inteiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2694.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.26,
+  "data_analise": "2026-07-30T08:42:26Z",
+  "data_criacao": "2026-07-30T05:42:26.289141-03:00"
+}

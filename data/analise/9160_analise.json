@@ -1,0 +1,29 @@
+{
+  "id": 9160,
+  "nome_original": "Wolverine",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "vestido curto com saia rodada e painel frontal central",
+    "acessorios_visiveis": [
+      "máscara de olho"
+    ],
+    "tematica_detalhada": "Versão feminina e estilizada do personagem Wolverine, dos X-Men da Marvel, apresentando o logotipo da equipe no peito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9160.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.43,
+  "data_analise": "2026-07-30T08:54:55Z",
+  "data_criacao": "2026-07-30T05:54:55.016436-03:00"
+}

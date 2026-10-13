@@ -1,0 +1,29 @@
+{
+  "id": 8245,
+  "nome_original": "Medieval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "roxo",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo com capuz"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "corte longo em A com mangas largas e capuz integrado",
+    "acessorios_visiveis": [
+      "detalhes de galão dourado"
+    ],
+    "tematica_detalhada": "fantasia medieval inspirada em figuras místicas, como bruxos, magos ou feiticeiros"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8245.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 50.43,
+  "data_analise": "2026-07-29T21:11:45Z",
+  "data_criacao": "2026-07-29T18:11:45.185216-03:00"
+}

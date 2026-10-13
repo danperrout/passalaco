@@ -1,0 +1,29 @@
+{
+  "id": 4820,
+  "nome_original": "Mascara",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Máscaras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "máscara"
+    ],
+    "material_visual": "brilho metálico, glitter e penas",
+    "estilo_corte": "estilo veneziano com adornos de penas volumosas",
+    "acessorios_visiveis": [
+      "penas pretas",
+      "pedraria central"
+    ],
+    "tematica_detalhada": "Carnaval de Veneza, baile de máscaras, temática misteriosa e luxuosa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4820.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 19.09,
+  "data_analise": "2026-07-29T18:46:50Z",
+  "data_criacao": "2026-07-29T15:46:50.822713-03:00"
+}

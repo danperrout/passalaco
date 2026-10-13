@@ -1,0 +1,28 @@
+{
+  "id": 9015,
+  "nome_original": "Junina Mf",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "rosa choque"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com babados e acabamento em renda",
+    "estilo_corte": "modelo bufante com decote ombro a ombro e saia em camadas (estilo caipira estilizado)",
+    "acessorios_visiveis": [
+      "mini chapéu decorado"
+    ],
+    "tematica_detalhada": "Festa Junina estilizada, versão moderna e sensual do traje caipira tradicional"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9015.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 30.89,
+  "data_analise": "2026-07-29T06:50:58Z",
+  "data_criacao": "2026-07-29T03:50:58.560061-03:00"
+}

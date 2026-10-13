@@ -1,0 +1,25 @@
+{
+  "id": 6338,
+  "nome_original": "Anjo",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Coroação",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "prateado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "cetim com renda e bordados no busto",
+    "estilo_corte": "corte império com mangas longas e saia fluida",
+    "acessorios_visiveis": [
+      "asas de anjo",
+      "tiara de flores"
+    ],
+    "tematica_detalhada": "fantasia de anjo clássico/celestial"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6338.jpg",
+  "data_analise": "2026-07-27T15:22:23Z"
+}

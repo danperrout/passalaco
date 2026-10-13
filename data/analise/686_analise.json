@@ -1,0 +1,32 @@
+{
+  "id": 686,
+  "nome_original": "Harry Potter",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "amarelo",
+      "vinho"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz",
+      "cachecol"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster",
+    "estilo_corte": "túnica longa e fluida com capuz amplo",
+    "acessorios_visiveis": [
+      "óculos redondos",
+      "varinha",
+      "brasão bordado"
+    ],
+    "tematica_detalhada": "estudante da casa Grifinória da Escola de Magia e Bruxaria de Hogwarts, referenciando o personagem Harry Potter"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/686.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 193.47,
+  "data_analise": "2026-07-28T12:31:29Z",
+  "data_criacao": "2026-07-28T09:31:29.650328-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 8734,
+  "nome_original": "Moana",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "branco",
+      "verde",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara de flores"
+    ],
+    "material_visual": "tecido sintético com renda e detalhes em crochê",
+    "estilo_corte": "estilo túnica curta com alças e saia assimétrica em renda",
+    "acessorios_visiveis": [
+      "colar com pingente azul",
+      "coroa de flores"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Moana da Disney, com referências à cultura polinésia e elementos tropicais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8734.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.26,
+  "data_analise": "2026-07-29T22:43:48Z",
+  "data_criacao": "2026-07-29T19:43:48.529582-03:00"
+}

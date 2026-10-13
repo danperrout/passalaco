@@ -1,0 +1,31 @@
+{
+  "id": 8285,
+  "nome_original": "Lagartixo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde escuro",
+      "verde claro"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético elástico com textura canelada",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "máscara ocular",
+      "crista no capuz"
+    ],
+    "tematica_detalhada": "fantasia de réptil, especificamente inspirada em um lagarto ou lagartixa, com elementos de super-herói"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8285.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 44.11,
+  "data_analise": "2026-07-29T08:42:15Z",
+  "data_criacao": "2026-07-29T05:42:15.013249-03:00"
+}

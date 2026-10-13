@@ -1,0 +1,27 @@
+{
+  "id": 8427,
+  "nome_original": "Detetive do Predio Azul",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "sobretudo"
+    ],
+    "material_visual": "tecido sintético com aparência de gabardine ou poliéster",
+    "estilo_corte": "corte clássico de trench coat com botões frontais e faixa na cintura",
+    "acessorios_visiveis": [
+      "cinto de tecido"
+    ],
+    "tematica_detalhada": "fantasia inspirada nos personagens da série Detetives do Prédio Azul (DPB), simulando o traje de detetive"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8427.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.31,
+  "data_analise": "2026-07-28T02:50:33Z",
+  "data_criacao": "2026-07-27T23:50:33.295159-03:00"
+}

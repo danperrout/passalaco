@@ -1,0 +1,28 @@
+{
+  "id": 10228,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Vitrine",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com elastano e tule",
+    "estilo_corte": "ciganinha com busto ajustado e saia curta em camadas de babados",
+    "acessorios_visiveis": [
+      "laços de cabelo com fitas"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina estilizada, reinterpretando o traje caipira tradicional com cores modernas e corte contemporâneo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10228.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.19,
+  "data_analise": "2026-07-29T02:13:07Z",
+  "data_criacao": "2026-07-28T23:13:07.429492-03:00"
+}

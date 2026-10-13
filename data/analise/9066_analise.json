@@ -1,0 +1,30 @@
+{
+  "id": 9066,
+  "nome_original": "Super Mulher",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa"
+    ],
+    "material_visual": "cetim ou poliéster com brilho",
+    "estilo_corte": "vestido curto com decote tomara-que-caia e cintura marcada",
+    "acessorios_visiveis": [
+      "capa vermelha"
+    ],
+    "tematica_detalhada": "Super Mulher (Supergirl), personagem inspirada no universo DC Comics, caracterizada pelo emblema 'S' no peito."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9066.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.33,
+  "data_analise": "2026-07-30T07:29:19Z",
+  "data_criacao": "2026-07-30T04:29:19.865461-03:00"
+}

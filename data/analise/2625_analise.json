@@ -1,0 +1,27 @@
+{
+  "id": 2625,
+  "nome_original": "Havaiano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga curta"
+    ],
+    "material_visual": "tecido sintético leve com brilho",
+    "estilo_corte": "estilo camisa havaiana com gola aberta e corte reto",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia temática havaiana/tropical, caracterizada por estampas de natureza e cores vibrantes, remetendo a férias e cultura do Pacífico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2625.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 143.99,
+  "data_analise": "2026-07-28T13:09:20Z",
+  "data_criacao": "2026-07-28T10:09:20.907973-03:00"
+}

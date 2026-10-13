@@ -1,0 +1,33 @@
+{
+  "id": 9216,
+  "nome_original": "Lampiao",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga curta",
+      "calça",
+      "chapéu de couro"
+    ],
+    "material_visual": "tecido sintético com aparência de sarja e couro sintético",
+    "estilo_corte": "estilo militar rústico com corte reto",
+    "acessorios_visiveis": [
+      "bandoleira de munição",
+      "lenço vermelho",
+      "chapéu com estrelas"
+    ],
+    "tematica_detalhada": "Cangaço brasileiro, representando a figura histórica de Lampião, com referências ao sertão e à cultura nordestina"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9216.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 328.51,
+  "data_analise": "2026-07-29T08:59:14Z",
+  "data_criacao": "2026-07-29T05:59:14.270526-03:00"
+}

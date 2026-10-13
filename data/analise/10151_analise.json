@@ -1,0 +1,26 @@
+{
+  "id": 10151,
+  "nome_original": "Girafa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "body"
+    ],
+    "material_visual": "tecido sintético com estampa",
+    "estilo_corte": "estilo body infantil sem mangas",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "animal print de girafa, focada em vestuário infantil temático de safari ou zoológico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10151.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 38.04,
+  "data_analise": "2026-07-28T11:00:12Z",
+  "data_criacao": "2026-07-28T08:00:12.081666-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 7828,
+  "nome_original": "Apresentadora",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "cartola",
+      "peruca"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante",
+    "estilo_corte": "estilo cabaret com saia rodada e corpete ajustado",
+    "acessorios_visiveis": [
+      "cartola",
+      "peruca longa ondulada"
+    ],
+    "tematica_detalhada": "Apresentadora de circo ou mestre de cerimônias vintage"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7828.jpg",
+  "data_analise": "2026-07-27T14:11:08Z"
+}

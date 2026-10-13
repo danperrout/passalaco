@@ -1,0 +1,31 @@
+{
+  "id": 4122,
+  "nome_original": "Bebezao",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "touca"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou plush",
+    "estilo_corte": "estilo macacão de bebê (onesie) com corte amplo",
+    "acessorios_visiveis": [
+      "touca com babados",
+      "chupeta gigante",
+      "laço no pescoço"
+    ],
+    "tematica_detalhada": "fantasia de bebê gigante, referenciando a infância de forma cômica e caricata"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4122.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.13,
+  "data_analise": "2026-07-27T17:50:35Z",
+  "data_criacao": "2026-07-27T14:50:35.581702-03:00"
+}

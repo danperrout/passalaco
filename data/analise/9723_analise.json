@@ -1,0 +1,24 @@
+{
+  "id": 9723,
+  "nome_original": "Angel Stitch",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa choque",
+      "rosa claro"
+    ],
+    "pecas_inclusas": [
+      "macacão completo com capuz"
+    ],
+    "material_visual": "tecido sintético aveludado ou plush",
+    "estilo_corte": "estilo kigurumi / pijama oversized",
+    "acessorios_visiveis": [
+      "orelhas integradas ao capuz"
+    ],
+    "tematica_detalhada": "personagem Angel, inspirada na série Lilo & Stitch"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9723.jpg",
+  "data_analise": "2026-07-27T13:56:27Z"
+}

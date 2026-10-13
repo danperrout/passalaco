@@ -1,0 +1,28 @@
+{
+  "id": 9129,
+  "nome_original": "Corset",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "azul claro"
+    ],
+    "pecas_inclusas": [
+      "corset"
+    ],
+    "material_visual": "tecido acetinado com estampa damasco e detalhes em renda",
+    "estilo_corte": "estilo corset estruturado com fechamento frontal e decote coração",
+    "acessorios_visiveis": [
+      "laços de fita"
+    ],
+    "tematica_detalhada": "estilo vitoriano ou steampunk, remetendo a trajes de época com toque fantasioso"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9129.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.35,
+  "data_analise": "2026-07-28T01:47:33Z",
+  "data_criacao": "2026-07-27T22:47:33.408483-03:00"
+}

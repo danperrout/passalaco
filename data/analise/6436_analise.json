@@ -1,0 +1,29 @@
+{
+  "id": 6436,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampas florais e xadrez",
+    "estilo_corte": "vestido curto rodado com babados e alças",
+    "acessorios_visiveis": [
+      "laço de cabelo"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina infantil, representando a personagem caipira com elementos tradicionais como estampa xadrez e floral"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6436.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 71.63,
+  "data_analise": "2026-07-29T00:00:41Z",
+  "data_criacao": "2026-07-28T21:00:41.509070-03:00"
+}

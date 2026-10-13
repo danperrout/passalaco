@@ -1,0 +1,30 @@
+{
+  "id": 8780,
+  "nome_original": "Mae e Filha Sereia",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "saia sereia"
+    ],
+    "material_visual": "paetês brilhantes e tule",
+    "estilo_corte": "conjunto de duas peças com saia ajustada e barra fluida",
+    "acessorios_visiveis": [
+      "tiara",
+      "colar"
+    ],
+    "tematica_detalhada": "Fantasia de sereia, com referências visuais à personagem Ariel da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8780.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 426.02,
+  "data_analise": "2026-07-29T14:57:26Z",
+  "data_criacao": "2026-07-29T11:57:26.749502-03:00"
+}

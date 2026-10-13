@@ -1,0 +1,30 @@
+{
+  "id": 9410,
+  "nome_original": "Dona Florinda",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "multicolorido",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido floral",
+      "avental"
+    ],
+    "material_visual": "tecido sintético estampado e renda branca",
+    "estilo_corte": "vestido midi com gola e mangas curtas, corte reto com avental sobreposto",
+    "acessorios_visiveis": [
+      "avental de renda",
+      "peruca branca"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Dona Florinda, da série de comédia Chaves"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9410.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 32.77,
+  "data_analise": "2026-07-28T03:19:45Z",
+  "data_criacao": "2026-07-28T00:19:45.729099-03:00"
+}

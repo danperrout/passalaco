@@ -1,0 +1,30 @@
+{
+  "id": 8332,
+  "nome_original": "Boneca Magali",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "corpo de pelúcia"
+    ],
+    "material_visual": "feltro e tecido sintético macio",
+    "estilo_corte": "estilo boneca estilizada com formas arredondadas",
+    "acessorios_visiveis": [
+      "melancia"
+    ],
+    "tematica_detalhada": "personagem Magali da Turma da Mônica, focada em sua característica paixão por melancias"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8332.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.96,
+  "data_analise": "2026-07-27T18:18:25Z",
+  "data_criacao": "2026-07-27T15:18:25.797184-03:00"
+}

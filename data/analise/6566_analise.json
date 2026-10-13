@@ -1,0 +1,31 @@
+{
+  "id": 6566,
+  "nome_original": "Gorco",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "capuz longo"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente feltro ou poliéster",
+    "estilo_corte": "estilo túnica oversized com capuz pontiagudo e caído",
+    "acessorios_visiveis": [
+      "chifres azuis",
+      "máscara facial preta com olhos amarelos"
+    ],
+    "tematica_detalhada": "personagem Gorco, com estética de criatura mística ou monstro estilizado, lembrando figuras de fantasia ou mascotes de jogos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6566.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 80.8,
+  "data_analise": "2026-07-28T11:23:09Z",
+  "data_criacao": "2026-07-28T08:23:09.928447-03:00"
+}

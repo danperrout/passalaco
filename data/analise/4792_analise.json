@@ -1,0 +1,25 @@
+{
+  "id": 4792,
+  "nome_original": "Arabe",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica longa",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético leve",
+    "estilo_corte": "túnica ampla com acabamento em viés preto",
+    "acessorios_visiveis": [
+      "faixa na cabeça"
+    ],
+    "tematica_detalhada": "fantasia estilizada de inspiração árabe"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4792.jpg",
+  "data_analise": "2026-07-27T14:13:08Z"
+}

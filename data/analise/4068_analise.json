@@ -1,0 +1,27 @@
+{
+  "id": 4068,
+  "nome_original": "Havaiano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Danças",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga curta"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente poliéster",
+    "estilo_corte": "corte reto, gola aberta, manga curta, estilo camisa havaiana",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "estilo tropical havaiano, com estampa floral de hibiscos, remetendo a férias, praia e cultura do Havaí"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4068.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 168.63,
+  "data_analise": "2026-07-28T13:29:13Z",
+  "data_criacao": "2026-07-28T10:29:13.836449-03:00"
+}

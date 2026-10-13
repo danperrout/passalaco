@@ -1,0 +1,26 @@
+{
+  "id": 8021,
+  "nome_original": "Aeromoça",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Profissőes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com brilho",
+    "estilo_corte": "ajustado ao corpo com comprimento curto",
+    "acessorios_visiveis": [
+      "quepe",
+      "detalhes dourados na cintura e gola"
+    ],
+    "tematica_detalhada": "Aeromoça estilizada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8021.jpg",
+  "data_analise": "2026-07-27T13:36:11Z"
+}

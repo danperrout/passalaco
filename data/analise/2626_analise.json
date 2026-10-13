@@ -1,0 +1,27 @@
+{
+  "id": 2626,
+  "nome_original": "Africano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "touca"
+    ],
+    "material_visual": "tecido sintético estampado",
+    "estilo_corte": "túnica solta com corte reto",
+    "acessorios_visiveis": [
+      "touca decorada",
+      "peruca com tranças"
+    ],
+    "tematica_detalhada": "fantasia inspirada em trajes africanos estilizados com estampas coloridas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2626.jpg",
+  "data_analise": "2026-07-27T13:38:07Z"
+}

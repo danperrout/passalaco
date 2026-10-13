@@ -1,0 +1,31 @@
+{
+  "id": 8218,
+  "nome_original": "Chapeuzinho Vermelho",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz",
+      "vestido"
+    ],
+    "material_visual": "cetim ou poliéster com acabamentos em renda e galão dourado",
+    "estilo_corte": "estilo camponesa com corpete justo e saia rodada",
+    "acessorios_visiveis": [
+      "laço de amarração",
+      "detalhe de cordão no corpete"
+    ],
+    "tematica_detalhada": "personagem de contos de fadas Chapeuzinho Vermelho, com estética europeia folclórica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8218.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 91.47,
+  "data_analise": "2026-07-27T19:56:45Z",
+  "data_criacao": "2026-07-27T16:56:45.154570-03:00"
+}

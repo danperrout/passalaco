@@ -1,0 +1,28 @@
+{
+  "id": 5343,
+  "nome_original": "Peruca Amy Winehouse",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "peruca"
+    ],
+    "material_visual": "fibra sintética",
+    "estilo_corte": "estilo beehive com volume no topo e comprimento longo com ondas",
+    "acessorios_visiveis": [
+      "faixa de cabelo vermelha"
+    ],
+    "tematica_detalhada": "Referência à cantora Amy Winehouse, caracterizada pelo icônico penteado volumoso e visual retrô/soul"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5343.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.82,
+  "data_analise": "2026-07-30T03:17:06Z",
+  "data_criacao": "2026-07-30T00:17:06.875071-03:00"
+}

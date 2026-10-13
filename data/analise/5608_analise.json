@@ -1,0 +1,33 @@
+{
+  "id": 5608,
+  "nome_original": "Principe Frozen",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "cinza",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com aspecto de couro ou cetim e detalhes em pelúcia branca",
+    "estilo_corte": "corte medieval com túnica curta e calças ajustadas",
+    "acessorios_visiveis": [
+      "faixa vermelha na cintura",
+      "cordão decorativo no pescoço",
+      "luvas"
+    ],
+    "tematica_detalhada": "fantasia inspirada no personagem Kristoff do filme Frozen, remetendo a trajes de inverno escandinavos/nórdicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5608.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.07,
+  "data_analise": "2026-07-30T04:17:27Z",
+  "data_criacao": "2026-07-30T01:17:27.688248-03:00"
+}

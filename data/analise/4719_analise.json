@@ -1,0 +1,32 @@
+{
+  "id": 4719,
+  "nome_original": "Gladiador",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "saia",
+      "capacete",
+      "capa"
+    ],
+    "material_visual": "tecido sintético acetinado com brilho",
+    "estilo_corte": "túnica curta solta com sobreposição de saia drapeada",
+    "acessorios_visiveis": [
+      "capacete romano com crista",
+      "capa preta"
+    ],
+    "tematica_detalhada": "Guerreiro da Roma Antiga, referenciando gladiadores ou centuriões romanos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4719.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 30.45,
+  "data_analise": "2026-07-28T11:00:42Z",
+  "data_criacao": "2026-07-28T08:00:42.844645-03:00"
+}

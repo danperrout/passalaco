@@ -1,0 +1,30 @@
+{
+  "id": 3471,
+  "nome_original": "Branca de Neve",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim ou poliéster brilhante",
+    "estilo_corte": "vestido com corpete justo e saia rodada",
+    "acessorios_visiveis": [
+      "laço vermelho na cabeça",
+      "laço vermelho no gola"
+    ],
+    "tematica_detalhada": "Personagem Branca de Neve, baseada no conto de fadas e animação da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3471.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.35,
+  "data_analise": "2026-07-27T18:20:11Z",
+  "data_criacao": "2026-07-27T15:20:11.754152-03:00"
+}

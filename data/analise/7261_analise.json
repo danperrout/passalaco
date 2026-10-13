@@ -1,0 +1,34 @@
+{
+  "id": 7261,
+  "nome_original": "Capitao America Super Luxo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "túnica",
+      "calças",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente poliéster ou lycra",
+    "estilo_corte": "ajustado ao corpo, estilo traje de super-herói",
+    "acessorios_visiveis": [
+      "escudo circular",
+      "cinto",
+      "alças de suporte"
+    ],
+    "tematica_detalhada": "Capitão América, super-herói da Marvel Comics, inspirado no patriotismo dos Estados Unidos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7261.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 77.71,
+  "data_analise": "2026-07-27T19:18:24Z",
+  "data_criacao": "2026-07-27T16:18:24.420625-03:00"
+}

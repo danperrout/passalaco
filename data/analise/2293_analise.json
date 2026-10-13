@@ -1,0 +1,29 @@
+{
+  "id": 2293,
+  "nome_original": "Burrinho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão integral",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético aveludado",
+    "estilo_corte": "oversized/folgado",
+    "acessorios_visiveis": [
+      "máscara de focinho integrada"
+    ],
+    "tematica_detalhada": "fantasia de burrinho, representando um animal doméstico de forma lúdica e simplificada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2293.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.07,
+  "data_analise": "2026-07-27T18:41:47Z",
+  "data_criacao": "2026-07-27T15:41:47.037203-03:00"
+}

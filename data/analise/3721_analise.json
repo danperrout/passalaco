@@ -1,0 +1,30 @@
+{
+  "id": 3721,
+  "nome_original": "Mascote Elefante",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza escuro",
+      "cinza claro"
+    ],
+    "pecas_inclusas": [
+      "macacão integral",
+      "cabeça de mascote"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "estilo kigurumi/mascote oversized",
+    "acessorios_visiveis": [
+      "tromba",
+      "orelhas grandes"
+    ],
+    "tematica_detalhada": "mascote de elefante antropomorfizado, com design cartunesco"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3721.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 141.27,
+  "data_analise": "2026-07-29T19:35:03Z",
+  "data_criacao": "2026-07-29T16:35:03.571481-03:00"
+}

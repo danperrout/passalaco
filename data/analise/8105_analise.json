@@ -1,0 +1,28 @@
+{
+  "id": 8105,
+  "nome_original": "Sereia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido com lantejoulas",
+    "estilo_corte": "corte sereia, ajustado ao corpo com abertura frontal inferior",
+    "acessorios_visiveis": [
+      "tiara com estrela-do-mar"
+    ],
+    "tematica_detalhada": "fantasia de sereia, inspirada em criaturas mitológicas marinhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8105.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.91,
+  "data_analise": "2026-07-30T06:17:44Z",
+  "data_criacao": "2026-07-30T03:17:44.297670-03:00"
+}

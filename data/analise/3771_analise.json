@@ -1,0 +1,26 @@
+{
+  "id": 3771,
+  "nome_original": "Abobora Hallowen",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "máscara de abóbora",
+      "túnica preta",
+      "luvas de garra"
+    ],
+    "material_visual": "látex ou espuma moldada para a cabeça e tecido sintético para a roupa",
+    "estilo_corte": "túnica ampla de manga longa",
+    "acessorios_visiveis": [
+      "mãos em formato de garras"
+    ],
+    "tematica_detalhada": "criatura assustadora de Halloween com cabeça de abóbora esculpida"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3771.jpg",
+  "data_analise": "2026-07-27T13:35:30Z"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 21,
+  "nome_original": "Africana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido leve e fluido, possivelmente poliéster ou chiffon",
+    "estilo_corte": "vestido longo e solto com mangas amplas",
+    "acessorios_visiveis": [
+      "tiara frontal",
+      "colar de contas"
+    ],
+    "tematica_detalhada": "fantasia inspirada em trajes étnicos africanos estilizados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/21.jpg",
+  "data_analise": "2026-07-27T13:37:17Z"
+}

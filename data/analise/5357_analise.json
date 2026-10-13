@@ -1,0 +1,27 @@
+{
+  "id": 5357,
+  "nome_original": "Havaiano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "amarelo",
+      "azul claro"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga curta"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente poliéster",
+    "estilo_corte": "corte reto, gola aberta, estilo camisa havaiana",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "estilo tropical havaiano, com estampas de flores hibiscos e folhagens"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5357.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 122.41,
+  "data_analise": "2026-07-28T13:31:17Z",
+  "data_criacao": "2026-07-28T10:31:17.618520-03:00"
+}

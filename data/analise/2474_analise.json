@@ -1,0 +1,33 @@
+{
+  "id": 2474,
+  "nome_original": "Cruela",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "peruca",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético com estampa de bolinhas",
+    "estilo_corte": "corte reto com fenda frontal e mangas longas",
+    "acessorios_visiveis": [
+      "cinto vermelho",
+      "peruca bicolor",
+      "luvas vermelhas"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Cruella de Vil, inspirada na vilã da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2474.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.02,
+  "data_analise": "2026-07-28T02:19:20Z",
+  "data_criacao": "2026-07-27T23:19:20.308065-03:00"
+}

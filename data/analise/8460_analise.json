@@ -1,0 +1,27 @@
+{
+  "id": 8460,
+  "nome_original": "Ana 2",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "capa/manto"
+    ],
+    "material_visual": "tecido sintético com brilho e cetim",
+    "estilo_corte": "corte longo e fluido com gola alta",
+    "acessorios_visiveis": [
+      "peruca castanha longa",
+      "detalhes dourados no busto"
+    ],
+    "tematica_detalhada": "fantasia mística ou medieval de personagem feminina"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8460.jpg",
+  "data_analise": "2026-07-27T13:56:01Z"
+}

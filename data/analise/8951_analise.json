@@ -1,0 +1,28 @@
+{
+  "id": 8951,
+  "nome_original": "Homem Aranha",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão integral",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante/estampado",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Super-herói Homem-Aranha, com design inspirado na armadura Iron Spider da Marvel"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8951.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 149.51,
+  "data_analise": "2026-07-28T13:57:19Z",
+  "data_criacao": "2026-07-28T10:57:19.975685-03:00"
+}

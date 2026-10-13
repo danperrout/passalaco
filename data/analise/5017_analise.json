@@ -1,0 +1,31 @@
+{
+  "id": 5017,
+  "nome_original": "Wally",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camiseta de manga longa",
+      "calça",
+      "gorro"
+    ],
+    "material_visual": "tecido sintético com aparência de poliéster ou algodão",
+    "estilo_corte": "corte reto e casual",
+    "acessorios_visiveis": [
+      "gorro com pompom"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Wally, da série de livros Onde está o Wally?"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5017.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.24,
+  "data_analise": "2026-07-30T08:53:03Z",
+  "data_criacao": "2026-07-30T05:53:03.207503-03:00"
+}

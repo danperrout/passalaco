@@ -1,0 +1,32 @@
+{
+  "id": 9989,
+  "nome_original": "It a Coisa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "vestido curto com mangas bufantes, cintura marcada e saia com babados",
+    "acessorios_visiveis": [
+      "pompons vermelhos",
+      "cinto preto",
+      "peruca vermelha"
+    ],
+    "tematica_detalhada": "versão feminilizada e estilizada do personagem Pennywise, do filme It: A Coisa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9989.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 45.26,
+  "data_analise": "2026-07-28T17:40:06Z",
+  "data_criacao": "2026-07-28T14:40:06.683905-03:00"
+}

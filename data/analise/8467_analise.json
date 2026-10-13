@@ -1,0 +1,29 @@
+{
+  "id": 8467,
+  "nome_original": "Caranguejo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou plush",
+    "estilo_corte": "estilo kigurumi ou macacão integral e volumoso",
+    "acessorios_visiveis": [
+      "antenas no capuz"
+    ],
+    "tematica_detalhada": "fantasia de caranguejo, representando o animal crustáceo de forma estilizada e lúdica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8467.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.64,
+  "data_analise": "2026-07-27T19:19:00Z",
+  "data_criacao": "2026-07-27T16:19:00.671195-03:00"
+}

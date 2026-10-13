@@ -1,0 +1,32 @@
+{
+  "id": 8860,
+  "nome_original": "Casal Palhaço Pesadelo",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestidos de palhaço",
+      "maquiagem facial",
+      "golas rulé"
+    ],
+    "material_visual": "tecidos sintéticos com aparência de desgaste e manchas de sangue",
+    "estilo_corte": "estilo vitoriano macabro com golas volumosas e saias rodadas",
+    "acessorios_visiveis": [
+      "chapéu pequeno",
+      "pompons vermelhos"
+    ],
+    "tematica_detalhada": "casal de palhaços aterrorizantes, inspirados em filmes de terror e estética de pesadelo/slasher"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8860.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.67,
+  "data_analise": "2026-07-27T19:35:41Z",
+  "data_criacao": "2026-07-27T16:35:41.930910-03:00"
+}

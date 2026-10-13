@@ -1,0 +1,31 @@
+{
+  "id": 3813,
+  "nome_original": "Sininho Bebe",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "verde limão"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "asas"
+    ],
+    "material_visual": "cetim brilhante com detalhes em glitter e tule",
+    "estilo_corte": "vestido curto sem mangas com saia volumosa",
+    "acessorios_visiveis": [
+      "tiara de flores",
+      "bolsa floral",
+      "asas de fada"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Sininho (Tinker Bell), inspirada em fadas da natureza"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3813.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 62.11,
+  "data_analise": "2026-07-30T06:49:23Z",
+  "data_criacao": "2026-07-30T03:49:23.392928-03:00"
+}

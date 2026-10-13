@@ -1,0 +1,30 @@
+{
+  "id": 5594,
+  "nome_original": "Mulher Maravilha 6 Meses",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Mesversario",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "body/vestido",
+      "tiara"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado/brilhante",
+    "estilo_corte": "estilo baby dress com alças finas e saia evasê",
+    "acessorios_visiveis": [
+      "tiara com estrela"
+    ],
+    "tematica_detalhada": "Fantasia infantil da personagem Mulher Maravilha, baseada na super-heroína da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5594.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.31,
+  "data_analise": "2026-07-29T23:27:35Z",
+  "data_criacao": "2026-07-29T20:27:35.455562-03:00"
+}

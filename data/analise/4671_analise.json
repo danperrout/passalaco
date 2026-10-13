@@ -1,0 +1,30 @@
+{
+  "id": 4671,
+  "nome_original": "Tigresa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "laranja",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara de orelhas"
+    ],
+    "material_visual": "pelúcia sintética e tule",
+    "estilo_corte": "vestido curto com alças e saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "tiara com orelhas de tigre"
+    ],
+    "tematica_detalhada": "fantasia animal de tigre, com foco em elementos lúdicos e festivos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4671.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 100.62,
+  "data_analise": "2026-07-30T08:22:36Z",
+  "data_criacao": "2026-07-30T05:22:36.471317-03:00"
+}

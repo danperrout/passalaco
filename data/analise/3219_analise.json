@@ -1,0 +1,30 @@
+{
+  "id": 3219,
+  "nome_original": "Lampião",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "chapéu",
+      "calça"
+    ],
+    "material_visual": "tecido sintético e palha natural",
+    "estilo_corte": "camisa de corte reto com painéis assimétricos e estampa xadrez",
+    "acessorios_visiveis": [
+      "chapéu de palha"
+    ],
+    "tematica_detalhada": "Cangaceiro, referência ao personagem histórico Lampião e à cultura do sertão nordestino brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3219.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 301.71,
+  "data_analise": "2026-07-29T09:30:40Z",
+  "data_criacao": "2026-07-29T06:30:40.441768-03:00"
+}

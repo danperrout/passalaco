@@ -1,0 +1,28 @@
+{
+  "id": 4081,
+  "nome_original": "Diabinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa"
+    ],
+    "material_visual": "lantejoulas e tecido acetinado",
+    "estilo_corte": "vestido curto com barra em pontas e capa longa",
+    "acessorios_visiveis": [
+      "tiara com chifres"
+    ],
+    "tematica_detalhada": "diabinha clássica com elementos festivos e glamourosos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4081.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.89,
+  "data_analise": "2026-07-28T03:01:15Z",
+  "data_criacao": "2026-07-28T00:01:15.002155-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2233,
+  "nome_original": "Toureiro",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "jaqueta curta",
+      "calça",
+      "camisa branca"
+    ],
+    "material_visual": "tecido sintético com brilho e bordados ornamentais",
+    "estilo_corte": "traje de corte ajustado com jaqueta curta estilo bolero",
+    "acessorios_visiveis": [
+      "chapéu de toureiro",
+      "capa"
+    ],
+    "tematica_detalhada": "Traje de luzes de um toureiro espanhol (Torero), referenciando a cultura das touradas da Espanha"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2233.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.07,
+  "data_analise": "2026-07-30T08:32:32Z",
+  "data_criacao": "2026-07-30T05:32:32.318407-03:00"
+}

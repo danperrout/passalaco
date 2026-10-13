@@ -1,0 +1,28 @@
+{
+  "id": 4946,
+  "nome_original": "Condessa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule, cetim e apliques de tecido",
+    "estilo_corte": "modelo rodado com corpete ajustado e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara com laço e tule"
+    ],
+    "tematica_detalhada": "fantasia de condessa ou personagem gótica vitoriana com inspiração em bailarina"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4946.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.26,
+  "data_analise": "2026-07-28T01:30:18Z",
+  "data_criacao": "2026-07-27T22:30:18.186974-03:00"
+}

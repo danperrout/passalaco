@@ -1,0 +1,32 @@
+{
+  "id": 5612,
+  "nome_original": "Principe",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "lenço"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "estilo militar clássico com lapelas largas e corte reto",
+    "acessorios_visiveis": [
+      "botões dourados",
+      "lenço de pescoço"
+    ],
+    "tematica_detalhada": "fantasia de príncipe ou nobreza europeia do século XVIII, lembrando trajes de gala históricos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5612.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.11,
+  "data_analise": "2026-07-30T04:14:00Z",
+  "data_criacao": "2026-07-30T01:14:00.645674-03:00"
+}

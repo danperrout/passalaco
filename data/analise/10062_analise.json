@@ -1,0 +1,28 @@
+{
+  "id": 10062,
+  "nome_original": "Bruxa Luxo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "chapéu de bruxa"
+    ],
+    "material_visual": "tule, renda e tecidos sintéticos transparentes",
+    "estilo_corte": "evasê com sobreposição de camadas e transparências",
+    "acessorios_visiveis": [
+      "chapéu pontudo com detalhes em tule"
+    ],
+    "tematica_detalhada": "Bruxa clássica com abordagem de luxo e gótica, focada em elegância e mistério"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10062.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.38,
+  "data_analise": "2026-07-27T18:32:07Z",
+  "data_criacao": "2026-07-27T15:32:07.118876-03:00"
+}

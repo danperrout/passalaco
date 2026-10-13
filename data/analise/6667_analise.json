@@ -1,0 +1,31 @@
+{
+  "id": 6667,
+  "nome_original": "Safari Mickey",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "caqui",
+      "verde militar"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "bermuda",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com aparência de sarja ou tactel",
+    "estilo_corte": "estilo explorador com bolsos utilitários",
+    "acessorios_visiveis": [
+      "chapéu de safari"
+    ],
+    "tematica_detalhada": "fantasia de explorador de safari, inspirada em personagens de aventura e natureza"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6667.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.32,
+  "data_analise": "2026-07-30T05:25:37Z",
+  "data_criacao": "2026-07-30T02:25:37.526721-03:00"
+}

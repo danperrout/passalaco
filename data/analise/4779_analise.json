@@ -1,0 +1,24 @@
+{
+  "id": 4779,
+  "nome_original": "Arabe",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Árabes/Indianas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido leve com aspecto fosco e bordados metálicos",
+    "estilo_corte": "corte reto e solto, tipo caftan, com decote em V e mangas curtas amplas",
+    "acessorios_visiveis": [
+      "acessório de cabeça dourado"
+    ],
+    "tematica_detalhada": "inspiração árabe ou do Oriente Médio, remetendo a trajes tradicionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4779.jpg",
+  "data_analise": "2026-07-27T16:45:52Z"
+}

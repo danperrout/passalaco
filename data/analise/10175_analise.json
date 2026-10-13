@@ -1,0 +1,25 @@
+{
+  "id": 10175,
+  "nome_original": "Anos 60",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho",
+    "estilo_corte": "estilo rodado com estampa de poá",
+    "acessorios_visiveis": [
+      "laço de cabelo",
+      "colar de pérolas"
+    ],
+    "tematica_detalhada": "moda retrô anos 60 com estampa de bolinhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10175.jpg",
+  "data_analise": "2026-07-27T15:43:06Z"
+}

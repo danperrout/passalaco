@@ -1,0 +1,31 @@
+{
+  "id": 9740,
+  "nome_original": "Melindrosa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "luvas longas"
+    ],
+    "material_visual": "tecido sintético com franjas e detalhes em pérolas",
+    "estilo_corte": "vestido curto tomara que caia com saia de franjas",
+    "acessorios_visiveis": [
+      "faixa de cabeça com pluma",
+      "colar de pérolas longo"
+    ],
+    "tematica_detalhada": "Estilo Melindrosa (Flapper) dos anos 20, referenciando a era do Jazz e a libertação feminina do período pós-guerra"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9740.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 139.78,
+  "data_analise": "2026-07-29T21:48:38Z",
+  "data_criacao": "2026-07-29T18:48:38.923629-03:00"
+}

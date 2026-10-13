@@ -1,0 +1,32 @@
+{
+  "id": 6132,
+  "nome_original": "Dança do Ventre",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia",
+      "bolero"
+    ],
+    "material_visual": "paetês, tecido translúcido e metalizado",
+    "estilo_corte": "estilo belly dance com corte ajustado e saia fluida",
+    "acessorios_visiveis": [
+      "tiara",
+      "colar",
+      "cinto de moedas/franjas"
+    ],
+    "tematica_detalhada": "Dança do ventre com referências à cultura árabe e estética oriental"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6132.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.8,
+  "data_analise": "2026-07-28T02:39:08Z",
+  "data_criacao": "2026-07-27T23:39:08.613996-03:00"
+}

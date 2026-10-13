@@ -1,0 +1,30 @@
+{
+  "id": 10067,
+  "nome_original": "Rainha de Copas",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "corpete",
+      "saia",
+      "luvas"
+    ],
+    "material_visual": "renda no bustier, cetim ou veludo na saia",
+    "estilo_corte": "corpete tomara que caia com amarração frontal e saia midi com drapeado lateral",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "Rainha de Copas, inspirada na personagem de Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10067.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 43.19,
+  "data_analise": "2026-07-30T04:29:21Z",
+  "data_criacao": "2026-07-30T01:29:21.625464-03:00"
+}

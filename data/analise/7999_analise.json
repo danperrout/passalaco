@@ -1,0 +1,31 @@
+{
+  "id": 7999,
+  "nome_original": "Palhacinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Circo",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "cetim e tule",
+    "estilo_corte": "vestido curto com saia volumosa em camadas (estilo tutu)",
+    "acessorios_visiveis": [
+      "laço na cintura",
+      "mini cartola"
+    ],
+    "tematica_detalhada": "Palhacinha festiva, com cores primárias vibrantes remetendo ao circo tradicional"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7999.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 38.06,
+  "data_analise": "2026-07-30T01:40:08Z",
+  "data_criacao": "2026-07-29T22:40:08.987631-03:00"
+}

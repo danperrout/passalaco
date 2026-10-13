@@ -1,0 +1,33 @@
+{
+  "id": 7417,
+  "nome_original": "Soldado Romano",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "capa",
+      "capacete"
+    ],
+    "material_visual": "tecido sintético e plástico",
+    "estilo_corte": "túnica reta com corte imperial e capa longa",
+    "acessorios_visiveis": [
+      "capacete com crista",
+      "cinto",
+      "braceletes"
+    ],
+    "tematica_detalhada": "Soldado Romano, inspirada na infantaria da Antiguidade Clássica e Império Romano"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7417.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.12,
+  "data_analise": "2026-07-30T07:12:54Z",
+  "data_criacao": "2026-07-30T04:12:54.852606-03:00"
+}

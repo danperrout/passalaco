@@ -1,0 +1,28 @@
+{
+  "id": 9355,
+  "nome_original": "Carnaval",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "headpiece"
+    ],
+    "material_visual": "paetês e metalizado",
+    "estilo_corte": "ajustado ao corpo (estilo bodycon)",
+    "acessorios_visiveis": [
+      "coroa de raios"
+    ],
+    "tematica_detalhada": "Carnaval luxuoso com referências solares ou divindades, remetendo a temas de ouro e ostentação"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9355.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.27,
+  "data_analise": "2026-07-27T19:25:06Z",
+  "data_criacao": "2026-07-27T16:25:06.829427-03:00"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 9303,
+  "nome_original": "Alice",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com possivelmente cetim ou poliéster e tule",
+    "estilo_corte": "estilo empire com saia rodada e mangas bufantes",
+    "acessorios_visiveis": [
+      "tiara ou laço no cabelo"
+    ],
+    "tematica_detalhada": "Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9303.jpg",
+  "data_analise": "2026-07-27T13:47:41Z"
+}

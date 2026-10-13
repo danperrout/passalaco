@@ -1,0 +1,30 @@
+{
+  "id": 6324,
+  "nome_original": "Peruca Elsa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul claro",
+      "loiro platinado"
+    ],
+    "pecas_inclusas": [
+      "peruca",
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "fibras sintéticas, tecido cetim ou poliéster com brilhos",
+    "estilo_corte": "peruca com trança lateral longa e vestido de manga longa",
+    "acessorios_visiveis": [
+      "tiara prateada com pedra central"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Elsa do filme Frozen, da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6324.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.83,
+  "data_analise": "2026-07-30T03:19:33Z",
+  "data_criacao": "2026-07-30T00:19:33.994553-03:00"
+}

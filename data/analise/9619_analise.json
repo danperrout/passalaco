@@ -1,0 +1,30 @@
+{
+  "id": 9619,
+  "nome_original": "Rapunzel",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "rosa",
+      "lilás"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "cetim e tecido sintético com brilho/textura",
+    "estilo_corte": "estilo princesa com corpete ajustado, mangas bufantes e saia volumosa",
+    "acessorios_visiveis": [
+      "peruca loira trançada",
+      "tiara/coroa dourada"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Rapunzel, baseada em contos de fadas e animações da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9619.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.94,
+  "data_analise": "2026-07-30T04:37:00Z",
+  "data_criacao": "2026-07-30T01:37:00.644513-03:00"
+}

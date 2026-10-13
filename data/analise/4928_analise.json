@@ -1,0 +1,34 @@
+{
+  "id": 4928,
+  "nome_original": "Palhacinho",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Circo",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul",
+      "roxo",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "cartola"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou poliéster",
+    "estilo_corte": "estilo bufante e oversized, típico de roupas de circo",
+    "acessorios_visiveis": [
+      "laço borboleta",
+      "suspensórios",
+      "cartola"
+    ],
+    "tematica_detalhada": "fantasia de palhaço clássico, com foco em cores vibrantes e contrastantes para entretenimento infantil e circense"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4928.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.31,
+  "data_analise": "2026-07-30T01:47:01Z",
+  "data_criacao": "2026-07-29T22:47:01.622440-03:00"
+}

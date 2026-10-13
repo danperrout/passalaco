@@ -1,0 +1,31 @@
+{
+  "id": 7819,
+  "nome_original": "Ursinho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz",
+      "luvas",
+      "meias/sapatos integrados"
+    ],
+    "material_visual": "pelúcia macia",
+    "estilo_corte": "estilo kigurumi ou macaquinho folgado",
+    "acessorios_visiveis": [
+      "laço roxo no pescoço"
+    ],
+    "tematica_detalhada": "fantasia de urso teddy, focada em aparência fofa e infantil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7819.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.3,
+  "data_analise": "2026-07-30T08:42:10Z",
+  "data_criacao": "2026-07-30T05:42:10.198184-03:00"
+}

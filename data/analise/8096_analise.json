@@ -1,0 +1,29 @@
+{
+  "id": 8096,
+  "nome_original": "Medieval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vinho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "capa com capuz"
+    ],
+    "material_visual": "veludo e tecido acetinado plissado",
+    "estilo_corte": "corte imperio com mangas amplas e abertas",
+    "acessorios_visiveis": [
+      "faixa na cintura"
+    ],
+    "tematica_detalhada": "estilo medieval europeu, remetendo a nobreza ou personagens de fantasia como magas e princesas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8096.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 30.09,
+  "data_analise": "2026-07-29T21:09:29Z",
+  "data_criacao": "2026-07-29T18:09:29.613062-03:00"
+}

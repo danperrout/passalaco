@@ -1,0 +1,29 @@
+{
+  "id": 9364,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prata",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido metalizado com brilho",
+    "estilo_corte": "estilo sereia, justo ao corpo e longo",
+    "acessorios_visiveis": [
+      "tiara com penas verdes",
+      "detalhes prateados no adereço de cabeça"
+    ],
+    "tematica_detalhada": "fantasia de Carnaval inspirada em passista ou rainha de escola de samba, com foco em glamour e elementos festivos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9364.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.94,
+  "data_analise": "2026-07-27T19:27:28Z",
+  "data_criacao": "2026-07-27T16:27:28.810727-03:00"
+}

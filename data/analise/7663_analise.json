@@ -1,0 +1,30 @@
+{
+  "id": 7663,
+  "nome_original": "Aviador",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "touca com óculos"
+    ],
+    "material_visual": "tecido de algodão ou sarja de aparência fosca",
+    "estilo_corte": "macacão de peça única com estilo utilitário e aviador retrô",
+    "acessorios_visiveis": [
+      "óculos de voo",
+      "cinto marrom"
+    ],
+    "tematica_detalhada": "Fantasia de aviador clássico/vintage, inspirada nos primeiros pilotos da aviação, com detalhes de emblemas e bandeira."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7663.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 10.04,
+  "data_analise": "2026-07-27T16:58:20Z",
+  "data_criacao": "2026-07-27T13:58:20.476415-03:00"
+}

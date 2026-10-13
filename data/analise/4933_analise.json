@@ -1,0 +1,30 @@
+{
+  "id": 4933,
+  "nome_original": "India",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com aparência de camurça ou veludo",
+    "estilo_corte": "corte assimétrico de um ombro só com barra em ponta",
+    "acessorios_visiveis": [
+      "cocar de penas",
+      "colar de contas"
+    ],
+    "tematica_detalhada": "fantasia estilizada de indígena, com referências genéricas a culturas nativas americanas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4933.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 176.86,
+  "data_analise": "2026-07-28T16:28:34Z",
+  "data_criacao": "2026-07-28T13:28:34.367200-03:00"
+}

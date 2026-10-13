@@ -1,0 +1,29 @@
+{
+  "id": 1385,
+  "nome_original": "Vampira",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa"
+    ],
+    "material_visual": "cetim e renda",
+    "estilo_corte": "vestido curto com saia rodada e capa curta com gola alta",
+    "acessorios_visiveis": [
+      "laço no pescoço"
+    ],
+    "tematica_detalhada": "Vampira clássica com estética gótica vitoriana moderna"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1385.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.53,
+  "data_analise": "2026-07-30T08:45:14Z",
+  "data_criacao": "2026-07-30T05:45:14.829924-03:00"
+}

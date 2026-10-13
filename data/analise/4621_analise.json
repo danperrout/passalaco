@@ -1,0 +1,31 @@
+{
+  "id": 4621,
+  "nome_original": "Luigi",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Cosplay",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "saia jardineira",
+      "boné"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "estilo jardineira com saia plissada e camiseta de manga curta",
+    "acessorios_visiveis": [
+      "boné com logo",
+      "botões amarelos"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Luigi, da franquia Super Mario da Nintendo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4621.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 283.0,
+  "data_analise": "2026-07-29T12:38:56Z",
+  "data_criacao": "2026-07-29T09:38:56.052823-03:00"
+}

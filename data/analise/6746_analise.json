@@ -1,0 +1,32 @@
+{
+  "id": 6746,
+  "nome_original": "Baiana",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "verde",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido de renda",
+      "tiara de frutas"
+    ],
+    "material_visual": "tecido leve, possivelmente algodão ou poliéster com detalhes em renda e tule",
+    "estilo_corte": "vestido curto com babados, mangas bufantes e decote em V com detalhe de fita",
+    "acessorios_visiveis": [
+      "tiara com frutas decorativas",
+      "detalhe de frutas na cintura"
+    ],
+    "tematica_detalhada": "Fantasia de Baiana, inspirada nas baianas do acarajé, caracterizada pelo uso de branco e elementos que remetem à cultura afro-brasileira e celebrações populares."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6746.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 18.31,
+  "data_analise": "2026-07-27T16:58:53Z",
+  "data_criacao": "2026-07-27T13:58:53.345430-03:00"
+}

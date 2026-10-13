@@ -1,0 +1,33 @@
+{
+  "id": 10171,
+  "nome_original": "Cigana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Ciganas/Espanholas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "véu",
+      "tiara"
+    ],
+    "material_visual": "tecido fluido, possivelmente chiffon ou poliéster, com adornos metálicos",
+    "estilo_corte": "longo, com decote em V, saia com recortes irregulares e drapeado",
+    "acessorios_visiveis": [
+      "tiara com moedas",
+      "colar de moedas",
+      "cinto de moedas",
+      "véu"
+    ],
+    "tematica_detalhada": "Fantasia de cigana estilizada com referências à dança do ventre e cultura nômade, focada em elementos ornamentais dourados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10171.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 104.18,
+  "data_analise": "2026-07-27T22:07:36Z",
+  "data_criacao": "2026-07-27T19:07:36.717886-03:00"
+}

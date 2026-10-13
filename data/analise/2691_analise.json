@@ -1,0 +1,28 @@
+{
+  "id": 2691,
+  "nome_original": "Cachorro Branco",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "tecido felpudo/pelúcia",
+    "estilo_corte": "estilo kigurumi ou pijama oversized",
+    "acessorios_visiveis": [
+      "capuz com orelhas e focinho"
+    ],
+    "tematica_detalhada": "cachorro branco, representação estilizada e fofa de um animal doméstico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2691.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.13,
+  "data_analise": "2026-07-27T18:45:25Z",
+  "data_criacao": "2026-07-27T15:45:25.018934-03:00"
+}

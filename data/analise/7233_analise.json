@@ -1,0 +1,31 @@
+{
+  "id": 7233,
+  "nome_original": "Camponesa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Danças",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "verde",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "corselete",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com adornos aplicados",
+    "estilo_corte": "estilo dirndl com cintura marcada e saia rodada",
+    "acessorios_visiveis": [
+      "tiara de flores"
+    ],
+    "tematica_detalhada": "camponesa europeia clássica, com referências ao folclore germânico ou alpino"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7233.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.54,
+  "data_analise": "2026-07-27T18:51:07Z",
+  "data_criacao": "2026-07-27T15:51:07.411650-03:00"
+}

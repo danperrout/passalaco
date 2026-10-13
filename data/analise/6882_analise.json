@@ -1,0 +1,30 @@
+{
+  "id": 6882,
+  "nome_original": "Cabeça de Batata",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica corporal",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "formato arredondado e volumoso (oversized)",
+    "acessorios_visiveis": [
+      "boné vermelho"
+    ],
+    "tematica_detalhada": "Personagem Sr. Cabeça de Batata (Mr. Potato Head) do filme Toy Story"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6882.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.46,
+  "data_analise": "2026-07-27T18:43:22Z",
+  "data_criacao": "2026-07-27T15:43:22.663374-03:00"
+}

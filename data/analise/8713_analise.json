@@ -1,0 +1,33 @@
+{
+  "id": 8713,
+  "nome_original": "Mascote Coelho",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão de corpo inteiro",
+      "máscara de cabeça de coelho",
+      "paletó de mestre de cerimônias"
+    ],
+    "material_visual": "pelúcia sintética e cetim",
+    "estilo_corte": "estilo mascote com corte de casaca formal",
+    "acessorios_visiveis": [
+      "gravata borboleta",
+      "botões dourados",
+      "bordados ornamentais"
+    ],
+    "tematica_detalhada": "Coelho antropomórfico vestido como mestre de cerimônias ou mágico, remetendo ao Coelho Branco de Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8713.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 50.73,
+  "data_analise": "2026-07-29T19:19:59Z",
+  "data_criacao": "2026-07-29T16:19:59.815143-03:00"
+}

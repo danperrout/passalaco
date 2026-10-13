@@ -1,0 +1,32 @@
+{
+  "id": 8531,
+  "nome_original": "Arlequina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "camiseta",
+      "shorts",
+      "cinto"
+    ],
+    "material_visual": "cetim ou material sintético brilhante",
+    "estilo_corte": "ajustado e dividido simetricamente por cores",
+    "acessorios_visiveis": [
+      "choker",
+      "cinto com detalhes dourados"
+    ],
+    "tematica_detalhada": "Personagem Arlequina da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8531.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 10.09,
+  "data_analise": "2026-07-27T16:51:08Z",
+  "data_criacao": "2026-07-27T13:51:08.967225-03:00"
+}

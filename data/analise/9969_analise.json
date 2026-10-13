@@ -1,0 +1,31 @@
+{
+  "id": 9969,
+  "nome_original": "Anos 80",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa neon",
+      "azul turquesa",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camiseta cropped",
+      "legging",
+      "shorts",
+      "polainas",
+      "faixa de cabelo"
+    ],
+    "material_visual": "tecidos sintéticos com elastano e brilho",
+    "estilo_corte": "estilo aeróbica fitness vintage, ajuste justo ao corpo",
+    "acessorios_visiveis": [
+      "faixa de cabeça",
+      "cinto colorido",
+      "polainas"
+    ],
+    "tematica_detalhada": "moda fitness dos anos 80, inspirada em aulas de aeróbica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9969.jpg",
+  "data_analise": "2026-07-27T16:17:34Z"
+}

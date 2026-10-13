@@ -1,0 +1,27 @@
+{
+  "id": 7202,
+  "nome_original": "Mascote Urso Masha",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "macacão de corpo inteiro",
+      "máscara de cabeça"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "estilo mascote oversized",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Personagem Urso do desenho animado Masha e o Urso"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7202.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 68.36,
+  "data_analise": "2026-07-29T20:35:51Z",
+  "data_criacao": "2026-07-29T17:35:51.161922-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 7290,
+  "nome_original": "Toper Bordado",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "top"
+    ],
+    "material_visual": "renda, tela e bordados de paetês",
+    "estilo_corte": "cropped sem mangas com acabamento em franjas na barra",
+    "acessorios_visiveis": [
+      "laço decorativo prateado"
+    ],
+    "tematica_detalhada": "estilo cabaret ou showgirl, com referências a roupas de performance noturna e glamour"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7290.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 40.81,
+  "data_analise": "2026-07-30T08:31:09Z",
+  "data_criacao": "2026-07-30T05:31:09.312938-03:00"
+}

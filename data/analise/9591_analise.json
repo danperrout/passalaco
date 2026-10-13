@@ -1,0 +1,26 @@
+{
+  "id": 9591,
+  "nome_original": "Peruca",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "cinza"
+    ],
+    "pecas_inclusas": [
+      "peruca"
+    ],
+    "material_visual": "fibras sintéticas",
+    "estilo_corte": "longo e liso com repartição central",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "estética gótica, referências a vampiros ou personagens sombrios de terror"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9591.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.7,
+  "data_analise": "2026-07-30T03:16:27Z",
+  "data_criacao": "2026-07-30T00:16:27.914159-03:00"
+}

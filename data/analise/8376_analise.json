@@ -1,0 +1,29 @@
+{
+  "id": 8376,
+  "nome_original": "Capa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz",
+      "vestido"
+    ],
+    "material_visual": "tecido rendado com detalhes bordados ou aplicados",
+    "estilo_corte": "capa longa e fluida com capuz integrado e vestido reto",
+    "acessorios_visiveis": [
+      "laço no pescoço"
+    ],
+    "tematica_detalhada": "referência ao personagem Chapeuzinho Vermelho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8376.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.83,
+  "data_analise": "2026-07-27T18:55:11Z",
+  "data_criacao": "2026-07-27T15:55:11.797044-03:00"
+}

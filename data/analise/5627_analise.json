@@ -1,0 +1,31 @@
+{
+  "id": 5627,
+  "nome_original": "Bombeiro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com aparência de poliéster ou nylon",
+    "estilo_corte": "conjunto de duas peças com modelagem folgada e detalhes reflexivos",
+    "acessorios_visiveis": [
+      "chapéu de bombeiro",
+      "faixas refletivas"
+    ],
+    "tematica_detalhada": "fantasia de bombeiro clássica, representando a profissão de combate a incêndios"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5627.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.23,
+  "data_analise": "2026-07-27T18:17:32Z",
+  "data_criacao": "2026-07-27T15:17:32.672982-03:00"
+}

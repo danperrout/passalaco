@@ -1,0 +1,28 @@
+{
+  "id": 246,
+  "nome_original": "Bob Esponja",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "túnica/camisa"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante",
+    "estilo_corte": "corte amplo e reto",
+    "acessorios_visiveis": [
+      "estampa do rosto do personagem"
+    ],
+    "tematica_detalhada": "Personagem Bob Esponja Calça Quadrada do desenho animado homônimo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/246.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 103.4,
+  "data_analise": "2026-07-27T18:15:56Z",
+  "data_criacao": "2026-07-27T15:15:56.363690-03:00"
+}

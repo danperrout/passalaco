@@ -1,0 +1,29 @@
+{
+  "id": 9011,
+  "nome_original": "Noiva",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "renda e tecido sintético com textura plissada",
+    "estilo_corte": "curto, com busto ajustado e saia volumosa em camadas (estilo baby doll ou lolita)",
+    "acessorios_visiveis": [
+      "véu",
+      "guirlanda de flores",
+      "buquê de flores"
+    ],
+    "tematica_detalhada": "Noiva clássica ou estilizada, com referências a casamentos românticos ou fantasias de noiva jovem"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9011.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 152.12,
+  "data_analise": "2026-07-30T00:21:54Z",
+  "data_criacao": "2026-07-29T21:21:54.515682-03:00"
+}

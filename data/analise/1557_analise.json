@@ -1,0 +1,32 @@
+{
+  "id": 1557,
+  "nome_original": "Chaves",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "branco",
+      "verde oliva",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "camiseta listrada",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético e malha",
+    "estilo_corte": "corte casual e folgado",
+    "acessorios_visiveis": [
+      "suspensório laranja"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Chaves, baseada na série de comédia mexicana El Chavo del Ocho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1557.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 42.59,
+  "data_analise": "2026-07-27T20:36:49Z",
+  "data_criacao": "2026-07-27T17:36:49.941968-03:00"
+}

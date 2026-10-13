@@ -1,0 +1,29 @@
+{
+  "id": 2289,
+  "nome_original": "Piu Piu",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou plush",
+    "estilo_corte": "estilo kigurumi ou macacão integral folgado",
+    "acessorios_visiveis": [
+      "bico de pelúcia no capuz",
+      "olhos aplicados no capuz"
+    ],
+    "tematica_detalhada": "fantasia de pintinho, referenciando o personagem Piu Piu (Tweety)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2289.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.08,
+  "data_analise": "2026-07-30T03:43:19Z",
+  "data_criacao": "2026-07-30T00:43:19.737101-03:00"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 4491,
+  "nome_original": "Mascote Pintinho Amarelinho",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "laranja",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "máscara/cabeça",
+      "corpo",
+      "calça",
+      "pés"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "estilo mascote oversized",
+    "acessorios_visiveis": [
+      "bico",
+      "olhos arregalados"
+    ],
+    "tematica_detalhada": "Mascote do Pintinho Amarelinho, personagem infantil da cultura popular brasileira"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4491.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 263.56,
+  "data_analise": "2026-07-29T20:23:22Z",
+  "data_criacao": "2026-07-29T17:23:22.688796-03:00"
+}

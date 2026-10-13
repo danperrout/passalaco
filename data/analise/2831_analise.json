@@ -1,0 +1,32 @@
+{
+  "id": 2831,
+  "nome_original": "Esqueleto",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "camiseta",
+      "calça"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "ajuste regular com mangas longas",
+    "acessorios_visiveis": [
+      "gravata borboleta vermelha",
+      "máscara de caveira"
+    ],
+    "tematica_detalhada": "esqueleto estilizado com elementos que remetem ao Dia dos Mortos (Dia de Muertos) mexicano, misturando a anatomia óssea com adornos decorativos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2831.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.42,
+  "data_analise": "2026-07-28T04:13:19Z",
+  "data_criacao": "2026-07-28T01:13:19.311006-03:00"
+}

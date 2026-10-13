@@ -1,0 +1,32 @@
+{
+  "id": 6242,
+  "nome_original": "Chiquinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "verde",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "vestido",
+      "avental",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético com detalhes em poá",
+    "estilo_corte": "estilo retrô infantil com corte reto e gola arredondada",
+    "acessorios_visiveis": [
+      "óculos de armação grossa"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Chiquinha, do seriado El Chavo del Ocho (Chaves)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6242.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 147.02,
+  "data_analise": "2026-07-27T21:22:17Z",
+  "data_criacao": "2026-07-27T18:22:17.902309-03:00"
+}

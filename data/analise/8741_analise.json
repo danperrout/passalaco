@@ -1,0 +1,30 @@
+{
+  "id": 8741,
+  "nome_original": "Casal Flinstones",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "azul",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com aparência de feltro ou malha",
+    "estilo_corte": "corte rústico com bordas irregulares e serrilhadas",
+    "acessorios_visiveis": [
+      "colar de contas"
+    ],
+    "tematica_detalhada": "Fantasia de casal inspirada nos personagens Fred e Wilma Flintstone, referenciando a temática da Idade da Pedra"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8741.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.85,
+  "data_analise": "2026-07-27T19:33:25Z",
+  "data_criacao": "2026-07-27T16:33:25.147188-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 9967,
+  "nome_original": "Anos 80",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa neon",
+      "verde neon",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "legging",
+      "faixa de cabelo",
+      "polainas"
+    ],
+    "material_visual": "tecido sintético elástico e rede",
+    "estilo_corte": "justo ao corpo com blusa curta",
+    "acessorios_visiveis": [
+      "faixa de cabelo",
+      "cinto",
+      "polainas"
+    ],
+    "tematica_detalhada": "estilo aeróbica dos anos 80"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9967.jpg",
+  "data_analise": "2026-07-27T16:15:48Z"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 9086,
+  "nome_original": "Dona Clotilde",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido sintético fosco com detalhe em renda ou crochê no busto",
+    "estilo_corte": "corte reto com cintura marcada, mangas longas e gola alta",
+    "acessorios_visiveis": [
+      "peruca branca"
+    ],
+    "tematica_detalhada": "Personagem Dona Clotilde da série Chaves, representando uma senhora solteirona com estilo conservador e vintage"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9086.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.14,
+  "data_analise": "2026-07-28T03:14:54Z",
+  "data_criacao": "2026-07-28T00:14:54.369659-03:00"
+}

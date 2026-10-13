@@ -1,0 +1,30 @@
+{
+  "id": 4962,
+  "nome_original": "Palhacinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "peruca"
+    ],
+    "material_visual": "cetim ou poliéster brilhante",
+    "estilo_corte": "vestido longo com mangas bufantes e gola larga",
+    "acessorios_visiveis": [
+      "peruca multicolorida",
+      "detalhes em fitas coloridas"
+    ],
+    "tematica_detalhada": "Palhaço clássico com estética circense, caracterizada por cores vibrantes e estampa de bolinhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4962.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 140.73,
+  "data_analise": "2026-07-30T01:32:51Z",
+  "data_criacao": "2026-07-29T22:32:51.189277-03:00"
+}

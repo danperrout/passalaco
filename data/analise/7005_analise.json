@@ -1,0 +1,33 @@
+{
+  "id": 7005,
+  "nome_original": "Saia Anos 60",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia",
+      "tiara"
+    ],
+    "material_visual": "tecido sintético com estampa de poá",
+    "estilo_corte": "cintura alta com saia rodada e top justo",
+    "acessorios_visiveis": [
+      "tiara com laço",
+      "colar de pérolas",
+      "pulseira de pérolas",
+      "cinto branco"
+    ],
+    "tematica_detalhada": "Moda retrô anos 50/60, estilo Pin-up com referências ao visual clássico de rockabilly"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7005.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 277.27,
+  "data_analise": "2026-07-30T05:33:22Z",
+  "data_criacao": "2026-07-30T02:33:22.069647-03:00"
+}

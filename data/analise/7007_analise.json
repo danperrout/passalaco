@@ -1,0 +1,31 @@
+{
+  "id": 7007,
+  "nome_original": "Mexicano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "amarelo",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "poncho",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com aparência de poliéster",
+    "estilo_corte": "poncho oversized com corte reto e decote em V",
+    "acessorios_visiveis": [
+      "sombrero mexicano"
+    ],
+    "tematica_detalhada": "fantasia estereotipada de mexicano, inspirada na cultura tradicional do México e no uso de ponchos e sombreros"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7007.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 89.63,
+  "data_analise": "2026-07-29T22:07:54Z",
+  "data_criacao": "2026-07-29T19:07:54.183107-03:00"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 5566,
+  "nome_original": "Anos 60",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco e estampado",
+    "estilo_corte": "estilo rodado com cintura marcada e corpete ajustado",
+    "acessorios_visiveis": [
+      "tiara com laço",
+      "colar de pérolas"
+    ],
+    "tematica_detalhada": "estética mod dos anos 60 com estampa de poá"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5566.jpg",
+  "data_analise": "2026-07-27T14:03:19Z"
+}

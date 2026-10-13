@@ -1,0 +1,31 @@
+{
+  "id": 9669,
+  "nome_original": "Papai Noel Luxo Vinho",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Natalinas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vinho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "gorro",
+      "barba"
+    ],
+    "material_visual": "veludo ou plush com acabamento em pele sintética",
+    "estilo_corte": "clássico, modelagem solta com detalhes em branco",
+    "acessorios_visiveis": [
+      "cinto preto com fivela dourada"
+    ],
+    "tematica_detalhada": "Papai Noel, personagem icônico do Natal, representando a figura do distribuidor de presentes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9669.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.65,
+  "data_analise": "2026-07-30T02:18:43Z",
+  "data_criacao": "2026-07-29T23:18:43.939957-03:00"
+}

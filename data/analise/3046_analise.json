@@ -1,0 +1,31 @@
+{
+  "id": 3046,
+  "nome_original": "Deusa Grega",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Gregas/Romanos",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "coroa"
+    ],
+    "material_visual": "tecido leve com acabamentos metálicos",
+    "estilo_corte": "estilo túnica com ombro único e drapeado",
+    "acessorios_visiveis": [
+      "coroa dourada",
+      "cinto dourado",
+      "braceletes dourados"
+    ],
+    "tematica_detalhada": "Deusa Grega da Antiguidade Clássica, com referências a figuras como Afrodite ou Hera"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3046.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 22.96,
+  "data_analise": "2026-07-28T02:56:18Z",
+  "data_criacao": "2026-07-27T23:56:18.841741-03:00"
+}

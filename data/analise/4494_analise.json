@@ -1,0 +1,30 @@
+{
+  "id": 4494,
+  "nome_original": "Gatinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capuz com orelhas"
+    ],
+    "material_visual": "tule e tecido sintético",
+    "estilo_corte": "vestido curto com saia volumosa e mangas bufantes",
+    "acessorios_visiveis": [
+      "bolsa pequena",
+      "capuz com orelhas de gato"
+    ],
+    "tematica_detalhada": "Gatinha com temática de Halloween, apresentando estampa de esqueleto no torso"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4494.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 68.2,
+  "data_analise": "2026-07-28T07:22:13Z",
+  "data_criacao": "2026-07-28T04:22:13.863876-03:00"
+}

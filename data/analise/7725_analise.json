@@ -1,0 +1,30 @@
+{
+  "id": 7725,
+  "nome_original": "Valente",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde escuro",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia"
+    ],
+    "material_visual": "veludo na parte superior e cetim ou tecido sintético brilhante na saia",
+    "estilo_corte": "estilo medieval com blusa ajustada e saia longa fluida",
+    "acessorios_visiveis": [
+      "alça de arco/estojo transversal",
+      "peruca ruiva"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Merida do filme Brave (Valente), remetendo à cultura escocesa medieval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7725.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.6,
+  "data_analise": "2026-07-30T08:44:30Z",
+  "data_criacao": "2026-07-30T05:44:30.848862-03:00"
+}

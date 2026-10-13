@@ -1,0 +1,29 @@
+{
+  "id": 513,
+  "nome_original": "Passista",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "tecido leve com aplicações de lantejoulas e franjas de contas",
+    "estilo_corte": "top estilo halter e saia curta evasê com cintura adornada",
+    "acessorios_visiveis": [
+      "tiara/headband dourada"
+    ],
+    "tematica_detalhada": "Fantasia de Passista de Carnaval, com referências à cultura do samba e escolas de samba brasileiras"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/513.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.45,
+  "data_analise": "2026-07-30T02:30:06Z",
+  "data_criacao": "2026-07-29T23:30:06.875111-03:00"
+}

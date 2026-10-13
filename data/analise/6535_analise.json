@@ -1,0 +1,32 @@
+{
+  "id": 6535,
+  "nome_original": "Peruca Ana Frozen",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "ruivo",
+      "verde",
+      "dourado",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "peruca",
+      "vestido"
+    ],
+    "material_visual": "fibra sintética, tule e tecido acetinado",
+    "estilo_corte": "peruca presa em coque com vestido de mangas bufantes e decote em V",
+    "acessorios_visiveis": [
+      "tiara",
+      "coroa com flores"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Anna do filme Frozen, com foco em elementos reais e festivos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6535.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 30.31,
+  "data_analise": "2026-07-30T03:17:37Z",
+  "data_criacao": "2026-07-30T00:17:37.480461-03:00"
+}

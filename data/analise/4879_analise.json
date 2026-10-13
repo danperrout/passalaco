@@ -1,0 +1,31 @@
+{
+  "id": 4879,
+  "nome_original": "Odalisca",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "saia longa"
+    ],
+    "material_visual": "cetim, tule e adornos metálicos",
+    "estilo_corte": "top curto com decote e saia fluida com fenda",
+    "acessorios_visiveis": [
+      "tiara decorada",
+      "cinto ornamentado"
+    ],
+    "tematica_detalhada": "fantasia de odalisca inspirada na dança do ventre e estética do Oriente Médio"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4879.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.44,
+  "data_analise": "2026-07-30T00:40:46Z",
+  "data_criacao": "2026-07-29T21:40:46.899533-03:00"
+}

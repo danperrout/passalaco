@@ -1,0 +1,29 @@
+{
+  "id": 8529,
+  "nome_original": "Fred",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "azul claro"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou poliéster",
+    "estilo_corte": "vestido curto, modelo ombro a ombro, com saia rodada e detalhes recortados na barra",
+    "acessorios_visiveis": [
+      "tiara com laço e detalhe de osso",
+      "faixa na cintura com laço branco"
+    ],
+    "tematica_detalhada": "fantasia inspirada no personagem Fred do filme '101 Dálmatas', simulando a aparência de um cachorro com manchas e acessórios temáticos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8529.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 60.52,
+  "data_analise": "2026-07-28T06:18:17Z",
+  "data_criacao": "2026-07-28T03:18:17.077312-03:00"
+}

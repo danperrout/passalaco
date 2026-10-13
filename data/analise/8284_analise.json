@@ -1,0 +1,30 @@
+{
+  "id": 8284,
+  "nome_original": "Lagartixo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde claro",
+      "verde escuro"
+    ],
+    "pecas_inclusas": [
+      "camiseta de manga longa",
+      "calça",
+      "máscara com capuz"
+    ],
+    "material_visual": "tecido sintético com textura levemente brilhante ou canelada",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "máscara facial integrada ao capuz"
+    ],
+    "tematica_detalhada": "Fantasia de réptil ou criatura alienígena, com estampa frontal estilizada que remete a um rosto de lagarto ou alien"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8284.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.42,
+  "data_analise": "2026-07-29T08:42:35Z",
+  "data_criacao": "2026-07-29T05:42:35.827593-03:00"
+}

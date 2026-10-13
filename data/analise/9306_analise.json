@@ -1,0 +1,29 @@
+{
+  "id": 9306,
+  "nome_original": "Coringa",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vinho",
+      "verde",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "camisa"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco",
+    "estilo_corte": "terno clássico com corte reto",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia do personagem Coringa, referenciando a estética de cores vibrantes e contrastantes típica do vilão da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9306.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.06,
+  "data_analise": "2026-07-28T01:34:32Z",
+  "data_criacao": "2026-07-27T22:34:32.573666-03:00"
+}

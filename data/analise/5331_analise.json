@@ -1,0 +1,28 @@
+{
+  "id": 5331,
+  "nome_original": "Bela Adormecida",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule e cetim sintético",
+    "estilo_corte": "vestido de baile com saia volumosa e decote com gola branca",
+    "acessorios_visiveis": [
+      "coroa"
+    ],
+    "tematica_detalhada": "fantasia de princesa, inspirada na Bela Adormecida ou personagens reais de contos de fada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5331.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.94,
+  "data_analise": "2026-07-27T17:53:47Z",
+  "data_criacao": "2026-07-27T14:53:47.179802-03:00"
+}

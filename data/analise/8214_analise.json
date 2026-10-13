@@ -1,0 +1,29 @@
+{
+  "id": 8214,
+  "nome_original": "Camisa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "lilás",
+      "roxo",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "camisa"
+    ],
+    "material_visual": "tecido sintético com brilho metálico ou paetês",
+    "estilo_corte": "camisa de manga curta com babados e acabamento desfiado",
+    "acessorios_visiveis": [
+      "laços decorativos nos ombros"
+    ],
+    "tematica_detalhada": "fantasia festiva com estética brilhante, possivelmente inspirada em moda pop, glitter ou personagens festivos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8214.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.11,
+  "data_analise": "2026-07-27T18:49:05Z",
+  "data_criacao": "2026-07-27T15:49:05.562529-03:00"
+}

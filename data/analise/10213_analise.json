@@ -1,0 +1,28 @@
+{
+  "id": 10213,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com acabamento em tule e cetim",
+    "estilo_corte": "vestido de festa com saia volumosa e corpete ajustado com detalhe de amarração",
+    "acessorios_visiveis": [
+      "tiara decorada"
+    ],
+    "tematica_detalhada": "fantasia inspirada em personagens de contos de fadas ou natureza, remetendo a flores ou à personagem Bela, com adaptação para festas juninas estilizadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10213.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.39,
+  "data_analise": "2026-07-29T01:42:25Z",
+  "data_criacao": "2026-07-28T22:42:25.706705-03:00"
+}

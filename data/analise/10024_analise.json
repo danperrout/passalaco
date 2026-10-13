@@ -1,0 +1,30 @@
+{
+  "id": 10024,
+  "nome_original": "Médica",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "jaleco",
+      "calça",
+      "touca"
+    ],
+    "material_visual": "tecido sintético leve",
+    "estilo_corte": "corte reto e solto, simulando uniforme hospitalar",
+    "acessorios_visiveis": [
+      "touca com cruz vermelha"
+    ],
+    "tematica_detalhada": "fantasia de profissional de saúde, especificamente médica ou enfermeira, baseada no uniforme clássico hospitalar"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10024.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 74.49,
+  "data_analise": "2026-07-29T20:58:53Z",
+  "data_criacao": "2026-07-29T17:58:53.721964-03:00"
+}

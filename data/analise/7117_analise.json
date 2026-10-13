@@ -1,0 +1,29 @@
+{
+  "id": 7117,
+  "nome_original": "Burro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão integral",
+      "capuz"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "estilo kigurumi ou macacão oversized",
+    "acessorios_visiveis": [
+      "máscara de focinho integrada ao capuz"
+    ],
+    "tematica_detalhada": "fantasia de burro ou cavalo, com foco em representação animal antropomórfica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7117.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.57,
+  "data_analise": "2026-07-27T18:42:18Z",
+  "data_criacao": "2026-07-27T15:42:18.490423-03:00"
+}

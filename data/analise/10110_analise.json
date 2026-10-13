@@ -1,0 +1,30 @@
+{
+  "id": 10110,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "laranja",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia curta"
+    ],
+    "material_visual": "paetês e penas",
+    "estilo_corte": "estilo biquíni com corte assimétrico e drapeado",
+    "acessorios_visiveis": [
+      "tiara com plumas"
+    ],
+    "tematica_detalhada": "Passista de Carnaval, inspirada nas escolas de samba brasileiras com foco em exuberância e brilho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10110.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.34,
+  "data_analise": "2026-07-27T19:26:10Z",
+  "data_criacao": "2026-07-27T16:26:10.880557-03:00"
+}

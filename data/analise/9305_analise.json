@@ -1,0 +1,27 @@
+{
+  "id": 9305,
+  "nome_original": "Sobretudo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "sobretudo"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "longo, reto, com gola padre e fechamento frontal por botões",
+    "acessorios_visiveis": [
+      "botões"
+    ],
+    "tematica_detalhada": "estilo gótico, vitoriano ou referências a personagens como detetives, vampiros ou figuras clericais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9305.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.65,
+  "data_analise": "2026-07-30T06:54:38Z",
+  "data_criacao": "2026-07-30T03:54:38.201002-03:00"
+}

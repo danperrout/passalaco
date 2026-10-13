@@ -1,0 +1,29 @@
+{
+  "id": 4414,
+  "nome_original": "Penelope Charmosa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "magenta"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capacete"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado",
+    "estilo_corte": "vestido curto sem mangas com saia evasê",
+    "acessorios_visiveis": [
+      "capacete com óculos integrados"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Penélope Charmosa, inspirada em corridas de carro com estética feminina e romântica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4414.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.91,
+  "data_analise": "2026-07-30T02:56:19Z",
+  "data_criacao": "2026-07-29T23:56:19.695170-03:00"
+}

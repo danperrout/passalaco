@@ -1,0 +1,34 @@
+{
+  "id": 5651,
+  "nome_original": "Don Juan",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "colete",
+      "calça",
+      "camisa"
+    ],
+    "material_visual": "tecido sintético com aspecto acetinado na capa e tecido plano nas demais peças",
+    "estilo_corte": "estilo colonial/renascentista com colete ajustado e camisa de mangas bufantes",
+    "acessorios_visiveis": [
+      "chapéu de aba larga",
+      "máscara",
+      "faixa na cintura"
+    ],
+    "tematica_detalhada": " شخصidade do sedutor Don Juan, referenciando a nobreza espanhola clássica com elementos de mistério"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5651.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.61,
+  "data_analise": "2026-07-28T03:14:14Z",
+  "data_criacao": "2026-07-28T00:14:14.574764-03:00"
+}

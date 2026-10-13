@@ -1,0 +1,29 @@
+{
+  "id": 435,
+  "nome_original": "Coelhinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com detalhes em pelúcia",
+    "estilo_corte": "conjunto casual com modelagem solta",
+    "acessorios_visiveis": [
+      "tiara de orelhas de coelho com laço"
+    ],
+    "tematica_detalhada": "fantasia de coelhinha infantil, com foco em elementos fofos e cores pastéis"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/435.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 180.35,
+  "data_analise": "2026-07-27T23:57:19Z",
+  "data_criacao": "2026-07-27T20:57:19.603413-03:00"
+}

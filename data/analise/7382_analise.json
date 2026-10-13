@@ -1,0 +1,32 @@
+{
+  "id": 7382,
+  "nome_original": "Patrulha Canina Chase",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "colete",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco",
+    "estilo_corte": "estilo uniforme policial infantil",
+    "acessorios_visiveis": [
+      "distintivo",
+      "emblema no chapéu",
+      "detalhes de bolsos"
+    ],
+    "tematica_detalhada": "Personagem Chase da Patrulha Canina, simulando um uniforme de cão policial"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7382.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 49.45,
+  "data_analise": "2026-07-30T02:45:18Z",
+  "data_criacao": "2026-07-29T23:45:18.596751-03:00"
+}

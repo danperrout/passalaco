@@ -1,0 +1,28 @@
+{
+  "id": 6145,
+  "nome_original": "Chinesa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "amarelo",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "modelo qipao com gola alta e corte ajustado ao corpo",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia inspirada na cultura chinesa, especificamente baseada no vestido tradicional Cheongsam/Qipao, com padrão de listras coloridas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6145.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 136.86,
+  "data_analise": "2026-07-27T21:06:15Z",
+  "data_criacao": "2026-07-27T18:06:15.998777-03:00"
+}

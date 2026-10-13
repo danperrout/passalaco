@@ -1,0 +1,24 @@
+{
+  "id": 9518,
+  "nome_original": "Alice",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim e tule",
+    "estilo_corte": "estilo boneca com saia volumosa e mangas curtas bufantes",
+    "acessorios_visiveis": [
+      "tiara com laço preto"
+    ],
+    "tematica_detalhada": "Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9518.jpg",
+  "data_analise": "2026-07-27T13:47:45Z"
+}

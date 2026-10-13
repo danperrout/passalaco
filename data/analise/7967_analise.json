@@ -1,0 +1,30 @@
+{
+  "id": 7967,
+  "nome_original": "Soldado",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde oliva",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "boina"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "macacão utilitário de peça única com gola e fechamento frontal",
+    "acessorios_visiveis": [
+      "boina preta",
+      "insígnias de gola"
+    ],
+    "tematica_detalhada": "fantasia de soldado militar genérico, com referências a uniformes de exército modernos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7967.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.8,
+  "data_analise": "2026-07-30T07:00:29Z",
+  "data_criacao": "2026-07-30T04:00:29.946323-03:00"
+}

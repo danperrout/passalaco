@@ -1,0 +1,28 @@
+{
+  "id": 8841,
+  "nome_original": "Tiana",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido com brilho/glitter e camadas de tule ou cetim",
+    "estilo_corte": "estilo princesa com saia volumosa em camadas e decote em V",
+    "acessorios_visiveis": [
+      "tiara/coroa dourada"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na Princesa Tiana do filme A Princesa e o Sapo da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8841.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 46.69,
+  "data_analise": "2026-07-30T08:05:59Z",
+  "data_criacao": "2026-07-30T05:05:59.772116-03:00"
+}

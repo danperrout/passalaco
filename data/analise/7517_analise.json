@@ -1,0 +1,30 @@
+{
+  "id": 7517,
+  "nome_original": "Conjunto Blusa e Calça",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "blusa"
+    ],
+    "material_visual": "jeans",
+    "estilo_corte": "jaqueta com botões frontais e gola",
+    "acessorios_visiveis": [
+      "apliques coloridos",
+      "patches"
+    ],
+    "tematica_detalhada": "estilo artesanal ou customizado, remetendo a personagens infantis ou fantasias lúdicas com elementos coloridos e geométricos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7517.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.29,
+  "data_analise": "2026-07-28T01:32:36Z",
+  "data_criacao": "2026-07-27T22:32:36.990571-03:00"
+}

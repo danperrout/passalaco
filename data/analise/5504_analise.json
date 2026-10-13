@@ -1,0 +1,32 @@
+{
+  "id": 5504,
+  "nome_original": "The Flash",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "vestido curto evasê com alças finas",
+    "acessorios_visiveis": [
+      "máscara ocular",
+      "braceletes dourados",
+      "cinto dourado",
+      "emblema do raio no peito"
+    ],
+    "tematica_detalhada": "Versão feminina do personagem The Flash, herói da DC Comics conhecido por sua supervelocidade"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5504.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.75,
+  "data_analise": "2026-07-30T07:44:39Z",
+  "data_criacao": "2026-07-30T04:44:39.636911-03:00"
+}

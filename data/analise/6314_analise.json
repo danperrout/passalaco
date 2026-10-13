@@ -1,0 +1,32 @@
+{
+  "id": 6314,
+  "nome_original": "Tiara Vermelha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "lilás",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara",
+      "colares"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante",
+    "estilo_corte": "estilo princesa com mangas bufantes",
+    "acessorios_visiveis": [
+      "tiara com pedras",
+      "colar de pérolas",
+      "pingente azul"
+    ],
+    "tematica_detalhada": "fantasia de princesa, com referências a personagens reais ou de contos de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6314.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.33,
+  "data_analise": "2026-07-30T08:13:01Z",
+  "data_criacao": "2026-07-30T05:13:01.620143-03:00"
+}

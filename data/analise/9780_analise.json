@@ -1,0 +1,29 @@
+{
+  "id": 9780,
+  "nome_original": "Vilma",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com aparência de tactel ou poliéster",
+    "estilo_corte": "corte assimétrico no ombro com saia curta e evasê",
+    "acessorios_visiveis": [
+      "colar de contas brancas",
+      "cinto laranja com fivelas"
+    ],
+    "tematica_detalhada": "fantasia da personagem Vilma Flintstone, inspirada na Era da Pedra e no desenho Os Flintstones"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9780.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.78,
+  "data_analise": "2026-07-30T08:51:24Z",
+  "data_criacao": "2026-07-30T05:51:24.717830-03:00"
+}

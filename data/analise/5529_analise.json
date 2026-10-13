@@ -1,0 +1,30 @@
+{
+  "id": 5529,
+  "nome_original": "Max Steel",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga longa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com aspecto elástico",
+    "estilo_corte": "ajustado ao corpo (skinny/slim fit)",
+    "acessorios_visiveis": [
+      "protetores de joelho integrados"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Max Steel, com estética futurista e tecnológica de super-herói"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5529.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 220.9,
+  "data_analise": "2026-07-29T20:55:57Z",
+  "data_criacao": "2026-07-29T17:55:57.242339-03:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 2911,
+  "nome_original": "Anjo Z",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Coroaçăo",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "asas"
+    ],
+    "material_visual": "tecido fluido e plumas",
+    "estilo_corte": "longo e esvoaçante",
+    "acessorios_visiveis": [
+      "asas de anjo"
+    ],
+    "tematica_detalhada": "Anjo celestial"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2911.jpg",
+  "data_analise": "2026-07-27T13:58:19Z"
+}

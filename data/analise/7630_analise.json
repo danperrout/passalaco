@@ -1,0 +1,30 @@
+{
+  "id": 7630,
+  "nome_original": "Cosplay",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster",
+    "estilo_corte": "estilo gótico/vitoriano com decote em cordões e mangas bufantes",
+    "acessorios_visiveis": [
+      "correntes decorativas",
+      "laços nas mangas"
+    ],
+    "tematica_detalhada": "Cosplay de estética gótica ou personagem de anime/jogo com influência vitoriana e elementos punk"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7630.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.15,
+  "data_analise": "2026-07-28T01:56:34Z",
+  "data_criacao": "2026-07-27T22:56:34.247979-03:00"
+}

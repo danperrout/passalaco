@@ -1,0 +1,28 @@
+{
+  "id": 6880,
+  "nome_original": "Suspensorio",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "suspensório"
+    ],
+    "material_visual": "tecido sintético elástico",
+    "estilo_corte": "estilo clássico em Y",
+    "acessorios_visiveis": [
+      "presilhas metálicas",
+      "reguladores de altura"
+    ],
+    "tematica_detalhada": "acessório de vestuário utilizado para segurar calças, comum em fantasias de estilo retrô, operário ou personagens caricatos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6880.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.94,
+  "data_analise": "2026-07-30T07:33:22Z",
+  "data_criacao": "2026-07-30T04:33:22.225136-03:00"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 6798,
+  "nome_original": "Mickey 8 Meses",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Mesversario",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "branco",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "touca com orelhas",
+      "casaco",
+      "camiseta",
+      "calça"
+    ],
+    "material_visual": "tecido maleável, possivelmente algodão ou poliéster",
+    "estilo_corte": "corte infantil confortável, modelagem ajustada para bebês",
+    "acessorios_visiveis": [
+      "gravata borboleta amarela",
+      "botões brancos decorativos"
+    ],
+    "tematica_detalhada": "fantasia inspirada no personagem Mickey Mouse da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6798.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 64.29,
+  "data_analise": "2026-07-29T22:24:23Z",
+  "data_criacao": "2026-07-29T19:24:23.517971-03:00"
+}

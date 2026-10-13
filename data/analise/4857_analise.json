@@ -1,0 +1,29 @@
+{
+  "id": 4857,
+  "nome_original": "Dama",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul escuro"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "corpete"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda e bordados",
+    "estilo_corte": "estilo camponesa com corpete ajustado e saia rodada",
+    "acessorios_visiveis": [
+      "peruca"
+    ],
+    "tematica_detalhada": "fantasia de dama medieval ou camponesa europeia antiga"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4857.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 31.13,
+  "data_analise": "2026-07-28T02:28:07Z",
+  "data_criacao": "2026-07-27T23:28:07.884902-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 7185,
+  "nome_original": "Nhonho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "shortall"
+    ],
+    "material_visual": "cetim brilhante",
+    "estilo_corte": "estilo infantil clássico com mangas bufantes e babados",
+    "acessorios_visiveis": [
+      "laço no pescoço",
+      "detalhes em renda branca"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Nhonho, do seriado Chaves"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7185.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 30.82,
+  "data_analise": "2026-07-29T23:34:41Z",
+  "data_criacao": "2026-07-29T20:34:41.808930-03:00"
+}

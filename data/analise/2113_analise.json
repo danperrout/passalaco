@@ -1,0 +1,29 @@
+{
+  "id": 2113,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "verde",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com rendas e fitas",
+    "estilo_corte": "vestido curto com saia rodada em camadas e mangas curtas bufantes",
+    "acessorios_visiveis": [
+      "tiara com flores e fitas"
+    ],
+    "tematica_detalhada": "Fantasia típica de Festa Junina brasileira, representando a indumentária caipira estilizada e colorida"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2113.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 37.06,
+  "data_analise": "2026-07-29T00:23:43Z",
+  "data_criacao": "2026-07-28T21:23:43.957287-03:00"
+}

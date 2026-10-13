@@ -1,0 +1,29 @@
+{
+  "id": 4605,
+  "nome_original": "Bruxa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "magenta"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu pontudo"
+    ],
+    "material_visual": "tecido translúcido e sintético, possivelmente tule ou nylon",
+    "estilo_corte": "vestido curto com volume e chapéu cônico clássico",
+    "acessorios_visiveis": [
+      "chapéu de bruxa"
+    ],
+    "tematica_detalhada": "versão estilizada e colorida de bruxa, fugindo do tradicional preto para uma estética mais fantasiosa ou infantil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4605.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.15,
+  "data_analise": "2026-07-27T18:23:40Z",
+  "data_criacao": "2026-07-27T15:23:40.326994-03:00"
+}

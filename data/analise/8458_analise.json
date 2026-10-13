@@ -1,0 +1,34 @@
+{
+  "id": 8458,
+  "nome_original": "Mascote Unicornio",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa",
+      "verde",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "máscara de cabeça",
+      "blusa branca",
+      "saia de tule"
+    ],
+    "material_visual": "tule, tecido sintético e espuma moldada",
+    "estilo_corte": "estilo boneca com saia volumosa e curta",
+    "acessorios_visiveis": [
+      "chifre de unicórnio",
+      "orelhas",
+      "peruca colorida"
+    ],
+    "tematica_detalhada": "fantasia de unicórnio estilizada com estética de boneca LOL Surprise"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8458.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 90.78,
+  "data_analise": "2026-07-29T20:33:45Z",
+  "data_criacao": "2026-07-29T17:33:45.944909-03:00"
+}

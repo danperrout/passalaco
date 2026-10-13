@@ -1,0 +1,31 @@
+{
+  "id": 364,
+  "nome_original": "Cardeal",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho escuro",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "mitra"
+    ],
+    "material_visual": "tecido sintético com aspecto aveludado e detalhes acetinados",
+    "estilo_corte": "túnica longa e ampla com mangas compridas",
+    "acessorios_visiveis": [
+      "mitra episcopal",
+      "estola"
+    ],
+    "tematica_detalhada": "clérigo da Igreja Católica, especificamente um Cardeal ou Bispo, com referências a trajes litúrgicos cristãos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/364.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.31,
+  "data_analise": "2026-07-27T19:19:21Z",
+  "data_criacao": "2026-07-27T16:19:21.283355-03:00"
+}

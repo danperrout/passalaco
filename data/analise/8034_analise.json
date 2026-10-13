@@ -1,0 +1,32 @@
+{
+  "id": 8034,
+  "nome_original": "Exercito",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde escuro",
+      "preto",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com estampa camuflada",
+    "estilo_corte": "vestido curto com cintura marcada por cinto e mangas curtas",
+    "acessorios_visiveis": [
+      "cinto com fivela",
+      "boné militar",
+      "insígnia no peito"
+    ],
+    "tematica_detalhada": "Fantasia militar estilizada, inspirada em uniformes de exército com abordagem fashion/festiva"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8034.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.06,
+  "data_analise": "2026-07-28T04:20:05Z",
+  "data_criacao": "2026-07-28T01:20:05.847521-03:00"
+}

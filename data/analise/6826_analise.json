@@ -1,0 +1,30 @@
+{
+  "id": 6826,
+  "nome_original": "Soldado",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "bermuda",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com estampa camuflada",
+    "estilo_corte": "corte reto e casual, estilo farda militar",
+    "acessorios_visiveis": [
+      "boné militar"
+    ],
+    "tematica_detalhada": "soldado do exército com camuflagem digital, referenciando forças armadas modernas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6826.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 131.05,
+  "data_analise": "2026-07-30T07:03:17Z",
+  "data_criacao": "2026-07-30T04:03:17.349007-03:00"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 3802,
+  "nome_original": "Chines",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "capa",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "cetim com estampas ornamentais",
+    "estilo_corte": "estilo oriental com gola alta e fechamento frontal por botões",
+    "acessorios_visiveis": [
+      "chapéu decorativo",
+      "trança sintética"
+    ],
+    "tematica_detalhada": "fantasia inspirada na cultura chinesa tradicional, remetendo a vestimentas imperiais ou folclóricas da China"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3802.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 39.3,
+  "data_analise": "2026-07-27T21:00:07Z",
+  "data_criacao": "2026-07-27T18:00:07.643946-03:00"
+}

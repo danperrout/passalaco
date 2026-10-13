@@ -1,0 +1,33 @@
+{
+  "id": 7546,
+  "nome_original": "Lampiao",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "camisa",
+      "calça",
+      "faixa de cintura"
+    ],
+    "material_visual": "tecido sintético com detalhes em adornos dourados",
+    "estilo_corte": "corte clássico de traje regional nordestino",
+    "acessorios_visiveis": [
+      "lenço branco",
+      "chapéu de couro estilizado",
+      "cinto/faixa com ornamentos"
+    ],
+    "tematica_detalhada": "Cangaceiro, referência ao personagem histórico Lampião e à cultura do sertão nordestino brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7546.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 54.24,
+  "data_analise": "2026-07-29T08:45:22Z",
+  "data_criacao": "2026-07-29T05:45:22.336133-03:00"
+}

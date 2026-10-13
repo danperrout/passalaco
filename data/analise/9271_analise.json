@@ -1,0 +1,29 @@
+{
+  "id": 9271,
+  "nome_original": "Mulher Aranha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "macacão completo",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado e elastano",
+    "estilo_corte": "justo ao corpo (bodycon) com mangas longas e calças integradas",
+    "acessorios_visiveis": [
+      "máscara facial"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no super-herói Homem-Aranha da Marvel, adaptada para o público feminino, apresentando a clássica teia e o símbolo da aranha no peito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9271.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.42,
+  "data_analise": "2026-07-29T23:17:28Z",
+  "data_criacao": "2026-07-29T20:17:28.505678-03:00"
+}

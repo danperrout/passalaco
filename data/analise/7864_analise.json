@@ -1,0 +1,30 @@
+{
+  "id": 7864,
+  "nome_original": "Branca de Neve",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "tule com brilho, veludo e fitas decorativas",
+    "estilo_corte": "vestido curto com saia volumosa em camadas e corpete ajustado com amarração frontal",
+    "acessorios_visiveis": [
+      "tiara com laço vermelho"
+    ],
+    "tematica_detalhada": "Branca de Neve, personagem clássica dos contos de fada da Disney"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7864.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.85,
+  "data_analise": "2026-07-27T18:21:47Z",
+  "data_criacao": "2026-07-27T15:21:47.524263-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 9786,
+  "nome_original": "India",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "amarelo ouro"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com aparência de camurça ou veludo",
+    "estilo_corte": "conjunto curto com franjas e detalhes de amarração lateral",
+    "acessorios_visiveis": [
+      "tiara com penas",
+      "colar",
+      "brincos",
+      "pulseira"
+    ],
+    "tematica_detalhada": "fantasia estilizada inspirada em estereótipos de povos indígenas das Américas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9786.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 321.42,
+  "data_analise": "2026-07-28T16:38:49Z",
+  "data_criacao": "2026-07-28T13:38:49.168111-03:00"
+}

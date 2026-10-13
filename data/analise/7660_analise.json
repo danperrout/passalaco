@@ -1,0 +1,31 @@
+{
+  "id": 7660,
+  "nome_original": "Rei Mago",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "capa com capuz",
+      "coroa"
+    ],
+    "material_visual": "tecido sintético fosco com detalhes em galão dourado e veludo na coroa",
+    "estilo_corte": "corte reto e amplo, estilo túnica longa com mangas largas",
+    "acessorios_visiveis": [
+      "coroa vermelha com bordas douradas"
+    ],
+    "tematica_detalhada": "Fantasia de Rei Mago, referenciando figuras bíblicas da Natividade ou realeza oriental antiga"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7660.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.5,
+  "data_analise": "2026-07-30T04:51:24Z",
+  "data_criacao": "2026-07-30T01:51:24.388331-03:00"
+}

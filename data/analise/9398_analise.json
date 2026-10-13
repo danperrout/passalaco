@@ -1,0 +1,30 @@
+{
+  "id": 9398,
+  "nome_original": "Coelhinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "tule, cetim e pelúcia sintética",
+    "estilo_corte": "vestido curto com saia volumosa em tule e corpete com babados",
+    "acessorios_visiveis": [
+      "tiara com orelhas de coelho",
+      "laço com pompom"
+    ],
+    "tematica_detalhada": "fantasia infantil de coelhinha, com estética delicada e referências à Páscoa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9398.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 143.6,
+  "data_analise": "2026-07-28T00:15:01Z",
+  "data_criacao": "2026-07-27T21:15:01.642877-03:00"
+}

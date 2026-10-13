@@ -1,0 +1,35 @@
+{
+  "id": 2251,
+  "nome_original": "o Maskara",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "camisa",
+      "gravata",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco",
+    "estilo_corte": "terno clássico de corte reto",
+    "acessorios_visiveis": [
+      "chapéu fedora",
+      "gravata",
+      "lenço de bolso"
+    ],
+    "tematica_detalhada": "Personagem O Máscara, baseada no filme e nos quadrinhos, caracterizada pelo icônico terno amarelo vibrante"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2251.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 44.01,
+  "data_analise": "2026-07-30T00:38:40Z",
+  "data_criacao": "2026-07-29T21:38:40.517158-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 8060,
+  "nome_original": "Conde Dracula",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vinho"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "colete",
+      "calça"
+    ],
+    "material_visual": "acetinado e veludo",
+    "estilo_corte": "estilo vitoriano com gola alta estruturada",
+    "acessorios_visiveis": [
+      "broche vermelho",
+      "jabot decorativo"
+    ],
+    "tematica_detalhada": "Vampiro clássico, especificamente inspirada no personagem Conde Drácula"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8060.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 41.1,
+  "data_analise": "2026-07-28T01:20:33Z",
+  "data_criacao": "2026-07-27T22:20:33.552644-03:00"
+}

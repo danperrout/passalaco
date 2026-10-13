@@ -1,0 +1,28 @@
+{
+  "id": 9547,
+  "nome_original": "Boneca do Mal",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com renda e tule",
+    "estilo_corte": "vestido curto com gola Peter Pan e saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "tiara com laço"
+    ],
+    "tematica_detalhada": "Boneca do Mal, inspirada em estéticas góticas e personagens de filmes de terror como Annabelle ou Chucky"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9547.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.34,
+  "data_analise": "2026-07-27T18:18:21Z",
+  "data_criacao": "2026-07-27T15:18:21.500548-03:00"
+}

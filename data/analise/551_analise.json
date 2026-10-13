@@ -1,0 +1,28 @@
+{
+  "id": 551,
+  "nome_original": "Elvis",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão"
+    ],
+    "material_visual": "tecido sintético com brilho e aplicações decorativas",
+    "estilo_corte": "macacão justo ao corpo com calça boca de sino",
+    "acessorios_visiveis": [
+      "cinto branco com fivela ornamentada"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em Elvis Presley, especificamente no estilo de seus shows em Las Vegas nos anos 70"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/551.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 19.77,
+  "data_analise": "2026-07-28T03:41:13Z",
+  "data_criacao": "2026-07-28T00:41:13.434693-03:00"
+}

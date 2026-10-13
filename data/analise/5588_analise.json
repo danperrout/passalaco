@@ -1,0 +1,30 @@
+{
+  "id": 5588,
+  "nome_original": "Odalisca",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Dourado"
+    ],
+    "pecas_inclusas": [
+      "Top",
+      "Saia"
+    ],
+    "material_visual": "Tecido sintético com lantejoulas e franjas metálicas",
+    "estilo_corte": "Conjunto de duas peças com saia assimétrica e rasgada na barra",
+    "acessorios_visiveis": [
+      "Tiara dourada",
+      "Correntes decorativas no busto"
+    ],
+    "tematica_detalhada": "Fantasia de Odalisca com referências à dança do ventre e cultura árabe estilizada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5588.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.69,
+  "data_analise": "2026-07-30T00:43:48Z",
+  "data_criacao": "2026-07-29T21:43:48.973516-03:00"
+}

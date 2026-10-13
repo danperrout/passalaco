@@ -1,0 +1,32 @@
+{
+  "id": 6793,
+  "nome_original": "Arlequina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "top",
+      "short"
+    ],
+    "material_visual": "tecido sintético brilhante, possivelmente cetim ou poliéster",
+    "estilo_corte": "ajustado ao corpo (slim fit) com jaqueta bomber",
+    "acessorios_visiveis": [
+      "choker dourado",
+      "cinto com tachas",
+      "pulseiras douradas"
+    ],
+    "tematica_detalhada": "Personagem Arlequina (Harley Quinn) da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6793.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 16.07,
+  "data_analise": "2026-07-27T16:53:38Z",
+  "data_criacao": "2026-07-27T13:53:38.152166-03:00"
+}

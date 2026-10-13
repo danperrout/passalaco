@@ -1,0 +1,27 @@
+{
+  "id": 8849,
+  "nome_original": "Anjo Negro",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "asas",
+      "tiara"
+    ],
+    "material_visual": "tule e tecidos sintéticos",
+    "estilo_corte": "curto com saia fluida e decote em V",
+    "acessorios_visiveis": [
+      "colar",
+      "tiara de penas",
+      "asas negras"
+    ],
+    "tematica_detalhada": "Anjo Negro/Gótico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8849.jpg",
+  "data_analise": "2026-07-27T13:58:14Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 5947,
+  "nome_original": "Minions",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga longa",
+      "macacão",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com aspecto de poliéster",
+    "estilo_corte": "modelagem solta com macacão estilo jardineira",
+    "acessorios_visiveis": [
+      "óculos característicos",
+      "touca amarela"
+    ],
+    "tematica_detalhada": "Personagens Minions da franquia de filmes Meu Malvado Favorito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5947.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 29.65,
+  "data_analise": "2026-07-29T22:28:58Z",
+  "data_criacao": "2026-07-29T19:28:58.693155-03:00"
+}

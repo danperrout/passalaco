@@ -1,0 +1,28 @@
+{
+  "id": 6030,
+  "nome_original": "Batgirl",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco",
+    "estilo_corte": "justo ao corpo, estilo vestido curto",
+    "acessorios_visiveis": [
+      "emblema do morcego no peito"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Batgirl, inspirada nos quadrinhos e filmes da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6030.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.12,
+  "data_analise": "2026-07-27T17:48:25Z",
+  "data_criacao": "2026-07-27T14:48:25.742782-03:00"
+}

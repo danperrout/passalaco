@@ -1,0 +1,29 @@
+{
+  "id": 5884,
+  "nome_original": "Dinossauro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético felpudo ou plush",
+    "estilo_corte": "estilo kigurumi ou macacão inteiro",
+    "acessorios_visiveis": [
+      "cauda"
+    ],
+    "tematica_detalhada": "fantasia de dinossauro estilizada, com design infantil e lúdico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5884.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.51,
+  "data_analise": "2026-07-28T03:06:12Z",
+  "data_criacao": "2026-07-28T00:06:12.974982-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 8786,
+  "nome_original": "Lobo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "jaqueta",
+      "calça"
+    ],
+    "material_visual": "pelúcia sintética e tecido sintético brilhante",
+    "estilo_corte": "ajustado com detalhes rasgados na calça e gola de pelos",
+    "acessorios_visiveis": [
+      "máscara de lobisomem com dentes expostos"
+    ],
+    "tematica_detalhada": "Lobisomem clássico, referenciando criaturas folclóricas de terror e cinema"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8786.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 68.32,
+  "data_analise": "2026-07-29T11:55:41Z",
+  "data_criacao": "2026-07-29T08:55:41.223186-03:00"
+}

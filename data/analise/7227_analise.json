@@ -1,0 +1,25 @@
+{
+  "id": 7227,
+  "nome_original": "Asa Preta",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "par de asas"
+    ],
+    "material_visual": "penas sintéticas ou penas naturais",
+    "estilo_corte": "formato de asas com textura volumosa e desfiada",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia de pássaro ou personagem alado, possivelmente inspirada em aves como corvo ou pássaros exóticos de cor vermelha."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7227.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 10.84,
+  "data_analise": "2026-07-27T16:54:55Z",
+  "data_criacao": "2026-07-27T13:54:55.441339-03:00"
+}

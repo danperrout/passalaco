@@ -1,0 +1,31 @@
+{
+  "id": 6054,
+  "nome_original": "Gangster",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "sobretudo",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com textura de micro-pontos ou risca de giz",
+    "estilo_corte": "alfaiataria clássica com corte reto e longo",
+    "acessorios_visiveis": [
+      "chapéu estilo fedora"
+    ],
+    "tematica_detalhada": "Gangster dos anos 20/30, referenciando a era da Lei Seca e a máfia clássica americana"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6054.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 58.29,
+  "data_analise": "2026-07-28T07:00:31Z",
+  "data_criacao": "2026-07-28T04:00:31.356147-03:00"
+}

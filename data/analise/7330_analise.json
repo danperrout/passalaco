@@ -1,0 +1,21 @@
+{
+  "id": 7330,
+  "nome_original": "2 Saia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "saia"
+    ],
+    "material_visual": "tule",
+    "estilo_corte": "estilo tutu volumoso",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "saia de ballet ou fantasia de personagem gótica/dark"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7330.jpg",
+  "data_analise": "2026-07-27T14:17:01Z"
+}

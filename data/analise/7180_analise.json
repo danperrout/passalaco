@@ -1,0 +1,33 @@
+{
+  "id": 7180,
+  "nome_original": "Visconde de Sabugosa",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde escuro",
+      "amarelo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "chapéu",
+      "colete",
+      "camisa"
+    ],
+    "material_visual": "tecido sintético fosco e textura granulada no colete",
+    "estilo_corte": "estilo clássico aristocrático com paletó aberto e corte reto na calça",
+    "acessorios_visiveis": [
+      "chapéu de aba"
+    ],
+    "tematica_detalhada": "Personagem Visconde de Sabugosa do Sítio do Picapau Amarelo, representando a nobreza caricata"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7180.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.2,
+  "data_analise": "2026-07-30T08:51:45Z",
+  "data_criacao": "2026-07-30T05:51:45.331154-03:00"
+}

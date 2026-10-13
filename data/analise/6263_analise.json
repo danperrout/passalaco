@@ -1,0 +1,26 @@
+{
+  "id": 6263,
+  "nome_original": "Anos 60",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho",
+    "estilo_corte": "estilo rodado com cintura marcada",
+    "acessorios_visiveis": [
+      "tiara com laço",
+      "colar de pérolas"
+    ],
+    "tematica_detalhada": "estética retro anos 60 com estampa de poá"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6263.jpg",
+  "data_analise": "2026-07-27T13:58:55Z"
+}

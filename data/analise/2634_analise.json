@@ -1,0 +1,31 @@
+{
+  "id": 2634,
+  "nome_original": "Paleto",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "camiseta",
+      "calça",
+      "boné"
+    ],
+    "material_visual": "tecido sintético ou alfaiataria para o paletó e denim para a calça",
+    "estilo_corte": "paletó de corte reto com lapelas clássicas e calça justa",
+    "acessorios_visiveis": [
+      "boné preto"
+    ],
+    "tematica_detalhada": "look casual moderno com toque excêntrico devido à cor vibrante do paletó, podendo remeter a personagens urbanos ou estilos fashionistas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2634.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.16,
+  "data_analise": "2026-07-30T01:27:30Z",
+  "data_criacao": "2026-07-29T22:27:30.336130-03:00"
+}

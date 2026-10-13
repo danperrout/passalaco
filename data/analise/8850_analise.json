@@ -1,0 +1,36 @@
+{
+  "id": 8850,
+  "nome_original": "She-ra e He-man",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "estola/capa",
+      "peitoral",
+      "tangas"
+    ],
+    "material_visual": "tecidos sintéticos com acabamento acetinado e detalhes metálicos",
+    "estilo_corte": "estilo guerreiro fantástico com cortes assimétricos e cinturas marcadas",
+    "acessorios_visiveis": [
+      "tiara",
+      "colar",
+      "braceletes",
+      "cinto",
+      "ombreira"
+    ],
+    "tematica_detalhada": "Personagens She-Ra e He-Man da franquia Mestres do Universo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8850.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 111.63,
+  "data_analise": "2026-07-30T06:25:56Z",
+  "data_criacao": "2026-07-30T03:25:56.021688-03:00"
+}

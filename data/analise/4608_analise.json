@@ -1,0 +1,34 @@
+{
+  "id": 4608,
+  "nome_original": "Ezio Auditore",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "cinza"
+    ],
+    "pecas_inclusas": [
+      "túnica com capuz",
+      "calças",
+      "protetores de braço",
+      "cinto ornamentado"
+    ],
+    "material_visual": "tecido sintético com acabamentos que simulam couro e metal",
+    "estilo_corte": "estilo renascentista com túnica longa e capuz pontudo",
+    "acessorios_visiveis": [
+      "bandoleira",
+      "braceletes",
+      "cinto largo"
+    ],
+    "tematica_detalhada": "Personagem Ezio Auditore da franquia de jogos Assassin's Creed, representando a Ordem dos Assassinos no período do Renascimento Italiano"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4608.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 64.56,
+  "data_analise": "2026-07-28T04:29:31Z",
+  "data_criacao": "2026-07-28T01:29:31.305704-03:00"
+}

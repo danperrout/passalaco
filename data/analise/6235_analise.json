@@ -1,0 +1,32 @@
+{
+  "id": 6235,
+  "nome_original": "Kika",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "touca"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster",
+    "estilo_corte": "estilo marinheiro com gola larga e saia plissada",
+    "acessorios_visiveis": [
+      "gravata vermelha",
+      "touca colorida"
+    ],
+    "tematica_detalhada": "fantasia infantil inspirada em trajes de marinheiro, com elementos coloridos e lúdicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6235.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.04,
+  "data_analise": "2026-07-29T08:05:05Z",
+  "data_criacao": "2026-07-29T05:05:05.070408-03:00"
+}

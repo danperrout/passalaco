@@ -1,0 +1,31 @@
+{
+  "id": 5035,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "rosa",
+      "verde",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia"
+    ],
+    "material_visual": "tecidos sintéticos, tule e fitas de cetim",
+    "estilo_corte": "vestido curto com saia volumosa em camadas e blusa ajustada",
+    "acessorios_visiveis": [
+      "tiara com flor e fitas"
+    ],
+    "tematica_detalhada": "Fantasia de festa junina infantil, caracterizando a figura da noivinha ou caipirinha estilizada, com referências ao folclore rural brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5035.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.05,
+  "data_analise": "2026-07-29T00:08:32Z",
+  "data_criacao": "2026-07-28T21:08:32.900531-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 6286,
+  "nome_original": "Pequeno Principe",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul royal",
+      "dourado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "cetim brilhante",
+    "estilo_corte": "estilo militar imperial com lapelas decoradas",
+    "acessorios_visiveis": [
+      "coroa dourada"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem O Pequeno Príncipe, com elementos de realeza"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6286.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 49.65,
+  "data_analise": "2026-07-30T02:58:34Z",
+  "data_criacao": "2026-07-29T23:58:34.762626-03:00"
+}

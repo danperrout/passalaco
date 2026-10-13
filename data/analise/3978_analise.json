@@ -1,0 +1,34 @@
+{
+  "id": 3978,
+  "nome_original": "Mascote Galinha Pintadinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "laranja",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "máscara de cabeça",
+      "corpo inflável/estofado",
+      "luvas",
+      "sapatos de pata"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "oversized/estilo mascote",
+    "acessorios_visiveis": [
+      "crista vermelha",
+      "papada vermelha",
+      "detalhes brancos no pescoço"
+    ],
+    "tematica_detalhada": "Personagem Galinha Pintadinha, referência a série musical infantil brasileira"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3978.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 28.56,
+  "data_analise": "2026-07-29T19:36:01Z",
+  "data_criacao": "2026-07-29T16:36:01.885102-03:00"
+}

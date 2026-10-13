@@ -1,0 +1,29 @@
+{
+  "id": 7153,
+  "nome_original": "Can Can",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "acessório de cabeça"
+    ],
+    "material_visual": "tecido sintético com babados e rendas",
+    "estilo_corte": "estilo cabaret com saia curta volumosa e decote",
+    "acessorios_visiveis": [
+      "tiara com enfeite",
+      "colar de pérolas"
+    ],
+    "tematica_detalhada": "Dançarina de Can Can, inspirada nos espetáculos de cabaret e música francesa do século XIX"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7153.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.02,
+  "data_analise": "2026-07-27T18:52:48Z",
+  "data_criacao": "2026-07-27T15:52:48.636435-03:00"
+}

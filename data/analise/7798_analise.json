@@ -1,0 +1,30 @@
+{
+  "id": 7798,
+  "nome_original": "Ovelha",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "estilo kigurumi ou macacão folgado",
+    "acessorios_visiveis": [
+      "laço de fita branco",
+      "orelhas de ovelha"
+    ],
+    "tematica_detalhada": "fantasia de animal, representando uma ovelha ou cordeiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7798.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 360.27,
+  "data_analise": "2026-07-30T01:15:44Z",
+  "data_criacao": "2026-07-29T22:15:44.880368-03:00"
+}

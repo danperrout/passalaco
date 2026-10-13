@@ -1,0 +1,30 @@
+{
+  "id": 6280,
+  "nome_original": "Can Can",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "estilo corpete"
+    ],
+    "material_visual": "cetim e babados de tule ou organza",
+    "estilo_corte": "estilo can can com saia curta volumosa e babados",
+    "acessorios_visiveis": [
+      "fascinator floral",
+      "choker"
+    ],
+    "tematica_detalhada": "dançarina de Can Can, inspirada nos cabarés franceses do século XIX"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6280.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.73,
+  "data_analise": "2026-07-27T18:52:52Z",
+  "data_criacao": "2026-07-27T15:52:52.634893-03:00"
+}

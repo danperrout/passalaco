@@ -1,0 +1,31 @@
+{
+  "id": 5359,
+  "nome_original": "Condessa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "manto",
+      "vestido",
+      "coroa"
+    ],
+    "material_visual": "tecido sintético aveludado com bordados metálicos",
+    "estilo_corte": "longo com mangas amplas e gola adornada",
+    "acessorios_visiveis": [
+      "coroa preta"
+    ],
+    "tematica_detalhada": "fantasia de nobreza gótica ou vampírica, remetendo a uma condessa ou rainha sombria"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5359.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.07,
+  "data_analise": "2026-07-28T01:29:38Z",
+  "data_criacao": "2026-07-27T22:29:38.815185-03:00"
+}

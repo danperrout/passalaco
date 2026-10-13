@@ -1,0 +1,31 @@
+{
+  "id": 4060,
+  "nome_original": "Mario",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Cosplay",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido jardineira",
+      "camiseta",
+      "boné"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster ou algodão",
+    "estilo_corte": "estilo jardineira com saia plissada e camiseta de manga curta",
+    "acessorios_visiveis": [
+      "boné com logo",
+      "botões amarelos decorativos"
+    ],
+    "tematica_detalhada": "Fantasia feminina inspirada no personagem Mario, da franquia Super Mario da Nintendo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4060.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 124.17,
+  "data_analise": "2026-07-29T18:27:15Z",
+  "data_criacao": "2026-07-29T15:27:15.403218-03:00"
+}

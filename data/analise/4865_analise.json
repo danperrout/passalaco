@@ -1,0 +1,28 @@
+{
+  "id": 4865,
+  "nome_original": "Fada",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Fadas/Duendes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule e tecido sintético acetinado",
+    "estilo_corte": "estilo princesa com saia volumosa em camadas e decote reto",
+    "acessorios_visiveis": [
+      "tiara de flores"
+    ],
+    "tematica_detalhada": "fada da natureza ou primavera, com referências a elementos florais e cores vibrantes de jardim"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4865.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 25.19,
+  "data_analise": "2026-07-28T04:35:50Z",
+  "data_criacao": "2026-07-28T01:35:50.809101-03:00"
+}

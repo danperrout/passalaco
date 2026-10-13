@@ -1,0 +1,29 @@
+{
+  "id": 7236,
+  "nome_original": "Emilia",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético com acabamento em renda na barra",
+    "estilo_corte": "vestido curto com mangas bufantes e design bicolor dividido verticalmente",
+    "acessorios_visiveis": [
+      "peruca laranja cacheada"
+    ],
+    "tematica_detalhada": "Personagem Emília, do livro Sítio do Picapau Amarelo, de Monteiro Lobato"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7236.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 56.03,
+  "data_analise": "2026-07-28T03:45:57Z",
+  "data_criacao": "2026-07-28T00:45:57.199470-03:00"
+}

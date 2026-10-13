@@ -1,0 +1,27 @@
+{
+  "id": 9211,
+  "nome_original": "Feioso Wandinha",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga longa",
+      "bermuda"
+    ],
+    "material_visual": "tecido sintético com aparência de malha ou poliéster",
+    "estilo_corte": "corte reto e folgado",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Personagem Feioso (Pugsley) da série Wandinha, caracterizado por roupas simples e estampas contrastantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9211.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 53.16,
+  "data_analise": "2026-07-28T05:33:07Z",
+  "data_criacao": "2026-07-28T02:33:07.306393-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 5667,
+  "nome_original": "Marinheiro",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul marinho"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "bermuda",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster",
+    "estilo_corte": "corte reto com gola marinheiro característica",
+    "acessorios_visiveis": [
+      "quepe de marinheiro"
+    ],
+    "tematica_detalhada": "fantasia clássica de marinheiro, inspirada em uniformes navais tradicionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5667.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 94.76,
+  "data_analise": "2026-07-29T18:01:10Z",
+  "data_criacao": "2026-07-29T15:01:10.341322-03:00"
+}

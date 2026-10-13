@@ -1,0 +1,31 @@
+{
+  "id": 7770,
+  "nome_original": "Lol",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul",
+      "rosa",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule e tecido sintético acetinado",
+    "estilo_corte": "vestido curto com saia volumosa em camadas (estilo tutu)",
+    "acessorios_visiveis": [
+      "tiara com auréola dourada",
+      "peruca castanha"
+    ],
+    "tematica_detalhada": "fantasia infantil estilizada, possivelmente inspirada em personagens de anjo ou bonecas Lol Surprise devido às cores vibrantes e ao acessório de cabeça"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7770.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 144.29,
+  "data_analise": "2026-07-29T12:15:34Z",
+  "data_criacao": "2026-07-29T09:15:34.183685-03:00"
+}

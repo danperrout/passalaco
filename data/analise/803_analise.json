@@ -1,0 +1,31 @@
+{
+  "id": 803,
+  "nome_original": "Lobo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "cinza"
+    ],
+    "pecas_inclusas": [
+      "máscara de lobo",
+      "camiseta",
+      "jardineira"
+    ],
+    "material_visual": "tecido sintético e material plástico/borracha para a máscara",
+    "estilo_corte": "casual com jardineira de alças ajustáveis",
+    "acessorios_visiveis": [
+      "máscara com orelhas e pelos"
+    ],
+    "tematica_detalhada": "fantasia de lobo antropomórfico, possivelmente referenciando o personagem Lobo Mau de Chapeuzinho Vermelho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/803.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 96.0,
+  "data_analise": "2026-07-29T11:57:17Z",
+  "data_criacao": "2026-07-29T08:57:17.511365-03:00"
+}

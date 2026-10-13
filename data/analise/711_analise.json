@@ -1,0 +1,28 @@
+{
+  "id": 711,
+  "nome_original": "Homem Aranha",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "macacão completo com máscara"
+    ],
+    "material_visual": "tecido sintético elástico com brilho leve",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "máscara integrada"
+    ],
+    "tematica_detalhada": "Super-herói Homem-Aranha da Marvel Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/711.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 54.57,
+  "data_analise": "2026-07-28T13:54:50Z",
+  "data_criacao": "2026-07-28T10:54:50.171022-03:00"
+}

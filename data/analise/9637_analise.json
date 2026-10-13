@@ -1,0 +1,34 @@
+{
+  "id": 9637,
+  "nome_original": "Corvo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaco longo",
+      "capa curta",
+      "cinturão",
+      "cartola",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster ou oxford",
+    "estilo_corte": "estilo vitoriano com corte reto e botões frontais",
+    "acessorios_visiveis": [
+      "botões dourados",
+      "máscara facial",
+      "chapéu cartola"
+    ],
+    "tematica_detalhada": "estética gótica vitoriana, remetendo a personagens sombrios como o Corvo ou figuras de mistério e suspense"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9637.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 80.29,
+  "data_analise": "2026-07-28T01:56:05Z",
+  "data_criacao": "2026-07-27T22:56:05.822613-03:00"
+}

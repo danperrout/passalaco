@@ -1,0 +1,27 @@
+{
+  "id": 3034,
+  "nome_original": "Africano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "chapéu"
+    ],
+    "material_visual": "tecido com estampas geométricas",
+    "estilo_corte": "túnica solta com corte reto",
+    "acessorios_visiveis": [
+      "colar dourado",
+      "touca estampada"
+    ],
+    "tematica_detalhada": "estética inspirada em trajes tradicionais africanos com padrões étnicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3034.jpg",
+  "data_analise": "2026-07-27T13:37:32Z"
+}

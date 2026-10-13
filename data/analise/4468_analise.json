@@ -1,0 +1,27 @@
+{
+  "id": 4468,
+  "nome_original": "Carrossel",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho e detalhes metálicos",
+    "estilo_corte": "curto com volume na saia e ajuste ao corpo no busto",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Inspiração em carrossel clássico, utilizando cores vibrantes e elementos que remetem a ornamentos circenses ou festivos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4468.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.89,
+  "data_analise": "2026-07-27T19:28:58Z",
+  "data_criacao": "2026-07-27T16:28:58.801608-03:00"
+}

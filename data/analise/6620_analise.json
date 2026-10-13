@@ -1,0 +1,30 @@
+{
+  "id": 6620,
+  "nome_original": "Thor",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul escuro",
+      "vermelho",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capa"
+    ],
+    "material_visual": "tecido sintético com impressões digitais e detalhes em cetim",
+    "estilo_corte": "ajustado ao corpo, estilo traje de super-herói",
+    "acessorios_visiveis": [
+      "martelo Mjölnir"
+    ],
+    "tematica_detalhada": "Thor, o Deus do Trovão, baseado na versão dos filmes da Marvel Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6620.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 350.61,
+  "data_analise": "2026-07-30T07:54:56Z",
+  "data_criacao": "2026-07-30T04:54:56.002440-03:00"
+}

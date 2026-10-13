@@ -1,0 +1,29 @@
+{
+  "id": 9789,
+  "nome_original": "Coelhinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "ajustado ao corpo com detalhe de corset frontal e saia evasê",
+    "acessorios_visiveis": [
+      "tiara de orelhas de coelho",
+      "gravata borboleta"
+    ],
+    "tematica_detalhada": "fantasia de coelhinha estilizada, com referências a trajes de entretenimento e estética pin-up"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9789.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 77.82,
+  "data_analise": "2026-07-28T00:20:21Z",
+  "data_criacao": "2026-07-27T21:20:21.349623-03:00"
+}

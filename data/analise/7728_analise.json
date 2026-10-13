@@ -1,0 +1,33 @@
+{
+  "id": 7728,
+  "nome_original": "Principe",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "dourado",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "estilo militar antigo com gola alta e detalhes ornamentais",
+    "acessorios_visiveis": [
+      "chapéu",
+      "faixa na cintura",
+      "dragonas decorativas"
+    ],
+    "tematica_detalhada": "Príncipe ou Nobre de época, com referências a uniformes militares europeus do século XVIII e XIX"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7728.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.66,
+  "data_analise": "2026-07-30T04:13:19Z",
+  "data_criacao": "2026-07-30T01:13:19.760016-03:00"
+}

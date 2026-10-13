@@ -1,0 +1,27 @@
+{
+  "id": 8838,
+  "nome_original": "Alemăo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "marrom",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "suspensórios",
+      "camisa"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "tradicional bávaro",
+    "acessorios_visiveis": [
+      "chapéu típico"
+    ],
+    "tematica_detalhada": "fantasia típica alemã de Oktoberfest"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8838.jpg",
+  "data_analise": "2026-07-27T13:44:11Z"
+}

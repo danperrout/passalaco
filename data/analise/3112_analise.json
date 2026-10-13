@@ -1,0 +1,33 @@
+{
+  "id": 3112,
+  "nome_original": "Patata",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "jaqueta",
+      "calça",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster",
+    "estilo_corte": "corte largo e volumoso, estilo cartoon",
+    "acessorios_visiveis": [
+      "laço amarelo",
+      "botões dourados"
+    ],
+    "tematica_detalhada": "fantasia inspirada em personagens lúdicos ou folclóricos, com cores vibrantes que remetem a trajes de circo ou figuras fantásticas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3112.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 33.07,
+  "data_analise": "2026-07-30T02:33:31Z",
+  "data_criacao": "2026-07-29T23:33:31.905779-03:00"
+}

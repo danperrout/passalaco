@@ -1,0 +1,34 @@
+{
+  "id": 1541,
+  "nome_original": "Oncinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia",
+      "tiara",
+      "luvas",
+      "meias"
+    ],
+    "material_visual": "tecido com estampa animal print e tule",
+    "estilo_corte": "blusa ajustada com gola alta e saia volumosa estilo tutu",
+    "acessorios_visiveis": [
+      "tiara com orelhas",
+      "luvas sem dedos",
+      "meias cano curto"
+    ],
+    "tematica_detalhada": "fantasia de onça ou leopardo, inspirada em felinos selvagens"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1541.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 37.86,
+  "data_analise": "2026-07-30T00:56:30Z",
+  "data_criacao": "2026-07-29T21:56:30.991016-03:00"
+}

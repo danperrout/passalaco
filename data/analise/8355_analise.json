@@ -1,0 +1,34 @@
+{
+  "id": 8355,
+  "nome_original": "Madrasta Branca de Neve",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa",
+      "coroa",
+      "gola"
+    ],
+    "material_visual": "cetim ou tecido sintético com brilho",
+    "estilo_corte": "vestido longo com cintura marcada e capa fluida",
+    "acessorios_visiveis": [
+      "coroa dourada",
+      "cinto dourado",
+      "gola branca alta"
+    ],
+    "tematica_detalhada": "Madrasta da Branca de Neve / Rainha Má, inspirada em contos de fadas e animações clássicas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8355.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 331.94,
+  "data_analise": "2026-07-29T13:19:18Z",
+  "data_criacao": "2026-07-29T10:19:18.930232-03:00"
+}

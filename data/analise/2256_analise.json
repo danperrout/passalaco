@@ -1,0 +1,30 @@
+{
+  "id": 2256,
+  "nome_original": "Bombeiro",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "capacete"
+    ],
+    "material_visual": "tecido sintético fosco e plástico rígido no capacete",
+    "estilo_corte": "conjunto de duas peças com corte reto e detalhes refletivos nas extremidades",
+    "acessorios_visiveis": [
+      "capacete de bombeiro"
+    ],
+    "tematica_detalhada": "fantasia de bombeiro clássica, referenciando a profissão de combate a incêndio com as cores tradicionais de segurança"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2256.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.2,
+  "data_analise": "2026-07-27T18:17:28Z",
+  "data_criacao": "2026-07-27T15:17:28.316587-03:00"
+}

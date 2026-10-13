@@ -1,0 +1,28 @@
+{
+  "id": 2838,
+  "nome_original": "Bela",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético brilhante com aspecto de cetim ou organza",
+    "estilo_corte": "vestido de baile com saia volumosa e decote coração",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "Personagem Bela, do conto de fadas A Bela e a Fera, representando a versão do baile"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2838.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.23,
+  "data_analise": "2026-07-27T17:51:44Z",
+  "data_criacao": "2026-07-27T14:51:44.306043-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 5031,
+  "nome_original": "Soldado Romano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Gregas/Romanos",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "capacete"
+    ],
+    "material_visual": "tecido leve e sintético com detalhes metálicos plásticos",
+    "estilo_corte": "estilo toga drapeada com um ombro exposto",
+    "acessorios_visiveis": [
+      "capacete romano",
+      "braceletes dourados"
+    ],
+    "tematica_detalhada": "Soldado ou Guerreiro Romano da Antiguidade Clássica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5031.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 87.28,
+  "data_analise": "2026-07-30T07:07:26Z",
+  "data_criacao": "2026-07-30T04:07:26.117660-03:00"
+}

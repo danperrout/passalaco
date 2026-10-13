@@ -1,0 +1,27 @@
+{
+  "id": 7407,
+  "nome_original": "Detetive do Predio Azul",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "casaco/sobretudo"
+    ],
+    "material_visual": "tecido sintético ou sarja",
+    "estilo_corte": "estilo sobretudo com cintura marcada por faixa",
+    "acessorios_visiveis": [
+      "broche/distintivo"
+    ],
+    "tematica_detalhada": "Fantasia inspirada nos personagens da série 'Detetives do Prédio Azul' (DPA), especificamente referenciando a cor verde de um dos detetives."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7407.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.71,
+  "data_analise": "2026-07-28T02:51:25Z",
+  "data_criacao": "2026-07-27T23:51:25.516755-03:00"
+}

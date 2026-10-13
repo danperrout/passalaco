@@ -1,0 +1,31 @@
+{
+  "id": 7720,
+  "nome_original": "Noivo Cadaver",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "camisa"
+    ],
+    "material_visual": "tecido sintético acetinado com detalhes em renda",
+    "estilo_corte": "terno slim fit com barra irregular e rasgada",
+    "acessorios_visiveis": [
+      "gravata",
+      "broche/flor de lapela"
+    ],
+    "tematica_detalhada": "Fantasia de Noivo Cadáver, inspirada no personagem Victor Van Dort do filme 'A Noiva Cadáver' de Tim Burton"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7720.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 57.44,
+  "data_analise": "2026-07-30T00:35:50Z",
+  "data_criacao": "2026-07-29T21:35:50.999723-03:00"
+}

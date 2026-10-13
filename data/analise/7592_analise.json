@@ -1,0 +1,31 @@
+{
+  "id": 7592,
+  "nome_original": "Pica Pau",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "bermuda",
+      "máscara/touca"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster",
+    "estilo_corte": "corte casual, modelagem solta",
+    "acessorios_visiveis": [
+      "máscara de personagem com bico e crista"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Pica-Pau, clássico personagem de animação"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7592.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.84,
+  "data_analise": "2026-07-30T03:24:36Z",
+  "data_criacao": "2026-07-30T00:24:36.975407-03:00"
+}

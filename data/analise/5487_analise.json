@@ -1,0 +1,34 @@
+{
+  "id": 5487,
+  "nome_original": "Farao",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "cinto com aba",
+      "colar",
+      "touca"
+    ],
+    "material_visual": "tecido sintético com detalhes em cetim ou laminado dourado",
+    "estilo_corte": "corte reto e amplo, inspirado em vestimentas antigas",
+    "acessorios_visiveis": [
+      "colar egípcio",
+      "véu amarelo",
+      "touca decorativa"
+    ],
+    "tematica_detalhada": "Fantasia de Faraó do Antigo Egito, referenciando a realeza egípcia com cores simbólicas de poder e pureza"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5487.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 261.81,
+  "data_analise": "2026-07-28T05:12:32Z",
+  "data_criacao": "2026-07-28T02:12:32.344176-03:00"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 6576,
+  "nome_original": "Panico",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica com capuz"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte longo, amplo e fluido",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Personagem Ghostface da franquia de filmes Pânico (Scream), representando a vestimenta clássica de assassino mascarado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6576.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.29,
+  "data_analise": "2026-07-30T01:59:09Z",
+  "data_criacao": "2026-07-29T22:59:09.834909-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 8856,
+  "nome_original": "Palhaço Pesadelo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "jaqueta",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado e detalhes em feltro",
+    "estilo_corte": "corte largo com listras verticais e gola rulê franzida",
+    "acessorios_visiveis": [
+      "pompons vermelhos",
+      "peruca preta"
+    ],
+    "tematica_detalhada": "Palhaço de terror, com forte referência visual ao personagem Pennywise do filme 'It: A Coisa'"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8856.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 48.2,
+  "data_analise": "2026-07-30T01:57:26Z",
+  "data_criacao": "2026-07-29T22:57:26.843102-03:00"
+}

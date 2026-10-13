@@ -1,0 +1,32 @@
+{
+  "id": 336,
+  "nome_original": "Medieval",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja terroso",
+      "bege",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "camisa de mangas bufantes",
+      "calças"
+    ],
+    "material_visual": "tecido sintético fosco, similar a linho ou poliéster",
+    "estilo_corte": "corte medieval com túnica curta e irregular na barra, mangas bufantes e calças soltas",
+    "acessorios_visiveis": [
+      "cinto preto com fivela metálica",
+      "detalhe de amarração em x no peito"
+    ],
+    "tematica_detalhada": "fantasia medieval camponesa ou de aventureiro, remetendo a personagens de RPG ou feiras renascentistas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/336.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.69,
+  "data_analise": "2026-07-29T21:08:28Z",
+  "data_criacao": "2026-07-29T18:08:28.525708-03:00"
+}

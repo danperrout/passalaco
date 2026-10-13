@@ -1,0 +1,31 @@
+{
+  "id": 5161,
+  "nome_original": "Holandesa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "blusa branca",
+      "vestido estilo dirndl",
+      "saia com babados"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda",
+    "estilo_corte": "estilo camponesa europeia com corpete ajustado e saia rodada",
+    "acessorios_visiveis": [
+      "tiara de flores"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em trajes típicos europeus, referenciando a cultura holandesa ou alemã (Dirndl)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5161.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 402.8,
+  "data_analise": "2026-07-28T13:51:49Z",
+  "data_criacao": "2026-07-28T10:51:49.409052-03:00"
+}

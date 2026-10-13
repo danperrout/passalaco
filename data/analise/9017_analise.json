@@ -1,0 +1,28 @@
+{
+  "id": 9017,
+  "nome_original": "Junina Mf",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "azul claro"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com texturas em renda e babados",
+    "estilo_corte": "vestido curto com decote ombro a ombro, mangas bufantes e saia em camadas de babados",
+    "acessorios_visiveis": [
+      "mini chapéu de palha com fitas coloridas"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, estilizada como traje de caipira moderno/festivo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9017.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14796.78,
+  "data_analise": "2026-07-29T06:26:25Z",
+  "data_criacao": "2026-07-29T03:26:25.483036-03:00"
+}

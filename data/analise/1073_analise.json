@@ -1,0 +1,36 @@
+{
+  "id": 1073,
+  "nome_original": "Palhaço",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo",
+      "vermelho",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "bermuda listrada",
+      "suspensórios",
+      "gravata borboleta",
+      "chapéu",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético com brilho acetinado",
+    "estilo_corte": "corte amplo e lúdico com listras horizontais",
+    "acessorios_visiveis": [
+      "chapéu xadrez colorido",
+      "peruca verde",
+      "gravata borboleta listrada"
+    ],
+    "tematica_detalhada": "Palhaço clássico de circo, com estética colorida e exagerada para fins de entretenimento"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1073.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.04,
+  "data_analise": "2026-07-30T01:50:49Z",
+  "data_criacao": "2026-07-29T22:50:49.694419-03:00"
+}

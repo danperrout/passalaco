@@ -1,0 +1,30 @@
+{
+  "id": 8864,
+  "nome_original": "Casal Freddy Krugger",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "verde escuro"
+    ],
+    "pecas_inclusas": [
+      "blusa listrada",
+      "calça preta",
+      "chapéus"
+    ],
+    "material_visual": "tecido sintético ou malha",
+    "estilo_corte": "estilo casual com padronagem de listras horizontais",
+    "acessorios_visivel": [
+      "chapéus de aba larga"
+    ],
+    "tematica_detalhada": "Fantasia de casal inspirada no personagem Freddy Krueger, icônico vilão da franquia de filmes de terror A Hora do Pesadelo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8864.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.58,
+  "data_analise": "2026-07-27T19:33:33Z",
+  "data_criacao": "2026-07-27T16:33:33.073421-03:00"
+}

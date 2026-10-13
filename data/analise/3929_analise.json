@@ -1,0 +1,30 @@
+{
+  "id": 3929,
+  "nome_original": "Vaca",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão kigurumi",
+      "capuz"
+    ],
+    "material_visual": "tecido macio, possivelmente plush ou fleece",
+    "estilo_corte": "oversized, modelagem larga e confortável",
+    "acessorios_visiveis": [
+      "chifres decorativos",
+      "detalhe de focinho rosa"
+    ],
+    "tematica_detalhada": "fantasia de animal, especificamente uma vaca holandesa, no estilo pijama kigurumi"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3929.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.81,
+  "data_analise": "2026-07-30T08:43:51Z",
+  "data_criacao": "2026-07-30T05:43:51.466555-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 6490,
+  "nome_original": "Capitao America Luxo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "macacão completo",
+      "máscara/capacete"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente poliéster ou elastano",
+    "estilo_corte": "ajustado ao corpo (slim fit), peça única",
+    "acessorios_visiveis": [
+      "máscara com letra A na testa"
+    ],
+    "tematica_detalhada": "Super-herói Capitão América, baseado nos quadrinhos e filmes da Marvel"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6490.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 281.88,
+  "data_analise": "2026-07-27T19:17:06Z",
+  "data_criacao": "2026-07-27T16:17:06.409683-03:00"
+}

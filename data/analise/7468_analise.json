@@ -1,0 +1,29 @@
+{
+  "id": 7468,
+  "nome_original": "Cocar",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "cocar"
+    ],
+    "material_visual": "penas sintéticas e base de fibra natural ou sintética trançada",
+    "estilo_corte": "circular com adornos verticais e laterais",
+    "acessorios_visiveis": [
+      "faixa de cabeça"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em cocares indígenas, comumente utilizada em festas temáticas, carnaval ou representações culturais folclóricas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7468.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 147.05,
+  "data_analise": "2026-07-27T23:40:10Z",
+  "data_criacao": "2026-07-27T20:40:10.459447-03:00"
+}

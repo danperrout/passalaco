@@ -1,0 +1,30 @@
+{
+  "id": 3048,
+  "nome_original": "Policial",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga curta",
+      "bermuda",
+      "boné"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte casual e folgado",
+    "acessorios_visiveis": [
+      "boné",
+      "estampa de distintivo"
+    ],
+    "tematica_detalhada": "fantasia de policial genérica, inspirada em uniformes de forças de segurança urbanas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3048.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.82,
+  "data_analise": "2026-07-30T03:47:22Z",
+  "data_criacao": "2026-07-30T00:47:22.049876-03:00"
+}

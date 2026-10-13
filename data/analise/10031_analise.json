@@ -1,0 +1,29 @@
+{
+  "id": 10031,
+  "nome_original": "Cinderela",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul claro",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "luvas"
+    ],
+    "material_visual": "cetim ou poliéster com brilho",
+    "estilo_corte": "corpete estruturado estilo corset com saia curta em camadas e decote tomara-que-caia",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Cinderela, referenciando o traje de baile em uma versão moderna e curta"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10031.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 97.67,
+  "data_analise": "2026-07-27T22:51:41Z",
+  "data_criacao": "2026-07-27T19:51:41.987596-03:00"
+}

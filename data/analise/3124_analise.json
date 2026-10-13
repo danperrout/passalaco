@@ -1,0 +1,29 @@
+{
+  "id": 3124,
+  "nome_original": "Chines",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza escuro",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica longa",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com bordados em relevo",
+    "estilo_corte": "longo, reto, com gola alta e mangas compridas",
+    "acessorios_visiveis": [
+      "chapéu estilo kufi ou toque"
+    ],
+    "tematica_detalhada": "Vestimenta de inspiração oriental/islâmica, assemelhando-se a uma jalabiya ou thobe com ornamentos bordados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3124.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 38.08,
+  "data_analise": "2026-07-27T20:58:07Z",
+  "data_criacao": "2026-07-27T17:58:07.815596-03:00"
+}

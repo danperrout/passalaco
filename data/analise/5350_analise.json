@@ -1,0 +1,29 @@
+{
+  "id": 5350,
+  "nome_original": "Fiona",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "cetim ou tecido sintético com brilho",
+    "estilo_corte": "corte medieval com cintura marcada e mangas longas",
+    "acessorios_visiveis": [
+      "tiara",
+      "peruca ruiva"
+    ],
+    "tematica_detalhada": "Personagem Fiona do filme Shrek, representando sua versão humana/realeza"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5350.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 43.78,
+  "data_analise": "2026-07-28T05:58:40Z",
+  "data_criacao": "2026-07-28T02:58:40.779714-03:00"
+}

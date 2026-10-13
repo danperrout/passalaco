@@ -1,0 +1,29 @@
+{
+  "id": 5804,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com texturas de babados e rendas",
+    "estilo_corte": "corte ombro a ombro, cintura marcada com laço e saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "tiara com flor"
+    ],
+    "tematica_detalhada": "fantasia de festa junina estilizada, remetendo ao traje típico caipira com elementos lúdicos e cores vibrantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5804.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 150.91,
+  "data_analise": "2026-07-28T22:45:59Z",
+  "data_criacao": "2026-07-28T19:45:59.995909-03:00"
+}

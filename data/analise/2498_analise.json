@@ -1,0 +1,30 @@
+{
+  "id": 2498,
+  "nome_original": "Mosquito da Dengue",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético fosco com faixas acetinadas",
+    "estilo_corte": "corte largo com extremidades desfiadas simulando patas ou asas",
+    "acessorios_visiveis": [
+      "antenas verdes no capuz"
+    ],
+    "tematica_detalhada": "fantasia de mosquito, especificamente referenciando o Aedes aegypti devido às listras brancas sobre fundo preto"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2498.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.86,
+  "data_analise": "2026-07-29T23:12:31Z",
+  "data_criacao": "2026-07-29T20:12:31.093394-03:00"
+}

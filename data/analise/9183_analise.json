@@ -1,0 +1,32 @@
+{
+  "id": 9183,
+  "nome_original": "Sr Incrivel",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético elástico",
+    "estilo_corte": "ajustado ao corpo com definição muscular acolchoada",
+    "acessorios_visiveis": [
+      "máscara ocular",
+      "luvas",
+      "cinto"
+    ],
+    "tematica_detalhada": "Personagem Sr. Incrível da franquia de filmes Os Incríveis da Disney/Pixar"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9183.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.5,
+  "data_analise": "2026-07-30T07:16:53Z",
+  "data_criacao": "2026-07-30T04:16:53.521029-03:00"
+}

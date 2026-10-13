@@ -1,0 +1,30 @@
+{
+  "id": 8421,
+  "nome_original": "Mulher Maravilha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho",
+    "estilo_corte": "vestido curto com alças finas e saia evasê",
+    "acessorios_visiveis": [
+      "tiara dourada",
+      "braceletes dourados"
+    ],
+    "tematica_detalhada": "Fantasia da Mulher Maravilha, personagem da DC Comics, com referências à bandeira dos EUA através das estrelas na saia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8421.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.31,
+  "data_analise": "2026-07-29T23:21:54Z",
+  "data_criacao": "2026-07-29T20:21:54.629765-03:00"
+}

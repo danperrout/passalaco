@@ -1,0 +1,28 @@
+{
+  "id": 5476,
+  "nome_original": "Princesa Anne",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com detalhes em glitter e tule",
+    "estilo_corte": "estilo princesa com corpete ajustado, manguinhas bufantes e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "fantasia de princesa clássica, remetendo a personagens de contos de fadas ou realeza infantil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5476.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 46.53,
+  "data_analise": "2026-07-30T04:00:19Z",
+  "data_criacao": "2026-07-30T01:00:19.106418-03:00"
+}

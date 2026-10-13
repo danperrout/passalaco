@@ -1,0 +1,33 @@
+{
+  "id": 4718,
+  "nome_original": "Indiana Jones",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "jaqueta",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "sintético com aspecto de couro na jaqueta e tecido fosco nas demais peças",
+    "estilo_corte": "estilo aventureiro com jaqueta de bolsos frontais e corte reto",
+    "acessorios_visiveis": [
+      "cinto com fivela",
+      "alça transversal",
+      "chapéu fedora"
+    ],
+    "tematica_detalhada": "Fantasia baseada no personagem Indiana Jones, remetendo a um arqueólogo aventureiro dos anos 30/40"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4718.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 217.18,
+  "data_analise": "2026-07-28T17:07:57Z",
+  "data_criacao": "2026-07-28T14:07:57.306407-03:00"
+}

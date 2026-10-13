@@ -1,0 +1,28 @@
+{
+  "id": 10124,
+  "nome_original": "Super Poderosas Florzinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho e detalhes em glitter no busto",
+    "estilo_corte": "estilo baby doll com alças finas, cintura marcada e saia plissada curta",
+    "acessorios_visiveis": [
+      "tiara com laço rosa"
+    ],
+    "tematica_detalhada": "personagem Florzinha da animação As Super Poderosas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10124.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 51.66,
+  "data_analise": "2026-07-30T07:31:26Z",
+  "data_criacao": "2026-07-30T04:31:26.035922-03:00"
+}

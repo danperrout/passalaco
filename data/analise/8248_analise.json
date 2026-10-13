@@ -1,0 +1,31 @@
+{
+  "id": 8248,
+  "nome_original": "Guerreira Medieval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "cinto",
+      "tiara"
+    ],
+    "material_visual": "tecido sintético com brilho metálico ou lantejoulas",
+    "estilo_corte": "vestido curto com decote em V e mangas longas",
+    "acessorios_visiveis": [
+      "cinto com fivela dourada",
+      "tiara de couro sintético"
+    ],
+    "tematica_detalhada": "guerreira medieval ou bárbara, com referências a trajes de fantasia épica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8248.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 46.09,
+  "data_analise": "2026-07-28T11:50:51Z",
+  "data_criacao": "2026-07-28T08:50:51.497808-03:00"
+}

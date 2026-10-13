@@ -1,0 +1,34 @@
+{
+  "id": 5535,
+  "nome_original": "Robin",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "vermelho",
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com aspecto brilhante, similar a cetim ou poliéster",
+    "estilo_corte": "vestido curto com saia rodada e corpo ajustado",
+    "acessorios_visiveis": [
+      "máscara facial preta",
+      "capa preta",
+      "cinto amarelo estampado"
+    ],
+    "tematica_detalhada": "Fantasia infantil inspirada no personagem Robin, do universo DC Comics/Batman"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5535.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.49,
+  "data_analise": "2026-07-30T04:56:58Z",
+  "data_criacao": "2026-07-30T01:56:58.023583-03:00"
+}

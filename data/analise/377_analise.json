@@ -1,0 +1,29 @@
+{
+  "id": 377,
+  "nome_original": "Cavalo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara/capuz"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou feltro",
+    "estilo_corte": "estilo oversized, corte amplo e desestruturado",
+    "acessorios_visiveis": [
+      "orelhas integradas",
+      "crina sintética preta"
+    ],
+    "tematica_detalhada": "fantasia de animal, especificamente um cavalo, com foco em representação simplificada para festas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/377.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.3,
+  "data_analise": "2026-07-27T19:40:26Z",
+  "data_criacao": "2026-07-27T16:40:26.936536-03:00"
+}

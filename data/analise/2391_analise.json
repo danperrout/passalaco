@@ -1,0 +1,29 @@
+{
+  "id": 2391,
+  "nome_original": "Tasha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "vestido curto reto sem mangas",
+    "acessorios_visiveis": [
+      "máscara de cabeça completa"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Tasha, do desenho infantil 'série Tasha e seus amigos' ou similar, representando um animal antropomorfizado com padrão floral."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2391.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.86,
+  "data_analise": "2026-07-30T07:42:31Z",
+  "data_criacao": "2026-07-30T04:42:31.717402-03:00"
+}

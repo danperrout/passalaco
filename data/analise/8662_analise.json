@@ -1,0 +1,31 @@
+{
+  "id": 8662,
+  "nome_original": "Viking",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça"
+    ],
+    "material_visual": "sintético imitando couro e pelúcia",
+    "estilo_corte": "túnica reta com costura em losangos e calça folgada",
+    "acessorios_visiveis": [
+      "detalhes de pele nos ombros",
+      "detalhes de pele nos tornozelos",
+      "botas pretas"
+    ],
+    "tematica_detalhada": "Guerreiro Viking, inspirada em trajes nórdicos medievais com elementos rústicos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8662.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.86,
+  "data_analise": "2026-07-30T08:50:13Z",
+  "data_criacao": "2026-07-30T05:50:13.529702-03:00"
+}

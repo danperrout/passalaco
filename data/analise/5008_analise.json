@@ -1,0 +1,30 @@
+{
+  "id": 5008,
+  "nome_original": "Colombina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido acetinado com brilho",
+    "estilo_corte": "vestido curto com saia rodada e alças decoradas",
+    "acessorios_visiveis": [
+      "chapéu cilíndrico com detalhe em verde"
+    ],
+    "tematica_detalhada": "Fantasia de Colombina, personagem da Commedia dell'Arte, caracterizada por estampas de poá e elementos carnavalescos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5008.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 39.04,
+  "data_analise": "2026-07-28T01:04:23Z",
+  "data_criacao": "2026-07-27T22:04:23.360655-03:00"
+}

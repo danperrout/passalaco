@@ -1,0 +1,30 @@
+{
+  "id": 7025,
+  "nome_original": "Valente",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul petróleo",
+      "dourado",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido com aspecto de veludo e detalhes em renda ou galão",
+    "estilo_corte": "estilo medieval com cintura marcada e saia evasê",
+    "acessorios_visiveis": [
+      "cinto marrom",
+      "aljava de flechas"
+    ],
+    "tematica_detalhada": "fantasia inspirada na personagem Merida do filme Valente, com estética escocesa medieval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7025.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.59,
+  "data_analise": "2026-07-30T08:44:20Z",
+  "data_criacao": "2026-07-30T05:44:20.022164-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 4066,
+  "nome_original": "Princesa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde água",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido fluido, possivelmente chiffon ou cetim, com aplicações de lantejoulas e pedrarias no busto",
+    "estilo_corte": "vestido longo com busto estruturado, alças finas e saia ampla com cintura marcada por um detalhe ornamental",
+    "acessorios_visiveis": [
+      "tiara/coroa dourada"
+    ],
+    "tematica_detalhada": "fantasia de princesa clássica, com referências visuais que remetem a personagens como a Jasmine ou princesas de contos de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4066.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.11,
+  "data_analise": "2026-07-30T03:58:31Z",
+  "data_criacao": "2026-07-30T00:58:31.102520-03:00"
+}

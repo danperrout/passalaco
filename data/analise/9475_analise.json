@@ -1,0 +1,29 @@
+{
+  "id": 9475,
+  "nome_original": "Colete",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "colete"
+    ],
+    "material_visual": "tecido sintético e xadrez",
+    "estilo_corte": "colete sem mangas com design assimétrico dividido verticalmente",
+    "acessorios_visiveis": [
+      "mini chapéu de palha",
+      "bandeirolas coloridas"
+    ],
+    "tematica_detalhada": "Festa Junina, referência à cultura caipira brasileira"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9475.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 82.93,
+  "data_analise": "2026-07-28T00:46:33Z",
+  "data_criacao": "2026-07-27T21:46:33.835618-03:00"
+}

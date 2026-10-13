@@ -1,0 +1,30 @@
+{
+  "id": 5140,
+  "nome_original": "Country",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido camisa",
+      "chapéu"
+    ],
+    "material_visual": "tecido listrado com franjas sintéticas",
+    "estilo_corte": "estilo camisa longa com corte reto e detalhes em franjas",
+    "acessorios_visiveis": [
+      "chapéu de cowboy",
+      "cinto com fivela"
+    ],
+    "tematica_detalhada": "Estilo Country/Western, remetendo à cultura de cowboy e cowgirl americana"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5140.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 177.68,
+  "data_analise": "2026-07-28T02:10:39Z",
+  "data_criacao": "2026-07-27T23:10:39.602778-03:00"
+}

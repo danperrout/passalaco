@@ -1,0 +1,32 @@
+{
+  "id": 8745,
+  "nome_original": "Casal Maria Bonita e Lampiao",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "chapéu de couro",
+      "colete",
+      "vestido"
+    ],
+    "material_visual": "couro ou material sintético imitando couro",
+    "estilo_corte": "estilo cangaceiro tradicional com cortes rústicos",
+    "acessorios_visiveis": [
+      "chapéu de aba larga",
+      "adornos no chapéu"
+    ],
+    "tematica_detalhada": "Cangaceiros do sertão nordestino, representando o casal Lampião e Maria Bonita"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8745.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.41,
+  "data_analise": "2026-07-27T19:34:42Z",
+  "data_criacao": "2026-07-27T16:34:42.709169-03:00"
+}

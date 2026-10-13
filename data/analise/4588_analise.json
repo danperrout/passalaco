@@ -1,0 +1,29 @@
+{
+  "id": 4588,
+  "nome_original": "Dorothy Magico de Oz",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "blusa"
+    ],
+    "material_visual": "tecido com estampa xadrez vichy",
+    "estilo_corte": "vestido curto com alças largas e saia rodada sobre blusa de mangas bufantes",
+    "acessorios_visiveis": [
+      "colar"
+    ],
+    "tematica_detalhada": "Personagem Dorothy do filme O Mágico de Oz, caracterizada pelo icônico vestido xadrez azul e branco"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4588.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.34,
+  "data_analise": "2026-07-28T03:21:28Z",
+  "data_criacao": "2026-07-28T00:21:28.824284-03:00"
+}

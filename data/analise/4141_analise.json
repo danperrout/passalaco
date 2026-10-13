@@ -1,0 +1,32 @@
+{
+  "id": 4141,
+  "nome_original": "Elvis",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "calça",
+      "capa"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante e detalhes em passamanaria dourada",
+    "estilo_corte": "estilo macacão com corte reto na calça e jaqueta ajustada com gola alta",
+    "acessorios_visiveis": [
+      "detalhes ornamentais dourados",
+      "pedrarias vermelhas"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no Rei do Rock, Elvis Presley, especificamente em seus trajes de palco da fase Las Vegas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4141.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 39.16,
+  "data_analise": "2026-07-28T03:43:05Z",
+  "data_criacao": "2026-07-28T00:43:05.230952-03:00"
+}

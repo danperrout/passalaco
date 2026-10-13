@@ -1,0 +1,29 @@
+{
+  "id": 7919,
+  "nome_original": "Princesa do Mario",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido acetinado com detalhes em glitter/paetê",
+    "estilo_corte": "estilo princesa com saia volumosa, mangas bufantes e cintura marcada",
+    "acessorios_visiveis": [
+      "tiara dourada",
+      "broche azul central"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na Princesa Peach da franquia Super Mario"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7919.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 19.52,
+  "data_analise": "2026-07-30T04:01:51Z",
+  "data_criacao": "2026-07-30T01:01:51.846230-03:00"
+}

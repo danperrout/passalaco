@@ -1,0 +1,31 @@
+{
+  "id": 8140,
+  "nome_original": "Junina Saia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "preto",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com estampas coloridas e acabamento em tule na barra",
+    "estilo_corte": "blusa regata justa e saia rodada volumosa",
+    "acessorios_visiveis": [
+      "chapéu de palha decorado"
+    ],
+    "tematica_detalhada": "Festa Junina tradicional brasileira, com elementos típicos do caipira"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8140.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 49.16,
+  "data_analise": "2026-07-29T07:10:52Z",
+  "data_criacao": "2026-07-29T04:10:52.436364-03:00"
+}

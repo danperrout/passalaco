@@ -1,0 +1,33 @@
+{
+  "id": 5962,
+  "nome_original": "Power Rangers",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "máscara/capacete",
+      "casaco",
+      "calça",
+      "botas"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado e detalhes em viés",
+    "estilo_corte": "estilo militar/pirata com casaco estruturado e calça justa",
+    "acessorios_visiveis": [
+      "cinto",
+      "detalhe de caveira com espadas no peito"
+    ],
+    "tematica_detalhada": "Power Rangers inspirado em piratas, referenciando especificamente o Ranger Vermelho de Power Rangers Super Megaforce / Gokaiger"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5962.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.53,
+  "data_analise": "2026-07-30T03:54:27Z",
+  "data_criacao": "2026-07-30T00:54:27.817153-03:00"
+}

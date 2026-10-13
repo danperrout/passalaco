@@ -1,0 +1,29 @@
+{
+  "id": 2262,
+  "nome_original": "Mascote Mickey",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "máscara de cabeça completa",
+      "macacão de corpo inteiro"
+    ],
+    "material_visual": "pelúcia sintética",
+    "estilo_corte": "oversized / volumoso",
+    "acessorios_visiveis": [
+      "orelhas circulares"
+    ],
+    "tematica_detalhada": "Personagem Mickey Mouse da Disney, estilo mascote de parque temático"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2262.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 94.72,
+  "data_analise": "2026-07-29T19:53:52Z",
+  "data_criacao": "2026-07-29T16:53:52.920080-03:00"
+}

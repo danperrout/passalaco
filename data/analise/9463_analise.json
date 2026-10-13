@@ -1,0 +1,29 @@
+{
+  "id": 9463,
+  "nome_original": "Dama",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "peruca"
+    ],
+    "material_visual": "tecido acetinado com brilho e detalhes em renda ou passamanaria",
+    "estilo_corte": "estilo rococó com saia volumosa (armaze), corpete ajustado e mangas longas",
+    "acessorios_visiveis": [
+      "peruca branca volumosa"
+    ],
+    "tematica_detalhada": "Dama da nobreza europeia do século XVIII, remetendo ao período Barroco ou Rococó, estilo Maria Antonieta"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9463.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 69.42,
+  "data_analise": "2026-07-28T02:33:01Z",
+  "data_criacao": "2026-07-27T23:33:01.825799-03:00"
+}

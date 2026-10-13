@@ -1,0 +1,30 @@
+{
+  "id": 8911,
+  "nome_original": "Raya",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "túnica",
+      "calça"
+    ],
+    "material_visual": "veludo e tecido acetinado",
+    "estilo_corte": "corte imperial com capa longa e gola alta",
+    "acessorios_visiveis": [
+      "detalhes dourados na gola"
+    ],
+    "tematica_detalhada": "fantasia de realeza ou personagem nobre, com referências a trajes históricos europeus ou fantasias de época"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8911.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.16,
+  "data_analise": "2026-07-30T04:40:55Z",
+  "data_criacao": "2026-07-30T01:40:55.842026-03:00"
+}

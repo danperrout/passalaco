@@ -1,0 +1,31 @@
+{
+  "id": 9999,
+  "nome_original": "Exorcista",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica longa",
+      "capa curta"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "longo e reto com gola alta e capelete",
+    "acessorios_visiveis": [
+      "estampas de cruzes douradas",
+      "cinto de corrente fina"
+    ],
+    "tematica_detalhada": "clérigo ou exorcista, com referências a figuras religiosas católicas em contextos de horror ou fantasia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9999.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 55.6,
+  "data_analise": "2026-07-28T04:28:00Z",
+  "data_criacao": "2026-07-28T01:28:00.815488-03:00"
+}

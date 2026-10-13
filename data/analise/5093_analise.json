@@ -1,0 +1,33 @@
+{
+  "id": 5093,
+  "nome_original": "Colegial",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "saia",
+      "gravata",
+      "boina"
+    ],
+    "material_visual": "tecido sintético plano e tecido xadrez",
+    "estilo_corte": "estilo cropped com nó frontal e saia plissada curta",
+    "acessorios_visiveis": [
+      "gravata",
+      "boina"
+    ],
+    "tematica_detalhada": "fantasia de colegial inspirada em uniformes escolares clássicos e estética preppy"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5093.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 86.2,
+  "data_analise": "2026-07-28T00:36:27Z",
+  "data_criacao": "2026-07-27T21:36:27.046365-03:00"
+}

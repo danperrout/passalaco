@@ -1,0 +1,32 @@
+{
+  "id": 8924,
+  "nome_original": "Mamae Noel",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "touca",
+      "botas"
+    ],
+    "material_visual": "cetim brilhante com detalhes em pele sintética",
+    "estilo_corte": "estilo baby-doll curto com saia rodada e cintura marcada",
+    "acessorios_visiveis": [
+      "cinto preto",
+      "touca de Papai Noel"
+    ],
+    "tematica_detalhada": "Fantasia de Mamãe Noel, inspirada no folclore natalino ocidental"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8924.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 394.05,
+  "data_analise": "2026-07-29T17:10:28Z",
+  "data_criacao": "2026-07-29T14:10:28.437924-03:00"
+}

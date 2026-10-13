@@ -1,0 +1,30 @@
+{
+  "id": 9913,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampas xadrez e detalhes em renda",
+    "estilo_corte": "estilo rodado com babados e mangas curtas bufantes",
+    "acessorios_visiveis": [
+      "tiara com flor",
+      "fitas coloridas na cintura"
+    ],
+    "tematica_detalhada": "fantasia de festa junina infantil, representando a cultura caipira brasileira com elementos típicos como xadrez e babados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9913.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 22.85,
+  "data_analise": "2026-07-29T01:58:51Z",
+  "data_criacao": "2026-07-28T22:58:51.713248-03:00"
+}

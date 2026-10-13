@@ -1,0 +1,32 @@
+{
+  "id": 4701,
+  "nome_original": "Toureira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "saia"
+    ],
+    "material_visual": "cetim ou poliéster brilhante",
+    "estilo_corte": "jaqueta curta estruturada com saia curta evasê",
+    "acessorios_visiveis": [
+      "detalhes em dourado",
+      "franjas azuis",
+      "flor vermelha no cabelo"
+    ],
+    "tematica_detalhada": "Toureira, inspirada no traje tradicional de toureio espanhol (Traje de Luces)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4701.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 39.4,
+  "data_analise": "2026-07-30T08:31:48Z",
+  "data_criacao": "2026-07-30T05:31:48.995019-03:00"
+}

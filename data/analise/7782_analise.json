@@ -1,0 +1,29 @@
+{
+  "id": 7782,
+  "nome_original": "Os Incriveis",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com aspecto elástico",
+    "estilo_corte": "ajustado ao corpo (slim fit) com punhos e gola contrastantes",
+    "acessorios_visiveis": [
+      "máscara de olhos"
+    ],
+    "tematica_detalhada": "Fantasia baseada nos personagens do filme Os Incríveis, apresentando o logotipo icônico do 'i' no peito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7782.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 49.85,
+  "data_analise": "2026-07-30T00:59:29Z",
+  "data_criacao": "2026-07-29T21:59:29.215223-03:00"
+}

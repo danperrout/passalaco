@@ -1,0 +1,33 @@
+{
+  "id": 7987,
+  "nome_original": "Magico",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Circo",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "camisa",
+      "cartola"
+    ],
+    "material_visual": "tecido sintético com brilho metálico no detalhe dourado",
+    "estilo_corte": "estilo fraque curto com lapelas largas e corte reto",
+    "acessorios_visiveis": [
+      "gravata borboleta",
+      "cartola"
+    ],
+    "tematica_detalhada": "mágico de palco clássico, com referências a apresentações de circo e ilusionismo tradicional"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7987.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 27.33,
+  "data_analise": "2026-07-29T16:23:47Z",
+  "data_criacao": "2026-07-29T13:23:47.972605-03:00"
+}

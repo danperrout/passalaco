@@ -1,0 +1,30 @@
+{
+  "id": 3304,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul",
+      "rosa",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com acabamento em renda e fitas",
+    "estilo_corte": "estilo ciganinha com decote ombro a ombro e saia rodada",
+    "acessorios_visiveis": [
+      "chapéu de palha decorado com fitas"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, representando a vestimenta típica caipira estilizada"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3304.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 172.88,
+  "data_analise": "2026-07-28T23:47:19Z",
+  "data_criacao": "2026-07-28T20:47:19.415530-03:00"
+}

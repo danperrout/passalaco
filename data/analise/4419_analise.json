@@ -1,0 +1,30 @@
+{
+  "id": 4419,
+  "nome_original": "Pintinho Amarelinho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "bermuda",
+      "touca"
+    ],
+    "material_visual": "tecido sintético ou algodão com aspecto fosco",
+    "estilo_corte": "corte solto e confortável, estilo conjunto infantil",
+    "acessorios_visiveis": [
+      "touca com bico e crista"
+    ],
+    "tematica_detalhada": "fantasia de pintinho, inspirada na música infantil 'Meu Pintinho Amarelinho'"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4419.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.11,
+  "data_analise": "2026-07-30T03:34:39Z",
+  "data_criacao": "2026-07-30T00:34:39.508108-03:00"
+}

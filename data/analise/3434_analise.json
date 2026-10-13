@@ -1,0 +1,27 @@
+{
+  "id": 3434,
+  "nome_original": "Camisa",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "camisa"
+    ],
+    "material_visual": "tecido sintético com acabamento metálico ou reflexivo",
+    "estilo_corte": "corte oversized e volumoso com textura rugosa",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "estilo futurista ou vanguardista, remetendo a conceitos de moda digital ou arquitetura têxtil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3434.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.35,
+  "data_analise": "2026-07-27T18:48:31Z",
+  "data_criacao": "2026-07-27T15:48:31.759277-03:00"
+}

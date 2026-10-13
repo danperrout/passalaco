@@ -1,0 +1,33 @@
+{
+  "id": 3626,
+  "nome_original": "Os Incriveis",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético com elasticidade",
+    "estilo_corte": "ajustado ao corpo com enchimento muscular simulado",
+    "acessorios_visiveis": [
+      "máscara ocular",
+      "cinto",
+      "luvas",
+      "botas"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Sr. Incrível do filme Os Incríveis da Pixar"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3626.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 87.49,
+  "data_analise": "2026-07-30T01:07:04Z",
+  "data_criacao": "2026-07-29T22:07:04.598872-03:00"
+}

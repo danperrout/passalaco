@@ -1,0 +1,30 @@
+{
+  "id": 4158,
+  "nome_original": "Medieval",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "cinza"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com textura canelada no colete e tecido plano na camisa",
+    "estilo_corte": "corte reto com colete longo e camisa de gola alta com amarração",
+    "acessorios_visiveis": [
+      "cinto com fivela dourada"
+    ],
+    "tematica_detalhada": "estilo medieval/renascentista, remetendo a trajes de camponeses ou aventureiros de fantasia"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4158.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 31.24,
+  "data_analise": "2026-07-29T21:07:13Z",
+  "data_criacao": "2026-07-29T18:07:13.068472-03:00"
+}

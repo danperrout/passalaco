@@ -1,0 +1,29 @@
+{
+  "id": 8148,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético brilhante com detalhes em renda e fitas",
+    "estilo_corte": "vestido rodado com mangas bufantes e cintura marcada",
+    "acessorios_visiveis": [
+      "tiara com laço e fitas"
+    ],
+    "tematica_detalhada": "Festa Junina infantil, com elementos típicos como chita estilizada, retalhos decorativos e cores vibrantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8148.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.19,
+  "data_analise": "2026-07-28T22:05:18Z",
+  "data_criacao": "2026-07-28T19:05:18.352184-03:00"
+}

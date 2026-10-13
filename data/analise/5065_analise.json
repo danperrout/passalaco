@@ -1,0 +1,30 @@
+{
+  "id": 5065,
+  "nome_original": "Coelhinho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Animais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "camisa"
+    ],
+    "material_visual": "tecido plano, possivelmente tricoline ou sarja leve, com detalhes em pelúcia",
+    "estilo_corte": "macacão curto com alças e camisa de manga curta",
+    "acessorios_visiveis": [
+      "tiara de orelhas de coelho",
+      "detalhes de pompons brancos e azuis"
+    ],
+    "tematica_detalhada": "fantasia infantil de coelhinho, com referências a personagens clássicos de contos de fadas ou celebrações de Páscoa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5065.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 27.33,
+  "data_analise": "2026-07-28T00:32:56Z",
+  "data_criacao": "2026-07-27T21:32:56.520289-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 9607,
+  "nome_original": "Chapeuzinho Vermelho",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Preto",
+      "Branco"
+    ],
+    "pecas_inclusas": [
+      "Capa com capuz",
+      "Vestido",
+      "Avental"
+    ],
+    "material_visual": "Tecido sintético com acabamento em renda e detalhes dourados",
+    "estilo_corte": "Corte estilo camponesa com corpete ajustado e saia curta rodada",
+    "acessorios_visiveis": [
+      "Cesta",
+      "Laço decorativo"
+    ],
+    "tematica_detalhada": "Fantasia baseada na personagem Chapeuzinho Vermelho, inspirada em contos de fadas clássicos europeus"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9607.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 169.85,
+  "data_analise": "2026-07-27T20:03:58Z",
+  "data_criacao": "2026-07-27T17:03:58.071612-03:00"
+}

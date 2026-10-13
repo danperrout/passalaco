@@ -1,0 +1,31 @@
+{
+  "id": 681,
+  "nome_original": "Guerreira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "corpete",
+      "saia",
+      "capa curta",
+      "polainas"
+    ],
+    "material_visual": "material sintético imitando couro e pele artificial",
+    "estilo_corte": "estilo medieval com saia em recortes irregulares e decote em V",
+    "acessorios_visiveis": [
+      "detalhes de pele sintética nos ombros e pernas"
+    ],
+    "tematica_detalhada": "guerreira bárbara ou viking, com referências a trajes de combate antigos e fantasia medieval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/681.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 29.51,
+  "data_analise": "2026-07-28T11:45:57Z",
+  "data_criacao": "2026-07-28T08:45:57.408894-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 9338,
+  "nome_original": "Marinheira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul marinho"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster",
+    "estilo_corte": "blusa curta com gola marinheira e saia plissada curta",
+    "acessorios_visiveis": [
+      "quepe de marinheiro"
+    ],
+    "tematica_detalhada": "fantasia de marinheira clássica, com referências ao uniforme escolar japonês (seifuku)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9338.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 74.28,
+  "data_analise": "2026-07-29T17:56:02Z",
+  "data_criacao": "2026-07-29T14:56:02.205971-03:00"
+}

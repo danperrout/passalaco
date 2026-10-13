@@ -1,0 +1,30 @@
+{
+  "id": 4795,
+  "nome_original": "Mascara",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Máscaras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "máscara"
+    ],
+    "material_visual": "tecido aveludado, passamanaria dourada, penas e pedraria",
+    "estilo_corte": "máscara de olhos estilo veneziana",
+    "acessorios_visiveis": [
+      "penas pretas",
+      "joia central",
+      "detalhes em strass"
+    ],
+    "tematica_detalhada": "Carnaval ou Baile de Máscaras, com referências ao estilo veneziano e luxo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4795.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.95,
+  "data_analise": "2026-07-29T18:51:57Z",
+  "data_criacao": "2026-07-29T15:51:57.920843-03:00"
+}

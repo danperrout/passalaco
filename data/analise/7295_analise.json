@@ -1,0 +1,33 @@
+{
+  "id": 7295,
+  "nome_original": "Carmem Miranda",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "verde",
+      "amarelo",
+      "azul",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "touca de frutas"
+    ],
+    "material_visual": "tecido com lantejoulas e frutas artificiais",
+    "estilo_corte": "vestido justo com brilho e volume na parte inferior",
+    "acessorios_visiveis": [
+      "colares de contas coloridas",
+      "touca de frutas"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em Carmem Miranda, representando a estética da baiana e a cultura brasileira através de frutas tropicais e cores vibrantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7295.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.31,
+  "data_analise": "2026-07-27T19:20:24Z",
+  "data_criacao": "2026-07-27T16:20:24.824021-03:00"
+}

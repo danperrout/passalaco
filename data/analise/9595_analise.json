@@ -1,0 +1,28 @@
+{
+  "id": 9595,
+  "nome_original": "Sacos de Teia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "saco de tecido"
+    ],
+    "material_visual": "tecido sintético translúcido com estampa metalizada",
+    "estilo_corte": "formato retangular de saco com fechamento por cordão",
+    "acessorios_visiveis": [
+      "cordão de fechamento"
+    ],
+    "tematica_detalhada": "tema de Halloween, com referências a teias de aranha, ideal para embalagens de doces ou lembranças temáticas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9595.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 72.95,
+  "data_analise": "2026-07-30T05:13:36Z",
+  "data_criacao": "2026-07-30T02:13:36.022208-03:00"
+}

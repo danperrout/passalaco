@@ -1,0 +1,32 @@
+{
+  "id": 9356,
+  "nome_original": "Paquita",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "túnica",
+      "shorts"
+    ],
+    "material_visual": "cetim ou poliéster com adornos de franjas metálicas",
+    "estilo_corte": "estilo militar com corte justo e detalhes horizontais",
+    "acessorios_visiveis": [
+      "chapéu com pluma",
+      "ombreiras com franjas"
+    ],
+    "tematica_detalhada": "Fantasia de Paquita, inspirada em bandas marciais e coreografias de apoio em shows musicais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9356.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.46,
+  "data_analise": "2026-07-30T02:29:33Z",
+  "data_criacao": "2026-07-29T23:29:33.743350-03:00"
+}

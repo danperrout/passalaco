@@ -1,0 +1,32 @@
+{
+  "id": 8728,
+  "nome_original": "Melindrosa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Vermelho",
+      "Branco"
+    ],
+    "pecas_inclusas": [
+      "Vestido",
+      "Luvas",
+      "Faixa de cabeça"
+    ],
+    "material_visual": "Franjas brilhantes e tecido sintético",
+    "estilo_corte": "Corte reto curto com alças finas",
+    "acessorios_visiveis": [
+      "Colar de pérolas",
+      "Pluma vermelha",
+      "Luvas longas"
+    ],
+    "tematica_detalhada": "Estilo Melindrosa (Flapper) dos anos 20, referenciando a era do Jazz e a libertação feminina do período pós-guerra."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8728.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 168.69,
+  "data_analise": "2026-07-29T21:19:57Z",
+  "data_criacao": "2026-07-29T18:19:57.908203-03:00"
+}

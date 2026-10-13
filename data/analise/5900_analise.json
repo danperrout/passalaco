@@ -1,0 +1,29 @@
+{
+  "id": 5900,
+  "nome_original": "Dama",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido aveludado com adornos metálicos",
+    "estilo_corte": "corte imperial com mangas bufantes e cintura marcada",
+    "acessorios_visiveis": [
+      "tiara",
+      "cinto ornamentado"
+    ],
+    "tematica_detalhada": "fantasia de dama medieval ou renascentista, remetendo à nobreza europeia antiga"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5900.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.34,
+  "data_analise": "2026-07-28T02:30:39Z",
+  "data_criacao": "2026-07-27T23:30:39.554800-03:00"
+}

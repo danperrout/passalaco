@@ -1,0 +1,29 @@
+{
+  "id": 8776,
+  "nome_original": "Mae e Filha Luna",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul royal",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido adulto",
+      "vestido infantil"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco",
+    "estilo_corte": "estilo skater com gola alta e cintura marcada",
+    "acessorios_visiveis": [
+      "cinto vermelho"
+    ],
+    "tematica_detalhada": "Fantasia combinada de mãe e filha inspirada na personagem Luna, possivelmente referenciando o desenho O Show da Luna"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8776.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 729.94,
+  "data_analise": "2026-07-29T14:16:08Z",
+  "data_criacao": "2026-07-29T11:16:08.168910-03:00"
+}

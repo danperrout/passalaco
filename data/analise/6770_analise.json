@@ -1,0 +1,35 @@
+{
+  "id": 6770,
+  "nome_original": "Principe",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "túnica",
+      "capa",
+      "calça",
+      "camisa"
+    ],
+    "material_visual": "cetim ou poliéster com acabamento brilhante e detalhes em galão dourado",
+    "estilo_corte": "estilo militar clássico com túnica curta e corte reto",
+    "acessorios_visiveis": [
+      "pluma vermelha no chapéu",
+      "bordados dourados"
+    ],
+    "tematica_detalhada": "Príncipe clássico ou guarda real, com referências a uniformes aristocráticos europeus de época"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6770.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.59,
+  "data_analise": "2026-07-30T04:11:27Z",
+  "data_criacao": "2026-07-30T01:11:27.915576-03:00"
+}

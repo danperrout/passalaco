@@ -1,0 +1,33 @@
+{
+  "id": 6234,
+  "nome_original": "Kika",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "estilo marinheiro com gola quadrada e saia plissada curta",
+    "acessorios_visiveis": [
+      "gravata vermelha",
+      "chapéu colorido"
+    ],
+    "tematica_detalhada": "uniforme escolar japonês estilizado (sailor fuku) com elementos coloridos, remetendo a personagens de anime ou fantasias temáticas escolares"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6234.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 137.19,
+  "data_analise": "2026-07-29T08:04:43Z",
+  "data_criacao": "2026-07-29T05:04:43.192075-03:00"
+}

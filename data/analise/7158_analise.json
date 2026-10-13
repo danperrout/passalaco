@@ -1,0 +1,25 @@
+{
+  "id": 7158,
+  "nome_original": "Alice",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com babados e rendas",
+    "estilo_corte": "estilo lolita com saia volumosa e corpete ajustado",
+    "acessorios_visiveis": [
+      "tiara com laço preto"
+    ],
+    "tematica_detalhada": "versão estilizada e gótica da Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7158.jpg",
+  "data_analise": "2026-07-27T13:47:37Z"
+}

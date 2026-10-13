@@ -1,0 +1,31 @@
+{
+  "id": 2753,
+  "nome_original": "Palhaço",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "peruca"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante",
+    "estilo_corte": "folgado com gola rufada e punhos franzidos",
+    "acessorios_visiveis": [
+      "peruca multicolorida",
+      "gola rufada"
+    ],
+    "tematica_detalhada": "Palhaço clássico de circo, caracterizado por cores vibrantes e estampa de bolinhas (polka dots)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2753.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.42,
+  "data_analise": "2026-07-30T01:51:01Z",
+  "data_criacao": "2026-07-29T22:51:01.637486-03:00"
+}

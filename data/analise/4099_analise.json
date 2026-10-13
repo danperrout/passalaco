@@ -1,0 +1,30 @@
+{
+  "id": 4099,
+  "nome_original": "Pocoyo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "blusão",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster ou tactel",
+    "estilo_corte": "corte amplo e oversized, estilo conjunto casual",
+    "acessorios_visiveis": [
+      "detalhe amarelo no zíper"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Pocoyo, série animada infantil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4099.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.85,
+  "data_analise": "2026-07-30T03:43:34Z",
+  "data_criacao": "2026-07-30T00:43:34.766412-03:00"
+}

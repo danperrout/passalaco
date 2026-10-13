@@ -1,0 +1,26 @@
+{
+  "id": 6213,
+  "nome_original": "Arabe",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "manto",
+      "turbante"
+    ],
+    "material_visual": "tecido sintético leve com detalhes metalizados",
+    "estilo_corte": "estilo túnica ampla com caimento fluido",
+    "acessorios_visiveis": [
+      "adereço de cabeça com joia central"
+    ],
+    "tematica_detalhada": "fantasia temática de árabe ou sultão"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6213.jpg",
+  "data_analise": "2026-07-27T14:12:58Z"
+}

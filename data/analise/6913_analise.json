@@ -1,0 +1,26 @@
+{
+  "id": 6913,
+  "nome_original": "Ariel",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "Rosa",
+      "Branco"
+    ],
+    "pecas_inclusas": [
+      "Vestido",
+      "Coroa"
+    ],
+    "material_visual": "Tecido brilhante semelhante a cetim, com detalhes dourados e tecido liso para a saia interna.",
+    "estilo_corte": "Vestido com corpete ajustado, mangas bufantes com detalhes brancos, decote redondo e saia longa em camadas com sobreposição drapeada.",
+    "acessorios_visiveis": [
+      "Coroa dourada com gema rosa",
+      "Frisos e detalhes dourados aplicados no vestido"
+    ],
+    "tematica_detalhada": "Princesa Ariel (versão humana) com vestido de gala ou baile."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6913.jpg",
+  "data_analise": "2026-07-27T16:47:21Z"
+}

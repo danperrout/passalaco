@@ -1,0 +1,29 @@
+{
+  "id": 9247,
+  "nome_original": "Junina",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim e renda",
+    "estilo_corte": "corte evasê com saia rodada em camadas e babados",
+    "acessorios_visiveis": [
+      "tiara com flor",
+      "cinto de flores"
+    ],
+    "tematica_detalhada": "Fantasia de festa junina estilizada, inspirada no traje típico caipira brasileiro com elementos românticos e cores vibrantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9247.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.96,
+  "data_analise": "2026-07-28T23:47:38Z",
+  "data_criacao": "2026-07-28T20:47:38.654543-03:00"
+}

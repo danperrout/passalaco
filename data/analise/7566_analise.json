@@ -1,0 +1,32 @@
+{
+  "id": 7566,
+  "nome_original": "Super Homem Capa",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "amarelo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "capa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com textura de malha",
+    "estilo_corte": "ajuste slim com capa presa à gola",
+    "acessorios_visiveis": [
+      "logotipo do Super-Homem no peito"
+    ],
+    "tematica_detalhada": "Fantasia do super-herói Super-Homem, personagem icônico da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7566.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.47,
+  "data_analise": "2026-07-30T07:29:05Z",
+  "data_criacao": "2026-07-30T04:29:05.943158-03:00"
+}

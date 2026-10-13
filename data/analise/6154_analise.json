@@ -1,0 +1,30 @@
+{
+  "id": 6154,
+  "nome_original": "Patati",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Circo",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "cetim ou tecido sintético com brilho",
+    "estilo_corte": "vestido curto com saia rodada, mangas curtas e detalhe de laço no busto",
+    "acessorios_visiveis": [
+      "chapéu coco azul"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Patati, da dupla de palhaços infantis Patati Patatá"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6154.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 64.54,
+  "data_analise": "2026-07-30T02:35:11Z",
+  "data_criacao": "2026-07-29T23:35:11.036122-03:00"
+}

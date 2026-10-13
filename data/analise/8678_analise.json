@@ -1,0 +1,32 @@
+{
+  "id": 8678,
+  "nome_original": "Safari",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético fosco, similar ao sarja ou brim",
+    "estilo_corte": "vestido curto com gola, botões frontais, mangas bufantes curtas e cintura marcada por cinto",
+    "acessorios_visiveis": [
+      "chapéu de aba larga",
+      "cinto com fivela",
+      "orelhas de camundongo",
+      "laço vermelho com bolinhas brancas"
+    ],
+    "tematica_detalhada": "estilo explorador de safari com elementos lúdicos inspirados na personagem Minnie Mouse"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8678.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.89,
+  "data_analise": "2026-07-30T05:14:53Z",
+  "data_criacao": "2026-07-30T02:14:53.876615-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2892,
+  "nome_original": "Popis",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético leve com estampa floral miúda",
+    "estilo_corte": "corte evasê com cintura marcada, mangas curtas bufantes e gola alta",
+    "acessorios_visiveis": [
+      "detalhes de botões frontais",
+      "renda na barra inferior"
+    ],
+    "tematica_detalhada": "fantasia inspirada na personagem Popis, remetendo ao estilo de roupas infantis clássicas e delicadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2892.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.81,
+  "data_analise": "2026-07-30T03:49:12Z",
+  "data_criacao": "2026-07-30T00:49:12.642443-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 2544,
+  "nome_original": "Bela",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tule com brilhos e cetim",
+    "estilo_corte": "estilo princesa com saia volumosa e corpete ajustado",
+    "acessorios_visiveis": [
+      "tiara dourada"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Bela, do filme A Bela e a Fera, referenciando o icônico vestido de baile amarelo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2544.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.77,
+  "data_analise": "2026-07-27T17:51:23Z",
+  "data_criacao": "2026-07-27T14:51:23.296619-03:00"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 6636,
+  "nome_original": "Alemă",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "corpo/vestido",
+      "máscara/cabeça"
+    ],
+    "material_visual": "tecido sintético, tule e material plástico/acetinado",
+    "estilo_corte": "estilo volumoso com saia armada e cintura marcada",
+    "acessorios_visiveis": [
+      "cartola"
+    ],
+    "tematica_detalhada": "fantasia estilizada ou artística com elementos de gala e surrealismo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6636.jpg",
+  "data_analise": "2026-07-27T13:41:43Z"
+}

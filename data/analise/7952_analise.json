@@ -1,0 +1,28 @@
+{
+  "id": 7952,
+  "nome_original": "Sol Verao",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top bandeau",
+      "short curto"
+    ],
+    "material_visual": "tecido sintético com acabamento metalizado e brilhante",
+    "estilo_corte": "conjunto de duas peças com corte justo e minimalista",
+    "acessorios_visiveis": [
+      "tiara de raios solares"
+    ],
+    "tematica_detalhada": "Representação personificada do Sol de verão, remetendo a divindades solares ou estética de carnaval"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7952.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.23,
+  "data_analise": "2026-07-30T06:55:25Z",
+  "data_criacao": "2026-07-30T03:55:25.376332-03:00"
+}

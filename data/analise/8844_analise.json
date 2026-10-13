@@ -1,0 +1,28 @@
+{
+  "id": 8844,
+  "nome_original": "Wandinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com leve brilho",
+    "estilo_corte": "vestido curto de manga longa com gola polo branca",
+    "acessorios_visiveis": [
+      "laços brancos com detalhes pretos nas pernas"
+    ],
+    "tematica_detalhada": "Personagem Wandinha Addams, inspirada na estética gótica e na série Wednesday"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8844.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.28,
+  "data_analise": "2026-07-30T08:53:33Z",
+  "data_criacao": "2026-07-30T05:53:33.965004-03:00"
+}

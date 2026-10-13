@@ -1,0 +1,35 @@
+{
+  "id": 5071,
+  "nome_original": "Palhaço",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "azul",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "camiseta",
+      "calça",
+      "gravata borboleta"
+    ],
+    "material_visual": "tecido sintético brilhante, possivelmente cetim ou poliéster",
+    "estilo_corte": "estilo oversized e folgado",
+    "acessorios_visiveis": [
+      "nariz de palhaço vermelho",
+      "peruca verde",
+      "suspensórios brancos"
+    ],
+    "tematica_detalhada": "fantasia de palhaço clássico e colorido, com foco em elementos circenses tradicionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5071.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.86,
+  "data_analise": "2026-07-30T01:50:03Z",
+  "data_criacao": "2026-07-29T22:50:03.225177-03:00"
+}

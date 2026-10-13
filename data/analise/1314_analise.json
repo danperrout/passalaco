@@ -1,0 +1,33 @@
+{
+  "id": 1314,
+  "nome_original": "Soldadinho de Chumbo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com acabamento em cetim ou poliéster",
+    "estilo_corte": "uniforme militar clássico com corte reto",
+    "acessorios_visiveis": [
+      "ombreiras com franjas",
+      "botões decorativos",
+      "detalhes em cordão dourado"
+    ],
+    "tematica_detalhada": "Soldadinho de Chumbo, inspirada em brinquedos clássicos e contos de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1314.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 36.96,
+  "data_analise": "2026-07-30T06:58:46Z",
+  "data_criacao": "2026-07-30T03:58:46.479202-03:00"
+}

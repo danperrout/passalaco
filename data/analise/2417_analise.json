@@ -1,0 +1,29 @@
+{
+  "id": 2417,
+  "nome_original": "Sapinho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde limão",
+      "verde escuro"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético fosco com apliques em pelúcia",
+    "estilo_corte": "estilo jardineira curta com capuz e sem mangas",
+    "acessorios_visiveis": [
+      "luvas em formato de patas de sapo"
+    ],
+    "tematica_detalhada": "fantasia infantil de sapinho, com design estilizado e caricato"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2417.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.14,
+  "data_analise": "2026-07-30T05:54:16Z",
+  "data_criacao": "2026-07-30T02:54:16.123575-03:00"
+}

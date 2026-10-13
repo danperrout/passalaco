@@ -1,0 +1,33 @@
+{
+  "id": 5440,
+  "nome_original": "Patata",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "verde",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou poliéster",
+    "estilo_corte": "estilo uniforme estilizado com corte reto e detalhes em faixas",
+    "acessorios_visiveis": [
+      "gravata borboleta amarela",
+      "chapéu com detalhe floral",
+      "peruca loira"
+    ],
+    "tematica_detalhada": "fantasia colorida de personagem lúdico, com estética que remete a figuras de circo, teatros infantis ou personagens folclóricos estilizados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5440.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 55.27,
+  "data_analise": "2026-07-30T02:31:29Z",
+  "data_criacao": "2026-07-29T23:31:29.457095-03:00"
+}

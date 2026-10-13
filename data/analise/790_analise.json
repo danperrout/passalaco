@@ -1,0 +1,35 @@
+{
+  "id": 790,
+  "nome_original": "Lampiao",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "marrom",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "chapéu",
+      "lenço"
+    ],
+    "material_visual": "tecido sintético e couro sintético",
+    "estilo_corte": "estilo sertanejo tradicional com corte reto",
+    "acessorios_visiveis": [
+      "chapéu de couro",
+      "lenço verde",
+      "suspensórios de couro",
+      "cinto de couro"
+    ],
+    "tematica_detalhada": "Cangaço, representando a figura histórica de Lampião, referência à cultura do sertão nordestino brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/790.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.89,
+  "data_analise": "2026-07-29T08:53:45Z",
+  "data_criacao": "2026-07-29T05:53:45.504956-03:00"
+}

@@ -1,0 +1,10 @@
+{
+  "id": 5373,
+  "nome_original": "Jack Sparrow",
+  "erro": "resposta inválida do modelo",
+  "raw_response": null,
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.91,
+  "data_criacao": "2026-07-28T15:09:19.254645-03:00"
+}

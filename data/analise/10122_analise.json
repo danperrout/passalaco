@@ -1,0 +1,30 @@
+{
+  "id": 10122,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "prata",
+      "multicolorido"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia de franjas"
+    ],
+    "material_visual": "tecido sintético brilhante e fios metalizados",
+    "estilo_corte": "conjunto de duas peças, top ajustado e saia curta com franjas",
+    "acessorios_visiveis": [
+      "tiara com estrelas e lua crescente"
+    ],
+    "tematica_detalhada": "fantasia celestial ou astronômica, referenciando o céu noturno, estrelas e a lua"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10122.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.97,
+  "data_analise": "2026-07-27T19:27:55Z",
+  "data_criacao": "2026-07-27T16:27:55.298183-03:00"
+}

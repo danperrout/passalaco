@@ -1,0 +1,26 @@
+{
+  "id": 7281,
+  "nome_original": "Africano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético e miçangas",
+    "estilo_corte": "túnica solta com corte reto",
+    "acessorios_visiveis": [
+      "colar de miçangas",
+      "touca ornamentada"
+    ],
+    "tematica_detalhada": "estilização de traje tribal africano"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7281.jpg",
+  "data_analise": "2026-07-27T13:37:53Z"
+}

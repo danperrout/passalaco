@@ -1,0 +1,26 @@
+{
+  "id": 1469,
+  "nome_original": "Lady Gaga",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "loiro",
+      "mel"
+    ],
+    "pecas_inclusas": [
+      "peruca"
+    ],
+    "material_visual": "fibra sintética",
+    "estilo_corte": "cabelo longo com franja e coque estruturado no topo",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "estética pop extravagante inspirada na artista Lady Gaga"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1469.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.57,
+  "data_analise": "2026-07-29T08:31:34Z",
+  "data_criacao": "2026-07-29T05:31:34.038953-03:00"
+}

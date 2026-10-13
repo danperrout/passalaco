@@ -1,0 +1,31 @@
+{
+  "id": 748,
+  "nome_original": "Italiana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "blusa branca",
+      "avental verde",
+      "saia"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "estilo camponesa com corte em A",
+    "acessorios_visiveis": [
+      "tiara de flores"
+    ],
+    "tematica_detalhada": "Fantasia de camponesa italiana, baseada nas cores da bandeira da Itália"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/748.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 259.99,
+  "data_analise": "2026-07-28T17:48:50Z",
+  "data_criacao": "2026-07-28T14:48:50.828598-03:00"
+}

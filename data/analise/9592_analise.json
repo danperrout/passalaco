@@ -1,0 +1,26 @@
+{
+  "id": 9592,
+  "nome_original": "Peruca",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "peruca"
+    ],
+    "material_visual": "fibra sintética",
+    "estilo_corte": "longo com ondas e risca central",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "estilo gótico ou sobrenatural, remetendo a personagens como bruxas, vampiras ou figuras etéreas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9592.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.55,
+  "data_analise": "2026-07-30T03:16:48Z",
+  "data_criacao": "2026-07-30T00:16:48.746960-03:00"
+}

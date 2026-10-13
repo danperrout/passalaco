@@ -1,0 +1,30 @@
+{
+  "id": 9048,
+  "nome_original": "Guerreira Africana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "saia longa"
+    ],
+    "material_visual": "tecido sintético com brilho metálico ou acetinado",
+    "estilo_corte": "corte reto, cintura alta e top curto",
+    "acessorios_visiveis": [
+      "colar gargantilha largo",
+      "braceletes dourados"
+    ],
+    "tematica_detalhada": "Guerreira africana com referências a adornos tribais e estética de realeza ancestral"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9048.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 37.52,
+  "data_analise": "2026-07-28T11:48:46Z",
+  "data_criacao": "2026-07-28T08:48:46.422424-03:00"
+}

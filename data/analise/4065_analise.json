@@ -1,0 +1,30 @@
+{
+  "id": 4065,
+  "nome_original": "Sambista",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prata",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia",
+      "cartola"
+    ],
+    "material_visual": "tecido com lantejoulas",
+    "estilo_corte": "conjunto de duas peças curto com corte evasê na saia",
+    "acessorios_visiveis": [
+      "cartola com pluma"
+    ],
+    "tematica_detalhada": "fantasia de sambista ou passista de carnaval, com referências a trajes de show e brilho festivo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4065.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 42.44,
+  "data_analise": "2026-07-30T05:52:10Z",
+  "data_criacao": "2026-07-30T02:52:10.531958-03:00"
+}

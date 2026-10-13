@@ -1,0 +1,29 @@
+{
+  "id": 474,
+  "nome_original": "Dalmata",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "touca"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster",
+    "estilo_corte": "estilo kigurumi ou macacão largo e confortável",
+    "acessorios_visiveis": [
+      "touca com orelhas longas"
+    ],
+    "tematica_detalhada": "fantasia de dálmata ou animal com manchas, referenciando cães da raça dálmata ou vacas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/474.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 19.23,
+  "data_analise": "2026-07-28T02:24:40Z",
+  "data_criacao": "2026-07-27T23:24:40.693002-03:00"
+}

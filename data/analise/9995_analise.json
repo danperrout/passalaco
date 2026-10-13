@@ -1,0 +1,32 @@
+{
+  "id": 9995,
+  "nome_original": "Diabo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica com capuz",
+      "faixa para cintura",
+      "máscara"
+    ],
+    "material_visual": "tecido acetinado com brilho",
+    "estilo_corte": "túnica longa e fluida com mangas largas e extremidades recortadas",
+    "acessorios_visiveis": [
+      "máscara de diabo",
+      "cordão amarelo"
+    ],
+    "tematica_detalhada": "fantasia de diabo clássica, combinando elementos de túnica ritualística com referências ao folclore ocidental sobre entidades demoníacas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9995.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 33.34,
+  "data_analise": "2026-07-28T03:03:03Z",
+  "data_criacao": "2026-07-28T00:03:03.641801-03:00"
+}

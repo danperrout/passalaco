@@ -1,0 +1,29 @@
+{
+  "id": 3127,
+  "nome_original": "Cupido",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica"
+    ],
+    "material_visual": "tecido sintético leve com detalhes em fita dourada",
+    "estilo_corte": "túnica curta de corte reto com decote redondo",
+    "acessorios_visiveis": [
+      "peruca loira encaracolada",
+      "asas brancas"
+    ],
+    "tematica_detalhada": "Cupido, baseado na mitologia greco-romana, representando o deus do amor e do desejo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3127.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.55,
+  "data_analise": "2026-07-28T02:22:38Z",
+  "data_criacao": "2026-07-27T23:22:38.815692-03:00"
+}

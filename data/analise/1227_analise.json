@@ -1,0 +1,33 @@
+{
+  "id": 1227,
+  "nome_original": "Principe",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul royal",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "cetim ou poliéster com brilho",
+    "estilo_corte": "estilo príncipe clássico com gola jabot e acabamentos ornamentados",
+    "acessorios_visiveis": [
+      "chapéu com pluma vermelha",
+      "detalhes dourados",
+      "babados no pescoço"
+    ],
+    "tematica_detalhada": "fantasia de príncipe europeu clássico, com referências a contos de fadas ou trajes reais históricos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1227.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.79,
+  "data_analise": "2026-07-30T04:12:55Z",
+  "data_criacao": "2026-07-30T01:12:55.722936-03:00"
+}

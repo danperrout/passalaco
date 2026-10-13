@@ -1,0 +1,33 @@
+{
+  "id": 7741,
+  "nome_original": "Harry Potter",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz",
+      "cachecol",
+      "camisa branca",
+      "calça preta"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte solto e fluido, estilo túnica acadêmica",
+    "acessorios_visiveis": [
+      "óculos redondos",
+      "peruca preta"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Harry Potter, referenciando o uniforme da casa Gryffindor da Escola de Magia e Bruxaria de Hogwarts"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7741.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 39.04,
+  "data_analise": "2026-07-28T12:24:11Z",
+  "data_criacao": "2026-07-28T09:24:11.098858-03:00"
+}

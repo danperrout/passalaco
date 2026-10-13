@@ -1,0 +1,33 @@
+{
+  "id": 4657,
+  "nome_original": "Village People Indio",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "azul",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "cocar"
+    ],
+    "material_visual": "tecido sintético com detalhes em franjas",
+    "estilo_corte": "corte reto e folgado com acabamento em franjas na barra e punhos",
+    "acessorios_visiveis": [
+      "cocar de penas",
+      "colar de contas"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em estereótipos de indígenas norte-americanos, adaptada para o estilo performático do grupo Village People"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4657.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.55,
+  "data_analise": "2026-07-30T08:50:30Z",
+  "data_criacao": "2026-07-30T05:50:30.193320-03:00"
+}

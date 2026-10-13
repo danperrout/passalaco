@@ -1,0 +1,29 @@
+{
+  "id": 8813,
+  "nome_original": "Medieval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "veludo e tecido metalizado/lamê",
+    "estilo_corte": "estilo medieval com corpete estruturado, decote quadrado e mangas longas com punhos alargados",
+    "acessorios_visiveis": [
+      "coroa",
+      "colar"
+    ],
+    "tematica_detalhada": "realeza medieval ou fantasia de rainha gótica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8813.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 37.92,
+  "data_analise": "2026-07-29T21:10:53Z",
+  "data_criacao": "2026-07-29T18:10:53.892318-03:00"
+}

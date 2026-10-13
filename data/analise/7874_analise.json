@@ -1,0 +1,30 @@
+{
+  "id": 7874,
+  "nome_original": "Piloto",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macaquinho",
+      "boné"
+    ],
+    "material_visual": "tecido sintético com elastano, aspecto de lycra",
+    "estilo_corte": "ajustado ao corpo (slim fit) com comprimento curto",
+    "acessorios_visiveis": [
+      "boné",
+      "patches de patrocinadores"
+    ],
+    "tematica_detalhada": "Piloto de corrida automobilística, com referências a equipes de Fórmula 1"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7874.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.48,
+  "data_analise": "2026-07-30T03:28:50Z",
+  "data_criacao": "2026-07-30T00:28:50.637627-03:00"
+}

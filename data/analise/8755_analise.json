@@ -1,0 +1,34 @@
+{
+  "id": 8755,
+  "nome_original": "Mae e Filha Mulher Maravilha",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Casais",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido curto estilo body",
+      "tiara",
+      "braceletes",
+      "botas"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante e detalhes metalizados",
+    "estilo_corte": "ajustado ao corpo com decote em V e corte inferior em formato de cueca/body",
+    "acessorios_visiveis": [
+      "tiara dourada",
+      "braceletes dourados",
+      "botas cano alto"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na super-heroína Mulher Maravilha da DC Comics, em conjunto coordenado para mãe e filha"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8755.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 200.59,
+  "data_analise": "2026-07-29T14:41:36Z",
+  "data_criacao": "2026-07-29T11:41:36.427395-03:00"
+}

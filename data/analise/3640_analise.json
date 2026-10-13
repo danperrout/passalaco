@@ -1,0 +1,31 @@
+{
+  "id": 3640,
+  "nome_original": "Homem de Ferro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "camiseta temática",
+      "calça temática"
+    ],
+    "material_visual": "tecido sintético com impressão digital",
+    "estilo_corte": "ajustado ao corpo com design simulando armadura",
+    "acessorios_visiveis": [
+      "máscara facial do personagem",
+      "detalhe do reator arc no peito"
+    ],
+    "tematica_detalhada": "Fantasia do super-herói Homem de Ferro, personagem da Marvel Comics e do Universo Cinematográfico Marvel"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3640.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 112.69,
+  "data_analise": "2026-07-28T14:38:44Z",
+  "data_criacao": "2026-07-28T11:38:44.704754-03:00"
+}

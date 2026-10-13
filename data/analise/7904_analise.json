@@ -1,0 +1,31 @@
+{
+  "id": 7904,
+  "nome_original": "Lanterna Verde",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "bermuda",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou elastano",
+    "estilo_corte": "estilo casual/esportivo com ajuste regular",
+    "acessorios_visiveis": [
+      "máscara de olhos"
+    ],
+    "tematica_detalhada": "Personagem Lanterna Verde da DC Comics, apresentando o emblema característico no peito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7904.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 292.9,
+  "data_analise": "2026-07-29T09:47:21Z",
+  "data_criacao": "2026-07-29T06:47:21.537103-03:00"
+}

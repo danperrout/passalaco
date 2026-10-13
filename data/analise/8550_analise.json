@@ -1,0 +1,29 @@
+{
+  "id": 8550,
+  "nome_original": "Mascara",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prata",
+      "iridescente",
+      "transparente"
+    ],
+    "pecas_inclusas": [
+      "máscara"
+    ],
+    "material_visual": "pedrarias, cristais facetados e metal",
+    "estilo_corte": "estilo máscara de baile, recorte anatômico para os olhos",
+    "acessorios_visiveis": [
+      "strass"
+    ],
+    "tematica_detalhada": "estilo luxuoso de carnaval ou baile de máscaras, referenciando elegância e glamour"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8550.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 106.43,
+  "data_analise": "2026-07-29T18:34:27Z",
+  "data_criacao": "2026-07-29T15:34:27.023996-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 2765,
+  "nome_original": "Batman",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza",
+      "preto",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "macacão",
+      "capa"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "ajustado ao corpo",
+    "acessorios_visiveis": [
+      "máscara com orelhas",
+      "logotipo do Batman no peito"
+    ],
+    "tematica_detalhada": "Super-herói Batman, baseado nas versões clássicas dos quadrinhos da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2765.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.13,
+  "data_analise": "2026-07-27T17:49:31Z",
+  "data_criacao": "2026-07-27T14:49:31.726236-03:00"
+}

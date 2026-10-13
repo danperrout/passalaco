@@ -1,0 +1,30 @@
+{
+  "id": 6674,
+  "nome_original": "Thor Bebe",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capa"
+    ],
+    "material_visual": "tecido sintético acetinado",
+    "estilo_corte": "estilo macacão infantil com corte folgado",
+    "acessorios_visiveis": [
+      "capa vermelha"
+    ],
+    "tematica_detalhada": "Versão infantilizada do super-herói Thor, da Marvel Comics, focada em elementos icônicos como a capa vermelha."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6674.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 33.19,
+  "data_analise": "2026-07-30T07:59:04Z",
+  "data_criacao": "2026-07-30T04:59:04.220787-03:00"
+}

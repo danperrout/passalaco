@@ -1,0 +1,28 @@
+{
+  "id": 8081,
+  "nome_original": "Cinderela",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul claro",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "cetim e tule com detalhes em brilho/strass",
+    "estilo_corte": "estilo princesa com saia volumosa e corpete ajustado",
+    "acessorios_visiveis": [
+      "tiara"
+    ],
+    "tematica_detalhada": "Versão estilizada e curta do vestido de baile da Cinderela, referência ao conto de fadas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8081.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 31.75,
+  "data_analise": "2026-07-27T22:36:29Z",
+  "data_criacao": "2026-07-27T19:36:29.660460-03:00"
+}

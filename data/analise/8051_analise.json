@@ -1,0 +1,28 @@
+{
+  "id": 8051,
+  "nome_original": "Junina Mf",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com estampas de bolinhas e xadrez",
+    "estilo_corte": "modelo baby doll com saia curta em camadas de babados e decote tomara-que-caia com alças finas",
+    "acessorios_visiveis": [
+      "mini chapéu de palha decorado"
+    ],
+    "tematica_detalhada": "estilo caipira estilizado para festas juninas brasileiras, com elementos tradicionais como xadrez, chita e poás"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8051.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.41,
+  "data_analise": "2026-07-29T06:40:54Z",
+  "data_criacao": "2026-07-29T03:40:54.042729-03:00"
+}

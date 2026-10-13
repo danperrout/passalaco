@@ -1,0 +1,31 @@
+{
+  "id": 375,
+  "nome_original": "Carteiro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "bermuda",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "corte casual e solto",
+    "acessorios_visiveis": [
+      "boné",
+      "alça de bolsa"
+    ],
+    "tematica_detalhada": "fantasia de carteiro, referenciando uniformes de serviços postais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/375.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.38,
+  "data_analise": "2026-07-27T19:29:40Z",
+  "data_criacao": "2026-07-27T16:29:40.981468-03:00"
+}

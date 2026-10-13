@@ -1,0 +1,31 @@
+{
+  "id": 543,
+  "nome_original": "Duende",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde limão",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente poliéster",
+    "estilo_corte": "túnica com barra recortada em pontas e gola em V",
+    "acessorios_visiveis": [
+      "cinto dourado",
+      "chapéu cônico"
+    ],
+    "tematica_detalhada": "fantasia de duende ou elfo, referenciando criaturas folclóricas europeias e ajudantes de Natal"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/543.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 13.34,
+  "data_analise": "2026-07-28T03:25:31Z",
+  "data_criacao": "2026-07-28T00:25:31.032975-03:00"
+}

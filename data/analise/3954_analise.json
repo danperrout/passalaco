@@ -1,0 +1,25 @@
+{
+  "id": 3954,
+  "nome_original": "Morte",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica com capuz"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte longo, amplo e fluido",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": " personificação da Morte, referenciando a figura do Ceifador (Grim Reaper)"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3954.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 152.81,
+  "data_analise": "2026-07-29T23:00:27Z",
+  "data_criacao": "2026-07-29T20:00:27.297786-03:00"
+}

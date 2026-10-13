@@ -1,0 +1,32 @@
+{
+  "id": 7968,
+  "nome_original": "Paquita",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "jaqueta curta",
+      "shorts",
+      "chapéu"
+    ],
+    "material_visual": "cetim, lurex e tecido com brilho",
+    "estilo_corte": "estilo militar cropped com franjas nas mangas",
+    "acessorios_visiveis": [
+      "chapéu com pluma",
+      "galões dourados"
+    ],
+    "tematica_detalhada": "fantasia de Paquita, inspirada em bandas marciais e no grupo de apoio do Xuxa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7968.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 43.35,
+  "data_analise": "2026-07-30T02:29:00Z",
+  "data_criacao": "2026-07-29T23:29:00.066041-03:00"
+}

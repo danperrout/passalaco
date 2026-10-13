@@ -1,0 +1,26 @@
+{
+  "id": 7279,
+  "nome_original": "Africano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido sintético estampado",
+    "estilo_corte": "túnica longa e solta",
+    "acessorios_visiveis": [
+      "chapéu",
+      "colar de contas"
+    ],
+    "tematica_detalhada": "estilização de traje inspirado em culturas africanas com padrões geométricos e cores vibrantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7279.jpg",
+  "data_analise": "2026-07-27T13:37:47Z"
+}

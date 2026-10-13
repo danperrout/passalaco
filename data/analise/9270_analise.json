@@ -1,0 +1,32 @@
+{
+  "id": 9270,
+  "nome_original": "Familia Tio Chico",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "casaco longo",
+      "vestido",
+      "blusa listrada",
+      "calça"
+    ],
+    "material_visual": "veludo ou tecido sintético com brilho",
+    "estilo_corte": "estilo camponês/vintage com corte reto e solto",
+    "acessorios_visiveis": [
+      "tiara com tranças"
+    ],
+    "tematica_detalhada": "Fantasia de família inspirada em personagens rurais ou folclóricos, possivelmente referenciando a estética de 'O Mágico de Oz' ou figuras do interior"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9270.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.43,
+  "data_analise": "2026-07-28T04:59:41Z",
+  "data_criacao": "2026-07-28T01:59:41.939763-03:00"
+}

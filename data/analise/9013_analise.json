@@ -1,0 +1,28 @@
+{
+  "id": 9013,
+  "nome_original": "Junina Mf",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "azul claro"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim ou poliéster com acabamento em renda",
+    "estilo_corte": "estilo caipira estilizado, com decote ombro a ombro, busto ajustado e saia curta rodada em camadas",
+    "acessorios_visiveis": [
+      "chapéu de palha pequeno decorado"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, versão estilizada e moderna da roupa de caipira"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9013.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.49,
+  "data_analise": "2026-07-29T06:36:38Z",
+  "data_criacao": "2026-07-29T03:36:38.494155-03:00"
+}

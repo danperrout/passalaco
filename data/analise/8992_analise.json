@@ -1,0 +1,30 @@
+{
+  "id": 8992,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "tecido estampado com rendas e babados",
+    "estilo_corte": "vestido infantil rodado com mangas bufantes",
+    "acessorios_visiveis": [
+      "tiara com laço e fitas"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina infantil, estilo caipira estilizada com foco em cores vibrantes e elementos campestres"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8992.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 65.21,
+  "data_analise": "2026-07-28T23:30:47Z",
+  "data_criacao": "2026-07-28T20:30:47.993415-03:00"
+}

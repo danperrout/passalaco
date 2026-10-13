@@ -1,0 +1,26 @@
+{
+  "id": 7014,
+  "nome_original": "Cangaceiro Blusa e Calça",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "caqui"
+    ],
+    "pecas_inclusas": [
+      "blusa"
+    ],
+    "material_visual": "tecido sintético ou algodão com aparência de brim",
+    "estilo_corte": "camisa de manga longa com gola e fechamento frontal por botões",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Cangaceiro, referência cultural ao sertão nordestino e ao cangaço brasileiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7014.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.62,
+  "data_analise": "2026-07-27T18:53:49Z",
+  "data_criacao": "2026-07-27T15:53:49.527607-03:00"
+}

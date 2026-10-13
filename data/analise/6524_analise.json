@@ -1,0 +1,30 @@
+{
+  "id": 6524,
+  "nome_original": "Pikachu",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético felpudo ou soft",
+    "estilo_corte": "estilo kigurumi / macacão largo",
+    "acessorios_visiveis": [
+      "orelhas no capuz"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Pikachu, da franquia Pokémon"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6524.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 27.79,
+  "data_analise": "2026-07-30T03:27:33Z",
+  "data_criacao": "2026-07-30T00:27:33.538972-03:00"
+}

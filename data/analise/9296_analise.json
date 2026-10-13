@@ -1,0 +1,31 @@
+{
+  "id": 9296,
+  "nome_original": "Harry Potter",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vinho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz",
+      "cachecol"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "longo e fluido com mangas largas",
+    "acessorios_visiveis": [
+      "óculos redondos",
+      "varinha"
+    ],
+    "tematica_detalhada": "estudante da casa Gryffindor da Escola de Magia e Bruxaria de Hogwarts, referenciando o personagem Harry Potter"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9296.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 179.75,
+  "data_analise": "2026-07-28T12:19:54Z",
+  "data_criacao": "2026-07-28T09:19:54.753672-03:00"
+}

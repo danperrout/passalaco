@@ -1,0 +1,31 @@
+{
+  "id": 8601,
+  "nome_original": "Policial",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "bermuda",
+      "quepe"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "estilo uniforme militar com corte reto",
+    "acessorios_visiveis": [
+      "insígnias",
+      "escudo no peito",
+      "brasão na manga"
+    ],
+    "tematica_detalhada": "fantasia de policial genérica, inspirada em uniformes de forças de segurança urbana"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8601.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.35,
+  "data_analise": "2026-07-30T03:46:31Z",
+  "data_criacao": "2026-07-30T00:46:31.607937-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 10036,
+  "nome_original": "Feiticeira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vinho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa com capuz"
+    ],
+    "material_visual": "cetim, renda e tecido com brilho metálico/paetê",
+    "estilo_corte": "vestido curto com saia armada em camadas e decote ombro a ombro",
+    "acessorios_visiveis": [
+      "capa com capuz"
+    ],
+    "tematica_detalhada": "feiticeira ou bruxa moderna com referências ao estilo gótico e fantasia dark"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10036.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 127.16,
+  "data_analise": "2026-07-28T05:35:14Z",
+  "data_criacao": "2026-07-28T02:35:14.788365-03:00"
+}

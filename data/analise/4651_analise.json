@@ -1,0 +1,31 @@
+{
+  "id": 4651,
+  "nome_original": "Chiquititas",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "tecido sintético com partes estampadas",
+    "estilo_corte": "vestido com gola, mangas curtas bufantes e saia plissada",
+    "acessorios_visiveis": [
+      "tiara",
+      "cinto com fivela laranja",
+      "meias"
+    ],
+    "tematica_detalhada": "Fantasia inspirada nos personagens da série Chiquititas, remetendo ao uniforme do orfanato"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4651.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 136.57,
+  "data_analise": "2026-07-27T21:41:53Z",
+  "data_criacao": "2026-07-27T18:41:53.652215-03:00"
+}

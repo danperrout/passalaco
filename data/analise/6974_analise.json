@@ -1,0 +1,28 @@
+{
+  "id": 6974,
+  "nome_original": "Suspensorio",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "suspensório"
+    ],
+    "material_visual": "tecido sintético elástico",
+    "estilo_corte": "estilo Y com presilhas metálicas",
+    "acessorios_visiveis": [
+      "presilhas de metal",
+      "reguladores de metal"
+    ],
+    "tematica_detalhada": "acessório de vestuário versátil, frequentemente utilizado em fantasias de operário, referências retrô ou personagens coloridos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6974.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.62,
+  "data_analise": "2026-07-30T07:33:30Z",
+  "data_criacao": "2026-07-30T04:33:30.353204-03:00"
+}

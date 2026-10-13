@@ -1,0 +1,28 @@
+{
+  "id": 3564,
+  "nome_original": "Carimbo",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "amarelo",
+      "rosa",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampas coloridas e brilho",
+    "estilo_corte": "vestido longo e fluido com alças finas",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia com estética vibrante e abstrata, sugerindo um tema de cores explosivas ou artístico, remetendo a padrões de tinta ou carimbos coloridos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3564.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.32,
+  "data_analise": "2026-07-27T19:19:39Z",
+  "data_criacao": "2026-07-27T16:19:39.050912-03:00"
+}

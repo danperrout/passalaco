@@ -1,0 +1,26 @@
+{
+  "id": 9735,
+  "nome_original": "Fred",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "corte reto sem mangas com barra irregular e rasgada",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "estilo homem das cavernas ou pré-histórico, referenciando personagens como Fred Flintstone"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9735.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 62.72,
+  "data_analise": "2026-07-28T06:23:12Z",
+  "data_criacao": "2026-07-28T03:23:12.589612-03:00"
+}

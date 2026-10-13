@@ -1,0 +1,25 @@
+{
+  "id": 3693,
+  "nome_original": "Anjo Feminino",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "asas"
+    ],
+    "material_visual": "tecidos leves com rendas e penas",
+    "estilo_corte": "curto com saia volumosa e decote trabalhado",
+    "acessorios_visiveis": [
+      "tiara",
+      "asas de anjo"
+    ],
+    "tematica_detalhada": "anjo feminino clássico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3693.jpg",
+  "data_analise": "2026-07-27T13:57:34Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 2642,
+  "nome_original": "Abelha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "tiara"
+    ],
+    "material_visual": "tecido sintético com saia de tule",
+    "estilo_corte": "estilo vestido curto com listras horizontais e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara com antenas",
+      "asas de abelha"
+    ],
+    "tematica_detalhada": "fantasia de abelha"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2642.jpg",
+  "data_analise": "2026-07-27T14:17:06Z"
+}

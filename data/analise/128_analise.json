@@ -1,0 +1,29 @@
+{
+  "id": 128,
+  "nome_original": "Astronauta",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Profissões",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prata",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "capacete",
+      "macacão"
+    ],
+    "material_visual": "tecido acetinado com aspecto metálico e detalhes em tela/tule no visor",
+    "estilo_corte": "corte estruturado com acabamento em costuras aparentes, simulando um traje espacial",
+    "acessorios_visiveis": [
+      "capacete com visor de rede"
+    ],
+    "tematica_detalhada": "Astronauta/Exploração espacial, com a bandeira do Brasil aplicada no peito"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/128.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 8.44,
+  "data_analise": "2026-07-27T16:55:53Z",
+  "data_criacao": "2026-07-27T13:55:53.718626-03:00"
+}

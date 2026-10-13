@@ -1,0 +1,33 @@
+{
+  "id": 5296,
+  "nome_original": "Guarda da Rainha",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado",
+    "estilo_corte": "corte militar estruturado com fechamento frontal por botões ornamentais",
+    "acessorios_visiveis": [
+      "chapéu de pele sintética",
+      "detalhes dourados nos ombros",
+      "corrente decorativa no pescoço"
+    ],
+    "tematica_detalhada": "Guarda Real Britânico, inspirada nos soldados da guarda da Rainha do Reino Unido"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5296.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 49.37,
+  "data_analise": "2026-07-28T11:31:13Z",
+  "data_criacao": "2026-07-28T08:31:13.625105-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 8949,
+  "nome_original": "Homem Aranha",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "macacão"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante e detalhes em relevo",
+    "estilo_corte": "ajustado ao corpo (slim fit) com design de peça única",
+    "acessorios_visiveis": [
+      "máscara integral"
+    ],
+    "tematica_detalhada": "versão alternativa do Homem-Aranha com cores invertidas ou personalizada, referenciando o herói da Marvel com padrão de teia amarela sobre fundo preto"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8949.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 101.38,
+  "data_analise": "2026-07-28T14:01:47Z",
+  "data_criacao": "2026-07-28T11:01:47.504300-03:00"
+}

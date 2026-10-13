@@ -1,0 +1,30 @@
+{
+  "id": 249,
+  "nome_original": "Bobo da Corte",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calças",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "estilo bicolor dividido verticalmente com barras em formato de ziguezague",
+    "acessorios_visiveis": [
+      "chapéu de bobo da corte com guizos"
+    ],
+    "tematica_detalhada": "Bobo da Corte medieval, personagem clássico de entretenimento real caracterizado por cores contrastantes e visual cômico"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/249.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.87,
+  "data_analise": "2026-07-27T18:16:37Z",
+  "data_criacao": "2026-07-27T15:16:37.476127-03:00"
+}

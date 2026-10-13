@@ -1,0 +1,35 @@
+{
+  "id": 4428,
+  "nome_original": "Harry Potter Hermione",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "cinza",
+      "vinho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz",
+      "camisa branca",
+      "saia plissada",
+      "gravata"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster",
+    "estilo_corte": "estilo uniforme escolar clássico com capa longa",
+    "acessorios_visiveis": [
+      "gravata listrada",
+      "cinto listrado",
+      "emblema da casa"
+    ],
+    "tematica_detalhada": "Fantasia baseada na personagem Hermione Granger da franquia Harry Potter, representando o uniforme da casa Gryffindor da Escola de Magia e Bruxaria de Hogwarts"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4428.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 106.38,
+  "data_analise": "2026-07-28T12:58:38Z",
+  "data_criacao": "2026-07-28T09:58:38.263506-03:00"
+}

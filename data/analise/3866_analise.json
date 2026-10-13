@@ -1,0 +1,31 @@
+{
+  "id": 3866,
+  "nome_original": "Jacare",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde escuro",
+      "verde oliva"
+    ],
+    "pecas_inclusas": [
+      "capuz",
+      "blusa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster ou plush",
+    "estilo_corte": "corte amplo e confortável, estilo pijama ou macacão",
+    "acessorios_visiveis": [
+      "espinhos decorativos no capuz",
+      "cauda"
+    ],
+    "tematica_detalhada": "fantasia de jacaré, representação animal simplificada para festas ou eventos infantis"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3866.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 44.36,
+  "data_analise": "2026-07-28T17:57:17Z",
+  "data_criacao": "2026-07-28T14:57:17.550234-03:00"
+}

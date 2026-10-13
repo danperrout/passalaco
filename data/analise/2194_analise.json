@@ -1,0 +1,31 @@
+{
+  "id": 2194,
+  "nome_original": "Shrek Burro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "tecido sintético macio, similar a plush ou soft",
+    "estilo_corte": "estilo kigurumi ou pijama corpo inteiro com fechamento frontal em zíper",
+    "acessorios_visiveis": [
+      "capuz com orelhas e focinho de burro",
+      "luvas pretas",
+      "calçados pretos"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Burro, do filme Shrek"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2194.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.44,
+  "data_analise": "2026-07-30T06:39:14Z",
+  "data_criacao": "2026-07-30T03:39:14.093177-03:00"
+}

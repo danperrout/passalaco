@@ -1,0 +1,26 @@
+{
+  "id": 4479,
+  "nome_original": "Peruca Draculaura",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "peruca"
+    ],
+    "material_visual": "fibra sintética brilhante",
+    "estilo_corte": "longo com franja reta e duas maria-chiquinhas",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Personagem Draculaura da franquia Monster High, inspirada em uma vampira adolescente"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4479.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.99,
+  "data_analise": "2026-07-30T03:19:04Z",
+  "data_criacao": "2026-07-30T00:19:04.885232-03:00"
+}

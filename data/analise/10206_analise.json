@@ -1,0 +1,28 @@
+{
+  "id": 10206,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido xadrez com detalhes em renda e cetim",
+    "estilo_corte": "vestido rodado com mangas bufantes e babados",
+    "acessorios_visiveis": [
+      "tiara com laço colorido"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, representando o traje típico caipira infantil com elementos ornamentais como o coração no busto"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10206.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 14.39,
+  "data_analise": "2026-07-29T01:59:10Z",
+  "data_criacao": "2026-07-28T22:59:10.570838-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 335,
+  "nome_original": "Burrinho",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão de corpo inteiro",
+      "capuz com cabeça de animal"
+    ],
+    "material_visual": "pelúcia sintética e tecido felpudo",
+    "estilo_corte": "estilo kigurumi ou pijama personagem, modelagem ampla e confortável",
+    "acessorios_visiveis": [
+      "crina de fios sintéticos",
+      "orelhas integradas"
+    ],
+    "tematica_detalhada": "fantasia de burro ou cavalinho, representando um animal de carga de forma lúdica e infantil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/335.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.33,
+  "data_analise": "2026-07-27T18:42:10Z",
+  "data_criacao": "2026-07-27T15:42:10.640219-03:00"
+}

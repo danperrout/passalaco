@@ -1,0 +1,30 @@
+{
+  "id": 2476,
+  "nome_original": "Deusa Grega",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "braceletes"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco e detalhes em fitas metálicas",
+    "estilo_corte": "estilo império com decote quadrado e caimento fluido",
+    "acessorios_visiveis": [
+      "tiara de contas douradas",
+      "braceletes combinando"
+    ],
+    "tematica_detalhada": "Deusa Grega ou figura da mitologia clássica, com paleta de cores alternativa em preto e dourado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2476.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 32.24,
+  "data_analise": "2026-07-28T02:54:08Z",
+  "data_criacao": "2026-07-27T23:54:08.410830-03:00"
+}

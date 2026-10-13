@@ -1,0 +1,30 @@
+{
+  "id": 7646,
+  "nome_original": "Zumbi",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "marrom",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com aparência desgastada",
+    "estilo_corte": "estilo rasgado e irregular com barras desfiadas",
+    "acessorios_visiveis": [
+      "peruca preta"
+    ],
+    "tematica_detalhada": "Zumbi clássico, caracterizado por roupas sujas, rasgadas e manchas que simulam sangue"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7646.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.58,
+  "data_analise": "2026-07-30T09:06:05Z",
+  "data_criacao": "2026-07-30T06:06:05.644943-03:00"
+}

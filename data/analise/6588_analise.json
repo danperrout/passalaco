@@ -1,0 +1,30 @@
+{
+  "id": 6588,
+  "nome_original": "Ladybug",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com elasticidade, possivelmente lycra ou poliéster",
+    "estilo_corte": "ajustado ao corpo (slim fit) com mangas longas e calças longas",
+    "acessorios_visiveis": [
+      "máscara",
+      "bolsa transversal pequena"
+    ],
+    "tematica_detalhada": "fantasia de joaninha, fortemente referenciada à personagem Ladybug da série Miraculous"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6588.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 216.85,
+  "data_analise": "2026-07-29T08:40:05Z",
+  "data_criacao": "2026-07-29T05:40:05.217478-03:00"
+}

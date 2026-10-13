@@ -1,0 +1,28 @@
+{
+  "id": 9127,
+  "nome_original": "Corset",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "creme",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "corset"
+    ],
+    "material_visual": "renda com acabamento em cetim",
+    "estilo_corte": "ajustado ao corpo com barbatanas frontais e decote coração",
+    "acessorios_visiveis": [
+      "laço decorativo"
+    ],
+    "tematica_detalhada": "estilo vintage ou vitoriano, remetendo a lingeries clássicas ou fantasias de época"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9127.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.18,
+  "data_analise": "2026-07-28T01:47:45Z",
+  "data_criacao": "2026-07-27T22:47:45.877180-03:00"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 3056,
+  "nome_original": "Ninja",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "túnica",
+      "calças",
+      "faixa abdominal",
+      "protetor de perna"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster ou cetim",
+    "estilo_corte": "ajustado ao corpo com elementos sobrepostos e amarrações",
+    "acessorios_visiveis": [
+      "faixa de cabeça",
+      "detalhes em fitas vermelhas",
+      "estampa circular frontal"
+    ],
+    "tematica_detalhada": "Guerreiro Ninja japonês, com referências a clãs fictícios de artes marciais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3056.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 110.31,
+  "data_analise": "2026-07-29T23:51:27Z",
+  "data_criacao": "2026-07-29T20:51:27.387661-03:00"
+}

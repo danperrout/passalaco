@@ -1,0 +1,32 @@
+{
+  "id": 8309,
+  "nome_original": "Conde Dracula",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "calça",
+      "camisa",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético fosco com acabamento em cetim ou similar no jabot",
+    "estilo_corte": "corte longilíneo com gola alta estruturada e drapeado no peito",
+    "acessorios_visiveis": [
+      "chapéu de pele sintética",
+      "jabot vermelho"
+    ],
+    "tematica_detalhada": "Vampiro clássico, especificamente inspirado no Conde Drácula, com elementos góticos e aristocráticos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8309.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 18.95,
+  "data_analise": "2026-07-28T01:22:17Z",
+  "data_criacao": "2026-07-27T22:22:17.669901-03:00"
+}

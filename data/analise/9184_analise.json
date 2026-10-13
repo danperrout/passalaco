@@ -1,0 +1,30 @@
+{
+  "id": 9184,
+  "nome_original": "Futebol Americano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "bermuda"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente poliéster",
+    "estilo_corte": "corte oversized, camisa de botão estilo jersey",
+    "acessorios_visiveis": [
+      "capacete com grade de proteção"
+    ],
+    "tematica_detalhada": "fantasia inspirada em esportes americanos, especificamente beisebol, com referência ao time Los Angeles Dodgers"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9184.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 29.74,
+  "data_analise": "2026-07-28T06:39:07Z",
+  "data_criacao": "2026-07-28T03:39:07.982011-03:00"
+}

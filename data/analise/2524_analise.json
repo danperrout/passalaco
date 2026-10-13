@@ -1,0 +1,32 @@
+{
+  "id": 2524,
+  "nome_original": "Charles Chaplin",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "camisa",
+      "gravata borboleta"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "clássico formal com paletó ajustado e calças retas",
+    "acessorios_visiveis": [
+      "cartola",
+      "bengala"
+    ],
+    "tematica_detalhada": "Fantasia do personagem 'O Vagabundo' interpretado por Charles Chaplin, referência ao cinema mudo do início do século XX"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2524.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 72.7,
+  "data_analise": "2026-07-27T20:32:40Z",
+  "data_criacao": "2026-07-27T17:32:40.169327-03:00"
+}

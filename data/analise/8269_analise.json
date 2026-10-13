@@ -1,0 +1,29 @@
+{
+  "id": 8269,
+  "nome_original": "Dinossauro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "tecido sintético texturizado",
+    "estilo_corte": "estilo kigurumi ou macacão integral",
+    "acessorios_visiveis": [
+      "cauda",
+      "capuz com dentes"
+    ],
+    "tematica_detalhada": "dinossauro estilizado, com cores vibrantes e design infantil"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8269.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.41,
+  "data_analise": "2026-07-28T03:06:38Z",
+  "data_criacao": "2026-07-28T00:06:38.411097-03:00"
+}

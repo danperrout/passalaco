@@ -1,0 +1,33 @@
+{
+  "id": 1223,
+  "nome_original": "Principe",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "chapéu",
+      "camisa"
+    ],
+    "material_visual": "cetim ou veludo sintético com detalhes em renda",
+    "estilo_corte": "estilo militar imperial com gola alta e corte reto",
+    "acessorios_visiveis": [
+      "chapéu com pluma vermelha",
+      "dragonas douradas"
+    ],
+    "tematica_detalhada": "Príncipe clássico ou guarda imperial, com referências a uniformes militares nobiliários europeus"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1223.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.61,
+  "data_analise": "2026-07-30T04:13:14Z",
+  "data_criacao": "2026-07-30T01:13:14.816197-03:00"
+}

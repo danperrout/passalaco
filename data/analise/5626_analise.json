@@ -1,0 +1,29 @@
+{
+  "id": 5626,
+  "nome_original": "Gari",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga curta",
+      "bermuda"
+    ],
+    "material_visual": "tecido sintético ou poliéster",
+    "estilo_corte": "corte reto e folgado, estilo uniforme operacional",
+    "acessorios_visiveis": [
+      "faixas refletivas"
+    ],
+    "tematica_detalhada": "fantasia de gari ou trabalhador de serviços urbanos, baseada em uniformes de alta visibilidade para segurança no trabalho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5626.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 268.54,
+  "data_analise": "2026-07-28T07:05:04Z",
+  "data_criacao": "2026-07-28T04:05:04.783472-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 6176,
+  "nome_original": "Madrasta",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "tiara"
+    ],
+    "material_visual": "tecido sintético com brilho e detalhes em cetim",
+    "estilo_corte": "vestido curto com saia assimétrica e decote em V",
+    "acessorios_visiveis": [
+      "tiara dourada com faixa preta"
+    ],
+    "tematica_detalhada": "Fantasia de Madrasta Malévola ou vilã de contos de fadas, com estética gótica e real"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6176.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 53.48,
+  "data_analise": "2026-07-29T13:12:08Z",
+  "data_criacao": "2026-07-29T10:12:08.714704-03:00"
+}

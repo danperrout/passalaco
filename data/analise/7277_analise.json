@@ -1,0 +1,31 @@
+{
+  "id": 7277,
+  "nome_original": "Sereia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "prateado",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido translúcido com aplicação de lantejoulas e glitter",
+    "estilo_corte": "estilo sereia, ajustado ao corpo e abrindo em volume na parte inferior",
+    "acessorios_visiveis": [
+      "peruca laranja",
+      "colar de pérolas",
+      "tiara/adorno de cabeça"
+    ],
+    "tematica_detalhada": "fantasia de sereia com referências à Pequena Sereia, focada em elementos marítimos e brilho"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7277.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 79.03,
+  "data_analise": "2026-07-30T06:19:03Z",
+  "data_criacao": "2026-07-30T03:19:03.679150-03:00"
+}

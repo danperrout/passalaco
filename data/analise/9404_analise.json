@@ -1,0 +1,31 @@
+{
+  "id": 9404,
+  "nome_original": "Can Can",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Danças",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "dourado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "tiara"
+    ],
+    "material_visual": "tule, renda e tecido sintético brilhante",
+    "estilo_corte": "estilo império com saia volumosa e babados",
+    "acessorios_visiveis": [
+      "colar de pérolas",
+      "tiara com pompom"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em dançarinas de Can Can, com referências ao cabaret francês, focada em cores vibrantes e volume"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9404.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.0,
+  "data_analise": "2026-07-27T18:52:58Z",
+  "data_criacao": "2026-07-27T15:52:58.400809-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 8402,
+  "nome_original": "Coringa Vermelha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "blazer",
+      "colete",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com acabamento fosco",
+    "estilo_corte": "conjunto formal feminino composto por blazer estruturado e saia plissada curta",
+    "acessorios_visiveis": [
+      "lenço de pescoço"
+    ],
+    "tematica_detalhada": "versão feminina inspirada no personagem Coringa, utilizando a paleta de cores clássica do vilão em um traje social"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8402.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 42.18,
+  "data_analise": "2026-07-28T01:36:12Z",
+  "data_criacao": "2026-07-27T22:36:12.101903-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 5060,
+  "nome_original": "Pato",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "tecido sintético brilhante, possivelmente poliéster",
+    "estilo_corte": "corte oversized tipo kigurumi ou pijama animal",
+    "acessorios_visiveis": [
+      "bico de pato acoplado ao capuz",
+      "olhos decorativos"
+    ],
+    "tematica_detalhada": "fantasia de patinho amarelo, referência a personagens infantis ou animais domésticos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5060.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 122.5,
+  "data_analise": "2026-07-30T02:40:40Z",
+  "data_criacao": "2026-07-29T23:40:40.480598-03:00"
+}

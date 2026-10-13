@@ -1,0 +1,27 @@
+{
+  "id": 4611,
+  "nome_original": "Condessa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "cetim, renda e tule",
+    "estilo_corte": "decote ombro a ombro com saia volumosa estilo tutu",
+    "acessorios_visiveis": [
+      "tiara com rede/fascinator"
+    ],
+    "tematica_detalhada": "Condessa gótica ou aristocracia sombria, com referências ao estilo vitoriano modernizado"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4611.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.11,
+  "data_analise": "2026-07-28T01:29:22Z",
+  "data_criacao": "2026-07-27T22:29:22.452264-03:00"
+}

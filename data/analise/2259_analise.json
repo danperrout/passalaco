@@ -1,0 +1,33 @@
+{
+  "id": 2259,
+  "nome_original": "Patata",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Circo",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "peruca",
+      "jaqueta",
+      "calça"
+    ],
+    "material_visual": "tecido sintético brilhante, possivelmente poliéster ou cetim",
+    "estilo_corte": "corte largo e volumoso, estilo traje de personagem",
+    "acessorios_visiveis": [
+      "laço amarelo",
+      "botões decorativos"
+    ],
+    "tematica_detalhada": "fantasia infantil temática de personagem colorido, com referências a trajes circenses ou personagens de animação"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2259.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 10.19,
+  "data_analise": "2026-07-30T02:33:42Z",
+  "data_criacao": "2026-07-29T23:33:42.371098-03:00"
+}

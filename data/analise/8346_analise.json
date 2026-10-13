@@ -1,0 +1,29 @@
+{
+  "id": 8346,
+  "nome_original": "Vampirina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho e detalhes em glitter",
+    "estilo_corte": "vestido com manguinhas bufantes e barra recortada em pontas",
+    "acessorios_visiveis": [
+      "tiara com morcegos",
+      "pulseiras azuis"
+    ],
+    "tematica_detalhada": "fantasia da personagem Vampirina, combinando elementos de vampira com estética infantil e teia de aranha"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8346.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.46,
+  "data_analise": "2026-07-30T08:48:31Z",
+  "data_criacao": "2026-07-30T05:48:31.026057-03:00"
+}

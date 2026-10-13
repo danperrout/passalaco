@@ -1,0 +1,29 @@
+{
+  "id": 5652,
+  "nome_original": "Dançarina de Salao",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "bolero/casaquinho"
+    ],
+    "material_visual": "cetim e renda",
+    "estilo_corte": "curto com cintura marcada e mangas longas em renda",
+    "acessorios_visiveis": [
+      "fascinator com plumas rosa"
+    ],
+    "tematica_detalhada": "Dançarina de salão estilo cabaret ou cancan, com referências à moda vintage francesa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5652.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.55,
+  "data_analise": "2026-07-28T02:48:24Z",
+  "data_criacao": "2026-07-27T23:48:24.112368-03:00"
+}

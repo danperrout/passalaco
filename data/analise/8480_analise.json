@@ -1,0 +1,29 @@
+{
+  "id": 8480,
+  "nome_original": "Caveira Mexicana",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda e cetim",
+    "estilo_corte": "estilo vestido curto com saia volumosa e armada",
+    "acessorios_visiveis": [
+      "tiara de flores vermelhas",
+      "maquiagem de caveira"
+    ],
+    "tematica_detalhada": "Caveira Mexicana, inspirada no Dia de los Muertos, combinando elementos góticos com folclore mexicano"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8480.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 50.02,
+  "data_analise": "2026-07-27T19:41:40Z",
+  "data_criacao": "2026-07-27T16:41:40.302207-03:00"
+}

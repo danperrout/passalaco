@@ -1,0 +1,29 @@
+{
+  "id": 4091,
+  "nome_original": "Dama",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza",
+      "roxo",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado",
+    "estilo_corte": "estilo medieval com corpete estruturado e saia fluida",
+    "acessorios_visiveis": [
+      "tiara dourada"
+    ],
+    "tematica_detalhada": "fantasia de dama ou princesa medieval/renascentista"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4091.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 27.55,
+  "data_analise": "2026-07-28T02:29:00Z",
+  "data_criacao": "2026-07-27T23:29:00.016108-03:00"
+}

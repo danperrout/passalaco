@@ -1,0 +1,31 @@
+{
+  "id": 9536,
+  "nome_original": "Bruxa",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Halloween Infantil",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vinho",
+      "bordô",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa com capuz"
+    ],
+    "material_visual": "veludo e tecido brilhante com glitter",
+    "estilo_corte": "vestido longo com saia volumosa e capa fluida",
+    "acessorios_visiveis": [
+      "laço no pescoço",
+      "detalhes dourados na cintura"
+    ],
+    "tematica_detalhada": "Bruxa elegante ou personagem de conto de fadas com estética gótica luxuosa"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9536.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.72,
+  "data_analise": "2026-07-27T18:29:33Z",
+  "data_criacao": "2026-07-27T15:29:33.208884-03:00"
+}

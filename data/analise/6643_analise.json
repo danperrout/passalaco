@@ -1,0 +1,31 @@
+{
+  "id": 6643,
+  "nome_original": "Robin Hood",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "marrom",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "chapéu"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante com detalhes em renda",
+    "estilo_corte": "estilo camponesa medieval com corpete ajustado e saia rodada",
+    "acessorios_visiveis": [
+      "cinto marrom com fivela",
+      "chapéu com pena"
+    ],
+    "tematica_detalhada": "fantasia inspirada no personagem Robin Hood, remetendo ao arquétipo do arqueiro medieval da floresta"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6643.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 66.25,
+  "data_analise": "2026-07-30T04:58:51Z",
+  "data_criacao": "2026-07-30T01:58:51.796944-03:00"
+}

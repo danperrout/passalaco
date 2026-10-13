@@ -1,0 +1,25 @@
+{
+  "id": 1898,
+  "nome_original": "Noiva",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "renda e tecido sintético acetinado",
+    "estilo_corte": "corte evasê com mangas bufantes e decote arredondado",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia de noiva clássica, remetendo a trajes matrimoniais tradicionais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1898.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 68.83,
+  "data_analise": "2026-07-30T00:02:04Z",
+  "data_criacao": "2026-07-29T21:02:04.053448-03:00"
+}

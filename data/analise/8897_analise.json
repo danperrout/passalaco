@@ -1,0 +1,29 @@
+{
+  "id": 8897,
+  "nome_original": "Bela",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético brilhante com aplicações decorativas",
+    "estilo_corte": "vestido longo com corpete ajustado e saia volumosa",
+    "acessorios_visiveis": [
+      "rosas decorativas",
+      "detalhes brilhantes"
+    ],
+    "tematica_detalhada": "Personagem Bela, do conto de fadas 'A Bela e a Fera', referenciando o icônico vestido de baile amarelo"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8897.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.53,
+  "data_analise": "2026-07-27T17:52:30Z",
+  "data_criacao": "2026-07-27T14:52:30.503481-03:00"
+}

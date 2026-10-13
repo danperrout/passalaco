@@ -1,0 +1,33 @@
+{
+  "id": 1489,
+  "nome_original": "Popeye",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "azul",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético fosco, possivelmente poliéster",
+    "estilo_corte": "estilo marinheiro com gola larga e mangas bufantes",
+    "acessorios_visiveis": [
+      "cinto amarelo",
+      "chapéu de marinheiro"
+    ],
+    "tematica_detalhada": "Fantasia de marinheiro inspirada no personagem Popeye, com referências náuticas como as âncoras estampadas nas mangas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1489.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 19.33,
+  "data_analise": "2026-07-30T03:48:32Z",
+  "data_criacao": "2026-07-30T00:48:32.738208-03:00"
+}

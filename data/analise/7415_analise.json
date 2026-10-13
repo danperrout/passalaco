@@ -1,0 +1,28 @@
+{
+  "id": 7415,
+  "nome_original": "Arlequina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido plano no corpete e tule na saia",
+    "estilo_corte": "vestido de festa com saia evasê em camadas de tule",
+    "acessorios_visiveis": [
+      "máscara de olhos"
+    ],
+    "tematica_detalhada": "personagem Arlequina da DC Comics"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7415.jpg",
+  "modelo": "google/gemma-4-26b-a4b-it:free",
+  "provider": "openrouter",
+  "tempo_analise_sec": 11.47,
+  "data_analise": "2026-07-27T16:53:05Z",
+  "data_criacao": "2026-07-27T13:53:05.953988-03:00"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 27,
+  "nome_original": "Aladim",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul escuro"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "calça",
+      "gorro"
+    ],
+    "material_visual": "tecido sintético com brilho e acabamento acetinado",
+    "estilo_corte": "estilo árabe tradicional com calças largas e colete ajustado",
+    "acessorios_visiveis": [
+      "gorro",
+      "detalhes dourados no colete"
+    ],
+    "tematica_detalhada": "Personagem Aladim inspirado em contos árabes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/27.jpg",
+  "data_analise": "2026-07-27T13:38:51Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 9266,
+  "nome_original": "Wandinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "cetim e tule",
+    "estilo_corte": "corte evasê com saia em camadas de babados e mangas curtas bufantes",
+    "acessorios_visiveis": [
+      "peruca com tranças",
+      "cinto",
+      "mão artificial no ombro"
+    ],
+    "tematica_detalhada": "fantasia da personagem Wandinha Addams, referência à Família Addams, com estética gótica"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9266.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.14,
+  "data_analise": "2026-07-30T08:54:22Z",
+  "data_criacao": "2026-07-30T05:54:22.710583-03:00"
+}

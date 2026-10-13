@@ -1,0 +1,29 @@
+{
+  "id": 289,
+  "nome_original": "Bruxa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "roxo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com aspecto acetinado e acabamento desfiado na barra",
+    "estilo_corte": "vestido curto sem mangas com decote em V e barra irregular/rasgada",
+    "acessorios_visiveis": [
+      "chapéu de bruxa pontudo com faixa roxa"
+    ],
+    "tematica_detalhada": "fantasia clássica de bruxa, com estética gótica e referências a personagens de contos de fadas e Halloween"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/289.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 21.28,
+  "data_analise": "2026-07-27T18:28:27Z",
+  "data_criacao": "2026-07-27T15:28:27.094162-03:00"
+}

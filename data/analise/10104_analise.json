@@ -1,0 +1,30 @@
+{
+  "id": 10104,
+  "nome_original": "Sapo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde escuro",
+      "verde limão"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético acetinado com painéis de pelúcia",
+    "estilo_corte": "estilo kigurumi ou pijama macacão oversized",
+    "acessorios_visiveis": [
+      "olhos aplicados no capuz"
+    ],
+    "tematica_detalhada": "fantasia de sapo antropomórfico, com referências a personagens de desenho animado como o Kermit"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10104.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.88,
+  "data_analise": "2026-07-30T05:54:36Z",
+  "data_criacao": "2026-07-30T02:54:36.701211-03:00"
+}

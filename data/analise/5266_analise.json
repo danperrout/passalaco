@@ -1,0 +1,28 @@
+{
+  "id": 5266,
+  "nome_original": "Policial",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "cetim ou poliéster com brilho, tule",
+    "estilo_corte": "estilo baby-doll com saia curta volumosa e corpete justo",
+    "acessorios_visiveis": [
+      "quepe de policial"
+    ],
+    "tematica_detalhada": "versão estilizada e sensual de uniforme de policial, com referências a fantasias de festa e performance"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5266.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.93,
+  "data_analise": "2026-07-30T03:44:56Z",
+  "data_criacao": "2026-07-30T00:44:56.982254-03:00"
+}

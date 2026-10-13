@@ -1,0 +1,26 @@
+{
+  "id": 3338,
+  "nome_original": "Camisa",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "camisa"
+    ],
+    "material_visual": "tecido sintético com aparência brilhante ou acetinada",
+    "estilo_corte": "camisa de manga longa com gola",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "estampa xadrez vibrante, possivelmente inspirada em moda retrô ou visual estilizado para festas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3338.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.9,
+  "data_analise": "2026-07-27T18:48:35Z",
+  "data_criacao": "2026-07-27T15:48:35.924517-03:00"
+}

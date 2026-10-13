@@ -1,0 +1,26 @@
+{
+  "id": 2934,
+  "nome_original": "Anjo Z",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Coroação",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "prateado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "asas"
+    ],
+    "material_visual": "tecido leve e fluido com detalhes em renda e brilhos",
+    "estilo_corte": "estilo império com caimento fluido e mangas longas transparentes",
+    "acessorios_visiveis": [
+      "tiara de flores",
+      "colares de contas/pérolas"
+    ],
+    "tematica_detalhada": "anjo celestial branco com elementos etéreos e ornamentos prateados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2934.jpg",
+  "data_analise": "2026-07-27T15:30:52Z"
+}

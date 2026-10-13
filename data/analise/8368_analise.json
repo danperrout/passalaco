@@ -1,0 +1,33 @@
+{
+  "id": 8368,
+  "nome_original": "Pirata",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "bermuda",
+      "bandana"
+    ],
+    "material_visual": "tecido sintético com brilho",
+    "estilo_corte": "colete sem mangas com decote em V e bermuda curta",
+    "acessorios_visiveis": [
+      "tapa-olho",
+      "cinto dourado",
+      "bandana"
+    ],
+    "tematica_detalhada": "Pirata clássico com estampa de caveiras, remetendo a personagens de aventura marítima e folclore de corsários"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8368.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 23.57,
+  "data_analise": "2026-07-30T03:38:34Z",
+  "data_criacao": "2026-07-30T00:38:34.795647-03:00"
+}

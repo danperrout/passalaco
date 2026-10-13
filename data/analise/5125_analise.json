@@ -1,0 +1,29 @@
+{
+  "id": 5125,
+  "nome_original": "Junina Mf",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com acabamento em renda",
+    "estilo_corte": "vestido rodado com mangas bufantes e saia em camadas (babados)",
+    "acessorios_visiveis": [
+      "chapéu de palha decorado"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina, representando a vestimenta típica caipira brasileira com elementos rurais estilizados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5125.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 217.86,
+  "data_analise": "2026-07-29T06:33:04Z",
+  "data_criacao": "2026-07-29T03:33:04.774302-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 6966,
+  "nome_original": "Espanhola",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Ciganas/Espanholas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado e rendas",
+    "estilo_corte": "corte ajustado ao corpo com babados volumosos no decote e na saia",
+    "acessorios_visiveis": [
+      "tiara com flor vermelha"
+    ],
+    "tematica_detalhada": "fantasia de dançarina de Flamenco, referenciando a cultura tradicional espanhola"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6966.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 55.73,
+  "data_analise": "2026-07-28T04:01:47Z",
+  "data_criacao": "2026-07-28T01:01:47.418718-03:00"
+}

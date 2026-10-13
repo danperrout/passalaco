@@ -1,0 +1,30 @@
+{
+  "id": 5908,
+  "nome_original": "Ratinha Alice",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "top",
+      "saia"
+    ],
+    "material_visual": "cetim e veludo",
+    "estilo_corte": "corte evasê na saia com jaqueta curta",
+    "acessorios_visiveis": [
+      "tiara de orelhas de rato"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Ratinha Alice, combinando elementos de luxo com características animais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5908.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.23,
+  "data_analise": "2026-07-30T04:37:42Z",
+  "data_criacao": "2026-07-30T01:37:42.801356-03:00"
+}

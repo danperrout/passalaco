@@ -1,0 +1,32 @@
+{
+  "id": 4596,
+  "nome_original": "Vampira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Halloween Adulto",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "gola",
+      "luvas"
+    ],
+    "material_visual": "veludo",
+    "estilo_corte": "vestido curto com saia em camadas e decote reto",
+    "acessorios_visiveis": [
+      "gola alta rígida",
+      "luvas longas",
+      "cinto decorativo"
+    ],
+    "tematica_detalhada": "vampira gótica com estética vitoriana moderna"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4596.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.15,
+  "data_analise": "2026-07-30T08:45:30Z",
+  "data_criacao": "2026-07-30T05:45:30.478946-03:00"
+}

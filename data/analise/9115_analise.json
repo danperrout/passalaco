@@ -1,0 +1,31 @@
+{
+  "id": 9115,
+  "nome_original": "Deusa Grega",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Gregas/Romanos",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido fluido, possivelmente tule ou chiffon, com detalhes em pedrarias",
+    "estilo_corte": "estilo império com cintura marcada e saia translúcida e fluida",
+    "acessorios_visiveis": [
+      "tiara",
+      "colar",
+      "cinto ornamentado",
+      "pulseira"
+    ],
+    "tematica_detalhada": "Deusa Grega em versão gótica ou noturna, reinterpretando a estética clássica da Grécia Antiga com cores escuras"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9115.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.79,
+  "data_analise": "2026-07-28T02:57:57Z",
+  "data_criacao": "2026-07-27T23:57:57.729724-03:00"
+}

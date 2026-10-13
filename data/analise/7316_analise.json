@@ -1,0 +1,31 @@
+{
+  "id": 7316,
+  "nome_original": "Moana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "bege",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "tecido texturizado, crochê ou renda e fibras sintéticas simulando palha",
+    "estilo_corte": "top reto estilo tube top e saia curta assimétrica com franjas",
+    "acessorios_visiveis": [
+      "tiara de flores",
+      "colar com pingente azul"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Moana, com referências à cultura polinésia e trajes tropicais"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7316.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 17.53,
+  "data_analise": "2026-07-29T22:45:03Z",
+  "data_criacao": "2026-07-29T19:45:03.310622-03:00"
+}

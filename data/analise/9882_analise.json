@@ -1,0 +1,30 @@
+{
+  "id": 9882,
+  "nome_original": "Junina Saia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "saia"
+    ],
+    "material_visual": "tecido xadrez e cetim com babados",
+    "estilo_corte": "top ombro a ombro com mangas bufantes e saia curta rodada",
+    "acessorios_visiveis": [
+      "laços de cabelo"
+    ],
+    "tematica_detalhada": "Festa Junina estilizada, referenciando a vestimenta tradicional caipira brasileira com cores vibrantes e toques modernos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9882.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 38.29,
+  "data_analise": "2026-07-29T07:44:37Z",
+  "data_criacao": "2026-07-29T04:44:37.321604-03:00"
+}

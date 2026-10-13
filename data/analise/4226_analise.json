@@ -1,0 +1,28 @@
+{
+  "id": 4226,
+  "nome_original": "Noiva",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente cetim ou organza, com apliques de flores em tecido",
+    "estilo_corte": "estilo princesa, com cintura marcada e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara de flores coloridas"
+    ],
+    "tematica_detalhada": "Noiva estilizada com temática floral e colorida, remetendo a festas típicas ou celebrações alegres"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4226.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 15.22,
+  "data_analise": "2026-07-30T00:22:10Z",
+  "data_criacao": "2026-07-29T21:22:10.018058-03:00"
+}

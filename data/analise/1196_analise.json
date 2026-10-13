@@ -1,0 +1,30 @@
+{
+  "id": 1196,
+  "nome_original": "Presidiaria",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "regata",
+      "saia",
+      "touca"
+    ],
+    "material_visual": "tecido sintético com estampa listrada",
+    "estilo_corte": "estilo casual com saia rodada e blusa ajustada",
+    "acessorios_visiveis": [
+      "crachá de identificação com número"
+    ],
+    "tematica_detalhada": "fantasia de prisioneira clássica, baseada em estereótipos de uniformes de presídios antigos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1196.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.36,
+  "data_analise": "2026-07-30T03:55:56Z",
+  "data_criacao": "2026-07-30T00:55:56.898517-03:00"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 3668,
+  "nome_original": "Peruca Janete",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "ruivo",
+      "acobreado"
+    ],
+    "pecas_inclusas": [
+      "peruca"
+    ],
+    "material_visual": "fibra sintética",
+    "estilo_corte": "volumoso com topo espetado e franja",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "estilo retrô exagerado, remetendo a penteados volumosos dos anos 80 ou personagens caricatos"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3668.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 8.03,
+  "data_analise": "2026-07-30T03:20:25Z",
+  "data_criacao": "2026-07-30T00:20:25.129154-03:00"
+}

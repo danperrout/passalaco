@@ -1,0 +1,29 @@
+{
+  "id": 9790,
+  "nome_original": "Carnaval",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Carnaval",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia curta"
+    ],
+    "material_visual": "tecido metalizado com aplicação de lantejoulas e fios brilhantes",
+    "estilo_corte": "estilo biquíni com saia curta ajustada e ornamentada",
+    "acessorios_visiveis": [
+      "tiara/coroa ornamental",
+      "brincos coordenados"
+    ],
+    "tematica_detalhada": "fantasia de carnaval luxuosa, inspirada em passistas de escola de samba ou temática de realeza/divindade solar"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9790.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 9.49,
+  "data_analise": "2026-07-27T19:26:52Z",
+  "data_criacao": "2026-07-27T16:26:52.440201-03:00"
+}

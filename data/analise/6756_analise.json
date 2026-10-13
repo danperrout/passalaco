@@ -1,0 +1,29 @@
+{
+  "id": 6756,
+  "nome_original": "Cat Noir",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão integral",
+      "máscara"
+    ],
+    "material_visual": "material sintético com brilho, semelhante a couro ou vinil",
+    "estilo_corte": "ajustado ao corpo (slim fit) com fechamento frontal por zíper",
+    "acessorios_visiveis": [
+      "máscara com orelhas de gato",
+      "cinto"
+    ],
+    "tematica_detalhada": "inspirada na personagem Mulher-Gato (Catwoman), remetendo a temas de furtividade e estética felina"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6756.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.05,
+  "data_analise": "2026-07-27T19:39:15Z",
+  "data_criacao": "2026-07-27T16:39:15.359106-03:00"
+}

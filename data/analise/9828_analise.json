@@ -1,0 +1,29 @@
+{
+  "id": 9828,
+  "nome_original": "Junina Saia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "corset",
+      "saia"
+    ],
+    "material_visual": "tecido acetinado e renda",
+    "estilo_corte": "estilo tomara-que-caia com saia curta rodada e babados",
+    "acessorios_visiveis": [
+      "laços de cabelo"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina estilizada, com referências a trajes caipiras modernos e elementos de moda lolita/cosplay"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9828.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 33.41,
+  "data_analise": "2026-07-29T07:25:45Z",
+  "data_criacao": "2026-07-29T04:25:45.472496-03:00"
+}

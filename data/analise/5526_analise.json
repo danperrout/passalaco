@@ -1,0 +1,29 @@
+{
+  "id": 5526,
+  "nome_original": "Bombeiro",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "capacete"
+    ],
+    "material_visual": "tecido sintético com acabamento brilhante",
+    "estilo_corte": "estilo sexy/curto com alças finas e detalhes de faixas horizontais",
+    "acessorios_visiveis": [
+      "capacete de bombeiro"
+    ],
+    "tematica_detalhada": "versão estilizada e sensual de um uniforme de bombeiro"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5526.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.8,
+  "data_analise": "2026-07-27T18:17:35Z",
+  "data_criacao": "2026-07-27T15:17:35.793677-03:00"
+}

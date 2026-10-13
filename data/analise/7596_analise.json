@@ -1,0 +1,30 @@
+{
+  "id": 7596,
+  "nome_original": "Noiva",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "colorido"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "véu"
+    ],
+    "material_visual": "tule e tecido sintético com apliques",
+    "estilo_corte": "estilo princesa com saia volumosa e cintura marcada",
+    "acessorios_visiveis": [
+      "tiara de flores",
+      "véu"
+    ],
+    "tematica_detalhada": "Noiva infantil lúdica e colorida, com elementos festivos e decorações vibrantes"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7596.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.67,
+  "data_analise": "2026-07-30T00:12:52Z",
+  "data_criacao": "2026-07-29T21:12:52.400288-03:00"
+}

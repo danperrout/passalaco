@@ -1,0 +1,32 @@
+{
+  "id": 7781,
+  "nome_original": "Tango",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Danças",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "luvas",
+      "acessório de cabeça"
+    ],
+    "material_visual": "tecido com franjas e detalhes brilhantes",
+    "estilo_corte": "estilo anos 20, comprimento curto com franjas na barra",
+    "acessorios_visiveis": [
+      "colar longo de pérolas",
+      "tiara com plumas",
+      "luvas longas"
+    ],
+    "tematica_detalhada": "estilo Melindrosa (Flapper) dos anos 20, remetendo a festas de Jazz e dança do Tango"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7781.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 12.31,
+  "data_analise": "2026-07-30T07:38:54Z",
+  "data_criacao": "2026-07-30T04:38:54.136823-03:00"
+}

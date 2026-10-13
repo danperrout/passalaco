@@ -1,0 +1,32 @@
+{
+  "id": 1507,
+  "nome_original": "Dama",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "corselete/colete",
+      "tiara"
+    ],
+    "material_visual": "cetim, renda e detalhes em bordado dourado",
+    "estilo_corte": "estilo renascentista com saia longa evasê e corpete ajustado com amarração frontal",
+    "acessorios_visiveis": [
+      "tiara dourada",
+      "cordões de amarração"
+    ],
+    "tematica_detalhada": "Fantasia de dama da corte ou camponesa europeia medieval/renascentista"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1507.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 20.93,
+  "data_analise": "2026-07-28T02:29:42Z",
+  "data_criacao": "2026-07-27T23:29:42.324926-03:00"
+}

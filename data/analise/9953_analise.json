@@ -1,0 +1,28 @@
+{
+  "id": 9953,
+  "nome_original": "Dama",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Roupas de Época",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido sintético acetinado com mangas em renda ou tule",
+    "estilo_corte": "estilo imperial com cintura marcada e saia ampla",
+    "acessorios_visiveis": [
+      "tiara dourada"
+    ],
+    "tematica_detalhada": "fantasia de dama da corte ou princesa, com referências a trajes renascentistas ou medievais estilizados"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9953.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 31.87,
+  "data_analise": "2026-07-28T02:33:33Z",
+  "data_criacao": "2026-07-27T23:33:33.969905-03:00"
+}

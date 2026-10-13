@@ -1,0 +1,32 @@
+{
+  "id": 8883,
+  "nome_original": "Medieval",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calças",
+      "capa"
+    ],
+    "material_visual": "tecido sintético com detalhes em lurex ou material metalizado",
+    "estilo_corte": "túnica longa de corte reto com mangas compridas e capa acoplada",
+    "acessorios_visiveis": [
+      "coroa",
+      "colar de corrente",
+      "cinto metalizado"
+    ],
+    "tematica_detalhada": "Nobreza medieval, representando a figura de um rei ou imperador sombrio"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8883.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 32.27,
+  "data_analise": "2026-07-29T21:08:04Z",
+  "data_criacao": "2026-07-29T18:08:04.538080-03:00"
+}

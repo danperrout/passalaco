@@ -1,0 +1,29 @@
+{
+  "id": 2388,
+  "nome_original": "Uniqua",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "magenta"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "touca"
+    ],
+    "material_visual": "tecido sintético leve, possivelmente poliéster",
+    "estilo_corte": "corte amplo e reto, estilo jardineira curta",
+    "acessorios_visiveis": [
+      "touca com antenas e olhos"
+    ],
+    "tematica_detalhada": "personagem Uniqua do desenho animado The Backyardigans"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2388.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.03,
+  "data_analise": "2026-07-30T08:41:16Z",
+  "data_criacao": "2026-07-30T05:41:16.754272-03:00"
+}

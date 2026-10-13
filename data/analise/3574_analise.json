@@ -1,0 +1,30 @@
+{
+  "id": 3574,
+  "nome_original": "Colete",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "verde",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "colete"
+    ],
+    "material_visual": "feltro",
+    "estilo_corte": "colete curto sem mangas",
+    "acessorios_visiveis": [
+      "bandeirinhas coloridas",
+      "aplicações de animais"
+    ],
+    "tematica_detalhada": "Festa Junina brasileira, com elementos típicos como fogueira, bandeiras e animais de fazenda"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3574.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 26.01,
+  "data_analise": "2026-07-28T00:45:10Z",
+  "data_criacao": "2026-07-27T21:45:10.609893-03:00"
+}

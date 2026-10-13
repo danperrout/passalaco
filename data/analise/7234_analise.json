@@ -1,0 +1,32 @@
+{
+  "id": 7234,
+  "nome_original": "Camponesa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "verde",
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "corpete",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com detalhes em fitas e bordados",
+    "estilo_corte": "estilo dirndl com corpete justo e saia volumosa",
+    "acessorios_visiveis": [
+      "tiara de flores"
+    ],
+    "tematica_detalhada": "camponesa europeia tradicional, com referências a trajes folclóricos da Baviera ou Áustria"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7234.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 5.67,
+  "data_analise": "2026-07-27T18:50:59Z",
+  "data_criacao": "2026-07-27T15:50:59.564960-03:00"
+}

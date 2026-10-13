@@ -1,0 +1,32 @@
+{
+  "id": 3784,
+  "nome_original": "Carmem Miranda",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "amarelo",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "turbante/touca decorada"
+    ],
+    "material_visual": "tecido acetinado, plástico/resina (frutas), renda e brilhos",
+    "estilo_corte": "estilo turbante volumoso com adornos superiores",
+    "acessorios_visiveis": [
+      "frutas artificiais",
+      "laço de cetim",
+      "detalhes em pérolas/brilhos"
+    ],
+    "tematica_detalhada": "Tributo a Carmem Miranda, referenciando a estética da 'Baiana' com a icônica cesta de frutas na cabeça, símbolo da cultura brasileira nos anos 40"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3784.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 3.48,
+  "data_analise": "2026-07-27T19:20:09Z",
+  "data_criacao": "2026-07-27T16:20:09.059087-03:00"
+}

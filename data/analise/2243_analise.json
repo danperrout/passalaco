@@ -1,0 +1,29 @@
+{
+  "id": 2243,
+  "nome_original": "Rei",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "manto",
+      "coroa"
+    ],
+    "material_visual": "veludo ou cetim com acabamento em pele sintética",
+    "estilo_corte": "longo, com corte aberto e gola larga",
+    "acessorios_visiveis": [
+      "coroa"
+    ],
+    "tematica_detalhada": "Rei de Copas, com referências ao livro e filme Alice no País das Maravilhas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2243.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 45.25,
+  "data_analise": "2026-07-30T04:49:44Z",
+  "data_criacao": "2026-07-30T01:49:44.917611-03:00"
+}

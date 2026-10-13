@@ -1,0 +1,29 @@
+{
+  "id": 8226,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido xadrez com rendas e fitas de cetim",
+    "estilo_corte": "modelo rodado com saia em camadas e babados",
+    "acessorios_visiveis": [
+      "tiara com laço"
+    ],
+    "tematica_detalhada": "Fantasia de Festa Junina infantil, representando a estética caipira tradicional brasileira com elementos camponeses"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8226.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 16.06,
+  "data_analise": "2026-07-28T21:59:14Z",
+  "data_criacao": "2026-07-28T18:59:14.884211-03:00"
+}

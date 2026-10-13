@@ -1,0 +1,27 @@
+{
+  "id": 3012,
+  "nome_original": "Capa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz",
+      "vestido preto"
+    ],
+    "material_visual": "renda ou tecido perfurado",
+    "estilo_corte": "longo e fluido com capuz integrado",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "referência ao conto de Chapeuzinho Vermelho com estética gótica ou dark"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3012.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 11.51,
+  "data_analise": "2026-07-27T18:54:33Z",
+  "data_criacao": "2026-07-27T15:54:33.519097-03:00"
+}

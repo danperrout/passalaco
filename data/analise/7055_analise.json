@@ -1,0 +1,25 @@
+{
+  "id": 7055,
+  "nome_original": "Ana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "amarelo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com brilho e veludo",
+    "estilo_corte": "estilo dirndl com saia rodada e corpete ajustado",
+    "acessorios_visiveis": [
+      "broche decorativo"
+    ],
+    "tematica_detalhada": "fantasia inspirada em trajes típicos alemães/estilo Anna de Frozen"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7055.jpg",
+  "data_analise": "2026-07-27T15:16:45Z"
+}

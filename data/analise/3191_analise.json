@@ -1,0 +1,31 @@
+{
+  "id": 3191,
+  "nome_original": "Colete",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "chapéu",
+      "camisa"
+    ],
+    "material_visual": "tecido sintético com aplicação de glitter ou paetês nas letras e estrela",
+    "estilo_corte": "colete curto sem mangas com corte reto",
+    "acessorios_visiveis": [
+      "chapéu estilo cowboy"
+    ],
+    "tematica_detalhada": "fantasia de xerife do Velho Oeste americano, caracterizada pela estrela e a palavra 'Sheriff' (grafada como Kerife) nas costas"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3191.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 24.01,
+  "data_analise": "2026-07-28T00:43:46Z",
+  "data_criacao": "2026-07-27T21:43:46.528029-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 6134,
+  "nome_original": "Bambam",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "saia",
+      "faixa diagonal",
+      "tiara"
+    ],
+    "material_visual": "tecido sintético com estampa de animal",
+    "estilo_corte": "corte irregular e rústico com barras desfiadas",
+    "acessorios_visiveis": [
+      "clava/bastão"
+    ],
+    "tematica_detalhada": "fantasia de homem das cavernas, referenciando personagens pré-históricos como Bambam"
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6134.jpg",
+  "modelo": "gemma4:31b",
+  "provider": "ollama",
+  "tempo_analise_sec": 64.66,
+  "data_analise": "2026-07-27T17:26:15Z",
+  "data_criacao": "2026-07-27T14:26:15.698654-03:00"
+}
