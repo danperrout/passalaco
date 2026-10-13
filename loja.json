@@ -20,6 +20,20 @@
     "cores": {
         "destaque": "#d1262d",
         "fundo": "#fff8f1",
-        "faixa": ["#e2231a", "#ff9f1c", "#f7c600", "#2e9e3e", "#1e88e5", "#8338ec", "#ff006e"]
+        "faixa": [
+            "#e2231a",
+            "#ff9f1c",
+            "#f7c600",
+            "#2e9e3e",
+            "#1e88e5",
+            "#8338ec",
+            "#ff006e"
+        ]
+    },
+    "categorias": {
+        "Cleopatras e Faraós": "Cleópatras e Faraós",
+        "Mesversario": "Mesversário",
+        "Paises": "Países",
+        "Princesas/Principes": "Princesas/Príncipes"
     }
 }

@@ -20,7 +20,12 @@ const state = {
 const appRoot = new URL('./', window.location.href).pathname;
 
 // Dados da loja (loja.json, aplicado no index.html por scripts/build_site.py)
-const LOJA = Object.assign({ nome: 'Catálogo de fantasias', nomeCurto: '', whatsapp: '', mensagemWhatsapp: '' }, window.LOJA);
+const LOJA = Object.assign({ nome: 'Catálogo de fantasias', nomeCurto: '', whatsapp: '', mensagemWhatsapp: '', categorias: {} }, window.LOJA);
+
+// "De para" de categorias (loja.json): o catálogo de origem traz alguns nomes sem acento
+function fixCategory(name) {
+    return LOJA.categorias[name] || name;
+}
 const baseTitle = document.title;
 // Fixa o ícone num endereço absoluto antes de a URL mudar para f/<código>/
 document.querySelectorAll('link[rel~="icon"]').forEach(link => { link.href = link.href; });
@@ -185,11 +190,11 @@ function textHasWord(normalizedText, term) {
 const CATEGORY_EMOJI = {
     'Acessórios': '👑', 'Adultos': '🎭', 'Animais': '🦁', 'Anos 60 e 70': '🕺', 'Árabes/Indianas': '🧞',
     'Bebês': '🍼', 'Carnaval': '🎉', 'Casais': '💑', 'Ciganas/Espanholas': '💃', 'Circo': '🎪',
-    'Cleopatras e Faraós': '🏺', 'Coroação': '👼', 'Cosplay': '🎮', 'Danças': '🩰', 'Fadas/Duendes': '🧚',
+    'Cleópatras e Faraós': '🏺', 'Coroação': '👼', 'Cosplay': '🎮', 'Danças': '🩰', 'Fadas/Duendes': '🧚',
     'Filmes/TV': '🎬', 'Gregas/Romanos': '🏛️', 'Halloween': '🎃', 'Halloween Adulto': '🧛',
     'Halloween Infantil': '👻', 'Infantis': '🧸', 'Juninas': '🌽', 'Máscaras': '🎭', 'Mascotes': '🐻',
-    'Mesversario': '🎂', 'Modelos': '✨', 'Natalinas': '🎄', 'Outras': '🎁', 'Paises': '🌎',
-    'Personagens': '📚', 'Piratas': '🏴‍☠️', 'Plus Size': '💖', 'Princesas/Principes': '👸',
+    'Mesversário': '🎂', 'Modelos': '✨', 'Natalinas': '🎄', 'Outras': '🎁', 'Países': '🌎',
+    'Personagens': '📚', 'Piratas': '🏴‍☠️', 'Plus Size': '💖', 'Princesas/Príncipes': '👸',
     'Profissões': '👩‍🚒', 'Roupas de Época': '🎩', 'Super-heróis': '🦸', 'Vitrine': '⭐'
 };
 
@@ -295,7 +300,7 @@ const SEASONS = [
     {
         id: 'criancas', title: 'Dia das Crianças', emoji: '🧸', event: 'Dia das Crianças',
         date: y => new Date(y, 9, 12), before: 20, after: 0,
-        categories: ['Super-heróis', 'Princesas/Principes', 'Personagens'], terms: [], tipo: 'Infantil',
+        categories: ['Super-heróis', 'Princesas/Príncipes', 'Personagens'], terms: [], tipo: 'Infantil',
         colors: ['#1e88e5', '#ffca28', '#ef5350']
     },
     {
@@ -456,6 +461,7 @@ async function fetchFantasias() {
             document.getElementById('catalogoAtualizadoEm').textContent = `Catálogo atualizado em ${formatted}`;
         }
         fantasias = await response.json();
+        fantasias.forEach(f => { f.categoriaNome = fixCategory(f.categoriaNome); });
     } catch (error) {
         console.warn('Falha ao carregar fantasias do arquivo JSON, usando dados de fallback:', error);
         fantasias = fallbackFantasias;
@@ -830,7 +836,8 @@ function getFiltersFromURL() {
     const params = new URLSearchParams(window.location.search);
     const filters = {
         tema: getSeason(params.get('tema')) ? params.get('tema') : '',
-        categoria: params.get('categoria') || '',
+        // Links antigos com o nome sem acento continuam funcionando
+        categoria: fixCategory(params.get('categoria') || ''),
         // URLs antigas aceitavam lista separada por vírgula; usamos o primeiro valor
         sexo: (params.get('sexo') || '').split(',')[0],
         tipo: (params.get('tipo') || '').split(',')[0],

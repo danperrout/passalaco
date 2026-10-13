@@ -25,6 +25,13 @@ with open(os.path.join(ROOT, "loja.json"), encoding="utf-8") as _f:
 SITE_URL = LOJA["endereco"].rstrip("/") + "/"
 SITE_NAME = LOJA["nome"]
 SHORT_NAME = LOJA.get("nomeCurto") or SITE_NAME
+# "De para" de categorias: corrige nomes que o catálogo de origem traz sem acento
+CATEGORIAS = LOJA.get("categorias") or {}
+
+
+def category_name(fantasia):
+    nome = fantasia.get("categoriaNome") or ""
+    return CATEGORIAS.get(nome, nome)
 FANTASIAS = os.path.join(ROOT, "output", "fantasias.json")
 ANALISES = os.path.join(ROOT, "output", "analises.json")
 PAGES_DIR = os.path.join(ROOT, "f")
@@ -86,7 +93,7 @@ def display_name(fantasia):
 
 
 def describe(fantasia, analise):
-    partes = [fantasia.get("categoriaNome") or ""]
+    partes = [category_name(fantasia)]
     detalhes = [v for v in (fantasia.get("sexo"), fantasia.get("tipo")) if v and v != "N/A"]
     if detalhes:
         partes.append(" ".join(v.lower() for v in detalhes))
@@ -112,7 +119,7 @@ def page(fantasia, analise):
         "sku": str(fid),
         "image": image,
         "description": description,
-        "category": fantasia.get("categoriaNome") or "",
+        "category": category_name(fantasia),
         "url": url,
         "brand": {"@type": "Brand", "name": SITE_NAME},
     }
@@ -160,6 +167,7 @@ def runtime_config():
         "nomeCurto": SHORT_NAME,
         "whatsapp": re.sub(r"\D", "", whatsapp.get("numero", "")),
         "mensagemWhatsapp": whatsapp.get("mensagem", ""),
+        "categorias": CATEGORIAS,
     }
     return json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
 
