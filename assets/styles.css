@@ -1273,13 +1273,23 @@ body.is-scrolled .topbar {
     font-variant-numeric: tabular-nums;
 }
 
-.sheet-another {
-    align-self: flex-start;
-    margin-top: auto;
+/* Título e "Sortear outra" lado a lado, para o botão ficar à vista sem rolar */
+.sheet-head {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    margin-bottom: 20px;
 }
 
-.sheet-details .stats + .sheet-another {
-    margin-top: 24px;
+.sheet-head .sheet-title {
+    flex: 1;
+    min-width: 0;
+    margin-bottom: 0;
+}
+
+.sheet-another {
+    flex-shrink: 0;
+    white-space: nowrap;
 }
 
 /* --------------------------------------------------------------------------
@@ -1544,6 +1554,9 @@ body.is-scrolled .topbar {
 
 .sheet-root[data-mode="sheet"] .sheet-title {
     font-size: 24px;
+}
+
+.sheet-root[data-mode="sheet"] .sheet-head {
     margin-bottom: 16px;
 }
 

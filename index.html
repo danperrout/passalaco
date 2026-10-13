@@ -107,7 +107,12 @@
             </div>
             <div class="sheet-details">
                 <p id="modalCategoria" class="eyebrow"></p>
-                <h2 id="modalName" class="sheet-title"></h2>
+                <div class="sheet-head">
+                    <h2 id="modalName" class="sheet-title"></h2>
+                    <button type="button" id="sheetAnotherButton" class="btn btn-tinted sheet-another" hidden>
+                        <span aria-hidden="true">🎲</span> Sortear outra
+                    </button>
+                </div>
                 <p id="modalDescricao" class="sheet-about" hidden></p>
                 <ul id="modalCores" class="color-chips" aria-label="Cores" hidden></ul>
                 <dl class="specs">
@@ -120,10 +125,8 @@
                 <div id="modalItensSection" class="sheet-section" hidden>
                     <h3 class="sheet-section-title">Itens que aparecem na foto</h3>
                     <ul id="modalItens" class="item-chips"></ul>
-                </div>                <p class="stats"><span id="modalViewCount"></span> · <span id="modalClickCount"></span></p>
-                <button type="button" id="sheetAnotherButton" class="btn btn-tinted sheet-another" hidden>
-                    <span aria-hidden="true">🎲</span> Sortear outra
-                </button>
+                </div>
+                <p class="stats"><span id="modalViewCount"></span> · <span id="modalClickCount"></span></p>
             </div>
         </div>
     </div>
