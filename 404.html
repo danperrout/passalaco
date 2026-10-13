@@ -7,9 +7,10 @@
     <title>Página não encontrada — Passa Laço Fantasias</title>
     <meta name="robots" content="noindex">
     <script>
-        // Fantasias novas ainda sem página gerada: /f/<código>/ abre direto no catálogo
+        // Fantasias novas ainda sem página gerada, links antigos ou com outro texto depois
+        // do código: /f/<código>-qualquer-coisa/ abre direto na fantasia
         (function () {
-            var match = location.pathname.match(/^(.*\/)f\/(\d+)\/?(index\.html)?$/);
+            var match = location.pathname.match(/^(.*\/)f\/(\d+)[^\/]*\/?(index\.html)?$/);
             if (match) location.replace(match[1] + '?fantasia=' + match[2]);
         })();
     </script>

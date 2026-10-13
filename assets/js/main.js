@@ -22,8 +22,16 @@ const baseTitle = document.title;
 // Fixa o ícone num endereço absoluto antes de a URL mudar para f/<código>/
 document.querySelectorAll('link[rel~="icon"]').forEach(link => { link.href = link.href; });
 
-function costumePath(id) {
-    return `${appRoot}f/${id}/`;
+// Slug do nome só para o link ficar legível; quem identifica a fantasia é o código
+// (mesma regra de slugify() em scripts/build_paginas.py)
+function slugify(text) {
+    return text.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase()
+        .replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+}
+
+function costumePath(fantasia) {
+    const slug = fantasia.nome === '.' ? '' : slugify(fantasia.nome);
+    return `${appRoot}f/${fantasia._id}${slug ? '-' + slug : ''}/`;
 }
 
 // Elementos DOM principais
@@ -54,6 +62,12 @@ const sheetMedia = sheet.querySelector('.sheet-media');
 const modalCloseButton = document.getElementById('modalCloseButton');
 const sheetAnotherButton = document.getElementById('sheetAnotherButton');
 const sheetShareButton = document.getElementById('sheetShareButton');
+const zoomButton = document.getElementById('zoomButton');
+const viewer = document.getElementById('viewer');
+const viewerBackdrop = document.getElementById('viewerBackdrop');
+const viewerStage = document.getElementById('viewerStage');
+const viewerImage = document.getElementById('viewerImage');
+const viewerClose = document.getElementById('viewerClose');
 const toast = document.getElementById('toast');
 const modalImage = document.getElementById('modalImage');
 const modalImagePlaceholder = document.getElementById('modalImagePlaceholder');
@@ -423,7 +437,7 @@ function createCostumeCard(fantasia) {
     const name = displayName(fantasia);
     // Link de verdade: abre em nova aba, copia o endereço e pode ser indexado
     const card = document.createElement('a');
-    card.href = costumePath(fantasia._id);
+    card.href = costumePath(fantasia);
     card.className = 'card';
     card.dataset.fantasiaId = fantasia._id;
     card.innerHTML = `
@@ -773,7 +787,7 @@ function getFiltersFromURL() {
         pagina: parseInt(params.get('pagina'), 10) || 1,
         ordem: params.get('ordem') || 'default',
         dir: params.get('dir') || 'asc',
-        fantasia: params.get('fantasia') || (window.location.pathname.match(/\/f\/(\d+)\/?(?:index\.html)?$/) || [])[1] || ''
+        fantasia: params.get('fantasia') || (window.location.pathname.match(/\/f\/(\d+)[^/]*\/?(?:index\.html)?$/) || [])[1] || ''
     };
     const hasFilters = filters.tema || filters.categoria || filters.sexo || filters.tipo || filters.busca || filters.ordem !== 'default';
     filters.view = hasFilters || params.get('ver') === 'todas' ? 'catalog' : 'home';
@@ -794,7 +808,8 @@ function urlFromState() {
     }
     if (state.view === 'catalog' && ![...params.keys()].length) params.set('ver', 'todas');
     const query = params.toString();
-    return `${state.fantasia ? costumePath(state.fantasia) : appRoot}${query ? '?' + query : ''}`;
+    const fantasia = state.fantasia && findFantasia(state.fantasia);
+    return `${fantasia ? costumePath(fantasia) : appRoot}${query ? '?' + query : ''}`;
 }
 
 function updateURLFromState(mode) {
@@ -1407,7 +1422,11 @@ function fillSheet(fantasia) {
     modalImage.classList.remove('loaded');
     modalImage.hidden = false;
     modalImagePlaceholder.hidden = true;
-    modalImage.onload = () => modalImage.classList.add('loaded');
+    zoomButton.hidden = true;
+    modalImage.onload = () => {
+        modalImage.classList.add('loaded');
+        zoomButton.hidden = false;
+    };
     modalImage.onerror = () => {
         modalImage.hidden = true;
         modalImagePlaceholder.hidden = false;
@@ -1472,6 +1491,7 @@ function closeCostumeSheet(velocity, { fromHistory = false } = {}) {
     sheetIsOpen = false;
     sheetClosingFantasia = sheetFantasia;
     sheetFantasia = null;
+    if (viewerIsOpen) closeViewer({ fromHistory: true, instant: true });
     document.title = baseTitle;
     state.fantasia = '';
     if (!fromHistory) {
@@ -1523,7 +1543,7 @@ function showToast(message) {
 async function shareCurrentCostume() {
     if (!sheetFantasia) return;
     const name = displayName(sheetFantasia);
-    const url = new URL(costumePath(sheetFantasia._id), window.location.origin).href;
+    const url = new URL(costumePath(sheetFantasia), window.location.origin).href;
     const data = { title: `${name} — Passa Laço Fantasias`, text: `Olha essa fantasia da Passa Laço: ${name}`, url };
     if (navigator.share && matchMedia('(pointer: coarse)').matches && (!navigator.canShare || navigator.canShare(data))) {
         try {
@@ -1549,6 +1569,7 @@ function openRandomCostume(sourceEl) {
 
 // Arrastar a folha (celular): acompanha o dedo 1:1, solta com momento
 let sheetDrag = null;
+let sheetDragDistance = 0; // distinguir toque na foto de arraste da folha
 
 function setupSheetDrag() {
     sheet.addEventListener('pointerdown', event => {
@@ -1582,9 +1603,10 @@ function setupSheetDrag() {
     const endDrag = event => {
         if (!sheetDrag || event.pointerId !== sheetDrag.pointerId) return;
         const samples = sheetDrag.samples;
-        sheetDrag = null;
         const first = samples[0];
         const last = samples[samples.length - 1];
+        sheetDragDistance = Math.abs(event.clientY - sheetDrag.startY);
+        sheetDrag = null;
         const dt = (last.t - first.t) / 1000;
         const velocityY = dt > 0 ? (last.y - first.y) / dt : 0; // px/s, positivo = para baixo
 
@@ -1605,8 +1627,310 @@ function setupSheetDrag() {
     sheet.addEventListener('pointercancel', endDrag);
 }
 
+// --- Foto em tela cheia ---
+// A foto cresce de onde está na folha até ocupar a tela e volta pelo mesmo caminho.
+// Pinça e toque duplo (ou clique e roda do mouse) ampliam; arrastar move a foto
+// ampliada; com a foto inteira, arrastar para baixo fecha.
+
+const VIEWER_MAX_SCALE = 4;
+const VIEWER_ZOOM = 2.5;
+let viewerIsOpen = false;
+let viewerHistoryPushed = false;
+let viewerReturnFocus = null;
+let viewerFrom = { x: 0, y: 0, k: 1 }; // de onde a foto sai, relativo à posição final
+let viewerSize = { w: 0, h: 0 };       // foto inteira na tela, sem zoom
+let viewerDismissY = 0;
+
+const viewerProgress = createSpring(renderViewerStage);
+const viewerDismiss = createSpring(value => { viewerDismissY = value; renderViewerStage(viewerProgress.value); });
+const zoom = { s: 1, x: 0, y: 0 };
+const zoomSprings = {
+    s: createSpring(value => { zoom.s = value; renderZoom(); }, { restDelta: 0.0005 }),
+    x: createSpring(value => { zoom.x = value; renderZoom(); }, { restDelta: 0.1 }),
+    y: createSpring(value => { zoom.y = value; renderZoom(); }, { restDelta: 0.1 })
+};
+
+function renderViewerStage(p) {
+    const q = 1 - p;
+    const k = 1 + (viewerFrom.k - 1) * q;
+    viewerStage.style.transform =
+        `translate3d(${viewerFrom.x * q}px, ${viewerFrom.y * q + viewerDismissY}px, 0) scale(${k})`;
+    const dismissFade = 1 - Math.min(1, Math.abs(viewerDismissY) / (viewer.clientHeight * 0.6));
+    viewerBackdrop.style.opacity = clamp01(p) * dismissFade;
+    viewerClose.style.opacity = clamp01(p * 2 - 1) * dismissFade;
+}
+
+function renderZoom() {
+    viewerImage.style.transform = `translate3d(${zoom.x}px, ${zoom.y}px, 0) scale(${zoom.s})`;
+    viewer.classList.toggle('is-zoomed', zoom.s > 1.01);
+}
+
+// Retângulo da foto dentro de uma caixa com object-fit: contain
+function containedRect(box, ratio) {
+    const boxRatio = box.width / box.height;
+    const w = ratio > boxRatio ? box.width : box.height * ratio;
+    const h = ratio > boxRatio ? box.width / ratio : box.height;
+    return { x: box.left + (box.width - w) / 2, y: box.top + (box.height - h) / 2, w, h };
+}
+
+function layoutViewer() {
+    const ratio = viewerImage.naturalWidth / viewerImage.naturalHeight || 1;
+    const fit = containedRect({ left: 0, top: 0, width: viewer.clientWidth, height: viewer.clientHeight }, ratio);
+    viewerSize = { w: fit.w, h: fit.h };
+    viewerImage.style.width = `${fit.w}px`;
+    viewerImage.style.height = `${fit.h}px`;
+    const from = containedRect(modalImage.getBoundingClientRect(), ratio);
+    viewerFrom = {
+        x: from.x + from.w / 2 - viewer.clientWidth / 2,
+        y: from.y + from.h / 2 - viewer.clientHeight / 2,
+        k: from.w / fit.w
+    };
+}
+
+function setZoom(s, x, y) {
+    zoomSprings.s.set(s);
+    zoomSprings.x.set(x);
+    zoomSprings.y.set(y);
+}
+
+function animateZoom(s, x, y, { vx = 0, vy = 0, damping = 1 } = {}) {
+    zoomSprings.s.to(s, { damping, response: 0.35 });
+    zoomSprings.x.to(x, { damping, response: 0.35, velocity: vx });
+    zoomSprings.y.to(y, { damping, response: 0.35, velocity: vy });
+}
+
+// Até onde a foto ampliada pode andar sem mostrar fundo
+function panBounds(s) {
+    return {
+        x: Math.max(0, (viewerSize.w * s - viewer.clientWidth) / 2),
+        y: Math.max(0, (viewerSize.h * s - viewer.clientHeight) / 2)
+    };
+}
+
+function clampPan(value, bound) {
+    return Math.max(-bound, Math.min(bound, value));
+}
+
+// Deslocamento que mantém fixo o ponto da tela (px, py) ao trocar de escala
+function zoomAround(px, py, fromS, toS, fromX, fromY) {
+    const cx = px - viewer.clientWidth / 2;
+    const cy = py - viewer.clientHeight / 2;
+    return {
+        x: cx - (cx - fromX) * (toS / fromS),
+        y: cy - (cy - fromY) * (toS / fromS)
+    };
+}
+
+function toggleZoomAt(px, py) {
+    if (zoom.s > 1.01) {
+        animateZoom(1, 0, 0);
+        return;
+    }
+    const target = zoomAround(px, py, zoom.s, VIEWER_ZOOM, zoom.x, zoom.y);
+    const bounds = panBounds(VIEWER_ZOOM);
+    animateZoom(VIEWER_ZOOM, clampPan(target.x, bounds.x), clampPan(target.y, bounds.y));
+}
+
+function openViewer() {
+    if (viewerIsOpen || !modalImage.classList.contains('loaded')) return;
+    viewerIsOpen = true;
+    viewerReturnFocus = document.activeElement;
+    viewerImage.src = modalImage.currentSrc || modalImage.src;
+    viewerImage.alt = modalImage.alt;
+    viewer.hidden = false;
+    layoutViewer();
+    setZoom(1, 0, 0);
+    viewerDismiss.set(0);
+    modalImage.classList.add('zoomed-out');
+    if (reducedMotion.matches) viewerProgress.set(1);
+    else {
+        viewerProgress.set(viewerProgress.value);
+        viewerProgress.to(1, { damping: 1, response: 0.4 });
+    }
+    history.pushState({ filters: { ...state }, viewer: true }, '', window.location.href);
+    viewerHistoryPushed = true;
+    viewerClose.focus({ preventScroll: true });
+}
+
+function closeViewer({ velocity, fromHistory = false, instant = false } = {}) {
+    if (!viewerIsOpen) return;
+    viewerIsOpen = false;
+    if (!fromHistory && viewerHistoryPushed) history.back();
+    viewerHistoryPushed = false;
+    const finish = () => {
+        viewer.hidden = true;
+        modalImage.classList.remove('zoomed-out');
+        viewerImage.removeAttribute('src');
+        if (viewerReturnFocus && viewerReturnFocus.isConnected) viewerReturnFocus.focus({ preventScroll: true });
+        viewerReturnFocus = null;
+    };
+    if (instant || reducedMotion.matches) {
+        viewerProgress.set(0);
+        finish();
+        return;
+    }
+    // Volta para a foto da folha, que pode ter mudado de lugar (rotação, rolagem)
+    layoutViewer();
+    animateZoom(1, 0, 0);
+    viewerDismiss.to(0, { damping: 1, response: 0.4 });
+    viewerProgress.to(0, { damping: 1, response: 0.4, velocity, onRest: finish });
+}
+
+function setupViewer() {
+    zoomButton.addEventListener('click', openViewer);
+    modalImage.addEventListener('click', () => {
+        if (sheetDragDistance < 8) openViewer();
+    });
+    viewerClose.addEventListener('click', () => closeViewer());
+
+    const pointers = new Map();
+    let gesture = null;
+    let lastTap = { t: 0, x: 0, y: 0 };
+    let samples = [];
+
+    const midpoint = () => {
+        const [a, b] = [...pointers.values()];
+        return { x: (a.x + b.x) / 2, y: (a.y + b.y) / 2, d: Math.hypot(a.x - b.x, a.y - b.y) };
+    };
+
+    const startGesture = () => {
+        // Agarra do valor atual, mesmo no meio de uma animação
+        Object.values(zoomSprings).forEach(spring => spring.set(spring.value));
+        viewerDismiss.set(viewerDismiss.value);
+        const base = { s: zoom.s, x: zoom.x, y: zoom.y };
+        if (pointers.size === 2) {
+            gesture = { type: 'pinch', base, start: midpoint() };
+        } else {
+            const p = [...pointers.values()][0];
+            gesture = { type: 'pan', base, startX: p.x, startY: p.y, moved: false, dismiss: zoom.s <= 1.01, startDismiss: viewerDismissY };
+        }
+        samples = [];
+    };
+
+    viewer.addEventListener('pointerdown', event => {
+        if (!viewerIsOpen || event.target.closest('button')) return;
+        try { viewer.setPointerCapture(event.pointerId); } catch (e) { /* ponteiro já liberado */ }
+        pointers.set(event.pointerId, { x: event.clientX, y: event.clientY });
+        if (pointers.size <= 2) startGesture();
+    });
+
+    viewer.addEventListener('pointermove', event => {
+        if (!gesture || !pointers.has(event.pointerId)) return;
+        pointers.set(event.pointerId, { x: event.clientX, y: event.clientY });
+        samples.push({ x: event.clientX, y: event.clientY, t: event.timeStamp });
+        while (samples.length > 2 && event.timeStamp - samples[0].t > 100) samples.shift();
+
+        if (gesture.type === 'pinch' && pointers.size === 2) {
+            const m = midpoint();
+            let s = gesture.base.s * (m.d / gesture.start.d);
+            // Passou dos limites: resiste em vez de travar
+            if (s > VIEWER_MAX_SCALE) s = VIEWER_MAX_SCALE + rubberband(s - VIEWER_MAX_SCALE, VIEWER_MAX_SCALE, 0.3);
+            if (s < 1) s = 1 - rubberband(1 - s, 1, 0.3);
+            const t = zoomAround(gesture.start.x, gesture.start.y, gesture.base.s, s, gesture.base.x, gesture.base.y);
+            setZoom(s, t.x + m.x - gesture.start.x, t.y + m.y - gesture.start.y);
+            return;
+        }
+        if (gesture.type !== 'pan') return;
+        const dx = event.clientX - gesture.startX;
+        const dy = event.clientY - gesture.startY;
+        if (!gesture.moved && Math.hypot(dx, dy) < 10) return; // ainda pode ser um toque
+        gesture.moved = true;
+        if (gesture.dismiss) {
+            viewerDismiss.set(gesture.startDismiss + dy);
+            renderViewerStage(viewerProgress.value);
+            return;
+        }
+        const bounds = panBounds(zoom.s);
+        const soft = (value, bound, size) =>
+            Math.abs(value) <= bound ? value : Math.sign(value) * (bound + rubberband(Math.abs(value) - bound, size));
+        setZoom(zoom.s,
+            soft(gesture.base.x + dx, bounds.x, viewer.clientWidth),
+            soft(gesture.base.y + dy, bounds.y, viewer.clientHeight));
+    });
+
+    const endPointer = event => {
+        if (!pointers.has(event.pointerId)) return;
+        pointers.delete(event.pointerId);
+        if (!gesture) return;
+
+        const first = samples[0];
+        const last = samples[samples.length - 1];
+        const dt = first && last ? (last.t - first.t) / 1000 : 0;
+        const vx = dt > 0 ? (last.x - first.x) / dt : 0;
+        const vy = dt > 0 ? (last.y - first.y) / dt : 0;
+
+        if (gesture.type === 'pinch') {
+            // Ao soltar o primeiro dedo a pinça termina; o outro dedo não faz mais nada
+            gesture = null;
+            const s = Math.max(1, Math.min(VIEWER_MAX_SCALE, zoom.s));
+            const bounds = panBounds(s);
+            const t = zoomAround(event.clientX, event.clientY, zoom.s, s, zoom.x, zoom.y);
+            animateZoom(s, clampPan(t.x, bounds.x), clampPan(t.y, bounds.y));
+            return;
+        }
+
+        const g = gesture;
+        gesture = null;
+        if (!g.moved) {
+            if (event.type === 'pointercancel') return;
+            // Mouse: um clique amplia. Toque: dois toques seguidos.
+            if (event.pointerType === 'mouse') {
+                toggleZoomAt(event.clientX, event.clientY);
+                return;
+            }
+            const now = event.timeStamp;
+            if (now - lastTap.t < 300 && Math.hypot(event.clientX - lastTap.x, event.clientY - lastTap.y) < 30) {
+                lastTap.t = 0;
+                toggleZoomAt(event.clientX, event.clientY);
+            } else {
+                lastTap = { t: now, x: event.clientX, y: event.clientY };
+            }
+            return;
+        }
+        if (g.dismiss) {
+            if (Math.abs(viewerDismissY + project(vy)) > viewer.clientHeight * 0.25 || Math.abs(vy) > 800) {
+                closeViewer({ velocity: -Math.abs(vy) / viewer.clientHeight });
+            } else {
+                viewerDismiss.to(0, { damping: 0.8, response: 0.3, velocity: vy });
+            }
+            return;
+        }
+        // Foto ampliada: segue com o momento do dedo até a borda
+        const bounds = panBounds(zoom.s);
+        animateZoom(zoom.s,
+            clampPan(zoom.x + project(vx, 0.995), bounds.x),
+            clampPan(zoom.y + project(vy, 0.995), bounds.y),
+            { vx, vy });
+    };
+
+    viewer.addEventListener('pointerup', endPointer);
+    viewer.addEventListener('pointercancel', endPointer);
+
+    // Roda do mouse / pinça do trackpad amplia em torno do cursor
+    viewer.addEventListener('wheel', event => {
+        if (!viewerIsOpen) return;
+        event.preventDefault();
+        const s = Math.max(1, Math.min(VIEWER_MAX_SCALE, zoom.s * Math.exp(-event.deltaY * (event.ctrlKey ? 0.01 : 0.002))));
+        const t = zoomAround(event.clientX, event.clientY, zoom.s, s, zoom.x, zoom.y);
+        const bounds = panBounds(s);
+        setZoom(s, clampPan(t.x, bounds.x), clampPan(t.y, bounds.y));
+    }, { passive: false });
+
+    window.addEventListener('resize', () => {
+        if (!viewerIsOpen) return;
+        layoutViewer();
+        setZoom(1, 0, 0);
+        renderViewerStage(viewerProgress.value);
+    });
+}
+
 function trapFocus(event) {
     if (event.key !== 'Tab' || costumeModal.hidden) return;
+    if (viewerIsOpen) {
+        event.preventDefault();
+        viewerClose.focus();
+        return;
+    }
     const focusables = [...sheet.querySelectorAll('button:not([hidden])')];
     if (!focusables.length) return;
     const first = focusables[0];
@@ -1687,13 +2011,15 @@ function initializeApp() {
     randomSearchButton.addEventListener('click', () => openRandomCostume(randomSearchButton));
     sheetAnotherButton.addEventListener('click', () => openRandomCostume(null));
     sheetShareButton.addEventListener('click', shareCurrentCostume);
+    setupViewer();
 
     modalCloseButton.addEventListener('click', () => closeCostumeSheet());
     sheetScrim.addEventListener('click', () => closeCostumeSheet());
     setupSheetDrag();
 
     document.addEventListener('keydown', event => {
-        if (event.key === 'Escape' && sheetIsOpen) closeCostumeSheet();
+        if (event.key === 'Escape' && viewerIsOpen) closeViewer();
+        else if (event.key === 'Escape' && sheetIsOpen) closeCostumeSheet();
         trapFocus(event);
         // "/" leva direto à busca
         if (event.key === '/' && document.activeElement !== searchNomeInput && costumeModal.hidden) {
@@ -1710,6 +2036,8 @@ function initializeApp() {
     });
 
     window.addEventListener('popstate', event => {
+        // "Voltar" com a foto em tela cheia fecha só a foto
+        if (viewerIsOpen && !(event.state && event.state.viewer)) closeViewer({ fromHistory: true });
         const filters = (event.state && event.state.filters) || getFiltersFromURL();
         const before = catalogKey(state);
         Object.assign(state, { fantasia: '' }, filters);

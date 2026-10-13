@@ -1160,6 +1160,131 @@ body.is-scrolled .topbar {
     opacity: 1;
 }
 
+.sheet-media img.loaded:not(.zoomed-out) {
+    cursor: zoom-in;
+}
+
+/* Enquanto a foto está em tela cheia, a original some: parece a mesma foto que cresceu */
+.sheet-media img.zoomed-out {
+    visibility: hidden;
+}
+
+/* Lupa: abre a foto em tela cheia */
+.media-zoom {
+    position: absolute;
+    right: 12px;
+    bottom: 12px;
+    z-index: 2;
+    width: 40px;
+    height: 40px;
+    display: grid;
+    place-items: center;
+    padding: 0;
+    border: 0;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.78);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    backdrop-filter: blur(16px) saturate(180%);
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.16);
+    color: var(--label);
+    transition: transform 100ms ease-out, background-color 150ms ease;
+}
+
+/* Área de toque maior que o desenho */
+.media-zoom::after {
+    content: "";
+    position: absolute;
+    inset: -8px;
+}
+
+.media-zoom svg {
+    width: 20px;
+    height: 20px;
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 1.8;
+    stroke-linecap: round;
+}
+
+@media (hover: hover) {
+    .media-zoom:hover {
+        background: rgba(255, 255, 255, 0.95);
+    }
+}
+
+.media-zoom:active {
+    transform: scale(0.9);
+}
+
+/* Foto em tela cheia: pinça, toque duplo e arrastar para baixo para fechar */
+.viewer {
+    position: fixed;
+    inset: 0;
+    z-index: 1050;
+    touch-action: none;
+    overscroll-behavior: contain;
+}
+
+.viewer-backdrop {
+    position: absolute;
+    inset: 0;
+    background: #000;
+    opacity: 0;
+}
+
+.viewer-stage {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    will-change: transform;
+}
+
+.viewer-stage img {
+    display: block;
+    max-width: none;
+    transform-origin: center;
+    will-change: transform;
+    -webkit-user-drag: none;
+    user-select: none;
+    cursor: zoom-in;
+}
+
+.viewer.is-zoomed .viewer-stage img {
+    cursor: grab;
+}
+
+.viewer-close {
+    position: absolute;
+    top: calc(14px + env(safe-area-inset-top));
+    right: 14px;
+    width: 40px;
+    height: 40px;
+    display: grid;
+    place-items: center;
+    padding: 0;
+    border: 0;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.18);
+    -webkit-backdrop-filter: blur(16px);
+    backdrop-filter: blur(16px);
+    opacity: 0;
+    transition: transform 100ms ease-out;
+}
+
+.viewer-close svg {
+    width: 13px;
+    height: 13px;
+    stroke: #fff;
+    stroke-width: 1.8;
+    stroke-linecap: round;
+}
+
+.viewer-close:active {
+    transform: scale(0.9);
+}
+
 .sheet-details {
     display: flex;
     flex-direction: column;
@@ -1607,6 +1732,11 @@ body.is-scrolled .topbar {
    -------------------------------------------------------------------------- */
 
 @media (prefers-reduced-motion: reduce) {
+
+    .media-zoom:active,
+    .viewer-close:active {
+        transform: none;
+    }
 
     .toast,
     .toast.visible {

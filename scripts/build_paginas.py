@@ -1,4 +1,4 @@
-"""Gera uma página fixa por fantasia em f/<código>/index.html e o sitemap.xml.
+"""Gera uma página fixa por fantasia em f/<código>-<nome>/index.html e o sitemap.xml.
 
 Cada página tem as meta-tags de compartilhamento (Open Graph, Twitter, JSON-LD),
 para o WhatsApp, Instagram, Facebook e buscadores mostrarem foto, nome e descrição,
@@ -14,6 +14,7 @@ import json
 import os
 import re
 import shutil
+import unicodedata
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE_URL = "https://danperrout.github.io/passalaco/"
@@ -61,6 +62,18 @@ TEMPLATE = """<!DOCTYPE html>
 """
 
 
+def slugify(text):
+    # Mesma regra de slugify() em assets/js/main.js
+    text = "".join(c for c in unicodedata.normalize("NFD", text) if not ("\u0300" <= c <= "\u036f"))
+    return re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
+
+
+def page_name(fantasia):
+    nome = (fantasia.get("nome") or "").strip()
+    slug = "" if nome == "." else slugify(nome)
+    return f"{fantasia['_id']}-{slug}" if slug else str(fantasia["_id"])
+
+
 def display_name(fantasia):
     nome = (fantasia.get("nome") or "").strip()
     return f"Fantasia #{fantasia['_id']}" if nome in ("", ".") else nome
@@ -83,7 +96,7 @@ def describe(fantasia, analise):
 def page(fantasia, analise):
     fid = fantasia["_id"]
     name = display_name(fantasia)
-    url = f"{SITE_URL}f/{fid}/"
+    url = f"{SITE_URL}f/{page_name(fantasia)}/"
     description = describe(fantasia, analise)
     image = fantasia.get("imgUrl") or ""
     json_ld = {
@@ -120,11 +133,11 @@ def main():
     except FileNotFoundError:
         analises = {}
 
-    ids = set()
+    names = []
     for fantasia in fantasias:
         fid = fantasia["_id"]
-        ids.add(str(fid))
-        target = os.path.join(PAGES_DIR, str(fid), "index.html")
+        names.append(page_name(fantasia))
+        target = os.path.join(PAGES_DIR, names[-1], "index.html")
         os.makedirs(os.path.dirname(target), exist_ok=True)
         content = page(fantasia, analises.get(str(fid)))
         # Só reescreve o que mudou, para o git mostrar apenas as diferenças reais
@@ -137,14 +150,17 @@ def main():
         with open(target, "w", encoding="utf-8") as f:
             f.write(content)
 
-    # Fantasias que saíram do catálogo
+    # Fantasias que saíram do catálogo ou mudaram de nome (o link antigo segue
+    # funcionando pelo 404.html, que só olha o código)
     removed = 0
+    keep = set(names)
     for entry in os.listdir(PAGES_DIR):
-        if re.fullmatch(r"\d+", entry) and entry not in ids:
+        if re.match(r"\d+(-|$)", entry) and entry not in keep:
             shutil.rmtree(os.path.join(PAGES_DIR, entry))
             removed += 1
 
-    urls = [SITE_URL] + [f"{SITE_URL}f/{fid}/" for fid in sorted(ids, key=int)]
+    names.sort(key=lambda name: int(name.split("-")[0]))
+    urls = [SITE_URL] + [f"{SITE_URL}f/{name}/" for name in names]
     with open(SITEMAP, "w", encoding="utf-8") as f:
         f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
         f.write('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
@@ -152,7 +168,7 @@ def main():
             f.write(f"  <url><loc>{html.escape(url)}</loc></url>\n")
         f.write("</urlset>\n")
 
-    print(f"{len(ids)} páginas em f/ ({removed} removidas) e {len(urls)} endereços no sitemap.xml")
+    print(f"{len(names)} páginas em f/ ({removed} removidas) e {len(urls)} endereços no sitemap.xml")
 
 
 if __name__ == "__main__":
