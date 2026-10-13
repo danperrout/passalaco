@@ -1,0 +1,25 @@
+{
+    "nome": "Passa Laço Fantasias",
+    "nomeCurto": "Passa Laço",
+    "descricao": "Catálogo de aluguel de fantasias da Passa Laço. Busque por nome, código ou categoria.",
+    "endereco": "https://danperrout.github.io/passalaco/",
+    "logo": {
+        "url": "https://www.passalaco.com.br/img/passalaco.png",
+        "largura": 530,
+        "altura": 150
+    },
+    "siteDaLoja": {
+        "url": "https://www.passalaco.com.br",
+        "texto": "passalaco.com.br"
+    },
+    "whatsapp": {
+        "numero": "5531988416629",
+        "exibicao": "(31) 98841-6629",
+        "mensagem": "Olá! Tenho interesse na fantasia #{codigo} {nome}. Está disponível? {link}"
+    },
+    "cores": {
+        "destaque": "#d1262d",
+        "fundo": "#fff8f1",
+        "faixa": ["#e2231a", "#ff9f1c", "#f7c600", "#2e9e3e", "#1e88e5", "#8338ec", "#ff006e"]
+    }
+}

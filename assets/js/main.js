@@ -18,12 +18,15 @@ const state = {
 
 // Raiz do site (/passalaco/ no GitHub Pages); cada fantasia tem o endereço fixo <raiz>f/<código>/
 const appRoot = new URL('./', window.location.href).pathname;
+
+// Dados da loja (loja.json, aplicado no index.html por scripts/build_site.py)
+const LOJA = Object.assign({ nome: 'Catálogo de fantasias', nomeCurto: '', whatsapp: '', mensagemWhatsapp: '' }, window.LOJA);
 const baseTitle = document.title;
 // Fixa o ícone num endereço absoluto antes de a URL mudar para f/<código>/
 document.querySelectorAll('link[rel~="icon"]').forEach(link => { link.href = link.href; });
 
 // Slug do nome só para o link ficar legível; quem identifica a fantasia é o código
-// (mesma regra de slugify() em scripts/build_paginas.py)
+// (mesma regra de slugify() em scripts/build_site.py)
 function slugify(text) {
     return text.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase()
         .replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
@@ -32,6 +35,17 @@ function slugify(text) {
 function costumePath(fantasia) {
     const slug = fantasia.nome === '.' ? '' : slugify(fantasia.nome);
     return `${appRoot}f/${fantasia._id}${slug ? '-' + slug : ''}/`;
+}
+
+function costumeURL(fantasia) {
+    return new URL(costumePath(fantasia), window.location.origin).href;
+}
+
+// Conversa no WhatsApp da loja já com o código, o nome e o link da fantasia
+function whatsappLink(fantasia) {
+    const fields = { codigo: fantasia._id, nome: displayName(fantasia), link: costumeURL(fantasia) };
+    const text = LOJA.mensagemWhatsapp.replace(/\{(\w+)\}/g, (match, key) => key in fields ? fields[key] : match);
+    return `https://wa.me/${LOJA.whatsapp}?text=${encodeURIComponent(text)}`;
 }
 
 // Elementos DOM principais
@@ -62,6 +76,12 @@ const sheetMedia = sheet.querySelector('.sheet-media');
 const modalCloseButton = document.getElementById('modalCloseButton');
 const sheetAnotherButton = document.getElementById('sheetAnotherButton');
 const sheetShareButton = document.getElementById('sheetShareButton');
+const whatsappButton = document.getElementById('whatsappButton');
+const mediaTrack = document.getElementById('mediaTrack');
+const mediaDots = document.getElementById('mediaDots');
+const mediaPrev = document.querySelector('.media-prev');
+const mediaNext = document.querySelector('.media-next');
+const videoJumpButton = document.getElementById('videoJumpButton');
 const zoomButton = document.getElementById('zoomButton');
 const viewer = document.getElementById('viewer');
 const viewerBackdrop = document.getElementById('viewerBackdrop');
@@ -180,6 +200,7 @@ function categoryEmoji(cat) {
 // --- Análise visual (output/analises.json, gerado por scripts/build_analises.py) ---
 
 let analises = {};
+let videos = {}; // videos.json: código da fantasia → links do Instagram/Facebook
 const searchTextById = new Map(); // nome + análise, normalizados
 const themeTextById = new Map();  // só o tema descrito, normalizado
 
@@ -398,10 +419,29 @@ async function fetchAnalises() {
     }
 }
 
+async function fetchVideos() {
+    try {
+        const response = await fetch('videos.json');
+        if (!response.ok) throw new Error(`Erro HTTP: ${response.status}`);
+        const data = await response.json();
+        // Aceita um link ou uma lista de links por fantasia
+        const result = {};
+        Object.entries(data).forEach(([id, links]) => {
+            const embeds = [].concat(links).map(videoEmbed).filter(Boolean);
+            if (embeds.length) result[id] = embeds;
+        });
+        return result;
+    } catch (error) {
+        console.warn('Vídeos indisponíveis:', error);
+        return {};
+    }
+}
+
 async function fetchFantasias() {
     renderSkeleton();
     // A análise chega em paralelo; se demorar, a página abre sem ela e a incorpora depois
     const analisesPromise = fetchAnalises();
+    const videosPromise = fetchVideos();
     try {
         const response = await fetch('output/fantasias.json');
         if (!response.ok) {
@@ -420,6 +460,7 @@ async function fetchFantasias() {
         console.warn('Falha ao carregar fantasias do arquivo JSON, usando dados de fallback:', error);
         fantasias = fallbackFantasias;
     }
+    videos = await videosPromise;
     const timeout = new Promise(resolve => setTimeout(() => resolve(null), 2000));
     const early = await Promise.race([analisesPromise, timeout]);
     if (early) analises = early;
@@ -456,6 +497,16 @@ function createCostumeCard(fantasia) {
     img.dataset.src = fantasia.imgUrl;
     img.alt = name;
     card.querySelector('.card-id').textContent = `#${fantasia._id}`;
+    if (videos[fantasia._id]) {
+        // ▶ quando tem vídeo; ícone de várias fotos quando são só posts
+        const hasVideo = videos[fantasia._id].some(v => v.video);
+        const badge = el('span', 'card-video');
+        badge.innerHTML = hasVideo
+            ? '<svg viewBox="0 0 12 12" aria-hidden="true"><path d="M3 1.8v8.4L10 6z"/></svg>'
+            : '<svg viewBox="0 0 12 12" aria-hidden="true"><path d="M3.5 1h6A1.5 1.5 0 0 1 11 2.5v6A1.5 1.5 0 0 1 9.5 10h-6A1.5 1.5 0 0 1 2 8.5v-6A1.5 1.5 0 0 1 3.5 1ZM1 3.5v6A1.5 1.5 0 0 0 2.5 11h6" fill="none" stroke="#fff" stroke-width="1.2"/></svg>';
+        badge.title = hasVideo ? 'Tem vídeo' : 'Tem mais fotos';
+        card.querySelector('.card-media').appendChild(badge);
+    }
     card.querySelector('.card-title').textContent = name;
 
     // Categoria só aparece quando não é a categoria que já está aberta
@@ -1577,7 +1628,166 @@ function fillSheetAnalysis(analysis) {
     });
     modalItens.innerHTML = '';
     itens.forEach(item => modalItens.appendChild(el('li', 'item-chip', item)));
-    document.getElementById('modalItensSection').hidden = !itens.length;}
+    document.getElementById('modalItensSection').hidden = !itens.length;
+}
+
+// --- Vídeos do Instagram e do Facebook ---
+// Em videos.json basta o link do post/reel (o "embed" é montado aqui), mas também
+// funciona colar o endereço do código de incorporação do Facebook.
+
+// O Facebook desenha o player na largura pedida; o iframe tem a mesma largura (styles.css)
+const FACEBOOK_VIDEO_WIDTH = 320;
+
+function videoEmbed(link) {
+    if (typeof link !== 'string') return null;
+    let url;
+    try {
+        url = new URL(link.trim().replace(/&amp;/g, '&'));
+    } catch (error) {
+        return null;
+    }
+    const host = url.hostname.replace(/^www\.|^m\./, '');
+    if (host === 'instagram.com') {
+        const match = url.pathname.match(/\/(p|reels?|tv)\/([\w-]+)/);
+        if (!match) return null;
+        // /p/ é post (foto, carrossel ou vídeo); reel e tv são sempre vídeo
+        const kind = match[1] === 'p' ? 'p' : 'reel';
+        return { type: 'instagram', video: kind === 'reel', link: `https://www.instagram.com/${kind}/${match[2]}/`, src: `https://www.instagram.com/${kind}/${match[2]}/embed/` };
+    }
+    if (host === 'facebook.com' || host === 'fb.watch') {
+        // Código de incorporação: o vídeo de verdade está no parâmetro href
+        const target = url.pathname.startsWith('/plugins/') ? url.searchParams.get('href') : url.href;
+        if (!target) return null;
+        const src = `https://www.facebook.com/plugins/video.php?href=${encodeURIComponent(target)}&show_text=false&width=${FACEBOOK_VIDEO_WIDTH}`;
+        return { type: 'facebook', video: true, link: target, src };
+    }
+    return null;
+}
+
+// Tamanho natural de cada player; no carrossel ele é reduzido para caber no espaço da foto
+const VIDEO_SIZES = { instagram: { w: 340, h: 640 }, facebook: { w: FACEBOOK_VIDEO_WIDTH, h: Math.round(FACEBOOK_VIDEO_WIDTH * 16 / 9) } };
+let mediaIndex = 0;
+
+function mediaSlides() {
+    return [...mediaTrack.children];
+}
+
+function renderVideos(fantasia) {
+    const list = (fantasia && videos[fantasia._id]) || [];
+    mediaSlides().slice(1).forEach(slide => slide.remove());
+    list.forEach(video => {
+        const slide = el('div', 'media-slide media-slide-video');
+        const frame = document.createElement('iframe');
+        frame.className = `video-frame video-${video.type}`;
+        frame.dataset.src = video.src;
+        frame.src = video.src;
+        frame.title = video.type === 'instagram' ? (video.video ? 'Vídeo no Instagram' : 'Post do Instagram') : 'Vídeo no Facebook';
+        frame.allow = 'autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share';
+        frame.allowFullscreen = true;
+        frame.setAttribute('scrolling', 'no');
+        frame.dataset.w = VIDEO_SIZES[video.type].w;
+        frame.dataset.h = VIDEO_SIZES[video.type].h;
+        slide.appendChild(frame);
+        mediaTrack.appendChild(slide);
+    });
+    mediaDots.innerHTML = '';
+    if (list.length) {
+        mediaSlides().forEach((slide, i) => {
+            const dot = document.createElement('button');
+            dot.type = 'button';
+            dot.className = 'media-dot';
+            dot.setAttribute('aria-label', i === 0 ? 'Foto da fantasia' : `${list[i - 1].video ? 'Vídeo' : 'Post'} ${i} de ${list.length}`);
+            dot.addEventListener('click', () => goToSlide(i));
+            mediaDots.appendChild(dot);
+        });
+    }
+    mediaDots.hidden = !list.length;
+    // "Ver vídeo" se só há vídeos; com posts de foto, "Ver mais"
+    videoJumpButton.querySelector('span').textContent = list.every(v => v.video) ? (list.length > 1 ? 'Ver vídeos' : 'Ver vídeo') : 'Ver mais';
+    videoJumpButton.querySelector('svg').style.display = list.some(v => v.video) ? '' : 'none';
+    mediaTrack.scrollLeft = 0;
+    mediaIndex = 0;
+    layoutVideos();
+    syncMediaControls();
+}
+
+// Reduz cada player (largura e altura naturais) para caber no slide, centralizado
+function layoutVideos() {
+    const slide = mediaTrack.firstElementChild;
+    const w = slide.clientWidth;
+    const h = slide.clientHeight;
+    if (!w || !h) return;
+    mediaTrack.querySelectorAll('.video-frame').forEach(frame => {
+        const fw = +frame.dataset.w;
+        const fh = +frame.dataset.h;
+        const scale = Math.min(1, (w - 16) / fw, (h - 16) / fh);
+        frame.style.width = `${fw}px`;
+        frame.style.height = `${fh}px`;
+        frame.style.transform = `translate(-50%, -50%) scale(${scale})`;
+    });
+}
+
+function goToSlide(index) {
+    const slides = mediaSlides();
+    index = Math.max(0, Math.min(slides.length - 1, index));
+    mediaTrack.scrollTo({ left: index * mediaTrack.clientWidth, behavior: reducedMotion.matches ? 'auto' : 'smooth' });
+}
+
+// No celular a área da foto é baixa demais para um vídeo: cresce enquanto um vídeo
+// está à vista e volta ao tamanho da foto depois (a altura anima no CSS)
+let mediaResizeFrame = 0;
+function syncMediaHeight() {
+    const expand = mediaIndex > 0 && sheetMode === 'sheet';
+    if (sheetMedia.classList.contains('show-video') === expand) return;
+    sheetMedia.classList.toggle('show-video', expand);
+    // Acompanha a transição: o player é redimensionado a cada quadro
+    cancelAnimationFrame(mediaResizeFrame);
+    const until = performance.now() + 450;
+    const step = now => {
+        layoutVideos();
+        mediaTrack.scrollLeft = mediaIndex * mediaTrack.clientWidth;
+        if (now < until) mediaResizeFrame = requestAnimationFrame(step);
+    };
+    mediaResizeFrame = requestAnimationFrame(step);
+}
+
+function syncMediaControls() {
+    syncMediaHeight();
+    const count = mediaSlides().length;
+    [...mediaDots.children].forEach((dot, i) => dot.setAttribute('aria-current', i === mediaIndex ? 'true' : 'false'));
+    const onPhoto = mediaIndex === 0;
+    zoomButton.hidden = !onPhoto || !modalImage.classList.contains('loaded');
+    videoJumpButton.hidden = !onPhoto || count < 2;
+    mediaPrev.hidden = count < 2 || mediaIndex === 0;
+    mediaNext.hidden = count < 2 || mediaIndex === count - 1;
+}
+
+function onMediaScroll() {
+    const index = Math.round(mediaTrack.scrollLeft / Math.max(1, mediaTrack.clientWidth));
+    if (index === mediaIndex) return;
+    // Saiu de um vídeo: recarrega o player para ele parar de tocar
+    const previous = mediaSlides()[mediaIndex];
+    const frame = previous && previous.querySelector('iframe');
+    if (frame) frame.src = frame.dataset.src;
+    mediaIndex = index;
+    syncMediaControls();
+}
+
+// O Instagram avisa a altura do post por mensagem (é o que o embed.js oficial faz)
+window.addEventListener('message', event => {
+    if (!/^https:\/\/www\.instagram\.com$/.test(event.origin)) return;
+    let data = event.data;
+    try {
+        if (typeof data === 'string') data = JSON.parse(data);
+    } catch (error) {
+        return;
+    }
+    if (!data || data.type !== 'MEASURE' || !data.details || !data.details.height) return;
+    const frame = [...mediaTrack.querySelectorAll('iframe.video-instagram')].find(f => f.contentWindow === event.source);
+    if (!frame || +frame.dataset.h === data.details.height) return;
+    frame.dataset.h = data.details.height;
+    layoutVideos();
+});
 
 function fillSheet(fantasia) {
     const name = displayName(fantasia);
@@ -1590,7 +1800,7 @@ function fillSheet(fantasia) {
     zoomButton.hidden = true;
     modalImage.onload = () => {
         modalImage.classList.add('loaded');
-        zoomButton.hidden = false;
+        syncMediaControls();
     };
     modalImage.onerror = () => {
         modalImage.hidden = true;
@@ -1602,6 +1812,9 @@ function fillSheet(fantasia) {
 
     modalCategoria.textContent = fantasia.categoriaNome;
     modalName.textContent = name;
+    renderVideos(fantasia);
+    whatsappButton.hidden = !LOJA.whatsapp;
+    if (LOJA.whatsapp) whatsappButton.href = whatsappLink(fantasia);
     modalId.textContent = `#${fantasia._id}`;
     modalSexo.textContent = displayValue(fantasia.sexo);
     modalTipo.textContent = displayValue(fantasia.tipo);
@@ -1620,7 +1833,7 @@ let sheetHistoryPushed = false;
 function reclaimSheet() {
     if (sheetIsOpen || !sheetClosingFantasia) return;
     sheetFantasia = sheetClosingFantasia;
-    document.title = `${displayName(sheetFantasia)} — Passa Laço Fantasias`;
+    document.title = `${displayName(sheetFantasia)} — ${LOJA.nome}`;
     state.fantasia = String(sheetFantasia._id);
     updateURLFromState('push');
     sheetHistoryPushed = true;
@@ -1633,7 +1846,7 @@ function openCostumeSheet(fantasia, sourceEl, { random = false, history: history
     sheetFantasia = fantasia;
     sheetRandomMode = random;
     sheetAnotherButton.hidden = !random;
-    document.title = `${displayName(fantasia)} — Passa Laço Fantasias`;
+    document.title = `${displayName(fantasia)} — ${LOJA.nome}`;
     state.fantasia = String(fantasia._id);
     const mode = historyMode || (sheetIsOpen ? 'replace' : 'push');
     if (mode !== 'none') {
@@ -1646,6 +1859,7 @@ function openCostumeSheet(fantasia, sourceEl, { random = false, history: history
     costumeModal.hidden = false;
     document.documentElement.classList.add('sheet-open');
     measureSheet(sourceEl);
+    layoutVideos();
     if (wasHidden) sheetSpring.set(0);
 
     // A foto só voa quando a folha nasce de um card; ao sortear outra, o card já não corresponde
@@ -1674,7 +1888,7 @@ function closeCostumeSheet(velocity, { fromHistory = false } = {}) {
     // Fechou pelo botão, Esc ou fundo (folha parada no lugar): a foto volta para o card.
     // Arrastando para baixo, a foto desce junto com a folha.
     endFlight();
-    if (velocity === undefined && sheetSpring.value > 0.98 && sheetSource && sheetSource.isConnected) {
+    if (velocity === undefined && sheetSpring.value > 0.98 && mediaIndex === 0 && sheetSource && sheetSource.isConnected) {
         startFlight(sheetSource);
     }
     sheetSource = null;
@@ -1688,6 +1902,7 @@ function closeCostumeSheet(velocity, { fromHistory = false } = {}) {
             costumeModal.hidden = true;
             document.documentElement.classList.remove('sheet-open');
             modalImage.removeAttribute('src');
+            renderVideos(null); // para o vídeo que estiver tocando
             if (sheetReturnFocus && sheetReturnFocus.isConnected) sheetReturnFocus.focus({ preventScroll: true });
             sheetReturnFocus = null;
         }
@@ -1722,8 +1937,8 @@ function showToast(message) {
 async function shareCurrentCostume() {
     if (!sheetFantasia) return;
     const name = displayName(sheetFantasia);
-    const url = new URL(costumePath(sheetFantasia), window.location.origin).href;
-    const data = { title: `${name} — Passa Laço Fantasias`, text: `Olha essa fantasia da Passa Laço: ${name}`, url };
+    const url = costumeURL(sheetFantasia);
+    const data = { title: `${name} — ${LOJA.nome}`, text: `Olha essa fantasia da ${LOJA.nomeCurto || LOJA.nome}: ${name}`, url };
     if (navigator.share && matchMedia('(pointer: coarse)').matches && (!navigator.canShare || navigator.canShare(data))) {
         try {
             await navigator.share(data);
@@ -2111,7 +2326,7 @@ function trapFocus(event) {
         viewerClose.focus();
         return;
     }
-    const focusables = [...sheet.querySelectorAll('button:not([hidden])')];
+    const focusables = [...sheet.querySelectorAll('button:not([hidden]), a[href]:not([hidden])')];
     if (!focusables.length) return;
     const first = focusables[0];
     const last = focusables[focusables.length - 1];
@@ -2191,6 +2406,10 @@ function initializeApp() {
     randomSearchButton.addEventListener('click', () => openRandomCostume(randomSearchButton));
     sheetAnotherButton.addEventListener('click', () => openRandomCostume(null));
     sheetShareButton.addEventListener('click', shareCurrentCostume);
+    videoJumpButton.addEventListener('click', () => goToSlide(1));
+    mediaPrev.addEventListener('click', () => goToSlide(mediaIndex - 1));
+    mediaNext.addEventListener('click', () => goToSlide(mediaIndex + 1));
+    mediaTrack.addEventListener('scroll', onMediaScroll, { passive: true });
     setupViewer();
 
     modalCloseButton.addEventListener('click', () => closeCostumeSheet());
@@ -2212,6 +2431,8 @@ function initializeApp() {
     window.addEventListener('resize', () => {
         if (costumeModal.hidden) return;
         measureSheet(null);
+        layoutVideos();
+        mediaTrack.scrollLeft = mediaIndex * mediaTrack.clientWidth;
         renderSheet(sheetSpring.value);
     });
 

@@ -562,6 +562,28 @@ body.is-scrolled .topbar {
     letter-spacing: 0.01em;
 }
 
+/* Selo de vídeo no card */
+.card-video {
+    position: absolute;
+    right: 8px;
+    bottom: 8px;
+    width: 26px;
+    height: 26px;
+    display: grid;
+    place-items: center;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.55);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+}
+
+.card-video svg,
+.media-video svg {
+    width: 11px;
+    height: 11px;
+    fill: #fff;
+}
+
 .media-placeholder {
     position: absolute;
     inset: 0;
@@ -1082,6 +1104,8 @@ body.is-scrolled .topbar {
     max-height: calc(100vh - 64px);
     display: grid;
     grid-template-columns: 400px minmax(280px, 1fr);
+    /* Detalhes longos (vídeos) rolam dentro da coluna, sem esticar a folha */
+    grid-template-rows: minmax(0, 1fr);
     background: var(--surface);
     border-radius: 22px;
     overflow: hidden;
@@ -1145,6 +1169,135 @@ body.is-scrolled .topbar {
     opacity: calc(0.55 * var(--swap-o, 1));
 }
 
+/* Carrossel: foto da fantasia e, se houver, vídeos e posts do Instagram/Facebook */
+.media-track {
+    position: relative;
+    display: flex;
+    height: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scroll-snap-type: x mandatory;
+    overscroll-behavior-x: contain;
+    scrollbar-width: none;
+    touch-action: pan-x;
+}
+
+.media-track::-webkit-scrollbar {
+    display: none;
+}
+
+.media-slide {
+    position: relative;
+    flex: 0 0 100%;
+    height: 100%;
+    scroll-snap-align: center;
+    scroll-snap-stop: always;
+    overflow: hidden;
+}
+
+/* O player é desenhado no tamanho natural e reduzido para caber (layoutVideos) */
+.video-frame {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    border: 0;
+    border-radius: 12px;
+    background: #fff;
+    transform-origin: center;
+}
+
+.media-dots {
+    position: absolute;
+    left: 50%;
+    bottom: 14px;
+    z-index: 2;
+    display: flex;
+    gap: 2px;
+    padding: 4px 6px;
+    border-radius: 999px;
+    background: rgba(0, 0, 0, 0.35);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+    transform: translateX(-50%);
+}
+
+.media-dots[hidden] {
+    display: none;
+}
+
+.media-dot {
+    width: 16px;
+    height: 16px;
+    padding: 0;
+    border: 0;
+    background: none;
+    display: grid;
+    place-items: center;
+}
+
+.media-dot::before {
+    content: "";
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.5);
+    transition: background-color 200ms ease, transform 200ms ease;
+}
+
+.media-dot[aria-current="true"]::before {
+    background: #fff;
+    transform: scale(1.15);
+}
+
+.media-arrow {
+    display: none;
+}
+
+@media (hover: hover) and (pointer: fine) {
+    .media-arrow {
+        position: absolute;
+        top: 50%;
+        z-index: 2;
+        width: 36px;
+        height: 36px;
+        display: grid;
+        place-items: center;
+        margin-top: -18px;
+        padding: 0 0 3px;
+        border: 0;
+        border-radius: 50%;
+        background: rgba(255, 255, 255, 0.85);
+        -webkit-backdrop-filter: saturate(180%) blur(12px);
+        backdrop-filter: saturate(180%) blur(12px);
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+        font-size: 24px;
+        line-height: 1;
+        color: var(--label);
+        opacity: 0;
+        transition: opacity 200ms ease, transform 100ms ease-out;
+    }
+
+    .media-arrow[hidden] {
+        display: none;
+    }
+
+    .media-prev {
+        left: 10px;
+    }
+
+    .media-next {
+        right: 10px;
+    }
+
+    .sheet-media:hover .media-arrow {
+        opacity: 1;
+    }
+
+    .media-arrow:active {
+        transform: scale(0.92);
+    }
+}
+
 .sheet-media img {
     position: relative;
     display: block;
@@ -1163,12 +1316,12 @@ body.is-scrolled .topbar {
 /* "Sortear outra": foto e textos deslizam juntos; os botões ficam parados */
 .sheet-media img,
 .sheet-media .media-placeholder,
-.sheet-details > :not(.sheet-head),
+.sheet-details > :not(.sheet-head, .whatsapp-cta),
 .sheet-title {
     translate: var(--swap-x, 0) 0;
 }
 
-.sheet-details > :not(.sheet-head),
+.sheet-details > :not(.sheet-head, .whatsapp-cta),
 .sheet-title {
     opacity: var(--swap-o, 1);
 }
@@ -1419,6 +1572,36 @@ body.is-scrolled .topbar {
     margin-top: 18px;
 }
 
+/* "Ver vídeo" na foto: leva até os vídeos, que ficam mais abaixo na ficha */
+.media-video {
+    position: absolute;
+    left: 12px;
+    bottom: 12px;
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    height: 36px;
+    padding: 0 14px 0 12px;
+    border: 0;
+    border-radius: 999px;
+    background: rgba(0, 0, 0, 0.6);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    backdrop-filter: blur(16px) saturate(180%);
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    transition: transform 100ms ease-out;
+}
+
+.media-video[hidden] {
+    display: none;
+}
+
+.media-video:active {
+    transform: scale(0.95);
+}
+
 .sheet-section-title {
     margin: 0 0 8px;
     font-size: 13px;
@@ -1452,6 +1635,52 @@ body.is-scrolled .topbar {
     flex: 1;
     min-width: 0;
     margin-bottom: 0;
+}
+
+/* Ação principal da ficha: reservar pelo WhatsApp da loja */
+.whatsapp-cta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    min-height: 48px;
+    margin: 0 0 20px;
+    padding: 0 20px;
+    border-radius: 14px;
+    background: #25d366;
+    color: #fff;
+    font-size: 17px;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    text-decoration: none;
+    box-shadow: 0 4px 14px rgba(37, 211, 102, 0.3);
+    transition: transform 100ms ease-out, background-color 150ms ease;
+}
+
+.whatsapp-cta[hidden] {
+    display: none;
+}
+
+.whatsapp-cta svg {
+    width: 22px;
+    height: 22px;
+    flex-shrink: 0;
+    fill: currentColor;
+}
+
+@media (hover: hover) {
+    .whatsapp-cta:hover {
+        background: #1ebe5b;
+    }
+}
+
+.whatsapp-cta:active {
+    transform: scale(0.97);
+    background: #1ebe5b;
+}
+
+.sheet-root[data-mode="sheet"] .whatsapp-cta {
+    margin-bottom: 16px;
 }
 
 .sheet-actions {
@@ -1747,6 +1976,12 @@ body.is-scrolled .topbar {
 
 .sheet-root[data-mode="sheet"] .sheet-media {
     min-height: 0;
+    transition: height 400ms cubic-bezier(0.2, 0.9, 0.3, 1);
+}
+
+/* Vídeo à vista: a área cresce para o player caber num tamanho legível */
+.sheet-root[data-mode="sheet"] .sheet-media.show-video {
+    height: min(72vh, 640px);
 }
 
 .sheet-root[data-mode="sheet"] .sheet-details {
@@ -1772,8 +2007,13 @@ body.is-scrolled .topbar {
 
 @media (prefers-reduced-motion: reduce) {
 
+    .sheet-root[data-mode="sheet"] .sheet-media {
+        transition: none;
+    }
+
     .media-zoom:active,
-    .viewer-close:active {
+    .viewer-close:active,
+    .whatsapp-cta:active {
         transform: none;
     }
 

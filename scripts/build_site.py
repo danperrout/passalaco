@@ -1,12 +1,15 @@
-"""Gera uma página fixa por fantasia em f/<código>-<nome>/index.html e o sitemap.xml.
+"""Monta o site da loja a partir de loja.json e do catálogo.
 
-Cada página tem as meta-tags de compartilhamento (Open Graph, Twitter, JSON-LD),
-para o WhatsApp, Instagram, Facebook e buscadores mostrarem foto, nome e descrição,
-e leva o visitante direto para a fantasia aberta no catálogo.
+- Aplica loja.json (nome, logo, cores, WhatsApp, endereço) no index.html e no
+  404.html, nos trechos marcados com <!-- loja:... --> <!-- /loja:... -->.
+- Gera uma página fixa por fantasia em f/<código>-<nome>/index.html, com as
+  meta-tags de compartilhamento (Open Graph, Twitter, JSON-LD), para o WhatsApp,
+  Instagram, Facebook e buscadores mostrarem foto, nome e descrição.
+- Gera o sitemap.xml.
 
-Rode de novo sempre que output/fantasias.json ou output/analises.json mudarem.
+Rode de novo sempre que loja.json, output/fantasias.json ou output/analises.json mudarem.
 
-Uso: python scripts/build_paginas.py
+Uso: python scripts/build_site.py
 """
 
 import html
@@ -17,8 +20,11 @@ import shutil
 import unicodedata
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SITE_URL = "https://danperrout.github.io/passalaco/"
-SITE_NAME = "Passa Laço Fantasias"
+with open(os.path.join(ROOT, "loja.json"), encoding="utf-8") as _f:
+    LOJA = json.load(_f)
+SITE_URL = LOJA["endereco"].rstrip("/") + "/"
+SITE_NAME = LOJA["nome"]
+SHORT_NAME = LOJA.get("nomeCurto") or SITE_NAME
 FANTASIAS = os.path.join(ROOT, "output", "fantasias.json")
 ANALISES = os.path.join(ROOT, "output", "analises.json")
 PAGES_DIR = os.path.join(ROOT, "f")
@@ -30,7 +36,7 @@ TEMPLATE = """<!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="theme-color" content="#fff8f1">
+    <meta name="theme-color" content="{bg}">
     <title>{title}</title>
     <meta name="description" content="{description}">
     <link rel="canonical" href="{url}">
@@ -55,7 +61,7 @@ TEMPLATE = """<!DOCTYPE html>
 </head>
 
 <body>
-    <p><a href="../../?fantasia={id}">Ver {name} no catálogo da Passa Laço</a></p>
+    <p><a href="../../?fantasia={id}">Ver {name} no catálogo da {short_name}</a></p>
 </body>
 
 </html>
@@ -89,7 +95,7 @@ def describe(fantasia, analise):
     tema = (analise or {}).get("t", "")
     if tema:
         texto += tema.rstrip(".") + ". "
-    texto += f"Código #{fantasia['_id']}. Aluguel de fantasias na Passa Laço."
+    texto += f"Código #{fantasia['_id']}. Aluguel de fantasias na {SHORT_NAME}."
     return texto if len(texto) <= 300 else texto[:297].rstrip() + "…"
 
 
@@ -118,13 +124,109 @@ def page(fantasia, analise):
         url=esc(url),
         image=esc(image),
         site_name=esc(SITE_NAME),
+        short_name=esc(SHORT_NAME),
+        bg=esc(LOJA["cores"]["fundo"]),
         id=fid,
         # "</" dentro do JSON fecharia a tag <script>
         json_ld=json.dumps(json_ld, ensure_ascii=False).replace("</", "<\\/"),
     )
 
 
+# --- loja.json no index.html e no 404.html ---
+
+def hex_rgb(color):
+    color = color.lstrip("#")
+    if len(color) == 3:
+        color = "".join(c * 2 for c in color)
+    return tuple(int(color[i:i + 2], 16) for i in (0, 2, 4))
+
+
+def css_vars():
+    cores = LOJA["cores"]
+    tint, bg = cores["destaque"], cores["fundo"]
+    faixa = cores.get("faixa") or [tint, tint]
+    return (
+        f"--tint: {tint}; --tint-rgb: {', '.join(map(str, hex_rgb(tint)))}; "
+        f"--bg: {bg}; --material: rgba({', '.join(map(str, hex_rgb(bg)))}, 0.76); "
+        f"--brand-stripe: linear-gradient(90deg, {', '.join(faixa)});"
+    )
+
+
+def runtime_config():
+    # Só o que o main.js usa; "</" fecharia a tag <script>
+    whatsapp = LOJA.get("whatsapp") or {}
+    data = {
+        "nome": SITE_NAME,
+        "nomeCurto": SHORT_NAME,
+        "whatsapp": re.sub(r"\D", "", whatsapp.get("numero", "")),
+        "mensagemWhatsapp": whatsapp.get("mensagem", ""),
+    }
+    return json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
+
+
+def index_regions():
+    esc = lambda s: html.escape(s, quote=True)
+    title = f"{SITE_NAME} — Aluguel de fantasias"
+    logo = LOJA["logo"]
+    site = LOJA.get("siteDaLoja") or {}
+    whatsapp = LOJA.get("whatsapp") or {}
+    footer = []
+    if site.get("url"):
+        footer.append(f'<a href="{esc(site["url"])}">{esc(site.get("texto") or site["url"])}</a>')
+    if whatsapp.get("numero"):
+        numero = re.sub(r"\D", "", whatsapp["numero"])
+        footer.append(f'<a href="https://wa.me/{numero}" target="_blank" rel="noopener">'
+                      f'WhatsApp {esc(whatsapp.get("exibicao") or numero)}</a>')
+    return {
+        "cabecalho": f"""    <meta name="theme-color" content="{esc(LOJA["cores"]["fundo"])}">
+    <title>{esc(title)}</title>
+    <meta name="description" content="{esc(LOJA["descricao"])}">
+    <link rel="canonical" href="{esc(SITE_URL)}">
+    <link rel="icon" type="image/png" href="assets/favicon.png">
+
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="{esc(SITE_NAME)}">
+    <meta property="og:locale" content="pt_BR">
+    <meta property="og:url" content="{esc(SITE_URL)}">
+    <meta property="og:title" content="{esc(title)}">
+    <meta property="og:description" content="{esc(LOJA["descricao"])}">
+    <meta property="og:image" content="{esc(logo["url"])}">
+    <meta name="twitter:card" content="summary">
+    <style>:root {{ {css_vars()} }}</style>
+    <script>window.LOJA = {runtime_config()};</script>""",
+        "marca": f"""            <a class="brand" href="./" aria-label="{esc(SITE_NAME)} — início">
+                <img src="{esc(logo["url"])}" alt="{esc(SITE_NAME)}" width="{logo.get("largura", 300)}"
+                    height="{logo.get("altura", 100)}">
+            </a>""",
+        "rodape": "        <p>" + " · ".join(footer) + "</p>" if footer else "",
+    }
+
+
+def not_found_regions():
+    esc = lambda s: html.escape(s, quote=True)
+    return {
+        "cabecalho404": f"""    <title>Página não encontrada — {esc(SITE_NAME)}</title>
+    <style>:root {{ {css_vars()} }}</style>""",
+        "inicio404": f"""        <p><a id="home" href="{esc(SITE_URL)}">Ver o catálogo de fantasias</a></p>""",
+    }
+
+
+def apply_regions(path, regions):
+    with open(path, encoding="utf-8") as f:
+        content = f.read()
+    for name, body in regions.items():
+        pattern = re.compile(rf"(<!-- loja:{name}\b[^>]*-->\n)(.*?)(\n[ \t]*<!-- /loja:{name} -->)", re.S)
+        if not pattern.search(content):
+            raise SystemExit(f"{os.path.relpath(path, ROOT)}: marcador loja:{name} não encontrado")
+        content = pattern.sub(lambda m: m.group(1) + body + m.group(3), content)
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(content)
+
+
 def main():
+    apply_regions(os.path.join(ROOT, "index.html"), index_regions())
+    apply_regions(os.path.join(ROOT, "404.html"), not_found_regions())
+
     with open(FANTASIAS, encoding="utf-8") as f:
         fantasias = json.load(f)
     try:

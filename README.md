@@ -13,6 +13,9 @@ Catálogo online de fantasias da loja [Passa Laço](https://www.passalaco.com.br
 - Lazy load de imagens
 - Detalhes em diálogo (desktop) ou folha inferior arrastável (celular), com contagem de visualizações (salvo em localStorage)
 - Botão "Estou sem ideia" sorteia e abre uma fantasia aleatória
+- Botão "Reservar pelo WhatsApp" em cada fantasia, com mensagem pronta (código, nome e link)
+- Vídeos e posts do Instagram e do Facebook num carrossel junto com a foto da fantasia (cadastrados em
+  `videos.json`), com selo no card
 - Lupa na foto (ou toque na foto) abre a imagem em tela cheia: pinça ou toque duplo para ampliar,
   arrastar para ver os detalhes e arrastar para baixo para fechar; no computador, clique e roda do mouse
 - Cada fantasia tem endereço fixo com código e nome (`/f/8423-enfermeira/`), que abre direto nela, e botão de compartilhar
@@ -30,6 +33,8 @@ conteúdo como um baralho e os cards de uma página nova entram em cascata pelo 
 ## Estrutura
 
 ```
+videos.json             # Vídeos e posts do Instagram/Facebook por código de fantasia
+loja.json               # Dados da loja: nome, logo, cores, WhatsApp, endereço (ver "Nova loja")
 index.html              # Interface principal
 assets/js/main.js       # Filtros, busca, renderização, paginação e animações
 assets/styles.css       # Estilos (CSS puro, sem dependências)
@@ -37,7 +42,7 @@ output/fantasias.json   # Fonte de dados principal
 output/analises.json    # Análise visual de cada fantasia (gerado, ver abaixo)
 assets/js/db.js         # Lista de nomes e categorias (usado na geração do JSON)
 scripts/build_analises.py  # Junta data/analise/*_analise.json em output/analises.json
-scripts/build_paginas.py   # Gera f/<código>-<nome>/index.html e sitemap.xml
+scripts/build_site.py      # Aplica loja.json e gera f/<código>-<nome>/ e sitemap.xml
 f/<código>-<nome>/      # Página fixa de cada fantasia (gerada, ver abaixo)
 404.html                # Leva qualquer /f/<código>…/ para a fantasia
 ```
@@ -62,11 +67,57 @@ endereço volta a ser `f/<código>-<nome>/`.
 Só o código importa: `/f/8423/` ou `/f/8423-qualquer-coisa/` também abrem a Enfermeira, pelo `404.html`. Depois de atualizar `output/fantasias.json` ou as análises, rode:
 
 ```bash
-python scripts/build_paginas.py
+python scripts/build_site.py
 ```
 
-O endereço do site fica em `SITE_URL`, no início do script. Fantasias novas que ainda não
+O endereço do site vem de `endereco`, em `loja.json`. Fantasias novas que ainda não
 têm página também abrem pelo link, mas sem a prévia no compartilhamento.
+
+## Vídeos e posts
+
+Vídeos (reels do Instagram ou do Facebook) e posts de foto do Instagram aparecem num carrossel
+junto com a foto da fantasia: arrasta-se para o lado (ou usa as setas, no computador). No celular,
+a área cresce enquanto um vídeo está à vista. Coloque o link em `videos.json`, pelo código:
+
+```json
+{
+    "8530": "https://www.instagram.com/reel/DeFuHgivsfK/",
+    "6790": [
+        "https://www.instagram.com/reel/DeFuHgivsfK/",
+        "https://www.facebook.com/reel/2008852879768778/"
+    ],
+    "10150": "https://www.instagram.com/p/DWrzN-fFNEk/"
+}
+```
+
+Basta o link (o mesmo do botão "Copiar link" do Instagram ou do Facebook); o site monta o vídeo
+incorporado. O endereço que aparece no código de incorporação do Facebook (`facebook.com/plugins/video.php?...`)
+também funciona. Não precisa rodar nenhum script: o site lê o arquivo direto.
+
+## Nova loja
+
+O site serve para qualquer loja de aluguel de fantasias. Tudo o que é da loja fica em `loja.json`:
+
+| Campo | O que é |
+|---|---|
+| `nome`, `nomeCurto` | Nome completo (títulos, compartilhamento) e curto ("Olha essa fantasia da …") |
+| `descricao` | Descrição do site para o Google e para a prévia do link da página inicial |
+| `endereco` | Endereço público do site, terminado em `/` (usado nos links compartilhados e no sitemap) |
+| `logo` | Endereço da imagem do logo, largura e altura originais |
+| `siteDaLoja` | Link do site institucional no rodapé (deixe `url` vazio para esconder) |
+| `whatsapp` | `numero` com DDI e DDD só com dígitos (ex.: `5531988416629`), `exibicao` para o rodapé e `mensagem` com `{codigo}`, `{nome}` e `{link}`. Sem número, o botão some |
+| `cores` | `destaque` (botões, links), `fundo` e `faixa` (listra colorida no topo) |
+
+Para montar uma loja nova:
+
+1. Troque `loja.json` e o ícone `assets/favicon.png`.
+2. Coloque o catálogo em `output/fantasias.json` (campos `_id`, `nome`, `imgUrl`, `categoriaNome`,
+   `sexo`, `tipo`) e, se houver, as análises das fotos (ver "Análise visual").
+3. Rode `python scripts/build_site.py`. Ele aplica `loja.json` no `index.html` e no `404.html`
+   (trechos entre `<!-- loja:... -->` e `<!-- /loja:... -->`, que não devem ser editados à mão)
+   e gera as páginas das fantasias e o `sitemap.xml`.
+
+As datas comemorativas e as categorias com emoji estão em `assets/js/main.js` e valem para lojas do Brasil.
 
 ## Datas comemorativas
 

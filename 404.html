@@ -4,7 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- loja:cabecalho404 -->
     <title>Página não encontrada — Passa Laço Fantasias</title>
+    <style>:root { --tint: #d1262d; --tint-rgb: 209, 38, 45; --bg: #fff8f1; --material: rgba(255, 248, 241, 0.76); --brand-stripe: linear-gradient(90deg, #e2231a, #ff9f1c, #f7c600, #2e9e3e, #1e88e5, #8338ec, #ff006e); }</style>
+    <!-- /loja:cabecalho404 -->
     <meta name="robots" content="noindex">
     <script>
         // Fantasias novas ainda sem página gerada, links antigos ou com outro texto depois
@@ -21,13 +24,13 @@
             display: grid;
             place-items: center;
             font: 17px/1.5 system-ui, -apple-system, sans-serif;
-            background: #fff8f1;
+            background: var(--bg, #fff8f1);
             color: #1d1d1f;
             text-align: center;
         }
 
         a {
-            color: #d1262d;
+            color: var(--tint, #d1262d);
             font-weight: 600;
         }
     </style>
@@ -37,7 +40,9 @@
     <main>
         <p style="font-size: 48px; margin: 0">🎭</p>
         <h1 style="font-size: 28px; margin: 8px 0">Página não encontrada</h1>
-        <p><a id="home" href="/passalaco/">Ver o catálogo de fantasias</a></p>
+        <!-- loja:inicio404 -->
+        <p><a id="home" href="https://danperrout.github.io/passalaco/">Ver o catálogo de fantasias</a></p>
+        <!-- /loja:inicio404 -->
     </main>
 </body>
 
