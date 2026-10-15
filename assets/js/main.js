@@ -1962,6 +1962,9 @@ function openCostumeSheet(fantasia, sourceEl, { random = false, history: history
     const wasHidden = costumeModal.hidden;
     costumeModal.hidden = false;
     document.documentElement.classList.add('sheet-open');
+    // Com a folha escondida o navegador ignora o scrollLeft = 0 de renderVideos e guarda
+    // o slide da última fantasia: sem isso ela abriria na foto com a seta achando que está no vídeo
+    mediaTrack.scrollLeft = mediaIndex * mediaTrack.clientWidth;
     measureSheet(sourceEl);
     layoutVideos();
     if (wasHidden) sheetSpring.set(0);
