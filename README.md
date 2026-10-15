@@ -98,7 +98,7 @@ Basta o link (o mesmo do botão "Copiar link" do Instagram ou do Facebook); o si
 incorporado. O endereço que aparece no código de incorporação do Facebook (`facebook.com/plugins/video.php?...`)
 também funciona. Não precisa rodar nenhum script: o site lê o arquivo direto.
 
-Vídeo do próprio site (toca sozinho no card, mudo e em loop): salve o arquivo como `data/videos/<código>.mp4` (ou `.mov`, `.m4v`, `.webm`) e rode `scripts/videos.sh`. O script tira o áudio, comprime (H.264, no máximo 720 de largura) e põe o vídeo como primeiro link da fantasia em `videos.json`, mantendo os do Instagram/Facebook. Vídeos já registrados são pulados; `scripts/videos.sh -f` recomprime todos.
+Vídeo do próprio site (toca sozinho no card, mudo e em loop): salve o arquivo como `data/videos/<código>.mp4` (ou `.mov`, `.m4v`, `.webm`) e rode `scripts/videos.sh`. O script tira o áudio, corta no centro para 9:16 (vertical), comprime (H.264, no máximo 720 de largura) e põe o vídeo como primeiro link da fantasia em `videos.json`, mantendo os do Instagram/Facebook. Vídeos já registrados são pulados; `scripts/videos.sh -f` recomprime todos.
 
 ## Nova loja
 

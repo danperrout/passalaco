@@ -5,7 +5,8 @@
 #   scripts/videos.sh        # só os vídeos que ainda não estão em videos.json
 #   scripts/videos.sh -f     # recomprime todos (piora a qualidade de quem já foi comprimido)
 #
-# Cada vídeo sai sem áudio, em H.264 com no máximo 720 de largura, como data/videos/<código>.mp4.
+# Cada vídeo sai sem áudio, cortado no centro para 9:16 (vertical, como os reels), em H.264
+# com no máximo 720 de largura, como data/videos/<código>.mp4.
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
@@ -64,7 +65,8 @@ for src in "$DIR"/*.{mp4,mov,m4v,webm}; do
     before=$(du -k "$src" | cut -f1)
     echo "→ $name"
     ffmpeg -v error -y -i "$src" -an -c:v libx264 -crf 28 -preset slow \
-        -vf "scale='min(720,iw)':-2" -pix_fmt yuv420p -movflags +faststart "$tmp"
+        -vf "crop='trunc(min(iw,ih*9/16)/2)*2':'trunc(min(ih,iw*16/9)/2)*2',scale='min(720,iw)':-2,setsar=1" \
+        -pix_fmt yuv420p -movflags +faststart "$tmp"
     mv "$tmp" "$dest"
     chmod 644 "$dest"
     [[ "$src" != "$dest" ]] && rm -f "$src"
