@@ -1737,11 +1737,14 @@ function renderVideos(fantasia) {
     // "Ver vídeo" se só há vídeos; com posts de foto, "Ver mais"
     videoJumpButton.querySelector('span').textContent = list.every(v => v.video) ? (list.length > 1 ? 'Ver vídeos' : 'Ver vídeo') : 'Ver mais';
     videoJumpButton.querySelector('svg').style.display = list.some(v => v.video) ? '' : 'none';
+    // No celular a área da foto é baixa demais para um vídeo: com vídeos ela já nasce
+    // mais alta e não muda ao passar de um slide a outro (mudar a altura no meio do
+    // arraste faz o scroll-snap voltar para o primeiro slide)
+    sheetMedia.classList.toggle('has-video', list.length > 0);
     mediaTrack.scrollLeft = 0;
     mediaIndex = 0;
     layoutVideos();
-    // Abrindo a ficha: a área já nasce no tamanho certo, sem animar
-    syncMediaControls({ instant: costumeModal.hidden });
+    syncMediaControls();
 }
 
 // Reduz cada player (largura e altura naturais) para caber no slide, centralizado
@@ -1766,34 +1769,7 @@ function goToSlide(index) {
     mediaTrack.scrollTo({ left: index * mediaTrack.clientWidth, behavior: reducedMotion.matches ? 'auto' : 'smooth' });
 }
 
-// No celular a área da foto é baixa demais para um vídeo: cresce enquanto um vídeo
-// está à vista e volta ao tamanho da foto depois (a altura anima no CSS)
-let mediaResizeFrame = 0;
-function syncMediaHeight({ instant = false } = {}) {
-    const expand = mediaIndex !== photoIndex() && compactLayout.matches;
-    if (sheetMedia.classList.contains('show-video') === expand) return;
-    if (instant) {
-        sheetMedia.style.transition = 'none';
-        sheetMedia.classList.toggle('show-video', expand);
-        sheetMedia.offsetHeight; // aplica a altura antes de devolver a transição
-        sheetMedia.style.transition = '';
-        layoutVideos();
-        return;
-    }
-    sheetMedia.classList.toggle('show-video', expand);
-    // Acompanha a transição: o player é redimensionado a cada quadro
-    cancelAnimationFrame(mediaResizeFrame);
-    const until = performance.now() + 450;
-    const step = now => {
-        layoutVideos();
-        mediaTrack.scrollLeft = mediaIndex * mediaTrack.clientWidth;
-        if (now < until) mediaResizeFrame = requestAnimationFrame(step);
-    };
-    mediaResizeFrame = requestAnimationFrame(step);
-}
-
-function syncMediaControls(options) {
-    syncMediaHeight(options);
+function syncMediaControls() {
     const count = mediaSlides().length;
     [...mediaDots.children].forEach((dot, i) => dot.setAttribute('aria-current', i === mediaIndex ? 'true' : 'false'));
     const onPhoto = mediaIndex === photoIndex();

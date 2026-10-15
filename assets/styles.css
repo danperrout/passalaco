@@ -1976,12 +1976,30 @@ body.is-scrolled .topbar {
 
 .sheet-root[data-mode="sheet"] .sheet-media {
     min-height: 0;
-    transition: height 400ms cubic-bezier(0.2, 0.9, 0.3, 1);
 }
 
-/* Vídeo à vista: a área cresce para o player caber num tamanho legível */
-.sheet-root[data-mode="sheet"] .sheet-media.show-video {
-    height: min(72vh, 640px);
+/* Com vídeos a área é mais alta para o player ficar legível, mas deixa à vista
+   o começo das informações da fantasia */
+.sheet-root[data-mode="sheet"] .sheet-media.has-video {
+    height: calc(min(52vh, 460px) + 40px);
+    padding-bottom: 40px; /* faixa dos pontinhos, abaixo do player */
+}
+
+/* Celular: pontinhos numa faixa própria embaixo, maiores para o dedo, sem cobrir o player */
+.sheet-root[data-mode="sheet"] .media-dots {
+    bottom: 4px;
+    gap: 4px;
+    padding: 0 6px;
+}
+
+.sheet-root[data-mode="sheet"] .media-dot {
+    width: 32px;
+    height: 32px;
+}
+
+.sheet-root[data-mode="sheet"] .media-dot::before {
+    width: 9px;
+    height: 9px;
 }
 
 .sheet-root[data-mode="sheet"] .sheet-details {
@@ -2006,10 +2024,6 @@ body.is-scrolled .topbar {
    -------------------------------------------------------------------------- */
 
 @media (prefers-reduced-motion: reduce) {
-
-    .sheet-root[data-mode="sheet"] .sheet-media {
-        transition: none;
-    }
 
     .media-zoom:active,
     .viewer-close:active,
