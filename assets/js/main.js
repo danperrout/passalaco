@@ -520,9 +520,12 @@ function createCostumeCard(fantasia) {
         if (local && !reducedMotion.matches) {
             const video = document.createElement('video');
             video.dataset.src = local.src;
+            // O Safari do iPhone olha os atributos (não só as propriedades) para liberar o autoplay
             video.muted = true;
+            video.setAttribute('muted', '');
+            video.setAttribute('playsinline', '');
+            video.setAttribute('webkit-playsinline', '');
             video.loop = true;
-            video.playsInline = true;
             video.preload = 'none';
             video.setAttribute('aria-hidden', 'true');
             video.addEventListener('playing', () => video.classList.add('loaded'), { once: true });
@@ -554,6 +557,20 @@ function createCostumeCard(fantasia) {
     return card;
 }
 
+// Economia de bateria (iPhone) e de dados (Android) bloqueiam o autoplay até o primeiro toque:
+// a cada toque, tenta de novo os vídeos de card que estão à vista e parados
+const visibleCardVideos = new Set();
+['touchend', 'click'].forEach(type => document.addEventListener(type, () => {
+    visibleCardVideos.forEach(video => {
+        if (!video.isConnected) visibleCardVideos.delete(video);
+        else if (video.paused) video.play().catch(() => {});
+    });
+    // Na folha, o vídeo do slide à vista
+    const slide = !costumeModal.hidden && mediaSlides()[mediaIndex];
+    const player = slide && slide.querySelector('video');
+    if (player && player.paused) player.play().catch(() => {});
+}, { passive: true, capture: true }));
+
 function setupImageObserver(cardsToObserve) {
     if (imageObserver) imageObserver.disconnect();
     imageObserver = new IntersectionObserver((entries, observer) => {
@@ -572,9 +589,11 @@ function setupImageObserver(cardsToObserve) {
         entries.forEach(entry => {
             const video = entry.target;
             if (!entry.isIntersecting) {
+                visibleCardVideos.delete(video);
                 video.pause();
                 return;
             }
+            visibleCardVideos.add(video);
             if (!video.src) video.src = video.dataset.src;
             video.play().catch(() => {});
         });
@@ -1762,8 +1781,10 @@ function renderVideos(fantasia) {
             player.className = 'video-local';
             player.src = video.src;
             player.muted = true;
+            player.setAttribute('muted', '');
+            player.setAttribute('playsinline', '');
+            player.setAttribute('webkit-playsinline', '');
             player.loop = true;
-            player.playsInline = true;
             player.autoplay = true;
             player.setAttribute('aria-label', 'Vídeo da fantasia');
             slide.appendChild(player);
