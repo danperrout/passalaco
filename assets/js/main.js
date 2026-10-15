@@ -1708,7 +1708,9 @@ const FACEBOOK_VIDEO_WIDTH = 320;
 function videoEmbed(link) {
     if (typeof link !== 'string') return null;
     if (/\.(mp4|webm|m4v|mov)$/i.test(link.trim())) {
-        return { type: 'local', video: true, link: link.trim(), src: link.trim() };
+        // Endereço completo: a folha muda a URL para /f/…/ e um caminho relativo quebraria
+        const src = new URL(link.trim(), document.baseURI).href;
+        return { type: 'local', video: true, link: src, src };
     }
     let url;
     try {
@@ -1754,6 +1756,20 @@ function renderVideos(fantasia) {
     mediaSlides().filter(slide => slide !== photoSlide).forEach(slide => slide.remove());
     list.forEach(video => {
         const slide = el('div', 'media-slide media-slide-video');
+        // Vídeo do próprio site: toca direto, mudo e em loop, sem player de terceiros
+        if (video.type === 'local') {
+            const player = document.createElement('video');
+            player.className = 'video-local';
+            player.src = video.src;
+            player.muted = true;
+            player.loop = true;
+            player.playsInline = true;
+            player.autoplay = true;
+            player.setAttribute('aria-label', 'Vídeo da fantasia');
+            slide.appendChild(player);
+            mediaTrack.insertBefore(slide, photoSlide);
+            return;
+        }
         const frame = document.createElement('iframe');
         frame.className = `video-frame video-${video.type}`;
         frame.dataset.src = video.src;
@@ -1827,10 +1843,15 @@ function syncMediaControls() {
 function onMediaScroll() {
     const index = Math.round(mediaTrack.scrollLeft / Math.max(1, mediaTrack.clientWidth));
     if (index === mediaIndex) return;
-    // Saiu de um vídeo: recarrega o player para ele parar de tocar
+    // Saiu de um vídeo: troca o player por um novo para ele parar de tocar
+    // (mudar o src do mesmo iframe empilharia uma entrada no histórico)
     const previous = mediaSlides()[mediaIndex];
     const frame = previous && previous.querySelector('iframe');
-    if (frame) frame.src = frame.dataset.src;
+    if (frame) frame.replaceWith(frame.cloneNode());
+    const leaving = previous && previous.querySelector('video');
+    if (leaving) leaving.pause();
+    const entering = mediaSlides()[index] && mediaSlides()[index].querySelector('video');
+    if (entering) entering.play().catch(() => {});
     mediaIndex = index;
     syncMediaControls();
 }
@@ -1944,8 +1965,17 @@ function closeCostumeSheet(velocity, { fromHistory = false } = {}) {
     state.fantasia = '';
     if (!fromHistory) {
         // Volta para a entrada do catálogo em vez de empilhar outra
-        if (sheetHistoryPushed) history.back();
-        else updateURLFromState('replace');
+        if (sheetHistoryPushed) {
+            // Tocar o vídeo do Instagram/Facebook navega dentro do iframe e empilha entradas
+            // no histórico: aí o "voltar" fica no iframe e a URL da fantasia não sai
+            const closedPath = window.location.pathname;
+            history.back();
+            setTimeout(() => {
+                if (!sheetIsOpen && window.location.pathname === closedPath) updateURLFromState('replace');
+            }, 300);
+        } else {
+            updateURLFromState('replace');
+        }
     }
     sheetHistoryPushed = false;
     // Fechou pelo botão, Esc ou fundo (folha parada no lugar): a foto volta para o card.
