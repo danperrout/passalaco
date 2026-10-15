@@ -531,12 +531,28 @@ body.is-scrolled .topbar {
     opacity: 1;
 }
 
+/* Vídeo do próprio site cobre a foto quando começa a tocar */
+.card-media video {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0;
+    transition: opacity 300ms ease, transform 400ms var(--ease-out);
+}
+
+.card-media video.loaded {
+    opacity: 1;
+}
+
 @media (hover: hover) {
     .card:hover .card-media {
         box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
     }
 
-    .card:hover .card-media img {
+    .card:hover .card-media img,
+    .card:hover .card-media video {
         transform: scale(1.03);
     }
 }

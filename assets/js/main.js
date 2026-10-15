@@ -1,5 +1,6 @@
 let fantasias = [];
 let imageObserver;
+let cardVideoObserver;
 const itemsPerPage = 100;
 
 // Estado dos filtros (espelhado na URL)
@@ -432,7 +433,9 @@ async function fetchVideos() {
         // Aceita um link ou uma lista de links por fantasia
         const result = {};
         Object.entries(data).forEach(([id, links]) => {
-            const embeds = [].concat(links).map(videoEmbed).filter(Boolean);
+            // Vídeo do próprio site vem primeiro (é o que toca no card)
+            const embeds = [].concat(links).map(videoEmbed).filter(Boolean)
+                .sort((a, b) => (b.type === 'local') - (a.type === 'local'));
             if (embeds.length) result[id] = embeds;
         });
         return result;
@@ -512,6 +515,19 @@ function createCostumeCard(fantasia) {
             : '<svg viewBox="0 0 12 12" aria-hidden="true"><path d="M3.5 1h6A1.5 1.5 0 0 1 11 2.5v6A1.5 1.5 0 0 1 9.5 10h-6A1.5 1.5 0 0 1 2 8.5v-6A1.5 1.5 0 0 1 3.5 1ZM1 3.5v6A1.5 1.5 0 0 0 2.5 11h6" fill="none" stroke="#fff" stroke-width="1.2"/></svg>';
         badge.title = hasVideo ? 'Tem vídeo' : 'Tem mais fotos';
         card.querySelector('.card-media').appendChild(badge);
+        // Vídeo do próprio site toca no lugar da foto, mudo e em loop, enquanto está à vista
+        const local = videos[fantasia._id].find(v => v.type === 'local');
+        if (local && !reducedMotion.matches) {
+            const video = document.createElement('video');
+            video.dataset.src = local.src;
+            video.muted = true;
+            video.loop = true;
+            video.playsInline = true;
+            video.preload = 'none';
+            video.setAttribute('aria-hidden', 'true');
+            video.addEventListener('playing', () => video.classList.add('loaded'), { once: true });
+            img.after(video);
+        }
     }
     card.querySelector('.card-title').textContent = name;
 
@@ -549,6 +565,24 @@ function setupImageObserver(cardsToObserve) {
         });
     }, { rootMargin: '200px 0px', threshold: 0.01 });
     cardsToObserve.forEach(cardEl => imageObserver.observe(cardEl));
+
+    // Vídeos dos cards: carregam e tocam ao aparecer, pausam ao sair da tela
+    if (cardVideoObserver) cardVideoObserver.disconnect();
+    cardVideoObserver = new IntersectionObserver(entries => {
+        entries.forEach(entry => {
+            const video = entry.target;
+            if (!entry.isIntersecting) {
+                video.pause();
+                return;
+            }
+            if (!video.src) video.src = video.dataset.src;
+            video.play().catch(() => {});
+        });
+    }, { threshold: 0.25 });
+    cardsToObserve.forEach(cardEl => {
+        const video = cardEl.querySelector('.card-media video');
+        if (video) cardVideoObserver.observe(video);
+    });
 }
 
 // --- Filtros ---
@@ -1070,17 +1104,24 @@ function hasMedia(fantasia) {
     return Boolean(videos[fantasia._id]);
 }
 
+// Vídeo do próprio site (toca sozinho no card) vale mais que link do Instagram/Facebook
+function mediaRank(fantasia) {
+    const embeds = videos[fantasia._id];
+    if (!embeds) return 0;
+    return embeds.some(v => v.type === 'local') ? 2 : 1;
+}
+
 function mediaFirst(items) {
-    return [...items.filter(hasMedia), ...items.filter(f => !hasMedia(f))];
+    return [...items].sort((a, b) => mediaRank(b) - mediaRank(a));
 }
 
 // Com vídeo/post primeiro, depois a Vitrine (curadoria da loja), depois o resto embaralhado no dia
 function pickRailItems(items, salt, limit = 16) {
-    const media = items.filter(hasMedia);
+    const media = mediaFirst(dailyShuffle(items.filter(hasMedia), salt));
     const rest = items.filter(f => !hasMedia(f));
     const vitrine = rest.filter(f => f.categoriaNome === 'Vitrine');
     const others = rest.filter(f => f.categoriaNome !== 'Vitrine');
-    return [...dailyShuffle(media, salt), ...dailyShuffle(vitrine, salt), ...dailyShuffle(others, salt)].slice(0, limit);
+    return [...media, ...dailyShuffle(vitrine, salt), ...dailyShuffle(others, salt)].slice(0, limit);
 }
 
 function buildHero(occurrence, cards) {
@@ -1266,9 +1307,9 @@ function render({ history: historyMode = 'push' } = {}) {
             const score = scoreMap.get(f._id) || 0;
             return hasMedia(f) && score >= 75 ? Math.max(score, 100) : score;
         };
-        filtered.sort((a, b) => rank(b) - rank(a) || hasMedia(b) - hasMedia(a));
+        filtered.sort((a, b) => rank(b) - rank(a) || mediaRank(b) - mediaRank(a));
     } else {
-        filtered.sort((a, b) => hasMedia(b) - hasMedia(a));
+        filtered.sort((a, b) => mediaRank(b) - mediaRank(a));
     }
 
     const totalFilteredItems = filtered.length;
@@ -1659,12 +1700,16 @@ function fillSheetAnalysis(analysis) {
 // --- Vídeos do Instagram e do Facebook ---
 // Em videos.json basta o link do post/reel (o "embed" é montado aqui), mas também
 // funciona colar o endereço do código de incorporação do Facebook.
+// Vídeo do próprio site (ex.: data/videos/2389.mp4) toca direto, no card e na folha.
 
 // O Facebook desenha o player na largura pedida; o iframe tem a mesma largura (styles.css)
 const FACEBOOK_VIDEO_WIDTH = 320;
 
 function videoEmbed(link) {
     if (typeof link !== 'string') return null;
+    if (/\.(mp4|webm|m4v|mov)$/i.test(link.trim())) {
+        return { type: 'local', video: true, link: link.trim(), src: link.trim() };
+    }
     let url;
     try {
         url = new URL(link.trim().replace(/&amp;/g, '&'));
