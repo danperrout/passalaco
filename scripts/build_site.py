@@ -342,6 +342,12 @@ def about_regions():
                     </ul>
                 </section>""")
 
+    foto = LOJA.get("fotoDaLoja") or {}
+    photo = ""
+    if foto.get("url"):
+        photo = (f'\n            <figure class="about-photo"><img src="{esc(foto["url"])}" '
+                 f'alt="{esc(foto.get("descricao") or SITE_NAME)}"></figure>')
+    share_image = foto.get("url") or LOJA["logo"]["url"]
     story = "\n".join(f"                <p>{esc(p)}</p>" for p in historia)
     cta = whatsapp_link("Falar no WhatsApp ").replace("<a ", '<a class="whatsapp-cta" ', 1)
     return {
@@ -357,13 +363,13 @@ def about_regions():
     <meta property="og:url" content="{esc(url)}">
     <meta property="og:title" content="{esc(title)}">
     <meta property="og:description" content="{esc(description)}">
-    <meta property="og:image" content="{esc(LOJA["logo"]["url"])}">
+    <meta property="og:image" content="{esc(share_image)}">
     <meta name="twitter:card" content="summary">
     <style>:root {{ {css_vars()} }}</style>
     <script type="application/ld+json">{json_ld}</script>""",
         "marca": brand_region(),
         "sobre": f"""            <p class="eyebrow">{esc(SITE_NAME)}</p>
-            <h1 class="large-title">Nossa loja</h1>
+            <h1 class="large-title">Nossa loja</h1>{photo}
             <section class="about-story" aria-label="Nossa história">
 {story}
             </section>

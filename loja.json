@@ -30,6 +30,10 @@
             "Facebook": "https://pt-br.facebook.com/Passa-La%C3%A7o-Fantasias-180162158785800/"
         }
     },
+    "fotoDaLoja": {
+        "url": "https://passalaco.com.br/img/loja/loja1.jpg",
+        "descricao": "Loja Passa Laço Fantasias"
+    },
     "historia": [
         "Desde 1991 a Passa Laço Fantasias vem atuando e se destacando no mercado de fantasias de Belo Horizonte.",
         "Atualmente, trabalha com venda, aluguel e confecção de fantasias para crianças e adultos, além da venda de artigos de ballet.",

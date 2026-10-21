@@ -114,6 +114,7 @@ O site serve para qualquer loja de aluguel de fantasias. Tudo o que é da loja f
 | `siteDaLoja` | Link do site institucional no rodapé (deixe `url` vazio para esconder) |
 | `whatsapp` | `numero` com DDI e DDD só com dígitos (ex.: `5531988416629`), `exibicao` para o rodapé e `mensagem` com `{codigo}`, `{nome}` e `{link}`. Sem número, o botão some |
 | `contato` | `endereco` da loja física (também usado no "Como chegar" do Google Maps), `horario` (lista de `dias` e `horas`), `telefones`, `email` e `redes` (nome → link, ex.: Instagram, Facebook). Aparece no rodapé e na página "Nossa loja" |
+| `fotoDaLoja` | `url` e `descricao` da foto da loja, no topo da página "Nossa loja" e na prévia do link dela |
 | `historia` | Parágrafos do texto da página "Nossa loja" |
 | `cores` | `destaque` (botões, links), `fundo` e `faixa` (listra colorida no topo) |
 | `categorias` | "De para" de nomes de categoria (ex.: `"Paises": "Países"`), para corrigir nomes que o catálogo de origem traz errados. Links antigos com o nome original continuam funcionando |

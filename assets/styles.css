@@ -794,6 +794,22 @@ body.is-scrolled .topbar {
     padding: 32px max(16px, env(safe-area-inset-right)) 0 max(16px, env(safe-area-inset-left));
 }
 
+.about-photo {
+    margin: 20px 0 0;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    border-radius: var(--radius-card);
+    background: var(--fill);
+    box-shadow: 0 0 0 1px var(--separator);
+}
+
+.about-photo img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
 .about-story {
     max-width: 68ch;
     margin: 20px 0 32px;
