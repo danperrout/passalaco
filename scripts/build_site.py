@@ -181,6 +181,22 @@ def external_link(url, text, attrs=""):
     return f'<a href="{esc(url)}" target="_blank" rel="noopener"{attrs}>{esc(text)}</a>'
 
 
+SOCIAL_ICONS = {
+    "instagram": '<svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="#e1306c" stroke-width="2">'
+                 '<rect x="2.5" y="2.5" width="19" height="19" rx="5.5"/><circle cx="12" cy="12" r="4.25"/>'
+                 '<circle cx="17.4" cy="6.6" r="1.1" fill="#e1306c" stroke="none"/></svg>',
+    "facebook": '<svg viewBox="0 0 24 24" aria-hidden="true"><rect width="24" height="24" rx="5.5" fill="#1877f2"/>'
+                '<path fill="#fff" d="M13.4 24v-8.6h2.9l.4-3.4h-3.3V9.9c0-1 .3-1.6 1.7-1.6h1.8v-3a24 24 0 0 0-2.6-.1'
+                'c-2.6 0-4.3 1.6-4.3 4.4V12H7.1v3.4H10V24z"/></svg>',
+}
+
+
+def social_link(nome, url):
+    icon = SOCIAL_ICONS.get(nome.lower(), "")
+    return (f'<a class="social-link" href="{esc(url)}" target="_blank" rel="noopener">'
+            f'{icon}<span>{esc(nome)}</span></a>')
+
+
 def whatsapp_link(prefix="WhatsApp "):
     whatsapp = LOJA.get("whatsapp") or {}
     numero = re.sub(r"\D", "", whatsapp.get("numero", ""))
@@ -212,7 +228,7 @@ def footer_region():
     links = ['<a href="sobre.html">Nossa loja</a>']
     if CONTATO.get("endereco"):
         links.append(external_link(maps_url(), "Como chegar"))
-    links += [external_link(url, nome) for nome, url in (CONTATO.get("redes") or {}).items()]
+    links += [social_link(nome, url) for nome, url in (CONTATO.get("redes") or {}).items()]
 
     lines = []
     if CONTATO.get("endereco"):
@@ -318,7 +334,7 @@ def about_regions():
                     </ul>
                 </section>""")
     if redes:
-        items = "\n".join(f"                        <li>{external_link(u, n)}</li>" for n, u in redes.items())
+        items = "\n".join(f"                        <li>{social_link(n, u)}</li>" for n, u in redes.items())
         cards.append(f"""                <section class="about-card">
                     <h2>Redes sociais</h2>
                     <ul class="about-list">

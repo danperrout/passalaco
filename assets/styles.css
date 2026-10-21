@@ -758,6 +758,23 @@ body.is-scrolled .topbar {
     font-weight: 600;
 }
 
+.social-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.social-link svg {
+    flex-shrink: 0;
+    width: 18px;
+    height: 18px;
+}
+
+.about-list .social-link svg {
+    width: 22px;
+    height: 22px;
+}
+
 .footer address {
     font-style: normal;
     margin-bottom: 6px;
