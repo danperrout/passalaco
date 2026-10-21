@@ -738,6 +738,122 @@ body.is-scrolled .topbar {
     margin: 2px 0;
 }
 
+.footer-store {
+    max-width: 640px;
+    margin: 16px auto 0;
+    padding-top: 20px;
+    border-top: 1px solid var(--separator);
+    font-size: 13px;
+    line-height: 1.6;
+    color: var(--secondary);
+}
+
+.footer-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 4px 20px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.footer address {
+    font-style: normal;
+    margin-bottom: 6px;
+}
+
+/* --------------------------------------------------------------------------
+   Página "Nossa loja"
+   -------------------------------------------------------------------------- */
+
+.topbar-link {
+    margin-left: auto;
+}
+
+.about {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 32px max(16px, env(safe-area-inset-right)) 0 max(16px, env(safe-area-inset-left));
+}
+
+.about-story {
+    max-width: 68ch;
+    margin: 20px 0 32px;
+    font-size: 17px;
+    line-height: 1.6;
+}
+
+.about-story p {
+    margin: 0 0 14px;
+}
+
+.about-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(300px, 100%), 1fr));
+    gap: 14px;
+    margin-bottom: 24px;
+}
+
+.about-card {
+    padding: 18px 20px;
+    background: var(--surface);
+    border-radius: var(--radius-card);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06), 0 0 0 1px var(--separator);
+    font-size: 15px;
+}
+
+.about-card h2 {
+    margin: 0 0 8px;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--tertiary);
+}
+
+.about-card p {
+    margin: 0;
+}
+
+.about-card .btn {
+    margin-top: 14px;
+}
+
+.about-hours {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 6px 12px;
+    margin: 0;
+}
+
+.about-hours div {
+    display: contents;
+}
+
+.about-hours dt {
+    color: var(--secondary);
+}
+
+.about-hours dd {
+    margin: 0;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+}
+
+.about-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.about-list li + li {
+    margin-top: 6px;
+}
+
+.about .whatsapp-cta {
+    max-width: 360px;
+}
+
 /* --------------------------------------------------------------------------
    Página inicial
    -------------------------------------------------------------------------- */

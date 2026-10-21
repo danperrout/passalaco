@@ -1,7 +1,7 @@
 """Monta o site da loja a partir de loja.json e do catálogo.
 
-- Aplica loja.json (nome, logo, cores, WhatsApp, endereço) no index.html e no
-  404.html, nos trechos marcados com <!-- loja:... --> <!-- /loja:... -->.
+- Aplica loja.json (nome, logo, cores, WhatsApp, endereço, contato, história) no
+  index.html, no sobre.html e no 404.html, nos trechos marcados com <!-- loja:... --> <!-- /loja:... -->.
 - Gera uma página fixa por fantasia em f/<código>-<nome>/index.html, com as
   meta-tags de compartilhamento (Open Graph, Twitter, JSON-LD), para o WhatsApp,
   Instagram, Facebook e buscadores mostrarem foto, nome e descrição.
@@ -18,6 +18,7 @@ import os
 import re
 import shutil
 import unicodedata
+from urllib.parse import quote_plus
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 with open(os.path.join(ROOT, "loja.json"), encoding="utf-8") as _f:
@@ -27,6 +28,11 @@ SITE_NAME = LOJA["nome"]
 SHORT_NAME = LOJA.get("nomeCurto") or SITE_NAME
 # "De para" de categorias: corrige nomes que o catálogo de origem traz sem acento
 CATEGORIAS = LOJA.get("categorias") or {}
+CONTATO = LOJA.get("contato") or {}
+
+
+def esc(text):
+    return html.escape(str(text), quote=True)
 
 
 def category_name(fantasia):
@@ -123,7 +129,6 @@ def page(fantasia, analise):
         "url": url,
         "brand": {"@type": "Brand", "name": SITE_NAME},
     }
-    esc = lambda s: html.escape(s, quote=True)
     return TEMPLATE.format(
         title=esc(f"{name} — {SITE_NAME}"),
         name=esc(name),
@@ -172,19 +177,77 @@ def runtime_config():
     return json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
 
 
+def external_link(url, text, attrs=""):
+    return f'<a href="{esc(url)}" target="_blank" rel="noopener"{attrs}>{esc(text)}</a>'
+
+
+def whatsapp_link(prefix="WhatsApp "):
+    whatsapp = LOJA.get("whatsapp") or {}
+    numero = re.sub(r"\D", "", whatsapp.get("numero", ""))
+    if not numero:
+        return ""
+    return external_link(f"https://wa.me/{numero}", prefix + (whatsapp.get("exibicao") or numero))
+
+
+def phone_link(numero):
+    return f'<a href="tel:+55{re.sub(r"[^0-9]", "", numero)}">{esc(numero)}</a>'
+
+
+def email_link():
+    email = CONTATO.get("email")
+    return f'<a href="mailto:{esc(email)}">{esc(email)}</a>' if email else ""
+
+
+def maps_url():
+    return "https://www.google.com/maps/dir/?api=1&destination=" + quote_plus(CONTATO["endereco"])
+
+
+def opening_hours_text():
+    horario = CONTATO.get("horario") or []
+    return "Aberto de " + "; ".join(f'{h["dias"][:1].lower()}{h["dias"][1:]}, {h["horas"]}' for h in horario)
+
+
+def footer_region():
+    site = LOJA.get("siteDaLoja") or {}
+    links = ['<a href="sobre.html">Nossa loja</a>']
+    if CONTATO.get("endereco"):
+        links.append(external_link(maps_url(), "Como chegar"))
+    links += [external_link(url, nome) for nome, url in (CONTATO.get("redes") or {}).items()]
+
+    lines = []
+    if CONTATO.get("endereco"):
+        lines.append(esc(CONTATO["endereco"]))
+    if CONTATO.get("horario"):
+        lines.append(esc(opening_hours_text()))
+    if CONTATO.get("telefones"):
+        lines.append("Fones: " + " e ".join(phone_link(f) for f in CONTATO["telefones"]))
+    contacts = [c for c in (whatsapp_link(), email_link()) if c]
+    if contacts:
+        lines.append(" · ".join(contacts))
+
+    body = ['        <div class="footer-store">',
+            '            <nav class="footer-links" aria-label="A loja">' + "".join(links) + "</nav>"]
+    if lines:
+        body.append("            <address>")
+        body += [f"                <p>{line}</p>" for line in lines]
+        body.append("            </address>")
+    if site.get("url"):
+        body.append(f'            <p><a href="{esc(site["url"])}">{esc(site.get("texto") or site["url"])}</a></p>')
+    body.append("        </div>")
+    return "\n".join(body)
+
+
+def brand_region():
+    logo = LOJA["logo"]
+    return f"""            <a class="brand" href="./" aria-label="{esc(SITE_NAME)} — início">
+                <img src="{esc(logo["url"])}" alt="{esc(SITE_NAME)}" width="{logo.get("largura", 300)}"
+                    height="{logo.get("altura", 100)}">
+            </a>"""
+
+
 def index_regions():
-    esc = lambda s: html.escape(s, quote=True)
     title = f"{SITE_NAME} — Aluguel de fantasias"
     logo = LOJA["logo"]
-    site = LOJA.get("siteDaLoja") or {}
-    whatsapp = LOJA.get("whatsapp") or {}
-    footer = []
-    if site.get("url"):
-        footer.append(f'<a href="{esc(site["url"])}">{esc(site.get("texto") or site["url"])}</a>')
-    if whatsapp.get("numero"):
-        numero = re.sub(r"\D", "", whatsapp["numero"])
-        footer.append(f'<a href="https://wa.me/{numero}" target="_blank" rel="noopener">'
-                      f'WhatsApp {esc(whatsapp.get("exibicao") or numero)}</a>')
     return {
         "cabecalho": f"""    <meta name="theme-color" content="{esc(LOJA["cores"]["fundo"])}">
     <title>{esc(title)}</title>
@@ -202,16 +265,101 @@ def index_regions():
     <meta name="twitter:card" content="summary">
     <style>:root {{ {css_vars()} }}</style>
     <script>window.LOJA = {runtime_config()};</script>""",
-        "marca": f"""            <a class="brand" href="./" aria-label="{esc(SITE_NAME)} — início">
-                <img src="{esc(logo["url"])}" alt="{esc(SITE_NAME)}" width="{logo.get("largura", 300)}"
-                    height="{logo.get("altura", 100)}">
-            </a>""",
-        "rodape": "        <p>" + " · ".join(footer) + "</p>" if footer else "",
+        "marca": brand_region(),
+        "rodape": footer_region(),
+    }
+
+
+def about_regions():
+    url = SITE_URL + "sobre.html"
+    title = f"Nossa loja — {SITE_NAME}"
+    historia = LOJA.get("historia") or []
+    description = historia[0] if historia else LOJA["descricao"]
+    redes = CONTATO.get("redes") or {}
+    json_ld = {
+        "@context": "https://schema.org",
+        "@type": "Store",
+        "name": SITE_NAME,
+        "url": url,
+        "image": LOJA["logo"]["url"],
+        "description": " ".join(historia),
+        "address": CONTATO.get("endereco"),
+        "telephone": [f"+55{re.sub(r'[^0-9]', '', f)}" for f in CONTATO.get("telefones") or []],
+        "email": CONTATO.get("email"),
+        "sameAs": list(redes.values()),
+    }
+    # "</" dentro do JSON fecharia a tag <script>
+    json_ld = json.dumps({k: v for k, v in json_ld.items() if v}, ensure_ascii=False).replace("</", "<\\/")
+
+    cards = []
+    if CONTATO.get("endereco"):
+        cards.append(f"""                <section class="about-card">
+                    <h2>Endereço</h2>
+                    <p>{esc(CONTATO["endereco"])}</p>
+                    {external_link(maps_url(), "Como chegar", ' class="btn btn-tinted"')}
+                </section>""")
+    if CONTATO.get("horario"):
+        rows = "\n".join(f'                        <div><dt>{esc(h["dias"])}</dt><dd>{esc(h["horas"])}</dd></div>'
+                         for h in CONTATO["horario"])
+        cards.append(f"""                <section class="about-card">
+                    <h2>Horário de funcionamento</h2>
+                    <dl class="about-hours">
+{rows}
+                    </dl>
+                </section>""")
+    contacts = [f"Fone: {phone_link(f)}" for f in CONTATO.get("telefones") or []]
+    contacts += [c for c in (whatsapp_link(), email_link()) if c]
+    if contacts:
+        items = "\n".join(f"                        <li>{c}</li>" for c in contacts)
+        cards.append(f"""                <section class="about-card">
+                    <h2>Contato</h2>
+                    <ul class="about-list">
+{items}
+                    </ul>
+                </section>""")
+    if redes:
+        items = "\n".join(f"                        <li>{external_link(u, n)}</li>" for n, u in redes.items())
+        cards.append(f"""                <section class="about-card">
+                    <h2>Redes sociais</h2>
+                    <ul class="about-list">
+{items}
+                    </ul>
+                </section>""")
+
+    story = "\n".join(f"                <p>{esc(p)}</p>" for p in historia)
+    cta = whatsapp_link("Falar no WhatsApp ").replace("<a ", '<a class="whatsapp-cta" ', 1)
+    return {
+        "cabecalhoSobre": f"""    <meta name="theme-color" content="{esc(LOJA["cores"]["fundo"])}">
+    <title>{esc(title)}</title>
+    <meta name="description" content="{esc(description)}">
+    <link rel="canonical" href="{esc(url)}">
+    <link rel="icon" type="image/png" href="assets/favicon.png">
+
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="{esc(SITE_NAME)}">
+    <meta property="og:locale" content="pt_BR">
+    <meta property="og:url" content="{esc(url)}">
+    <meta property="og:title" content="{esc(title)}">
+    <meta property="og:description" content="{esc(description)}">
+    <meta property="og:image" content="{esc(LOJA["logo"]["url"])}">
+    <meta name="twitter:card" content="summary">
+    <style>:root {{ {css_vars()} }}</style>
+    <script type="application/ld+json">{json_ld}</script>""",
+        "marca": brand_region(),
+        "sobre": f"""            <p class="eyebrow">{esc(SITE_NAME)}</p>
+            <h1 class="large-title">Nossa loja</h1>
+            <section class="about-story" aria-label="Nossa história">
+{story}
+            </section>
+            <div class="about-grid">
+{chr(10).join(cards)}
+            </div>
+            {cta}""",
+        "rodape": footer_region(),
     }
 
 
 def not_found_regions():
-    esc = lambda s: html.escape(s, quote=True)
     return {
         "cabecalho404": f"""    <title>Página não encontrada — {esc(SITE_NAME)}</title>
     <style>:root {{ {css_vars()} }}</style>""",
@@ -233,6 +381,7 @@ def apply_regions(path, regions):
 
 def main():
     apply_regions(os.path.join(ROOT, "index.html"), index_regions())
+    apply_regions(os.path.join(ROOT, "sobre.html"), about_regions())
     apply_regions(os.path.join(ROOT, "404.html"), not_found_regions())
 
     with open(FANTASIAS, encoding="utf-8") as f:
@@ -270,7 +419,7 @@ def main():
             removed += 1
 
     names.sort(key=lambda name: int(name.split("-")[0]))
-    urls = [SITE_URL] + [f"{SITE_URL}f/{name}/" for name in names]
+    urls = [SITE_URL, SITE_URL + "sobre.html"] + [f"{SITE_URL}f/{name}/" for name in names]
     with open(SITEMAP, "w", encoding="utf-8") as f:
         f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
         f.write('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')

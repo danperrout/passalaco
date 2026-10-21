@@ -17,6 +17,24 @@
         "exibicao": "(31) 98841-6629",
         "mensagem": "Olá! Tenho interesse na fantasia #{codigo} {nome}. Está disponível? {link}"
     },
+    "contato": {
+        "endereco": "Avenida Abílio Machado, 1381 - Bairro Alípio de Melo - Belo Horizonte/MG",
+        "horario": [
+            {"dias": "Segunda-feira a sexta-feira", "horas": "9h às 18h"},
+            {"dias": "Sábado", "horas": "9h às 13h"}
+        ],
+        "telefones": ["(31) 3417-5504", "(31) 2526-5557"],
+        "email": "sac@passalaco.com.br",
+        "redes": {
+            "Instagram": "https://www.instagram.com/passalacofantasias/",
+            "Facebook": "https://pt-br.facebook.com/Passa-La%C3%A7o-Fantasias-180162158785800/"
+        }
+    },
+    "historia": [
+        "Desde 1991 a Passa Laço Fantasias vem atuando e se destacando no mercado de fantasias de Belo Horizonte.",
+        "Atualmente, trabalha com venda, aluguel e confecção de fantasias para crianças e adultos, além da venda de artigos de ballet.",
+        "Em um ambiente acolhedor e especial nossa equipe dedica-se a transformar sonhos em realidade e fantasias! Temos orgulho em fazer parte dos momentos especiais de vocês!"
+    ],
     "cores": {
         "destaque": "#d1262d",
         "fundo": "#fff8f1",

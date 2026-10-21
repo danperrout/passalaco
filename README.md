@@ -36,6 +36,7 @@ conteúdo como um baralho e os cards de uma página nova entram em cascata pelo 
 videos.json             # Vídeos e posts do Instagram/Facebook por código de fantasia
 loja.json               # Dados da loja: nome, logo, cores, WhatsApp, endereço (ver "Nova loja")
 index.html              # Interface principal
+sobre.html              # Página "Nossa loja": história, endereço, horário, contatos e redes
 assets/js/main.js       # Filtros, busca, renderização, paginação e animações
 assets/styles.css       # Estilos (CSS puro, sem dependências)
 output/fantasias.json   # Fonte de dados principal
@@ -112,6 +113,8 @@ O site serve para qualquer loja de aluguel de fantasias. Tudo o que é da loja f
 | `logo` | Endereço da imagem do logo, largura e altura originais |
 | `siteDaLoja` | Link do site institucional no rodapé (deixe `url` vazio para esconder) |
 | `whatsapp` | `numero` com DDI e DDD só com dígitos (ex.: `5531988416629`), `exibicao` para o rodapé e `mensagem` com `{codigo}`, `{nome}` e `{link}`. Sem número, o botão some |
+| `contato` | `endereco` da loja física (também usado no "Como chegar" do Google Maps), `horario` (lista de `dias` e `horas`), `telefones`, `email` e `redes` (nome → link, ex.: Instagram, Facebook). Aparece no rodapé e na página "Nossa loja" |
+| `historia` | Parágrafos do texto da página "Nossa loja" |
 | `cores` | `destaque` (botões, links), `fundo` e `faixa` (listra colorida no topo) |
 | `categorias` | "De para" de nomes de categoria (ex.: `"Paises": "Países"`), para corrigir nomes que o catálogo de origem traz errados. Links antigos com o nome original continuam funcionando |
 
@@ -120,7 +123,7 @@ Para montar uma loja nova:
 1. Troque `loja.json` e o ícone `assets/favicon.png`.
 2. Coloque o catálogo em `output/fantasias.json` (campos `_id`, `nome`, `imgUrl`, `categoriaNome`,
    `sexo`, `tipo`) e, se houver, as análises das fotos (ver "Análise visual").
-3. Rode `python scripts/build_site.py`. Ele aplica `loja.json` no `index.html` e no `404.html`
+3. Rode `python scripts/build_site.py`. Ele aplica `loja.json` no `index.html`, no `sobre.html` e no `404.html`
    (trechos entre `<!-- loja:... -->` e `<!-- /loja:... -->`, que não devem ser editados à mão)
    e gera as páginas das fantasias e o `sitemap.xml`.
 
