@@ -12,6 +12,7 @@ Rode de novo sempre que loja.json, output/fantasias.json ou output/analises.json
 Uso: python scripts/build_site.py
 """
 
+import hashlib
 import html
 import json
 import os
@@ -182,10 +183,10 @@ def external_link(url, text, attrs=""):
 
 
 SOCIAL_ICONS = {
-    "instagram": '<svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="#e1306c" stroke-width="2">'
+    "instagram": '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" fill="none" stroke="#e1306c" stroke-width="2">'
                  '<rect x="2.5" y="2.5" width="19" height="19" rx="5.5"/><circle cx="12" cy="12" r="4.25"/>'
                  '<circle cx="17.4" cy="6.6" r="1.1" fill="#e1306c" stroke="none"/></svg>',
-    "facebook": '<svg viewBox="0 0 24 24" aria-hidden="true"><rect width="24" height="24" rx="5.5" fill="#1877f2"/>'
+    "facebook": '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><rect width="24" height="24" rx="5.5" fill="#1877f2"/>'
                 '<path fill="#fff" d="M13.4 24v-8.6h2.9l.4-3.4h-3.3V9.9c0-1 .3-1.6 1.7-1.6h1.8v-3a24 24 0 0 0-2.6-.1'
                 'c-2.6 0-4.3 1.6-4.3 4.4V12H7.1v3.4H10V24z"/></svg>',
 }
@@ -346,7 +347,7 @@ def about_regions():
     photo = ""
     if foto.get("url"):
         photo = (f'\n            <figure class="about-photo"><img src="{esc(foto["url"])}" '
-                 f'alt="{esc(foto.get("descricao") or SITE_NAME)}"></figure>')
+                 f'alt="{esc(foto.get("descricao") or SITE_NAME)}" style="width:100%;height:100%;object-fit:cover"></figure>')
     share_image = foto.get("url") or LOJA["logo"]["url"]
     story = "\n".join(f"                <p>{esc(p)}</p>" for p in historia)
     cta = whatsapp_link("Falar no WhatsApp ").replace("<a ", '<a class="whatsapp-cta" ', 1)
@@ -389,6 +390,18 @@ def not_found_regions():
     }
 
 
+def stamp_assets(path):
+    # ?v=<hash> muda a cada alteração e força o navegador a baixar o arquivo novo
+    with open(path, encoding="utf-8") as f:
+        content = f.read()
+    for asset in ("assets/styles.css", "assets/js/main.js"):
+        with open(os.path.join(ROOT, asset), "rb") as f:
+            version = hashlib.sha1(f.read()).hexdigest()[:10]
+        content = re.sub(rf'"{re.escape(asset)}(\?v=[0-9a-f]*)?"', f'"{asset}?v={version}"', content)
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(content)
+
+
 def apply_regions(path, regions):
     with open(path, encoding="utf-8") as f:
         content = f.read()
@@ -405,6 +418,8 @@ def main():
     apply_regions(os.path.join(ROOT, "index.html"), index_regions())
     apply_regions(os.path.join(ROOT, "sobre.html"), about_regions())
     apply_regions(os.path.join(ROOT, "404.html"), not_found_regions())
+    for name in ("index.html", "sobre.html"):
+        stamp_assets(os.path.join(ROOT, name))
 
     with open(FANTASIAS, encoding="utf-8") as f:
         fantasias = json.load(f)
