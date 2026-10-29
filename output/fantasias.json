@@ -89,14 +89,15 @@
   },
   {
     "nome": "Abelha",
-    "_id": 2642,
-    "img": 2642,
-    "imgUrl": "https://www.passalaco.com.br/img/2642.jpg",
+    "_id": 2641,
+    "img": 2641,
+    "imgUrl": "https://www.passalaco.com.br/img/2641.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Infantil",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Abelha",
@@ -1381,14 +1382,15 @@
   },
   {
     "nome": "Anjo",
-    "_id": 9809,
-    "img": 9809,
-    "imgUrl": "https://www.passalaco.com.br/img/9809.jpg",
+    "_id": 9811,
+    "img": 9811,
+    "imgUrl": "https://www.passalaco.com.br/img/9811.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Infantil",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Anjo",
@@ -3431,15 +3433,15 @@
   },
   {
     "nome": "Arabe",
-    "_id": 4791,
-    "img": 4791,
-    "imgUrl": "https://www.passalaco.com.br/img/4791.jpg",
+    "_id": 4794,
+    "img": 4794,
+    "imgUrl": "https://www.passalaco.com.br/img/4794.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Arabe",
@@ -3686,15 +3688,15 @@
   },
   {
     "nome": "Arlequina",
-    "_id": 8532,
-    "img": 8532,
-    "imgUrl": "https://www.passalaco.com.br/img/8532.jpg",
+    "_id": 8531,
+    "img": 8531,
+    "imgUrl": "https://www.passalaco.com.br/img/8531.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Arlequina",
@@ -3965,14 +3967,15 @@
   },
   {
     "nome": "Astronauta",
-    "_id": 6187,
-    "img": 6187,
-    "imgUrl": "https://www.passalaco.com.br/img/6187.jpg",
+    "_id": 2751,
+    "img": 2751,
+    "imgUrl": "https://www.passalaco.com.br/img/2751.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Astronauta",
@@ -4637,14 +4640,15 @@
   },
   {
     "nome": "Batgirl",
-    "_id": 6647,
-    "img": 6647,
-    "imgUrl": "https://www.passalaco.com.br/img/6647.jpg",
+    "_id": 6081,
+    "img": 6081,
+    "imgUrl": "https://www.passalaco.com.br/img/6081.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Adulta",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Batgirl Lilas",
@@ -4715,14 +4719,15 @@
   },
   {
     "nome": "Batman",
-    "_id": 7888,
-    "img": 7888,
-    "imgUrl": "https://www.passalaco.com.br/img/7888.jpg",
+    "_id": 7890,
+    "img": 7890,
+    "imgUrl": "https://www.passalaco.com.br/img/7890.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Batman",
@@ -5916,15 +5921,15 @@
   },
   {
     "nome": "Branca de Neve",
-    "_id": 3469,
-    "img": 3469,
-    "imgUrl": "https://www.passalaco.com.br/img/3469.jpg",
+    "_id": 3471,
+    "img": 3471,
+    "imgUrl": "https://www.passalaco.com.br/img/3471.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Branca de Neve",
@@ -6273,11 +6278,12 @@
     "_id": 8329,
     "img": 8329,
     "imgUrl": "https://www.passalaco.com.br/img/8329.jpg",
-    "categoria": 12,
-    "categoriaNome": "Halloween",
+    "categoria": 3,
+    "categoriaNome": "Vitrine",
     "sexo": "Feminina",
     "tipo": "Adulta",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-07-27 11:13:59",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Bruxa",
@@ -6471,11 +6477,12 @@
     "_id": 9538,
     "img": 9538,
     "imgUrl": "https://www.passalaco.com.br/img/9538.jpg",
-    "categoria": 2130,
-    "categoriaNome": "Halloween Infantil",
+    "categoria": 3,
+    "categoriaNome": "Vitrine",
     "sexo": "Feminina",
     "tipo": "Infantil",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-07-27 11:13:59",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Bruxa",
@@ -6526,24 +6533,24 @@
     "_id": 9630,
     "img": 9630,
     "imgUrl": "https://www.passalaco.com.br/img/9630.jpg",
-    "categoria": 1617,
-    "categoriaNome": "Plus Size",
+    "categoria": 3,
+    "categoriaNome": "Vitrine",
     "sexo": "Feminina",
     "tipo": "Adulta",
     "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Bruxa",
     "_id": 9569,
     "img": 9569,
     "imgUrl": "https://www.passalaco.com.br/img/9569.jpg",
-    "categoria": 2130,
-    "categoriaNome": "Halloween Infantil",
+    "categoria": 3,
+    "categoriaNome": "Vitrine",
     "sexo": "Feminina",
     "tipo": "Adulta",
     "criadoEm": "2026-07-27 11:13:59",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Bruxa Com Capa Preta",
@@ -6618,11 +6625,12 @@
     "_id": 9540,
     "img": 9540,
     "imgUrl": "https://www.passalaco.com.br/img/9540.jpg",
-    "categoria": 2130,
-    "categoriaNome": "Halloween Infantil",
+    "categoria": 3,
+    "categoriaNome": "Vitrine",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-07-27 11:13:59",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Bruxinha Esqueleto",
@@ -7002,15 +7010,15 @@
   },
   {
     "nome": "Calça",
-    "_id": 2614,
-    "img": 2614,
-    "imgUrl": "https://www.passalaco.com.br/img/2614.jpg",
+    "_id": 2615,
+    "img": 2615,
+    "imgUrl": "https://www.passalaco.com.br/img/2615.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Camisa",
@@ -7047,15 +7055,15 @@
   },
   {
     "nome": "Camisa",
-    "_id": 3723,
-    "img": 3723,
-    "imgUrl": "https://www.passalaco.com.br/img/3723.jpg",
+    "_id": 3568,
+    "img": 3568,
+    "imgUrl": "https://www.passalaco.com.br/img/3568.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Camisa",
@@ -7081,15 +7089,15 @@
   },
   {
     "nome": "Camisa",
-    "_id": 3319,
-    "img": 3319,
-    "imgUrl": "https://www.passalaco.com.br/img/3319.jpg",
+    "_id": 3478,
+    "img": 3478,
+    "imgUrl": "https://www.passalaco.com.br/img/3478.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Camisa",
@@ -7591,15 +7599,15 @@
   },
   {
     "nome": "Cangaceiro Calça",
-    "_id": 7035,
-    "img": 7035,
-    "imgUrl": "https://www.passalaco.com.br/img/7035.jpg",
+    "_id": 7036,
+    "img": 7036,
+    "imgUrl": "https://www.passalaco.com.br/img/7036.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Canguru",
@@ -7923,15 +7931,15 @@
   },
   {
     "nome": "Capitao America",
-    "_id": 7996,
-    "img": 7996,
-    "imgUrl": "https://www.passalaco.com.br/img/7996.jpg",
+    "_id": 8114,
+    "img": 8114,
+    "imgUrl": "https://www.passalaco.com.br/img/8114.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Capitao America",
@@ -8226,14 +8234,15 @@
   },
   {
     "nome": "Carinha de Anjo",
-    "_id": 7390,
-    "img": 7390,
-    "imgUrl": "https://www.passalaco.com.br/img/7390.jpg",
+    "_id": 7389,
+    "img": 7389,
+    "imgUrl": "https://www.passalaco.com.br/img/7389.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Infantil",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Carmem Miranda",
@@ -9076,14 +9085,15 @@
   },
   {
     "nome": "Carrossel",
-    "_id": 10007,
-    "img": 10007,
-    "imgUrl": "https://www.passalaco.com.br/img/10007.jpg",
+    "_id": 10008,
+    "img": 10008,
+    "imgUrl": "https://www.passalaco.com.br/img/10008.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Adulta",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Carrossel",
@@ -9098,15 +9108,15 @@
   },
   {
     "nome": "Carrossel",
-    "_id": 3944,
-    "img": 3944,
-    "imgUrl": "https://www.passalaco.com.br/img/3944.jpg",
+    "_id": 4069,
+    "img": 4069,
+    "imgUrl": "https://www.passalaco.com.br/img/4069.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Carta de Baralho",
@@ -9875,33 +9885,36 @@
     "_id": 8024,
     "img": 8024,
     "imgUrl": "https://www.passalaco.com.br/img/8024.jpg",
-    "categoria": 12,
-    "categoriaNome": "Halloween",
+    "categoria": 3,
+    "categoriaNome": "Vitrine",
     "sexo": "Feminina",
     "tipo": "Adulta",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-07-27 11:13:59",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Caveira Mexicana",
     "_id": 8859,
     "img": 8859,
     "imgUrl": "https://www.passalaco.com.br/img/8859.jpg",
-    "categoria": 12,
-    "categoriaNome": "Halloween",
+    "categoria": 3,
+    "categoriaNome": "Vitrine",
     "sexo": "Feminina",
     "tipo": "Adulta",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-07-27 11:13:59",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Caveira Mexicana",
     "_id": 8094,
     "img": 8094,
     "imgUrl": "https://www.passalaco.com.br/img/8094.jpg",
-    "categoria": 12,
-    "categoriaNome": "Halloween",
+    "categoria": 3,
+    "categoriaNome": "Vitrine",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-07-27 11:13:59",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Caveira Mexicana",
@@ -9919,11 +9932,12 @@
     "_id": 9093,
     "img": 9093,
     "imgUrl": "https://www.passalaco.com.br/img/9093.jpg",
-    "categoria": 12,
-    "categoriaNome": "Halloween",
+    "categoria": 3,
+    "categoriaNome": "Vitrine",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-07-27 11:13:59",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Caveira Mexicana",
@@ -10470,15 +10484,15 @@
   },
   {
     "nome": "Chapolin",
-    "_id": 5515,
-    "img": 5515,
-    "imgUrl": "https://www.passalaco.com.br/img/5515.jpg",
+    "_id": 2310,
+    "img": 2310,
+    "imgUrl": "https://www.passalaco.com.br/img/2310.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Chapolin",
@@ -11034,9 +11048,9 @@
   },
   {
     "nome": "Chinesa",
-    "_id": 3115,
-    "img": 3115,
-    "imgUrl": "https://www.passalaco.com.br/img/3115.jpg",
+    "_id": 3118,
+    "img": 3118,
+    "imgUrl": "https://www.passalaco.com.br/img/3118.jpg",
     "categoria": 1005,
     "categoriaNome": "Paises",
     "sexo": "Feminina",
@@ -11045,9 +11059,9 @@
   },
   {
     "nome": "Chinesa",
-    "_id": 3118,
-    "img": 3118,
-    "imgUrl": "https://www.passalaco.com.br/img/3118.jpg",
+    "_id": 3115,
+    "img": 3115,
+    "imgUrl": "https://www.passalaco.com.br/img/3115.jpg",
     "categoria": 1005,
     "categoriaNome": "Paises",
     "sexo": "Feminina",
@@ -12522,15 +12536,15 @@
   },
   {
     "nome": "Colete",
-    "_id": 3394,
-    "img": 3394,
-    "imgUrl": "https://www.passalaco.com.br/img/3394.jpg",
+    "_id": 3380,
+    "img": 3380,
+    "imgUrl": "https://www.passalaco.com.br/img/3380.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Colete",
@@ -13166,24 +13180,24 @@
     "_id": 10437,
     "img": 10437,
     "imgUrl": "https://www.passalaco.com.br/img/10437.jpg",
-    "categoria": 0,
-    "categoriaNome": "Outras",
+    "categoria": 3,
+    "categoriaNome": "Vitrine",
     "sexo": "Feminina",
     "tipo": "Adulta",
     "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Condessa",
     "_id": 10438,
     "img": 10438,
     "imgUrl": "https://www.passalaco.com.br/img/10438.jpg",
-    "categoria": 0,
-    "categoriaNome": "Outras",
+    "categoria": 3,
+    "categoriaNome": "Vitrine",
     "sexo": "Feminina",
     "tipo": "Adulta",
     "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Confecçao Lampiao",
@@ -13522,15 +13536,15 @@
   },
   {
     "nome": "Coroa Guardada",
-    "_id": 9375,
-    "img": 9375,
-    "imgUrl": "https://www.passalaco.com.br/img/9375.jpg",
+    "_id": 9379,
+    "img": 9379,
+    "imgUrl": "https://www.passalaco.com.br/img/9379.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Coroa Guardada",
@@ -14050,6 +14064,18 @@
     "sexo": "Feminina",
     "tipo": "Adulta",
     "criadoEm": "2026-07-27 11:13:59"
+  },
+  {
+    "nome": "Cruela Luxo",
+    "_id": 10445,
+    "img": 10445,
+    "imgUrl": "https://www.passalaco.com.br/img/10445.jpg",
+    "categoria": 3,
+    "categoriaNome": "Vitrine",
+    "sexo": "Feminina",
+    "tipo": "Adulta",
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Cuca",
@@ -14748,15 +14774,15 @@
   },
   {
     "nome": "Detetive do Predio Azul",
-    "_id": 6715,
-    "img": 6715,
-    "imgUrl": "https://www.passalaco.com.br/img/6715.jpg",
+    "_id": 6714,
+    "img": 6714,
+    "imgUrl": "https://www.passalaco.com.br/img/6714.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Detetive do Predio Azul",
@@ -15851,15 +15877,15 @@
   },
   {
     "nome": "Elvis",
-    "_id": 554,
-    "img": 554,
-    "imgUrl": "https://www.passalaco.com.br/img/554.jpg",
+    "_id": 552,
+    "img": 552,
+    "imgUrl": "https://www.passalaco.com.br/img/552.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Elvis",
@@ -16237,14 +16263,15 @@
   },
   {
     "nome": "Espanhola",
-    "_id": 4745,
-    "img": 4745,
-    "imgUrl": "https://www.passalaco.com.br/img/4745.jpg",
+    "_id": 3887,
+    "img": 3887,
+    "imgUrl": "https://www.passalaco.com.br/img/3887.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Adulta",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Espanhola",
@@ -16547,26 +16574,27 @@
   },
   {
     "nome": "Esqueleto",
-    "_id": 3757,
-    "img": 3757,
-    "imgUrl": "https://www.passalaco.com.br/img/3757.jpg",
+    "_id": 2214,
+    "img": 2214,
+    "imgUrl": "https://www.passalaco.com.br/img/2214.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Esqueleto",
-    "_id": 595,
-    "img": 595,
-    "imgUrl": "https://www.passalaco.com.br/img/595.jpg",
+    "_id": 3737,
+    "img": 3737,
+    "imgUrl": "https://www.passalaco.com.br/img/3737.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Esqueleto",
@@ -16795,11 +16823,12 @@
     "_id": 9631,
     "img": 9631,
     "imgUrl": "https://www.passalaco.com.br/img/9631.jpg",
-    "categoria": 12,
-    "categoriaNome": "Halloween",
+    "categoria": 3,
+    "categoriaNome": "Vitrine",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-07-27 11:13:59",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Ezio Auditore",
@@ -16938,24 +16967,24 @@
     "_id": 9952,
     "img": 9952,
     "imgUrl": "https://www.passalaco.com.br/img/9952.jpg",
-    "categoria": 3,
-    "categoriaNome": "Vitrine",
+    "categoria": 709,
+    "categoriaNome": "Fadas/Duendes",
     "sexo": "Feminina",
     "tipo": "Infantil",
     "criadoEm": "2026-07-27 11:13:59",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Fada",
     "_id": 9605,
     "img": 9605,
     "imgUrl": "https://www.passalaco.com.br/img/9605.jpg",
-    "categoria": 3,
-    "categoriaNome": "Vitrine",
+    "categoria": 709,
+    "categoriaNome": "Fadas/Duendes",
     "sexo": "Feminina",
     "tipo": "Adulta",
     "criadoEm": "2026-07-27 11:13:59",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Fada",
@@ -16973,12 +17002,12 @@
     "_id": 9931,
     "img": 9931,
     "imgUrl": "https://www.passalaco.com.br/img/9931.jpg",
-    "categoria": 3,
-    "categoriaNome": "Vitrine",
+    "categoria": 709,
+    "categoriaNome": "Fadas/Duendes",
     "sexo": "Feminina",
     "tipo": "Adulta",
     "criadoEm": "2026-07-27 11:13:59",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Fada 8 Meses",
@@ -16996,12 +17025,12 @@
     "_id": 9544,
     "img": 9544,
     "imgUrl": "https://www.passalaco.com.br/img/9544.jpg",
-    "categoria": 3,
-    "categoriaNome": "Vitrine",
+    "categoria": 709,
+    "categoriaNome": "Fadas/Duendes",
     "sexo": "Feminina",
     "tipo": "Adulta",
     "criadoEm": "2026-07-27 11:13:59",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Fada Madrinha",
@@ -18543,15 +18572,15 @@
   },
   {
     "nome": "Gaucho",
-    "_id": 9885,
-    "img": 9885,
-    "imgUrl": "https://www.passalaco.com.br/img/9885.jpg",
+    "_id": 9858,
+    "img": 9858,
+    "imgUrl": "https://www.passalaco.com.br/img/9858.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Gaucho",
@@ -18566,14 +18595,15 @@
   },
   {
     "nome": "Gaucho",
-    "_id": 9893,
-    "img": 9893,
-    "imgUrl": "https://www.passalaco.com.br/img/9893.jpg",
+    "_id": 9843,
+    "img": 9843,
+    "imgUrl": "https://www.passalaco.com.br/img/9843.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Gemeos da Alice",
@@ -19561,15 +19591,15 @@
   },
   {
     "nome": "Harry Potter Hermione",
-    "_id": 4443,
-    "img": 4443,
-    "imgUrl": "https://www.passalaco.com.br/img/4443.jpg",
+    "_id": 4442,
+    "img": 4442,
+    "imgUrl": "https://www.passalaco.com.br/img/4442.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Harry Potter Hermione",
@@ -19849,15 +19879,15 @@
   },
   {
     "nome": "Homem Aranha",
-    "_id": 9075,
-    "img": 9075,
-    "imgUrl": "https://www.passalaco.com.br/img/9075.jpg",
+    "_id": 9076,
+    "img": 9076,
+    "imgUrl": "https://www.passalaco.com.br/img/9076.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
-    "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "tipo": "Infantil",
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Homem Aranha",
@@ -20754,12 +20784,12 @@
     "_id": 10442,
     "img": 10442,
     "imgUrl": "https://www.passalaco.com.br/img/10442.jpg",
-    "categoria": 3,
-    "categoriaNome": "Vitrine",
+    "categoria": 1005,
+    "categoriaNome": "Paises",
     "sexo": "Feminina",
     "tipo": "Adulta",
     "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Indiana Jones",
@@ -20994,6 +21024,18 @@
     "tipo": "Adulta",
     "criadoEm": "2026-07-27 11:13:59",
     "atualizadoEm": "2026-10-19 09:53:45"
+  },
+  {
+    "nome": "It a Coisa",
+    "_id": 10174,
+    "img": 10174,
+    "imgUrl": "https://www.passalaco.com.br/img/10174.jpg",
+    "categoria": 3,
+    "categoriaNome": "Vitrine",
+    "sexo": "Feminina",
+    "tipo": "Infantil",
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "It a Coisa",
@@ -21373,15 +21415,15 @@
   },
   {
     "nome": "Jaqueta",
-    "_id": 6556,
-    "img": 6556,
-    "imgUrl": "https://www.passalaco.com.br/img/6556.jpg",
+    "_id": 4386,
+    "img": 4386,
+    "imgUrl": "https://www.passalaco.com.br/img/4386.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Jaqueta, Calça e Chapeu",
@@ -21495,15 +21537,15 @@
   },
   {
     "nome": "Jasmine",
-    "_id": 6390,
-    "img": 6390,
-    "imgUrl": "https://www.passalaco.com.br/img/6390.jpg",
+    "_id": 6827,
+    "img": 6827,
+    "imgUrl": "https://www.passalaco.com.br/img/6827.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Jasmine",
@@ -21654,11 +21696,12 @@
     "_id": 6875,
     "img": 6875,
     "imgUrl": "https://www.passalaco.com.br/img/6875.jpg",
-    "categoria": 2129,
-    "categoriaNome": "Halloween Adulto",
+    "categoria": 3,
+    "categoriaNome": "Vitrine",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-07-27 11:13:59",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Jason",
@@ -21971,27 +22014,27 @@
   },
   {
     "nome": "Jessie Toy Story",
-    "_id": 4558,
-    "img": 4558,
-    "imgUrl": "https://www.passalaco.com.br/img/4558.jpg",
+    "_id": 4556,
+    "img": 4556,
+    "imgUrl": "https://www.passalaco.com.br/img/4556.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Jessie Toy Story",
-    "_id": 3873,
-    "img": 3873,
-    "imgUrl": "https://www.passalaco.com.br/img/3873.jpg",
+    "_id": 5176,
+    "img": 5176,
+    "imgUrl": "https://www.passalaco.com.br/img/5176.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Jessie Toy Story",
@@ -27047,15 +27090,15 @@
   },
   {
     "nome": "Kiko",
-    "_id": 3054,
-    "img": 3054,
-    "imgUrl": "https://www.passalaco.com.br/img/3054.jpg",
+    "_id": 2852,
+    "img": 2852,
+    "imgUrl": "https://www.passalaco.com.br/img/2852.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Kiko",
@@ -27169,15 +27212,15 @@
   },
   {
     "nome": "La Casa de Papel",
-    "_id": 9644,
-    "img": 9644,
-    "imgUrl": "https://www.passalaco.com.br/img/9644.jpg",
+    "_id": 7352,
+    "img": 7352,
+    "imgUrl": "https://www.passalaco.com.br/img/7352.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "La Casa de Papel",
@@ -27614,14 +27657,15 @@
   },
   {
     "nome": "Lanterninha",
-    "_id": 791,
-    "img": 791,
-    "imgUrl": "https://www.passalaco.com.br/img/791.jpg",
+    "_id": 792,
+    "img": 792,
+    "imgUrl": "https://www.passalaco.com.br/img/792.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Lara Croft",
@@ -27724,15 +27768,15 @@
   },
   {
     "nome": "Leao",
-    "_id": 7793,
-    "img": 7793,
-    "imgUrl": "https://www.passalaco.com.br/img/7793.jpg",
+    "_id": 5052,
+    "img": 5052,
+    "imgUrl": "https://www.passalaco.com.br/img/5052.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Leao",
@@ -28000,14 +28044,15 @@
   },
   {
     "nome": "Lobo",
-    "_id": 3707,
-    "img": 3707,
-    "imgUrl": "https://www.passalaco.com.br/img/3707.jpg",
+    "_id": 2248,
+    "img": 2248,
+    "imgUrl": "https://www.passalaco.com.br/img/2248.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Lobo",
@@ -28364,27 +28409,27 @@
   },
   {
     "nome": "Macaco",
-    "_id": 4665,
-    "img": 4665,
-    "imgUrl": "https://www.passalaco.com.br/img/4665.jpg",
+    "_id": 810,
+    "img": 810,
+    "imgUrl": "https://www.passalaco.com.br/img/810.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Macaco",
-    "_id": 4716,
-    "img": 4716,
-    "imgUrl": "https://www.passalaco.com.br/img/4716.jpg",
+    "_id": 5057,
+    "img": 5057,
+    "imgUrl": "https://www.passalaco.com.br/img/5057.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
-    "sexo": "Feminina",
+    "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Macaco",
@@ -28941,11 +28986,12 @@
     "_id": 9570,
     "img": 9570,
     "imgUrl": "https://www.passalaco.com.br/img/9570.jpg",
-    "categoria": 2129,
-    "categoriaNome": "Halloween Adulto",
+    "categoria": 3,
+    "categoriaNome": "Vitrine",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-07-27 11:13:59",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Mago",
@@ -29051,11 +29097,12 @@
     "_id": 8843,
     "img": 8843,
     "imgUrl": "https://www.passalaco.com.br/img/8843.jpg",
-    "categoria": 2129,
-    "categoriaNome": "Halloween Adulto",
+    "categoria": 3,
+    "categoriaNome": "Vitrine",
     "sexo": "Feminina",
     "tipo": "Adulta",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-07-27 11:13:59",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Malevola",
@@ -29129,23 +29176,24 @@
     "_id": 10441,
     "img": 10441,
     "imgUrl": "https://www.passalaco.com.br/img/10441.jpg",
-    "categoria": 2129,
-    "categoriaNome": "Halloween Adulto",
+    "categoria": 3,
+    "categoriaNome": "Vitrine",
     "sexo": "Feminina",
     "tipo": "Adulta",
     "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Mama Gothel",
     "_id": 9940,
     "img": 9940,
     "imgUrl": "https://www.passalaco.com.br/img/9940.jpg",
-    "categoria": 710,
-    "categoriaNome": "Personagens",
+    "categoria": 3,
+    "categoriaNome": "Vitrine",
     "sexo": "Feminina",
     "tipo": "Adulta",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-07-27 11:13:59",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Mamae Noel",
@@ -29569,15 +29617,15 @@
   },
   {
     "nome": "Maria Bonita Blusa",
-    "_id": 7042,
-    "img": 7042,
-    "imgUrl": "https://www.passalaco.com.br/img/7042.jpg",
+    "_id": 7065,
+    "img": 7065,
+    "imgUrl": "https://www.passalaco.com.br/img/7065.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Maria Bonita Com Chapéu de Couro",
@@ -29748,15 +29796,15 @@
   },
   {
     "nome": "Marinheira",
-    "_id": 8036,
-    "img": 8036,
-    "imgUrl": "https://www.passalaco.com.br/img/8036.jpg",
+    "_id": 8037,
+    "img": 8037,
+    "imgUrl": "https://www.passalaco.com.br/img/8037.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Marinheira",
@@ -30345,15 +30393,15 @@
   },
   {
     "nome": "Mascarada",
-    "_id": 3867,
-    "img": 3867,
-    "imgUrl": "https://www.passalaco.com.br/img/3867.jpg",
+    "_id": 3886,
+    "img": 3886,
+    "imgUrl": "https://www.passalaco.com.br/img/3886.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Mascarado",
@@ -31912,11 +31960,12 @@
     "_id": 9640,
     "img": 9640,
     "imgUrl": "https://www.passalaco.com.br/img/9640.jpg",
-    "categoria": 2129,
-    "categoriaNome": "Halloween Adulto",
+    "categoria": 3,
+    "categoriaNome": "Vitrine",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-07-27 11:13:59",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Mickey",
@@ -31997,15 +32046,15 @@
   },
   {
     "nome": "Minions",
-    "_id": 6233,
-    "img": 6233,
-    "imgUrl": "https://www.passalaco.com.br/img/6233.jpg",
+    "_id": 5946,
+    "img": 5946,
+    "imgUrl": "https://www.passalaco.com.br/img/5946.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Minions",
@@ -32053,26 +32102,27 @@
   },
   {
     "nome": "Minions",
-    "_id": 6152,
-    "img": 6152,
-    "imgUrl": "https://www.passalaco.com.br/img/6152.jpg",
+    "_id": 5996,
+    "img": 5996,
+    "imgUrl": "https://www.passalaco.com.br/img/5996.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Minions",
-    "_id": 5954,
-    "img": 5954,
-    "imgUrl": "https://www.passalaco.com.br/img/5954.jpg",
+    "_id": 5955,
+    "img": 5955,
+    "imgUrl": "https://www.passalaco.com.br/img/5955.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Minions",
@@ -32695,15 +32745,15 @@
   },
   {
     "nome": "Morte",
-    "_id": 6579,
-    "img": 6579,
-    "imgUrl": "https://www.passalaco.com.br/img/6579.jpg",
+    "_id": 4505,
+    "img": 4505,
+    "imgUrl": "https://www.passalaco.com.br/img/4505.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Morte",
@@ -32729,15 +32779,15 @@
   },
   {
     "nome": "Morte",
-    "_id": 6577,
-    "img": 6577,
-    "imgUrl": "https://www.passalaco.com.br/img/6577.jpg",
+    "_id": 2639,
+    "img": 2639,
+    "imgUrl": "https://www.passalaco.com.br/img/2639.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Morte",
@@ -32763,14 +32813,15 @@
   },
   {
     "nome": "Morte",
-    "_id": 8410,
-    "img": 8410,
-    "imgUrl": "https://www.passalaco.com.br/img/8410.jpg",
+    "_id": 6578,
+    "img": 6578,
+    "imgUrl": "https://www.passalaco.com.br/img/6578.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Morticia",
@@ -32796,15 +32847,15 @@
   },
   {
     "nome": "Morticia",
-    "_id": 9302,
-    "img": 9302,
-    "imgUrl": "https://www.passalaco.com.br/img/9302.jpg",
+    "_id": 9301,
+    "img": 9301,
+    "imgUrl": "https://www.passalaco.com.br/img/9301.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Morticia",
@@ -32907,14 +32958,15 @@
   },
   {
     "nome": "Mosquito da Dengue",
-    "_id": 3732,
-    "img": 3732,
-    "imgUrl": "https://www.passalaco.com.br/img/3732.jpg",
+    "_id": 3733,
+    "img": 3733,
+    "imgUrl": "https://www.passalaco.com.br/img/3733.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Mosquito da Dengue",
@@ -33028,15 +33080,15 @@
   },
   {
     "nome": "Mulher Aranha",
-    "_id": 10382,
-    "img": 10382,
-    "imgUrl": "https://www.passalaco.com.br/img/10382.jpg",
+    "_id": 10381,
+    "img": 10381,
+    "imgUrl": "https://www.passalaco.com.br/img/10381.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Mulher Aranha",
@@ -33385,14 +33437,15 @@
   },
   {
     "nome": "Mumia",
-    "_id": 9328,
-    "img": 9328,
-    "imgUrl": "https://www.passalaco.com.br/img/9328.jpg",
+    "_id": 9327,
+    "img": 9327,
+    "imgUrl": "https://www.passalaco.com.br/img/9327.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Mumia",
@@ -33462,15 +33515,15 @@
   },
   {
     "nome": "Narizinho",
-    "_id": 952,
-    "img": 952,
-    "imgUrl": "https://www.passalaco.com.br/img/952.jpg",
+    "_id": 953,
+    "img": 953,
+    "imgUrl": "https://www.passalaco.com.br/img/953.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Narizinho",
@@ -33652,15 +33705,15 @@
   },
   {
     "nome": "Ninja",
-    "_id": 4923,
-    "img": 4923,
-    "imgUrl": "https://www.passalaco.com.br/img/4923.jpg",
+    "_id": 4967,
+    "img": 4967,
+    "imgUrl": "https://www.passalaco.com.br/img/4967.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Ninja",
@@ -34294,15 +34347,15 @@
   },
   {
     "nome": "Noivo Cadaver",
-    "_id": 9553,
-    "img": 9553,
-    "imgUrl": "https://www.passalaco.com.br/img/9553.jpg",
+    "_id": 7720,
+    "img": 7720,
+    "imgUrl": "https://www.passalaco.com.br/img/7720.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Noivo Montado",
@@ -34681,14 +34734,15 @@
   },
   {
     "nome": "Os Incriveis",
-    "_id": 3941,
-    "img": 3941,
-    "imgUrl": "https://www.passalaco.com.br/img/3941.jpg",
+    "_id": 6135,
+    "img": 6135,
+    "imgUrl": "https://www.passalaco.com.br/img/6135.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Os Incriveis",
@@ -34902,14 +34956,15 @@
   },
   {
     "nome": "Padre",
-    "_id": 7569,
-    "img": 7569,
-    "imgUrl": "https://www.passalaco.com.br/img/7569.jpg",
+    "_id": 3514,
+    "img": 3514,
+    "imgUrl": "https://www.passalaco.com.br/img/3514.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Padre",
@@ -35561,11 +35616,12 @@
     "_id": 8884,
     "img": 8884,
     "imgUrl": "https://www.passalaco.com.br/img/8884.jpg",
-    "categoria": 2129,
-    "categoriaNome": "Halloween Adulto",
+    "categoria": 3,
+    "categoriaNome": "Vitrine",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-07-27 11:13:59",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Palhaço Assassino",
@@ -35583,11 +35639,12 @@
     "_id": 10044,
     "img": 10044,
     "imgUrl": "https://www.passalaco.com.br/img/10044.jpg",
-    "categoria": 0,
-    "categoriaNome": "Outras",
+    "categoria": 3,
+    "categoriaNome": "Vitrine",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-07-27 11:13:59",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Palhaço Assassino",
@@ -35635,15 +35692,15 @@
   },
   {
     "nome": "Panico",
-    "_id": 4509,
-    "img": 4509,
-    "imgUrl": "https://www.passalaco.com.br/img/4509.jpg",
+    "_id": 1090,
+    "img": 1090,
+    "imgUrl": "https://www.passalaco.com.br/img/1090.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
-    "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "tipo": "Adulta",
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Panico",
@@ -35658,15 +35715,15 @@
   },
   {
     "nome": "Panico",
-    "_id": 1088,
-    "img": 1088,
-    "imgUrl": "https://www.passalaco.com.br/img/1088.jpg",
+    "_id": 3995,
+    "img": 3995,
+    "imgUrl": "https://www.passalaco.com.br/img/3995.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
-    "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "tipo": "Adulta",
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Pantera Negra",
@@ -35681,15 +35738,15 @@
   },
   {
     "nome": "Pantera Negra",
-    "_id": 8275,
-    "img": 8275,
-    "imgUrl": "https://www.passalaco.com.br/img/8275.jpg",
+    "_id": 8274,
+    "img": 8274,
+    "imgUrl": "https://www.passalaco.com.br/img/8274.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Pantera Negra",
@@ -35737,15 +35794,15 @@
   },
   {
     "nome": "Papai Noel",
-    "_id": 9703,
-    "img": 9703,
-    "imgUrl": "https://www.passalaco.com.br/img/9703.jpg",
+    "_id": 9711,
+    "img": 9711,
+    "imgUrl": "https://www.passalaco.com.br/img/9711.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Papai Noel",
@@ -35794,15 +35851,15 @@
   },
   {
     "nome": "Papai Noel",
-    "_id": 9720,
-    "img": 9720,
-    "imgUrl": "https://www.passalaco.com.br/img/9720.jpg",
+    "_id": 9717,
+    "img": 9717,
+    "imgUrl": "https://www.passalaco.com.br/img/9717.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Papai Noel",
@@ -35828,15 +35885,15 @@
   },
   {
     "nome": "Papai Noel Luxo",
-    "_id": 9712,
-    "img": 9712,
-    "imgUrl": "https://www.passalaco.com.br/img/9712.jpg",
+    "_id": 9719,
+    "img": 9719,
+    "imgUrl": "https://www.passalaco.com.br/img/9719.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Papai Noel Luxo",
@@ -35961,15 +36018,15 @@
   },
   {
     "nome": "Papai Noel Super Luxo",
-    "_id": 10099,
-    "img": 10099,
-    "imgUrl": "https://www.passalaco.com.br/img/10099.jpg",
+    "_id": 10095,
+    "img": 10095,
+    "imgUrl": "https://www.passalaco.com.br/img/10095.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Papai Noel Super Luxo",
@@ -36095,15 +36152,15 @@
   },
   {
     "nome": "Paquita Confecção",
-    "_id": 10256,
-    "img": 10256,
-    "imgUrl": "https://www.passalaco.com.br/img/10256.jpg",
+    "_id": 10255,
+    "img": 10255,
+    "imgUrl": "https://www.passalaco.com.br/img/10255.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Passaro",
@@ -36328,14 +36385,15 @@
   },
   {
     "nome": "Patrulha Canina Colete Ryder",
-    "_id": 6819,
-    "img": 6819,
-    "imgUrl": "https://www.passalaco.com.br/img/6819.jpg",
+    "_id": 7451,
+    "img": 7451,
+    "imgUrl": "https://www.passalaco.com.br/img/7451.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Patrulha Canina Colete Ryder",
@@ -36407,15 +36465,15 @@
   },
   {
     "nome": "Pedrinho",
-    "_id": 1104,
-    "img": 1104,
-    "imgUrl": "https://www.passalaco.com.br/img/1104.jpg",
+    "_id": 1103,
+    "img": 1103,
+    "imgUrl": "https://www.passalaco.com.br/img/1103.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Pedrita",
@@ -36485,14 +36543,15 @@
   },
   {
     "nome": "Pedrita",
-    "_id": 1116,
-    "img": 1116,
-    "imgUrl": "https://www.passalaco.com.br/img/1116.jpg",
+    "_id": 1111,
+    "img": 1111,
+    "imgUrl": "https://www.passalaco.com.br/img/1111.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Infantil",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Pedrita",
@@ -36518,15 +36577,15 @@
   },
   {
     "nome": "Peixe",
-    "_id": 1118,
-    "img": 1118,
-    "imgUrl": "https://www.passalaco.com.br/img/1118.jpg",
+    "_id": 1117,
+    "img": 1117,
+    "imgUrl": "https://www.passalaco.com.br/img/1117.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Penelope Charmosa",
@@ -36585,14 +36644,15 @@
   },
   {
     "nome": "Pequeno Polegar",
-    "_id": 1122,
-    "img": 1122,
-    "imgUrl": "https://www.passalaco.com.br/img/1122.jpg",
+    "_id": 1121,
+    "img": 1121,
+    "imgUrl": "https://www.passalaco.com.br/img/1121.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Pequeno Principe",
@@ -37017,24 +37077,24 @@
     "_id": 3810,
     "img": 3810,
     "imgUrl": "https://www.passalaco.com.br/img/3810.jpg",
-    "categoria": 3,
-    "categoriaNome": "Vitrine",
+    "categoria": 694,
+    "categoriaNome": "Princesas/Principes",
     "sexo": "Masculina",
     "tipo": "Adulta",
     "criadoEm": "2026-07-27 11:13:59",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Peter Pan",
     "_id": 7652,
     "img": 7652,
     "imgUrl": "https://www.passalaco.com.br/img/7652.jpg",
-    "categoria": 3,
-    "categoriaNome": "Vitrine",
+    "categoria": 701,
+    "categoriaNome": "Bebês",
     "sexo": "Masculina",
     "tipo": "Infantil",
     "criadoEm": "2026-07-27 11:13:59",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Peter Pan",
@@ -37127,15 +37187,15 @@
   },
   {
     "nome": "Pierrot",
-    "_id": 2619,
-    "img": 2619,
-    "imgUrl": "https://www.passalaco.com.br/img/2619.jpg",
+    "_id": 1134,
+    "img": 1134,
+    "imgUrl": "https://www.passalaco.com.br/img/1134.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Pierrot",
@@ -37328,15 +37388,15 @@
   },
   {
     "nome": "Piloto Ayrton Senna",
-    "_id": 10366,
-    "img": 10366,
-    "imgUrl": "https://www.passalaco.com.br/img/10366.jpg",
+    "_id": 10365,
+    "img": 10365,
+    "imgUrl": "https://www.passalaco.com.br/img/10365.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Piloto Ayrton Senna",
@@ -37374,15 +37434,15 @@
   },
   {
     "nome": "Pinoquio",
-    "_id": 5340,
-    "img": 5340,
-    "imgUrl": "https://www.passalaco.com.br/img/5340.jpg",
+    "_id": 5338,
+    "img": 5338,
+    "imgUrl": "https://www.passalaco.com.br/img/5338.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Pinoquio",
@@ -38169,14 +38229,15 @@
   },
   {
     "nome": "Portugues",
-    "_id": 9573,
-    "img": 9573,
-    "imgUrl": "https://www.passalaco.com.br/img/9573.jpg",
+    "_id": 7514,
+    "img": 7514,
+    "imgUrl": "https://www.passalaco.com.br/img/7514.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Portuguesa",
@@ -38382,14 +38443,15 @@
   },
   {
     "nome": "Power Rangers",
-    "_id": 1185,
-    "img": 1185,
-    "imgUrl": "https://www.passalaco.com.br/img/1185.jpg",
+    "_id": 1186,
+    "img": 1186,
+    "imgUrl": "https://www.passalaco.com.br/img/1186.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Power Rangers",
@@ -38651,15 +38713,15 @@
   },
   {
     "nome": "Presidiário",
-    "_id": 9759,
-    "img": 9759,
-    "imgUrl": "https://www.passalaco.com.br/img/9759.jpg",
+    "_id": 9760,
+    "img": 9760,
+    "imgUrl": "https://www.passalaco.com.br/img/9760.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Primavera",
@@ -39193,9 +39255,9 @@
   },
   {
     "nome": "Principe",
-    "_id": 3620,
-    "img": 3620,
-    "imgUrl": "https://www.passalaco.com.br/img/3620.jpg",
+    "_id": 1233,
+    "img": 1233,
+    "imgUrl": "https://www.passalaco.com.br/img/1233.jpg",
     "categoria": 694,
     "categoriaNome": "Princesas/Principes",
     "sexo": "Masculina",
@@ -39204,9 +39266,9 @@
   },
   {
     "nome": "Principe",
-    "_id": 1233,
-    "img": 1233,
-    "imgUrl": "https://www.passalaco.com.br/img/1233.jpg",
+    "_id": 3620,
+    "img": 3620,
+    "imgUrl": "https://www.passalaco.com.br/img/3620.jpg",
     "categoria": 694,
     "categoriaNome": "Princesas/Principes",
     "sexo": "Masculina",
@@ -39601,15 +39663,15 @@
   },
   {
     "nome": "Rainha de Copas",
-    "_id": 8396,
-    "img": 8396,
-    "imgUrl": "https://www.passalaco.com.br/img/8396.jpg",
+    "_id": 9154,
+    "img": 9154,
+    "imgUrl": "https://www.passalaco.com.br/img/9154.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Rainha de Copas",
@@ -40613,15 +40675,15 @@
   },
   {
     "nome": "Robin Hood",
-    "_id": 4739,
-    "img": 4739,
-    "imgUrl": "https://www.passalaco.com.br/img/4739.jpg",
+    "_id": 6643,
+    "img": 6643,
+    "imgUrl": "https://www.passalaco.com.br/img/6643.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Robin Hood",
@@ -41289,15 +41351,15 @@
   },
   {
     "nome": "Saia Tule",
-    "_id": 7264,
-    "img": 7264,
-    "imgUrl": "https://www.passalaco.com.br/img/7264.jpg",
+    "_id": 7755,
+    "img": 7755,
+    "imgUrl": "https://www.passalaco.com.br/img/7755.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Saia Tule",
@@ -41334,14 +41396,15 @@
   },
   {
     "nome": "Saia Tule",
-    "_id": 7321,
-    "img": 7321,
-    "imgUrl": "https://www.passalaco.com.br/img/7321.jpg",
+    "_id": 6887,
+    "img": 6887,
+    "imgUrl": "https://www.passalaco.com.br/img/6887.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Adulta",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Saia Tule",
@@ -41400,14 +41463,15 @@
   },
   {
     "nome": "Sambista",
-    "_id": 5646,
-    "img": 5646,
-    "imgUrl": "https://www.passalaco.com.br/img/5646.jpg",
+    "_id": 5645,
+    "img": 5645,
+    "imgUrl": "https://www.passalaco.com.br/img/5645.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
-    "tipo": "Infantil",
-    "criadoEm": "2026-07-27 11:13:59"
+    "tipo": "Adulta",
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Sambista",
@@ -41510,14 +41574,15 @@
   },
   {
     "nome": "Sapinha",
-    "_id": 4674,
-    "img": 4674,
-    "imgUrl": "https://www.passalaco.com.br/img/4674.jpg",
+    "_id": 4650,
+    "img": 4650,
+    "imgUrl": "https://www.passalaco.com.br/img/4650.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Infantil",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Sapinha",
@@ -42142,12 +42207,12 @@
     "_id": 5347,
     "img": 5347,
     "imgUrl": "https://www.passalaco.com.br/img/5347.jpg",
-    "categoria": 3,
-    "categoriaNome": "Vitrine",
+    "categoria": 709,
+    "categoriaNome": "Fadas/Duendes",
     "sexo": "Feminina",
     "tipo": "Infantil",
     "criadoEm": "2026-07-27 11:13:59",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Sininho",
@@ -42206,15 +42271,15 @@
   },
   {
     "nome": "Sininho Bebe",
-    "_id": 3814,
-    "img": 3814,
-    "imgUrl": "https://www.passalaco.com.br/img/3814.jpg",
+    "_id": 3813,
+    "img": 3813,
+    "imgUrl": "https://www.passalaco.com.br/img/3813.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Sino",
@@ -42429,15 +42494,15 @@
   },
   {
     "nome": "Soldado",
-    "_id": 4884,
-    "img": 4884,
-    "imgUrl": "https://www.passalaco.com.br/img/4884.jpg",
+    "_id": 4883,
+    "img": 4883,
+    "imgUrl": "https://www.passalaco.com.br/img/4883.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Soldado",
@@ -42851,15 +42916,15 @@
   },
   {
     "nome": "Star Wars Darth Vader",
-    "_id": 6829,
-    "img": 6829,
-    "imgUrl": "https://www.passalaco.com.br/img/6829.jpg",
+    "_id": 6754,
+    "img": 6754,
+    "imgUrl": "https://www.passalaco.com.br/img/6754.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Star Wars Darth Vader",
@@ -43028,15 +43093,15 @@
   },
   {
     "nome": "Stitch",
-    "_id": 9956,
-    "img": 9956,
-    "imgUrl": "https://www.passalaco.com.br/img/9956.jpg",
+    "_id": 9957,
+    "img": 9957,
+    "imgUrl": "https://www.passalaco.com.br/img/9957.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
-    "sexo": "Masculina",
-    "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "sexo": "N/A",
+    "tipo": "N/A",
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Stitch",
@@ -43084,14 +43149,15 @@
   },
   {
     "nome": "Super Homem",
-    "_id": 6509,
-    "img": 6509,
-    "imgUrl": "https://www.passalaco.com.br/img/6509.jpg",
+    "_id": 7708,
+    "img": 7708,
+    "imgUrl": "https://www.passalaco.com.br/img/7708.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Super Homem",
@@ -43140,15 +43206,15 @@
   },
   {
     "nome": "Super Homem",
-    "_id": 7531,
-    "img": 7531,
-    "imgUrl": "https://www.passalaco.com.br/img/7531.jpg",
+    "_id": 7529,
+    "img": 7529,
+    "imgUrl": "https://www.passalaco.com.br/img/7529.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Super Homem",
@@ -43686,11 +43752,12 @@
     "_id": 9907,
     "img": 9907,
     "imgUrl": "https://www.passalaco.com.br/img/9907.jpg",
-    "categoria": 2129,
-    "categoriaNome": "Halloween Adulto",
+    "categoria": 3,
+    "categoriaNome": "Vitrine",
     "sexo": "Feminina",
     "tipo": "Adulta",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-07-27 11:13:59",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "The Flash",
@@ -43739,37 +43806,39 @@
   },
   {
     "nome": "The Flash",
-    "_id": 5504,
-    "img": 5504,
-    "imgUrl": "https://www.passalaco.com.br/img/5504.jpg",
+    "_id": 4405,
+    "img": 4405,
+    "imgUrl": "https://www.passalaco.com.br/img/4405.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Adulta",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "The Flash",
-    "_id": 5970,
-    "img": 5970,
-    "imgUrl": "https://www.passalaco.com.br/img/5970.jpg",
+    "_id": 3902,
+    "img": 3902,
+    "imgUrl": "https://www.passalaco.com.br/img/3902.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "The Flash",
-    "_id": 7882,
-    "img": 7882,
-    "imgUrl": "https://www.passalaco.com.br/img/7882.jpg",
+    "_id": 9067,
+    "img": 9067,
+    "imgUrl": "https://www.passalaco.com.br/img/9067.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "The Flash",
@@ -43862,14 +43931,15 @@
   },
   {
     "nome": "Thor",
-    "_id": 8290,
-    "img": 8290,
-    "imgUrl": "https://www.passalaco.com.br/img/8290.jpg",
+    "_id": 8291,
+    "img": 8291,
+    "imgUrl": "https://www.passalaco.com.br/img/8291.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Thor",
@@ -44237,14 +44307,15 @@
   },
   {
     "nome": "Tigre",
-    "_id": 2206,
-    "img": 2206,
-    "imgUrl": "https://www.passalaco.com.br/img/2206.jpg",
+    "_id": 4052,
+    "img": 4052,
+    "imgUrl": "https://www.passalaco.com.br/img/4052.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Tigre",
@@ -44270,15 +44341,15 @@
   },
   {
     "nome": "Tigresa",
-    "_id": 4670,
-    "img": 4670,
-    "imgUrl": "https://www.passalaco.com.br/img/4670.jpg",
+    "_id": 4671,
+    "img": 4671,
+    "imgUrl": "https://www.passalaco.com.br/img/4671.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Tigresa",
@@ -45080,11 +45151,12 @@
     "_id": 4596,
     "img": 4596,
     "imgUrl": "https://www.passalaco.com.br/img/4596.jpg",
-    "categoria": 2129,
-    "categoriaNome": "Halloween Adulto",
+    "categoria": 3,
+    "categoriaNome": "Vitrine",
     "sexo": "Feminina",
     "tipo": "Adulta",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-07-27 11:13:59",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Vampira",
@@ -45118,6 +45190,18 @@
     "sexo": "Feminina",
     "tipo": "Adulta",
     "criadoEm": "2026-07-27 11:13:59"
+  },
+  {
+    "nome": "Vampira",
+    "_id": 2452,
+    "img": 2452,
+    "imgUrl": "https://www.passalaco.com.br/img/2452.jpg",
+    "categoria": 3,
+    "categoriaNome": "Vitrine",
+    "sexo": "Feminina",
+    "tipo": "Infantil",
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Vampira",
@@ -45311,22 +45395,24 @@
     "_id": 9277,
     "img": 9277,
     "imgUrl": "https://www.passalaco.com.br/img/9277.jpg",
-    "categoria": 2129,
-    "categoriaNome": "Halloween Adulto",
+    "categoria": 3,
+    "categoriaNome": "Vitrine",
     "sexo": "Masculina",
     "tipo": "Adulta",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-07-27 11:13:59",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Vaquinha",
-    "_id": 2286,
-    "img": 2286,
-    "imgUrl": "https://www.passalaco.com.br/img/2286.jpg",
+    "_id": 4734,
+    "img": 4734,
+    "imgUrl": "https://www.passalaco.com.br/img/4734.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Infantil",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Vaquinha 2 Meses",
@@ -45764,15 +45850,15 @@
   },
   {
     "nome": "Wandinha",
-    "_id": 9215,
-    "img": 9215,
-    "imgUrl": "https://www.passalaco.com.br/img/9215.jpg",
+    "_id": 9213,
+    "img": 9213,
+    "imgUrl": "https://www.passalaco.com.br/img/9213.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Wandinha",
@@ -45865,14 +45951,15 @@
   },
   {
     "nome": "Wolverine",
-    "_id": 1407,
-    "img": 1407,
-    "imgUrl": "https://www.passalaco.com.br/img/1407.jpg",
+    "_id": 2536,
+    "img": 2536,
+    "imgUrl": "https://www.passalaco.com.br/img/2536.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-07-27 11:13:59"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Wolverine",
@@ -45942,15 +46029,15 @@
   },
   {
     "nome": "Woody Toy Story",
-    "_id": 1499,
-    "img": 1499,
-    "imgUrl": "https://www.passalaco.com.br/img/1499.jpg",
+    "_id": 2670,
+    "img": 2670,
+    "imgUrl": "https://www.passalaco.com.br/img/2670.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Woody Toy Story",
@@ -45965,27 +46052,27 @@
   },
   {
     "nome": "Woody Toy Story",
-    "_id": 9053,
-    "img": 9053,
-    "imgUrl": "https://www.passalaco.com.br/img/9053.jpg",
+    "_id": 9054,
+    "img": 9054,
+    "imgUrl": "https://www.passalaco.com.br/img/9054.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-07-27 11:13:59",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Woody Toy Story",
-    "_id": 4552,
-    "img": 4552,
-    "imgUrl": "https://www.passalaco.com.br/img/4552.jpg",
+    "_id": 4553,
+    "img": 4553,
+    "imgUrl": "https://www.passalaco.com.br/img/4553.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Woody Toy Story",
@@ -46068,15 +46155,15 @@
   },
   {
     "nome": "Xerife",
-    "_id": 4688,
-    "img": 4688,
-    "imgUrl": "https://www.passalaco.com.br/img/4688.jpg",
+    "_id": 3706,
+    "img": 3706,
+    "imgUrl": "https://www.passalaco.com.br/img/3706.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Feminina",
     "tipo": "Adulta",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Xerife",
@@ -46180,15 +46267,15 @@
   },
   {
     "nome": "Zorro",
-    "_id": 2871,
-    "img": 2871,
-    "imgUrl": "https://www.passalaco.com.br/img/2871.jpg",
+    "_id": 2656,
+    "img": 2656,
+    "imgUrl": "https://www.passalaco.com.br/img/2656.jpg",
     "categoria": 0,
     "categoriaNome": "Outras",
     "sexo": "Masculina",
     "tipo": "Infantil",
-    "criadoEm": "2026-10-19 09:53:45",
-    "atualizadoEm": "2026-10-19 09:53:45"
+    "criadoEm": "2026-10-29 11:20:33",
+    "atualizadoEm": "2026-10-29 11:20:33"
   },
   {
     "nome": "Zorro",
