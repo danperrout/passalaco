@@ -12,6 +12,10 @@
         "url": "https://www.passalaco.com.br",
         "texto": "passalaco.com.br"
     },
+    "catalogo": {
+        "url": "https://www.passalaco.com.br/js/db.js",
+        "imagens": "https://www.passalaco.com.br/img/{id}.jpg"
+    },
     "whatsapp": {
         "numero": "5531988416629",
         "exibicao": "(31) 98841-6629",
