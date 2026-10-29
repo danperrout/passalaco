@@ -1,0 +1,29 @@
+{
+  "id": 10312,
+  "nome_original": "Anos 60",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido com estampa de poá (bolinhas)",
+    "estilo_corte": "estilo baby doll com alças finas e saia rodada",
+    "acessorios_visiveis": [
+      "tiara com laço vermelho",
+      "pulseira branca"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no estilo pin-up ou personagem de desenho animado clássico."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10312.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.92,
+  "data_analise": "2026-10-29T14:31:44Z",
+  "data_criacao": "2026-10-29T11:31:44.902647-03:00"
+}

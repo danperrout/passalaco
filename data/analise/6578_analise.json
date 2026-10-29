@@ -1,0 +1,30 @@
+{
+  "id": 6578,
+  "nome_original": "Morte",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "túnica com capuz",
+      "máscara"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante",
+    "estilo_corte": "túnica longa e solta com mangas amplas",
+    "acessorios_visiveis": [
+      "máscara de Ghostface"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Ghostface da franquia de filmes Pânico."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6578.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 7.76,
+  "data_analise": "2026-10-29T14:34:54Z",
+  "data_criacao": "2026-10-29T11:34:54.762660-03:00"
+}

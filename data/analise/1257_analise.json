@@ -1,0 +1,32 @@
+{
+  "id": 1257,
+  "nome_original": "Safari",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "marrom",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "vestido curto",
+      "sutiã"
+    ],
+    "material_visual": "tecido sintético com detalhes em estampa de onça",
+    "estilo_corte": "estilo safari com botões frontais e saia curta",
+    "acessorios_visiveis": [
+      "chapéu de aba larga",
+      "choker preta"
+    ],
+    "tematica_detalhada": "Fantasia de exploradora ou safari sensual."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1257.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.64,
+  "data_analise": "2026-10-29T14:36:10Z",
+  "data_criacao": "2026-10-29T11:36:10.243245-03:00"
+}

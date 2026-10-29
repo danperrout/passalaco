@@ -1,0 +1,29 @@
+{
+  "id": 10365,
+  "nome_original": "Piloto Ayrton Senna",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "boné"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "ajustado, estilo macacão de corrida",
+    "acessorios_visiveis": [
+      "boné"
+    ],
+    "tematica_detalhada": "Fantasia de piloto de Fórmula 1, inspirada em Ayrton Senna."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10365.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.88,
+  "data_analise": "2026-10-29T14:35:40Z",
+  "data_criacao": "2026-10-29T11:35:40.570031-03:00"
+}

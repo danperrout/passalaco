@@ -1,0 +1,29 @@
+{
+  "id": 4574,
+  "nome_original": "Homem de Lata Magico de Oz",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "túnica",
+      "calças"
+    ],
+    "material_visual": "tecido acetinado com detalhes em glitter/paetês",
+    "estilo_corte": "folgado com ombros estruturados",
+    "acessorios_visiveis": [
+      "chapéu cônico"
+    ],
+    "tematica_detalhada": "Fantasia de cavaleiro ou robô prateado."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4574.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.67,
+  "data_analise": "2026-10-29T14:33:17Z",
+  "data_criacao": "2026-10-29T11:33:17.046094-03:00"
+}

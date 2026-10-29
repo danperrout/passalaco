@@ -1,0 +1,34 @@
+{
+  "id": 8516,
+  "nome_original": "Harry Potter Hermione",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "cinza",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz",
+      "camisa",
+      "saia",
+      "gravata"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "estilo uniforme escolar com capa",
+    "acessorios_visiveis": [
+      "brasão no peito",
+      "gravata"
+    ],
+    "tematica_detalhada": "Fantasia de estudante da casa Grifinória da série Harry Potter."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8516.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.83,
+  "data_analise": "2026-10-29T14:33:09Z",
+  "data_criacao": "2026-10-29T11:33:09.192700-03:00"
+}

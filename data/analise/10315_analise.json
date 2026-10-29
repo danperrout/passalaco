@@ -1,0 +1,29 @@
+{
+  "id": 10315,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com rendas e estampas",
+    "estilo_corte": "estilo lolita com saia curta volumosa e corpete ajustado",
+    "acessorios_visiveis": [
+      "tiara com laços"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no estilo Lolita japonês com temática doce e floral."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10315.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.96,
+  "data_analise": "2026-10-29T14:33:53Z",
+  "data_criacao": "2026-10-29T11:33:53.666106-03:00"
+}

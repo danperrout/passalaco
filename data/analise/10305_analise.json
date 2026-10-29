@@ -1,0 +1,36 @@
+{
+  "id": 10305,
+  "nome_original": "Woody Toy Story",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul",
+      "branco",
+      "vermelho",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "lenço",
+      "colete",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "ajustado ao corpo",
+    "acessorios_visiveis": [
+      "estrela de xerife",
+      "fivela de cinto"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Woody, do filme Toy Story."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10305.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.84,
+  "data_analise": "2026-10-29T14:36:49Z",
+  "data_criacao": "2026-10-29T11:36:49.805456-03:00"
+}

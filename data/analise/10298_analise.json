@@ -1,0 +1,28 @@
+{
+  "id": 10298,
+  "nome_original": "de Repente 30",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul claro",
+      "roxo",
+      "vinho"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "estilo top com alças finas e saia evasê com recortes verticais coloridos",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia colorida com blocos de cores, possivelmente inspirada em personagens de anime ou estilo pop art."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10298.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.25,
+  "data_analise": "2026-10-29T14:32:46Z",
+  "data_criacao": "2026-10-29T11:32:46.681196-03:00"
+}

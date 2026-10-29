@@ -1,0 +1,30 @@
+{
+  "id": 9240,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza",
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com babados e texturas",
+    "estilo_corte": "curto, com busto ajustado e saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "laço na cintura",
+      "tiara/chapéu pequeno"
+    ],
+    "tematica_detalhada": "fantasia inspirada em personagem de estilo lolita ou anime."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9240.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.69,
+  "data_analise": "2026-10-29T14:33:58Z",
+  "data_criacao": "2026-10-29T11:33:58.416379-03:00"
+}

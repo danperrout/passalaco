@@ -1,0 +1,28 @@
+{
+  "id": 7065,
+  "nome_original": "Maria Bonita Blusa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde oliva",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "camisa"
+    ],
+    "material_visual": "tecido sintético ou algodão",
+    "estilo_corte": "corte reto com gola e mangas curtas",
+    "acessorios_visiveis": [
+      "botões"
+    ],
+    "tematica_detalhada": "Fantasia de personagem com vestimenta casual ou uniforme em tom verde."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7065.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.81,
+  "data_analise": "2026-10-29T14:34:28Z",
+  "data_criacao": "2026-10-29T11:34:28.510952-03:00"
+}

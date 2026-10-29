@@ -1,0 +1,30 @@
+{
+  "id": 5949,
+  "nome_original": "Minions",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "vestido jardineira"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "casual",
+    "acessorios_visiveis": [
+      "óculos de proteção",
+      "tiara com fios pretos"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Minion do filme Meu Malvado Favorito."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5949.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.96,
+  "data_analise": "2026-10-29T14:34:43Z",
+  "data_criacao": "2026-10-29T11:34:43.104985-03:00"
+}

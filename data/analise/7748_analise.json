@@ -1,0 +1,28 @@
+{
+  "id": 7748,
+  "nome_original": "Esqueleto",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "túnica com capuz"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "túnica longa sem mangas com barra irregular",
+    "acessorios_visiveis": [
+      "máscara de caveira"
+    ],
+    "tematica_detalhada": "Fantasia de esqueleto ou ceifador."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7748.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.72,
+  "data_analise": "2026-10-29T14:32:53Z",
+  "data_criacao": "2026-10-29T11:32:53.181298-03:00"
+}

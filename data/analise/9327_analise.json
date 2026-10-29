@@ -1,0 +1,29 @@
+{
+  "id": 9327,
+  "nome_original": "Mumia",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "creme"
+    ],
+    "pecas_inclusas": [
+      "faixas para cabeça",
+      "faixas para corpo",
+      "faixas para braços",
+      "faixas para pernas"
+    ],
+    "material_visual": "tecido de gaze ou algodão",
+    "estilo_corte": "envolvente/enfaixado",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia de múmia egípcia."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9327.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.21,
+  "data_analise": "2026-10-29T14:35:04Z",
+  "data_criacao": "2026-10-29T11:35:04.448591-03:00"
+}

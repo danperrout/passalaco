@@ -1,0 +1,32 @@
+{
+  "id": 2801,
+  "nome_original": "Conde Dracula",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calças",
+      "camisa",
+      "gravata"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante",
+    "estilo_corte": "estilo vitoriano com gola alta estruturada",
+    "acessorios_visiveis": [
+      "peruca preta"
+    ],
+    "tematica_detalhada": "Fantasia de vampiro gótico com estampas de caveiras."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2801.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.87,
+  "data_analise": "2026-10-29T14:32:32Z",
+  "data_criacao": "2026-10-29T11:32:32.741403-03:00"
+}

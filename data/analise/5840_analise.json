@@ -1,0 +1,32 @@
+{
+  "id": 5840,
+  "nome_original": "Saia e Blusa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "verde",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "body",
+      "saia"
+    ],
+    "material_visual": "tecido sintético e estampado",
+    "estilo_corte": "body justo e saia curta rodada",
+    "acessorios_visiveis": [
+      "peruca preta",
+      "tiara de flores"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em temática havaiana ou hula."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5840.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.8,
+  "data_analise": "2026-10-29T14:36:12Z",
+  "data_criacao": "2026-10-29T11:36:12.073856-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 10441,
+  "nome_original": "Malévola Luxo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Vitrine",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "capa",
+      "máscara com chifres"
+    ],
+    "material_visual": "tecido com brilho, penas e material sintético rígido",
+    "estilo_corte": "vestido justo com drapeado frontal e alças finas",
+    "acessorios_visiveis": [
+      "máscara de chifres",
+      "gola de penas"
+    ],
+    "tematica_detalhada": "Fantasia de Malévola ou temática de diabinha/bruxa gótica."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10441.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.94,
+  "data_analise": "2026-10-29T14:34:26Z",
+  "data_criacao": "2026-10-29T11:34:26.646239-03:00"
+}

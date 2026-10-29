@@ -1,0 +1,29 @@
+{
+  "id": 8291,
+  "nome_original": "Thor",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul escuro",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capa"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "ajustado ao corpo",
+    "acessorios_visiveis": [
+      "detalhes metálicos ornamentais"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Doutor Estranho."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8291.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.75,
+  "data_analise": "2026-10-29T14:36:33Z",
+  "data_criacao": "2026-10-29T11:36:33.576050-03:00"
+}

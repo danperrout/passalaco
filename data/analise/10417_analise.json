@@ -1,0 +1,31 @@
+{
+  "id": 10417,
+  "nome_original": "Anos 80",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "dourado",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido curto",
+      "luvas longas"
+    ],
+    "material_visual": "tule com glitter e cetim bordado",
+    "estilo_corte": "tomara que caia com saia volumosa",
+    "acessorios_visiveis": [
+      "fascinator vermelho",
+      "colar de pérolas"
+    ],
+    "tematica_detalhada": "Fantasia de gala sofisticada com inspiração em estilo vintage ou cabaret."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10417.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.48,
+  "data_analise": "2026-10-29T14:31:47Z",
+  "data_criacao": "2026-10-29T11:31:47.475156-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 5549,
+  "nome_original": "Chapolin",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "tecido sintético ou plush",
+    "estilo_corte": "estilo kigurumi ou pijama macacão",
+    "acessorios_visiveis": [
+      "antenas com esferas vermelhas"
+    ],
+    "tematica_detalhada": "fantasia de inseto ou criatura estilizada com coração no peito."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5549.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.92,
+  "data_analise": "2026-10-29T14:32:25Z",
+  "data_criacao": "2026-10-29T11:32:25.347738-03:00"
+}

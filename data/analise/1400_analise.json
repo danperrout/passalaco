@@ -1,0 +1,31 @@
+{
+  "id": 1400,
+  "nome_original": "Viuva",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda e tule",
+    "estilo_corte": "vestido curto com decote quadrado e saia rodada",
+    "acessorios_visiveis": [
+      "chapéu com véu",
+      "laços azuis",
+      "ornamento dourado no chapéu"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em estilo gótico ou personagem de época com toque moderno."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1400.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.07,
+  "data_analise": "2026-10-29T14:36:44Z",
+  "data_criacao": "2026-10-29T11:36:44.097026-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 10336,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado",
+    "estilo_corte": "corpete justo com saia curta em camadas de babados",
+    "acessorios_visiveis": [
+      "gargantilha preta",
+      "laço azul no cabelo"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em estilo cosplay ou lolita em tons de azul."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10336.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.87,
+  "data_analise": "2026-10-29T14:33:39Z",
+  "data_criacao": "2026-10-29T11:33:39.212306-03:00"
+}

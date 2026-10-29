@@ -1,0 +1,34 @@
+{
+  "id": 10435,
+  "nome_original": "Chapeleiro Maluco",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "dourado",
+      "rosa",
+      "multicolorido"
+    ],
+    "pecas_inclusas": [
+      "cartola",
+      "camisa",
+      "colete",
+      "calça"
+    ],
+    "material_visual": "tecidos sintéticos com estampas vibrantes e cetim",
+    "estilo_corte": "clássico vitoriano estilizado",
+    "acessorios_visiveis": [
+      "fita rosa na cartola",
+      "peruca laranja"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Chapeleiro Maluco de Alice no País das Maravilhas."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10435.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.05,
+  "data_analise": "2026-10-29T14:32:22Z",
+  "data_criacao": "2026-10-29T11:32:22.691888-03:00"
+}

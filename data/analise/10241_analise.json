@@ -1,0 +1,32 @@
+{
+  "id": 10241,
+  "nome_original": "Rebelde",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "azul marinho"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "camisa",
+      "gravata",
+      "calça"
+    ],
+    "material_visual": "tecido sintético ou poliéster",
+    "estilo_corte": "slim fit",
+    "acessorios_visiveis": [
+      "gravata"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no uniforme de funcionários do Squid Game (Round 6)."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10241.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.99,
+  "data_analise": "2026-10-29T14:36:07Z",
+  "data_criacao": "2026-10-29T11:36:07.293396-03:00"
+}

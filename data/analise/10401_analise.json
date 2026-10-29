@@ -1,0 +1,34 @@
+{
+  "id": 10401,
+  "nome_original": "Anos 50",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "amarelo",
+      "multicolorido"
+    ],
+    "pecas_inclusas": [
+      "top floral",
+      "saia longa",
+      "luvas longas",
+      "chapéu"
+    ],
+    "material_visual": "tecido estampado, veludo ou malha preta, rede/tule",
+    "estilo_corte": "estilo vintage/retrô com cintura marcada e saia lápis",
+    "acessorios_visiveis": [
+      "chapéu com véu",
+      "colar de pérolas"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em moda vintage sofisticada ou personagem elegante de época."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10401.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.7,
+  "data_analise": "2026-10-29T14:31:43Z",
+  "data_criacao": "2026-10-29T11:31:43.852927-03:00"
+}

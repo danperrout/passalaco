@@ -1,0 +1,30 @@
+{
+  "id": 4561,
+  "nome_original": "Thor",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capa"
+    ],
+    "material_visual": "sintético brilhante",
+    "estilo_corte": "ajustado ao corpo",
+    "acessorios_visiveis": [
+      "detalhes circulares no peito"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em super-herói ou personagem futurista."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4561.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.19,
+  "data_analise": "2026-10-29T14:36:32Z",
+  "data_criacao": "2026-10-29T11:36:32.707090-03:00"
+}

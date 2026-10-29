@@ -1,0 +1,30 @@
+{
+  "id": 2452,
+  "nome_original": "Vampira",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Vitrine",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "capa com capuz",
+      "vestido curto"
+    ],
+    "material_visual": "cetim e renda",
+    "estilo_corte": "estilo gótico/vitoriano com corpete ajustado e saia rodada",
+    "acessorios_visiveis": [
+      "laço de amarração no pescoço",
+      "detalhes de cadarço no busto"
+    ],
+    "tematica_detalhada": "Versão estilizada e gótica da personagem Chapeuzinho Vermelho."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2452.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.82,
+  "data_analise": "2026-10-29T14:36:39Z",
+  "data_criacao": "2026-10-29T11:36:39.404749-03:00"
+}

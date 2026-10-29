@@ -1,0 +1,28 @@
+{
+  "id": 10002,
+  "nome_original": "Mascote Stitch",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Mascotes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul escuro",
+      "azul claro",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara/cabeça"
+    ],
+    "material_visual": "pelúcia",
+    "estilo_corte": "corpo inteiro (kigurumi/mascote)",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia do personagem Stitch, do filme Lilo & Stitch."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10002.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.89,
+  "data_analise": "2026-10-29T14:34:33Z",
+  "data_criacao": "2026-10-29T11:34:33.963344-03:00"
+}

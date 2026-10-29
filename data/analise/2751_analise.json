@@ -1,0 +1,29 @@
+{
+  "id": 2751,
+  "nome_original": "Astronauta",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "capacete",
+      "jaqueta",
+      "calça"
+    ],
+    "material_visual": "tecido acetinado reflexivo",
+    "estilo_corte": "folgado",
+    "acessorios_visiveis": [
+      "bandeira do Brasil"
+    ],
+    "tematica_detalhada": "Fantasia de astronauta com representação da nacionalidade brasileira."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2751.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.73,
+  "data_analise": "2026-10-29T14:31:53Z",
+  "data_criacao": "2026-10-29T11:31:53.085233-03:00"
+}

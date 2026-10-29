@@ -1,0 +1,25 @@
+{
+  "id": 7052,
+  "nome_original": "Maria Bonita Saia",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "saia"
+    ],
+    "material_visual": "tecido rústico",
+    "estilo_corte": "evasê com cós elástico e barra desfiada",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "fantasia de estilo camponês, medieval ou tribal."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7052.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.86,
+  "data_analise": "2026-10-29T14:34:29Z",
+  "data_criacao": "2026-10-29T11:34:29.462763-03:00"
+}

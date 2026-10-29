@@ -1,0 +1,34 @@
+{
+  "id": 10434,
+  "nome_original": "Chapeleira Maluca",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "azul",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "cartola",
+      "camisa",
+      "colete",
+      "saia"
+    ],
+    "material_visual": "tecidos sintéticos com brilho e texturas variadas",
+    "estilo_corte": "estilo vitoriano estilizado com saia curta e volumosa",
+    "acessorios_visiveis": [
+      "laço azul grande",
+      "cartola decorada"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Chapeleiro Maluco de Alice no País das Maravilhas."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10434.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.89,
+  "data_analise": "2026-10-29T14:32:21Z",
+  "data_criacao": "2026-10-29T11:32:21.533149-03:00"
+}

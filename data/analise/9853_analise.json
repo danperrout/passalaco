@@ -1,0 +1,31 @@
+{
+  "id": 9853,
+  "nome_original": "Gaucha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "blusa branca",
+      "saia vermelha",
+      "lenço vermelho"
+    ],
+    "material_visual": "tecido sintético ou algodão",
+    "estilo_corte": "blusa com mangas bufantes e saia longa rodada",
+    "acessorios_visiveis": [
+      "cinto preto"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em trajes típicos camponeses ou folclóricos europeus."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9853.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.9,
+  "data_analise": "2026-10-29T14:33:04Z",
+  "data_criacao": "2026-10-29T11:33:04.844297-03:00"
+}

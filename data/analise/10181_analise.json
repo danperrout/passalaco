@@ -1,0 +1,32 @@
+{
+  "id": 10181,
+  "nome_original": "She-ra",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa",
+      "capacete"
+    ],
+    "material_visual": "tecido sintético com detalhes metálicos",
+    "estilo_corte": "vestido curto com saia evasê e capa longa",
+    "acessorios_visiveis": [
+      "capacete com chifres",
+      "braceletes dourados"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Jane Foster como a Poderosa Thor."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10181.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.06,
+  "data_analise": "2026-10-29T14:36:15Z",
+  "data_criacao": "2026-10-29T11:36:15.992464-03:00"
+}

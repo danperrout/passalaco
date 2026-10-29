@@ -1,0 +1,34 @@
+{
+  "id": 4416,
+  "nome_original": "Lanterna Verde",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia",
+      "máscara",
+      "braceletes",
+      "botas"
+    ],
+    "material_visual": "tecido sintético com brilho, possivelmente elastano ou couro sintético",
+    "estilo_corte": "estilo ciganinha no busto com saia curta plissada",
+    "acessorios_visiveis": [
+      "máscara de herói",
+      "braceletes",
+      "botas"
+    ],
+    "tematica_detalhada": "Versão feminina inspirada no personagem Lanterna Verde da DC Comics."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4416.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.95,
+  "data_analise": "2026-10-29T14:34:17Z",
+  "data_criacao": "2026-10-29T11:34:17.368393-03:00"
+}

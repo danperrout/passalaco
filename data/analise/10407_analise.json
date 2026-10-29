@@ -1,0 +1,32 @@
+{
+  "id": 10407,
+  "nome_original": "Cigana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "verde",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia",
+      "faixa de cintura"
+    ],
+    "material_visual": "tecido fluido com detalhes em lantejoulas e contas",
+    "estilo_corte": "blusa com mangas bufantes e saia longa e ampla",
+    "acessorios_visiveis": [
+      "tiara de contas",
+      "bracelete"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em dança do ventre ou estilo cigano."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10407.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.91,
+  "data_analise": "2026-10-29T14:32:27Z",
+  "data_criacao": "2026-10-29T11:32:27.484334-03:00"
+}

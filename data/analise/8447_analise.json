@@ -1,0 +1,33 @@
+{
+  "id": 8447,
+  "nome_original": "Indio",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "verde",
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "cocar",
+      "braceletes",
+      "saia"
+    ],
+    "material_visual": "franjas sintéticas e penas",
+    "estilo_corte": "estilo tribal com saia de franjas",
+    "acessorios_visiveis": [
+      "colar de contas com penas",
+      "braceletes com penas",
+      "cocar com penas"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em temática indígena ou tribal."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8447.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.92,
+  "data_analise": "2026-10-29T14:33:23Z",
+  "data_criacao": "2026-10-29T11:33:23.309243-03:00"
+}

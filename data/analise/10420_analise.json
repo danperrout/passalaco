@@ -1,0 +1,30 @@
+{
+  "id": 10420,
+  "nome_original": "Caçadora de Vampiro",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "capa",
+      "corset",
+      "calças"
+    ],
+    "material_visual": "couro sintético ou vinil",
+    "estilo_corte": "ajustado ao corpo com detalhes de amarração",
+    "acessorios_visiveis": [
+      "broche decorativo na gola"
+    ],
+    "tematica_detalhada": "Fantasia de estilo gótico ou steampunk com inspiração em bruxa moderna."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10420.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.98,
+  "data_analise": "2026-10-29T14:32:02Z",
+  "data_criacao": "2026-10-29T11:32:02.899461-03:00"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 4505,
+  "nome_original": "Morte",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica com capuz"
+    ],
+    "material_visual": "tecido fosco",
+    "estilo_corte": "longo com extremidades rasgadas e irregulares",
+    "acessorios_visiveis": [
+      "cinto de tecido"
+    ],
+    "tematica_detalhada": "Fantasia de ceifador ou figura sombria da morte."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4505.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.81,
+  "data_analise": "2026-10-29T14:34:46Z",
+  "data_criacao": "2026-10-29T11:34:46.896442-03:00"
+}

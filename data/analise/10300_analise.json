@@ -1,0 +1,29 @@
+{
+  "id": 10300,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com babados",
+    "estilo_corte": "estilo lolita com saia curta volumosa e top justo",
+    "acessorios_visiveis": [
+      "lacinhos de cabelo"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em personagem de anime ou estilo gothic lolita em tons de azul e preto."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10300.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.83,
+  "data_analise": "2026-10-29T14:33:38Z",
+  "data_criacao": "2026-10-29T11:33:38.226722-03:00"
+}

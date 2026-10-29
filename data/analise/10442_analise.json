@@ -1,0 +1,29 @@
+{
+  "id": 10442,
+  "nome_original": "Indiana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vinho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "véu",
+      "saia curta assimétrica"
+    ],
+    "material_visual": "renda e tecido translúcido",
+    "estilo_corte": "estilo árabe com corte assimétrico na saia",
+    "acessorios_visiveis": [
+      "tiara dourada"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em dançarina do ventre ou temática árabe."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10442.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.83,
+  "data_analise": "2026-10-29T14:33:22Z",
+  "data_criacao": "2026-10-29T11:33:22.253129-03:00"
+}

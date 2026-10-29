@@ -1,0 +1,28 @@
+{
+  "id": 10352,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido xadrez (vichy)",
+    "estilo_corte": "tomara que caia com babados em camadas",
+    "acessorios_visiveis": [
+      "chapéu pequeno com fita"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Alice no País das Maravilhas."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10352.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.92,
+  "data_analise": "2026-10-29T14:33:47Z",
+  "data_criacao": "2026-10-29T11:33:47.818504-03:00"
+}

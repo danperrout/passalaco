@@ -1,0 +1,28 @@
+{
+  "id": 9744,
+  "nome_original": "Hulk",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "cinza escuro"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "blusa de manga longa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético elástico",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia do personagem Hulk da Marvel."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9744.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.7,
+  "data_analise": "2026-10-29T14:33:18Z",
+  "data_criacao": "2026-10-29T11:33:18.127931-03:00"
+}

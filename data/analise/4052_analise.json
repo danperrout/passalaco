@@ -1,0 +1,29 @@
+{
+  "id": 4052,
+  "nome_original": "Tigre",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "pelúcia ou fleece",
+    "estilo_corte": "oversized / macacão",
+    "acessorios_visiveis": [
+      "capuz com cabeça de tigre"
+    ],
+    "tematica_detalhada": "Fantasia de tigre."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4052.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.76,
+  "data_analise": "2026-10-29T14:36:35Z",
+  "data_criacao": "2026-10-29T11:36:35.367632-03:00"
+}

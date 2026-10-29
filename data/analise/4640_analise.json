@@ -1,0 +1,35 @@
+{
+  "id": 4640,
+  "nome_original": "Jack Sparrow",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "bandana",
+      "camisa",
+      "colete",
+      "calça",
+      "botas"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "estilo colonial/aventureiro",
+    "acessorios_visiveis": [
+      "bandana",
+      "cinto largo com fivelas douradas",
+      "faixa na cintura"
+    ],
+    "tematica_detalhada": "Fantasia de pirata clássico."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4640.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.75,
+  "data_analise": "2026-10-29T14:33:30Z",
+  "data_criacao": "2026-10-29T11:33:30.711831-03:00"
+}

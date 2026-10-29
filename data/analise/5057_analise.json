@@ -1,0 +1,27 @@
+{
+  "id": 5057,
+  "nome_original": "Macaco",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "túnica com capuz"
+    ],
+    "material_visual": "pelúcia",
+    "estilo_corte": "oversized / solto",
+    "acessorios_visiveis": [
+      "laço de amarração no pescoço"
+    ],
+    "tematica_detalhada": "fantasia de animal, possivelmente um urso ou criatura peluda."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5057.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.91,
+  "data_analise": "2026-10-29T14:34:24Z",
+  "data_criacao": "2026-10-29T11:34:24.640311-03:00"
+}

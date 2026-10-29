@@ -1,0 +1,31 @@
+{
+  "id": 1548,
+  "nome_original": "Presidiario",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido",
+    "estilo_corte": "folgado",
+    "acessorios_visiveis": [
+      "chapéu",
+      "número de identificação no peito"
+    ],
+    "tematica_detalhada": "Fantasia de prisioneiro clássico com listras horizontais."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1548.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.78,
+  "data_analise": "2026-10-29T14:35:58Z",
+  "data_criacao": "2026-10-29T11:35:58.881094-03:00"
+}

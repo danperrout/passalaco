@@ -1,0 +1,33 @@
+{
+  "id": 5299,
+  "nome_original": "Guarda da Rainha",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com brilho",
+    "estilo_corte": "estilo militar com gola alta e fechamento frontal",
+    "acessorios_visiveis": [
+      "corrente dourada",
+      "botões decorativos",
+      "ombreiras"
+    ],
+    "tematica_detalhada": "Fantasia de guarda real ou personagem militar estilizado."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5299.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.85,
+  "data_analise": "2026-10-29T14:33:07Z",
+  "data_criacao": "2026-10-29T11:33:07.040812-03:00"
+}

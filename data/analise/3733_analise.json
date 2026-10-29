@@ -1,0 +1,31 @@
+{
+  "id": 3733,
+  "nome_original": "Mosquito da Dengue",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "blusa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "folgado",
+    "acessorios_visiveis": [
+      "máscara de bico",
+      "asas"
+    ],
+    "tematica_detalhada": "Fantasia de corvo ou pássaro preto."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3733.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.07,
+  "data_analise": "2026-10-29T14:34:58Z",
+  "data_criacao": "2026-10-29T11:34:58.768460-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 10174,
+  "nome_original": "It a Coisa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Vitrine",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "blusa com babados",
+      "saia curta",
+      "calça"
+    ],
+    "material_visual": "cetim ou poliéster sintético",
+    "estilo_corte": "estilo palhaço com babados e volume",
+    "acessorios_visiveis": [
+      "pompons vermelhos",
+      "gola de babados"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Pennywise, o palhaço do filme 'It: A Coisa'."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10174.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.33,
+  "data_analise": "2026-10-29T14:33:24Z",
+  "data_criacao": "2026-10-29T11:33:24.857781-03:00"
+}

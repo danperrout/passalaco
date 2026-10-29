@@ -1,0 +1,30 @@
+{
+  "id": 5316,
+  "nome_original": "Camponesa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "avental"
+    ],
+    "material_visual": "tecido sintético ou algodão com detalhes em renda",
+    "estilo_corte": "estilo camponesa europeia (dirndl)",
+    "acessorios_visiveis": [
+      "guirlanda de flores",
+      "peruca loira"
+    ],
+    "tematica_detalhada": "Fantasia de camponesa alemã ou personagem de contos de fadas como a Branca de Neve."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5316.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.99,
+  "data_analise": "2026-10-29T14:32:06Z",
+  "data_criacao": "2026-10-29T11:32:06.608776-03:00"
+}

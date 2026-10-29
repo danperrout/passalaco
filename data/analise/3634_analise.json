@@ -1,0 +1,28 @@
+{
+  "id": 3634,
+  "nome_original": "Ursinho Pooh",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "capuz",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "pelúcia ou fleece",
+    "estilo_corte": "folgado/estilo pijama",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia do personagem Ursinho Pooh."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3634.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.79,
+  "data_analise": "2026-10-29T14:36:38Z",
+  "data_criacao": "2026-10-29T11:36:38.248672-03:00"
+}

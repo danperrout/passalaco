@@ -1,0 +1,29 @@
+{
+  "id": 10338,
+  "nome_original": "Junina Saia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com babados e estampas de bolinhas",
+    "estilo_corte": "ajustado no busto com saia volumosa em camadas (estilo tutu)",
+    "acessorios_visiveis": [
+      "tiara decorada com flor e fitas"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em dançarina de flamenco ou estilo espanhol."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10338.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 6.64,
+  "data_analise": "2026-10-29T14:34:10Z",
+  "data_criacao": "2026-10-29T11:34:10.844942-03:00"
+}

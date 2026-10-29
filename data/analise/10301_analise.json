@@ -1,0 +1,28 @@
+{
+  "id": 10301,
+  "nome_original": "Barbie",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido com estampa xadrez (vichy)",
+    "estilo_corte": "tomara que caia com saia rodada e cintura marcada",
+    "acessorios_visiveis": [
+      "colar de pérolas"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Glinda, a Bruxa Boa do Sul, de 'O Mágico de Oz'."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10301.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.21,
+  "data_analise": "2026-10-29T14:31:54Z",
+  "data_criacao": "2026-10-29T11:31:54.415994-03:00"
+}

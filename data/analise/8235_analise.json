@@ -1,0 +1,30 @@
+{
+  "id": 8235,
+  "nome_original": "Luiggi",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "macacão",
+      "boné"
+    ],
+    "material_visual": "tecido sintético ou algodão",
+    "estilo_corte": "folgado",
+    "acessorios_visiveis": [
+      "botões amarelos no macacão"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Mario, da franquia Super Mario."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8235.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.83,
+  "data_analise": "2026-10-29T14:34:23Z",
+  "data_criacao": "2026-10-29T11:34:23.608703-03:00"
+}

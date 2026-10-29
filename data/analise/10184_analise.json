@@ -1,0 +1,29 @@
+{
+  "id": 10184,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "azul royal",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido estampado com renda",
+    "estilo_corte": "estilo babado com decote ombro a ombro e saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "laço de cabelo"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em estilo lolita ou boneca com estampa floral azul e branca."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10184.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.81,
+  "data_analise": "2026-10-29T14:34:00Z",
+  "data_criacao": "2026-10-29T11:34:00.665083-03:00"
+}

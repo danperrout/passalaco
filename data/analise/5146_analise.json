@@ -1,0 +1,35 @@
+{
+  "id": 5146,
+  "nome_original": "Jack Sparrow",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "marrom",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "casaco",
+      "colete",
+      "calça",
+      "faixa de cintura"
+    ],
+    "material_visual": "tecido sintético com aparência de camurça e algodão",
+    "estilo_corte": "estilo colonial com corte reto e folgado",
+    "acessorios_visiveis": [
+      "lenço vermelho",
+      "gravata borboleta estampada",
+      "peruca com dreadlocks"
+    ],
+    "tematica_detalhada": "Fantasia de pirata clássico."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5146.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.72,
+  "data_analise": "2026-10-29T14:33:27Z",
+  "data_criacao": "2026-10-29T11:33:27.833281-03:00"
+}

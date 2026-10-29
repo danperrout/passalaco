@@ -1,0 +1,28 @@
+{
+  "id": 10274,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com estampa xadrez e detalhes em renda",
+    "estilo_corte": "estilo maid/lolita com saia rodada e mangas bufantes",
+    "acessorios_visiveis": [
+      "tiara com laço"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em camareira (maid) ou estilo lolita japonesa."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10274.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.92,
+  "data_analise": "2026-10-29T14:33:55Z",
+  "data_criacao": "2026-10-29T11:33:55.608965-03:00"
+}

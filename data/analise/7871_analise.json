@@ -1,0 +1,31 @@
+{
+  "id": 7871,
+  "nome_original": "Tronco Trolls",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "verde",
+      "marrom",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "capuz",
+      "colete",
+      "calça",
+      "blusa de manga longa"
+    ],
+    "material_visual": "tecido sintético com aplicações de folhas",
+    "estilo_corte": "ajustado ao corpo com camadas sobrepostas",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia inspirada em elementos da natureza ou personagem florestal."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7871.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.87,
+  "data_analise": "2026-10-29T14:36:37Z",
+  "data_criacao": "2026-10-29T11:36:37.344219-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 5576,
+  "nome_original": "Zorro",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "camisa",
+      "calça",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "clássico com detalhes ornamentais",
+    "acessorios_visiveis": [
+      "máscara",
+      "chapéu de aba larga"
+    ],
+    "tematica_detalhada": "Fantasia de mosqueteiro ou nobre mascarado para baile de gala."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5576.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.0,
+  "data_analise": "2026-10-29T14:36:53Z",
+  "data_criacao": "2026-10-29T11:36:53.016229-03:00"
+}

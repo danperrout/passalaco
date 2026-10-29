@@ -1,0 +1,33 @@
+{
+  "id": 10177,
+  "nome_original": "Soldado Romano",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Gregas/Romanos",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "cinza",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "capa",
+      "túnica",
+      "saia",
+      "capacete"
+    ],
+    "material_visual": "tecido sintético e plástico moldado",
+    "estilo_corte": "túnica curta com capa longa",
+    "acessorios_visiveis": [
+      "capacete romano",
+      "cinto"
+    ],
+    "tematica_detalhada": "Fantasia de soldado ou centurião romano."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10177.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.02,
+  "data_analise": "2026-10-29T14:36:21Z",
+  "data_criacao": "2026-10-29T11:36:21.096469-03:00"
+}

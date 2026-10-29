@@ -1,0 +1,33 @@
+{
+  "id": 10389,
+  "nome_original": "Power Ranger Rosa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "branco",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "blusa",
+      "saia",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com textura canelada ou brilhante",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "cinto com fivela dourada",
+      "luvas brancas"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em super-herói ou personagem de Power Rangers na cor roxa."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10389.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.94,
+  "data_analise": "2026-10-29T14:35:49Z",
+  "data_criacao": "2026-10-29T11:35:49.574646-03:00"
+}

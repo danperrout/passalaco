@@ -1,0 +1,31 @@
+{
+  "id": 5328,
+  "nome_original": "Galinha Pintadinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "peruca"
+    ],
+    "material_visual": "tecido sintético e tule",
+    "estilo_corte": "vestido curto com saia volumosa em camadas e cintura marcada",
+    "acessorios_visiveis": [
+      "laço vermelho na cintura",
+      "flor vermelha no cabelo"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Minnie Mouse."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5328.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.78,
+  "data_analise": "2026-10-29T14:33:03Z",
+  "data_criacao": "2026-10-29T11:33:03.826169-03:00"
+}

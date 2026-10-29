@@ -1,0 +1,29 @@
+{
+  "id": 10325,
+  "nome_original": "Junina Saia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "body",
+      "saia de tule"
+    ],
+    "material_visual": "tule e tecido sintético",
+    "estilo_corte": "ajustado no busto com saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "laço de cabelo"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em estilo gótico lolita ou personagem de dança temática."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10325.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.02,
+  "data_analise": "2026-10-29T14:34:11Z",
+  "data_criacao": "2026-10-29T11:34:11.988594-03:00"
+}

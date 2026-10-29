@@ -1,0 +1,29 @@
+{
+  "id": 1186,
+  "nome_original": "Power Rangers",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "macacão"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "ajustado ao corpo",
+    "acessorios_visiveis": [
+      "cinto"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Ranger Amarelo da série Power Rangers."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1186.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.77,
+  "data_analise": "2026-10-29T14:35:52Z",
+  "data_criacao": "2026-10-29T11:35:52.402707-03:00"
+}

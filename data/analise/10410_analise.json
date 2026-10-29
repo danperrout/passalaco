@@ -1,0 +1,30 @@
+{
+  "id": 10410,
+  "nome_original": "Moana 2",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "vinho"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia"
+    ],
+    "material_visual": "tecido com texturas, bordados e franjas",
+    "estilo_corte": "estilo tribal ou étnico com camadas",
+    "acessorios_visiveis": [
+      "colar com pedra azul"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em trajes tribais ou folclóricos com elementos artesanais."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10410.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.75,
+  "data_analise": "2026-10-29T14:34:45Z",
+  "data_criacao": "2026-10-29T11:34:45.969650-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 10288,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "saia curta"
+    ],
+    "material_visual": "tecido sintético com acabamento em renda ou babados",
+    "estilo_corte": "estilo cropped com decote em V e saia curta em camadas (babados)",
+    "acessorios_visiveis": [
+      "tiara/faixa de cabelo com detalhe lateral"
+    ],
+    "tematica_detalhada": "Fantasia inspirada nas cores do Brasil ou em danças folclóricas latinas."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10288.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.56,
+  "data_analise": "2026-10-29T14:33:49Z",
+  "data_criacao": "2026-10-29T11:33:49.501163-03:00"
+}

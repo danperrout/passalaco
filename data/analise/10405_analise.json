@@ -1,0 +1,32 @@
+{
+  "id": 10405,
+  "nome_original": "Mexicana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Paises",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "laranja",
+      "vermelho",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "xale com franjas"
+    ],
+    "material_visual": "tecido com estampas florais e bordados",
+    "estilo_corte": "solto e fluido",
+    "acessorios_visiveis": [
+      "tiara de flores",
+      "colar de contas vermelhas"
+    ],
+    "tematica_detalhada": "Traje típico inspirado na cultura folclórica mexicana."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10405.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.11,
+  "data_analise": "2026-10-29T14:34:38Z",
+  "data_criacao": "2026-10-29T11:34:38.899378-03:00"
+}

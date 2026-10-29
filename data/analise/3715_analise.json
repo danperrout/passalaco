@@ -1,0 +1,32 @@
+{
+  "id": 3715,
+  "nome_original": "Coringa",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "verde",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "sobretudo",
+      "camisa",
+      "calça",
+      "gravata"
+    ],
+    "material_visual": "tecido sintético com brilho",
+    "estilo_corte": "sobretudo longo com lapelas",
+    "acessorios_visiveis": [
+      "gravata"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Willy Wonka."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3715.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.81,
+  "data_analise": "2026-10-29T14:32:38Z",
+  "data_criacao": "2026-10-29T11:32:38.102729-03:00"
+}

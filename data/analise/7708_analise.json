@@ -1,0 +1,31 @@
+{
+  "id": 7708,
+  "nome_original": "Super Homem",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capa"
+    ],
+    "material_visual": "tecido sintético com textura brilhante/estriada",
+    "estilo_corte": "ajustado ao corpo",
+    "acessorios_visiveis": [
+      "cinto",
+      "emblema no peito"
+    ],
+    "tematica_detalhada": "Fantasia do super-herói Superman."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7708.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.82,
+  "data_analise": "2026-10-29T14:36:23Z",
+  "data_criacao": "2026-10-29T11:36:23.713996-03:00"
+}

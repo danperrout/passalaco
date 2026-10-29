@@ -1,0 +1,27 @@
+{
+  "id": 10373,
+  "nome_original": "Hulk",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "macacão"
+    ],
+    "material_visual": "tecido sintético elástico (lycra/spandex)",
+    "estilo_corte": "ajustado ao corpo (slim fit) com musculatura simulada",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia inspirada no personagem Goblin ou criatura monstruosa verde."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10373.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.89,
+  "data_analise": "2026-10-29T14:33:19Z",
+  "data_criacao": "2026-10-29T11:33:19.142764-03:00"
+}

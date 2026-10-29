@@ -1,0 +1,32 @@
+{
+  "id": 10438,
+  "nome_original": "Condessa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Vitrine",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa",
+      "chapéu com véu",
+      "luvas"
+    ],
+    "material_visual": "tule, renda e tecido sintético",
+    "estilo_corte": "vestido curto com capa longa e fluida",
+    "acessorios_visiveis": [
+      "chapéu com plumas e véu",
+      "luvas douradas ornamentadas"
+    ],
+    "tematica_detalhada": "Fantasia de estilo gótico elegante ou viúva sofisticada."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10438.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.85,
+  "data_analise": "2026-10-29T14:32:34Z",
+  "data_criacao": "2026-10-29T11:32:34.978063-03:00"
+}

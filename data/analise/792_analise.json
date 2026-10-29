@@ -1,0 +1,32 @@
+{
+  "id": 792,
+  "nome_original": "Lanterninha",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "jaqueta",
+      "calça"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "uniforme estruturado",
+    "acessorios_visiveis": [
+      "botões dourados",
+      "cordão decorativo dourado"
+    ],
+    "tematica_detalhada": "Fantasia de mensageiro ou carregador de hotel (bellhop)."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/792.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.05,
+  "data_analise": "2026-10-29T14:34:20Z",
+  "data_criacao": "2026-10-29T11:34:20.803191-03:00"
+}

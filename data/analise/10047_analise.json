@@ -1,0 +1,30 @@
+{
+  "id": 10047,
+  "nome_original": "Esqueleto",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Halloween Infantil",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "macacão"
+    ],
+    "material_visual": "tecido sintético com estampa",
+    "estilo_corte": "ajustado ao corpo",
+    "acessorios_visiveis": [
+      "máscara de caveira"
+    ],
+    "tematica_detalhada": "Esqueleto humano estilizado em tons de azul."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10047.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.71,
+  "data_analise": "2026-10-29T14:32:55Z",
+  "data_criacao": "2026-10-29T11:32:55.250628-03:00"
+}

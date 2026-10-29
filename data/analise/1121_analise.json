@@ -1,0 +1,31 @@
+{
+  "id": 1121,
+  "nome_original": "Pequeno Polegar",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "marrom",
+      "azul marinho"
+    ],
+    "pecas_inclusas": [
+      "gorro",
+      "túnica",
+      "calça"
+    ],
+    "material_visual": "tecido sintético fosco",
+    "estilo_corte": "simples e reto",
+    "acessorios_visiveis": [
+      "gorro pontudo"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Pinóquio."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1121.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.31,
+  "data_analise": "2026-10-29T14:35:37Z",
+  "data_criacao": "2026-10-29T11:35:37.178290-03:00"
+}

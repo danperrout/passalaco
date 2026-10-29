@@ -1,0 +1,30 @@
+{
+  "id": 9934,
+  "nome_original": "Anos 70",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Anos 60 e 70",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "azul",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido com estampas florais e bordados",
+    "estilo_corte": "conjunto relaxado com camisa de manga curta e calça reta",
+    "acessorios_visiveis": [
+      "bandana"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em trajes tradicionais orientais ou folclóricos com ornamentos florais."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9934.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.88,
+  "data_analise": "2026-10-29T14:31:45Z",
+  "data_criacao": "2026-10-29T11:31:45.888736-03:00"
+}

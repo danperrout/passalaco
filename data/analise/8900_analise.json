@@ -1,0 +1,29 @@
+{
+  "id": 8900,
+  "nome_original": "Frankie Stein",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul escuro",
+      "azul claro",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido estampado com textura de xadrez ou quadriculado",
+    "estilo_corte": "estilo princesa com saia volumosa e decote assimétrico",
+    "acessorios_visiveis": [
+      "cinto de strass/brilho"
+    ],
+    "tematica_detalhada": "fantasia estilizada com inspiração em moda contemporânea ou personagem fictício."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8900.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.03,
+  "data_analise": "2026-10-29T14:33:00Z",
+  "data_criacao": "2026-10-29T11:33:00.525147-03:00"
+}

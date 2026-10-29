@@ -1,0 +1,28 @@
+{
+  "id": 2328,
+  "nome_original": "Guardiã da Floresta",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "verde oliva"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido com lantejoulas e aplicações de pétalas de tecido",
+    "estilo_corte": "curto, com alças finas e saia volumosa",
+    "acessorios_visiveis": [
+      "choker/coleira preta"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em natureza, possivelmente uma fada ou flor."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2328.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.04,
+  "data_analise": "2026-10-29T14:33:08Z",
+  "data_criacao": "2026-10-29T11:33:08.219326-03:00"
+}

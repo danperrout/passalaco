@@ -1,0 +1,32 @@
+{
+  "id": 10408,
+  "nome_original": "Dança do Ventre",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Danças",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "top",
+      "saia longa",
+      "véu"
+    ],
+    "material_visual": "tecido com bordados de lantejoulas e detalhes metálicos",
+    "estilo_corte": "estilo dança do ventre, com top curto e saia fluida",
+    "acessorios_visiveis": [
+      "tiara de testa",
+      "colar",
+      "cinto ornamentado"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em dançarina do ventre ou personagem de temática árabe/oriental."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10408.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.67,
+  "data_analise": "2026-10-29T14:32:45Z",
+  "data_criacao": "2026-10-29T11:32:45.301381-03:00"
+}

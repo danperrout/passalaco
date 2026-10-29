@@ -1,0 +1,34 @@
+{
+  "id": 10416,
+  "nome_original": "Patrulha Canina Skye",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "roxo",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "blusa",
+      "saia",
+      "calça",
+      "botas"
+    ],
+    "material_visual": "tecido sintético brilhante e tule",
+    "estilo_corte": "ajustado com saia rodada",
+    "acessorios_visiveis": [
+      "chapéu com detalhes decorativos",
+      "colete estilizado"
+    ],
+    "tematica_detalhada": "Fantasia infantil inspirada na personagem My Little Pony."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10416.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.87,
+  "data_analise": "2026-10-29T14:35:33Z",
+  "data_criacao": "2026-10-29T11:35:33.848355-03:00"
+}

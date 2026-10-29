@@ -1,0 +1,34 @@
+{
+  "id": 6081,
+  "nome_original": "Batgirl",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "vestido",
+      "luvas",
+      "botas",
+      "capa"
+    ],
+    "material_visual": "material sintético com brilho, semelhante a couro ou vinil",
+    "estilo_corte": "vestido curto com bainha irregular e decote redondo",
+    "acessorios_visiveis": [
+      "máscara com orelhas pontudas",
+      "luvas com barbatanas",
+      "botas cano alto"
+    ],
+    "tematica_detalhada": "Fantasia feminina inspirada no personagem Batman."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6081.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.87,
+  "data_analise": "2026-10-29T14:31:56Z",
+  "data_criacao": "2026-10-29T11:31:56.396924-03:00"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 10432,
+  "nome_original": "Viúva",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "vestido",
+      "casaco longo"
+    ],
+    "material_visual": "renda, cetim e tule",
+    "estilo_corte": "ajustado com sobreposição de robe longo",
+    "acessorios_visiveis": [
+      "véu de rede",
+      "chapéu ornamentado"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em uma bruxa elegante ou viúva gótica."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10432.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.84,
+  "data_analise": "2026-10-29T14:36:45Z",
+  "data_criacao": "2026-10-29T11:36:45.046275-03:00"
+}

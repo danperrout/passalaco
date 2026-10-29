@@ -1,0 +1,27 @@
+{
+  "id": 3524,
+  "nome_original": "Paleto",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "paletó"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "corte reto, blazer",
+    "acessorios_visiveis": [
+      "peruca preta"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem The Mask (O Máscara)."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3524.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.08,
+  "data_analise": "2026-10-29T14:35:16Z",
+  "data_criacao": "2026-10-29T11:35:16.804790-03:00"
+}

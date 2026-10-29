@@ -1,0 +1,27 @@
+{
+  "id": 7620,
+  "nome_original": "Suspensorio",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja"
+    ],
+    "pecas_inclusas": [
+      "suspensórios"
+    ],
+    "material_visual": "tecido sintético elástico",
+    "estilo_corte": "estilo clássico em Y",
+    "acessorios_visiveis": [
+      "presilhas metálicas"
+    ],
+    "tematica_detalhada": "Acessório de vestuário, possivelmente para fantasias de operário ou sinalização de segurança."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7620.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.74,
+  "data_analise": "2026-10-29T14:36:26Z",
+  "data_criacao": "2026-10-29T11:36:26.827034-03:00"
+}

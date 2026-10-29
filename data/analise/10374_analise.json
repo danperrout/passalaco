@@ -1,0 +1,31 @@
+{
+  "id": 10374,
+  "nome_original": "Marinheira",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Plus Size",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul marinho",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com detalhes em renda e cetim",
+    "estilo_corte": "estilo marinheiro com saia rodada e cintura marcada",
+    "acessorios_visiveis": [
+      "cinto branco com fivela dourada",
+      "botões dourados"
+    ],
+    "tematica_detalhada": "Fantasia temática de marinheira ou capitã estilizada."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10374.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.23,
+  "data_analise": "2026-10-29T14:34:30Z",
+  "data_criacao": "2026-10-29T11:34:30.808264-03:00"
+}

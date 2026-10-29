@@ -1,0 +1,29 @@
+{
+  "id": 10381,
+  "nome_original": "Mulher Aranha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul marinho",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "macacão integral com capuz"
+    ],
+    "material_visual": "lycra ou elastano",
+    "estilo_corte": "ajustado ao corpo (skinny)",
+    "acessorios_visiveis": [
+      "luvas"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Homem-Aranha, especificamente na versão Spider-Gwen."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10381.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.76,
+  "data_analise": "2026-10-29T14:34:59Z",
+  "data_criacao": "2026-10-29T11:34:59.637013-03:00"
+}

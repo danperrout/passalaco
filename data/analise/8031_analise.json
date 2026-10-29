@@ -1,0 +1,27 @@
+{
+  "id": 8031,
+  "nome_original": "Mulher Gato",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão"
+    ],
+    "material_visual": "material sintético com brilho, semelhante a couro ou látex",
+    "estilo_corte": "ajustado ao corpo (slim fit) com gola e mangas longas",
+    "acessorios_visiveis": [
+      "máscara de gato"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Mulher-Gato."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8031.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.02,
+  "data_analise": "2026-10-29T14:35:02Z",
+  "data_criacao": "2026-10-29T11:35:02.074793-03:00"
+}

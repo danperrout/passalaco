@@ -1,0 +1,29 @@
+{
+  "id": 2637,
+  "nome_original": "Cachorro",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "pelúcia",
+    "estilo_corte": "folgado",
+    "acessorios_visiveis": [
+      "laço de amarração"
+    ],
+    "tematica_detalhada": "Fantasia de animal, possivelmente um castor ou urso."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2637.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.44,
+  "data_analise": "2026-10-29T14:32:04Z",
+  "data_criacao": "2026-10-29T11:32:04.452625-03:00"
+}

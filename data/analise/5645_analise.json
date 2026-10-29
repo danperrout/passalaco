@@ -1,0 +1,30 @@
+{
+  "id": 5645,
+  "nome_original": "Sambista",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "calça",
+      "gorro"
+    ],
+    "material_visual": "tecido sintético ou algodão",
+    "estilo_corte": "folgado",
+    "acessorios_visiveis": [
+      "gorro listrado"
+    ],
+    "tematica_detalhada": "Fantasia de prisioneiro clássico."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5645.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.84,
+  "data_analise": "2026-10-29T14:36:13Z",
+  "data_criacao": "2026-10-29T11:36:13.884479-03:00"
+}

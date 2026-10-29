@@ -1,0 +1,30 @@
+{
+  "id": 10400,
+  "nome_original": "Elsa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Princesas/Principes",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa"
+    ],
+    "material_visual": "cetim, tule e pele sintética",
+    "estilo_corte": "vestido curto com saia volumosa e corpete ajustado",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Elsa do filme Frozen."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10400.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.26,
+  "data_analise": "2026-10-29T14:32:48Z",
+  "data_criacao": "2026-10-29T11:32:48.182245-03:00"
+}

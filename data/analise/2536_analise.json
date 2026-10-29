@@ -1,0 +1,31 @@
+{
+  "id": 2536,
+  "nome_original": "Wolverine",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "ajustado ao corpo",
+    "acessorios_visiveis": [
+      "cinto"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Wolverine dos X-Men."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2536.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.77,
+  "data_analise": "2026-10-29T14:36:47Z",
+  "data_criacao": "2026-10-29T11:36:47.936772-03:00"
+}

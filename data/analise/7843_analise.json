@@ -1,0 +1,29 @@
+{
+  "id": 7843,
+  "nome_original": "Homem Aranha Luxo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "blusa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "ajustado ao corpo",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia do personagem Homem-Aranha."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7843.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.73,
+  "data_analise": "2026-10-29T14:33:14Z",
+  "data_criacao": "2026-10-29T11:33:14.213238-03:00"
+}

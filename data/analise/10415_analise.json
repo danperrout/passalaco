@@ -1,0 +1,35 @@
+{
+  "id": 10415,
+  "nome_original": "Patrulha Canina Marshal",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "blusa",
+      "calça",
+      "botas"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "ajustado ao corpo",
+    "acessorios_visiveis": [
+      "colar com medalhão",
+      "cinto",
+      "joelheiras"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Kamen Rider Den-O (Sword Form)."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10415.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.86,
+  "data_analise": "2026-10-29T14:35:32Z",
+  "data_criacao": "2026-10-29T11:35:32.852221-03:00"
+}

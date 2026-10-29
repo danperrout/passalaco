@@ -1,0 +1,32 @@
+{
+  "id": 6894,
+  "nome_original": "Moana",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "branco",
+      "verde",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "guirlanda de flores"
+    ],
+    "material_visual": "tecido com renda e elementos sintéticos",
+    "estilo_corte": "estilo túnica curta com alças",
+    "acessorios_visiveis": [
+      "colar com pedra azul",
+      "coroa de folhas e flores"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em temática havaiana ou tropical."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6894.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.9,
+  "data_analise": "2026-10-29T14:34:44Z",
+  "data_criacao": "2026-10-29T11:34:44.111120-03:00"
+}

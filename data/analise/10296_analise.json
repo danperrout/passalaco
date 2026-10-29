@@ -1,0 +1,29 @@
+{
+  "id": 10296,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido xadrez e cetim com rendas",
+    "estilo_corte": "estilo boneca com saia volumosa em camadas e mangas bufantes",
+    "acessorios_visiveis": [
+      "tiara com girassol e fitas coloridas"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Dorothy do Mágico de Oz."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10296.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.14,
+  "data_analise": "2026-10-29T14:34:01Z",
+  "data_criacao": "2026-10-29T11:34:01.913433-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 10239,
+  "nome_original": "Rebelde",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "camisa",
+      "gravata",
+      "saia"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "uniforme escolar estilizado",
+    "acessorios_visiveis": [
+      "gravata"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em uniforme escolar japonês (estilo anime)."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10239.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.77,
+  "data_analise": "2026-10-29T14:36:05Z",
+  "data_criacao": "2026-10-29T11:36:05.210443-03:00"
+}

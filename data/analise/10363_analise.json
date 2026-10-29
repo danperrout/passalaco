@@ -1,0 +1,33 @@
+{
+  "id": 10363,
+  "nome_original": "Shrek",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "branco",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "colete",
+      "camisa de manga longa",
+      "calça xadrez",
+      "tiara"
+    ],
+    "material_visual": "tecido sintético e camurça sintética",
+    "estilo_corte": "folgado/confortável",
+    "acessorios_visiveis": [
+      "tiara com antenas",
+      "cinto de tecido"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Jiminy Cricket (Grilo Falante)."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10363.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.23,
+  "data_analise": "2026-10-29T14:36:17Z",
+  "data_criacao": "2026-10-29T11:36:17.336029-03:00"
+}

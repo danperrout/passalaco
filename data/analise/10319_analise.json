@@ -1,0 +1,29 @@
+{
+  "id": 10319,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "cetim, renda e tecido elástico",
+    "estilo_corte": "corpo justo com saia curta volumosa em camadas de babados",
+    "acessorios_visiveis": [
+      "laço de cabelo"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em estilo lolita ou personagem de anime/idol."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10319.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.82,
+  "data_analise": "2026-10-29T14:33:36Z",
+  "data_criacao": "2026-10-29T11:33:36.179893-03:00"
+}

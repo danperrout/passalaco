@@ -1,0 +1,29 @@
+{
+  "id": 8721,
+  "nome_original": "Naruto",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "calça"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "folgado/oversized",
+    "acessorios_visiveis": [
+      "bandana de ninja"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Naruto Uzumaki do anime Naruto."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8721.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.88,
+  "data_analise": "2026-10-29T14:35:05Z",
+  "data_criacao": "2026-10-29T11:35:05.432126-03:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 7634,
+  "nome_original": "Super Homem Capa",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "branco",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "camiseta branca",
+      "peitoral azul com emblema",
+      "capa vermelha"
+    ],
+    "material_visual": "tecido sintético e espuma",
+    "estilo_corte": "ajuste casual com peitoral sobreposto",
+    "acessorios_visiveis": [
+      "capa"
+    ],
+    "tematica_detalhada": "Fantasia do super-herói Superman."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7634.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.08,
+  "data_analise": "2026-10-29T14:36:25Z",
+  "data_criacao": "2026-10-29T11:36:25.980211-03:00"
+}

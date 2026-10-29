@@ -1,0 +1,27 @@
+{
+  "id": 3505,
+  "nome_original": "Paleto",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético ou algodão",
+    "estilo_corte": "slim fit / alfaiataria",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Traje formal masculino branco, podendo representar personagens como o Noivo ou figuras de gala."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3505.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.98,
+  "data_analise": "2026-10-29T14:35:18Z",
+  "data_criacao": "2026-10-29T11:35:18.797988-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 997,
+  "nome_original": "Pablo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "touca"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "folgado",
+    "acessorios_visiveis": [
+      "touca com olhos e bico"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em um pato ou personagem aviário."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/997.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.31,
+  "data_analise": "2026-10-29T14:35:12Z",
+  "data_criacao": "2026-10-29T11:35:12.749173-03:00"
+}

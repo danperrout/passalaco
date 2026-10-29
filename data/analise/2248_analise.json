@@ -1,0 +1,30 @@
+{
+  "id": 2248,
+  "nome_original": "Lobo",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "cinza",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "máscara de lobo",
+      "camisa listrada",
+      "calças"
+    ],
+    "material_visual": "pelúcia e tecido sintético",
+    "estilo_corte": "folgado e rasgado",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia de lobisomem com roupas rasgadas."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2248.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.63,
+  "data_analise": "2026-10-29T14:34:22Z",
+  "data_criacao": "2026-10-29T11:34:22.629801-03:00"
+}

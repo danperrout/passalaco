@@ -1,0 +1,30 @@
+{
+  "id": 2310,
+  "nome_original": "Chapolin",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "capuz",
+      "blusa de manga longa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético ou malha",
+    "estilo_corte": "ajustado ao corpo",
+    "acessorios_visiveis": [
+      "pompons amarelos no capuz"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Chapolin Colorado."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2310.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.5,
+  "data_analise": "2026-10-29T14:32:24Z",
+  "data_criacao": "2026-10-29T11:32:24.311798-03:00"
+}

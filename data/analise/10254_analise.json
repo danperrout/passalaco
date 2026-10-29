@@ -1,0 +1,33 @@
+{
+  "id": 10254,
+  "nome_original": "Paquita Confecção",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "dourado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "túnica",
+      "shorts"
+    ],
+    "material_visual": "tecido sintético com brilho e franjas metálicas",
+    "estilo_corte": "túnica curta com ombros estruturados e shorts soltos",
+    "acessorios_visiveis": [
+      "plumas no chapéu",
+      "franjas douradas",
+      "detalhes de cordões no rosto"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em um soldado de banda marcial ou guarda imperial."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10254.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 4.15,
+  "data_analise": "2026-10-29T14:35:29Z",
+  "data_criacao": "2026-10-29T11:35:29.129781-03:00"
+}

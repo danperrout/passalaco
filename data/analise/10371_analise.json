@@ -1,0 +1,31 @@
+{
+  "id": 10371,
+  "nome_original": "Power Rangers Azul",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "máscara/capuz",
+      "macacão",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético com textura canelada",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "cinto com fivela circular"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Ranger Azul da franquia Power Rangers."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10371.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.9,
+  "data_analise": "2026-10-29T14:35:56Z",
+  "data_criacao": "2026-10-29T11:35:56.110275-03:00"
+}

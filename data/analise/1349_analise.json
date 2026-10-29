@@ -1,0 +1,30 @@
+{
+  "id": 1349,
+  "nome_original": "Noivo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó",
+      "calça",
+      "camisa"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "terno clássico",
+    "acessorios_visiveis": [
+      "gravata"
+    ],
+    "tematica_detalhada": "Fantasia de homem de negócios ou agente secreto."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1349.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.77,
+  "data_analise": "2026-10-29T14:35:08Z",
+  "data_criacao": "2026-10-29T11:35:08.852778-03:00"
+}

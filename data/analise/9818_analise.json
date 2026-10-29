@@ -1,0 +1,28 @@
+{
+  "id": 9818,
+  "nome_original": "Anjo",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Coroação",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido longo"
+    ],
+    "material_visual": "tecido leve e fluido, possivelmente chiffon ou poliéster",
+    "estilo_corte": "corte reto com mangas longas e amplas",
+    "acessorios_visiveis": [
+      "auréola de penas",
+      "asas de penas"
+    ],
+    "tematica_detalhada": "Fantasia de anjo."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9818.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.96,
+  "data_analise": "2026-10-29T14:31:40Z",
+  "data_criacao": "2026-10-29T11:31:40.519386-03:00"
+}

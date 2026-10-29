@@ -1,0 +1,29 @@
+{
+  "id": 9630,
+  "nome_original": "Bruxa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Vitrine",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu"
+    ],
+    "material_visual": "tule e renda",
+    "estilo_corte": "corpo ajustado com saia volumosa",
+    "acessorios_visiveis": [
+      "chapéu de bruxa"
+    ],
+    "tematica_detalhada": "Fantasia de bruxa estilizada para o Halloween."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9630.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.09,
+  "data_analise": "2026-10-29T14:32:00Z",
+  "data_criacao": "2026-10-29T11:32:00.742400-03:00"
+}

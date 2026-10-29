@@ -1,0 +1,33 @@
+{
+  "id": 6135,
+  "nome_original": "Os Incriveis",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga longa",
+      "calça",
+      "máscara",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "ajustado ao corpo",
+    "acessorios_visiveis": [
+      "máscara ocular",
+      "luvas pretas"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Sr. Incrível do filme Os Incríveis."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6135.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.91,
+  "data_analise": "2026-10-29T14:35:11Z",
+  "data_criacao": "2026-10-29T11:35:11.330879-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 10321,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa choque",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com renda e babados",
+    "estilo_corte": "ombro a ombro com saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "tiara com fitas"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em estilo lolita ou personagem pop colorida."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10321.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.89,
+  "data_analise": "2026-10-29T14:33:51Z",
+  "data_criacao": "2026-10-29T11:33:51.655196-03:00"
+}

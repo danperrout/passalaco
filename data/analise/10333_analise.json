@@ -1,0 +1,28 @@
+{
+  "id": 10333,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com estampas de xadrez e poá",
+    "estilo_corte": "ombro a ombro com saia volumosa em camadas de babados",
+    "acessorios_visiveis": [
+      "laço de cabelo"
+    ],
+    "tematica_detalhada": "Fantasia de estilo lolita ou maid em tons de rosa."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10333.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.21,
+  "data_analise": "2026-10-29T14:33:59Z",
+  "data_criacao": "2026-10-29T11:33:59.744191-03:00"
+}

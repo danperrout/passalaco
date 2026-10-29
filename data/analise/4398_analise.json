@@ -1,0 +1,32 @@
+{
+  "id": 4398,
+  "nome_original": "Oncinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "preto",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "corpete",
+      "saia"
+    ],
+    "material_visual": "tecido com estampa de leopardo e tule",
+    "estilo_corte": "corpete ajustado tomara-que-caia com saia curta volumosa",
+    "acessorios_visiveis": [
+      "tiara de orelhas",
+      "gravata borboleta",
+      "pulseiras"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em leopardo ou guepardo com estilo pin-up/cheerleader."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4398.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.34,
+  "data_analise": "2026-10-29T14:35:10Z",
+  "data_criacao": "2026-10-29T11:35:10.301752-03:00"
+}

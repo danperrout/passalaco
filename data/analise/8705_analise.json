@@ -1,0 +1,29 @@
+{
+  "id": 8705,
+  "nome_original": "Coldre",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "coldre de perna",
+      "alças de fixação"
+    ],
+    "material_visual": "nylon ou tecido sintético resistente",
+    "estilo_corte": "utilitário/tático",
+    "acessorios_visiveis": [
+      "fivelas de plástico",
+      "velcro"
+    ],
+    "tematica_detalhada": "Acessório tático para personagens de agentes secretos, policiais ou militares."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8705.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.92,
+  "data_analise": "2026-10-29T14:32:29Z",
+  "data_criacao": "2026-10-29T11:32:29.756055-03:00"
+}

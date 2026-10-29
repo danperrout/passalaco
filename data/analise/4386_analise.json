@@ -1,0 +1,29 @@
+{
+  "id": 4386,
+  "nome_original": "Jaqueta",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "prata"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "calça"
+    ],
+    "material_visual": "material sintético brilhante (estilo couro ou vinil)",
+    "estilo_corte": "jaqueta curta com gola larga e zíper diagonal",
+    "acessorios_visiveis": [
+      "cinto com fivela"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no estilo rockabilly ou personagem de época com jaqueta de couro."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4386.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.13,
+  "data_analise": "2026-10-29T14:33:31Z",
+  "data_criacao": "2026-10-29T11:33:31.966033-03:00"
+}

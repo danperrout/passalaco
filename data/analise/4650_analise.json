@@ -1,0 +1,29 @@
+{
+  "id": 4650,
+  "nome_original": "Sapinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde limão",
+      "verde escuro"
+    ],
+    "pecas_inclusas": [
+      "vestido com capuz",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético aveludado/plush",
+    "estilo_corte": "vestido curto com saia evasê e capuz integrado",
+    "acessorios_visiveis": [
+      "luvas peludas"
+    ],
+    "tematica_detalhada": "Fantasia infantil de sapo."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4650.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.83,
+  "data_analise": "2026-10-29T14:36:14Z",
+  "data_criacao": "2026-10-29T11:36:14.822472-03:00"
+}

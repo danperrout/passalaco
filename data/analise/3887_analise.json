@@ -1,0 +1,28 @@
+{
+  "id": 3887,
+  "nome_original": "Espanhola",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante",
+    "estilo_corte": "ombro a ombro com saia rodada em babados",
+    "acessorios_visiveis": [
+      "tiara com flor vermelha"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em dançarina de flamenco ou espanhola."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3887.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.72,
+  "data_analise": "2026-10-29T14:32:50Z",
+  "data_criacao": "2026-10-29T11:32:50.026530-03:00"
+}

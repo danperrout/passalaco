@@ -1,0 +1,29 @@
+{
+  "id": 3750,
+  "nome_original": "Esqueleto",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "túnica"
+    ],
+    "material_visual": "tecido sintético e plástico",
+    "estilo_corte": "túnica longa sem mangas",
+    "acessorios_visiveis": [
+      "máscara de caveira"
+    ],
+    "tematica_detalhada": "Fantasia de esqueleto para Halloween ou festas temáticas."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3750.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.16,
+  "data_analise": "2026-10-29T14:32:52Z",
+  "data_criacao": "2026-10-29T11:32:52.335690-03:00"
+}

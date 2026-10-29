@@ -1,0 +1,32 @@
+{
+  "id": 1072,
+  "nome_original": "Palhacinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo",
+      "vermelho",
+      "preto",
+      "verde"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "peruca"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante",
+    "estilo_corte": "folgado com estampa xadrez (losangos)",
+    "acessorios_visiveis": [
+      "peruca azul cacheada"
+    ],
+    "tematica_detalhada": "Fantasia de palhaço ou arlequim colorida."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1072.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.83,
+  "data_analise": "2026-10-29T14:35:20Z",
+  "data_criacao": "2026-10-29T11:35:20.757131-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 8359,
+  "nome_original": "Bruxa Com Capa Preta",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "corpete",
+      "saia"
+    ],
+    "material_visual": "tule e tecido sintético",
+    "estilo_corte": "corpete ajustado com saia curta volumosa",
+    "acessorios_visiveis": [
+      "chapéu de bruxa"
+    ],
+    "tematica_detalhada": "Fantasia de bruxa moderna ou gótica."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8359.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.86,
+  "data_analise": "2026-10-29T14:32:01Z",
+  "data_criacao": "2026-10-29T11:32:01.711938-03:00"
+}

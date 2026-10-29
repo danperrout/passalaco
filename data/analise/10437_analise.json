@@ -1,0 +1,29 @@
+{
+  "id": 10437,
+  "nome_original": "Condessa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Vitrine",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "capa",
+      "chapéu"
+    ],
+    "material_visual": "renda e tecido sintético",
+    "estilo_corte": "curto com gola alta estruturada",
+    "acessorios_visiveis": [
+      "chapéu com véu e detalhes vermelhos"
+    ],
+    "tematica_detalhada": "Fantasia de bruxa ou personagem gótica."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10437.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.09,
+  "data_analise": "2026-10-29T14:32:33Z",
+  "data_criacao": "2026-10-29T11:32:33.965082-03:00"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2214,
+  "nome_original": "Esqueleto",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "máscara/capuz"
+    ],
+    "material_visual": "tecido sintético elástico",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia de esqueleto humano."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2214.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.07,
+  "data_analise": "2026-10-29T14:32:54Z",
+  "data_criacao": "2026-10-29T11:32:54.369348-03:00"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 10182,
+  "nome_original": "Michael Jackson",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "jaqueta",
+      "calça"
+    ],
+    "material_visual": "tecido sintético com aspecto de nylon ou poliéster",
+    "estilo_corte": "conjunto esportivo com modelagem ajustada",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia inspirada no traje de corrida do personagem Lightning McQueen do filme Carros."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10182.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.03,
+  "data_analise": "2026-10-29T14:34:40Z",
+  "data_criacao": "2026-10-29T11:34:40.133691-03:00"
+}

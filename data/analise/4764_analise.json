@@ -1,0 +1,33 @@
+{
+  "id": 4764,
+  "nome_original": "Rainha de Copas",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu",
+      "peruca"
+    ],
+    "material_visual": "cetim e renda",
+    "estilo_corte": "estilo vitoriano estilizado com corpete e saia curta",
+    "acessorios_visiveis": [
+      "chapéu ornamentado",
+      "peruca vermelha"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na Rainha de Copas de Alice no País das Maravilhas."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4764.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.81,
+  "data_analise": "2026-10-29T14:36:01Z",
+  "data_criacao": "2026-10-29T11:36:01.979723-03:00"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 9123,
+  "nome_original": "Corset",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "corset"
+    ],
+    "material_visual": "tecido com texturas e franjas",
+    "estilo_corte": "estilo corset com decote coração",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Traje de performance ou cabaret em estilo gótico/glamour."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9123.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.83,
+  "data_analise": "2026-10-29T14:32:41Z",
+  "data_criacao": "2026-10-29T11:32:41.269835-03:00"
+}

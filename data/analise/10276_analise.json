@@ -1,0 +1,28 @@
+{
+  "id": 10276,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido xadrez e cetim com rendas",
+    "estilo_corte": "estilo lolita com saia volumosa e babados",
+    "acessorios_visiveis": [
+      "tiara com laço"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em estética lolita ou personagem de estilo 'maid' campestre."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10276.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.03,
+  "data_analise": "2026-10-29T14:33:40Z",
+  "data_criacao": "2026-10-29T11:33:40.356662-03:00"
+}

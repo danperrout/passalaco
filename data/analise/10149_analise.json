@@ -1,0 +1,29 @@
+{
+  "id": 10149,
+  "nome_original": "Anjo",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Bebês",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul claro",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "touca"
+    ],
+    "material_visual": "tecido canelado com aplicações de renda floral e detalhes em plumas",
+    "estilo_corte": "vestido curto com cintura marcada e saia evasê",
+    "acessorios_visiveis": [
+      "touca de plumas"
+    ],
+    "tematica_detalhada": "fantasia infantil delicada com tema de inverno ou anjo."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10149.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.23,
+  "data_analise": "2026-10-29T14:31:41Z",
+  "data_criacao": "2026-10-29T11:31:41.867371-03:00"
+}

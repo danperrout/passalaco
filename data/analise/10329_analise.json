@@ -1,0 +1,31 @@
+{
+  "id": 10329,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "verde",
+      "preto",
+      "amarelo",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido sintético com babados e fitas",
+    "estilo_corte": "tomara que caia com saia rodada em camadas",
+    "acessorios_visiveis": [
+      "tiara com enfeite e fitas"
+    ],
+    "tematica_detalhada": "fantasia colorida e festiva com estética de carnaval ou personagem estilizada."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10329.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.93,
+  "data_analise": "2026-10-29T14:33:44Z",
+  "data_criacao": "2026-10-29T11:33:44.285959-03:00"
+}

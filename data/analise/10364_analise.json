@@ -1,0 +1,29 @@
+{
+  "id": 10364,
+  "nome_original": "Piloto Ayrton Senna",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Personagens",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "boné"
+    ],
+    "material_visual": "tecido sintético com brilho",
+    "estilo_corte": "ajustado ao corpo",
+    "acessorios_visiveis": [
+      "boné"
+    ],
+    "tematica_detalhada": "Fantasia de piloto de corrida de Fórmula 1 com patrocínios."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10364.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.25,
+  "data_analise": "2026-10-29T14:35:41Z",
+  "data_criacao": "2026-10-29T11:35:41.938522-03:00"
+}

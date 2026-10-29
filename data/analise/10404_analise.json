@@ -1,0 +1,30 @@
+{
+  "id": 10404,
+  "nome_original": "Tango",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Danças",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vinho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "luvas longas",
+      "tiara"
+    ],
+    "material_visual": "tecido com brilhos ou paetês",
+    "estilo_corte": "estilo flapper com fendas laterais e gola alta",
+    "acessorios_visiveis": [
+      "tiara com pluma"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na moda dos anos 20 (estilo Melindrosa/Flapper)."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10404.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.91,
+  "data_analise": "2026-10-29T14:36:27Z",
+  "data_criacao": "2026-10-29T11:36:27.842764-03:00"
+}

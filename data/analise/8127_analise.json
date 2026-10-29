@@ -1,0 +1,32 @@
+{
+  "id": 8127,
+  "nome_original": "Marinheiro",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "blusa",
+      "shorts"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "estilo marinheiro",
+    "acessorios_visiveis": [
+      "chapéu de marinheiro",
+      "gravata de fita"
+    ],
+    "tematica_detalhada": "Fantasia de marinheiro inspirada no personagem Popeye."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8127.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.9,
+  "data_analise": "2026-10-29T14:34:31Z",
+  "data_criacao": "2026-10-29T11:34:31.818191-03:00"
+}

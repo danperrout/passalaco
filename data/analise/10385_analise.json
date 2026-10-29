@@ -1,0 +1,30 @@
+{
+  "id": 10385,
+  "nome_original": "Homem Aranha",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Super-heróis",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul escuro",
+      "vermelho",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "macacão completo",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético com textura em relevo e acabamento brilhante",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "luvas integradas"
+    ],
+    "tematica_detalhada": "Fantasia do super-herói Homem-Aranha."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10385.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.88,
+  "data_analise": "2026-10-29T14:33:11Z",
+  "data_criacao": "2026-10-29T11:33:11.758758-03:00"
+}

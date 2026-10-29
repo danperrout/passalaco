@@ -1,0 +1,30 @@
+{
+  "id": 6066,
+  "nome_original": "Cleopatra",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "gola ornamental",
+      "cinto com aba"
+    ],
+    "material_visual": "tecido sintético com acabamento metalizado",
+    "estilo_corte": "estilo túnica reta",
+    "acessorios_visiveis": [
+      "tiara/coroa"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na rainha Cleópatra do Antigo Egito."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6066.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.04,
+  "data_analise": "2026-10-29T14:32:28Z",
+  "data_criacao": "2026-10-29T11:32:28.730737-03:00"
+}

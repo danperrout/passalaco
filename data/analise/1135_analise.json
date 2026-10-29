@@ -1,0 +1,30 @@
+{
+  "id": 1135,
+  "nome_original": "Pierrot",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça"
+    ],
+    "material_visual": "cetim",
+    "estilo_corte": "dividido verticalmente (meio a meio)",
+    "acessorios_visiveis": [
+      "gola rufada",
+      "punhos rufados"
+    ],
+    "tematica_detalhada": "Fantasia de Pierrot ou Arlequim clássico."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1135.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.85,
+  "data_analise": "2026-10-29T14:35:38Z",
+  "data_criacao": "2026-10-29T11:35:38.234136-03:00"
+}

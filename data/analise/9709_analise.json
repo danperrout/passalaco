@@ -1,0 +1,32 @@
+{
+  "id": 9709,
+  "nome_original": "Papai Noel",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "casaco",
+      "calça",
+      "gorro",
+      "barba"
+    ],
+    "material_visual": "veludo ou plush com acabamento em pelúcia",
+    "estilo_corte": "folgado",
+    "acessorios_visiveis": [
+      "cinto preto com fivela"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Papai Noel."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9709.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.03,
+  "data_analise": "2026-10-29T14:35:23Z",
+  "data_criacao": "2026-10-29T11:35:23.831434-03:00"
+}

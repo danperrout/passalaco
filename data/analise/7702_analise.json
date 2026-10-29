@@ -1,0 +1,30 @@
+{
+  "id": 7702,
+  "nome_original": "Mulher Maravilha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "vestido"
+    ],
+    "material_visual": "tecido sintético com detalhes em glitter/metalizado",
+    "estilo_corte": "vestido curto com mangas curtas bufantes e saia rodada",
+    "acessorios_visiveis": [
+      "tiara dourada com estrela",
+      "braceletes azuis"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Mulher-Maravilha."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7702.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.94,
+  "data_analise": "2026-10-29T14:35:03Z",
+  "data_criacao": "2026-10-29T11:35:03.123049-03:00"
+}

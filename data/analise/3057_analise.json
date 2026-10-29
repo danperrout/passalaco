@@ -1,0 +1,31 @@
+{
+  "id": 3057,
+  "nome_original": "Bope",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "calça",
+      "boina",
+      "colete"
+    ],
+    "material_visual": "tecido sintético ou algodão",
+    "estilo_corte": "tático/militar",
+    "acessorios_visiveis": [
+      "boina",
+      "coldre de perna"
+    ],
+    "tematica_detalhada": "Fantasia de agente de forças especiais ou policial tático."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3057.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.85,
+  "data_analise": "2026-10-29T14:31:59Z",
+  "data_criacao": "2026-10-29T11:31:59.449462-03:00"
+}

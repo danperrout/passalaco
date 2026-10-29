@@ -1,0 +1,29 @@
+{
+  "id": 9957,
+  "nome_original": "Stitch",
+  "sexo": "N/A",
+  "tipo": "N/A",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "capuz"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "ajustado ao corpo",
+    "acessorios_visiveis": [
+      "orelhas no capuz"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Stitch, do filme Lilo & Stitch."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9957.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.76,
+  "data_analise": "2026-10-29T14:36:22Z",
+  "data_criacao": "2026-10-29T11:36:22.782426-03:00"
+}

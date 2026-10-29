@@ -1,0 +1,32 @@
+{
+  "id": 7514,
+  "nome_original": "Portugues",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "colete",
+      "camisa",
+      "calça"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "clássico/tradicional",
+    "acessorios_visiveis": [
+      "lenço vermelho"
+    ],
+    "tematica_detalhada": "Fantasia de gaúcho ou cowboy."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7514.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.8,
+  "data_analise": "2026-10-29T14:35:46Z",
+  "data_criacao": "2026-10-29T11:35:46.736592-03:00"
+}

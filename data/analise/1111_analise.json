@@ -1,0 +1,30 @@
+{
+  "id": 1111,
+  "nome_original": "Pedrita",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "bege",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "túnica"
+    ],
+    "material_visual": "tecido com estampa animal",
+    "estilo_corte": "corte assimétrico com barra irregular e rasgada",
+    "acessorios_visiveis": [
+      "tiara com orelhas",
+      "colar de dentes/garras"
+    ],
+    "tematica_detalhada": "Fantasia de homem das cavernas ou leopardo pré-histórico."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1111.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.81,
+  "data_analise": "2026-10-29T14:35:35Z",
+  "data_criacao": "2026-10-29T11:35:35.764379-03:00"
+}

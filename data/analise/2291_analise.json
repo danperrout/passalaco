@@ -1,0 +1,30 @@
+{
+  "id": 2291,
+  "nome_original": "Girafa",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz"
+    ],
+    "material_visual": "pelúcia",
+    "estilo_corte": "oversized / kigurumi",
+    "acessorios_visiveis": [
+      "orelhas",
+      "chifres (ossicones)"
+    ],
+    "tematica_detalhada": "Fantasia de girafa."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2291.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.82,
+  "data_analise": "2026-10-29T14:33:05Z",
+  "data_criacao": "2026-10-29T11:33:05.978007-03:00"
+}

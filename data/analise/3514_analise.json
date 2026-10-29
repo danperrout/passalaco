@@ -1,0 +1,30 @@
+{
+  "id": 3514,
+  "nome_original": "Padre",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "toga",
+      "estola"
+    ],
+    "material_visual": "tecido sintético com bordados metálicos",
+    "estilo_corte": "longo e solto",
+    "acessorios_visiveis": [
+      "estola com franjas"
+    ],
+    "tematica_detalhada": "Traje formal de formatura ou vestimenta acadêmica/religiosa."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3514.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.75,
+  "data_analise": "2026-10-29T14:35:15Z",
+  "data_criacao": "2026-10-29T11:35:15.619521-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 5433,
+  "nome_original": "Capitao America",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "máscara/capuz",
+      "macacão"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "ajustado ao corpo",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia do super-herói Capitão América da Marvel."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5433.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.47,
+  "data_analise": "2026-10-29T14:32:09Z",
+  "data_criacao": "2026-10-29T11:32:09.670670-03:00"
+}

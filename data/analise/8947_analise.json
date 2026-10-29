@@ -1,0 +1,25 @@
+{
+  "id": 8947,
+  "nome_original": "Sino",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "sino"
+    ],
+    "material_visual": "metal",
+    "estilo_corte": "não aplicável",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Objeto decorativo em formato de sino com alça ornamentada."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/8947.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.61,
+  "data_analise": "2026-10-29T14:36:18Z",
+  "data_criacao": "2026-10-29T11:36:18.036205-03:00"
+}

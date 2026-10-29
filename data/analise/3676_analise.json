@@ -1,0 +1,31 @@
+{
+  "id": 3676,
+  "nome_original": "Patati",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "azul",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "macacão",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "folgado",
+    "acessorios_visiveis": [
+      "laço vermelho",
+      "flor colorida no chapéu"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Smurfette."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3676.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.77,
+  "data_analise": "2026-10-29T14:35:30Z",
+  "data_criacao": "2026-10-29T11:35:30.975814-03:00"
+}

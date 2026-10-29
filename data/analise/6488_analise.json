@@ -1,0 +1,33 @@
+{
+  "id": 6488,
+  "nome_original": "Capitao America Luxo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "vermelho",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "traje de corpo inteiro",
+      "calças"
+    ],
+    "material_visual": "tecido sintético com texturas acolchoadas",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "escudo circular",
+      "cinto",
+      "alças de ombro"
+    ],
+    "tematica_detalhada": "Fantasia do super-herói Capitão América da Marvel."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6488.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.38,
+  "data_analise": "2026-10-29T14:32:15Z",
+  "data_criacao": "2026-10-29T11:32:15.483319-03:00"
+}

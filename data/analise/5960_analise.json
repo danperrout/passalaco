@@ -1,0 +1,34 @@
+{
+  "id": 5960,
+  "nome_original": "Power Rangers",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "amarelo",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "casaco",
+      "calças",
+      "botas/caneleiras"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "militar estilizado",
+    "acessorios_visiveis": [
+      "óculos de proteção",
+      "gravata"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Captain Harlock."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5960.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.58,
+  "data_analise": "2026-10-29T14:35:55Z",
+  "data_criacao": "2026-10-29T11:35:55.088330-03:00"
+}

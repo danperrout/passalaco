@@ -1,0 +1,33 @@
+{
+  "id": 10414,
+  "nome_original": "Príncipe da Branca de Neve",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "branco",
+      "vermelho",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "calça",
+      "capa",
+      "chapéu"
+    ],
+    "material_visual": "tecido sintético com acabamento acetinado",
+    "estilo_corte": "corte reto e solto",
+    "acessorios_visiveis": [
+      "chapéu com pluma"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em um príncipe ou personagem real clássico."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10414.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.84,
+  "data_analise": "2026-10-29T14:36:00Z",
+  "data_criacao": "2026-10-29T11:36:00.047315-03:00"
+}

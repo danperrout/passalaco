@@ -1,0 +1,25 @@
+{
+  "id": 6887,
+  "nome_original": "Saia Tule",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "rosa claro"
+    ],
+    "pecas_inclusas": [
+      "saia"
+    ],
+    "material_visual": "tule",
+    "estilo_corte": "evasê longo",
+    "acessorios_visiveis": [],
+    "tematica_detalhada": "Fantasia de bailarina ou princesa."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6887.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.74,
+  "data_analise": "2026-10-29T14:36:12Z",
+  "data_criacao": "2026-10-29T11:36:12.929071-03:00"
+}

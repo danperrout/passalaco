@@ -1,0 +1,30 @@
+{
+  "id": 4989,
+  "nome_original": "Fred",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "azul",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "gravata"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "túnica reta com barra irregular/rasgada",
+    "acessorios_visiveis": [
+      "gravata azul"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em uma abóbora estilizada."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4989.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.19,
+  "data_analise": "2026-10-29T14:33:01Z",
+  "data_criacao": "2026-10-29T11:33:01.826694-03:00"
+}

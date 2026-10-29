@@ -1,0 +1,32 @@
+{
+  "id": 3478,
+  "nome_original": "Camisa",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "azul",
+      "branco",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "camisa",
+      "chapéu",
+      "peruca"
+    ],
+    "material_visual": "tecido xadrez e palha",
+    "estilo_corte": "camisa de manga longa com botões",
+    "acessorios_visiveis": [
+      "chapéu de cowboy"
+    ],
+    "tematica_detalhada": "Fantasia de cowboy ou caipira."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3478.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.84,
+  "data_analise": "2026-10-29T14:32:05Z",
+  "data_criacao": "2026-10-29T11:32:05.500275-03:00"
+}

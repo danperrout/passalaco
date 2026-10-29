@@ -1,0 +1,30 @@
+{
+  "id": 4734,
+  "nome_original": "Vaquinha",
+  "sexo": "Feminina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "preto",
+      "marrom"
+    ],
+    "pecas_inclusas": [
+      "macacão com capuz",
+      "máscara/cabeça de vaca"
+    ],
+    "material_visual": "tecido sintético, possivelmente poliéster ou plush",
+    "estilo_corte": "macacão inteiro (onesie) com fechamento frontal",
+    "acessorios_visiveis": [
+      "chifres"
+    ],
+    "tematica_detalhada": "Fantasia de vaca com estampa malhada."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/4734.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.08,
+  "data_analise": "2026-10-29T14:36:40Z",
+  "data_criacao": "2026-10-29T11:36:40.601727-03:00"
+}

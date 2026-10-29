@@ -1,0 +1,28 @@
+{
+  "id": 9347,
+  "nome_original": "Coroa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "tiara"
+    ],
+    "material_visual": "metal com pedrarias",
+    "estilo_corte": "não aplicável",
+    "acessorios_visiveis": [
+      "tiara"
+    ],
+    "tematica_detalhada": "Acessório de realeza, como princesa ou rainha."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9347.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.74,
+  "data_analise": "2026-10-29T14:32:38Z",
+  "data_criacao": "2026-10-29T11:32:38.981856-03:00"
+}

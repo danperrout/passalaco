@@ -1,0 +1,30 @@
+{
+  "id": 10328,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "top cropped",
+      "saia curta"
+    ],
+    "material_visual": "cetim, renda e tecido xadrez",
+    "estilo_corte": "estilo lolita com saia volumosa em camadas e decote ombro a ombro",
+    "acessorios_visiveis": [
+      "laço de cabelo"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no estilo Lolita ou Maid com temática em azul e preto."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10328.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.82,
+  "data_analise": "2026-10-29T14:33:52Z",
+  "data_criacao": "2026-10-29T11:33:52.589448-03:00"
+}

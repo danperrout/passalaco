@@ -1,0 +1,31 @@
+{
+  "id": 7907,
+  "nome_original": "Lanterna Verde",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "bermuda",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "ajustado",
+    "acessorios_visiveis": [
+      "máscara de olhos"
+    ],
+    "tematica_detalhada": "Fantasia do super-herói Lanterna Verde."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7907.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.84,
+  "data_analise": "2026-10-29T14:34:18Z",
+  "data_criacao": "2026-10-29T11:34:18.349455-03:00"
+}

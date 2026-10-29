@@ -1,0 +1,32 @@
+{
+  "id": 10377,
+  "nome_original": "Batmam",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "cinza",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "máscara",
+      "macacão",
+      "capa",
+      "luvas"
+    ],
+    "material_visual": "tecido sintético com estampa digital",
+    "estilo_corte": "ajustado ao corpo (slim fit)",
+    "acessorios_visiveis": [
+      "cinto de utilidades dourado"
+    ],
+    "tematica_detalhada": "Fantasia do super-herói Batman."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10377.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.87,
+  "data_analise": "2026-10-29T14:31:57Z",
+  "data_criacao": "2026-10-29T11:31:57.374862-03:00"
+}

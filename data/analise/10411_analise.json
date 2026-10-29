@@ -1,0 +1,32 @@
+{
+  "id": 10411,
+  "nome_original": "Amelia Viva a Vida É Uma Festa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "roxo",
+      "marrom",
+      "dourado",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "avental",
+      "luvas"
+    ],
+    "material_visual": "cetim ou tecido sintético brilhante",
+    "estilo_corte": "estilo camponesa com saia longa e decote quadrado",
+    "acessorios_visiveis": [
+      "luvas pretas com estampa de ossos"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Vanessa (forma humana da Úrsula) de A Pequena Sereia."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10411.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.98,
+  "data_analise": "2026-10-29T14:31:39Z",
+  "data_criacao": "2026-10-29T11:31:39.417767-03:00"
+}

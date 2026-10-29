@@ -1,0 +1,31 @@
+{
+  "id": 2770,
+  "nome_original": "Wally",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camisa de manga longa",
+      "calça",
+      "gorro"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "folgado",
+    "acessorios_visiveis": [
+      "óculos redondos"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no personagem Waldo (Onde está o Wally?)."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2770.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.81,
+  "data_analise": "2026-10-29T14:36:45Z",
+  "data_criacao": "2026-10-29T11:36:45.969708-03:00"
+}

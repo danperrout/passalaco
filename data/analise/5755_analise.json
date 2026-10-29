@@ -1,0 +1,32 @@
+{
+  "id": 5755,
+  "nome_original": "Junina Saia e Corset",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "cinza",
+      "branco",
+      "preto",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "blusa",
+      "saia"
+    ],
+    "material_visual": "tecido sintético com estampa xadrez ou texturizada",
+    "estilo_corte": "estilo lolita com mangas bufantes e saia curta franzida",
+    "acessorios_visiveis": [
+      "tiara de flores",
+      "laços decorativos"
+    ],
+    "tematica_detalhada": "Fantasia inspirada no estilo Lolita ou personagem de anime/mangá."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5755.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.98,
+  "data_analise": "2026-10-29T14:34:15Z",
+  "data_criacao": "2026-10-29T11:34:15.275798-03:00"
+}

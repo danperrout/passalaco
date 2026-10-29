@@ -1,0 +1,28 @@
+{
+  "id": 9387,
+  "nome_original": "Coroa",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "dourado",
+      "vermelho"
+    ],
+    "pecas_inclusas": [
+      "tiara"
+    ],
+    "material_visual": "metal dourado com pedras sintéticas",
+    "estilo_corte": "não aplicável",
+    "acessorios_visiveis": [
+      "tiara de cristais"
+    ],
+    "tematica_detalhada": "Acessório de realeza ou fantasia de princesa com temática de corações."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9387.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.79,
+  "data_analise": "2026-10-29T14:32:39Z",
+  "data_criacao": "2026-10-29T11:32:39.892160-03:00"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 10258,
+  "nome_original": "Vestido Noiva Junina 2026",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "branco",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "cetim e renda",
+    "estilo_corte": "estilo corset com saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "flores decorativas no busto"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em personagens femininas delicadas ou estilo lolita/fada."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10258.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.25,
+  "data_analise": "2026-10-29T14:36:42Z",
+  "data_criacao": "2026-10-29T11:36:42.924112-03:00"
+}

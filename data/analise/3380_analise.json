@@ -1,0 +1,32 @@
+{
+  "id": 3380,
+  "nome_original": "Colete",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "vermelho",
+      "preto",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "camisa xadrez",
+      "colete"
+    ],
+    "material_visual": "tecido sintético e palha",
+    "estilo_corte": "estilo western com franjas",
+    "acessorios_visiveis": [
+      "chapéu de cowboy"
+    ],
+    "tematica_detalhada": "Fantasia de cowboy ou caubói."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/3380.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.82,
+  "data_analise": "2026-10-29T14:32:30Z",
+  "data_criacao": "2026-10-29T11:32:30.722241-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 9889,
+  "nome_original": "Junina Saia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "top regata",
+      "saia curta"
+    ],
+    "material_visual": "tecido sintético com renda e tule",
+    "estilo_corte": "ajustado no busto e volumoso na saia (estilo tutu)",
+    "acessorios_visiveis": [
+      "laço de cabelo"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em estilo Lolita ou personagem de anime com estética punk/rock."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9889.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.09,
+  "data_analise": "2026-10-29T14:34:14Z",
+  "data_criacao": "2026-10-29T11:34:14.183970-03:00"
+}

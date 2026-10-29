@@ -1,0 +1,30 @@
+{
+  "id": 10398,
+  "nome_original": "Indiana",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Árabes/Indianas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul petróleo",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "sari",
+      "blusa (choli)"
+    ],
+    "material_visual": "tecido fluido com bordados e acabamento em renda dourada",
+    "estilo_corte": "traje tradicional indiano drapeado",
+    "acessorios_visiveis": [
+      "maang tikka (ornamento de testa)",
+      "braceletes"
+    ],
+    "tematica_detalhada": "Traje tradicional indiano feminino, estilo sari."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10398.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.87,
+  "data_analise": "2026-10-29T14:33:21Z",
+  "data_criacao": "2026-10-29T11:33:21.285350-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 10378,
+  "nome_original": "Malevola",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Filmes/TV",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "cinza escuro"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "capa de penas",
+      "tiara de chifres"
+    ],
+    "material_visual": "tecido com brilho metálico e penas",
+    "estilo_corte": "vestido longo ajustado com decote em V profundo",
+    "acessorios_visiveis": [
+      "tiara com chifres curvos"
+    ],
+    "tematica_detalhada": "Fantasia da personagem Malévola."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10378.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.84,
+  "data_analise": "2026-10-29T14:34:25Z",
+  "data_criacao": "2026-10-29T11:34:25.591956-03:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1090,
+  "nome_original": "Panico",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "túnica",
+      "máscara"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "longo e solto",
+    "acessorios_visiveis": [
+      "máscara de Ghostface"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Ghostface da franquia de filmes Pânico."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1090.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.89,
+  "data_analise": "2026-10-29T14:35:21Z",
+  "data_criacao": "2026-10-29T11:35:21.761828-03:00"
+}

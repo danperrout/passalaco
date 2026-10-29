@@ -1,0 +1,28 @@
+{
+  "id": 9301,
+  "nome_original": "Morticia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido longo",
+      "capa com capuz"
+    ],
+    "material_visual": "tecido texturizado com aparência de veludo ou renda",
+    "estilo_corte": "corte sereia com cauda plissada e mangas amplas",
+    "acessorios_visiveis": [
+      "detalhes prateados na borda do capuz"
+    ],
+    "tematica_detalhada": "fantasia de bruxa, gótica ou personagem mística sombria."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/9301.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.71,
+  "data_analise": "2026-10-29T14:34:56Z",
+  "data_criacao": "2026-10-29T11:34:56.571698-03:00"
+}

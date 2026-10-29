@@ -1,0 +1,30 @@
+{
+  "id": 10342,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vinho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido xadrez com detalhes em renda",
+    "estilo_corte": "estilo lolita com saia rodada e babados",
+    "acessorios_visiveis": [
+      "tiara com laço",
+      "laço na cintura"
+    ],
+    "tematica_detalhada": "fantasia inspirada no estilo Lolita ou Maid gótica."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10342.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.94,
+  "data_analise": "2026-10-29T14:33:37Z",
+  "data_criacao": "2026-10-29T11:33:37.266956-03:00"
+}

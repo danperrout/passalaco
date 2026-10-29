@@ -1,0 +1,34 @@
+{
+  "id": 10308,
+  "nome_original": "Junina Saia",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "preto",
+      "branco",
+      "azul",
+      "vermelho",
+      "amarelo",
+      "verde",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "regata",
+      "saia"
+    ],
+    "material_visual": "tecido xadrez e fitas coloridas",
+    "estilo_corte": "saia curta em camadas com babados",
+    "acessorios_visiveis": [
+      "adorno de cabelo"
+    ],
+    "tematica_detalhada": "Fantasia colorida e festiva com elementos de xadrez e fitas multicoloridas."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10308.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 2.05,
+  "data_analise": "2026-10-29T14:34:04Z",
+  "data_criacao": "2026-10-29T11:34:04.083158-03:00"
+}

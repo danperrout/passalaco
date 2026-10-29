@@ -1,0 +1,34 @@
+{
+  "id": 1066,
+  "nome_original": "Palhacinha",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "laranja",
+      "branco",
+      "vermelho",
+      "verde",
+      "amarelo"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "chapéu",
+      "peruca"
+    ],
+    "material_visual": "cetim ou poliéster brilhante",
+    "estilo_corte": "amplo e volumoso com gola rufada",
+    "acessorios_visiveis": [
+      "chapéu pequeno",
+      "peruca vermelha"
+    ],
+    "tematica_detalhada": "Fantasia de palhaço colorida e festiva."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/1066.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.89,
+  "data_analise": "2026-10-29T14:35:19Z",
+  "data_criacao": "2026-10-29T11:35:19.814970-03:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 5955,
+  "nome_original": "Minions",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "amarelo",
+      "azul"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "macacão",
+      "touca"
+    ],
+    "material_visual": "tecido sintético",
+    "estilo_corte": "ajustado",
+    "acessorios_visiveis": [
+      "óculos de proteção cenográficos"
+    ],
+    "tematica_detalhada": "Fantasia do personagem Minion do filme Meu Malvado Favorito."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/5955.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.85,
+  "data_analise": "2026-10-29T14:34:42Z",
+  "data_criacao": "2026-10-29T11:34:42.042781-03:00"
+}

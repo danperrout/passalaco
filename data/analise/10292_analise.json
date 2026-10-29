@@ -1,0 +1,29 @@
+{
+  "id": 10292,
+  "nome_original": "Junina",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Juninas",
+  "analise_visual": {
+    "cores_predominantes": [
+      "verde",
+      "branco",
+      "rosa"
+    ],
+    "pecas_inclusas": [
+      "vestido curto"
+    ],
+    "material_visual": "tecido xadrez e cetim com acabamentos brilhantes",
+    "estilo_corte": "estilo boneca com bustiê, mangas bufantes e saia volumosa em camadas",
+    "acessorios_visiveis": [
+      "laços de cabelo"
+    ],
+    "tematica_detalhada": "Fantasia inspirada na personagem Princesa Tiana ou temática de boneca estilizada."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10292.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.9,
+  "data_analise": "2026-10-29T14:33:45Z",
+  "data_criacao": "2026-10-29T11:33:45.309020-03:00"
+}

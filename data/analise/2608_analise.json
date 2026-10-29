@@ -1,0 +1,29 @@
+{
+  "id": 2608,
+  "nome_original": "Paleto",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "marrom",
+      "bege",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "paletó"
+    ],
+    "material_visual": "tecido xadrez",
+    "estilo_corte": "corte reto, clássico",
+    "acessorios_visiveis": [
+      "flor amarela artificial na lapela"
+    ],
+    "tematica_detalhada": "Traje casual masculino com detalhe floral decorativo."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/2608.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.78,
+  "data_analise": "2026-10-29T14:35:17Z",
+  "data_criacao": "2026-10-29T11:35:17.695462-03:00"
+}

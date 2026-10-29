@@ -1,0 +1,30 @@
+{
+  "id": 6721,
+  "nome_original": "Mamae Noel Luxo",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "vermelho",
+      "branco",
+      "preto"
+    ],
+    "pecas_inclusas": [
+      "vestido",
+      "gorro"
+    ],
+    "material_visual": "veludo com acabamentos em pele sintética",
+    "estilo_corte": "vestido curto com saia evasê e gola redonda",
+    "acessorios_visiveis": [
+      "cinto preto"
+    ],
+    "tematica_detalhada": "Versão feminina e estilizada da roupa do Papai Noel."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/6721.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.84,
+  "data_analise": "2026-10-29T14:34:27Z",
+  "data_criacao": "2026-10-29T11:34:27.596223-03:00"
+}

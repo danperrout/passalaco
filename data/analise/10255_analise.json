@@ -1,0 +1,33 @@
+{
+  "id": 10255,
+  "nome_original": "Paquita Confecção",
+  "sexo": "Feminina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul",
+      "dourado",
+      "branco"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "top",
+      "calcinha/short"
+    ],
+    "material_visual": "cetim e lantejoulas",
+    "estilo_corte": "estilo militar/marching band",
+    "acessorios_visiveis": [
+      "penas",
+      "franjas de lantejoulas",
+      "cordões dourados"
+    ],
+    "tematica_detalhada": "Fantasia de mestre de cerimônias ou banda marcial estilizada."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10255.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.86,
+  "data_analise": "2026-10-29T14:35:30Z",
+  "data_criacao": "2026-10-29T11:35:30.097923-03:00"
+}

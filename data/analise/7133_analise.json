@@ -1,0 +1,35 @@
+{
+  "id": 7133,
+  "nome_original": "Soldadinho de Chumbo",
+  "sexo": "Masculina",
+  "tipo": "Infantil",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "azul marinho",
+      "vermelho",
+      "branco",
+      "dourado"
+    ],
+    "pecas_inclusas": [
+      "chapéu",
+      "casaco",
+      "calças",
+      "camisa"
+    ],
+    "material_visual": "tecido sintético com adornos metálicos",
+    "estilo_corte": "militar clássico",
+    "acessorios_visiveis": [
+      "botões dourados",
+      "galões decorativos",
+      "tira de queixo"
+    ],
+    "tematica_detalhada": "Fantasia de soldado ou guarda imperial de estilo napoleônico."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/7133.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 0.93,
+  "data_analise": "2026-10-29T14:36:19Z",
+  "data_criacao": "2026-10-29T11:36:19.079206-03:00"
+}

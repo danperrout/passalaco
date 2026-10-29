@@ -1,0 +1,30 @@
+{
+  "id": 10362,
+  "nome_original": "Maui",
+  "sexo": "Masculina",
+  "tipo": "Adulta",
+  "categoriaNome": "Outras",
+  "analise_visual": {
+    "cores_predominantes": [
+      "terracota",
+      "preto",
+      "bege"
+    ],
+    "pecas_inclusas": [
+      "camiseta",
+      "calça"
+    ],
+    "material_visual": "tecido sintético ou algodão",
+    "estilo_corte": "camiseta regular e calça de corte reto",
+    "acessorios_visiveis": [
+      "colar dourado"
+    ],
+    "tematica_detalhada": "Fantasia inspirada em cultura tribal ou étnica com estampas ornamentais."
+  },
+  "imgUrl": "https://www.passalaco.com.br/img/10362.jpg",
+  "modelo": "gemma4:31b-cloud",
+  "provider": "ollama",
+  "tempo_analise_sec": 1.09,
+  "data_analise": "2026-10-29T14:34:35Z",
+  "data_criacao": "2026-10-29T11:34:35.172815-03:00"
+}
