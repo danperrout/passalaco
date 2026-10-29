@@ -1,7 +1,9 @@
 """Junta as análises visuais de data/analise/*_analise.json em output/analises.json.
 
 O site carrega esse arquivo único (em vez de milhares de arquivos) para mostrar
-descrição, cores e itens de cada fantasia e para ampliar a busca.
+descrição, cores e itens de cada fantasia e para ampliar a busca. Só entram as
+fantasias que estão em output/fantasias.json; as análises das que saíram do catálogo
+ficam guardadas em data/analise/ para quando voltarem.
 
 Uso: python scripts/build_analises.py
 """
@@ -13,6 +15,7 @@ import os
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SOURCE = os.path.join(ROOT, "data", "analise", "*_analise.json")
 TARGET = os.path.join(ROOT, "output", "analises.json")
+CATALOG = os.path.join(ROOT, "output", "fantasias.json")
 
 
 def clean_list(values, lower=False):
@@ -35,6 +38,8 @@ def clean_text(value):
 
 
 def main():
+    with open(CATALOG, encoding="utf-8") as f:
+        ids = {str(item["_id"]) for item in json.load(f)}
     analises = {}
     for path in sorted(glob.glob(SOURCE)):
         with open(path, encoding="utf-8") as f:
@@ -49,7 +54,7 @@ def main():
             "e": clean_text(visual.get("estilo_corte")),
         }
         entry = {k: v for k, v in entry.items() if v}
-        if entry:
+        if entry and str(data["id"]) in ids:
             analises[str(data["id"])] = entry
 
     with open(TARGET, "w", encoding="utf-8") as f:

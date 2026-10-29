@@ -3,3 +3,4 @@
 .serena/
 DESIGN/
 .playwright-mcp/
+__pycache__/

@@ -42,21 +42,45 @@ assets/styles.css       # Estilos (CSS puro, sem dependências)
 output/fantasias.json   # Fonte de dados principal
 output/analises.json    # Análise visual de cada fantasia (gerado, ver abaixo)
 assets/js/db.js         # Lista de nomes e categorias (usado na geração do JSON)
+scripts/atualizar.py       # Atualiza tudo: os quatro scripts abaixo, em ordem (ver "Atualizar o catálogo")
+scripts/extrair.py         # Baixa o catálogo da loja e grava output/*.json
+scripts/analisar.py        # Gera data/analise/<id>_analise.json das fantasias sem análise (Ollama)
 scripts/build_analises.py  # Junta data/analise/*_analise.json em output/analises.json
 scripts/build_site.py      # Aplica loja.json e gera f/<código>-<nome>/ e sitemap.xml
+scripts/test_extrair.py    # Testes do extrair.py
 f/<código>-<nome>/      # Página fixa de cada fantasia (gerada, ver abaixo)
 404.html                # Leva qualquer /f/<código>…/ para a fantasia
 ```
 
+## Atualizar o catálogo
+
+Um comando baixa o catálogo da loja, analisa as fantasias novas e regera o site:
+
+```bash
+python scripts/atualizar.py
+```
+
+Ele roda, em ordem:
+
+1. `scripts/extrair.py`: baixa o `db.js` da loja (endereço em `catalogo`, no `loja.json`) e grava
+   `output/fantasias.json`, `categorias.json`, `sexos.json` e `tipos.json`. Mantém o `criadoEm` de cada
+   fantasia, marca as novas e alteradas com `atualizadoEm` e mostra as novas, alteradas e removidas.
+2. `scripts/analisar.py`: gera a análise visual das fantasias que ainda não têm uma (ver "Análise visual").
+3. `scripts/build_analises.py` e `scripts/build_site.py`.
+
+Não faz commit: confira o `git diff` e depois faça commit e push. O GitHub Pages publica em alguns minutos.
+Cada script também roda sozinho. Só Python 3, sem dependências.
+
 ## Análise visual
 
 Cada fantasia pode ter uma descrição gerada por IA a partir da foto (cores, peças, material,
-modelagem e tema), em `data/analise/<id>_analise.json`. Depois de atualizar essas análises, rode:
+modelagem e tema), em `data/analise/<id>_analise.json`. O `scripts/analisar.py` gera as que faltam com o
+modelo `gemma4:31b-cloud` (constante `MODELO` no script), pelo [Ollama](https://ollama.com) rodando no
+computador e logado na conta (`ollama signin`). Se o Ollama não estiver rodando, ele avisa e pula: as
+que faltarem ficam para a próxima vez. Fantasias sem foto no site da loja ficam sem análise.
 
-```bash
-python scripts/build_analises.py
-```
-
+O `scripts/build_analises.py` junta as análises das fantasias que estão no catálogo em
+`output/analises.json`. As das que saíram ficam guardadas em `data/analise/` para quando voltarem.
 O site carrega `output/analises.json` em paralelo com o catálogo e funciona normalmente sem ele.
 
 ## Endereço de cada fantasia
@@ -111,6 +135,7 @@ O site serve para qualquer loja de aluguel de fantasias. Tudo o que é da loja f
 | `descricao` | Descrição do site para o Google e para a prévia do link da página inicial |
 | `endereco` | Endereço público do site, terminado em `/` (usado nos links compartilhados e no sitemap) |
 | `logo` | Endereço da imagem do logo, largura e altura originais |
+| `catalogo` | `url` do `db.js` com o catálogo da loja e `imagens`, endereço das fotos com `{id}` no lugar do código |
 | `siteDaLoja` | Link do site institucional no rodapé (deixe `url` vazio para esconder) |
 | `whatsapp` | `numero` com DDI e DDD só com dígitos (ex.: `5531988416629`), `exibicao` para o rodapé e `mensagem` com `{codigo}`, `{nome}` e `{link}`. Sem número, o botão some |
 | `contato` | `endereco` da loja física (também usado no "Como chegar" do Google Maps), `horario` (lista de `dias` e `horas`), `telefones`, `email` e `redes` (nome → link, ex.: Instagram, Facebook). Aparece no rodapé e na página "Nossa loja" |
@@ -123,7 +148,8 @@ Para montar uma loja nova:
 
 1. Troque `loja.json` e o ícone `assets/favicon.png`.
 2. Coloque o catálogo em `output/fantasias.json` (campos `_id`, `nome`, `imgUrl`, `categoriaNome`,
-   `sexo`, `tipo`) e, se houver, as análises das fotos (ver "Análise visual").
+   `sexo`, `tipo`) e, se houver, as análises das fotos (ver "Análise visual"). Se a loja usa o mesmo
+   sistema de `db.js` da Passa Laço, basta preencher `catalogo` e rodar `python scripts/atualizar.py`.
 3. Rode `python scripts/build_site.py`. Ele aplica `loja.json` no `index.html`, no `sobre.html` e no `404.html`
    (trechos entre `<!-- loja:... -->` e `<!-- /loja:... -->`, que não devem ser editados à mão)
    e gera as páginas das fantasias e o `sitemap.xml`.
